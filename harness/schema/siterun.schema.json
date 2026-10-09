@@ -1,0 +1,726 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "siterun.schema.json",
+  "title": "SiteRun (spec v1)",
+  "description": "Output of one agent run on one manufacturer site. The answer key (gold) uses the same format plus gold_meta and a complete family_index.",
+  "type": "object",
+  "required": [
+    "schema_version",
+    "site",
+    "input_url",
+    "run_at",
+    "agent",
+    "families"
+  ],
+  "properties": {
+    "schema_version": {
+      "const": "1.0"
+    },
+    "site": {
+      "type": "string"
+    },
+    "input_url": {
+      "type": "string"
+    },
+    "run_at": {
+      "type": "string",
+      "description": "ISO 8601 timestamp"
+    },
+    "agent": {
+      "type": "object",
+      "required": [
+        "name",
+        "version"
+      ],
+      "properties": {
+        "name": {
+          "type": "string"
+        },
+        "version": {
+          "type": "string"
+        }
+      }
+    },
+    "site_profile": {
+      "type": "object",
+      "description": "Free-form: platform, locale scheme, sitemaps, feeds, fetch mode."
+    },
+    "family_index": {
+      "type": "array",
+      "description": "Every product family on the site (NA English). Required in gold; optional in predictions.",
+      "items": {
+        "type": "object",
+        "required": [
+          "url"
+        ],
+        "properties": {
+          "url": {
+            "type": "string"
+          },
+          "aliases": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            },
+            "description": "Other URLs that identify the same family (variant/SKU pages, alternate paths)."
+          },
+          "name": {
+            "type": "string"
+          },
+          "series_code": {
+            "type": [
+              "string",
+              "null"
+            ]
+          }
+        }
+      }
+    },
+    "families": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/family"
+      }
+    },
+    "coverage": {
+      "type": "object",
+      "properties": {
+        "families": {
+          "type": "integer"
+        },
+        "sitemap_families": {
+          "type": [
+            "integer",
+            "null"
+          ]
+        },
+        "pct_with_spec_sheet": {
+          "type": "number"
+        },
+        "pct_with_image": {
+          "type": "number"
+        },
+        "pct_with_cad": {
+          "type": "number"
+        },
+        "pct_with_price": {
+          "type": "number"
+        },
+        "pct_with_specs": {
+          "type": "number"
+        }
+      }
+    },
+    "unlinked": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "url"
+        ],
+        "properties": {
+          "url": {
+            "type": "string"
+          },
+          "kind": {
+            "type": "string"
+          },
+          "found_on": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "flags": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "gold_meta": {
+      "type": "object",
+      "description": "Only in answer keys.",
+      "properties": {
+        "labeller": {
+          "type": "string"
+        },
+        "labelled_at": {
+          "type": "string"
+        },
+        "sample_seed": {
+          "type": "integer"
+        },
+        "family_index_method": {
+          "type": "string"
+        },
+        "notes": {
+          "type": "string"
+        }
+      }
+    }
+  },
+  "$defs": {
+    "source": {
+      "type": "object",
+      "required": [
+        "url",
+        "type"
+      ],
+      "properties": {
+        "url": {
+          "type": "string"
+        },
+        "type": {
+          "enum": [
+            "page",
+            "pdf"
+          ]
+        },
+        "page": {
+          "type": [
+            "integer",
+            "null"
+          ],
+          "description": "PDF page number (1-based)"
+        },
+        "quote": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "description": "Verbatim supporting text"
+        },
+        "section": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "description": "Where on the page/PDF, e.g. 'Specifications tab', 'Table 2'"
+        },
+        "variant_sku": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "description": "Set when the value was only visible with this variant selected"
+        },
+        "snapshot_sha256": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "description": "sha256 of the PDF file or page HTML; extracted text is saved as evidence/text/<sha256>.txt"
+        },
+        "retrieved_at": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
+      }
+    },
+    "spec_value": {
+      "type": "object",
+      "required": [
+        "value",
+        "sources",
+        "display_source",
+        "cross_check"
+      ],
+      "description": "value = the displayed value, chosen by precedence: spec_sheet/submittal PDF > web page > other PDF. Competing values go in alt_values.",
+      "properties": {
+        "value": {},
+        "unit": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "raw_text": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "conditions": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "description": "e.g. 'WOG', 'at 100F'"
+        },
+        "display_source": {
+          "enum": [
+            "pdf",
+            "page"
+          ]
+        },
+        "cross_check": {
+          "enum": [
+            "agree",
+            "conflict",
+            "pdf_only",
+            "page_only",
+            "not_checked"
+          ]
+        },
+        "sources": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "$ref": "#/$defs/source"
+          },
+          "description": "Every source that states the displayed value (both page and PDF when they agree)."
+        },
+        "alt_values": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/alt_value"
+          },
+          "description": "Disagreeing values (required when cross_check=conflict)."
+        }
+      }
+    },
+    "specs": {
+      "type": "object",
+      "description": "Scored fields only. Value shapes: sets = array of strings; size_range = {min,max} strings like '1/4' or '2-1/2'; pressure_rating = number (unit psi|bar|kPa); temperature_range = {min,max} numbers (unit F|C); text = string; size_unit = NPS|DN|in|mm.",
+      "propertyNames": {
+        "enum": [
+          "size_range",
+          "sizes_available",
+          "size_unit",
+          "material_body",
+          "material_trim",
+          "material_seat",
+          "material_seals",
+          "end_connections",
+          "pressure_rating",
+          "temperature_range",
+          "certifications",
+          "standards",
+          "applications"
+        ]
+      },
+      "additionalProperties": {
+        "$ref": "#/$defs/spec_value"
+      }
+    },
+    "price": {
+      "type": "object",
+      "required": [
+        "availability",
+        "source"
+      ],
+      "properties": {
+        "amount": {
+          "type": [
+            "number",
+            "null"
+          ]
+        },
+        "currency": {
+          "enum": [
+            "USD",
+            "CAD",
+            null
+          ]
+        },
+        "price_type": {
+          "enum": [
+            "list",
+            "sale",
+            "msrp",
+            "net",
+            null
+          ]
+        },
+        "unit_of_measure": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "pack_qty": {
+          "type": [
+            "integer",
+            "null"
+          ]
+        },
+        "min_order_qty": {
+          "type": [
+            "integer",
+            "null"
+          ]
+        },
+        "availability": {
+          "enum": [
+            "price_shown",
+            "login_required",
+            "request_quote",
+            "not_published"
+          ]
+        },
+        "effective_date": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "price_list_id": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "notes": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "source": {
+          "$ref": "#/$defs/source"
+        }
+      }
+    },
+    "variant": {
+      "type": "object",
+      "required": [
+        "sku"
+      ],
+      "properties": {
+        "sku": {
+          "type": "string"
+        },
+        "size": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "page_url": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "spec_overrides": {
+          "$ref": "#/$defs/specs"
+        },
+        "prices": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/price"
+          }
+        }
+      }
+    },
+    "document": {
+      "type": "object",
+      "required": [
+        "url",
+        "doc_type",
+        "lang"
+      ],
+      "properties": {
+        "url": {
+          "type": "string"
+        },
+        "doc_type": {
+          "enum": [
+            "spec_sheet",
+            "submittal",
+            "price_list",
+            "iom_manual",
+            "brochure",
+            "catalog",
+            "certificate",
+            "warranty",
+            "other_doc"
+          ]
+        },
+        "priority": {
+          "enum": [
+            "primary",
+            "secondary"
+          ]
+        },
+        "lang": {
+          "type": "string",
+          "description": "BCP-47-ish; bilingual as 'en+fr'. English must be first."
+        },
+        "title": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "revision_date": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "sha256": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "bytes": {
+          "type": [
+            "integer",
+            "null"
+          ]
+        },
+        "http_status": {
+          "type": [
+            "integer",
+            "null"
+          ]
+        },
+        "mime_verified": {
+          "type": [
+            "boolean",
+            "null"
+          ],
+          "description": "True if file type was confirmed from magic bytes"
+        },
+        "found_on": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "variant_skus": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "description": "Empty = applies to whole family"
+        }
+      }
+    },
+    "cad": {
+      "type": "object",
+      "required": [
+        "url",
+        "cad_type"
+      ],
+      "properties": {
+        "url": {
+          "type": "string"
+        },
+        "cad_type": {
+          "enum": [
+            "cad_file",
+            "bim",
+            "cad_viewer"
+          ]
+        },
+        "formats": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "description": "e.g. step, dwg, dxf, iges, rfa, rvt"
+        },
+        "gated": {
+          "type": [
+            "boolean",
+            "null"
+          ]
+        },
+        "found_on": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "variant_skus": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "image": {
+      "type": "object",
+      "required": [
+        "url",
+        "image_type"
+      ],
+      "properties": {
+        "url": {
+          "type": "string",
+          "description": "Highest-quality version only"
+        },
+        "image_type": {
+          "enum": [
+            "product_photo",
+            "dimensional_drawing",
+            "other"
+          ]
+        },
+        "width": {
+          "type": [
+            "integer",
+            "null"
+          ]
+        },
+        "height": {
+          "type": [
+            "integer",
+            "null"
+          ]
+        },
+        "phash": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "description": "64-bit perceptual hash as 16 hex chars (imagehash.phash)"
+        },
+        "found_on": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
+      }
+    },
+    "family": {
+      "type": "object",
+      "required": [
+        "family_id",
+        "name",
+        "canonical_url"
+      ],
+      "properties": {
+        "family_id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "series_code": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "product_type": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "canonical_url": {
+          "type": "string"
+        },
+        "alternates": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": [
+              "url"
+            ],
+            "properties": {
+              "url": {
+                "type": "string"
+              },
+              "locale": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              }
+            }
+          }
+        },
+        "market_flag": {
+          "enum": [
+            "na",
+            "non_na"
+          ]
+        },
+        "specs": {
+          "$ref": "#/$defs/specs"
+        },
+        "additional_specs": {
+          "type": "object",
+          "description": "Unscored free-form specs"
+        },
+        "variants": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/variant"
+          }
+        },
+        "documents": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/document"
+          }
+        },
+        "cad": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/cad"
+          }
+        },
+        "images": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/image"
+          }
+        },
+        "labelling_notes": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "description": "Gold only"
+        },
+        "spec_source_summary": {
+          "enum": [
+            "pdf",
+            "page",
+            "both",
+            "none"
+          ]
+        }
+      }
+    },
+    "alt_value": {
+      "type": "object",
+      "required": [
+        "value",
+        "sources"
+      ],
+      "properties": {
+        "value": {},
+        "unit": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "raw_text": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "sources": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "$ref": "#/$defs/source"
+          }
+        }
+      }
+    }
+  }
+}

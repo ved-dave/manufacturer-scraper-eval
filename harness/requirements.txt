@@ -1,0 +1,3 @@
+jsonschema>=4.18
+# used by the labeller when building gold (not by the harness itself):
+# imagehash, Pillow, pypdf

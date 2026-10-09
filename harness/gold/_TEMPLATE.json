@@ -1,0 +1,423 @@
+{
+  "schema_version": "1.0",
+  "site": "SITE_NAME",
+  "input_url": "https://www.example.com/",
+  "run_at": "2026-10-09T00:00:00Z",
+  "agent": {
+    "name": "gold",
+    "version": "1"
+  },
+  "gold_meta": {
+    "labeller": "devin",
+    "labelled_at": "2026-10-09",
+    "sample_seed": 42,
+    "family_index_method": "sitemap.xml product URLs + category-page crawl, reconciled; N in sitemap, M found via crawl, K in both",
+    "notes": ""
+  },
+  "site_profile": {
+    "platform": "e.g. WordPress / Drupal / Sitefinity / BigCommerce / custom",
+    "locale_scheme": "e.g. /en/ prefix, hreflang, none",
+    "sitemaps": [],
+    "fetch_mode": "http | browser",
+    "blocked": false
+  },
+  "family_index": [
+    {
+      "url": "https://www.example.com/products/series-100/",
+      "name": "Series 100 Ball Valve",
+      "series_code": "100",
+      "aliases": [
+        "https://www.example.com/products/100-050/",
+        "https://www.example.com/products/100-075/"
+      ]
+    }
+  ],
+  "families": [
+    {
+      "family_id": "series-100",
+      "name": "Series 100 Ball Valve",
+      "series_code": "100",
+      "product_type": "ball valve",
+      "canonical_url": "https://www.example.com/products/series-100/",
+      "alternates": [
+        {
+          "url": "https://www.example.com/fr/produits/series-100/",
+          "locale": "fr"
+        }
+      ],
+      "market_flag": "na",
+      "specs": {
+        "size_range": {
+          "value": {
+            "min": "1/2",
+            "max": "2"
+          },
+          "unit": "in",
+          "raw_text": "Sizes: 1/2\" - 2\"",
+          "display_source": "pdf",
+          "cross_check": "agree",
+          "sources": [
+            {
+              "url": "https://www.example.com/docs/100-spec.pdf",
+              "type": "pdf",
+              "page": 1,
+              "section": null,
+              "quote": "Sizes: 1/2\" - 2\"",
+              "snapshot_sha256": "1111111111111111111111111111111111111111111111111111111111111111",
+              "retrieved_at": "2026-10-09T15:00:00Z"
+            },
+            {
+              "url": "https://www.example.com/products/series-100/",
+              "type": "page",
+              "page": null,
+              "section": "Specifications tab",
+              "variant_sku": null,
+              "quote": "Sizes 1/2\" to 2\"",
+              "snapshot_sha256": "3333333333333333333333333333333333333333333333333333333333333333",
+              "retrieved_at": "2026-10-09T15:00:00Z"
+            }
+          ]
+        },
+        "sizes_available": {
+          "value": [
+            "1/2",
+            "3/4",
+            "1",
+            "1-1/4",
+            "1-1/2",
+            "2"
+          ],
+          "unit": "in",
+          "display_source": "pdf",
+          "cross_check": "pdf_only",
+          "sources": [
+            {
+              "url": "https://www.example.com/docs/100-spec.pdf",
+              "type": "pdf",
+              "page": 1,
+              "section": "Dimensions table",
+              "quote": "1/2, 3/4, 1, 1-1/4, 1-1/2, 2",
+              "snapshot_sha256": "1111111111111111111111111111111111111111111111111111111111111111",
+              "retrieved_at": "2026-10-09T15:00:00Z"
+            }
+          ]
+        },
+        "size_unit": {
+          "value": "NPS",
+          "display_source": "pdf",
+          "cross_check": "pdf_only",
+          "sources": [
+            {
+              "url": "https://www.example.com/docs/100-spec.pdf",
+              "type": "pdf",
+              "page": 1,
+              "section": "Dimensions table",
+              "quote": "Size (NPS)",
+              "snapshot_sha256": "1111111111111111111111111111111111111111111111111111111111111111",
+              "retrieved_at": "2026-10-09T15:00:00Z"
+            }
+          ]
+        },
+        "material_body": {
+          "value": "lead-free brass",
+          "raw_text": "Body: Lead Free Brass (C27453)",
+          "display_source": "pdf",
+          "cross_check": "agree",
+          "sources": [
+            {
+              "url": "https://www.example.com/docs/100-spec.pdf",
+              "type": "pdf",
+              "page": 1,
+              "section": "Materials",
+              "quote": "Body: Lead Free Brass (C27453)",
+              "snapshot_sha256": "1111111111111111111111111111111111111111111111111111111111111111",
+              "retrieved_at": "2026-10-09T15:00:00Z"
+            },
+            {
+              "url": "https://www.example.com/products/series-100/",
+              "type": "page",
+              "page": null,
+              "section": "Specifications tab",
+              "variant_sku": null,
+              "quote": "Body Material: Lead Free Brass",
+              "snapshot_sha256": "3333333333333333333333333333333333333333333333333333333333333333",
+              "retrieved_at": "2026-10-09T15:00:00Z"
+            }
+          ]
+        },
+        "end_connections": {
+          "value": [
+            "NPT",
+            "solder"
+          ],
+          "display_source": "page",
+          "cross_check": "page_only",
+          "sources": [
+            {
+              "url": "https://www.example.com/products/series-100/",
+              "type": "page",
+              "page": null,
+              "section": "Specifications tab",
+              "variant_sku": null,
+              "quote": "Connections: NPT, Solder",
+              "snapshot_sha256": "3333333333333333333333333333333333333333333333333333333333333333",
+              "retrieved_at": "2026-10-09T15:00:00Z"
+            }
+          ]
+        },
+        "pressure_rating": {
+          "value": 600,
+          "unit": "psi",
+          "conditions": "WOG",
+          "raw_text": "600 WOG",
+          "display_source": "pdf",
+          "cross_check": "conflict",
+          "sources": [
+            {
+              "url": "https://www.example.com/docs/100-spec.pdf",
+              "type": "pdf",
+              "page": 1,
+              "section": null,
+              "quote": "Pressure Rating: 600 WOG",
+              "snapshot_sha256": "1111111111111111111111111111111111111111111111111111111111111111",
+              "retrieved_at": "2026-10-09T15:00:00Z"
+            }
+          ],
+          "alt_values": [
+            {
+              "value": 400,
+              "unit": "psi",
+              "raw_text": "400 WOG",
+              "sources": [
+                {
+                  "url": "https://www.example.com/products/series-100/",
+                  "type": "page",
+                  "page": null,
+                  "section": "Specifications tab",
+                  "variant_sku": null,
+                  "quote": "Max Pressure: 400 WOG",
+                  "snapshot_sha256": "3333333333333333333333333333333333333333333333333333333333333333",
+                  "retrieved_at": "2026-10-09T15:00:00Z"
+                }
+              ]
+            }
+          ]
+        },
+        "temperature_range": {
+          "value": {
+            "min": -20,
+            "max": 400
+          },
+          "unit": "F",
+          "display_source": "pdf",
+          "cross_check": "pdf_only",
+          "sources": [
+            {
+              "url": "https://www.example.com/docs/100-spec.pdf",
+              "type": "pdf",
+              "page": 1,
+              "section": null,
+              "quote": "Temperature: -20\u00b0F to 400\u00b0F",
+              "snapshot_sha256": "1111111111111111111111111111111111111111111111111111111111111111",
+              "retrieved_at": "2026-10-09T15:00:00Z"
+            }
+          ]
+        },
+        "certifications": {
+          "value": [
+            "NSF/ANSI 61",
+            "NSF/ANSI 372",
+            "CSA"
+          ],
+          "display_source": "pdf",
+          "cross_check": "pdf_only",
+          "sources": [
+            {
+              "url": "https://www.example.com/docs/100-spec.pdf",
+              "type": "pdf",
+              "page": 2,
+              "section": "Approvals",
+              "quote": "Certified to NSF/ANSI 61 and NSF/ANSI 372; CSA listed",
+              "snapshot_sha256": "1111111111111111111111111111111111111111111111111111111111111111",
+              "retrieved_at": "2026-10-09T15:00:00Z"
+            }
+          ]
+        },
+        "standards": {
+          "value": [
+            "MSS SP-110"
+          ],
+          "display_source": "pdf",
+          "cross_check": "pdf_only",
+          "sources": [
+            {
+              "url": "https://www.example.com/docs/100-spec.pdf",
+              "type": "pdf",
+              "page": 2,
+              "section": "Approvals",
+              "quote": "Conforms to MSS SP-110",
+              "snapshot_sha256": "1111111111111111111111111111111111111111111111111111111111111111",
+              "retrieved_at": "2026-10-09T15:00:00Z"
+            }
+          ]
+        },
+        "applications": {
+          "value": [
+            "potable water",
+            "HVAC hydronic"
+          ],
+          "display_source": "page",
+          "cross_check": "page_only",
+          "sources": [
+            {
+              "url": "https://www.example.com/products/series-100/",
+              "type": "page",
+              "page": null,
+              "section": "Overview",
+              "variant_sku": null,
+              "quote": "Ideal for potable water and HVAC hydronic systems",
+              "snapshot_sha256": "3333333333333333333333333333333333333333333333333333333333333333",
+              "retrieved_at": "2026-10-09T15:00:00Z"
+            }
+          ]
+        }
+      },
+      "additional_specs": {},
+      "variants": [
+        {
+          "sku": "100-050",
+          "size": "1/2",
+          "page_url": "https://www.example.com/products/100-050/",
+          "prices": [
+            {
+              "amount": 42.18,
+              "currency": "USD",
+              "price_type": "list",
+              "unit_of_measure": "each",
+              "pack_qty": 1,
+              "min_order_qty": null,
+              "availability": "price_shown",
+              "effective_date": "2026-01-01",
+              "price_list_id": "PL-2026-01",
+              "notes": "subject to distributor multiplier",
+              "source": {
+                "url": "https://www.example.com/docs/price-list-2026.pdf",
+                "type": "pdf",
+                "page": 14,
+                "section": "Series 100",
+                "quote": "100-050 1/2\" $42.18",
+                "snapshot_sha256": "4444444444444444444444444444444444444444444444444444444444444444",
+                "retrieved_at": "2026-10-09T15:00:00Z"
+              }
+            }
+          ]
+        },
+        {
+          "sku": "100-075",
+          "size": "3/4",
+          "page_url": null,
+          "prices": [
+            {
+              "amount": null,
+              "currency": null,
+              "price_type": null,
+              "availability": "not_published",
+              "source": {
+                "url": "https://www.example.com/products/series-100/",
+                "type": "page",
+                "page": null,
+                "section": "Where to buy",
+                "quote": "Contact your local distributor for pricing",
+                "snapshot_sha256": "3333333333333333333333333333333333333333333333333333333333333333",
+                "retrieved_at": "2026-10-09T15:00:00Z"
+              }
+            }
+          ]
+        }
+      ],
+      "documents": [
+        {
+          "url": "https://www.example.com/docs/100-spec.pdf",
+          "doc_type": "spec_sheet",
+          "priority": "primary",
+          "lang": "en",
+          "title": "Series 100 Specification Sheet",
+          "revision_date": "2025-03",
+          "sha256": "1111111111111111111111111111111111111111111111111111111111111111",
+          "bytes": 123456,
+          "http_status": 200,
+          "mime_verified": true,
+          "found_on": "https://www.example.com/products/series-100/",
+          "variant_skus": []
+        },
+        {
+          "url": "https://www.example.com/docs/100-iom.pdf",
+          "doc_type": "iom_manual",
+          "priority": "secondary",
+          "lang": "en+fr",
+          "title": "Series 100 IOM",
+          "revision_date": null,
+          "sha256": "2222222222222222222222222222222222222222222222222222222222222222",
+          "bytes": 234567,
+          "http_status": 200,
+          "mime_verified": true,
+          "found_on": "https://www.example.com/products/series-100/",
+          "variant_skus": []
+        },
+        {
+          "url": "https://www.example.com/docs/price-list-2026.pdf",
+          "doc_type": "price_list",
+          "priority": "primary",
+          "lang": "en",
+          "title": "2026 List Price Book",
+          "revision_date": "2026-01",
+          "sha256": "4444444444444444444444444444444444444444444444444444444444444444",
+          "bytes": 345678,
+          "http_status": 200,
+          "mime_verified": true,
+          "found_on": "https://www.example.com/products/series-100/",
+          "variant_skus": []
+        }
+      ],
+      "cad": [
+        {
+          "url": "https://www.example.com/docs/100-step.zip",
+          "cad_type": "cad_file",
+          "formats": [
+            "step"
+          ],
+          "gated": false,
+          "found_on": "https://www.example.com/products/series-100/",
+          "variant_skus": []
+        },
+        {
+          "url": "https://example.partcommunity.com/3d-cad-models/?info=example/100",
+          "cad_type": "cad_viewer",
+          "formats": [],
+          "gated": true,
+          "found_on": "https://www.example.com/products/series-100/",
+          "variant_skus": []
+        }
+      ],
+      "images": [
+        {
+          "url": "https://www.example.com/images/series-100.jpg",
+          "image_type": "product_photo",
+          "width": 1200,
+          "height": 900,
+          "phash": "c3d1e0f0a0b0c0d0",
+          "found_on": "https://www.example.com/products/series-100/"
+        }
+      ],
+      "labelling_notes": "pressure_rating: page says 400 WOG, spec sheet (rev 2025-03) says 600 WOG -> spec sheet displayed, conflict flagged. Also log in gold/<site>.ambiguities.md",
+      "spec_source_summary": "both"
+    }
+  ],
+  "coverage": {
+    "families": 1,
+    "sitemap_families": null
+  },
+  "unlinked": [],
+  "flags": [],
+  "_comment": "sha256 values are placeholders: 111.. = spec sheet PDF, 222.. = IOM PDF, 333.. = family page HTML, 444.. = price list PDF. Extracted text for each lives in gold/<site>.evidence/text/<sha256>.txt and every quote must appear in it."
+}

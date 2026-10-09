@@ -1,0 +1,21 @@
+{
+  "_note": "allowed_hosts were seeded from the existing agent's output and must be confirmed by the labeller. Hosts match exactly or as a parent domain (e.g. 'bray.com' allows 'www.bray.com').",
+  "global_cad_viewer_hosts": [
+    "partcommunity.com",
+    "cadenas.de",
+    "traceparts.com",
+    "caddetails.com",
+    "bimobject.com",
+    "arcat.com"
+  ],
+  "sites": {
+    "bray":        {"split": "train",     "input_url": "https://www.bray.com/",           "allowed_hosts": ["www.bray.com", "braycdn.azureedge.net"]},
+    "crane":       {"split": "train",     "input_url": "https://www.cranefs.com/",        "allowed_hosts": ["www.cranefs.com"]},
+    "dixon":       {"split": "dev",       "input_url": "https://dixonvalve.com/",         "allowed_hosts": ["dixonvalve.com"]},
+    "milwaukee":   {"split": "test",      "input_url": "https://www.milwaukeevalve.com/", "allowed_hosts": ["milwaukeevalve.com"]},
+    "sioux-chief": {"split": "test",      "input_url": "https://www.siouxchief.com/",     "allowed_hosts": ["www.siouxchief.com", "cdn.siouxchief.com"]},
+    "apollo":      {"split": "challenge", "input_url": "https://aalberts-ips.us/",        "allowed_hosts": ["aalberts-ips.us", "aalberts.compano.com"]},
+    "caleffi":     {"split": "challenge", "input_url": "https://www.caleffi.com/",        "allowed_hosts": ["www.caleffi.com"]},
+    "cimberio":    {"split": "challenge", "input_url": "https://cimberiovalve.us/",       "allowed_hosts": ["cimberiovalve.us", "cdn11.bigcommerce.com"]}
+  }
+}
