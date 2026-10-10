@@ -32,7 +32,11 @@ This spec defines what is "correct" for both the existing agent and the new agen
 Language is verified from content (page/PDF text), not only the URL.
 
 ## 3. Unit of record: product family
-- One record per product family (series). Variants (SKU / size / configuration) are nested.
+- One record per product family (series). Variants are nested.
+- **A variant is an orderable item with its own manufacturer identifier** (SKU, part number or model
+  number) (decided 2026-10-10). Sizes or options listed without an identifier are NOT variants: they go
+  in family-level fields (`sizes_available`, `end_connections`, material lists). A family whose site lists
+  no identifiers has an empty `variants` list.
 - SKU-level sites are grouped into families via series code, breadcrumbs, or a shared spec sheet.
 - Every document, CAD file, image, and price links to a family or variant. Unlinkable items go to
   `unlinked[]` and are reported, never silently dropped.
@@ -81,6 +85,51 @@ the difference cannot be expressed at family level (as a range, e.g. `size_range
 field, record the family-level value as a comma-separated list in order of first appearance
 (e.g. `material_body: "PVC, ABS"`) and do **not** add per-variant overrides. Overrides remain only for
 values that cannot be written as a family-level range or list (e.g. a pressure rating that differs by size).
+
+**Controlled vocabularies (decided 2026-10-10).** `end_connections` and `applications` use only these
+terms (exact spelling), mapped from whatever wording the source uses. A source term that maps to none of
+them is kept verbatim in `additional_specs` under `end_connections_other` / `applications_other`.
+
+`end_connections`:
+
+| Term | Covers (source wording) |
+|---|---|
+| `NPT` | NPT, FNPT, MNPT, FIP, MIP, NPTF, "taper pipe thread (US)" |
+| `BSPT` | BSPT, BSP, R/Rc, ISO 7-1, BS EN 10226, BS 21 |
+| `threaded` | threaded, with no thread standard stated |
+| `solder` | solder, sweat, C, CxC, "copper tube end" |
+| `press` | press, press-fit, ProPress, MegaPress |
+| `PEX crimp` | ASTM F1807, F2159, crimp ring, clamp ring |
+| `PEX expansion` | ASTM F1960, cold expansion, ProPEX |
+| `PEX` | PEX with no joining standard stated |
+| `push-fit` | push-fit, push-to-connect, PDQ, SharkBite-style |
+| `compression` | compression |
+| `flare` | flare, SAE flare |
+| `grooved` | grooved, roll groove, cut groove, Victaulic-style |
+| `flanged` | flanged, full flanged, ANSI/ASME class flanges (class goes in `raw_text`) |
+| `wafer` | wafer |
+| `lug` | lug, lugged, full lug |
+| `butt weld` | butt weld, BW |
+| `socket weld` | socket weld, SW |
+| `solvent weld` | solvent weld, socket (PVC/CPVC/ABS), spigot for solvent cement |
+| `hub` | hub, hubbed |
+| `no-hub` | no-hub, hubless |
+| `spigot` | spigot (not for solvent cement) |
+| `union` | union, union end |
+| `hose` | hose thread, GHT, hose barb |
+| `closed` | closed end, capped, plugged, spun-closed |
+
+Male/female is not recorded. A connection type counts once, even if the product has two such ends.
+
+`applications` (service, i.e. what the product handles, then sector):
+
+| Group | Terms |
+|---|---|
+| Service | `potable water`, `domestic hot water`, `hydronic heating`, `chilled water`, `HVAC`, `steam`, `condensate`, `natural gas`, `propane`, `compressed air`, `vacuum`, `fire protection`, `irrigation`, `DWV`, `sanitary drainage`, `storm drainage`, `wastewater`, `industrial process`, `chemical`, `oil and gas`, `food and beverage`, `marine`, `slurry`, `power generation`, `pulp and paper`, `mining` |
+| Sector | `residential`, `commercial`, `industrial`, `institutional` |
+
+Record every term the source supports; do not infer a sector from a service. "Water" alone maps to
+`potable water` only if the source says potable/drinking; otherwise keep it in `applications_other`.
 
 **Single size.** A family available in one size records `size_range` with `min` = `max`.
 

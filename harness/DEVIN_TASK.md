@@ -63,13 +63,14 @@ you find more; never distributors or other companies). Note any change in `HARNE
 - Coverage requirements. If the random draw misses one, replace the *last* drawn family in the
   largest category and log the swap:
   - at least 3 families with CAD/BIM (if the site has any)
-  - at least 3 families with more than one variant
+  - at least 3 families with more than one variant (if the site lists identifiers; otherwise log it)
   - at least 1 family with price information or a price list (if the site has any). If prices sit behind a
     login, `login_required` on every variant satisfies this.
 
 ### 4. Label each sampled family completely
 For every sampled family, record everything the spec includes:
-- **variants**: every SKU/size listed on the page or in the family's spec sheet.
+- **variants**: every orderable item with its own identifier (SKU, part number or model number) listed on
+  the page or in the family's spec sheet (SPEC section 3). Sizes without identifiers go in `sizes_available`, not variants.
 - **documents**: every PDF linked from the family page or its SKU pages. Download each one and:
   - record `http_status`, `bytes` and `sha256`
   - set `mime_verified: true` only after checking the file starts with `%PDF`
