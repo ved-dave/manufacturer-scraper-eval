@@ -689,7 +689,7 @@
      "unit": null,
      "raw_text": "2 Handle Body CF8M 1",
      "display_source": "pdf",
-     "cross_check": "pdf_only",
+     "cross_check": "refines",
      "sources": [
       {
        "url": "https://www.bray.com/docs/default-source/specifications/datasheets/en_sds_spring-return-handle.pdf",
@@ -700,6 +700,25 @@
        "quote": "Handle Body CF8M",
        "snapshot_sha256": "52c1bd203e1acac411c3dd5e1dab1090d06ed17f17211cef81cd9c94adb38801",
        "retrieved_at": null
+      }
+     ],
+     "alt_values": [
+      {
+       "value": "Stainless Steel",
+       "unit": null,
+       "raw_text": "manufactured from heavy duty stainless steel components",
+       "sources": [
+        {
+         "url": "https://www.bray.com/valves-actuators-controls/actuators/manual-operators/srh-series-manual-actuator",
+         "type": "page",
+         "page": null,
+         "section": "Overview",
+         "variant_sku": null,
+         "quote": "manufactured from heavy duty stainless steel components",
+         "snapshot_sha256": "149c1d3a147af68a94aca9f8401daf0236911db834a5e66d747da15b5b94c2a0",
+         "retrieved_at": "2026-10-10T20:43:27Z"
+        }
+       ]
       }
      ]
     },
@@ -1862,21 +1881,50 @@
      ]
     },
     "material_seals": {
-     "value": "NBR, Viton",
+     "value": "Graphite",
      "unit": null,
-     "raw_text": "O-Ring (Stem) NBR, Viton™",
-     "display_source": "pdf",
-     "cross_check": "pdf_only",
+     "raw_text": "secondary graphite body seals",
+     "display_source": "page",
+     "cross_check": "conflict",
      "sources": [
       {
-       "url": "https://www.bray.com/docs/default-source/brochures/product-brochures/en_f-2811_trunnion-mbvalve_web.pdf",
-       "type": "pdf",
-       "page": 6,
-       "section": "Bill of Materials",
+       "url": "https://www.bray.com/valves-actuators-controls/ball-valves/trunnion-mounted-valves/trunnion-mounted-ball-valve",
+       "type": "page",
+       "page": null,
+       "section": "Overview",
        "variant_sku": null,
-       "quote": "O-Ring (Stem) NBR, Viton™",
-       "snapshot_sha256": "fa37b01d95331586a1e8c16d16bc2eb7c024e0adfeccb2e694ec14328aa441aa",
-       "retrieved_at": null
+       "quote": "secondary graphite body seals",
+       "snapshot_sha256": "aec382ff72f22684395a1eb29cde6c14b51f436c8964ebeae623109ab6c8c932",
+       "retrieved_at": "2026-10-10T20:44:07Z"
+      }
+     ],
+     "alt_values": [
+      {
+       "value": "Graphite, NBR, Viton",
+       "unit": null,
+       "raw_text": "Seal (Body) Graphite; O-Ring (Stem) NBR, Viton™",
+       "sources": [
+        {
+         "url": "https://www.bray.com/docs/default-source/brochures/product-brochures/en_f-2811_trunnion-mbvalve_web.pdf",
+         "type": "pdf",
+         "page": 6,
+         "section": "Bill of Materials",
+         "variant_sku": null,
+         "quote": "Seal (Body) Graphite",
+         "snapshot_sha256": "fa37b01d95331586a1e8c16d16bc2eb7c024e0adfeccb2e694ec14328aa441aa",
+         "retrieved_at": null
+        },
+        {
+         "url": "https://www.bray.com/docs/default-source/brochures/product-brochures/en_f-2811_trunnion-mbvalve_web.pdf",
+         "type": "pdf",
+         "page": 6,
+         "section": "Bill of Materials",
+         "variant_sku": null,
+         "quote": "O-Ring (Stem) NBR, Viton™",
+         "snapshot_sha256": "fa37b01d95331586a1e8c16d16bc2eb7c024e0adfeccb2e694ec14328aa441aa",
+         "retrieved_at": null
+        }
+       ]
       }
      ]
     },
@@ -2243,7 +2291,7 @@
     },
     {
      "url": "https://www.bray.com/docs/default-source/manuals-guides/safety-manuals/en_sm_series-1b-tmbv.pdf",
-     "doc_type": "iom_manual",
+     "doc_type": "other_doc",
      "priority": "secondary",
      "lang": "en",
      "title": "Series 1B Trunnion Mounted Ball Valve",
@@ -2271,14 +2319,6 @@
      "width": 2000,
      "height": 2000,
      "phash": "faa1855c9a789c63",
-     "found_on": "https://www.bray.com/valves-actuators-controls/ball-valves/trunnion-mounted-valves/trunnion-mounted-ball-valve"
-    },
-    {
-     "url": "https://www.bray.com/images/default-source/products/flow-tek/trunnion/trunnion_12in_with_s98-2_homehero_2-copy.webp",
-     "image_type": "product_photo",
-     "width": 2000,
-     "height": 1302,
-     "phash": "e13c3634361acf8e",
      "found_on": "https://www.bray.com/valves-actuators-controls/ball-valves/trunnion-mounted-valves/trunnion-mounted-ball-valve"
     }
    ],
@@ -2320,7 +2360,7 @@
      "unit": null,
      "raw_text": "Body Material Die cast aluminum",
      "display_source": "pdf",
-     "cross_check": "pdf_only",
+     "cross_check": "refines",
      "sources": [
       {
        "url": "https://www.bray.com/docs/default-source/manuals-guides/technical-manuals/tm-1091_5b_aluminum.pdf",
@@ -2331,6 +2371,25 @@
        "quote": "Body Material Die cast aluminum",
        "snapshot_sha256": "ef649280351e3f6ef520fc3ed68ba820e2ce0ad45082f2b91a764106317adb3f",
        "retrieved_at": null
+      }
+     ],
+     "alt_values": [
+      {
+       "value": "Aluminum",
+       "unit": null,
+       "raw_text": "aluminum base and cover",
+       "sources": [
+        {
+         "url": "https://www.bray.com/valves-actuators-controls/control-accessories/switch-boxes/series-5b-switch-box",
+         "type": "page",
+         "page": null,
+         "section": "Overview",
+         "variant_sku": null,
+         "quote": "aluminum base and cover",
+         "snapshot_sha256": "0f60fa008fdd7af905440a41c03d3a1b2397174e124765a098902fbd0a893fa9",
+         "retrieved_at": "2026-10-10T20:45:17Z"
+        }
+       ]
       }
      ]
     },
@@ -2360,7 +2419,7 @@
      },
      "unit": "F",
      "raw_text": "-13°F to 149°F (-25°C to 65°C)",
-     "display_source": "page",
+     "display_source": "pdf",
      "cross_check": "agree",
      "sources": [
       {
@@ -2395,7 +2454,7 @@
      ],
      "unit": null,
      "raw_text": "CE, cULus (most models), SIL 3 capable | Optional: ATEX, IECEx",
-     "display_source": "page",
+     "display_source": "pdf",
      "cross_check": "agree",
      "sources": [
       {
@@ -2456,7 +2515,7 @@
      ],
      "unit": null,
      "raw_text": "VDI/VDE 3845 Compliant (NAMUR)",
-     "display_source": "page",
+     "display_source": "pdf",
      "cross_check": "agree",
      "sources": [
       {
@@ -2611,7 +2670,7 @@
     },
     {
      "url": "https://www.bray.com/docs/default-source/manuals-guides/safety-manuals/en_sm_1007_5-abc-vsm_safety-manual.pdf",
-     "doc_type": "iom_manual",
+     "doc_type": "other_doc",
      "priority": "secondary",
      "lang": "en",
      "title": "Series 5A, 5B and 5C Switch Boxes",
@@ -2624,7 +2683,7 @@
     },
     {
      "url": "https://www.bray.com/docs/default-source/manuals-guides/technical-manuals/tm-1093_5bc_vsm_commpro.pdf",
-     "doc_type": "catalog",
+     "doc_type": "other_doc",
      "priority": "secondary",
      "lang": "en",
      "title": "Series 5B/5C CommPro",
@@ -2637,8 +2696,8 @@
     },
     {
      "url": "https://www.bray.com/docs/default-source/manuals-guides/technical-manuals/tm-1091_5b_aluminum.pdf",
-     "doc_type": "catalog",
-     "priority": "secondary",
+     "doc_type": "spec_sheet",
+     "priority": "primary",
      "lang": "en",
      "title": "Switchbox Series 5B",
      "sha256": "ef649280351e3f6ef520fc3ed68ba820e2ce0ad45082f2b91a764106317adb3f",
@@ -3350,7 +3409,7 @@
     },
     {
      "url": "https://www.bray.com/docs/default-source/manuals-guides/safety-manuals/sm-1002_resilient-safety-manual.pdf",
-     "doc_type": "iom_manual",
+     "doc_type": "other_doc",
      "priority": "secondary",
      "lang": "en",
      "title": "Resilient Seated Butterfly Valves",
@@ -3383,14 +3442,6 @@
      "width": 2000,
      "height": 2000,
      "phash": "ff8cd023867c8e70",
-     "found_on": "https://www.bray.com/valves-actuators-controls/butterfly-valves/resilient-seated/series-20-21-resilient-seated-butterfly-valve"
-    },
-    {
-     "url": "https://www.bray.com/images/default-source/products/resilientseatedvalves/s20-21/20-21-min.webp?sfvrsn=75915f45_7",
-     "image_type": "product_photo",
-     "width": 1309,
-     "height": 1858,
-     "phash": "e467963c59c1859e",
      "found_on": "https://www.bray.com/valves-actuators-controls/butterfly-valves/resilient-seated/series-20-21-resilient-seated-butterfly-valve"
     },
     {
@@ -4294,7 +4345,7 @@
     },
     {
      "url": "https://www.bray.com/docs/default-source/manuals-guides/safety-manuals/tri-lok-triple-offset-butterfly-valve-safety-manual.pdf",
-     "doc_type": "iom_manual",
+     "doc_type": "other_doc",
      "priority": "secondary",
      "lang": "en",
      "title": "Triple Offset Butterfly Valves Tri Lok®",
@@ -4314,14 +4365,6 @@
      "width": 1800,
      "height": 1133,
      "phash": "e33d9c31393e9c0c",
-     "found_on": "https://www.bray.com/valves-actuators-controls/butterfly-valves/triple-offset-butterfly-valves/tri-lok-triple-offset-butterfly-valve"
-    },
-    {
-     "url": "https://www.bray.com/images/default-source/products/trilok/tri-lok/web-trilok-cut-away-22-min.webp?sfvrsn=82023a58_3",
-     "image_type": "product_photo",
-     "width": 1145,
-     "height": 1625,
-     "phash": "f8c3c13c96c48ec7",
      "found_on": "https://www.bray.com/valves-actuators-controls/butterfly-valves/triple-offset-butterfly-valves/tri-lok-triple-offset-butterfly-valve"
     },
     {
@@ -4951,7 +4994,7 @@
     },
     {
      "url": "https://www.bray.com/docs/default-source/manuals-guides/safety-manuals/sm-1002_resilient-safety-manual.pdf",
-     "doc_type": "iom_manual",
+     "doc_type": "other_doc",
      "priority": "secondary",
      "lang": "en",
      "title": "Resilient Seated Butterfly Valves",
@@ -4992,14 +5035,6 @@
      "width": 1333,
      "height": 1333,
      "phash": "f98cd062877d8e70",
-     "found_on": "https://www.bray.com/valves-actuators-controls/butterfly-valves/lined/series-22-23-resilient-seated-butterfly-valve"
-    },
-    {
-     "url": "https://www.bray.com/images/default-source/products/resilientseatedvalves/s22-23/22-23-2-min.webp?sfvrsn=a454d71_7",
-     "image_type": "product_photo",
-     "width": 982,
-     "height": 1394,
-     "phash": "905a43bec5e50e6b",
      "found_on": "https://www.bray.com/valves-actuators-controls/butterfly-valves/lined/series-22-23-resilient-seated-butterfly-valve"
     }
    ],
@@ -6354,7 +6389,7 @@
      "unit": null,
      "raw_text": "Body Material Die cast aluminum",
      "display_source": "pdf",
-     "cross_check": "pdf_only",
+     "cross_check": "agree",
      "sources": [
       {
        "url": "https://www.bray.com/docs/default-source/manuals-guides/technical-manuals/tm-1090_5a_aluminum.pdf",
@@ -6365,6 +6400,16 @@
        "quote": "Body Material Die cast aluminum",
        "snapshot_sha256": "647c8649338d18fdbbd4e8fcf8e100b2f11c8ab189544f64bd5255d635048526",
        "retrieved_at": null
+      },
+      {
+       "url": "https://www.bray.com/valves-actuators-controls/control-accessories/switch-boxes/series-5a-switch-box",
+       "type": "page",
+       "page": null,
+       "section": "Overview",
+       "variant_sku": null,
+       "quote": "die-cast aluminum cover and base",
+       "snapshot_sha256": "84ef1e69f42e1c3336965bf6363fcd7093b454b95ab6b8b25c6d535a695193f6",
+       "retrieved_at": "2026-10-10T20:45:14Z"
       }
      ]
     },
@@ -6394,7 +6439,7 @@
      },
      "unit": "F",
      "raw_text": "-13°F to 149°F (-25°C to 65°C)",
-     "display_source": "page",
+     "display_source": "pdf",
      "cross_check": "agree",
      "sources": [
       {
@@ -6429,7 +6474,7 @@
      ],
      "unit": null,
      "raw_text": "CE, cULus (most models), SIL 3 capable | Optional: ATEX, IECEx",
-     "display_source": "page",
+     "display_source": "pdf",
      "cross_check": "agree",
      "sources": [
       {
@@ -6490,7 +6535,7 @@
      ],
      "unit": null,
      "raw_text": "VDI/VDE 3845 Compliant (NAMUR)",
-     "display_source": "page",
+     "display_source": "pdf",
      "cross_check": "agree",
      "sources": [
       {
@@ -6528,8 +6573,8 @@
    "documents": [
     {
      "url": "https://www.bray.com/docs/default-source/manuals-guides/technical-manuals/tm-1090_5a_aluminum.pdf",
-     "doc_type": "catalog",
-     "priority": "secondary",
+     "doc_type": "spec_sheet",
+     "priority": "primary",
      "lang": "en",
      "title": "Series 5A Aluminum Switch Box",
      "sha256": "647c8649338d18fdbbd4e8fcf8e100b2f11c8ab189544f64bd5255d635048526",
@@ -6619,7 +6664,7 @@
     },
     {
      "url": "https://www.bray.com/docs/default-source/manuals-guides/safety-manuals/en_sm_1007_5-abc-vsm_safety-manual.pdf",
-     "doc_type": "iom_manual",
+     "doc_type": "other_doc",
      "priority": "secondary",
      "lang": "en",
      "title": "Series 5A, 5B and 5C Switch Boxes",
@@ -6632,8 +6677,8 @@
     },
     {
      "url": "https://www.bray.com/docs/default-source/brochures/product-brochures/s5a/series-5a-valve-status-monitor-technical-manual.pdf",
-     "doc_type": "catalog",
-     "priority": "secondary",
+     "doc_type": "spec_sheet",
+     "priority": "primary",
      "lang": "en",
      "title": "Series 5A Switch Box",
      "sha256": "17c841abe194ee70cf1ae8f8b3058175d48b043110a779e43313a95381c69b0c",
@@ -6666,27 +6711,11 @@
      "found_on": "https://www.bray.com/valves-actuators-controls/control-accessories/switch-boxes/series-5a-switch-box"
     },
     {
-     "url": "https://www.bray.com/images/default-source/products/controls/s5a/series5a-cutaway-1-min.webp?sfvrsn=da02693b_5",
-     "image_type": "product_photo",
-     "width": 1145,
-     "height": 1625,
-     "phash": "fab4854b1f6c20b3",
-     "found_on": "https://www.bray.com/valves-actuators-controls/control-accessories/switch-boxes/series-5a-switch-box"
-    },
-    {
      "url": "https://www.bray.com/images/default-source/products/controls/s5a/2025_s5a_92-93_mccannalok-s40_41_8in_homehero_0100-copy-600x600.webp",
      "image_type": "product_photo",
      "width": 600,
      "height": 600,
      "phash": "ff809c6970868bbc",
-     "found_on": "https://www.bray.com/valves-actuators-controls/control-accessories/switch-boxes/series-5a-switch-box"
-    },
-    {
-     "url": "https://www.bray.com/images/default-source/products/controls/s5a/5a--mobile/2025_s5a_92-93_mccannalok-s40_41_8in_homehero_0100.webp?sfvrsn=b3b0f432_3",
-     "image_type": "product_photo",
-     "width": 640,
-     "height": 406,
-     "phash": "f7c39a8d89bc88c2",
      "found_on": "https://www.bray.com/valves-actuators-controls/control-accessories/switch-boxes/series-5a-switch-box"
     }
    ],
@@ -6727,7 +6756,7 @@
      "value": "Fiberglass reinforced PBT",
      "unit": null,
      "raw_text": "Body Material Fiberglass reinforced PBT",
-     "display_source": "page",
+     "display_source": "pdf",
      "cross_check": "agree",
      "sources": [
       {
@@ -6778,7 +6807,7 @@
      },
      "unit": "F",
      "raw_text": "-13°F to 149°F (-25°C to 65°C)",
-     "display_source": "page",
+     "display_source": "pdf",
      "cross_check": "agree",
      "sources": [
       {
@@ -6813,7 +6842,7 @@
      ],
      "unit": null,
      "raw_text": "CE, cULus (most models), SIL 3 capable | Optional: ATEX, IECEx",
-     "display_source": "page",
+     "display_source": "pdf",
      "cross_check": "agree",
      "sources": [
       {
@@ -6874,7 +6903,7 @@
      ],
      "unit": null,
      "raw_text": "VDI/VDE 3845 Compliant (NAMUR)",
-     "display_source": "page",
+     "display_source": "pdf",
      "cross_check": "agree",
      "sources": [
       {
@@ -6912,8 +6941,8 @@
    "documents": [
     {
      "url": "https://www.bray.com/docs/default-source/manuals-guides/technical-manuals/tm-1095_5b_resin.pdf",
-     "doc_type": "catalog",
-     "priority": "secondary",
+     "doc_type": "spec_sheet",
+     "priority": "primary",
      "lang": "en",
      "title": "Switchbox Series 5B Resin",
      "sha256": "c5d5b88f667dc47f3649b37fd55703605cace97785204daf3727b7cfec260113",
@@ -7042,7 +7071,7 @@
     },
     {
      "url": "https://www.bray.com/docs/default-source/manuals-guides/safety-manuals/en_sm_1007_5-abc-vsm_safety-manual.pdf",
-     "doc_type": "iom_manual",
+     "doc_type": "other_doc",
      "priority": "secondary",
      "lang": "en",
      "title": "Series 5A, 5B and 5C Switch Boxes",
@@ -7055,7 +7084,7 @@
     },
     {
      "url": "https://www.bray.com/docs/default-source/manuals-guides/technical-manuals/tm-1093_5bc_vsm_commpro.pdf",
-     "doc_type": "catalog",
+     "doc_type": "other_doc",
      "priority": "secondary",
      "lang": "en",
      "title": "Series 5B/5C CommPro",
@@ -7094,22 +7123,6 @@
      "width": 1333,
      "height": 1333,
      "phash": "ffa4801e9e78b861",
-     "found_on": "https://www.bray.com/valves-actuators-controls/control-accessories/switch-boxes/series-5b-resin-switch-box"
-    },
-    {
-     "url": "https://www.bray.com/images/default-source/products/controls/s5b-resin/s5b-resin_hero2-copy-2-600x600.webp",
-     "image_type": "product_photo",
-     "width": 600,
-     "height": 600,
-     "phash": "f6c81b7ce6239c60",
-     "found_on": "https://www.bray.com/valves-actuators-controls/control-accessories/switch-boxes/series-5b-resin-switch-box"
-    },
-    {
-     "url": "https://www.bray.com/images/default-source/products/controls/s5b-resin/5b-lr-min.webp?sfvrsn=b530eb25_1",
-     "image_type": "product_photo",
-     "width": 640,
-     "height": 505,
-     "phash": "be39d0c8ccc4c9e3",
      "found_on": "https://www.bray.com/valves-actuators-controls/control-accessories/switch-boxes/series-5b-resin-switch-box"
     }
    ],
@@ -7973,14 +7986,6 @@
      "found_on": "https://www.bray.com/cx-line/tri-lok-cx-triple-offset-butterfly-valve"
     },
     {
-     "url": "https://www.bray.com/images/default-source/products/cx-line/trilok-cx/web-trilokcx-linecut-away6-min.webp?sfvrsn=1c50fe4e_4",
-     "image_type": "product_photo",
-     "width": 982,
-     "height": 1394,
-     "phash": "ab5fc778856d0861",
-     "found_on": "https://www.bray.com/cx-line/tri-lok-cx-triple-offset-butterfly-valve"
-    },
-    {
      "url": "https://www.bray.com/images/default-source/products/cx-line/trilok-cx/tri-lok-cx-mobile/tri-lok--cx-triple-offset-butterfly-valve.webp?sfvrsn=94fb4b51_1",
      "image_type": "product_photo",
      "width": 992,
@@ -8548,22 +8553,6 @@
      "height": 1416,
      "phash": "f83c8f6187789863",
      "found_on": "https://www.bray.com/valves-actuators-controls/knife-gate-valves/bidirectional/series-746hp-knife-gate-valve"
-    },
-    {
-     "url": "https://www.bray.com/images/default-source/products/knifegate/746hp/2025-746hp-heroshot-05--copy-2.webp",
-     "image_type": "product_photo",
-     "width": 1000,
-     "height": 1000,
-     "phash": "fc86c37293389b45",
-     "found_on": "https://www.bray.com/valves-actuators-controls/knife-gate-valves/bidirectional/series-746hp-knife-gate-valve"
-    },
-    {
-     "url": "https://www.bray.com/images/default-source/products/knifegate/746hp/746hp_cutaway_numbers4.webp?sfvrsn=e70e06e9_0",
-     "image_type": "product_photo",
-     "width": 524,
-     "height": 800,
-     "phash": "f8c6c718b6b19958",
-     "found_on": "https://www.bray.com/valves-actuators-controls/knife-gate-valves/bidirectional/series-746hp-knife-gate-valve"
     }
    ],
    "labelling_notes": "No identified orderable items. Page lists Titanium gate and Wastewater application absent from the sheet = conflict. Pressure is gate-material and size dependent; highest rating recorded with conditions, full table in additional_specs. Price: Request a Quote (request_quote).",
@@ -9081,22 +9070,6 @@
    ],
    "cad": [],
    "images": [
-    {
-     "url": "https://www.bray.com/images/default-source/products/knifegate/knifegate-942/s942_cut_2025-copy.webp?sfvrsn=baf8d265_1",
-     "image_type": "product_photo",
-     "width": 800,
-     "height": 1312,
-     "phash": "e36699998699999c",
-     "found_on": "https://www.bray.com/valves-actuators-controls/knife-gate-valves/unidirectional/series-942-knife-gate-valve"
-    },
-    {
-     "url": "https://www.bray.com/images/default-source/products/knifegate/knifegate-942/2025_closerlook-942.webp?sfvrsn=c87e7a29_1",
-     "image_type": "product_photo",
-     "width": 1075,
-     "height": 891,
-     "phash": "cff0701f81369947",
-     "found_on": "https://www.bray.com/valves-actuators-controls/knife-gate-valves/unidirectional/series-942-knife-gate-valve"
-    },
     {
      "url": "https://www.bray.com/images/default-source/products/knifegate/knifegate-942/s942-nps-8-homehero_yoke-ss_0020-(1)-copy_d.webp",
      "image_type": "product_photo",
