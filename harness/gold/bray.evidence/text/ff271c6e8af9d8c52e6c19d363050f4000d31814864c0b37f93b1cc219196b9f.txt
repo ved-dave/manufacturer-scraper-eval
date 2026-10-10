@@ -1,0 +1,101 @@
+=== page 1 ===
+SPECIAL APPLICATION RITE SERIES SA40A
+EXTERNAL COMPRESSION SPRING & WEIGHT
+CHECK VALVE ACCESSORY
+OVERVIEW APPLICATIONS
+The Bray Series SA40A check valve with compression spring > Industrial waste
+& weight accessory is designed to apply additional cracking > Sewage treatment
+pressure and weight to the disc. This model is suitable for > Solid handling
+appplications requiring flexibility to decrease/increase closing
+time while protecting the spring from atmospheric conditions. MEDIA
+> Dry Chlorine (Gas or > Hydrogen
+SPECIFICATIONS Liquid) > Oxygen
+> Gases > Water
+NPS 14” to 54”
+Size Range
+350mm to 1350mm
+Temperature Range Pending Model Selected
+Operating Pressure Pending Model Selected
+Body Style Flanged, or Wafer Type Valves
+Compatibility Bray 205, 210, or 211 Series
+Leakage Rate API 598
+DESIGN FEATURES
+The Bray Series SA40A check valve accessory offers
+single door check valve design modification to alter flow
+conditions:
+APPLICATION:
+The purpose of equipping a standard Bray/Rite Single Door
+Wafer or Flanged Type Swing Check Valve with an external
+compression spring and weight is to provide external control,
+which is field adjustable, in applications such as: multiple
+pumping installations terminating in common headers,
+where transient forces are difficult to ascertain and control.
+The basic principle is to start closing the valve as soon as the
+flow starts to decrease. With external springs it is possible
+to close the valve before flow reverses. This reduces or
+eliminates water-hammer and the associated problems.
+GENERAL DESCRIPTION:
+A Model SA-40 is a basic Bray/Rite Single Door Wafer
+or Flanged Type Swing Check Valve which has been
+converted, featuring a positive hexagon drive at the Disc/
+Hinge/Shaft mounting. The basic valve has a Disc/Hinge
+assembly connected to a positive hexagonal drive shaft,
+which extends through the body. The shaft is supported
+by the body at one end, by a bushing in the body and
+by a ball bearing in the bracket. Four O-Rings seal the
+shaft and the body. Ball Bearing are used in the Bracket
+to provide support and to reduce friction. A Compression
+Spring is mounted between the Bracket and the Shaft
+provide for adjustment and rapid closure. The Disc is
+supplied with a non-rotating feature to prevent it from
+“Spinning” and creating excessive wear at the Disc/Hinge
+connection. The external spring is enclosed in a canister
+which acts as guard against contact from foreign objects.
+© 2024 BRAY INTERNATIONAL. ALL RIGHTS RESERVED. BRAY.COM EN_CVA_SDS_SA40A_20241030 1 of 2
+=== page 2 ===
+SPECIAL APPLICATION RITE SERIES SA40A
+EXTERNAL COMPRESSION SPRING & WEIGHT
+CHECK VALVE ACCESSORY
+MATERIAL OPTIONS1
+Body ASTM A216 WCB* Dowel Pin Steel Zinc Plated
+Hinge ASTM A351-CF8M Ball Bearing Steel
+Seat (Optional) ASTM A240-304 Spring Steel (ASTM A228)
+Spacer ASTM A479-316 Weight Steel
+F316 under 4”, and ASTM A564-630 (17-4 PH) Socket Head
+Shaft Steel Zinc Plated
+above 4” Screw
+Plug Steel (or as per body) Cotter Pin Steel (ASTM A228)
+Lock Nut Steel Zinc Plated Socket Head
+Steel Zinc Plated
+Screw
+Eye Bolt Steel Zinc Plated
+Flanged Lock
+Steel Zinc Plated
+Name Plate SS316 Nut
+Disc ASTM A351-CF8M Rod Steel
+Rivet Steel Zinc Plated Rod Clevis Steel
+O-Ring Guiding Bushing Steel
+Buna / EPDM / Teflon / TES / Viton
+(Optional)
+Needle Bearing Steel
+Disc Nut Steel
+Threaded
+Steel
+Seat Retaining Bushing
+Screws Steel
+(Optional) Spacer Teflon
+Seal Bushing ASTM A479-316 Spring Chamber Steel
+O-Ring Buna / EPDM / Teflon / TES / Viton Cotter Pin Steel
+O-Ring Buna / EPDM / Teflon / TES / Viton Rod Eye Steel
+Spring Adaptor Steel Headless Liner Bronze
+Weight Lever Steel Grease Fitting Alemite
+Retaining Plate Steel Cam Bearing Steel
+Socket Head Notes: 1 Materials available in ASME and EN grades.
+Screw Steel Zinc Plated * Other materials available: A126 CLB, A395, A351-CF8M, Monel,
+Alloy 20, Hastelloy, 254SMO, Titanium.
+Bracket Steel All external components can be offered in SS where required.
+* Previous Models before July 2024 may have included slightly
+Socket Head different material configurations/parts callout lists.
+Steel Zinc Plated
+Screw
+© 2024 BRAY INTERNATIONAL. ALL RIGHTS RESERVED. BRAY.COM EN_CVA_SDS_SA40A_20241030 2 of 2

@@ -1,0 +1,103 @@
+=== page 1 ===
+RITE® SPECIAL APPLICATION SERIES SA1
+EXTERNAL SPRING AND WEIGHT
+CHECK VALVE ACCESSORY
+OVERVIEW APPLICATIONS
+The Rite® Series SA1 check valve accessory with spring and > Fast Closures > Solids handling
+weight is designed to add cracking pressure & closing force > Industrial Waste > Wastewater
+to the disc. This is used for applications needing flexibility to > Sewage Treatment
+decrease/increase closing time, & which may include solid/
+liquid handling applications. Design can be used on downward MEDIA
+flow applications.
+> Dry Chlorine (Gas or > Hydrogen
+SPECIFICATIONS Liquid) > Oxygen
+> Gases > Water
+NPS 2” to 12”
+Size Range
+50mm to 300mm
+Temperature Range Pending Materials Selected
+Operating Pressure Pending Pressure Class Selected
+Body Style One-Piece Flanged or Wafer Body
+Compatibility Bray 205, 210, or 211 Series
+Leakage Rate API 598
+DESIGN FEATURES Figure 01: SA1 Rear View Closed (Right
+Hand Mount Displayed and Provided As
+The Rite® Series SA1 check valve accessory offers single
+Standard).
+door check valve design modification to alter flow
+conditions:
+APPLICATION:
+The purpose of equipping a standard Rite® Series Single
+Door Wafer or Flanged Type Swing Check Valve with an
+external spring & weight, is to provide external control,
+which is field adjustable, in applications such as: multiple
+pumping installations terminating in common headers where
+transient forces are difficult to ascertain and control. Other
+applications include those that require fast closure such as
+solid/liquid handling, & wastewater. The basic principle is to
+start closing the valve as soon as the flow starts to decrease.
+With the external spring it is possible to close the valve
+before the flow reverses. This reduces or eliminates water-
+hammer and the associated problems. The weight provides
+an additional onsite adjustment of the torque to close the
+disc.
+Figure 02: SA1 Rear View Open.
+GENERAL DESCRIPTION:
+The model SA1 is a standard Rite® Series Single Door
+Swing Check Valve that has been converted, featuring a
+positive hexagon drive at the disc/hinge/shaft connection.
+The shaft extends through and is supported by the body
+at one end, by a bushing in the body, and by a ball bearing
+designed to reduce friction mounted in a bracket on the
+opposing side. O-rings seal the shaft, seal bushing and the
+body to prevent leakage. An external spring and weight
+are mounted on the shaft via a hexagonal connection and
+anchored via the eye bolt to the bracket to allow pre-load
+adjustment and facilitate rapid disc closure.
+© 2025 BRAY INTERNATIONAL. ALL RIGHTS RESERVED. BRAY.COM EN_CVA_SDS_SA1_20250721 1 of 2
+=== page 2 ===
+RITE® SPECIAL APPLICATION SERIES SA1
+EXTERNAL SPRING AND WEIGHT
+CHECK VALVE ACCESSORY
+For body/trim materials user must first refer to and select the MATERIAL OPTIONS1
+appropriate model from the foundation unit Sales Data Sheets.
+Seal Bushing Stainless Steel (ASTM A479 316)
+Integral Hard Seat (IHS)
+BUNA-N, EPDM, FKM-A, HNBR, Neoprene
+Seat Ring Hard Seat (SRHS)
+Series 205 Seal O-Rings (x4) PTFE-virgin, Teflon encapsulated silicone,
+Integral Soft Seat (ISS) Viton
+Seat Ring Soft Seat (SRSS) Spring Adaptor Steel
+Integral Hard Seat (IHS) Weight Lever Steel
+Seat Ring Hard Seat (SRHS) Retaining Plate Steel
+Series 210
+Integral Soft Seat (ISS) Bracket Steel
+Seat Ring Soft Seat (SRSS) Socket Head Steel Zinc Plated
+Screws (x4)
+Integral Hard Seat (IHS)
+Dowel Pins (x2) Steel Zinc Plated
+Seat Ring Hard Seat (SRHS)
+Series 211 Ball Bearing Steel
+Integral Soft Seat (ISS)
+Round Head Steel Zinc Plated
+Seat Ring Soft Seat (SRSS) Screw
+Eyebolt Steel Zinc Plated
+Nut (x2) Steel Zinc Plated
+Valve size: <12”: Stainless Steel (ASTM A313 316)
+standard duty
+Spring
+Valve size: >14”+: Stainless Steel (ASTM A313
+17-7 PH)
+Weight Steel
+Note: 1 Dimensions available in ASME and DIN sizes.
+All external components can be offered in SS where required.
+* Previous Models before July 2024 may have included slightly
+Figure 03: SA1 Exploded View.
+different material configurations/parts callout lists.
+Rite® Series Check Valve Integral Hard Seat type part number:
+V0215XBZ205SA1 (For 2”, Class 150, Stainless Steel (ASTM A351
+CF8M) Body, BUNA-N O-Ring, SS Spacer, Series 205, Special
+Application Series SA1).
+Figure 04: Seal Bushing & O-Ring
+Close up.
+© 2025 BRAY INTERNATIONAL. ALL RIGHTS RESERVED. BRAY.COM EN_CVA_SDS_SA1_20250721 2 of 2

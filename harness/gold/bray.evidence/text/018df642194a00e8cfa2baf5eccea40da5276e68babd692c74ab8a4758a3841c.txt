@@ -1,0 +1,881 @@
+=== page 1 ===
+TRI LOK®-Cx
+TRIPLE OFFSET BUTTERFLY VALVE
+TECHNICAL SALES MANUAL
+BRAY.COM THE HIGH PERFORMANCE COMPANY
+=== page 2 ===
+CONTENTS
+OVERVIEW 3
+CHEMICAL/PETROCHEMICAL SOLUTIONS 4
+FEATURES & BENEFITS 5
+TRIPLE OFFSET DESIGN 6
+DESIGN FEATURES 7
+OPTIONS & SPECIAL APPLICATIONS 8
+VALVE & OPERATOR ORIENTATION 9
+VALVE SELECTION 10
+MATERIALS OF CONSTRUCTION — PARTS CALLOUT 11
+MATERIALS OF CONSTRUCTION — PARTS LIST 12
+PRESSURE/TEMPERATURE RATINGS 13
+DIMENSIONS & WEIGHTS 14
+VALVE SIZING COEFFICIENTS 20
+FLANGE TO VALVE BOLTING DATA 21
+© 2026 BRAY INTERNATIONAL. ALL RIGHTS RESERVED. BRAY.COM EN_TSM_TRILOK_Cx_20251201_02 2 of 25
+=== page 3 ===
+OVERVIEW
+TRIPLE OFFSET BUTTERFLY VALVE
+Tri Lok®-Cx is the premier isolation valve for operation in
+light vacuum to high-pressure applications The non-rubbing,
+metal-to-metal seal delivers zero-leakage bidirectional shutoff
+with minimal torque, and is certified firesafe Compared to
+gate, globe, or ball valves of the same size and pressure
+class, Tri Lok®-Cx provides space and weight savings, while
+minimizing installation and maintenance costs
+APPLICATIONS
+> Steam distribution > Reactor isolation
+> Industrial gases > Loading and unloading
+> Tank farms and storage > Safety related
+> Hydrocarbon processing applications
+> Petrochemical processing > Flare systems
+> Chemical processing > Emergency shutdown
+> Hydrogen service (ESD) applications
+SPECIFICATIONS MATERIAL OPTIONS1
+Size Range1 DN 80 to 600 Body Carbon Steel
+Temperature Range2 -60°C to 400°C Stainless Steel
+Pressure Rating PN 10 | PN 25 | PN 40 Disc Carbon Steel
+Body Style Lug | Double Flanged Stainless Steel
+Tightness Test3 Zero-leakage Seat Stainless Steel (Hardened)
+EN 12266 Rate A
+Seal Ring Laminated: Duplex Stainless Steel + Graphite
+NOTES
+1 Larger sizes available on request Solid Seal: Duplex Stainless Steel
+2 Other temperatures available on request
+Stem 410 Stainless Steel
+3 All valves tested bidirectionally
+XM-19 (Nitronic® 50)
+NOTE
+1 Other materials available upon request
+DESIGN STANDARDS CERTIFICATIONS & APPROVALS
+Valve Design EN 12516-1 | EN 12569 | EN 593 Certifications CE: PED 2014/68/EU
+Material Standard EN 16668 | AD2000 W0 SIL 3 capable
+Marking EN 19 | DIN EN IEC 61406 | DIN 91406 UKCA
+Top Flange ISO 5211 Fire Test ISO 10497
+Flange Drilling EN 1092-1 Fugitive Emissions ISO 15848-1
+Face-to-Face EN 558 TA-Luft 2021
+Testing Standard EN 12266-1 & 2 | NE 167 Approvals ATEX 2014/34/EU
+AutoID/ID Link DIN 91406/IEC 61406
+© 2026 BRAY INTERNATIONAL. ALL RIGHTS RESERVED. BRAY.COM EN_TSM_TRILOK_Cx_20251201_02 3 of 25
+=== page 4 ===
+CHEMICAL/PETROCHEMICAL SOLUTIONS
+Tri Lok®-Cx valves provide a wide range of solutions across the chemical sector
+REFINERIES
+Used to control the flow of various fluids, including crude oil, refined petroleum
+products, and intermediate chemicals
+> Commonly used in process units such as distillation columns, reactors, and
+fractionation towers
+PETROCHEMICAL PLANTS
+Crucial in the handling of a wide range of chemicals, including acids, solvents, and
+hydrocarbons
+> Commonly used in processes such as polymerization, cracking, alkylation, and
+catalytic reforming
+GAS PROCESSING PLANTS
+Vital in natural gas processing plants for controlling the flow of gases, such as
+methane, ethane, propane, and butane
+> Commonly used in processes like gas separation, dehydration, and compression
+CHEMICAL REACTORS
+> Regulates the flow of reactants, catalysts, and heat transfer fluids
+TANK FARMS AND STORAGE TERMINALS
+> Controls the flow of liquids and gases during storage, loading, and unloading
+operations
+HIGH-TEMPERATURE APPLICATIONS
+Suitable for high-temperature processes encountered in the chemical and
+petrochemical industry
+> Handles extreme temperatures and maintains tight shut-off under
+challenging conditions
+FLARE SYSTEMS
+Flare systems are an integral part of petrochemical plants for safely disposing of
+excess gases through controlled burning
+> Isolates and controls the flow of gases into the flare system during normal
+operation or emergency situations
+EMERGENCY SHUT-DOWN (ESD) SYSTEMS
+> Integrated into emergency shut-down systems to rapidly isolate sections of a
+process plant during emergencies or critical events
+© 2026 BRAY INTERNATIONAL. ALL RIGHTS RESERVED. BRAY.COM EN_TSM_TRILOK_Cx_20251201_02 4 of 25
+=== page 5 ===
+FEATURES & BENEFITS
+The Tri Lok®-Cx features a fully adjustable, field replaceable
+seat and seal system that extends overall service life,
+minimizes downtime, and reduces the need for costly
+offsite repairs or total valve replacement
+1 SEAT: The hardened seat reduces the risk of galling, 6
+offering superior performance and durability
+2 SEAL RING: Offers a flexible design and wide range of
+materials to provide torque-loaded sealing with zero-
+leakage 5
+3 LIVE LOADED STEM PACKING: Fully adjustable,
+field replaceable stem seal system is certified to
+international fugitive emission standards 3
+4 SPLINED DISC-TO-STEM CONNECTION: Strong,
+reliable connection allows for axial movement, prevents
+misalignment, minimizes hysteresis, and eliminates
+external connections
+5 ROBUST BLOWOUT-PROOF STEM: The one-piece stem
+features a blowout prevention ring located above the
+packing box, outside the pressure boundary The stem is
+also mechanically retained for additonal protection
+6 INDEXED STEM: Provides positive visual indication of
+disc/seal ring position after installation
+7
+7 STEM BEARINGS: Elongated to provide maximum stem
+8
+support, and hardened to reduce wear
+5
+1 4
+8 BEARING SEALS: Minimize ingress of media into the
+journal
+2
+9 DIGITAL TAG: Each valve is uniquely and easily
+identifiable by simply scanning the QR Code on the
+product identification tag in accordance to IEC 61406
+BLOWOUT-PROOF STEM
+5
+5
+8
+7
+Blowout Prevention Ring Mechanical Retention
+Located outside pressure For additional blowout
+boundary protection
+© 2026 BRAY INTERNATIONAL. ALL RIGHTS RESERVED. BRAY.COM EN_TSM_TRILOK_Cx_20251201_02 5 of 25
+=== page 6 ===
+TRIPLE OFFSET DESIGN
+TRIPLE OFFSET GEOMETRY
+When a tight seal is required, a triple offset valve can be the BENEFITS
+right solution As the name implies, three separate offsets > Unique geometry imparts a camming action
+are designed into the valve which eliminates seat/seal rubbing and wear, and
+compensates for extreme temperatures
+1 OFFSET 1 > Torque is applied in order to create a
+The center line of the stem is offset from the seat
+bidirectional, zero leak, metal-to-metal seal
+sealing surfaces
+> Preserves metal-to-metal sealing integrity over
+2 OFFSET 2 the lifecycle of the valve
+The location of the stem is offset from the center line
+of the valve bore
+OFFSET 3
+3
+The sealing axis cone angle is offset from the center
+line of the valve bore
+CENTERLINE
+OF VALVE BODY
+3
+SEALING
+AXIS
+2
+CENTERLINE OF
+SEAT SEALING
+SURFACE
+1
+METAL-TO-METAL SEALING PRINCIPLE
+The Tri Lok®-Cx non-rubbing, metal-to-metal sealing system
+is inherently Fire-Safe (certified to ISO 10497) while meeting
+zero-leakage requirements for critical applications
+Approaching Seat Fully Seated
+Seal ring makes no contact When seated, seal ring is
+prior to seating radially compressed into seat
+through torque loading
+© 2026 BRAY INTERNATIONAL. ALL RIGHTS RESERVED. BRAY.COM EN_TSM_TRILOK_Cx_20251201_02 6 of 25
+=== page 7 ===
+DESIGN FEATURES
+ENHANCED SEAT HARDNESS
+Superior hardness difference between seat & seal provides high reliability and
+extended service life
+Elimination of Galling
+> Difference in hardness is important and necessary to avoid adhesive wear
+(galling) to both the seat and seal ring
+Corrosion Resistance
+> Enhanced hardening maintains a high corrosion resistance as an advantage
+over cobalt-based deposition in most corrosive environments
+Wear Resistance
+> Resistant to abrasion and erosion caused by flue gas particles, sand, molecular
+sieve desiccant, silica, ceramic particles, or dust
+INDEPENDENTLY REPLACEABLE SEAT & SEAL
+Designed for Repairability
+Fully-replaceable seat and seal system provides major benefits over other
+manufacturers, minimizing downtime without the need for costly offsite repairs
+or total valve replacement
+> Seats and seals are independently replaceable
+> Valves can be serviced on-site with no welding, machining, or special tools
+> Hardened seats provide superior hardness and durability
+> Wide choice of available seat and seal ring materials for tough applications
+> Maintenance downtime and costs are substantially reduced, extending
+the overall service life of the valves
+SPLINED DISC-TO-STEM CONNECTION
+Strongest & Most Reliable Connection
+Tri Lok®-Cx triple offset valves have a superior, splined disc-to-stem connection
+which eliminates external pins or keys, prevents typical misalignment problems
+of rigidly attached discs and stems, offers maximum strength, and minimizes
+hysteresis
+> Eliminates hysteresis throughout operating range
+> Superior performance in control applications
+> Temperature changes do not affect valve performance or connection rigidity
+> Easy to disassemble
+> No concentrated stress or shear points
+© 2026 BRAY INTERNATIONAL. ALL RIGHTS RESERVED. BRAY.COM EN_TSM_TRILOK_Cx_20251201_02 7 of 25
+=== page 8 ===
+OPTIONS & SPECIAL APPLICATIONS
+OPTIONS
+Solid Seal
+> Direct replacement for laminated seal
+> Tested to meet or exceed the requirements of EN 12266-1
+> Available in multiple materials: Duplex Stainless Steel,
+Inconel®, or XM-19
+> Ideal for applications which include particulates
+> Suitable for applications incompatible with hydrocarbons
+or graphite
+Laminated Seal Ring Solid Seal Ring
+Lantern Rings
+> Additional ring in packing arrangement with threaded
+port in body neck
+> Allows grease or sealant injection into stem packing area
+> Ideal for applications where eliminating fugitive emissions
+is critical
+SPECIAL APPLICATIONS
+Bray can provide engineered solutions for your most
+critical applications
+Steam Jackets
+> Welded or bolt-on construction, available upon request
+> Used for applications where flow media can polymerize or
+adhere to surfaces cooler than process
+Unique Automation Options
+Steam Jackets
+> Tri Lok®-Cx valves are automation ready and fully
+compatible with Bray’s broad actuation and accessory
+portfolio
+Emergency Shutdown
+> Quick acting closure
+> Automated with Series 98 scotch yoke pneumatic actuator
+> Optional hydraulic dampener
+Double Block and Bleed Configuration
+> Constructed from two triple offset valves, a spool piece,
+and a drain ball valve
+> Provides ability to monitor pressure in cavity between two
+triple offset valves to ensure safe downstream work
+Tri Lok®-Cx shown with Series 98EH actuator
+with electro-hydraulic power pack
+© 2026 BRAY INTERNATIONAL. ALL RIGHTS RESERVED. BRAY.COM EN_TSM_TRILOK_Cx_20251201_02 8 of 25
+=== page 9 ===
+VALVE & OPERATOR ORIENTATION
+VALVE ORIENTATION 70° MAXIMUM ROTATION
+FROM HORIZONTAL
+A horizontal stem orientation is beneficial for reducing
+the possibility of solid media particles depositing in the
+bearing areas
+Whenever possible, the valve should be installed with the stem
+in the horizontal position For installations where this is not
+possible, the stem should be declined from vertical (as shown)
+ACTUATOR ORIENTATION GEAR ORIENTATION
+2H A
+Standard
+5H B
+9H C
+Standard
+13H D
+© 2026 BRAY INTERNATIONAL. ALL RIGHTS RESERVED. BRAY.COM EN_TSM_TRILOK_Cx_20251201_02 9 of 25
+=== page 10 ===
+VALVE SELECTION
+VALVE PART NUMBERING SYSTEM
+Select one code from each category to build a complete valve order number
+XX-MXXX-110XX-XXX
+SERIES SERIES SIZE BASE NUMBER TRIM
+X X MXXX 110XX XXX
+Code Body Code PN Code DN Code Description Code Item Material1
+Style
+A 10 M080 80 110KE Bare Stem C96 Body Carbon Steel (EN 1.0619)
+L Lug Valve, PN
+C 25 M100 100 flange drilling Seat Stainless Steel (EN 1.4401) + Nitride
+F Double
+Flanged D 40 M150 150 Disc Carbon Steel (EN 1.0619)
+M200 200 Seal Ring Duplex Stainless Steel (EN 1.4462) +
+Graphite
+M250 250
+Stem 410 Stainless Steel
+M300 300
+RAM Body Stainless Steel (EN 1.4408)
+M350 350
+Seat Stainless Steel (EN 1.4401) + Nitride
+M400 400
+Disc Stainless Steel (EN 1.4408)
+M500 500
+Seal Ring Duplex Stainless Steel (EN 1.4462) +
+M600 600
+Graphite
+Stem XM-19 (Nitronic 50)
+NOTES:
+1 Other materials are available on request
+Please contact Bray for additional information
+EXAMPLE
+LC-M200-110KE-C96
+> Lug Body
+> PN 25
+> DN 200
+> Trim C96
+© 2026 BRAY INTERNATIONAL. ALL RIGHTS RESERVED. BRAY.COM EN_TSM_TRILOK_Cx_20251201_02 10 of 25
+=== page 11 ===
+MATERIALS OF CONSTRUCTION — PARTS CALLOUT
+PARTS CALLOUT
+M1
+M4
+M2
+H10
+M3 H7
+H9
+H8
+H7
+H6
+H4
+H5
+H1
+H3
+H2
+E3
+E1
+E2
+N3
+P1
+N2
+A1
+D1
+N2
+N1
+N4
+N2
+C1
+C3 C6 E2
+C2
+E1
+C4
+C7
+E4
+C5
+B2 G2
+B1
+G1
+G3
+B3
+© 2026 BRAY INTERNATIONAL. ALL RIGHTS RESERVED. BRAY.COM EN_TSM_TRILOK_Cx_20251201_02 11 of 25
+=== page 12 ===
+MATERIALS OF CONSTRUCTION — PARTS LIST
+PARTS LIST AND MATERIAL SPECIFICATIONS
+ITEM DESCRIPTION MATERIAL OPTIONS
+A1 Body Carbon Steel (EN 1.0619)
+Stainless Steel (EN 1.4408)
+B1 Seat Stainless Steel (1.4401) + Nitride
+B2 Seat Gasket Graphite
+B3 Seat Cap Screw A4-70
+C1 Disc Carbon Steel (EN 1.0619)
+Stainless Steel (EN 1.4408)
+C2 Seal Ring Duplex Stainless Steel (1.4462) + Graphite
+C3 Seal Ring Gasket Graphite
+C4 Seal Ring Retainer Carbon Steel (EN 1.0619)
+Stainless Steel (EN 1.4408)
+C5 Seal Ring Retainer Cap Screw A4-70
+C6 Disc Spacer Stainless Steel
+C7 Seal Ring Pin Stainless Steel
+D1 Stem F6A CL.3/ 410 Stainless Steel
+XM-19 (Nitronic 50)
+E1 Stem Bearing Stainless Steel + Nitride
+E2 Bearing Protector Gasket Graphite
+E3 Bearing Spacer Stainless Steel
+E4 Lower Bearing Spacer Stainless Steel + Nitride
+G1 Bottom Plate Carbon Steel (EN 1.0619)
+Stainless Steel (EN 1.4408)
+G2 Bottom Plate Gasket Graphite
+G3 Bottom Plate Cap Screw A4-70
+H1 Packing Gland Ring Stainless Steel
+H2 Thrust Washer Stainless Steel + Nitride
+H3 Stem Packing Graphite / PTFE
+H4 Gland Retainer Stainless Steel (EN 1.4408)
+H5 Anti-blowout Retaining Ring Stainless Steel
+H6 Packing Gland Stud A4-70
+H7 Flat Washer Stainless Steel
+H8 Disc Spring 17-7 PH
+H9 Sleeve, Live Load Stainless Steel
+H10 Hex Nut A4-70
+M1 Mounting Bracket Steel (Zinc Nickel Plated)
+M2 Mounting Bracket Cap Screw A4-70
+M3 Mounting Bracket Lock Washer Stainless Steel
+M4 Mounting Bracket Pin 17-4 PH
+N1 ID Tag Stainless Steel
+N2 Drive Screw Stainless Steel
+N3 Torque Tag Stainless Steel
+N4 Certification Tag Stainless Steel
+P1 Stem Key 17-4 PH
+NOTES
+> Material specifications provided for reference only, and are subject to change without notice
+> Additional materials available upon request
+© 2026 BRAY INTERNATIONAL. ALL RIGHTS RESERVED. BRAY.COM EN_TSM_TRILOK_Cx_20251201_02 12 of 25
+=== page 13 ===
+PRESSURE/TEMPERATURE RATINGS
+40
+30
+20
+10
+0
+© 2026 BRAY INTERNATIONAL. ALL RIGHTS RESERVED. BRAY.COM EN_TSM_TRILOK_Cx_20251201_02 13 of 25
+]rab[
+—
+ERUSSERP
+GNIKROW
+-10 0 100 200 300 400 500
+TEMPERATURE [°C]
+40
+30
+20
+10
+0
+]rab[
+—
+ERUSSERP
+GNIKROW
+CARBON STEEL (1.0619)
+MAXIMUM WORKING PRESSURE VS TEMPERATURE1 TEMP. PN 10 PN 25 PN 40
+°C bar bar bar
+-10 10 25 40
+PN40
+0 10 25 40
+20 10 25 40
+PN25 50 10 25 40
+100 9 23 37
+150 9 22 36
+PN10
+200 8 21 34
+250 8 19 31
+300 7 17 28
+350 7 16 26
+400 6 15 24
+STAINLESS STEEL (1.4408)
+MAXIMUM WORKING PRESSURE VS TEMPERATURE1 TEMP. PN 10 PN 25 PN 40
+°C bar bar bar
+-60 10 25 40
+PN40
+0 10 25 40
+20 10 25 40
+PN25 50 10 25 40
+100 10 24 38
+150 9 21 34
+PN10
+200 8 19 30
+250 7 18 28
+300 6 16 26
+-60 0 100 200 300 400 500
+350 6 15 25
+TEMPERATURE [°C]
+400 6 15 24
+NOTES
+1 Additional temperature limitations may apply based on valve trim and application conditions
+=== page 14 ===
+DIMENSIONS & WEIGHTS
+PN 10 | LUG (LA)
+K H
+ØJ
+ØR
+ØN
+M
+E
+ØA
+ØRF
+L
+ØP
+DISC PROTRUSION
+D
+C
+B
+DIMENSIONS (mm)
+Disc Protrusion Flange Accommodation Weight2
+Bolt Hole
+DN1 ØA B C D E G3 H ØJ K L M ØN ØP ØR ØRF Circle Qty Threads (kg)
+80 200 64 32 124 305 — 43 203 166 2 5 27 30 97 138 160 8 M16x2.0 22
+100 219 64 32 141 335 — 55 203 174 12 15 66 63 122 158 190 8 M20x2.5 26
+150 285 76 36 163 370 — 55 203 174 31 32 120 112 171 212 250 8 M24x3.0 43
+200 340 89 43 203 404 — 55 305 209 46 48 165 157 221 268 295 8 M20x2.5 56
+250 395 114 57 226 448 — 72 406 267 57 61 204 200 276 320 350 12 M20x2.5 92
+300 445 114 57 262 525 — 93 508 300 82 86 261 255 327 370 400 12 M20x2.5 123
+350 505 127 64 310 566 — 51 508 360 91 96 290 285 359 430 460 16 M20x2.5 195
+400 565 140 70 339 597 — 51 508 360 107 115 334 334 410 482 515 16 M24x3.0 236
+500 670 152 79 391 653 — 67 559 380 146 159 428 432 513 585 620 20 M24x3.0 329
+600 780 178 94 475 772 — 153 635 476 180 198 523 531 616 685 725 20 M27x3.0 545
+NOTES
+1 For sizes not shown, contact Bray for more information
+2 Weights shown are for carbon steel bodies + gearbox
+3 G dimension is flange thickness (double flange body style only)
+© 2026 BRAY INTERNATIONAL. ALL RIGHTS RESERVED. BRAY.COM EN_TSM_TRILOK_Cx_20251201_02 14 of 25
+=== page 15 ===
+DIMENSIONS & WEIGHTS
+PN 10 | FLANGE (FA)
+K H
+ØJ
+ØR
+M ØN
+E
+ØA
+ØRF
+L ØP
+DISC PROTRUSION
+D
+G
+C
+B
+DIMENSIONS (mm)
+Disc Protrusion Flange Accommodation Weight2
+Bolt Hole
+DN1 ØA B C D E G3 H ØJ K L M ØN ØP ØR ØRF Circle Qty Threads (kg)
+80 200 114 35 124 305 25 43 203 166 0 0 0 0 97 138 160 8 M16x2.0 27
+100 220 127 39 141 335 22 55 203 174 5 0 45 0 122 158 180 8 M16x2.0 31
+150 285 140 41 163 370 24 55 203 174 26 0 113 0 171 212 240 8 M20x2.5 53
+200 340 152 43 203 404 25 55 305 209 46 0 165 0 221 268 295 8 M20x2.5 70
+250 395 165 48 226 448 27 72 406 267 66 1 213 25 276 320 350 12 M20x2.5 103
+300 445 178 56 262 525 27 93 508 300 83 21 262 142 327 370 400 12 M20x2.5 139
+350 505 191 60 310 566 27 51 508 360 94 29 293 177 359 430 460 16 M20x2.5 208
+400 565 216 64 339 597 27 51 508 360 114 32 339 201 410 582 515 16 M24x3.0 253
+500 670 229 78 391 653 30 67 559 380 146 82 428 346 513 585 620 20 M24x3.0 340
+600 780 267 93 475 772 36 153 635 476 181 109 524 437 616 685 725 20 M27x3.0 559
+NOTES
+1 For sizes not shown, contact Bray for more information
+2 Weights shown are for carbon steel bodies + gearbox
+3 G dimension is flange thickness (double flange body style only)
+© 2026 BRAY INTERNATIONAL. ALL RIGHTS RESERVED. BRAY.COM EN_TSM_TRILOK_Cx_20251201_02 15 of 25
+=== page 16 ===
+DIMENSIONS & WEIGHTS
+PN 25 | LUG (LC)
+K H
+ØJ
+ØR
+ØN
+M
+E
+ØA
+ØRF
+L
+ØP
+DISC PROTRUSION
+D
+C
+B
+DIMENSIONS (mm)
+Disc Protrusion Flange Accommodation Weight2
+Bolt Hole
+DN1 ØA B C D E G3 H ØJ K L M ØN ØP ØR ØRF Circle Qty Threads (kg)
+80 200 64 32 124 305 — 43 203 166 2 5 27 27 97 138 160 8 M16x2.0 22
+100 235 64 32 141 335 — 55 203 174 12 15 66 63 122 162 190 8 M20x2.5 27
+150 300 76 36 183 394 — 55 203 174 30 31 119 110 171 218 250 8 M24x3.0 53
+200 360 89 44 229 462 — 55 305 209 44 48 160 155 221 278 310 12 M24x3.0 92
+250 425 114 57 257 502 — 72 406 267 57 61 204 200 276 335 370 12 M27x3.0 125
+300 485 114 56 303 545 — 93 508 300 82 88 264 257 329 395 430 16 M27x3.0 186
+350 555 127 67 332 648 — 51 508 360 87 98 287 283 359 450 490 16 M30x3.5 269
+400 620 140 73 370 679 — 51 508 360 105 118 337 333 410 505 550 16 M33x3.5 371
+500 730 153 87 439 751 — 67 559 380 138 166 427 433 513 615 660 20 M33x3.5 550
+600 845 178 102 529 855 — 153 635 476 175 208 515 548 616 720 770 20 M36x4.0 852
+NOTES
+1 For sizes not shown, contact Bray for more information
+2 Weights shown are for carbon steel bodies + gearbox
+3 G dimension is flange thickness (double flange body style only)
+© 2026 BRAY INTERNATIONAL. ALL RIGHTS RESERVED. BRAY.COM EN_TSM_TRILOK_Cx_20251201_02 16 of 25
+=== page 17 ===
+DIMENSIONS & WEIGHTS
+PN 25 | FLANGE (FC)
+K H
+ØJ
+ØR
+M ØN
+E
+ØA
+ØRF
+L ØP
+DISC PROTRUSION
+D
+G
+C
+B
+DIMENSIONS (mm)
+Disc Protrusion Flange Accommodation Weight2
+Bolt Hole
+DN1 ØA B C D E G3 H ØJ K L M ØN ØP ØR ØRF Circle Qty Threads (kg)
+80 200 114 35 124 305 25 43 203 166 0 0 0 0 97 138 160 8 M16x2.0 27
+100 235 127 39 141 335 25 55 203 174 5 0 45 0 122 162 190 8 M20x2.5 34
+150 300 140 46 183 394 29 55 203 174 21 0 104 0 171 218 250 8 M24x3.0 66
+200 360 152 51 229 462 32 55 305 209 37 0 152 0 221 278 310 12 M24x3.0 109
+250 425 165 51 257 502 34 72 406 267 62 4 211 57 276 335 370 12 M27x3.0 140
+300 485 178 64 303 545 36 93 508 300 76 30 259 168 329 395 430 16 M27x3.0 207
+350 555 191 74 332 648 40 51 508 360 80 42 280 204 359 450 490 16 M30x3.5 294
+400 620 216 77 370 679 41 51 508 360 101 46 333 232 410 505 550 16 M33x3.5 409
+500 730 229 102 439 751 50 67 559 380 124 105 414 376 513 615 660 20 M33x3.5 598
+600 845 267 121 529 855 59 153 635 476 156 138 511 475 616 720 770 20 M36x4.0 922
+NOTES
+1 For sizes not shown, contact Bray for more information
+2 Weights shown are for carbon steel bodies + gearbox
+3 G dimension is flange thickness (double flange body style only)
+© 2026 BRAY INTERNATIONAL. ALL RIGHTS RESERVED. BRAY.COM EN_TSM_TRILOK_Cx_20251201_02 17 of 25
+=== page 18 ===
+DIMENSIONS & WEIGHTS
+PN 40 | LUG (LD)
+K H
+ØJ
+ØR
+ØN
+M
+E
+ØA
+ØRF
+L
+ØP
+DISC PROTRUSION
+D
+C
+B
+DIMENSIONS (mm)
+Disc Protrusion Flange Accommodation Weight2
+Bolt Hole
+DN1 ØA B C D E G3 H ØJ K L M ØN ØP ØR ØRF Circle Qty Threads (kg)
+80 200 64 32 124 305 — 43 203 166 2 5 27 27 97 138 160 8 M16x2.0 22
+100 235 64 32 141 335 — 55 203 174 12 15 66 63 122 162 190 8 M20x2.5 27
+150 300 76 36 183 403 — 72 305 247 30 31 119 110 171 218 250 8 M24x3.0 53
+200 375 89 44 229 482 — 51 305 315 44 48 160 155 221 285 320 12 M24x3.0 95
+250 450 114 57 257 513 — 51 406 335 57 61 204 200 276 345 385 12 M30x3.5 137
+300 515 114 58 303 552 — 67 559 380 82 88 264 257 329 410 450 16 M30x3.5 203
+350 580 127 67 331 657 — 127 559 406 87 98 287 283 359 465 510 16 M33x3.5 286
+400 660 140 73 370 689 — 153 635 476 105 118 337 333 410 535 585 16 M36x4.0 405
+500 755 153 87 439 764 — 180 711 506 138 166 427 433 513 615 670 20 M39x4.0 576
+600 890 178 102 529 862 — 202 711 526 175 208 515 548 616 735 795 20 M45x4.5 908
+NOTES
+1 For sizes not shown, contact Bray for more information
+2 Weights shown are for carbon steel bodies + gearbox
+3 G dimension is flange thickness (double flange body style only)
+© 2026 BRAY INTERNATIONAL. ALL RIGHTS RESERVED. BRAY.COM EN_TSM_TRILOK_Cx_20251201_02 18 of 25
+=== page 19 ===
+DIMENSIONS & WEIGHTS
+PN 40 | FLANGE (FD)
+K H
+ØJ
+ØR
+M ØN
+E
+ØA
+ØRF
+L ØP
+DISC PROTRUSION
+D
+G
+C
+B
+DIMENSIONS (mm)
+Disc Protrusion Flange Accommodation Weight2
+Bolt Hole
+DN1 ØA B C D E G3 H ØJ K L M ØN ØP ØR ØRF Circle Qty Threads (kg)
+80 200 114 35 124 305 25 43 203 166 0 0 0 0 97 138 160 8 M16x2.0 27
+100 235 127 39 141 335 25 55 203 174 5 0 45 0 122 162 190 8 M20x2.5 34
+150 300 140 46 183 403 29 72 305 247 21 0 104 0 171 218 250 8 M24x3.0 66
+200 375 152 51 229 482 36 51 305 315 37 0 152 0 221 285 320 12 M27x3.0 116
+250 450 165 51 257 513 40 51 406 335 62 4 211 57 276 345 385 12 M30x3.5 156
+300 515 178 64 303 552 43 67 559 380 76 30 259 168 329 410 450 16 M30x3.5 229
+350 580 191 74 331 657 47 127 559 406 80 42 280 204 359 465 510 16 M33x3.5 320
+400 660 216 77 370 689 52 153 635 476 101 46 333 232 410 535 585 16 M36x4.0 459
+500 755 229 102 439 764 58 180 711 506 124 105 414 376 513 615 670 20 M39x4.0 598
+600 890 267 121 529 862 73 202 711 526 156 138 511 475 616 735 795 20 M45x4.5 1015
+NOTES
+1 For sizes not shown, contact Bray for more information
+2 Weights shown are for carbon steel bodies + gearbox
+3 G dimension is flange thickness (double flange body style only)
+© 2026 BRAY INTERNATIONAL. ALL RIGHTS RESERVED. BRAY.COM EN_TSM_TRILOK_Cx_20251201_02 19 of 25
+=== page 20 ===
+VALVE SIZING COEFFICIENTS
+PN 10
+VALVE SIZING COEFFICIENTS (Kv Values)
+DN DISC POSITION (Degrees)
+90° 80° 70° 60° 50° 40° 30° 20° 10°
+80 59 59 52 42 32 23 15 8 2
+100 122 123 108 87 67 48 31 16 4
+150 442 445 391 316 241 173 112 58 16
+200 932 937 822 666 508 364 236 123 34
+250 1699 1708 1499 1215 927 665 431 224 63
+300 2884 2899 2546 2062 1574 1128 731 381 106
+350 3472 3491 3065 2483 1895 1359 880 459 128
+400 5056 5083 4463 3615 2759 1978 1282 668 186
+500 8718 8765 7696 6234 4757 3411 2210 1152 321
+600 14225 14303 12558 10172 7763 5566 3606 1879 524
+PN 25 | 40
+VALVE SIZING COEFFICIENTS (Kv Values)
+DISC POSITION (Degrees)
+DN 90° 80° 70° 60° 50° 40° 30° 20° 10°
+80 59 59 52 42 32 23 15 8 2
+100 122 123 108 87 67 48 31 16 4
+150 342 344 302 245 187 134 87 45 13
+200 716 720 632 512 391 280 181 95 26
+250 1514 1522 1337 1083 826 592 384 200 56
+300 2370 2383 2093 1695 1294 927 601 313 87
+350 2581 2595 2278 1845 1408 1010 654 341 95
+400 4453 4477 3931 3184 2430 1742 1129 588 164
+500 6926 6963 6114 4952 3779 2710 1756 915 255
+600 10733 10791 9475 7675 5857 4199 2721 1418 395
+NOTES
+> Kv varies with the valve size, angle of opening and the manufacturer’s valve style
+> Kv value is the volume of water in cubic meters/hour (m3/hr) that will flow through a given restriction or valve opening with a pressure drop of
+one (1) bar at room temperature
+> For sizes not shown, contact Bray for more information
+© 2026 BRAY INTERNATIONAL. ALL RIGHTS RESERVED. BRAY.COM EN_TSM_TRILOK_Cx_20251201_02 20 of 25
+=== page 21 ===
+FLANGE TO VALVE BOLTING DATA
+LUG VALVE WITH STUDS
+GASKET GASKET
+FLANGE LUG BODY FLANGE
+NUT NUT
+WASHER WASHER
+RECOMMENDED 2 THREADS RECOMMENDED 2 THREADS
+BEYOND NUT (PER SIDE) BEYOND NUT (PER SIDE)
+MINIMUM THREAD ENGAGEMENT MINIMUM THREAD ENGAGEMENT
+(EQUAL TO BOLT DIAMETER) (EQUAL TO BOLT DIAMETER)
+DOUBLE FLANGE VALVE WITH THROUGH-STUDS
+GASKET GASKET
+FLANGE DOUBLE FLANGE BODY FLANGE
+NUT NUT
+WASHER WASHER
+RECOMMENDED 2 THREADS RECOMMENDED 2 THREADS
+BEYOND NUT (PER SIDE) BEYOND NUT (PER SIDE)
+IMPORTANT INFORMATION
+> Refer to appropriate Bray dimensional drawings for specific valve
+drilling information
+> Lug threads may be tapped from both sides, and therefore tap may
+not be continuous
+> Minimum bolt engagement must be equal to the diameter of the bolt CAUTION
+Tapped holes
+> When bolting the valve into the line, use standard bolting torque as at the bearing
+recommended by applicable piping standards Additional force from hub areas
+do not permit
+the flange bolts is not required through-holes
+© 2026 BRAY INTERNATIONAL. ALL RIGHTS RESERVED. BRAY.COM EN_TSM_TRILOK_Cx_20251201_02 21 of 25
+=== page 22 ===
+FLANGE TO VALVE BOLTING DATA
+PN 10 | LUG
+Valve Size Fastener Size Stud Blind Stud Washer Hex Nut
+DN Ø-Thread Length (mm) Qty Length (mm) Qty Qty Qty
+80 M16 x 2.0 90 16 — — 16 16
+100 M16 x 2.0 90 16 — — 16 16
+150 M20 x 2.5 110 16 — — 16 16
+200 M20 x 2.5 110 16 — — 16 16
+250 M20 x 2.5 110 24 — — 24 24
+300 M20 x 2.5 110 24 — — 24 24
+350 M20 x 2.5 110 24 — — 24 24
+400 M24 x 3.0 130 32 110 8 40 40
+500 M24 x 3.0 130 32 120 8 40 40
+600 M27 x 3.0 140 32 130 8 40 40
+PN 10 | DOUBLE FLANGE
+Valve Size Fastener Size Stud Blind Stud Washer Hex Nut
+DN Ø-Thread Length (mm) Qty Length (mm) Qty Qty Qty
+80 M16 x 2.0 110 8 80 8 24 24
+100 M16 x 2.0 110 8 80 8 24 24
+150 M20 x 2.5 120 8 100 8 24 24
+200 M20 x 2.5 130 8 100 8 24 24
+250 M20 x 2.5 130 8 100 16 32 32
+300 M20 x 2.5 130 8 100 16 32 32
+350 M20 x 2.5 130 24 100 8 56 56
+400 M24 x 3.0 140 24 120 8 56 56
+500 M24 x 3.0 150 24 120 16 64 64
+600 M27 x 3.0 160 24 140 16 64 64
+NOTES
+1 All studs are in accordance with DIN 976-1 Rounded to standard lengths
+2 All nuts are in accordance with ISO 4033 Table 1
+3 All washers are in accordance with DIN 887, Normal Series Washers
+4 Length calculations include 2 washers per stud and hex nut configuration and 1 washer per stud and hex nut (blind) configuration
+5 Standard spiral wound gaskets accordance with BS EN 1514-2, one per side, have been included in the bolting calculations
+6 Stud and hex nut (blind) specifies special stud lengths for the threaded flange bolt holes closest to the valve stem
+7 Contact Bray for any sizes or configurations not shown
+© 2026 BRAY INTERNATIONAL. ALL RIGHTS RESERVED. BRAY.COM EN_TSM_TRILOK_Cx_20251201_02 22 of 25
+=== page 23 ===
+FLANGE TO VALVE BOLTING DATA
+PN 25 | LUG
+Valve Size Fastener Size Stud Blind Stud Washer Hex Nut
+DN Ø-Thread Length (mm) Qty Length (mm) Qty Qty Qty
+80 M16 x 2.0 100 16 — — 16 16
+100 M20 x 2.5 110 16 — — 16 16
+150 M24 x 3.0 130 16 — — 16 16
+200 M24 x 3.0 130 16 110 8 24 24
+250 M27 x 3.0 140 24 — — 24 24
+300 M27 x 3.0 140 24 120 8 32 32
+350 M30 x 3.5 150 24 130 8 32 32
+400 M33 x 3.5 170 24 140 8 32 32
+500 M33 x 3.5 170 32 150 8 40 40
+600 M36 x 4.0 190 32 170 8 40 40
+PN 25 | DOUBLE FLANGE
+Valve Size Fastener Size Stud Blind Stud Washer Hex Nut
+DN Ø-Thread Length (mm) Qty Length (mm) Qty Qty Qty
+80 M16 x 2.0 110 8 90 8 24 24
+100 M20 x 2.5 130 8 100 8 24 24
+150 M24 x 3.0 150 8 120 8 24 24
+200 M24 x 3.0 150 8 120 16 32 32
+250 M27 x 3.0 160 8 130 16 32 32
+300 M27 x 3.0 160 16 130 16 48 48
+350 M30 x 3.5 190 16 140 16 48 48
+400 M33 x 3.5 190 16 150 16 48 48
+500 M33 x 3.5 220 24 160 16 64 64
+600 M36 x 4.0 240 24 200 16 64 64
+NOTES
+1 All studs are in accordance with DIN 976-1 Rounded to standard lengths
+2 All nuts are in accordance with ISO 4033 Table 1
+3 All washers are in accordance with DIN 887, Normal Series Washers
+4 Length calculations include 2 washers per stud and hex nut configuration and 1 washer per stud and hex nut (blind) configuration
+5 Standard spiral wound gaskets accordance with BS EN 1514-2, one per side, have been included in the bolting calculations
+6 Stud and hex nut (blind) specifies special stud lengths for the threaded flange bolt holes closest to the valve stem
+7 Contact Bray for any sizes or configurations not shown
+© 2026 BRAY INTERNATIONAL. ALL RIGHTS RESERVED. BRAY.COM EN_TSM_TRILOK_Cx_20251201_02 23 of 25
+=== page 24 ===
+FLANGE TO VALVE BOLTING DATA
+PN 40 | LUG
+Valve Size Fastener Size Stud Blind Stud Washer Hex Nut
+DN Ø-Thread Length (mm) Qty Length (mm) Qty Qty Qty
+80 M16 x 2.0 100 16 — — 16 16
+100 M20 x 2.5 110 16 — — 16 16
+150 M24 x 3.0 130 16 — — 16 16
+200 M27 x 3.0 140 16 120 8 24 24
+250 M30 x 3.5 150 24 — — 24 24
+300 M30 x 3.5 160 24 130 8 32 32
+350 M33 x 3.5 170 24 150 8 32 32
+400 M36 x 4.0 190 24 160 8 32 32
+500 M39 x 4.0 200 32 170 8 40 40
+600 M45 x 4.5 240 32 200 8 40 40
+PN 40 | DOUBLE FLANGE
+Valve Size Fastener Size Stud Blind Stud Washer Hex Nut
+DN Ø-Thread Length (mm) Qty Length (mm) Qty Qty Qty
+80 M16 x 2.0 110 8 90 8 24 24
+100 M20 x 2.5 130 8 100 8 24 24
+150 M24 x 3.0 150 8 120 8 24 24
+200 M27 x 3.0 160 8 130 16 32 32
+250 M30 x 3.5 190 8 140 16 32 32
+300 M30 x 3.5 190 16 150 16 48 48
+350 M33 x 3.5 220 16 160 16 48 48
+400 M36 x 4.0 220 16 170 16 48 48
+500 M39 x 4.0 260 24 190 16 64 64
+600 M45 x 4.5 300 24 240 16 64 64
+NOTES
+1 All studs are in accordance with DIN 976-1 Rounded to standard lengths
+2 All nuts are in accordance with ISO 4033 Table 1
+3 All washers are in accordance with DIN 887, Normal Series Washers
+4 Length calculations include 2 washers per stud and hex nut configuration and 1 washer per stud and hex nut (blind) configuration
+5 Standard spiral wound gaskets accordance with BS EN 1514-2, one per side, have been included in the bolting calculations
+6 Stud and hex nut (blind) specifies special stud lengths for the threaded flange bolt holes closest to the valve stem
+7 Contact Bray for any sizes or configurations not shown
+© 2026 BRAY INTERNATIONAL. ALL RIGHTS RESERVED. BRAY.COM EN_TSM_TRILOK_Cx_20251201_02 24 of 25
+=== page 25 ===
+SINCE 1986, BRAY HAS PROVIDED FLOW CONTROL SOLUTIONS
+FOR A VARIETY OF INDUSTRIES AROUND THE WORLD
+VISIT BRAY.COM TO LEARN MORE ABOUT
+BRAY PRODUCTS AND LOCATIONS NEAR YOU
+GLOBAL HEADQUARTERS
+Bray International, Inc.
+13333 Westland East Blvd
+Houston, Texas 77041
+Tel: +1 281 894 5454
+All statements, technical information, and recommendations in this bulletin are for general
+use only Consult Bray representatives or factory for the specific requirements and material
+selection for your intended application The right to change or modify product design or
+product without prior notice is reserved Patents issued and applied for worldwide
+Bray® is a registered trademark of Bray International, Inc
+© 2023 BRAY INTERNATIONAL. ALL RIGHTS RESERVED. BRAY.COM EN_TSM_TRILOK_Cx_20251201_02
+THE HIGH PERFORMANCE COMPANY BRAY.COM

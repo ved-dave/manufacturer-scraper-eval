@@ -1,0 +1,312 @@
+=== page 1 ===
+SERIES 942
+VORTEX BREAKER KNIFE GATE VALVES
+FOR RECYCLE/REJECTS
+TECHNICAL SALES MANUAL
+BRAY.COM THE HIGH PERFORMANCE COMPANY
+=== page 2 ===
+CONTENTS
+TECHNICAL DATA 3
+FEATURES & BENEFITS 4
+RECYCLE PROCESS 5
+VALVE SELECTION 6
+MATERIALS OF CONSTRUCTION | PARTS CALLOUT 7
+MATERIALS OF CONSTRUCTION | SPECIFICATIONS 8
+DIMENSIONS & WEIGHTS | ASME (IN & LB) 9
+DIMENSIONS & WEIGHTS | ASME (MM & KG) 10
+© 2025 BRAY INTERNATIONAL. ALL RIGHTS RESERVED. BRAY.COM EN_TSM_942_20250716 2 of 11
+=== page 3 ===
+TECHNICAL DATA
+OVERVIEW
+The Bray Series 942 Vortex Breaker Knife Gate Valve is
+engineered for on/off service and isolation of pulp and paper
+recycle and rejects applications. The 942 offers superior
+performance in demanding, high-cycle services that require
+shearing capabilities such as cyclone separators and recycle
+high density cleaners.
+Bray Series 942 is an engineered solution featuring a standard
+replaceable Vortex Breaker designed to interrupt cyclonic
+flow formation which causes premature gate damage.
+SPECIFICATIONS
+Size Range NPS 4 to 12 | DN 100 to 300
+Temperature Range -40°F to 392°F | -40°C to 200°C
+Pressure Rating NPS 4-12 150psi | DN 100-300 10 bar
+Body Style Single Piece Lug
+DESIGN STANDARDS
+End Connections Lugged
+Face-to-Face MSS SP-81
+Flange Drilling ASME B16.5 CL150
+Design Standard MSS SP-81
+Consult factory for other flange drillings
+STANDARD CONSTRUCTION
+Body CF8M (316)
+Gate 17-4PH H-1025
+Seat Hi-Chrome
+Packing 4-layer (Copper-Kevlar-Quad Seal-Kevlar)
+Vortex Breaker Hi-Chrome
+CERTIFICATIONS & APPROVALS
+Certifications CE/PED | CRN
+© 2025 BRAY INTERNATIONAL. ALL RIGHTS RESERVED. BRAY.COM EN_TSM_942_20250716 3 of 11
+=== page 4 ===
+FEATURES & BENEFITS
+FEATURES
+1 Pneumatic actuator sized and designed
+for recycle/reject media and high cycle
+applications. Includes dual piston rod seals
+for greater performance.
+2 High strength B8M Stainless steel bolting
+stabilizes the gate for proper alignment
+1
+and addresses high-cycle challenges by
+incorporating a PTFE damper to alleviate
+the effects of vibration.
+3 High performance packing system
+featuring a base layer copper scraper and
+rounded, machined packing chamber with
+live-loaded packing gland system extends
+service life and enhances performance.
+9
+4 Heat treated 17-4PH H-1025 gate with
+rounded edge, suitable for high cycles
+and longer packing life. Back-up ring
+ensures the gate is guided in horizontal 9
+orientations and remains aligned during
+cycling.
+5 Hi-Chrome vortex breaker designed to
+disrupt cyclonic flow formation of reject
+materials (staples, wire, nails, sand, etc.)
+provides extended service life.
+7
+6 Purge ports in seat and chest enable
+complete flushing during cycling for
+enhanced maintenance
+and performance.
+7 Bellows provided to protect the piston rod
+from accumulation of media that could
+damage the seals.
+3
+8 Tungsten Carbide coated bore to provide
+2
+superior abrasion resistance.
+9 Actuator with dual rod seal arrangement
+(primary PTFE packing, secondary
+urethane wiper seal) for higher cycle life
+3
+and improved ingress protection
+6
+INDUSTRIES
+8
+> Pulp & Paper
+APPLICATIONS 4
+> Knotter
+> Rejects 5
+> Pulpers
+> HD Cleaners
+> Cyclone Separators
+> Junk Trap
+© 2025 BRAY INTERNATIONAL. ALL RIGHTS RESERVED. BRAY.COM EN_TSM_942_20250716 4 of 11
+=== page 5 ===
+RECYCLE PROCESS
+ACCEPTS
+FEED PULP
+VALVE A
+S942
+VALVE B
+S940/943
+REJECTS
+FEED: Ground cardboard including staples, nails and 1. Valve A and B are closed during the recycling process.
+heavy debris is pneumatically conveyed to inlet of cyclone 2. Trash accumulates on the face of valve A during
+separation. separation process.
+3. Valve A cycles to drop “heavies” to valve B.
+ACCEPTS: Recyclable “light” material is recovered for 4. Valve A closes/Valve B opens to discard debris to trash
+reprocessing. collection.
+5. Valve B closes, and the recycling separation process cycle
+REJECTS: “Heavies” or rejected product drops to the inlet of commences.
+Valve A. Vacuum pulling the recoverable material creates a 6. ***Valves cycle every 6 minutes***
+“cyclonic” action of rejected material on the face of the gate.
+© 2025 BRAY INTERNATIONAL. ALL RIGHTS RESERVED. BRAY.COM EN_TSM_942_20250716 5 of 11
+STCEJER
+=== page 6 ===
+VALVE SELECTION
+VALVE PART NUMBERING SYSTEM
+Select one code from each category to build a complete valve order number.
+XXXX-XXXX-XX-AXXXXXX-BXXXX-XXXXX
+“V” or “S” OPERATOR ASSEMBLY
+X XXXX
+SERIES SIZE OPERATOR TYPE
+XX XXXX X
+Code Flow Direction Code NPS DN PRESSURE TOP WORKS Code Operator
+RATING (bar) XXXX
+7XX Bidirectional 0200 2 50 XX C Pneumatic Actuator
+9XX Unidirectional 0300 33 65 D Rising Stem Hand Wheel
+0400 4 80
+E Electric Actuator | Rising Stem
+0500 5 100
+F Non-Rising Stem Hand Wheel
+0600 6 150
+ASSEMBLY - PT 1 ASSEMBLY - PT 2
+0800 8 200 XXX XXX G Chain Wheel
+1000 10 250 Part Part H Bevel Gear | Rising Stem
+1200 12 300 Body Drilling L Lever
+1400 14 350 Seat End Style M Hydraulic Actuator
+1600 16 400 Gate Body Options
+N Bare Stem
+1800 18 450 Gland Gate Options
+P Bevel Gear | Non-Rising Stem
+2000 20 500 Fasteners Other Options
+2400 24 600 Packing Q Electric Actuator | Non-Rising Stem
+NOTES:
+1. For a complete list of standard materials and descriptions, refer to
+MATERIALS OF CONSTRUCTION. Other materials are available,
+please contact Bray for additional information.
+2. No assigned code, ASSEMBLY NUMBER is generated by
+Engineering configurator.
+EXAMPLE
+S942-0400-10-A02C691-B0294-C0240
+> Unidirectional
+> 4 inch
+> 10 bar rated
+> Pneumatic actuator
+© 2025 BRAY INTERNATIONAL. ALL RIGHTS RESERVED. BRAY.COM EN_TSM_942_20250716 6 of 11
+=== page 7 ===
+MATERIALS OF CONSTRUCTION | PARTS CALLOUT
+PARTS CALLOUT
+17
+26
+16
+19
+24 18
+22
+11
+2
+13
+25
+9
+27 8
+7
+12
+5
+10 3
+4
+15 6
+14
+23
+20
+1
+21
+© 2025 BRAY INTERNATIONAL. ALL RIGHTS RESERVED. BRAY.COM EN_TSM_942_20250716 7 of 11
+=== page 8 ===
+MATERIALS OF CONSTRUCTION | SPECIFICATIONS
+PARTS LIST AND MATERIAL SPECIFICATIONS
+ITEM DESCRIPTION MATERIAL
+1 Body ASTM A351 GR. CF8M + Tungsten Carbide coated body bore
+2 Gate ASTM A693 TYPE 630, Precipitation Hardening @ 1025 °F
+3 HP Packing Set PTFE/Graphite yarn with aramid fibre +Viton quad seal
+4 Copper Scraper Copper wiper
+5 Packing Gland ASTM A351 Gr.CF8 / ASTM A240 TYPE 304
+6 Gland Bolt ASTM A193 GR. B8M CL 2
+7 Gland Washer ASTM A276 Type 304
+8 Belleville Washer Set 17-7PH,ASTM A313 Type 631
+9 Gland Nut ISO 3506-2 Grade A4 Class 70
+10 Yoke ASTM A351 Gr.CF8
+11 Bellows CANVAS
+12 Mounting Bolt (Top) ISO 3506-1, Grade A2, Class 70
+13 Mounting Nut ISO 3506-2 Grade A4 Class 70
+14 Mounting Stud (Bottom) ISO 3506-1, Grade A2, Class 70
+15 Nordlock Washer Stainless Steel (EN 1.4404)
+16 Clevis ASTM A351 Gr.CF8
+17 Cylinder Actuator 304/DI/FRP/304/NBR/CBEL
+18 Clevis Bolt ISO 3506-1, Grade A2, Class 70
+19 Clevis Nut ISO 3506-2 Grade A4 Class 70
+20 Vortex Breaker Gasket White Virgin Teflon
+21 Vortex Breaker ASTM A532 Class III Type A (25% Cr)
+22 Dampener White Virgin Teflon
+23 Mounting Nut ISO 3506-2 Grade A4 Class 70
+24 Bellows Clamp (Top) SS304
+25 Bellows Clamp (Bottom) SS304
+26 Clevis Nut ISO 3506-2 Grade A4 Class 70
+27 Nordlock Washer Stainless Steel (EN 1.4404)
+NOTES
+1 Material specifications provided for reference only, and
+are subject to change without notice.
+2 Additional materials available upon request.
+© 2025 BRAY INTERNATIONAL. ALL RIGHTS RESERVED. BRAY.COM EN_TSM_942_20250716 8 of 11
+=== page 9 ===
+DIMENSIONS & WEIGHTS | ASME (in & lb)
+SERIES 942
+“D” +/- 1 in.
+“K” - NO OF BLIND TAPPED HOLES
+“L” - UNC TAP X “M” - DEEP
+(INCLUDING RAISED FACE PER SIDE)
+R/F ø “C”
+“P” - NO OF TAPPED THRU HOLES &
+“L” - UNC TAP (PER SIDE)
+“N” Purge
+Port
+(4 places) ø “B” PCD “A”
+DIMENSIONS (inch) WEIGHT (lbs)
+NPS A B PCD R/FØC D K L M N P PNEUMATIC ACTUATOR
+4 2.01 7.50 6.22 28.74 2 5/8"-11 UNC 0.39 1/4 NPT 6 59.4
+5 2.24 8.50 7.32 32.28 2 3/4"-10 UNC 0.47 3/8 NPT 6 70.4
+6 2.24 9.50 8.50 35.63 2 3/4"-10 UNC 0.43 3/8 NPT 6 99
+8 2.76 11.75 10.63 41.15 2 3/4"-10 UNC 0.47 3/8 NPT 6 129.8
+10 2.76 14.25 12.76 48.82 4 7/8"-9 UNC 0.47 1/2 NPT 8 191.4
+12 2.99 17.00 15.00 53.19 4 7/8"-9 UNC 0.49 1/2 NPT 8 308
+NOTES: NOTES:
+1. Pressure Rating (CWP) - 10 Bar 1. Consult factory for other actuator types.
+2. All dimensions are in mm unless specified 2. Dimensions are approximate and subject to change. Consult
+3. Valve is shown in closed position factory for certified drawings.
+4. PCD, size of bolt hole, no of bolts to suit ASME B16.5 Cl150 flanges 3. Drilling in conformance with ASME B16.5 for sizes NPS 4 through
+5. Valve internals are shown for reference only NPS 12. Consult factory for other drilling types.
+6. Valve shall be painted two coat epoxy polyurethane system - Bray 4. Flange gaskets not required for installation.
+Red (Ral-3001); on all non stainless steel parts
+7. Seat test is not applicable
+© 2025 BRAY INTERNATIONAL. ALL RIGHTS RESERVED. BRAY.COM EN_TSM_942_20250716 9 of 11
+=== page 10 ===
+DIMENSIONS & WEIGHTS | ASME (mm & kg)
+SERIES 942
+“D” +/- 1 in.
+“K” - NO OF BLIND TAPPED HOLES
+“L” - UNC TAP X “M” - DEEP
+(INCLUDING RAISED FACE PER SIDE)
+R/F ø “C”
+“P” - NO OF TAPPED THRU HOLES &
+“L” - UNC TAP (PER SIDE)
+“N” Purge
+Port
+(4 places) ø “B” PCD “A”
+DIMENSIONS (mm) WEIGHT (kg)
+DN A B PCD R/FØC D K L M N P PNEUMATIC ACTUATOR
+100 51 190.5 158 730 2 5/8"-11 UNC 10 1/4 NPT 6 27
+125 57 215.9 186 820 2 3/4"-10 UNC 12 3/8 NPT 6 32
+150 57 241.3 216 905 2 3/4"-10 UNC 11 3/8 NPT 6 45
+200 70 298.5 270 1045 2 3/4"-10 UNC 12 3/8 NPT 6 59
+250 70 362 324 1240 4 7/8"-9 UNC 12 1/2 NPT 8 87
+300 76 431.8 381 1350 4 7/8"-9 UNC 12.5 1/2 NPT 8 140
+NOTES: NOTES:
+1. Pressure Rating (CWP) - 10 Bar 1. Consult factory for other actuator types.
+2. All dimensions are in mm unless specified 2. Dimensions are approximate and subject to change. Consult
+3. Valve is shown in closed position factory for certified drawings.
+4. PCD, size of bolt hole, no of bolts to suit ASME B16.5 Cl150 flanges 3. Drilling in conformance with ASME B16.5 for sizes NPS 4 through
+5. Valve internals are shown for reference only NPS 12. Consult factory for other drilling types.
+6. Valve shall be painted two coat epoxy polyurethane system - Bray 4. Flange gaskets not required for installation.
+Red (Ral-3001); on all non stainless steel parts
+7. Seat test is not applicable
+© 2025 BRAY INTERNATIONAL. ALL RIGHTS RESERVED. BRAY.COM EN_TSM_942_20250716 10 of 11
+=== page 11 ===
+SINCE 1986, BRAY HAS PROVIDED FLOW CONTROL SOLUTIONS
+FOR A VARIETY OF INDUSTRIES AROUND THE WORLD.
+VISIT BRAY.COM TO LEARN MORE ABOUT
+BRAY PRODUCTS AND LOCATIONS NEAR YOU.
+HEADQUARTERS
+Bray International, Inc.
+13333 Westland East Blvd.
+Houston, Texas 77041
+Tel: +1.281.894.5454
+All statements, technical information, and recommendations in this bulletin are for general
+use only. Consult Bray representatives or factory for the specific requirements and material
+selection for your intended application. The right to change or modify product design or
+product without prior notice is reserved. Patents issued and applied for worldwide.
+Bray® is a registered trademark of Bray International, Inc.
+© 2025 BRAY INTERNATIONAL. ALL RIGHTS RESERVED. BRAY.COM EN_TSM_942_20250716
+THE HIGH PERFORMANCE COMPANY BRAY.COM

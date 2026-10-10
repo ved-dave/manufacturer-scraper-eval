@@ -1,0 +1,128 @@
+=== page 1 ===
+RITE® SERIES 210
+SINGLE DOOR WAFER TYPE SWING CHECK VALVE
+INTEGRAL SOFT SEAT
+OVERVIEW APPLICATIONS
+The Rite® Series 210 wafer combination swing check valves are > Chemical Processing > Petrochemical
+flow activated and Rite® Sized. The Rite® Series Check Valve > Electrolysis > Power Generation
+inlet ports and disc have been shape optimized to achieve a > Facilities/Skid > Refrigeration
+fully open position at low flow rates (3 ft/s on average). > HVAC > Storage & Transport
+> Marine > Tank Trucks
+SPECIFICATIONS > Nuclear > Water
+> Oil Transport
+NPS 1” to 60”
+Size Range
+25mm to 1500mm
+-240 to 400 °F (-151 to 204 °C) (Pending MEDIA
+Temperature Range
+Materials Selected)
+> Dry Chlorine (Gas or > Hydrogen
+ASME (125, 150, 300)
+Operating Pressure Liquid) > Oxygen
+DIN (PN10, 16, 25, 40)
+> Gases > Water
+Body Style One-Piece Wafer Body Integral Type
+Leakage Rate Zero Leakage
+DESIGN FEATURES
+Figure 01: Integral Soft Seat Cutaway
+The Series 210 soft seated check valves offer:
+Front View.
+SINGLE DOOR DESIGN:
+Below numbered list can be referenced on various
+figures throughout document
+1 Combination design utilizing both gravity + spring
+1
+makes the valve easy to open/close, reducing water 2
+hammer.
+2 Limited movement of internal parts during operation
+extends service life.
+3 Elliptical inlet shape designed to accelerate line media
+4
+through the valve.
+3
+4 Optimal diameter for high flow capacity.
+5 Short face to face, reducing weight and space between
+5
+flanges.
+6 Low cracking pressure design.
+7 Quick response time (ideal for process lines with
+varying flows & control valves).
+8 Customizable modular design, allows for adding
+optional special accessories to meet customer
+application requirements.
+9 Cost & energy efficiency, requiring only one set of
+Figure 02: Integral Soft Seat Cutaway
+flange studs which span the valve, reducing in-service
+Rear View.
+vibration.
+10 A mechanically dynamic seal, contained in a specially
+designed groove.
+11 Maintenance is simple as the o-ring is easily removed
+and replaced when worn.
+12 As pressure is applied to the valve disc, the seal is
+compressed into the groove ensuring a consistent and
+uniform seal.
+13 The load on the seal is controlled, reducing wear for
+6
+longer life.
+© 2025 BRAY INTERNATIONAL. ALL RIGHTS RESERVED. BRAY.COM EN_SDS_S210_ISS_20250311 1 of 2
+=== page 2 ===
+RITE® SERIES 210
+SINGLE DOOR WAFER TYPE SWING CHECK VALVE
+INTEGRAL SOFT SEAT
+DESIGN STANDARDS MATERIAL OPTIONS1
+Body Material determines whether design is integral type, or seat
+Valve Design ASME B16.34 ring type. See below chart:
+H100, SA01, SA1, SA2, SA3, SA4, SA4A, Cast Iron (ASTM A126 CLB)
+Accessories Available SA6, SA7, SA10, SA16, SA40, SA40A,
+SA50, etc. Body Stainless Steel (ASTM A351 CF8M)
+Testing Standard API 598, ASME B16.34 Exotic Alloys
+Face-to-Face Manufacturer’s Standard Stainless Steel (ASTM A351 CF8M)
+Hinge
+Matches body material on exotic materials
+Seat (Integral) Matches body material
+CERTIFICATIONS AND APPROVALS Valve size: <12”: Stainless Steel (ASTM A313
+316) standard duty
+CE/PED Spring Valve size: >14”+: Stainless Steel (ASTM A313
+Certifications 17-7 PH)
+CRN
+Inconel (X750) on exotic body materials
+Approvals NSF-61
+Spacer Stainless Steel (ASTM A479 316), PTFE optional
+Additional information is available in the Bray Rite® Ltd. Technical
+Stainless Steel (ASTM A479 316)
+Sales Manual.
+Pin
+Matches body material on exotic materials
+Steel
+Plug Matches body material on stainless steel and
+exotic alloys
+Lock Nut Steel Zinc Plated
+Eye Bolt Steel Zinc Plated
+Nameplate Stainless Steel (SS 316)
+Stainless Steel (ASTM A351 CF8M)
+Figure 03: Integral Soft Seat Disc
+Matches body material on exotic materials
+Exploded View, Cast Iron.
+Rivet Steel Zinc Plated
+BUNA-N, EPDM, FKM-A, HNBR, Neoprene
+O-Ring PTFE-virgin, Teflon encapsulated silicone,
+Viton
+Stainless Steel (ASTM F594 316)
+Disc Nut
+Matches body on exotic materials
+Rite® Series Check Valve integral type part number: V0215CBZ
+(For 2”, Class 150, Cast Iron ASTM A126 CLB Body, BUNA-N Seat,
+SS Spacer, Series 210)
+8
+Note: 1 Dimensions available in ASME and DIN sizes.
+7
+Figure 04: Integral Soft Seat
+Exploded View, Stainless Steel.
+Figure 05: Integral Soft Seat In-Pipe View. Figure 06: Integral Soft Seat Close-Up Cutaway Views.
+9
+10
+12
+11
+13
+© 2025 BRAY INTERNATIONAL. ALL RIGHTS RESERVED. BRAY.COM EN_SDS_S210_ISS_20250311 2 of 2

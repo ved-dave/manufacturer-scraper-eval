@@ -1,0 +1,69 @@
+=== page 1 ===
+Certificate / Certificat
+Zertifikat /
+BRA 071219 C005
+exida hereby confirms that the:
+Tri Lok Butterfly Valves
+The manufacturer
+may use the mark:
+Bray International Inc.
+Houston, Texas - USA
+Has been assessed per the relevant requirements of:
+IEC 61508 : 2010 Parts 1-2
+and meets requirements providing a level of integrity to:
+Systematic Capability: SC 3 (SIL 3 Capable)
+Random Capability: Type A, Route 2 Device
+H
+Revision 6.0 October 31, 2022
+PFH/PFD and Architecture Constraints
+Surveillance Audit Due AVG
+must be verified for each application
+October 1 , 2025
+Safety Function:
+The Butterfly Valve will move to the designed safe position per
+the actuator design within the specified safety time.
+Application Restrictions:
+The unit must be properly designed into a Safety Instrumented
+Function per the Safety Manual requirements.
+Place embossed Evaluating Assessor
+seal here for
+originals, lining it
+up at the bottom
+#1004 Certifying Assessor
+Page 1 of 2
+=== page 2 ===
+Certificate / Certificat / Zertifikat /
+BRA 071219 C005
+Systematic Capability: SC 3 (SIL 3 Capable)
+Random Capability: Type A Element
+PFH/PFD and Architecture Constraints
+AVG
+must be verified for each application
+Systematic Capability :
+Tri- Lok Butterfly
+The product has met manufacturer design process requirements of Safety
+Valves Integrity Level (SIL) 3. These are intended to achieve sufficient integrity
+against systematic errors of design by the manufacturer.
+A Safety Instrumented Function (SIF) designed with this product must not
+be used at a SIL level higher than stated.
+Random Capability:
+The SIL limit imposed by the Architectural Constraints for each element.
+IEC 61508 Failure Rates, Clean Service, Static
+Applications, Good Site Maintenance Practices in FIT1
+1FIT = 1 failure / 109hours
+2PVST = Partial Valve Stroke Test of a final element Device
+SIL Verification:
+The Safety Integrity Level (SIL) of an entire Safety Instrumented Function (SIF)
+must be verified via a calculation of PFH/PFD considering redundant
+AVG
+architectures, proof test interval, proof test effectiveness, any automatic
+diagnostics, average repair time and the specific failure rates of all products
+included in the SIF. Each subsystem must be checked to assure compliance
+with minimum hardware fault tolerance (HFT) requirements.
+The following documents are a mandatory part of certification:
+80 N Main St
+Assessment Report: BRA 19-05-130 R001, V3 R1 and later
+Sellersville, PA 18960
+Safety Manual: SM-1003, Tri Lok triple Offset Butterfly Valve Safety Manual
+T-061 V5R2
+Page 2 of 2

@@ -1,0 +1,101 @@
+=== page 1 ===
+RITE® SPECIAL APPLICATION SERIES SA3
+EXTERNAL BACKFLUSH LEVER & SPRING
+CHECK VALVE ACCESSORY
+OVERVIEW APPLICATIONS
+The Rite® Series SA3 check valve accessory with external > Backflushing pipelines
+backflush lever & spring is designed to allow manual operation > Food & Beverage
+in applications requiring backflush processes where valve also
+needs force to close.
+MEDIA
+> Dry Chlorine (Gas or > Hydrogen
+SPECIFICATIONS
+Liquid) > Oxygen
+NPS 2” to 12” > Gases > Water
+Size Range
+50mm to 300mm
+Temperature Range Pending Materials Selected
+Operating Pressure Pending Pressure Class Selected
+Body Style One-Piece Flanged or Wafer Body
+Compatibility Bray 205, 210, or 211 Series
+Leakage Rate API 598
+DESIGN FEATURES Figure 01: SA3 Rear View Closed (Right
+Hand Mount Displayed and Provided As
+The Rite® Series SA3 check valve accessory offers single
+Standard).
+door check valve design modification to alter flow
+conditions:
+APPLICATION:
+The purpose of equipping a standard Rite® Series Single
+Door Wafer or Flanged Type Swing Check Valve with an
+external backflush lever & spring, is to allow external control
+of backflush process. Used in applications such as pipelines
+for chemical washes in the food and beverage industry
+as well as multiple pumping installations terminating in
+common headers where transient forces are difficult to
+ascertain and control. Other applications include those
+that require fast closure such as solid/liquid handling, &
+wastewater. The basic principle is to start closing the valve as
+soon as the flow starts to decrease. With the external spring
+it is possible to close the valve before the flow reverses. This
+reduces or eliminates water-hammer and the associated
+problems.
+Figure 02: SA3 Rear View Open.
+GENERAL DESCRIPTION:
+The model SA3 is a standard Rite® Series Single Door
+Swing Check Valve that has been converted, featuring a
+positive hexagon drive at the disc/hinge/shaft connection.
+The shaft extends through and is supported by the body
+at one end, by a bushing in the body, and by a ball bearing
+designed to reduce friction mounted in a bracket on the
+opposing side. O-rings seal the shaft, seal bushing and the
+body to prevent leakage. An external spring is mounted on
+the shaft via a hexagonal connection and anchored to the
+bracket via the eye bolt to allow pre-load adjustment and
+facilitate rapid disc closure. The spring adaptor can also
+be used as an external lever to manually open or close the
+valve.
+© 2025 BRAY INTERNATIONAL. ALL RIGHTS RESERVED. BRAY.COM EN_CVA_SDS_SA3_20250721 1 of 2
+=== page 2 ===
+RITE® SPECIAL APPLICATION SERIES SA3
+EXTERNAL BACKFLUSH LEVER & SPRING
+CHECK VALVE ACCESSORY
+For body/trim materials user must first refer to and select the MATERIAL OPTIONS1
+appropriate model from the foundation unit Sales Data Sheets.
+Seal Bushing Stainless Steel (ASTM A479 316)
+Integral Hard Seat (IHS)
+BUNA-N, EPDM, FKM-A, HNBR, Neoprene
+Seat Ring Hard Seat (SRHS)
+Series 205 Seal O-Rings (x4) PTFE-virgin, Teflon encapsulated silicone,
+Integral Soft Seat (ISS) Viton
+Seat Ring Soft Seat (SRSS) Spring Adaptor Steel
+Integral Hard Seat (IHS) Retaining Plate Steel
+Seat Ring Hard Seat (SRHS) Bracket Steel
+Series 210
+Integral Soft Seat (ISS) Socket Head Steel Zinc Plated
+Screws (x3)
+Seat Ring Soft Seat (SRSS)
+Dowel Pins (x2) Steel Zinc Plated
+Integral Hard Seat (IHS)
+Ball Bearing Steel
+Seat Ring Hard Seat (SRHS)
+Series 211 Round Head Steel Zinc Plated
+Integral Soft Seat (ISS) Screw
+Seat Ring Soft Seat (SRSS) Eyebolt Steel Zinc Plated
+Nut (x2) Steel Zinc Plated
+Valve size: <12”: Stainless Steel (ASTM A313 316)
+standard duty
+Spring
+Valve size: >14”+: Stainless Steel (ASTM A313
+17-7 PH)
+Note: 1 Dimensions available in ASME and DIN sizes.
+All external components can be offered in SS where required.
+* Previous Models before July 2024 may have included slightly
+different material configurations/parts callout lists.
+Rite® Series Check Valve Integral Hard Seat type part number:
+Figure 03: SA3 Exploded View. V0215XBZ205SA3 (For 2”, Class 150, Stainless Steel (ASTM A351
+CF8M) Body, BUNA-N O-Ring, SS Spacer, Series 205, Special
+Application Series SA3).
+Figure 04: Seal Bushing & O-Ring
+Close up.
+© 2025 BRAY INTERNATIONAL. ALL RIGHTS RESERVED. BRAY.COM EN_CVA_SDS_SA3_20250721 2 of 2

@@ -1,0 +1,72 @@
+=== page 1 ===
+RITE® SPECIAL APPLICATION SERIES SA4
+EXTERNAL POSITION INDICATOR
+CHECK VALVE ACCESSORY
+OVERVIEW APPLICATIONS
+The Rite® Series SA4 check valve accessory with external > Water
+position indicator is designed to indicate degree of open/close > Where Disc Position Is
+in applications requiring visual indication of disc position. Required
+MEDIA
+> Dry Chlorine (Gas or > Hydrogen
+SPECIFICATIONS
+Liquid) > Oxygen
+NPS 2” to 60” > Gases > Water
+Size Range
+50mm to 1500mm
+Temperature Range Pending Materials Selected
+Operating Pressure Pending Pressure Class Selected
+Body Style One-Piece Flanged or Wafer Body
+Compatibility Bray 205, 210, or 211 Series
+Leakage Rate API 598
+DESIGN FEATURES Figure 01: SA4 Rear View Closed (Right
+Hand Mount Displayed and Provided As
+The Rite® Series SA4 check valve accessory offers single
+Standard).
+door check valve design modification to alter indication
+conditions:
+APPLICATION:
+The purpose of equipping a standard Rite® Series Single
+Door Wafer or Flanged Type Swing Check Valve with an
+external position indicator, is to provide a visual indication of
+the internal disc position.
+GENERAL DESCRIPTION:
+The model SA4 is a standard Rite® Series Single Door
+Swing Check Valve that has been converted, featuring a
+positive hexagon drive at the disc/hinge/shaft connection.
+The shaft extends through and is supported by the body
+at one end, and by a bushing in the body at the other
+end. O-rings seal the shaft, seal bushing and the body to
+prevent leakage. The indicator mounted on the shaft is
+designed to provide disc position indication.
+Figure 02: SA4 Rear View Open.
+© 2025 BRAY INTERNATIONAL. ALL RIGHTS RESERVED. BRAY.COM EN_CVA_SDS_SA4_20240924 1 of 2
+=== page 2 ===
+RITE® SPECIAL APPLICATION SERIES SA4
+EXTERNAL POSITION INDICATOR
+CHECK VALVE ACCESSORY
+For body/trim materials user must first refer to and select the MATERIAL OPTIONS1
+appropriate model from the foundation unit Sales Data Sheets.
+Seal Bushing Stainless Steel (ASTM A479 316)
+Integral Hard Seat (IHS)
+BUNA-N, EPDM, FKM-A, HNBR, Neoprene
+Seat Ring Hard Seat (SRHS)
+Series 205 Seal O-Rings (x4) PTFE-virgin, Teflon encapsulated silicone,
+Integral Soft Seat (ISS) Viton
+Seat Ring Soft Seat (SRSS) Indicator Aluminum
+Integral Hard Seat (IHS) Pin Steel
+Seat Ring Hard Seat (SRHS) Note: 1 Dimensions available in ASME and DIN sizes.
+Series 210 All external components can be offered in SS where required.
+Integral Soft Seat (ISS) * Previous Models before July 2024 may have included slightly
+different material configurations/parts callout lists.
+Seat Ring Soft Seat (SRSS)
+Rite® Series Check Valve Integral Hard Seat type part number:
+Integral Hard Seat (IHS) V0215XBZ205SA4 (For 2”, Class 150, Stainless Steel (ASTM A351
+CF8M) Body, BUNA-N O-Ring, SS Spacer, Foundation Series 205,
+Seat Ring Hard Seat (SRHS) Special Application Series SA4).
+Series 211
+Integral Soft Seat (ISS)
+Seat Ring Soft Seat (SRSS)
+Figure 04: Seal Bushing & O-Ring
+Close up.
+Figure 03: SA4 Exploded View.
+© 2025 BRAY INTERNATIONAL. ALL RIGHTS RESERVED. BRAY.COM EN_CVA_SDS_SA4_20240924 2 of 2

@@ -1,0 +1,390 @@
+=== page 1 ===
+RESILIENT SEATED BUTTERFLY VALVES
+FFUUNNCCTTIIOONNAALL SSAAFFEETTYY MMAANNUUAALL
+Per IEC 61508 and IEC 61511 Standards
+BRAY.COM
+=== page 2 ===
+RREESSIILLIIEENNTT SSEEAATTEEDD BBUUTTTTEERRFFLLYY VVAALLVVEESS
+FFUUNNCCTTIIOONNAALL SSAAFFEETTYY MMAANNUUAALL
+Table of Contents
+1.0 Introduction. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+1.1 Terms and Abbreviations. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+1.2 Acronyms . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .1
+1.3 Product Support . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .1
+1.4 Related Literature . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .2
+1.5 Reference Standards . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .2
+2.0 Device Description . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .2
+3.0 Designing a SIF Using A Manufactured Product . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .2
+3.1 Safety Function. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+3.2 Environmental limits. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+3.3 Application limits. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+3.4 Design Verification. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+3.5 SIL Capability . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .3
+3.5.1 Systematic Integrity . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .3
+3.5.2 Random Integrity . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .3
+3.5.3 Safety Parameters . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .3
+3.6 Connection of the Bray Resilient Seated Butterfly Valves
+S20/21, S22/23, S30/31, S32/33, and S35/36 to the SIS Logic-solver . . . . . . . . . . . . . . . . . . . . .3
+3.7 General Requirements . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .3
+4.0 Installation And Commissioning . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .4
+4.1 Installation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .4
+4.2 Physical Location and Placement . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .4
+4.3 Pneumatic Connections . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .4
+5.0 Operation And Maintenance . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .4
+5.1 Proof test without automatic testing . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .4
+5.2 Proof test with automatic partial operational stroke testing . . . . . . . . . . . . . . . . . . . . . . . .5
+5.3 Repair and replacement . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .5
+5.4 Useful Life . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .5
+5.5 Manufacturer Notification. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+5.6 Product Registration . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .5
+START-UP CHECKLIST . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .6
+=== page 3 ===
+RESILIENT SEATED BUTTERFLY VALVES
+FFUUNNCCTTIIOONNAALL SSAAFFEETTYY MMAANNUUAALL
+1.0 INTRODUCTION Fail Annunciation Detected - Failure that does not
+cause a false trip or prevent the safety function but
+This Safety Manual provides information necessary
+does cause loss of an automatic diagnostic or false
+to design, install, verify and maintain a Safety
+diagnostic indication.
+Instrumented Function (SIF) utilizing the Bray resilient
+seated butterfly valves S20/21, S22/23, S30/31, S32/33, Fail No Effect - Failure of a component that is part
+and S35/36. of the safety function but that has no effect on the
+safety function.
+This manual provides necessary requirements for
+meeting the IEC 61508 or IEC 61511 functional safety Low Demand Mode - Mode, where the frequency of
+standards. demands for operation made on a safety-related system
+is no greater than twice the proof test frequency.
+1.1 TERMS AND ABBREVIATIONS
+1.2 ACRONYMS
+Safety - Freedom from unacceptable risk of harm.
+FMEDA - Failure Modes, Effects and Diagnostic Analysis.
+Functional Safety - The ability of a system to carry
+out the actions necessary to achieve or to maintain HFT - Hardware Fault Tolerance.
+a defined safe state for the equipment / machinery /
+MOC - Management of Change. These are specific
+plant / apparatus under control of the system.
+procedures often done when performing any work
+Basic Safety - The equipment must be designed and activities in compliance with government regulatory
+manufactured such that it protects against risk of damage authorities.
+to persons by electrical shock and other hazards and
+PFDavg - Average Probability of Failure on Demand.
+against resulting fire and explosion. The protection
+must be effective under all conditions of the nominal SFF - Safe Failure Fraction, the fraction of the overall
+operation and under single fault condition. failure rate of a device that results in either a safe fault
+or a diagnosed unsafe fault.
+Safety Assessment - The investigation to arrive at a
+judgment - based on evidence - of the safety achieved SIF - Safety Instrumented Function, a set of equipment
+by safety-related systems. intended to reduce the risk due to a specific hazard
+(a safety loop).
+Fail-Safe State - State where the valve actuator is de-
+energized and (if applicable with a spring-returned SIL - Safety Integrity Level, discrete level (one out
+actuator) the springs are extended.. of a possible four) for specifying the safety integrity
+requirements of the safety functions to be allocated to
+Fail Safe - Failure that causes the valve to go to the
+the E/E/PE safety-related systems where Safety Integrity
+defined fail-safe state without a demand from the
+Level 4 has the highest level of safety integrity and
+process.
+Safety Integrity Level 1 has the lowest.
+Fail Dangerous - Failure that does not respond to a
+SIS - Safety Instrumented System – Implementation
+demand from the process (i.e. being unable to go to
+of one or more Safety Instrumented Functions. An
+the defined fail-safe state).
+SIS is composed of any combination of sensor(s), logic
+Fail Dangerous Undetected - Failure that is dangerous solver(s), and final element(s).
+and that is not being diagnosed by automatic stroke
+1.3 PRODUCT SUPPORT
+testing.
+Product support can be obtained from:
+Fail Dangerous Detected - Failure that is dangerous but
+is detected by automatic stroke testing. Bray Controls Inc.
+13333 Westland East Blvd.
+Fail Annunciation Undetected - Failure that does not
+Houston, TX 77041 - USA.
+cause a false trip or prevent the safety function but
+Phone: 281-894-5454
+does cause loss of an automatic diagnostic and is not
+bray.com
+detected by another diagnostic.
+A Th ll e i n te fo ch rm ni a c t a io l d n a h t e a r h ei e n r e is in p i r s o f p o r r ie g t e a n ry e r a a n l d in c f o o n rm fid a e ti n o t n ia o l n a l n y d . P m ro a d y u n c o t t s b u e it a c b o i p li i t e y d s o h r o r u e ld p r b o e d u b c a e s d e d w s it o h le o l u y t u t p h o e n e x cu p s re to ss m e e d r ’ w s r d it e t t e a n il e c d o n k s n e o n w t l o e f d B g R e A a Y n d IN e T x E p R e N ri A e T n I c O e N w A i L th , I t n h c e . ir application. RSBV | 1
+=== page 4 ===
+RESILIENT SEATED BUTTERFLY VALVES
+FFUUNNCCTTIIOONNAALL SSAAFFEETTYY MMAANNUUAALL
+1.4 RELATED LITERATURE with rating of 175 psi (12 bar).
+Hardware Documents: The S32/33 resilient seated butterfly valve is used to
+control process fluids. It comprises a one-piece body, a
+• Product Brochure
+disc, a stem, and an elastomer seat. It is offered in wafer
+• Installation, Operation and Maintenance Instructions version in sizes from 24” through 36”. S32 is rated at 75
+for Bray resilient seated butterfly valves S20/21, psi (5 bar), and S33 is rated at 150 psi (10 bar).
+S22/23, S30/31, S32/33, and S35/36. The S35/36 resilient seated butterfly valve is used to
+control process fluids. It comprises a one-piece body,
+• Bray Technical Manual TM-1050
+a disc, a stem, and an elastomer seat. It is offered in
+Guidelines/References: flanged version in sizes from 24” through 72”. S35 is
+rated 75 psi (5 bar), and S36 is rated 150 psi (10 bar).
+• Safety Integrity Level Selection – Systematic
+Methods Including Layer of Protection Installation details conform to the international flange
+Analysis, ISBN 1-55617-777-1, ISA standards ASME B16.1, B16.5, B16.47, ISO 7005, JIS B2238,
+and others. All Bray resilient seated butterfly valves are
+• Control System Safety Evaluation and Reliability, provided with actuator/operator mounting details which
+2nd Edition, ISBN 1-55617-638-8, ISA conform to ISO 5211 standard.
+• Safety Instrumented Systems Verification, 3.0 DESIGNING A SIF USING A
+Practical Probabilistic Calculations, MANUFACTURED PRODUCT
+ISBN 1-55617-909-9, ISA
+3.1 SAFETY FUNCTION
+1.5 REFERENCE STANDARDS
+When de-energized, the Bray resilient seated butterfly
+Functional Safety: valves S20/21, S22/23, S30/31, S32/33, and S35/36 move
+to their fail-safe position. Depending on the version
+• IEC 61508: 2000 Functional safety of electrical/
+specified: Fail – Closed or Fail - Open, the Bray resilient
+electronic/ programmable electronic safety-related
+seated butterfly valves S20/21, S22/23, S30/31, S32/33, and
+systems
+S35/36 will rotate the valve disc to close off the flow path
+through the valve body or open the flow path through
+• ANSI/ISA 84.00.01-2004 (IEC 61511 Mod.) Functional
+the valve body.
+Safety – Safety Instrumented Systems for the Process
+Industry Sector The Bray resilient seated butterfly valves S20/21, S22/23,
+2.0 DEVICE DESCRIPTION S30/31, S32/33, and S35/36 are intended to be part of
+final element subsystem as defined per IEC 61508 and
+The S20/21 resilient seated butterfly valve is used to the achieved SIL level of the designed function must be
+control process fluids. It comprises a two-piece body verified by the designer.
+and a single piece disc stem, and an elastomer seat. It is
+3.2 ENVIRONMENTAL LIMITS
+offered in wafer and lug version in sizes from 1” through
+20”, with rating of up to 150 psi (10 bar), depending on The designer of a SIF must check that the product is rated
+the materials of construction. for use within the expected environmental limits. Refer
+to the Service data and Material sections of Bray resilient
+The S22/23 resilient seated butterfly valve is used to
+seated butterfly valves S20/21, S22/23, S30/31, S32/33,
+control process fluids. It comprises a two-piece body and
+and S35/36 product catalogues for environmental limits.
+a separate disc and stem in sizes 2” through 4”, single
+piece disc stem in sizes 6” through 24”, and a polymer 3.3 APPLICATION LIMITS
+seat. It is offered in wafer and lug version in sizes from
+The materials of construction of Bray resilient seated
+2” through 24”, with rating of 150 psi (10 bar).
+butterfly valves S20/21, S22/23, S30/31, S32/33, and S35/36
+The S30/31 resilient seated butterfly valve is used to are specified in the respective valve product brochures.
+control process fluids. It comprises a one-piece body, It is important that the designer check for material
+a disc, a stem, and an elastomer seat. It is offered in suitability considering on-site conditions and air supply
+wafer and lug version in sizes from 2” through 20”, conditions. If any of the Bray resilient seated butterfly
+2 | BRAY.COM A Th ll e i n te fo ch rm ni a c t a io l d n a h t e a r h ei e n r e is in p i r s o f p o r r ie g t e a n ry e r a a n l d in c f o o n rm fid a e ti n o t n ia o l n a l n y d . P m ro a d y u n c o t t s b u e it a c b o i p li i t e y d s o h r o r u e ld p r b o e d u b c a e s d e d w s it o h le o l u y t u t p h o e n e x cu p s re to ss m e e d r ’ w s r d it e t t e a n il e c d o n k s n e o n w t l o e f d B g R e A a Y n d IN e T x E p R e N ri A e T n I c O e N w A i L th , I t n h c e . ir application.
+=== page 5 ===
+RESILIENT SEATED BUTTERFLY VALVES
+FFUUNNCCTTIIOONNAALL SSAAFFEETTYY MMAANNUUAALL
+valves S20/21, S22/23, S30/31, S32/33, and S35/36 are used The final element assembly consists of many components,
+outside of the application limits or with incompatible i.e. a Bray resilient seated butterfly valve such as S20/21,
+materials, the reliability data provided becomes invalid. S22/23, S30/31, S32/33, and S35/36, an actuator or
+operator, solenoid, quick exhaust valve, etc. and the SIL
+3.4 DESIGN VERIFICATION
+must be verified for the entire assembly using failure rates
+A detailed Failure Mode, Effects, and Diagnostics Analysis from all components. This analysis must account for any
+(FMEDA) report is available from Bray Controls. This hardware fault tolerance and architecture constraints.
+report details all failure rates and failure modes as well
+3.5.3 SAFETY PARAMETERS
+as the expected lifetime.
+For detailed failure rate information refer to the Failure
+The achieved Safety Integrity Level (SIL) of an entire
+Modes, Effects and Diagnostic Analysis Report for the
+Safety Instrumented Function (SIF) design must be
+Bray resilient seated butterfly valves S20/21, S22/23,
+verified by the designer via a calculation of PFDavg
+S30/31, S32/33, and S35/36.
+considering architecture, proof test interval, proof test
+effectiveness, any automatic diagnostics, average repair 3.6 CONNECTION OF THE BRAY RESILIENT SEATED
+time and the specific failure rates of all products included BUTTERFLY VALVES S20/21, S22/23, S30/31, S32/33,
+in the SIF. Each subsystem must be checked to assure AND S35/36 TO THE SIS LOGIC-SOLVER
+compliance with minimum hardware fault tolerance
+The Bray resilient seated butterfly valves S20/21, S22/23,
+(HFT) requirements.
+S30/31, S32/33, and S35/36 are connected to the safety
+When using the Bray resilient seated butterfly valves rated logic solver which is actively performing the safety
+S20/21, S22/23, S30/31, S32/33, and S35/36 in a redundant function as well as automatic diagnostics designed to
+configuration, a common cause factor of at least 10% diagnose potentially dangerous failures within the Bray
+should be included in safety integrity calculations. resilient seated butterfly valves S20/21, S22/23, S30/31,
+S32/33, and S35/36, (i.e. partial stroke test).
+The failure rate data listed the FMEDA report is only valid
+for the useful life time of Bray resilient seated butterfly 3.7 GENERAL REQUIREMENTS
+valves S20/21, S22/23, S30/31, S32/33, and S35/36.
+The system’s response time shall be less than process
+The failure rates will increase sometime after this time safety time. The Bray resilient seated butterfly valves
+period. Reliability calculations based on the data listed S20/21, S22/23, S30/31, S32/33, and S35/36 are only
+in the FMEDA report for mission times beyond the part of the final element of a SIS. All elements of the
+lifetime may yield results that are too optimistic, i.e. the SIF must be chosen to meet the safety response time.
+calculated Safety Integrity Level will not be achieved.
+All SIS components, including the Bray resilient seated
+3.5 SIL CAPABILITY butterfly valves S20/21, S22/23, S30/31, S32/33, and
+S35/36 must be operational before process start-up.
+3.5.1 SYSTEMATIC INTEGRITY
+User shall verify that each Bray resilient seated butterfly
+The product has met manufacturer design process
+valves S20/21, S22/23, S30/31, S32/33, and S35/36 is
+requirements of Safety Integrity Level (SIL) 3. These
+suitable for use in safety applications by confirming
+are intended to achieve sufficient integrity against
+the each valve’s nameplate is properly marked.
+systematic errors of design by the manufacturer. A
+Safety Instrumented Function (SIF) designed with this Personnel performing maintenance and testing on Bray
+product must not be used at a SIL level higher than the resilient seated butterfly valves S20/21, S22/23, S30/31,
+statement without “prior use” justification by end user S32/33, and S35/36 shall be competent to do so.
+or diverse technology redundancy in the design.
+Results from the proof tests shall be recorded and
+3.5.2 RANDOM INTEGRITY reviewed periodically.
+Bray resilient seated butterfly valves S20/21, S22/23, The useful life of the Bray resilient seated butterfly
+S30/31, S32/33, and S35/36 are Type A Devices and are valves S20/21, S22/23, S30/31, S32/33, and S35/36 is
+just some of the many components that can be used in discussed in Section 5.4.
+a final element assembly.
+A Th ll e i n te fo ch rm ni a c t a io l d n a h t e a r h ei e n r e is in p i r s o f p o r r ie g t e a n ry e r a a n l d in c f o o n rm fid a e ti n o t n ia o l n a l n y d . P m ro a d y u n c o t t s b u e it a c b o i p li i t e y d s o h r o r u e ld p r b o e d u b c a e s d e d w s it o h le o l u y t u t p h o e n e x cu p s re to ss m e e d r ’ w s r d it e t t e a n il e c d o n k s n e o n w t l o e f d B g R e A a Y n d IN e T x E p R e N ri A e T n I c O e N w A i L th , I t n h c e . ir application. RSBV | 3
+=== page 6 ===
+RESILIENT SEATED BUTTERFLY VALVES
+FFUUNNCCTTIIOONNAALL SSAAFFEETTYY MMAANNUUAALL
+4.0 INSTALLATION AND COMMISSIONING 5.0 OPERATION AND MAINTENANCE
+4.1 INSTALLATION 5.1 PROOF TEST WITHOUT AUTOMATIC TESTING
+The Bray resilient seated butterfly valves S20/21, S22/23, The objective of proof testing is to detect failures
+S30/31, S32/33, and S35/36 must be installed per standard within the valve that are not detected by any automatic
+practices outlined in the Installation, Operation and diagnostics of the system. Of main concern are
+Maintenance Instructions. undetected failures that prevent the safety instrumented
+function from performing its intended function.
+The environment must be checked to verify that
+environmental conditions do not exceed the ratings. The frequency of proof testing, or the proof test
+interval, is to be determined in reliability calculations
+The Bray resilient seated butterfly valves S20/21, S22/23,
+for the safety instrumented functions for which a valve
+S30/31, S32/33, and S35/36 must be accessible for physical
+is applied. The proof tests must be performed more
+inspection.
+frequently than or as frequently as specified in the
+4.2 PHYSICAL LOCATION AND PLACEMENT calculation in order to maintain the required safety
+integrity of the safety instrumented function.
+The Bray resilient seated butterfly valves S20/21, S22/23,
+S30/31, S32/33, and S35/36 shall be accessible with The following proof test is recommended. The results
+sufficient room for pneumatic connections and shall of the proof test should be recorded and any failures
+allow manual proof testing. that are detected and that compromise functional safety
+should be reported to Bray Controls.
+Pneumatic piping to the valve actuator shall be kept as
+short and straight as possible to minimize the airflow The suggested proof test consists of a full stroke of the
+restrictions and potential clogging. Long or kinked Bray resilient seated butterfly valves’ S20/21, S22/23,
+pneumatic tubes may also increase the valve closure time. S30/31, S32/33, and S35/36 valve actuator.
+The Bray resilient seated butterfly valves S20/21, S22/23, TABLE 1: RECOMMENDED PROOF TEST
+S30/31, S32/33, and S35/36 shall be mounted in a low
+Step Action
+vibration environment. If excessive vibration can be
+expected special precautions shall be taken to ensure the 1 Bypass the safety function and take
+integrity of pneumatic connectors to the valve actuator, appropriate action to avoid a false trip
+or the vibration should be reduced using appropriate 2 Send a signal to the final element
+damping mounts. configuration to perform a full stroke and
+verify that this is achieved
+4.3 PNEUMATIC CONNECTIONS
+3 Inspect the Bray resilient seated butterfly
+Recommended piping for the inlet and outlet pneumatic valves S20/21, S22/23, S30/31, S32/33,
+connections to the actuator of the Bray resilient seated and S35/36 for any visible damage or
+butterfly valves S20/21, S22/23, S30/31, S32/33, and S35/36 contamination
+is a minimum 1/4” metal or PVC tubing. The length of 4 Record any failures in your company’s SIF
+tubing between the actuator and the control device, inspection database
+such as a solenoid valve, shall be kept as short as possible 5 Remove the bypass and otherwise restore
+and free of kinks. normal operation
+Only dry air filtered to 50 micron or better is This proof test coverage for Bray resilient seated
+recommended. butterfly valves S20/21, S22/23, S30/31, S32/33, and
+S35/36 are listed in the FMEDA report which is available
+The process air pressure shall meet the requirements set
+from Bray Controls.
+forth in the Installation, Operation and Maintenance
+Instructions. The person(s) performing the proof test of Bray
+resilient seated butterfly valves S20/21, S22/23, S30/31,
+The process air capacity shall be sufficient to move the
+S32/33, and S35/36 should be trained in SIS operations,
+valve actuator within the required time.
+including bypass procedures, valve maintenance and
+company Management of Change procedures.
+4 | BRAY.COM A Th ll e i n te fo ch rm ni a c t a io l d n a h t e a r h ei e n r e is in p i r s o f p o r r ie g t e a n ry e r a a n l d in c f o o n rm fid a e ti n o t n ia o l n a l n y d . P m ro a d y u n c o t t s b u e it a c b o i p li i t e y d s o h r o r u e ld p r b o e d u b c a e s d e d w s it o h le o l u y t u t p h o e n e x cu p s re to ss m e e d r ’ w s r d it e t t e a n il e c d o n k s n e o n w t l o e f d B g R e A a Y n d IN e T x E p R e N ri A e T n I c O e N w A i L th , I t n h c e . ir application.
+=== page 7 ===
+RESILIENT SEATED BUTTERFLY VALVES
+FFUUNNCCTTIIOONNAALL SSAAFFEETTYY MMAANNUUAALL
+5.2 PROOF TEST WITH AUTOMATIC PARTIAL
+OPERATIONAL STROKE TESTING
+An automatic testing scheme that performs a full
+stroke of the Bray resilient seated butterfly valves
+S20/21, S22/23, S30/31, S32/33, and S35/36 and measures
+valve movement timing will detect most potentially
+dangerous failure modes. It is recommended that a
+physical inspection (Step 2 from Table 1) be performed
+on a periodic basis with the time interval determined
+by plant conditions. A maximum inspection interval of
+five years is recommended.
+5.3 REPAIR AND REPLACEMENT
+Repair procedures in the Bray resilient seated butterfly
+valves S20/21, S22/23, S30/31, S32/33, and S35/36
+Installation, Operation and Maintenance manuals
+must be followed.
+5.4 USEFUL LIFE
+The normal useful life of the Bray resilient seated
+butterfly valves in Functional Safety Applications
+(IEC 61508-2) is 10 to 15 years; however, valve cycle life
+and valve useful life can be greater or less depending
+on temperature, flow media (acids, abrasives, total
+dissolved solids, compatibility of valve trim materials
+with media), pressure, fluctuation between extreme
+temperatures, cycle frequency, flow velocity, valve
+orientation and placement in pipeline with respect to
+elbows, pumps, etc., and other application conditions.
+5.5 MANUFACTURER NOTIFICATION
+Any failures that are detected and that compromise
+functional safety should be reported to Bray Controls.
+Please contact Bray Controls customer service.
+5.6 PRODUCT REGISTRATION
+If the product is being used in a safety application
+and there is a desire to receive notices regarding
+the product, register the product with Bray Controls
+Customer Service.
+A Th ll e i n te fo ch rm ni a c t a io l d n a h t e a r h ei e n r e is in p i r s o f p o r r ie g t e a n ry e r a a n l d in c f o o n rm fid a e ti n o t n ia o l n a l n y d . P m ro a d y u n c o t t s b u e it a c b o i p li i t e y d s o h r o r u e ld p r b o e d u b c a e s d e d w s it o h le o l u y t u t p h o e n e x cu p s re to ss m e e d r ’ w s r d it e t t e a n il e c d o n k s n e o n w t l o e f d B g R e A a Y n d IN e T x E p R e N ri A e T n I c O e N w A i L th , I t n h c e . ir application. RSBV | 5
+=== page 8 ===
+RREESSIILLIIEENNTT SSEEAATTEEDD BBUUTTTTEERRFFLLYY VVAALLVVEESS
+FFUUNNCCTTIIOONNAALL SSAAFFEETTYY MMAANNUUAALL
+START-UP CHECKLIST
+The following checklist may be used as a guide to employ the Bray resilient seated butterfly valves S20/21,
+S22/23, S30/31, S32/33 and S35/36 in a safety critical SIF compliant to IEC 61508.
+Verified
+Activity Result
+By Date
+Design
+Target Safety Integrity Level and PFD avg determined
+Correct valve mode chosen (Fail-closed, Fail-open)
+Design decision documented
+Pneumatic compatibility and suitability verified
+SIS logic solver requirements for Bray resilient seated butterfly valves S20/21,
+S22/23, S30/31, S32/33, and S35/36 tests defined and documented
+Routing of pneumatic connections determined
+SIS logic solver requirements for partial stroke tests defined and documented
+Design formally reviewed and suitability formally assessed
+Implementation
+Physical location appropriate
+Pneumatic connections appropriate and according to applicable codes
+SIS logic solver valve actuation test implemented
+Maintenance instructions for proof test released
+Verification and test plan released
+Implementation formally reviewed and suitability formally assessed
+Verification and Testing
+Electrical connections verified and tested
+Pneumatic connection verified and tested
+SIS logic solver valve actuation test verified
+Safety loop function verified
+Safety loop timing measured
+Bypass function tested
+Verification and test results formally reviewed and suitability formally
+assessed
+Maintenance
+Tubing blockage / partial blockage tested
+Safety loop function tested
+HEADQUARTERS
+Bray International, Inc.
+13333 Westland East Blvd. All statements, technical information, and recommendations in this bulletin are for general use only. Consult Bray
+representatives or factory for the specific requirements and material selection for your intended application. The right to
+Houston, Texas 77041 change or modify product design or product without prior notice is reserved. Patents issued and applied for worldwide.
+Tel: 281.894.5454 Bray® is a registered trademark of Bray International, Inc.
+bray.com © 2020 Bray International. All rights reserved. SM-1002_Resilient BFV Safety Manual_06-2020

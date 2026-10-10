@@ -1,0 +1,287 @@
+=== page 1 ===
+FLOW-TEK®
+SERIES 5000/6000 BALL VALVES
+Installation, Operation and Maintenance Manual
+DESIGN 2. OPERATION:
+The design features three piece construction and a “free floating” Operation of the valve is by turning the handle a 1/4 turn (90
+ball allowing ease of maintenance without special tools. degrees). CW to close, CCW to open.
+The ball is not fixed, but is free to move with the line pressure. A. VALVE OPEN POSITlON
+These valves are capable of tight shut-off with flow in either
+The handle is parallel with the pipeline.
+direction regardless of the position of the valve in the line.
+B. VALVE IN CLOSED POSITION
+The downstream seat, opposite the pressurized side of a closed
+The handle is perpendicular to the pipeline.
+valve, must carry the load exerted by the line pressure on the
+ball, while the upstream seat is subject to little load or wear. For
+Valves with actuators should be checked for actuator -valve
+this reason, it is sometimes possible to increase useful seat life
+alignment. Misalignment will result in high operational torque
+by turning the valve end-for-end in the pipeline.
+and damage to valve stem and seals.
+1. USE:
+STEM SEAL ADJUSTMENT:
+The valve should be inspected regularly as part of a preventative
+Stem seal leakage may be corrected without disassembly by
+maintenance program. Flow-Tek’s recommended pressure,
+tightening the packing gland nut gradually until the leakage
+temperature and corrosion limits should be followed to ensure a
+stops. If the leakage continues after adjustment or the valve
+long service life. During shipment, storage, and in operation, the
+operating torque becomes excessive, the seals are worn and
+valve should be fully open or fully closed (“open” is preferred
+should be replaced.
+for shipping and storage). Do not use in throttling service without
+investigating the consequences of flow and pressure conditions 3. GENERAL INFORMATION FOR ON-SITE
+to the valve. INSTALLATION:
+WARNING: Before installing this equipment, confirm Please read completely and understand all instructions provided
+that it is suitable for the intended service. prior to beginning installation or maintenance.
+The identifications tags describe the maximum allowable service The pipes must be flushed clean of dirt, burrs, and welding
+conditions for this product. residues before installing the valve, or the seats and ball surface
+will be damaged.
+Be sure that the installation is protected by appropriate pressure
+control and safety devices to ensure that acceptable limits are The valve may be installed in any position on the pipeline.
+not exceeded. Care should be taken to insure that actuator misalignment does
+not occur or the valve may experience premature failure. The
+actuator may require support to avoid binding the valve stem.
+The pipe ends must be correctly aligned and spaced as to not
+induce stresses in the valve.
+As shipped from the factory, Valves may contain non-silicone
+lubricant. This is for break-in and may be removed by solvent
+washing, if it is undesirable in a particular application.
+HEADQUARTERS BRAY INTERNATIONAL, INC.
+13333 Westland East Blvd.
+Houston, Texas 77041
+Tel: 281.894.5454 ©2025 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED BRAY.COM EN_IOM_5000_6000_20251016 1 of 5
+=== page 2 ===
+FLOW-TEK®
+SERIES 5000/6000 BALL VALVES
+Installation, Operation and Maintenance Manual
+INSTALLATION OF THREADED END VALVES: seal damage may occur.
+1. The use of a thread sealant is recommended; Use 8. When cool, remove the body, clean the end caps, and
+conventional sealant, such as hemp core, Teflon, etc; reassemble per the instructions given below.
+9. Place the bodies between the two end connections; then
+2. Do not tighten by applying torque to the opposite end cap
+replace all bolts and cross tighten.
+or other valve components. Apply a wrench only to the hex/
+octagon nearest the valve end being tightened. Tightening 10. (See table 1. Tightening torques for end cap screws).
+by using the valve body, handle or the opposite end cap
+4. DISASSEMBLY & CLEANING PROCEDURES:
+can seriously damage the valve; Use a wrench on both the
+second end cap and pipe to avoid applying torque to the CAUTION: Line must be depressurized before disassembly.
+body through the bolting. Valve should be cycled after draining the system to relieve
+any pressure trapped in the valve body cavity. Ball valves
+3. In some applications, threaded end valves may be back-
+can trap pressurized media when closed. Flush line with
+welded on site. Use caution. Do not overheat the valve body.
+the valve 1/2 open to remove hazardous media. If the
+Confirm that the end cap bolt holes are aligned with the body
+valve has been used to control hazardous media, it must
+screw holes on both ends and that the end caps are parallel
+be decontaminated before disassembly.
+and correctly spaced to fit the valve body before re-assembly
+or back welding. Make up both of the threaded connections WARNING: DO NOT attempt to remove packing
+normally and then remove the body assembly as described components or any other valve parts while line is under
+below for weld-end connections before back welding the pressure!
+threaded connection.
+CAUTION: Properly support the valve before removing
+4. Do not use the body screws to pull the pipe ends together or loosening any body bolts. The larger sizes are heavy
+to correct misalignment. and may cause injury if allowed to swing or fall freely.
+INSTALLATION OF WELD-END VALVES Remove the actuation air and power connections and confirm
+that there is no stored energy in the actuation such as compressed
+Insure that weld procedures are implemented that are compatible
+springs or trapped air before beginning. Stored energy devices
+with the materials used.
+can cause serious injury if the energy is released without warning.
+1. Tack weld the assembled valve to the pipe at four points on
+DISASSEMBLY FOR STEM AND SEAL SERVICE:
+both end caps.
+1. It is not necessary to remove the flanges from the pipeline.
+2. With the valve in open position, (the valve is in the open position
+Removing the actuation and controls may make service easier.
+when the handle is parallel to the axis of the valve and pipe),
+loosen all body bolts, take the body out.
+2. Remove one of the upper body bolts and loosen the remaining
+3. Turn the handle in the half open position. Remove the seats bolts. The center body section containing the ball and seals will
+and body gaskets. swing out for service, leaving the end caps in place on the pipe
+ends. See illustration below.
+4. Turn handle in closed position and remove ball.
+5. Place all removed parts in a clean and secure place. 3. To completely remove the valve from the pipeline, remove the
+remaining upper body bolt and the body will lift free. Gently
+6. Replace the body and all bolts and tighten them slightly. This
+support the body in a vise to complete the remainder of the
+operation is very important, so that the body and end caps remain
+disassembly. To avoid damage to the seal surfaces, hold the
+perfectly parallel, thus preventing any leakage at the body joint
+body horizontally across its diameter, not across the end faces.
+after welding.
+7. Finish welding both end caps onto the pipe. Use temperature 4. Remove the seats and body seals.
+indicating crayons to insure that the body temperature
+5. Remove the handle nut and handle. Remove the gland nut.
+doesn’t exceed 200°F in the area of the neck or component/
+HEADQUARTERS BRAY INTERNATIONAL, INC.
+13333 Westland East Blvd.
+Houston, Texas 77041
+Tel: 281.894.5454 ©2025 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED BRAY.COM EN_IOM_5000_6000_20251016 2 of 5
+=== page 3 ===
+FLOW-TEK®
+SERIES 5000/6000 BALL VALVES
+Installation, Operation and Maintenance Manual
+6. To remove the ball, rotate the stem so the ball is fully closed. Lift 4. Install the packing gland nut (15) into the body over the stem
+the ball from body, using a strap and lift device if necessary. and packing. Tighten finger tight.
+NOTE: Extreme caution should be taken to avoid 5. Turn the stem until the upper stem flat is perpendicular to the
+damage to the ball. valve centerline (closed, so that the ball can fit onto the stem):
+7. The stem must be removed from inside the body - a tap on the 6. Install the ball (3) inside the valve body. The lower stem flats
+top of the stem should loosen it. The thrust washer should come will fit into the slot in the ball;
+out with the stem. Then remove the stem packing.
+7. Turn the stem so that the ball is in the open position (the ball
+Disassembly for servicing seats and stem seals may be performed will not fall out of the valve);
+without removing the end flanges from the pipeline.
+8. Install the seats (4) and body seals into the body ends. Make
+This feature allows the removal of the valve from service without sure the spherical curvature side of the seat will face the ball;
+disturbing piping connections.
+9. Lift the valve into position between the flanges in the pipeline.
+5. VISUAL INSPECTION: Use caution that the seal components do not shift position or
+fall out.
+Clean and inspect all metal parts for damage and wear. It is not
+necessary to replace the ball and stem unless the sealing surfaces
+10. Install the end cap bolts (9), lock washers (7) and nuts (8).
+have been damaged by abrasion or corrosion. Replacement
+Alternately cross tighten all nuts gradually up to the values
+of all soft parts is strongly recommended whenever the valve is
+indicated in Table 1. Using a torque wrench is recommended.
+disassembled for reconditioning. This is the surest protection against
+leakage. The replacement parts can he ordered in kit form. 11. Install and secure the handle (25) with the handle washer
+(19) and handle nut (26).
+NOTE: The valve may be assembled and operated dry
+where no lubricants are allowed in the system; however,
+12. Cycle the valve slowly several times. Cycling the valve slowly
+a light lubrication of mating parts will aid in assembly
+will insure that the seats will align with and conform to the
+and reduce initial operating torque. Any lubricant used
+ball. A fast turning motion may damage the seats before they
+must be compatible with the intended line fluid.
+have a chance to form the proper seal:
+6. RE-ASSEMBLY:
+Refer to the instructions given in section 2, above, to re-
+Refer to the illustrations on page 4 and 5.
+commission the valve after installation.
+1. Hold the body horizontally in a vise firmly enough that it will
+For automated installations, follow the instructions provided with
+not move but do not crush it.
+actuation instrumentation to correctly set up and recalibrate the
+installation.
+2. Put thrust washer (12) on valve stem (5) and slide the stem
+into the stem hole from inside the valve body (1);
+3. Slide the stem packing components (14) onto the stem until they
+are bottomed in the stem hole;
+Table 1 - Tightening torques for end cap nuts
+VALVE SIZE 1/4” 3/8” 1/2” 3/4” 1” 1 -1/4” 1-1/2” 2” 2-1/2” 3” 4”
+NutTorque (lb-in) 70 70 155 155 155 300 300
+(Lb-ft) 25 25 43 58 83 83
+HEADQUARTERS BRAY INTERNATIONAL, INC.
+13333 Westland East Blvd.
+Houston, Texas 77041
+Tel: 281.894.5454 ©2025 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED BRAY.COM EN_IOM_5000_6000_20251016 3 of 5
+=== page 4 ===
+FLOW-TEK®
+SERIES 5000/6000 BALL VALVES
+Installation, Operation and Maintenance Manual
+COMPONENTS
+Item Name Qty.
+1 Body 1
+2 End Cap 2
+3 Ball 1
+4 Seat 2
+5 Stem 1
+6 Body Seal 1
+7 Washer *
+8 Body Nut *
+1/4” - 2” Valves
+9 Body Bolt / Stud **
+12 Thrust Washer 1
+14 Stem Packing 1
+15 Gland Nut 1
+19 Handle Washer 1
+26
+28
+23 Stop Set Sleeve 1
+19
+24 Stop Bolt 1 25
+29
+25 Handle 1
+26 Handle Nut 2
+28 Handle Sleeve 1 15 24
+29 Locking Device 1
+23
+12 14
+*Number of Nuts & Lock Washers: 8
+7
+1/4”– 2” Valves ...........4 5
+2-1/2”– 3” Valves ........8 2
+4” Valves ........................12
+6
+**Number of Body Bolts or Studs: 4
+1/4”– 2” ..............4 (Bolts)
+2-1/2”– 3” ...........4 (Studs)
+4” Valves ...............6 (Studs)
+1
+3(cid:31)
+(cid:31)
+4
+6
+2
+9
+HEADQUARTERS BRAY INTERNATIONAL, INC.
+13333 Westland East Blvd.
+Houston, Texas 77041
+Tel: 281.894.5454 ©2025 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED BRAY.COM EN_IOM_5000_6000_20251016 4 of 5
+=== page 5 ===
+FLOW-TEK®
+SERIES 5000/6000 BALL VALVES
+Installation, Operation and Maintenance Manual
+8. Short and Long Term Storage: 9. Safety Summary
+Short-Term Storage: 1. Read completely and understand all instructions
+provided prior to beginning installation or
+Short-term storage is defined as storage of products and
+maintenance.
+equipment to be used in the construction of a project for
+periods of one to three months. Short-term storage must be 2. Follow all instructions as described using the correct
+carried out in a controlled manner as follows: tools for the job.
+1. Valves must be stored in a closed, clean, and dry
+3. Before installing this equipment, confirm that it is
+environment.
+suitable for the intended service. The identifications
+2. Ball valves should be stored in the fully open position to tags describe the maximum allowable service
+protect the ball and seats. conditions for this product.
+3. Ball valves should remain in the original shipping container 4. Be sure that the installation is protected by appropriate
+and be placed on pallets of wood or other suitable pressure control and safety devices to ensure that
+materials. End protectors should remain on the valve ends acceptable limits are not exceeded.
+to prevent the entrance of dirt, and removed only at time
+of installation. 5. Remove actuation air and power connections and
+confirm that there is no stored energy in the actuation
+Long-Term Storage
+such as compressed springs or trapped air before
+Long-term storage is defined as storage of products and/ beginning. Stored energy devices can cause serious
+or equipment for periods longer than 3 months. Long-term injury if the energy is released without warning.
+storage must be carried out in a controlled manner as follows:
+6. Confirm that line pressure has been removed and
+1. Valves must be stored in a closed, clean, and dry that there is no pressure trapped within the valve prior
+environment. to beginning service. Do not attempt to remove any
+2. Ball valves should be stored in the fully open position to packing components or other fittings before confirming
+protect the ball and seats. that pressure has been completely removed!
+3. Ball valves should remain in the original shipping container 7. Do not begin service work without proper tools and
+and be placed on pallets of wood or other suitable protective safety measures.
+materials. End protectors should remain on the valve ends
+8. The work area should be clear of obstructions and
+to prevent the entrance of dirt, and removed only at time
+other safety hazards.
+of installation.
+4. Periodically, the valves should be checked to ensure the
+above conditions are maintained.
+These are general guidelines for valve storage. Please consult
+the factory for information regarding specific requirements.
+HEADQUARTERS BRAY INTERNATIONAL, INC.
+13333 Westland East Blvd.
+Houston, Texas 77041
+Tel: 281.894.5454 ©2025 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED BRAY.COM EN_IOM_5000_6000_20251016 5 of 5

@@ -1,0 +1,147 @@
+=== page 1 ===
+Tri Lok
+®
+Advantages
+Triple Offset Valves
+Triple offset butterfly valves are used in place of gate valves and ball valves in critical isolation
+applications. Bray’s Tri Lok valve incorporates design features that most other triple offset valves do
+not have that improve performance in abrasive, erosive and corrosive environments, and substantially
+extend the overall service life of the valve and the value to the customer.
+Replaceable Seat Bearings
+The Tri Lok design has both a seat and a seal ring Bearing seals are designed to minimize the ingress
+that are independently field replaceable. The valve of particulates into the stem journal. In addition,
+may be re-trimmed or repaired on site without the bearings are elongated to provide maximum
+having to be returned to the manufacturer or support of the stem. These two advantages
+specialized repair center. If operating conditions over conventional designs improve valve life and
+change, the seats and seals can be replaced. If operational performance.
+the valve is damaged from weld slag, debris due
+Additional Corrosion Allowance
+to upset of a catalyst bed, or other unanticipated
+The Tri Lok design has the further
+occurrence, the seat or seal can be replaced with
+advantage of having a wall thickness
+minimal delay in startup
+in accordance with API 600, which
+and minimal downtime. No
+is significantly higher than that of
+special tools are needed.
+ASME B16.34 and thus, include a
+For most other triple offset
+liberal corrosion allowance. For
+valves with an integral seat,
+example, this allowance is 8
+a small amount of wear or
+mm for a 6 NPS Class 150, 16
+damage can result in the
+mm for a 12 NPS Class 150 or
+valve having to be removed
+22 mm for a 24 NPS Class
+and sent to a repair facility
+150. When Tri Lok valves
+or manufacturing plant for
+are used in the place
+additional seat material to
+of API 600 gate
+be added, followed by re-machining the integral seat
+valves, there is
+and its hardened surface. This results in significant
+no sacrifice
+delays and costs, even lost production.
+in body wall
+Splined Stem thickness or
+Tri Lok’s internal disc-to-stem connection eliminates in corrosion
+external retention components, such as taper pins, allowance.
+keys or locating bolts, which are subject to corrosion This is not
+or vibration failure. External connections may the case
+require machining or grinding for removal, but the with most
+Tri Lok disc and stem is easily removed by sliding other
+the splined stem from the triple
+disc. The Tri Lok connection offset
+allows axial movement of butterfly
+the disc independent of the valves,
+stem. Therefore, the seal ring which are
+and seat remain in position, commonly
+unaffected by temperature designed and
+fluctuations and pressure manufactured
+effects on the stem. The with wall
+splined connection offers thickness to
+maximum strength and is perfectly aligned. Close ASME B16.34.
+tolerance engagement between the disc and stem
+minimizes hysteresis.
+=== page 2 ===
+Tri Lok
+®
+Advantages
+Triple Offset Valves
+SEALING COMPONENT COMPARISON
+TRI LOK Competitor’s Triple Offset Valve Competitor’s Triple Offset Valve
+Comparison
+Material Hardness Material Hardness Material Hardness
+UNS S31600 Stellite 21 ASTM A479
+Body Seat 67 HRC 27-40 HRC** <20HRC
+NITRIDED Overlay UNS S31600
+ASTM A240 ASTM A240 ASTM A240
+Seal Ring 31 HRC 31 HRC <20HRC
+UNS S31803 UNS S31803 UNS S31600
+Hardness 9 HRC Maximum 0 HRC High Potential
+36 HRC Minimum
+Difference 4 HRC Minimum For Galling
+**Higher hardness values indicate a work hardened surface
+Extremely Hard Seat mately 31 HRC, the hardness difference is only 4 to 6
+Tri Lok valves are provided standard with a nitrided HRC. This small difference is also susceptible to
+316 stainless steel seat and a surface hardness of 67 galling. However, the Tri Lok design uses a 316 SS
+HRC, which helps resist abrasion and erosion due to nitrided seat with, as previously noted, a surface
+particulates such as sand, molecular sieve desiccant hardness of 67 HRC nominal. This high hardness seat
+carryover, silica, ceramic particles and dust. The contacts a UNS S31803 seal ring with approximately
+nitriding process used by Tri Lok is a unique 31 HRC. This difference in hardness of 36 HRC
+specification, carefully controlled to assure uniform eliminates galling as a factor in performance.
+case thickness and hardness. This hardness is from 30
+Superior Performance Reliability
+to 40 HRC HIGHER than a typical Stellite™ 21 seat and
+Stellite™ alloys are cobalt-based, and when weld
+the case depth (or penetration) is integral to the seat
+deposited to steel, pick up iron through diffusion
+material. It is not a coating or overlay which may be
+typically resulting in a decreased corrosion resistance.
+prone to cracking or separation from the substrate
+This corrosion resistance is often significantly less
+material. Nitrided 316 stainless steel seats have been
+than 316 SS despite the high chromium content of
+cycle tested along with Stellite™ and other coatings
+Stellite™. Bray’s proprietary nitriding process applied
+and verified to provide superior wear performance.
+to 316 SS maintains a high corrosion resistance as an
+Galling Eliminated advantage over Stellite™ in most corrosive environ-
+The hardness difference between the seat and seal is ments. Considering variability in overlay welds that
+very important in a triple offset butterfly valve and sometimes result in hairline cracks in Stellite™, and
+often an overlooked factor in valve design and concerns with separation at the Stellite™ to steel
+selection. While the technical advantage of the third substrate interface, performance and reliability of
+offset in a triple offset valve is to reduce and almost Stellite™ in some corrosive environments is
+completely eliminate friction, a difference in hardness questionable.
+is still required to avoid adhesive wear (galling) in
+Inherently Fire Safe
+both the seat and seal ring. Some triple offset valves
+Although Tri Lok has undergone multiple successful
+have virtually no difference in hardness between the
+fire-tests to API 607 by customer request, the metal-
+seat and seal ring (with both seat and seal often
+to-metal seat-to-seal design is inherently fire-safe
+being 316 SS), which results in a high probability for
+regardless of the direction of flow or high-pressure
+galling after the valve is installed and operated a few
+side. Unlike most gate valves and ball valves, the triple
+times under differential pressure. With Stellite™ 21
+offset butterfly valve design does not trap fluids in
+having a hardness anywhere from 27 to 37 HRC and a
+the body cavity and thus further reduces hazards if
+duplex SS seal ring having a hardness of approxi-
+called upon to operate and isolate following a fire.
+US HEADQUARTERS
+All statements, technical information, and recommendations in this bulletin are for general use
+Bray International, Inc.
+only. Consult Bray representatives or factory for the specific requirements and material selection
+13333 Westland East Blvd. for your intended application. The right to change or modify product design or product without
+Houston, Texas 77041 prior notice is reserved. Patents issued and applied for worldwide.
+Tel: 281.894.5454
+www.bray.com Bray® is a registered trademark of Bray International, Inc.
+© 2020 Bray International, Inc. All rights reserved. B-1064_EL_Tri Lok Advantages_2020-01

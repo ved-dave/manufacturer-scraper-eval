@@ -1,0 +1,3010 @@
+=== page 1 ===
+BRAY/RITE
+SINGLE DOOR WAFER TYPE SWING
+CHECK VALVES
+Installation and Maintenance Manual
+BRAY.COM THE HIGH PERFORMANCE COMPANY
+=== page 2 ===
+BRAY/RITE SINGLE DOOR WAFER TYPE SWING CHECK VALVES
+Installation and Maintenance Manual
+TABLE OF CONTENTS
+0.0 Definition of Terms 4
+1.0 Introduction 6
+2.0 Description 7
+3.0 Inspection & Unpacking 9
+4.0 Storage & Handling 10
+5.0 Tools Required 11
+6.0 Pre-installation Checklist 11
+7.0 Dis-Assembly Instructions for Bray/Rite Single Door 13
+Wafer Swing Check Valves
+8.0 Re-Assembly Instructions for Bray/Rite Single Door 14
+Wafer Swing Check Valves
+9.0 Pre-Installation Reminders 15
+10.0 Maintenance Requirements and Information 16
+11.0 Repairs 17
+12.0 Spool Installation for Bray/Rite Single Door Wafer Swing 19
+Check Valves
+13.0 Body Markings: Nameplate/Serial Number 19
+14.0 Safety Warnings 22
+15.0 Limitations and Precautions 24
+16.0 Non-Shock Pressure-Temperature Ratings 26
+17.0 Example Bill of Materials 31
+18.0 Typical Bolt/Stud Details 32
+19.0 H-100 (External Spring, Weight & Hydraulic Damper), 34
+Special Application Model
+20.0 SA-01 (External Lever, & Spring), Special Application 37
+Model
+21.0 SA-1 (External Lever, Spring, & Weight), Special 39
+Application Model
+22.0 SA-2 (Limit Switch), Special Application Model 42
+23.0 SA-3 (Backflush Lever, & External Spring), Special 44
+Application Model
+© 2023 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 2 of 76
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 3 ===
+BRAY/RITE SINGLE DOOR WAFER TYPE SWING CHECK VALVES
+Installation and Maintenance Manual
+24.0 SA-4 (External Position Indicator), Special Application 46
+Model
+25.0 SA-4A (Backflush Lever), Special Application Model 48
+26.0 SA-6 (Foot Valve), Special Application Model 50
+27.0 SA-7 (Emergency Shut-Off, Fusible Link), Special 51
+Application Model
+28.0 SA-10 (Dual Balanced Weights), Special Application 54
+Model
+29.0 SA-16 (External Weight & Lever), Special Application 57
+Model
+30.0 SA-40 (External Compression Spring), Special 60
+Application Model
+31.0 SA-40A (External Compression Spring, Weight & Lever), 63
+Special Application Model
+32.0 SA-50 (External Compression Spring, Weight & 66
+Hydraulic Damper), Special Application Model
+33.0 PVC (Plastic Body), Special Application Model 70
+34.0 PVC (Plastic Body) SA-4A (Backflush Lever), Special 73
+Application Model
+© 2023 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 3 of 76
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 4 ===
+BRAY/RITE SINGLE DOOR WAFER TYPE SWING CHECK VALVES
+Installation and Maintenance Manual
+READ AND FOLLOW THESE INSTRUCTIONS CAREFULLY.
+SAVE THIS MANUAL FOR FUTURE USE.
+0.0 DEFINITION OF TERMS:
+All information within this manual is relevant to the safe operation
+and proper care of your Bray valve. Please understand the
+following examples of information used throughout this manual.
+0.0 IDENTIFIES CHAPTER HEADING
+0.00 Identifies and explains sequential procedure to be performed.
+NOTE: Provides important information related to a procedure.
+SAFETY STATEMENTS: To prevent unwanted consequences.
+WARNING
+Indicates a potentially hazardous situation which, if not avoided,
+could result in death or serious injury.
+CAUTION
+Indicates a potentially hazardous situation which, if not avoided,
+may result in minor or moderate injury.
+NOTICE
+Used without the safety alert symbol, indicates a potential
+situation which, if not avoided, may result in an undesirable
+result or state, including property damage.
+© 2023 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 4 of 76
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 5 ===
+BRAY/RITE SINGLE DOOR WAFER TYPE SWING CHECK VALVES
+Installation and Maintenance Manual
+NOTE: This is a generic instruction manual common to above
+listed Bray/Rite standard check valves.
+Please refer to the certified assembly drawing supplied with your
+order, for any dimensional and/or operational parameters that
+may not appear in this publication.
+© 2023 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 5 of 76
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 6 ===
+BRAY/RITE SINGLE DOOR WAFER TYPE SWING CHECK VALVES
+Installation and Maintenance Manual
+1.0 INTRODUCTION:
+1.1 Instructions provided herewith should be thoroughly read and
+understood prior to actioning any installation or maintenance
+activities. Bray recommends that only experienced and skilled
+personnel be allowed to install and maintain these products.
+This manual is an overview only and does not in anyway replace
+the vital functions of on-site, process engineer(s), pipe fitter(s),
+etc. Please retain this manual in an easily accessible location for
+any and all employees that may need to reference it routinely.
+1.2 Valve Selection Confirmation:
+A properly functioning valve requires adequate selection review
+process. Before installation efforts should be made to ensure
+valve being offered fits with application requirements, by
+evaluating some common characteristics (non-exhaustive list):
+> Applicable operating conditions (condensation, flow reversal,
+frequency of operation, pressure drop, throttling, vacuum,
+etc.).
+> Design and working pressure/temperature requirements.
+> Materials of construction.
+> Pipeline media flow-rate and viscosity.
+> Service media type (abrasive, corrosive, dirty, gas, liquid, etc.)
+> Site location for installation, ensuring adequate distance from
+sources of turbulence.
+1.3 Modern piping applications demand better features, performance
+and economy in a check valve.
+1.4 Bray/Rite Features:
+> Compactness
+> Minimum weight
+> Simplicity
+1.5 Bray/Rite Performance Characteristics:
+> Bubble-tight shut-off
+> Low pressure drop
+> Non-slamming
+> Rapid response
+> Silent operation
+1.6 Bray/Rite’s combination of these features and performance
+characteristics ensure long service life of Bray/Rite products.
+© 2023 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 6 of 76
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 7 ===
+BRAY/RITE SINGLE DOOR WAFER TYPE SWING CHECK VALVES
+Installation and Maintenance Manual
+2.0 DESCRIPTION:
+2.1 Bray/Rite Single Door Wafer Swing Check Valves consist of a
+compact Body (1) with a single plate Disc (12) attached to a Hinge
+(2) which in turn is supported by a Hinge Pin (7) inside an off-
+center body cavity.
+2.2 The Disc is mechanically biased to the closed position by a
+torsional Spring (5) located between the two Hinge (2) lugs.
+The Hinge Pin (7) is retained by two NPT Pipe Plugs (8) inside the
+Body (1). The Seat (3) can be:
+> Metal to Metal
+> Metal to Resilient (Buna, EPDM, Teflon, Viton, etc.)
+2.3 An Eyebolt (10) is typically shipped separately in the check
+valve box from Bray/Rite to avoid damage resulting from
+transportation to it or the accompanying valve/packaging.
+Item (10) can be installed/threaded on the top of the Bray/Rite
+single door wafer swing check valves prior to assembly & has
+the purpose of aiding alignment/installation. Once successfully
+installed in proper alignment, the Eyebolt (10) can be removed
+after installation if required.
+10
+9
+13 8
+11
+7
+3 5
+8 14
+6
+1 12
+2
+6
+15
+2.4 The Nameplate (11) located on the top pad of the body specifies:
+> Manufacturer Name (Bray/Rite)
+> Pressure @ Temperature Rating, Design Code, Serial Number,
+and Part Number
+> Body Material, Size, Class, and Trim
+SSttaannddaarrdd NNaammee ppllaattee iilllluussttrraatteedd AAddddiittiioonnaall ttaagg
+BB1166..3344 NNoott rreeqquuiirreedd..
+(cid:31)(cid:30)(cid:29)(cid:28)(cid:27)(cid:30)(cid:26)(cid:25)(cid:24)(cid:27)(cid:23)(cid:25)(cid:22)(cid:21)(cid:27)(cid:31)(cid:30)(cid:29)(cid:28)(cid:21)(cid:20)(cid:19)(cid:18)(cid:27)(cid:27)(cid:18)(cid:29)(cid:22)(cid:24)(cid:27)(cid:26)(cid:17)(cid:27)(cid:20)(cid:29)(cid:17)(cid:29)(cid:22)(cid:29)
+UULL2//FF.MM5 Bray/Rite Single Door Wafer Swing CNNhooettc rreekqq uuViirraeelddv.. es are typically
+designed to open when a pressure of less than 1 psi (.07 bar) is
+applied across the face of the Disc (12). Bray/Rite Single Door
+Wafer Swing Check Valves are provided for installation inside the
+bolt circle and between standard flanges, using a suitable gasket
+for the application, or as specified.
+© 2023 BR AY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 7 of 76
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+SSttaannddaarrdd NNaammee ppllaattee iilllluussttrraatteedd AAddddiittiioonnaall ttaagg::
+=== page 8 ===
+BRAY/RITE SINGLE DOOR WAFER TYPE SWING CHECK VALVES
+Installation and Maintenance Manual
+2.6 Bray/Rite’s combination of these features and performance
+characteristics ensure long service life of Bray/Rite products.
+2.7 Bray/Rite Single Door Wafer Swing Check Valves are normally
+installed with the Eyebolt pointing vertically upwards in a
+horizontal run of pipe, with the arrow on the Body pointing in the
+direction of flow.
+2.8 All Bray/Rite Single Door Wafer Swing CheNUPMAcRBTERk V30a14lTv58es are
+hydrostatically tested in accordaIn © fo 2 rm 0 na 2 ti 1 o n Mh in tc c t t Mp hi : s /a d /sw r t ea e w wr in -wC g . a i m s r p rc r w S o m v u i a d ps e pt d e l f y o r. r cC ir o e o f m et m re p nc a he n o y nly. MSSSh St o e u e -l l d E e y Sr e - b fo o Pr lt L w ift it i-n h g61, ANSI B16.34
+and API-598 test procedures.
+© 2023 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 8 of 76
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 9 ===
+BRAY/RITE SINGLE DOOR WAFER TYPE SWING CHECK VALVES
+Installation and Maintenance Manual
+3.0 INSPECTION & UNPACKING:
+3.1 INSPECTION OF PACKAGING:
+Care should be given to inspect the product packaging for
+damage on all goods received while the freight carrier is still
+present. Any observed packaging damage should be reported
+immediately to the carrier, & any claim requirements followed
+through.
+3.2 UNPACKING: Open the shipping container with adequate care
+ensuring to leave containers intact.
+3.3 Any/all externally listed container specific markings must be
+followed.
+3.4 Remove any packing material and carefully lift the product(s)
+from the container.
+3.5 All shipping container and packing materials provided should be
+used (when space permits to do so) for product storage.
+3.6 INSPECTION OF GOODS:
+Care must be given to do a thorough visual inspection
+of all goods received in a timely manner. Any damage, or
+missing components expected where the expectation relates
+to mishandling during transit, should be noted to carrier
+immediately.
+3.7 Items that are damaged during shipment fall under the liability
+involved with quoted incoterms. If damage is observed, file a
+claim with the freight carrier immediately. Refer to Bray Terms
+and Conditions for Sale for our full warranty policy.
+3.8 Preparation for Shipment:
+Bray/Rite valves are normally shipped from the factory in
+a combination of boxes, crates, or on skids (size & model
+dependent).
+3.9 Product packaging (when customer intends to ship to an
+additional location) must be completed in a manner to protect
+against deterioration and physical damage during transit and
+storage.
+3.10 Any protruding accessories, deemed to be at heightened risk
+to damage by their design (such as the levers, springs, and/
+or weights) may (if required for safekeeping) be removed &
+packaged separately.
+3.11 All customer-driven packing requirements, must be clearly called
+out and quoted separately prior to placing the purchase order.
+3.12 Any/all special shipping conditions must be reviewed by Bray/
+Rite for compliance at time of quotation, & be clearly defined in
+writing. Such instructions also need to be of a quality standard
+such that they adequately protect (a.) goods during transport, &
+(b.) goods during site storage requirements.
+© 2023 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 9 of 76
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 10 ===
+BRAY/RITE SINGLE DOOR WAFER TYPE SWING CHECK VALVES
+Installation and Maintenance Manual
+4.0 STORAGE & HANDLING:
+Storage:
+4.1 SHORT TERM: For short term storage (defined as within 3 months
+of order release) all products must be kept indoors in in the
+original packaging in a moderate temperature range (defined as
+between 32°F and 85°F). General guidelines for short and long
+term storage:
+> Do not stack the valves on top of each other.
+> Do not leave valves outdoor or exposed to the elements/
+sunlight.
+> Keep any/all protective end-caps on to protect the valve
+against damage from dust, dirt, etc.
+4.2 LONG TERM: For long term storage (defined as greater than 3
+months after order release), all valves must be kept in a clean,
+dry, fire-resistant, flood resistant, temperature controlled, and
+adequately ventilated, storage facility.
+4.3 All valves should be adequately secured in place by banding/
+other means to prevent damage resulting from valve movement.
+4.4 A desiccant may be necessary (based upon the local,
+environmental storage conditions) for long-term storage
+situations.
+4.5 OUTDOOR:
+Where outdoor storage is a necessity, special crating and valve
+packaging can be provided, at an additional charge but must be
+quoted before the order has been placed. Periodic checks on
+valves in storage are required to ensure all conditions listed above
+have been met.
+4.6 HANDLING:
+Most standard check valves are supplied with a removable lifting
+Eyebolt (10) which must be used to lift the valve, & support the
+valve during alignment/installation. Improper use will result in
+valve body damage.
+4.7
+NOTICE
+Valve should never be used as pipeline alignment tool. The area
+where the valve will be installed should have proper spacing
+afforded by pipeline flanges being mounted on both sides of the
+space prior to valve install.
+NEVER lift or move the valve assembly by means of any
+attached accessory, internal part, or mounting holes.
+4.8 Any provided valve protection accessories such as wooden plates
+or plastic caps should not be removed until the valves are ready
+to be installed, so as to keep foreign contaminants out.
+4.9 Transportation for all packed goods should be carried out in
+accordance with relevant site & territory safety regulations.
+© 2023 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 10 of 76
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 11 ===
+BRAY/RITE SINGLE DOOR WAFER TYPE SWING CHECK VALVES
+Installation and Maintenance Manual
+5.0 TOOLS REQUIRED:
+Hammer, hex key, nose punch, thread sealant, and wrench.
+5.1
+NOTICE
+Personal protective equipment such as eye/foot/hand
+protection is required when installing or maintaining wafer
+check valves.
+5.2
+CAUTION
+Please use caution. Preset spring(s) have capacity to cause
+serious injury when tension is released.
+6.0 PRE-INSTALLATION CHECKLIST:
+6.1
+NOTICE
+Location for valve should be selected based on distance from
+turbulent conditions.
+> Media flowing to valve should be filtered first to remove
+unwanted debris.
+> Non-compliance can effect check valve sealing, and adversely
+effect optimal performance.
+> Valve pressure/temperature limits must align with the
+application requirements.
+> Valve materials must be compatible with line media it will
+experience.
+Before installation, all valves must be checked for any/all foreign
+materials that may have become entrapped during storage/
+transportation. All contaminants should be removed by with
+solvent dampened cloths.
+Sealing surfaces should be inspected to ensure there is no
+damage (cuts or nicks) & that general appearance is clean and
+smooth.
+Check Valves must be placed a distance 5 to 10 pipe diameters
+away from any/all source of turbulence such as elbows,
+expansions, pumps, reductions, swages, tees, etc).
+6.2
+CAUTION
+Standard check valves are typically designed for steady flow
+conditions, and not for use in physical/thermal shock-load
+applications (via reciprocating pump, compressor). In this type
+of application, standard check valve will not perform efficiently
+and have a greater tendency to fail.
+(continued)
+© 2023 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 11 of 76
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 12 ===
+BRAY/RITE SINGLE DOOR WAFER TYPE SWING CHECK VALVES
+Installation and Maintenance Manual
+6.3 Standard check valves are designed to operate efficiently in flow
+rate scenarios between 5 ft./sec. to 10 ft./sec. Operating outside
+of this range will adversely effect performance & may lead to
+premature failure.
+6.4 Any provided valve protection accessories such as wooden plates
+or plastic caps should not be removed until the valves are ready
+to be installed, so as to keep foreign contaminants out.
+6.5 Step 1:
+Remove the plastic flange protectors (if present) and other
+packaging materials from the Check Valve
+6.6
+CAUTION
+For vertical down-flow applications, consult Bray/Rite Technical
+team for custom solutions that may be available.
+6.7 Step 2:
+Orient the valve such that the flow arrow (cast/etched onto
+body or printed on the nameplate) points in the direction of the
+desired pipeline flow.
+6.8 Step 3:
+The appropriate material handling equipment must be used in
+order to prevent injury and possible damage to the check valve
+and personnel responsible for installation.
+6.9
+CAUTION
+OPERATION START-UP:
+After the installation has been verified (at start-up, & after
+shut-down conditions) as safe and complete, it is important
+for operators to start the pipe system flow gradually. The goal
+is to not stress the check valve (and other line equipment) via
+sudden shock.
+© 2023 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 12 of 76
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 13 ===
+BRAY/RITE SINGLE DOOR WAFER TYPE SWING CHECK VALVES
+Installation and Maintenance Manual
+7.0 DIS-ASSEMBLY INSTRUCTIONS FOR BRAY/RITE SINGLE
+DOOR WAFER SWING CHECK VALVES:
+TOOLS REQUIRED: Hammer, hex key, nose punch, thread sealant,
+and wrench.
+7.1 The simple design of the Bray/Rite Single Door Wafer Swing
+Check Valves valve permits for easy assembly and disassembly.
+The following assembly procedure applies to all Bray/Rite Single
+Door Wafer Swing Check Valves.
+7.2 To Dis-assemble the valve:
+Item Description Item Description
+1 Body 9 Lock Nut
+2 Hinge 10 Eye Bolt
+3 Seat 11 Name Plate
+5 Spring 12 Disc
+6 Spacer 13 Rivet
+7 Pin 14 O-Ring
+8 Plug 15 Disc-Nut
+10
+9
+13 8
+11
+7
+3 5
+8 14
+6
+1 12
+2
+6
+15
+7.3 a.) Place the Body (1) in a horizontal position with the Disc (12)
+assembly showing.
+b.) Remove the Plugs (8) on both side of the Body (1) by using a
+hex-key or wrench.
+c.) Hold the Spring (5) in position and slide the Pin (7) out of
+the Body (1). Use of Hammer and Nose Punch may be required
+to gently tap Pin (7) from one side out the opposite side. Pay
+attention to original orientation of Spacers (6).
+d.) Slowly release the pressure on the Spring (5) and remove it
+from the valve.
+e.) The Hinge-Disc Assembly (2, 12, 15) can now be lifted from
+the Body (1).
+f.) Remove the O-Ring (14) if required.
+7.4 We recommend Bray/Rite O-Rings get sourced everytime the
+valve is being repaired.
+© 2023 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 13 of 76
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 14 ===
+BRAY/RITE SINGLE DOOR WAFER TYPE SWING CHECK VALVES
+Installation and Maintenance Manual
+8.0 RE-ASSEMBLY INSTRUCTIONS FOR BRAY/RITE SINGLE
+DOOR WAFER SWING CHECK VALVES:
+To re-assemble the valve:
+8.1 a.) Clean all parts with acceptable solvent while valve is being
+serviced.
+b.) Place the Body (1) in a horizontal position with the seating face
+pointing upwards.
+c.) If required, insert O-Ring (14) in the seat groove. (See below
+for installation instructions).
+d.) Place the Hinge-Disc Assembly (2, 12, 15) in the body cavity.
+e.) Slide Spacer in between Body (1) and adjacent Hinge (2) lug
+while inserting the Pin (7) through the Plug (8) hole on either side
+of the Body (1) and slide the first Spacer (6) in between the
+Body (1) and adjacent Hinge (2) lug.
+f.) Press Spring (5) between the Hinge (2) lugs and Body (1)
+cavity, then advance the Pin (7) through the Spring (5) and the
+second Hinge (2) lug.
+g.) Slide the second Spacer (6) between the Body and hinge lug
+and advance the Pin (7) into the Body (1). Position the Hinge
+Pin (7) central to the valve Body (1) prior to the installation of the
+retaining Plugs (8).
+h.) Check that the Spring (5) ends are seated properly.
+i.) Apply Teflon tape or sealing compound if required by
+application on retaining Plugs (8), install Plugs and tighten both
+sides with an hex key or wrench.
+8.2 Verification:
+a) check that the valve opens and closes freely.
+b) check the Pin-Disc (7, 12) connection to ensure it has adequate
+freedom of movement provided for the Disc (12) to adapt a self-
+aligning position with the Seat (3).
+8.3
+NOTICE
+INSERT O-RING AS FOLLOWS
+(a.) Place O-Ring (14) on top of seat groove.
+(b.) To prevent looping, insert the O-Ring as shown by pressing
+the O-Ring into the groove in the following numerical sequence.
+Right Wrong
+8.4 It is important to smooth out the O-Ring (14) so that there are no
+visible ripples or loops.
+8.5 It should be noted that the O-Ring groove is slightly larger than
+the O-Ring (14) and it follows that the O-Ring (14) must be hoop
+stretched to engage the groove.
+© 2023 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 14 of 76
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 15 ===
+BRAY/RITE SINGLE DOOR WAFER TYPE SWING CHECK VALVES
+Installation and Maintenance Manual
+9.0 PRE-INSTALLATION REMINDERS:
+9.1 Install all flangeless wafer valves between two pipe flanges (with
+gaskets on the contact faces) of the same series as the valve,
+centred in line by the surrounding flange bolts, and tightened as
+per industry standard practice.
+WAFER VALVE WITH THROUGH-STUDS
+SEAT RETAINER
+GASKET GASKET
+RAISED FACE (WHEN APPLICABLE) RAISED FACE (WHEN APPLICABLE)
+FLANGE WAFER FLANGE
+BODY
+NUT NUT
+WASHER WASHER
+RECOMMENDED 2 THREADS BEYOND NUT RECOMMENDED 2 THREADS BEYOND NUT
+(PER SIDE) (PER SIDE)
+9.2 All internal parts designed to move should operate freely.
+9.3 The normal installation of a Bray/Rite Single Door Wafer Swing
+Check Valves valve is for horizontal flow with the hinge Pin (7) in
+the horizontal upper position, or for vertical flow, with the flow
+direction upwards.
+9.4 Bolting Guidance:
+1 1
+1 3
+6 3
+3 4
+4 5
+4 2 5 2
+2
+Four-Bolt Five-Bolt Six-Bolt
+12End 1Start 8 1Start
+11 2 12End 9
+10 3 4 5
+9 4 6 3
+8 5 10 11
+7 6 2 7
+9.5 When removing a Bray/Rite Single Door Wafer Swing Check valve
+from the line, only the top half of the studs need to be removed
+and the others loosened.
+(continued)
+© 2023 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 15 of 76
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 16 ===
+BRAY/RITE SINGLE DOOR WAFER TYPE SWING CHECK VALVES
+Installation and Maintenance Manual
+IMPORTANT:
+9.6
+CAUTION
+1.) Double check the flow direction arrow on the body before
+inserting the Bray/Rite Single Door Wafer Swing Check valve
+between the flanges.
+2) Pipeline flanges must be parallel and have the same pressure
+class rating as the valve.
+3.) There must be no obstructions in the mating flange(s), or
+pipe bore(s) as this would prevent the valve from opening fully,
+leading to premature valve failure.
+10.0 MAINTENANCE REQUIREMENTS AND INFORMATION:
+VALVE REMOVAL FOR INSPECTION
+10.1
+WARNING
+Before removing any check valve from the pipeline, ensure the
+media flowing in the pipeline is confirmed and any/all special
+handling protocols are followed/understood. Always review the
+applicable Material Safety Data Sheet (MSDS) for the media in
+advance of work performed.
+Before removing any check valve from the pipeline, the vessel
+pressure must be reduced to atmospheric by means of suction/
+venting/other. Failure to do so may result in serious bodily
+injury.
+10.2 Shutting off the upstream pump acts to isolate the check valve.
+10.3 Close the downstream isolation valve.
+10.4 Drain the system section featuring the check valve as much as
+possible.
+10.5 Vent the line on both sides of the check valve to relieve pressure
+from the check valve. Always loosen the outlet side first.
+10.6 Once pressure has been relieved successfully, move to loosen the
+inlet side.
+10.7 Remove check valve from the pipeline, inspecting internals for
+signs of damage, & degradation.
+10.8 If replacement parts are required, use exact valve drawing
+procured to identify any/all parts required for repair. Alternately
+please contact Bray/Rite for repair recommendations.
+© 2023 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 16 of 76
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 17 ===
+BRAY/RITE SINGLE DOOR WAFER TYPE SWING CHECK VALVES
+Installation and Maintenance Manual
+11.0 REPAIRS:
+LEAKAGE CONDITIONS:
+11.1 A schedule for routine inspection should be implemented and
+performed.
+11.2
+NOTICE
+If leakage is identified, during maintenance check the flange
+gasket, and flange bolt torque to ensure they are within
+acceptable limits. Valve removal for inspection may be required.
+See above notes.
+11.3 MINIMAL FLOW:
+While flow is halted, verify flow direction arrow is installed in
+correct alignment with required direction of flow.
+11.4 SLAM CONDITIONS:
+Initiate valve removal to inspect spring condition and tension.
+Consult Bray/Rite technical staff to ensure valve is sized
+appropiately.
+11.5 VIBRATION CONDITIONS:
+When valves are found to be vibrating excessively, firstly Verify
+that flow rate is within acceptable ranges (5 ft./sec. to 10 ft./sec.).
+11.6 Verify site installation location has at least 5 to 10 pipe diameters
+length from any source of turbulence (ie. elbows, expansions,
+pumps, reductions, swages, tees, etc.).
+11.7 For replacement of O-Rings (14) refer to Section 7.0 and 8.0 for
+Assembly and disassembly instructions of Bray/Rite Single Door
+Wafer Swing Check Valves.
+11.8 When visible damage is observed on O-Rings (14), they should be
+replaced with Bray/Rite sourced replacement O-Rings (14).
+11.9 The standard O-Ring (14) numbers, Plug sizes and Hex key sizes
+for class 125/150/300 are listed below for valves 2”-42”. For other
+classes, contact the factory.
+(continued)
+© 2023 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 17 of 76
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 18 ===
+BRAY/RITE SINGLE DOOR WAFER TYPE SWING CHECK VALVES
+Installation and Maintenance Manual
+11.10 O-Ring, Plug, & Hex Key Sizes:
+O-Ring Size O-Ring Size Plug Size Hex Key
+Valve Size
+Models 210 Models 212 NPT Size
+2” 128 128 1/4” 1/4”
+2.5” 133 133 1/4” 1/4”
+3” 141 141 3/8” 5/16”
+4” 235 235 3/8” 5/16”
+5” 242 242 3/8” 5/16”
+6” 248 248 3/8” 5/16”
+8” 259 259 1/2” 3/8”
+10” 368 368 1/2” 3/8”
+12” 447 447 3/4” 9/16”
+14” 449 - 3/4” 9/16”
+16” 453 - 3/4” 9/16”
+18” 455 - 3/4” 9/16”
+20” 458 - 1” 5/8”
+24” 462 - 1” 5/8”
+30” 471 - 1 1/2”* 1 1/4”*
+36” 473 - 1 1/2”* 1 1/4”*
+42” 3/8 x 110” - 2”* 1 5/16”*
+Applies to all models (strictly size dependent). * Square Head Plug
+© 2023 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 18 of 76
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 19 ===
+BRAY/RITE SINGLE DOOR WAFER TYPE SWING CHECK VALVES
+Installation and Maintenance Manual
+12.0 SPOOL INSTALLATION FOR BRAY/RITE SINGLE DOOR
+WAFER SWING CHECK VALVES:
+12.1 When a standard flanged valve is replaced with a shorter face-
+to-face wafer valve model, a spool piece can be inserted with
+the Bray/Rite Single Door Wafer Swing Check valve to obtain the
+required face to face dimension. The installation instructions in
+Section 8.0 above apply.
+13.0 BODY MARKINGS, NAMEPLATE/SERIAL NUMBER:
+13.1 Nameplates: The serial number gives the ability to trace valve
+internals and the date of manufacture of the valve.
+13.2 UL/FM valves are identified by their nameplate.
+© 2023 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 19 of 76
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 20 ===
+BRAY/RITE SINGLE DOOR WAFER TYPE SWING CHECK VALVES
+Installation and Maintenance Manual
+BRAY/RITE SINGLE DOOR WAFER SWING CHECK VALVE PART NUMBER (SERIES SDCV):
+EXAMPLE PART NUMBER: V0212CBT
+SIZE PRESSURE CLASS BODY MATERIAL INSERT (CI/CS/DI)/INTEGRAL (SS/HIGHER) SPACER MATERIAL MODEL CODE SPEC A IA C L C A E P SS P O LI R C I A E T S ION
+INCHES CODE CLASS CODE MATERIAL CODE MATERIAL CODE MATERIAL CODE SERIES (COLOUR) CODE CODE ACCESSORY
+*** o O r n h ly ig m he f 1 r r i g n r 3 a d 1 6 e S S V01 ASME 125 12 254SMO Material 2 o 5 f 4 p S a X M r , t O t n h u a e t m n e b n e d r METAL M st A an 4 d 7 a 9 r - d 31 s 6 u p as p ly Z *** A o P u I r 5 w 9 i 4 d # e 6 r 0 fa 0 c / e P N to 6 f 4 a ce 201 BACKFLUSH LEVER SA-4A
+***O h n ig ly h m e 1 r . f 5 g r r i n a d C e S o r V015 ASME 150 15 Alloy20 X, e t n h n d e u n o m f A b p 2 e a 0 r r t a t INSERT/RESILIENT PTFE T ***o A u P r I 5 w 9 id 4 e # r 9 f 0 a 0 c / e 1 t 5 o 0 f 0 ace 203 BACKFLUSH LE S V P E R R IN & G EXTERNAL SA-3
+2 V02 la 2 rg 0 e 5 r a b u e t c o o m m a e ti m ca o ll d y. el 30 in A S A T N M S I A 1 1 2 2 5 6 o C r L P B N 1 ** 0 * / o 1 n 6 l * y * m *in an te u g fa ra c l t u se re a t C MATERIAL CODE - OTHER ** API 594 f a # c 2 e 5 t 0 o 0 f o a u ce r wider 204 DUAL BALANCED WEIGHTS SA-10
+2.5 V025 ASME 600 60 ASTM a A 3 0 2 4 1 6 s t W ai C n B le s * s * * s o te -r e in l s g e m at o r u in n g ted in S BUNA-N (DEFAULT) B 3 A 0 P 0 I , 5 P 9 N 4 1 ( 0 A , N P S N I1 1 2 6 5 , P , 1 N 5 2 0 5 , ) 205 EMERGENCY SHUT-OFF, FUSIBLE LINK SA-7
+3 V03 ASME 900 90 AN A S S I i n T 1 M 5 a 0 3 A o 0 3 r 4 9 P s 5 N ta 1 * i * n 0 * l / e o 1 s n 6 s l y * s * t m * e o e a - l n r s i u n e f g a a t c m r t i u n o r g u e n in te d D EPDM E Heavy Duty D H I i N nge ASME/ 260 EXTER A N PP A R L O C V O E M S P M R A E L S L S E IO R N S I S Z P E R S ING SA-40
+4 V04 ASME 1500 150 ASTM A351 CF8M **integral seat X TEFLON T S ** T P * A ( N N A 1 N D 0 S A , I P R 1 N D 2 1 5 A 6 , S , 1 M P 5 N 0 E 2 / , D 3 5 0 ) IN 0 , LEAVE B 2 LA 10 N K SER I ( E S S T ) ANDARD W E E X I T G E H R T N & A L H C YD O R M A P L U A R L E R I S G C S E D IO R A ) N M S P P E R R I N (S G A & -4 0 SA-50
+5 V05 ASME 2500 250 Duplex 6A X e , n t n h d u e o m n f b 6 p A e a r r a t t TEFLON S E I N LI C C A O P N S E ULATED TES PVC Models PEZ EN EX G T IN ER E N ER A I L N G CO T M O P A S R P I E Z P S E R S S O IO V N E S S M PR A IN LL G E , R SA-40A
+6 V06 PN 10 10 Duplex 5A X o , f t h p e a n rt 5 n A u a m t b e e n r d VITON V CUSTOM SE E R R I - E S S PECIFIC CODE EXTERNAL LEVER SPRING & WEIGHT SA-1
+X, then C22 at ANSI 125, cast iron body,
+8 V08 PN 16 16 Hastelloy C-22 end of part Teon integral seat, te on 12C37 EXTERNAL POSITION INDICATOR SA-4
+number spacer.
+X, then C276 at ANSI 150, carbon steel
+10 V10 PN 25 25 Hastelloy C-276 end of part body, Teon integral seat, 15S37 SA-01
+number Teon spacer.
+12 V12 PN 40 40 Monel M-53-1 Valve T s ri * m *Body/Disc/Seat/ X, t e h n n e d n u o m M f b M p e a M r rt at T b e A od N o y n S , I T s 3 e p 0 a 0 c o , e c n r a , i w r n b e t o e ld n g e r s a d t l e p s e e l l u a g t, s . 30S17 HYD EX R T A E U R L N IC A L D A SP M R P IN ER G ( & S A W -0 E 1 IG S H P T R , I & N G) H-100
+** o *O r S n S ly B s o p o 1 a d e c 4 ie e r e s r , d S i S n C S V14 PN 64 64 SS 316BLRAY/RITE S X Ie , N n t n h d u e Go m n f b 6 N pL e L a r r a E U t t D M O B O ER R ( W SE A R F IE E S R S S D W C IN V) G + C U H L E C C / K F M VA : LVE PART b A o T d N e y S , I o T 3 e n 0 s 0 p o , p a c n lu c a i e r g n b r s , t o . e w n g e r s l a d t l e e s e d e l at, 30S27 EXTERNAL WEIGHT & LEVER SA-16
+** o *O r S n S ly B o o 1 d e 6 ie r e s , d S i S n C S V16 TITANIUM X o , f t p h a e r n t T n u a m t e b n e d r EXAMPLE PART NUMBER: V02 212 b A o T d N e y S , I o T 3 e n 0 s 0 p o , a c n c a i e r n b r, t o e w n g e r s l a d t l e e s e d e l at, 30S47 FLANGED BODY SA-11
+spacer plugs.
+** o *O r S n S ly B o o 1 d e 8 ie r e s , d S i S n C S V18 OTHER ** SIZE - MODEL CODE Ca in r s b p te o r g i n n r g a st l w e s e e it l a h b t , a o s d t w a y e n , l T d d e a e r d d on S27 FOOT VALVE SA-6
+spacer INCHES CODE SERIES (COLOUR) CODE seat.
+** o *O r S n S ly B s o p o 2 a d e c 0 ie e r e s r , d S i S n C S V20 1 V01 sta * U i * n L * l C e A s N F s M S s I t 1 A e 2 e P l 5 P d R c i a O sc s V t & E ir D t o r n i A m S b , M o b d E u y * n , a 212 E C P a D rb M o i n n s te te g e r l a b l s o e d a y t , . S34 LIMIT SWITCH SA-2
+** o *O r S n S ly B s o p o 2 a d e c 4 ie e r e s r , d S i S n C S V24 int U e L g C ra F l M se A at P , P T R efl O o V n E D sp D ac IN e * rs. Carbon in s t t e e g e r l a b l o se d a y t , . Viton S35
+** o *O r S n S ly B o o 3 d e 0 ie r e s , d S i S n C S V30 1.5 V015 sta * in ** le P s N s 1 s 0 te /1 e 6 l d c i a sc st & ir t o r n im b , o b d u y n , a 312 Carbon in s t t e e g e r l a b l o se d a y t , . buna S36
+spacer integral sear, Teflon spacers.
+** o *O r S n S ly B o o 3 d e 6 ie r e s , d S i S n C S V36 2 V02 s C p a r i r i n n b t g o e n g o r r s a t h e l e s e a e l v a b y t o , d d st u y a , t n y Te d s a p r r d in o g n S37
+spacer 2.5 V025 depending on the size.
+** o *O r S n S ly B s o p o 4 a d e c 2 ie e r e s r , d S i S n C S V42 3 4 V V 0 0 3 4 Ca in rb te o g n r a s l t e s s e e p a l r t b in , o l g i d g . y h , t T d e uty on S47
+** o *O r S n S ly B o o 4 d e 8 ie r e s , d S i S n C S V48 5 V05
+spacer 6 V06
+54
+** o *O r S n S ly B o od e ie re s, d S i S n CS V54 8 V08
+spacer
+60 10 V10
+** o *O r S n S ly B s o p o a d e c ie e re s r , d S i S n CS V60 12 V12
+Miscellaneous Notes:1 **4*Pressure Boundary VCo1m4ponents = Body, Plugs. We typically sell repair kits (everything except the body) as spare parts for of our check valves.
+16 V16
+18 EXAVM1PL8E PART NUMBERS BY MATERIAL
+EXAMPLE PART NUMBERS (210) EXAMPLE PART NUMBERS (205) 20 V20 1
+V0212CBT V0212CBT205 24 V24
+V0215DBT V0215DBT205
+V0215SBT V0215SBT205 30 V30
+V0215XBT V0215XBT205 36 V36
+V0230SBZ V0230SBZ205
+V0230XBZ V0230XBZ205 42 V42
+48 V48
+** = Available in most exotic materials, please consult factory. / *** = Inserted pressed-in interference seat at a minimum of 304 SS for carbon steel and ductile iron bodies, or seat is integral to body.
+54 V54
+Note 1: Spacers are located on both sides of the disc hinge, ensuring a uniform seal. / Note 2: The standard Check Rite is a wafer body style. Flanged Ends, RTJ style and other connections are available, please consult factory.
+60 V60
+BRAY/RITE SINGLE DOOR WAFER SWING CHECK VALVE PART EXAMPLE PART NUMBERS BY MATERIAL
+NUMBER (SERIES SDCV) + ULC/FM:
+EXAMPLE PART NUMBER: V02 212 EXAMPLE PART NUMBERS: EXAMPLE PART NUMBERS:
+SIZE MODEL CODE V02212 V02312
+INCHES CODE SERIES (COLOUR) CODE V025212 V025312
+1 V01 sta * U i * n L * l C e A s N F s M S s I t 1 A e 2 e P l 5 P d R c i a O sc s V t & E ir D t o r n i A m S b , M o b d E u y * n , a 212 V V 0 0 3 4 2 2 1 1 2 V V 0 0 3 4 3 3 1 1 2 2
+integral seat, Teflon spacers.
+ULC FM APPROVED DIN* V0521 V05312
+1.5 V015 sta * in ** le P s N s 1 s 0 te /1 e 6 l d c i a sc st & ir t o r n im b , o b d u y n , a 312 V06212 V06312
+integral sear, Teflon spacers. V08212 V08312
+2 V02 V10212 V10312
+2.5 V025 V12212 V12312
+3 V03
+4
+5
+V
+V
+0
+0
+4
+5
+* = ULC* *A =pp Arvoavieladb ulen idne mr NoFsPt Aex Nooti.c 1 m1,a 1t3e,r i1a4ls, ,1 p5l,e 2a0se, 2 c2o, n2s4u. lFt Mfa cAtpopryr.oved.
+6 V06
+8 V08 Note 1: Spacers are located on both sides of the disc hinge, ensuring a uniform seal.
+10 V10
+12 V12
+14 V14
+16 V16
+18 V18
+20 V20 1
+24 V24
+30 V30
+36 V36
+42 V42
+48 V48
+54 V54
+60 V60
+EXAMPLE PART NUMBERS BY MATERIAL
+EXAMPLE PART NUMBERS: EXAMPLE PART NUMBERS:
+© 20V V 20 0 2 2 5 2 23 1 1 2 2 BRAY INTV V 0E 0 2 2 5 3 3 1 R1 2 2NATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 20 of 76
+contaV0i3n212ed herein sVh033a12ll not be copied, transferred, conveyed, or displayed in any manner that would
+V0421 V04312
+violatVe052 1its proprietaV05r31y2 nature without the express written permission of Bray International, Inc.
+V06212 V06312
+V08212 V08312
+V10212 V10312
+V12212 V12312
+* = ULC* *A =pp Arvoavieladb ulen idne mr NoFsPt Aex Nooti.c 1 m1,a 1t3e,r i1a4ls, ,1 p5l,e 2a0se, 2 c2o, n2s4u. lFt Mfa cAtpopryr.oved.
+Note 1: Spacers are located on both sides of the disc hinge, ensuring a uniform seal.
+1 2
+=== page 21 ===
+BRAY/RITE SINGLE DOOR WAFER TYPE SWING CHECK VALVES
+Installation and Maintenance Manual
+Below nameplates are examples at time of publishing and are
+subject to change.
+All valves shall be marked in accordance with ASME B16.34
+which is listed in Table 126.1 of ASME B31.1, except in the following
+conditions:
+> 205 Series Valves, as per standard API 594.
+> Cast Iron Valves: as per standard MSS SP-71.
+> CE Valves.
+> Ductile Iron Valves: as per standard ASME B16.42.
+> FM/UL Valves.
+> Special Project Valves: as per Engineering designer.
+> Valves designed to different design standard
+SSttaannddaarrdd NNaammee ppllaattee iilllluussttrraatteedd AAddddiittiioonnaall ttaagg
+BB1166..3344 NNoott rreeqquuiirreedd..
+(cid:31)(cid:30)(cid:29)(cid:28)(cid:27)(cid:30)(cid:26)(cid:25)(cid:24)(cid:27)(cid:23)(cid:25)(cid:22)(cid:21)(cid:27)(cid:31)(cid:30)(cid:29)(cid:28)(cid:21)(cid:20)(cid:19)(cid:18)(cid:27)(cid:27)(cid:18)(cid:29)(cid:22)(cid:24)(cid:27)(cid:26)(cid:17)(cid:27)(cid:20)(cid:29)(cid:17)(cid:29)(cid:22)(cid:29)
+UULL//FFMM NNoott rreeqquuiirreedd..
+SSttaannddaarrdd NNaammee ppllaattee iilllluussttrraatteedd AAddddiittiioonnaall ttaagg::
+AAPPII 559944 NNNooottt rrreeeqqquuuiiirrreeeddd...
+(cid:31)(cid:30)(cid:29)(cid:28)(cid:27)(cid:30)(cid:26)(cid:25)(cid:24)(cid:27)(cid:23)(cid:25)(cid:22)(cid:21)(cid:27)(cid:31)(cid:30)(cid:29)(cid:28)(cid:21)(cid:20)(cid:19)(cid:18)(cid:27)(cid:27)(cid:18)(cid:29)(cid:22)(cid:24)(cid:27)(cid:26)(cid:17)(cid:27)(cid:20)(cid:29)(cid:17)(cid:29)(cid:22)(cid:29)
+MMooddeell::
+220055 (cid:31)(cid:30)(cid:29)(cid:28)(cid:27)(cid:26)(cid:29)(cid:25)(cid:24)(cid:31)
+UULL 220077 &&
+CC2222..22 (cid:31)(cid:30)(cid:29)(cid:28)(cid:27)(cid:30)(cid:26)(cid:25)(cid:24)(cid:27)(cid:23)(cid:25)(cid:22)(cid:21)(cid:27)(cid:31)(cid:30)(cid:29)(cid:28)(cid:21)(cid:20)(cid:19)(cid:18)(cid:27)(cid:27)(cid:18)(cid:29)(cid:22)(cid:24)(cid:27)(cid:26)(cid:17)(cid:27)(cid:20)(cid:29)(cid:17)(cid:29)(cid:22)(cid:29)
+##114400..33
+C US
+MMooddeell:: “The design pressure marked on this
+CCSS55 component shall not be less than the
+installed system working pressure or less
+than the values outlined in ASHRAE 15 for
+the charged refrigerant.
+After charging, mark the installed equip-
+ment with the refrigerant type and oil used”
+AAlluummiinniiuumm PPaappeerr
+SSttaannddaarrdd NNaammee ppllaattee iilllluussttrraatteedd AAddddiittiioonnaall ttaagg::
+CCSSAA
+NNSSFF 6611 (cid:31)(cid:30)(cid:29)(cid:28)(cid:27)(cid:30)(cid:26)(cid:25)(cid:24)(cid:27)(cid:23)(cid:25)(cid:22)(cid:21)(cid:27)(cid:31)(cid:30)(cid:29)(cid:28)(cid:21)(cid:20)(cid:19)(cid:18)(cid:27)(cid:27)(cid:18)(cid:29)(cid:22)(cid:24)(cid:27)(cid:26)(cid:17)(cid:27)(cid:20)(cid:29)(cid:17)(cid:29)(cid:22)(cid:29) (cid:21)(cid:16)(cid:15)(cid:14)
+®
+AAlluummiinniiuumm
+CCEE// PPEEDD
+&& (cid:31)(cid:30)(cid:29)(cid:28)(cid:27)(cid:30)(cid:26)(cid:25)(cid:24)(cid:27)(cid:23)(cid:25)(cid:22)(cid:21)(cid:27)(cid:31)(cid:30)(cid:29)(cid:28)(cid:21)(cid:20)(cid:19)(cid:18)(cid:27)(cid:27)(cid:18)(cid:29)(cid:22)(cid:24)(cid:27)(cid:26)(cid:17)(cid:27)(cid:20)(cid:29)(cid:17)(cid:29)(cid:22)(cid:29)
+UUKKCCAA//PPEERR
+AApppprroovvaall
+RReeqquuiirreedd vvaalluueess aass ppeerr sseecctt.. 44..44..
+(Rreemqouviree dU vKaCluAe#s0 a0s9 7p,e wr islle ecxt.p 4la.4in.)
+AAAllluuummmiiinnniiiuuummm
+© 2023 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 21 of 76
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 22 ===
+BRAY/RITE SINGLE DOOR WAFER TYPE SWING CHECK VALVES
+Installation and Maintenance Manual
+14.0 SAFETY WARNINGS:
+14.1 1.) The valve must be installed in the correct line size between
+flanges of the correct class.
+2.) The valve materials of construction must be compatible with
+the media being handled.
+3.) Pressures and temperatures must be kept within the limits
+specified by the appropriate standard, ie: ANSI B16.1, B16.34,
+B16.42, or within the limits specified by the particular design.
+4.) An arrow on the body indicates the direction of flow through
+the valve. The valve must be installed with the arrow pointing in
+the correct direction.
+5.) For flow in the horizontal direction, the valve shall be installed
+with the Pin (7) in the horizontal upper position with the Eyebolt
+(10) pointing vertically upwards.
+6.) The valve must be installed in the correct location in the
+pipeline. The disc must not open into or against other piping
+components such as valves, elbows, or tees. For the best
+performance and to extend/maximize life of the valve, a minimum
+of 10 pipe diameters of straight pipe upstream of the valve is
+suggested. Any reduction in this length upstream of the valve
+IINNSSTTAALLLLAATTIIOONN CCOONNSSIIDDEERRAATTIIOONNSS
+reduCCcHHeEECCsKK VVtAAhLLVVeEE LLlOOifCCeAATT IIoOONNfSS the valve proportionally.
+FFiigguurree 0000:: LLooccaattiinngg nneeaarr tteeee..
+IINNCCOORRRREECCTT CCOORRRREECCTT
+PPoossiittiioonneedd ttoooo cclloossee ttoo ttuurrbbuulleennccee.. PPoossiittiioonneedd aawwaayy ffrroomm ttuurrbbuulleennccee uussiinngg ssppaacceerr..
+INSTALLATION CONSIDERATIONS
+CHECK VALVE LOCATIONS
+©© 22002222 BBRRAAYY IINNTTEERRNNAATTIIOONNAALL.. AALLLL RRIIGGHHTTSS RREESSEERRVVEEDD.. BBRRAAYY..CCOOMM EENN__CCHHEECCKK__VVAALLVVEE__LLOOCCAATTIIOONNSS__22002222__0011 11 ooff 22
+© 2023 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 22 of 76
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 23 ===
+BRAY/RITE SINGLE DOOR WAFER TYPE SWING CHECK VALVES
+Installation and Maintenance Manual
+7.) Plugs (8) must not be removed from the valve while the pipeline
+is under pressure.
+8.) Flow rates must be within the acceptable limits. Excessively
+high flow rates may cause extreme pressure drops and erosion of
+the components. Excessively low flow rates may cause the Disc
+Assembly (2, 12) to oscillate and cause wear which may lead to
+premature failure of the internals.
+9.) Care should be taken in handling the valve. Mishandling may
+lead to damage of the sealing components or damage to the
+externals.
+14.2 Care must be taken to ensure dangerous media is handled
+according to your company site safety protocol and industry best
+practice.
+© 2023 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 23 of 76
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 24 ===
+BRAY/RITE SINGLE DOOR WAFER TYPE SWING CHECK VALVES
+Installation and Maintenance Manual
+15.0 LIMITATIONS AND PRECAUTIONS:
+15.1 Bray/Rite standard check valves are NOT recommended for the
+following service conditions:
+> Installed directly on to a Butterfly valve (or other piping
+accessory) that may interfere with the opening or closing of
+Disc (12) component.
+> Pulsating flow conditions.
+> Service condition requiring a “Full Port” opening.
+> Vertical Down-Flow (without consulting Factory for approval
+based on required accessories to meet application criteria).
+> Accurate sizing is crucial to ensure an acceptable pressure
+drop, and a resulting long service life.
+> Flow velocities should be in the following ranges:
+Pressure Drop with Water
+Approx Pressure Drop
+Valve Size Cv Min Flow to Fully Open Valve
+w/Water
+Inch/mm GPM Ft/sec. PSI @ 10 ft/sec.
+1/25 30 28 10.4 0.78
+1.5/40 38 68 10.7 2.1
+2/50 84 46 4.4 1.7
+2.5/65 137 76 5.1 1.4
+3/75 221 197 8.5 1.1
+4/100 373 157 4 1.4
+5/125 679 352 5.6 1.1
+6/150 931 367 4.1 1.5
+8/200 1,440 428 2.7 1.6
+10/250 2,623 837 3.4 1.1
+12/300 3,531 1,229 3.5 1.2
+14/350 3,226 1,180 2.7 2
+16/400 3,911 1,447 2.5 2.6
+18/450 5,799 3,376 4.8 1.7
+20/500 7,769 6,500 6.3 1.5
+24/600 10,105 8,321 5.9 1.6
+26/650 13,350 9,200 5.5 1.5
+28/700 15,000 9,520 5.6 1.5
+30/750 18,041 10,303 5.1 0.9
+32/800 20,900 12,150 5 1.4
+36/900 25,675 15,850 5.2 2
+40/1,000 39,340 25,310 6.1 2.4
+42/1,050 47,914 31,304 7.5 2.7
+48/1,200 44,983 33,095 5.9 1.6
+54/1,350 63,000 45,000 6 0.9
+60/1,500 70,500 62,800 6.2 1.1
+Notice the full open stable minimum velocity and the efficiency
+calculated at a normal velocity of 10 f/sec.
+(continued)
+© 2023 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 24 of 76
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 25 ===
+BRAY/RITE SINGLE DOOR WAFER TYPE SWING CHECK VALVES
+Installation and Maintenance Manual
+15.2 See Bray Terms and Conditions provided with quotation for
+complete warranty details.
+15.3 Approximate Flow Rate Guidance:
+Media Flow Rate
+5 to 10 feet/second
+Liquid
+1.524 to 3.048 m/second
+Cast Iron (ASTM A126-CLB) Ratings from ANSI B16.1
+Class 125
+© 2023 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 25 of 76
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 26 ===
+BRAY/RITE SINGLE DOOR WAFER TYPE SWING CHECK VALVES
+Installation and Maintenance Manual
+16.0 NON-SHOCK PRESSURE-TEMPERATURE RATINGS:
+B16.42 Table 3.1-1C, Pressure-Temperature Ratings
+Class 150
+Sizes Temperature, °F Working Pressure, PSI
+-20 to 100 250
+200 235
+300 215
+1-12” 400 200
+500 170
+600 140
+650 125
+Note: (1) The maximum temperature for ASTM A536 Grade 65-45-12 is 500 °F.
+Pressure-Temperature Ratings
+Class 150
+Sizes Temperature, °F Working Pressure, PSI
+-20 to 100 200
+200 185
+300 165
+>14-24” 400 150
+500 120
+600 90
+650 75
+Note: (1) The maximum temperature for ASTM A536 Grade 65-45-12 is 500 °F.
+Pressure-Temperature Ratings
+Class 150
+Sizes Temperature, °F Working Pressure, PSI
+-20 to 100 200
+200 185
+300 165
+>28-48” 400 150
+500 120
+600 90
+650 75
+Note: (1) The maximum temperature for ASTM A536 Grade 65-45-12 is 500 °F.
+© 2023 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 26 of 76
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 27 ===
+BRAY/RITE SINGLE DOOR WAFER TYPE SWING CHECK VALVES
+Installation and Maintenance Manual
+Temperature (°F), Pressure (PSI)
+Size -20 to 100 200 300 400 500 600 650
+2” - 42” 250 235 215 200 170 140 125
+Carbon Steel (ASTM A216-WCB) Ratings from ANSI B16.34
+Permissible, but not recommended for prolonged usage above about 800°F.
+Pressure Class Pressure Class
+Temperature (°F), Temperature (°F),
+150 300 600 900 1500 150 300 600 900 1500
+Pressure (PSI) Pressure (PSI)
+-20 to 100 275 720 1440 2160 3600 -20 to 100 285 740 1480 2220 3705
+200 240 620 1240 1860 3095 200 260 675 1350 2025 3375
+300 215 560 1120 1680 2795 300 230 655 1315 1970 3278
+400 195 515 1030 1540 2570 400 200 635 1270 1900 3170
+500 170 480 955 1435 2390 500 170 600 1200 1795 2995
+600 140 450 905 1355 2255 600 140 550 1095 1640 2735
+650 125 445 890 1330 2220 650 125 535 1075 1610 2685
+700 110 430 865 1295 2160 700 110 535 1065 1600 2665
+750 95 425 845 1270 2110 750 95 505 1010 1510 2520
+800 80 415 830 1245 2075 800 80 410 825 1235 2060
+850 65 405 810 1215 2030 850 65 270 535 805 1340
+900 50 395 790 1180 1970 900 50 170 345 515 860
+950 35 385 775 1160 1930 950 35 105 205 310 515
+1000 20 365 725 1090 1820 1000 20 50 105 155 260
+1050 360 720 1080 1800
+Stainless Steel (ASTM A351-CF8M) Ratings from ANSI B16.34
+1100 325 645 965 1610
+1150 275 550 825 1370
+1200 205 410 620 1030
+1250 180 365 545 910
+1300 140 275 410 685
+1350 105 205 310 515
+1400 75 150 225 380
+1450 60 115 175 290
+1500 40 85 125 205
+© 2023 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 27 of 76
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 28 ===
+BRAY/RITE SINGLE DOOR WAFER TYPE SWING CHECK VALVES
+Installation and Maintenance Manual
+Carbon Steel (ASTM A216-WCB)
+Neoprene
+Size Temperature Buna EPDM Metal Teflon Viton
+Standard Super
+Seat Temperature Range
+Deg °C 0-120 0-149 0-425 0-105 0-120 0-260 0-200
+2” - 48”
+Deg °F 32-248 32-300 32-797 32-221 32-248 32-500 32-392
+Carbon Steel (ASTM A216-WCB)
+Size Pressure/ Class Class Class Class Class Class Class
+Temperature 125 150 300 600 900 1500 2500
+Pressure Bar N/A 19 51 102 153 255 425
+CWP
+2” - 48” PSI N/A 275 739 1479 2219 3698 6164
+Temperature Deg °C N/A 38 38 38 38 38 38
+Deg °F N/A 100 100 100 100 100 100
+Cast Iron (ASTM A216-CLB)
+Neoprene
+Size Temperature Buna EPDM Metal Teflon Viton
+Standard Super
+2” - 12” Deg °C 0-120 0-149 0-204 0-105 0-120 0-204 0-200
+Deg °F 32-248 32-300 32-399 32-221 32-248 32-399 32-392
+Seat Temperature
+Range
+Deg °C 0-120 0-149 0-178 0-105 0-120 0-178 0-178
+14”-24”
+Deg °F 32-248 32-300 32-354 32-221 32-248 32-354 32-354
+Deg °C 0-120 0-149 0-148 0-105 0-120 0-148 0-148
+30”-48”
+Deg °F 32-248 32-300 32-298 32-221 32-248 32-298 32-298
+Cast Iron (ASTM A216-CLB)
+Size Pressure/ Class Class Class Class Class Class Class
+Temperature 125 150 300 600 900 1500 2500
+Pressure Bar 13 N/A N/A N/A N/A N/A N/A
+2” - 48” PSI 200 N/A N/A N/A N/A N/A N/A
+Temperature Deg °C 38 N/A N/A N/A N/A N/A N/A
+CWP
+Deg °F 100 N/A N/A N/A N/A N/A N/A
+Bar 10 N/A N/A N/A N/A N/A N/A
+Pressure
+PSI 150 N/A N/A N/A N/A N/A N/A
+14”-48”
+Deg °C 38 N/A N/A N/A N/A N/A N/A
+Temperature
+Deg °F 100 N/A N/A N/A N/A N/A N/A
+Ductile Iron (ASTM A395)
+Neoprene
+Size Temperature Buna EPDM Metal Teflon Viton
+Standard Super
+Seat Temperature
+Range Deg °C 0-120 0-149 0-343 0-105 0-120 0-260 0-200
+2” - 48”
+Deg °F 32-248 32-300 32-649 32-221 32-248 32-500 32-392
+Ductile Iron (ASTM A395)
+Pressure/ Class Class Class Class Class Class Class
+Size Temperature 125 150 300 600 900 1500 2500
+Pressure Bar N/A 17 N/A N/A N/A N/A N/A
+CWP
+PSI N/A 246 N/A N/A N/A N/A N/A
+2” - 48”
+Temperature Deg °C N/A 38 N/A N/A N/A N/A N/A
+Deg °F N/A 100 N/A N/A N/A N/A N/A
+© 2023 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 28 of 76
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 29 ===
+BRAY/RITE SINGLE DOOR WAFER TYPE SWING CHECK VALVES
+Installation and Maintenance Manual
+Hastelloy C-22 (ASTM A494-CX2MW)
+Neoprene
+Size Temperature Buna EPDM Metal Teflon Viton
+Standard Super
+Seat Temperature
+Range Deg °C 0-120 0-149 0-315 0-105 N/A 0-260 0-200
+2” - 48”
+Deg °F 32-248 32-300 32-599 32-221 N/A 32-500 32-392
+Hastelloy C-22 (ASTM A494-CX2MW)
+Pressure/ Class Class Class Class Class Class Class
+Size Temperature 125 150 300 600 900 1500 2500
+Pressure Bar N/A 19 49 99 149 248 413
+CWP
+PSI N/A 275 710 1435 2161 3596 5990
+2” - 48”
+Temperature Deg °C N/A 38 38 38 38 38 38
+Deg °F N/A 100 100 100 100 100 100
+Monel 400 (ASTM A494-M35-1)
+Neoprene
+Size Temperature Buna EPDM Metal Teflon Viton
+Standard Super
+Seat Temperature
+Range Deg °C 0-120 0-149 0-315 0-105 N/A 0-260 0-200
+2” - 48”
+Deg °F 32-248 32-300 32-599 32-221 N/A 32-500 32-392
+Monel 400 (ASTM A494-M35-1)
+Pressure/ Class Class Class Class Class Class Class
+Size Temperature 125 150 300 600 900 1500 2500
+Pressure Bar N/A 15 41 82 124 206 344
+CWP
+PSI N/A 217 594 1189 1798 2987 4989
+2” - 48”
+Temperature Deg °C N/A 38 38 38 38 38 38
+Deg °F N/A 100 100 100 100 100 100
+Stainless Steel (ASTM A351-CF8M)
+Neoprene
+Size Temperature Buna EPDM Metal Teflon Viton
+Standard Super
+Seat Temperature
+Range Deg °C -40-120 -54-149 -196-538 -37-105 -40-120 -253-260 -20-200
+2” - 48”
+Deg °F -40-248 -65-300 32-1000 -34-221 -40-248 -423-500 -4-392
+Stainless Steel (ASTM A351-CF8M)
+Pressure/ Class Class Class Class Class Class Class
+Size Temperature 125 150 300 600 900 1500 2500
+Pressure Bar N/A 19 49 99 149 248 413
+CWP
+PSI N/A 275 710 1435 2161 3596 5990
+2” - 48”
+Temperature Deg °C N/A 38 38 38 38 38 38
+Deg °F N/A 100 100 100 100 100 100
+© 2023 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 29 of 76
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 30 ===
+BRAY/RITE SINGLE DOOR WAFER TYPE SWING CHECK VALVES
+Installation and Maintenance Manual
+Super Duplex 5A (ASTM A890-CE3MN)
+Neoprene
+Size Temperature Buna EPDM Metal Teflon Viton
+Standard Super
+Seat Temperature
+Range Deg °C 0-120 0-149 0-135 0-105 N/A 0-260 0-200
+2” - 48”
+Deg °F 32-248 32-300 32-599 32-221 N/A 32-500 32-392
+Super Duplex 5A (ASTM A890-CE3MN)
+Pressure/ Class Class Class Class Class Class Class
+Size Temperature 125 150 300 600 900 1500 2500
+Pressure Bar N/A 19 49 99 149 248 413
+CWP
+PSI N/A 275 710 1435 2161 3596 5990
+2” - 48”
+Temperature Deg °C N/A 38 38 38 38 38 38
+Deg °F N/A 100 100 100 100 100 100
+© 2023 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 30 of 76
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 31 ===
+BRAY/RITE SINGLE DOOR WAFER TYPE SWING CHECK VALVES
+Installation and Maintenance Manual
+17.0 EXAMPLE BILL OF MATERIALS:
+10
+9
+13 8
+11
+7
+3 5
+8 14
+6
+1 12
+2
+6
+15
+Item Description Standard Material Item Description Standard Material
+1 Body ASTM A216-WCB* 9 Lock Nut Steel Zinc Plated
+2 Hinge ASTM A351-CF8M 10 Eye Bolt Steel Zinc Plated
+3 Seat ASTM A240-304 11 Name Plate 316 SS
+5 Spring ASTM 313-316 12 Disc ASTM A351-CF8M
+6 Spacer ASTM A479-316, Teflon 13 Rivet Steel Zinc Plated
+7 Pin ASTM A479-316 Buna, EPDM, Teflon,
+14 O-Ring Teflon Encapsulated
+8 Plug Steel, or 316 SS Silicone, Viton
+THE RITE DIMENSIONS
+* Other body materials available: A126-CLB, A395, A351-CF8M, Monel, Alloy 20, Hastelloy, 254SMO.
+Models 210 (ANSI), 205 (API 594), Class 125/150
+Nominal Pipe B B Nominal A A B C D Weight Weight
+Size A Class 125/150 Class 300 C D Weight Pipe Size 210 205 210/205 210 SS 205 SS
+Inch mm Inch mm Inch mm Inch mm Inch mm Inch mm lbs kg lbs kg
+Inch mm Inch mm Inch mm Inch mm Inch mm Inch mm lbs kg
+1 25 2 50.8 2 5⁄8 66.7 3.4 86.3 1.9 0.85
+2 50 1.75 (*2.125) 44.5 4.13 104.8 4.38 111.1 4.25 108 1.19 30 3.5 1.6 11⁄2 40 21⁄2 63.5 3 3⁄8 85.7 4 1⁄8 104.7 3.8 1.8
+2 1/2 65 1.88 (*2.375) 47.6 4.88 123.8 5.13 130.2 4.50 114 1.50 38 5.0 2.3
+2 50 13⁄4 21⁄8* 44.5 2 3⁄8 60.3 4 1⁄8 104.8 4 1⁄4 107.9 1 3⁄16 30.1 4.2 1.9 6.0 2.7
+21⁄2 65 1 7⁄8 23⁄8* 47.6 2 5⁄8 66.7 4 7⁄8 123.8 41⁄2 114.3 1 3⁄8 34.9 6.1 2.8 9.0 4.1
+3 80 2.00 (*2.625) 50.8 5.38 136.5 5.88 149.2 5.00 127 1.69 43 6.5 2.9 3 80 2 2 5⁄8* 50.8 2 7⁄8 73.0 5 3⁄8 136.5 5 127.0 1 5⁄8 41.2 8.4 3.8 13.0 5.9
+4 100 21⁄4 57.2 2 7⁄8 73.0 6 7⁄8 174.6 5 3⁄4 146.0 2 3⁄4 69.8 13.5 6.2 19.3 8.75
+4 100 2.25 57.2 6.88 174.6 7.13 181.0 5.75 146 2.44 62 11 5.0
+A D 5 125 21⁄2 63.5 3 1⁄4 82.5 7 3⁄4 196.9 61⁄2 165.1 3 5⁄8 92.0 18.1 8.2 23.0 10.4
+5 125 2.50 63.5 7.75 196.9 8.50 215.9 6.50 165 3.38 86 15 6.8 6 150 23⁄4 69.9 3 7⁄8 98.4 8 3⁄4 222.3 7 1⁄4 184.5 41⁄2 114.3 22.5 10.2 34.0 15.4
+8 200 27⁄8 73.0 5 127.0 11 279.4 8 1⁄4 209.5 5 3⁄4 146.0 34.5 15.7 65.0 29.5
+6 150 2.75 69.9 8.75 222.3 9.88 250.8 7.25 184 4.25 108 20 9.0 10 250 31⁄8 79.4 5 3⁄4 146.0 13 3⁄8 339.7 9 5⁄8 244.4 71⁄2 190.5 50.9 23.1 88.1 40
+8 200 2.88 73.0 11.00 279.4 12.13 308.0 8.25 210 5.38 136 30 13.6 12 300 33⁄8 85.7 7 1⁄8 181.0 16 1⁄8 409.6 10 3⁄4 273.0 8 3⁄4 222.2 83.7 38.0 154.2 70
+14 350 41⁄4 108.0 7 1⁄4 184.0 17 5⁄8 447.7 13 330.2 7 1⁄4 184.1 115.0 53.0 200 90.8
+10 250 3.13 79.4 13.38 339.7 14.25 362.0 9.63 244 7.00 178 47 21.3 16 400 41⁄4 108.0 71⁄2 191.0 20 1⁄8 511.2 141⁄2 368.3 8 1⁄4 209.5 130.0 59.0 230 104.4
+12 300 3.38 85.7 16.13 409.6 16.63 422.3 10.75 273 8.13 206 70 32 18 450 41⁄4 108.0 8 203.0 211⁄2 546.1 15 1⁄4 387.3 101⁄2 266.7 170.0 77.2 320 145.3
+20 500 51⁄2 139.7 8 5⁄8 219.0 23 3⁄4 603.3 18 3⁄4 476.2 11 279.4 230.0 104.4 360 163.4
+* Face to face for Cast Iron Class 125. 24 600 6 152.4 8 3⁄4 222.0 28 3⁄16 716.0 201⁄2 520.7 15 381.0 385.0 175.0 560 254.2
+26 650 12.5 318 29.25 749.3 20.88 530.4 17 432.0 965 438.1
+B 28 700 61⁄2 165.1 32 5⁄8 828.7 26 660.4 17 3⁄4 450.8 580.0 263.3
+30 750 9 228.6 12 305.0 34 5⁄8 879.5 271⁄2 698.5 16 1⁄4 412.7 965.0 438.1 1300 590.2
+32 800 9 228.6 36 13⁄16 936.8 29 736.6 16 3⁄4 425.4 1235.0 560.7
+36 900 111⁄2 292.1 141⁄2 368.0 41 1⁄8 1044.6 30 762.0 18 1⁄4 463.5 1525.0 692.4 2000 908.0
+C 40 1000 111⁄2 292.1 45 5⁄8 1158.9 35 1⁄4 895.3 211⁄2 546.1 2200.0 998.8
+42 1050 12 304.8 17 432.0 48 1219.2 33 1⁄4 844.5 28 711.2 2235.0 1014.7 3200 1452.8
+48 1200 14 355.6 20 5⁄8 523.9 541⁄2 1384.3 38 1⁄4 971.5 241⁄2 622.3 3250.0 1475.5 3910 1775
+54 1350 23 584.2 61 1549.4 43 1092.2 19 3⁄8 492.1 5500.0 2497.0
+6
+A
+"
+S
+-
+T
+1
+M
+50 60 1500 23 584.2 67 3⁄8 1711.3 38 1⁄4 971.5 33 838.2 7000.0 3178.0
+A216-WCB * For Cast Iron
+Models 210 (ANSI), 205 (API 594), Class 300
+Nominal A A B C D Weight Weight
+Pipe Size 210 205 210/205 210 SS 205 SS
+© 2023 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 31 of 76 Inch mm Inch mm Inch mm Inch mm Inch mm Inch mm lbs kg lbs kg
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would 1 25 2 50.8 27⁄8 73.0 3 2⁄5 86.4 1.9 0.85
+violate its proprietary nature without the express written permission of Bray International, Inc. 11⁄2 40 21⁄2 63.5 33⁄4 95.2 4 1⁄8 104.8 4.4 2.0
+2 50 13⁄4 44.5 23⁄8 60.3 43⁄8 111.1 4 1⁄4 108.0 13⁄16 30.0 4.0 1.8 8.4 3.8
+21⁄2 65 17⁄8 47.6 25⁄8 66.7 51⁄8 130.2 41⁄2 114.0 11⁄2 38.0 5.9 2.7 13.2 6.0
+3 80 2 50.8 27⁄8 73.0 57⁄8 149.2 5 127.0 111⁄16 43.0 7.9 3.6 15.4 7.0
+4 100 21⁄4 57.2 27⁄8 73.0 71⁄8 181.0 5 3⁄4 146.0 27⁄16 62.0 11.9 5.4 22.5 10.2
+5 125 21⁄2 63.5 31⁄4 82.5 81⁄2 215.9 61⁄2 165.0 33⁄8 86.0 18.9 8.6 27.5 12.5
+6 150 23⁄4 69.9 37⁄8 98.4 97⁄8 250.8 7 1⁄4 184.0 41⁄4 108.0 26.9 12.2 43.0 19.5
+8 200 27⁄8 73.0 5 127.0 121⁄8 308.0 8 1⁄4 210.0 53⁄8 136.0 41.9 19.0 76.0 34.5
+10 250 31⁄8 79.4 53⁄4 146.0 141⁄4 362.0 9 5⁄8 244.0 7 178.0 61.7 28.0 109.0 49.5
+12 300 33⁄8 85.7 71⁄8 181.0 165⁄8 422.3 10 3⁄4 273.0 81⁄8 206.0 94.7 43.0 198.2 90.0
+14 350 83⁄4 222.3 83⁄4 222.0 191⁄8 486.0 13 330.0 71⁄4 184.0 286.3 130.0 286.3 130.0
+16 400 91⁄8 231.8 91⁄8 232.0 211⁄4 540.0 141⁄2 368.0 81⁄4 210.0 352.4 160.0 352.4 160.0
+18 450 103⁄8 263.5 103⁄8 264.0 231⁄2 597.0 15 1⁄4 387.0 101⁄2 267.0 440.5 200.0 440.5 200.0
+20 500 111⁄2 292.1 111⁄2 292.0 253⁄4 654.0 18 3⁄4 476.0 11 280.0 572.7 260.0 572.7 260.0
+24 600 121⁄2 317.5 121⁄2 318.0 301⁄2 774.0 201⁄2 520.0 15 381.0 925.1 420.0 925.1 420.0
+Model 201 (API 594), Class 600
+Nominal A B B C D Weight
+Pipe Size 400lbs 600lbs
+Inch mm Inch mm Inch mm Inch mm Inch mm Inch mm lbs kg
+2 50 23⁄8 60.3 43⁄8 111.1 43⁄8 111.1 45⁄8 117 1⁄2 13 7 3
+21⁄2 65 25⁄8 66.7 51⁄8 130.2 51⁄8 130.2 51⁄8 130 5⁄8 16 10 4.5
+3 80 27⁄8 73 57⁄8 149.2 57⁄8 149.2 6 152 3⁄4 19 14.5 6.6
+4 100 31⁄8 79.4 7 177.8 75⁄8 193.7 63⁄4 171 11⁄2 38 24 11
+6 150 53⁄8 136.5 93⁄4 247.6 101⁄2 266.7 91⁄2 241 21⁄8 54 54 25
+8 200 61⁄2 165.1 12 304.8 125⁄8 320.7 103⁄4 273 23⁄4 70 96 44
+10 250 83⁄8 212.7 141⁄8 358.8 153⁄4 400 12 305 3 76 171 78
+12 300 9 228.6 161⁄2 419.1 18 457.2 143⁄4 375 41⁄8 105 250 114
+10250 Parkway, Montreal, Quebec, Canada H1J 2K4
+Tél 514.324.8900 Fax 514.324.9525
+© 2016 Rite Corporation. All rights reserved.
+8 | WWW.BRAY.COM R-3001_EN_V31_2016-10
+=== page 32 ===
+BRAY/RITE SINGLE DOOR WAFER TYPE SWING CHECK VALVES
+Installation and Maintenance Manual
+TYPICAL BOLT/STUD DETAILS:
+18.0 TYPICAL BOLT/STUD DETAILS:
+Series 125 & 150 Series 300
+Nominal Pipe
+Size
+A Stud Size B*C A Stud Size B*C
+Inch mm Studs Inch mm Studs Inch mm
+2 50 4 5/8*4.75 16*20 8 5/8*5.00 16*130
+2 1/2 65 4 5/8*5.25 16*135 8 3/4*5.75 20*145
+3 80 4 5/8*5.50 16*140 8 3/4*6.00 20*155
+4 100 8 5/8*5.75 16*145 8 3/4*6.50 20*165
+5 125 8 3/4*6.25 20*160 8 3/4*7.00 20*180
+6 150 8 3/4*6.50 20*165 12 3/4*7.50 20*190
+8 200 8 3/4*7.00 20*180 12 7/8*8.25 22*210
+10 250 12 7/8*7.75 22*200 16 1*9.25 24*235
+12 300 12 7/8*8.00 22*205 16 1 1/8*10.00 28*255
+14 350 12 1*9.25 24*235 20 1 1/8*14.00 28*280
+16 400 16 1*9.50 24*245 20 1 1/4*14.75 32*295
+18 450 16 1 1/8*10.25 28*260 24 1 1/4*15.50 32*300
+20 500 20 1 1/8*10.50 28*295 24 1 1/4*16.75 32*345
+24 600 20 1 1/4*12.75 32*325 24 1 1/2*17.75 38*385
+30 750 28 1 1/4*18.00 32*460
+36 900 32 1 1/2*19.50 38*495
+42 1050 36 1 1/2*20.50 38*520
+Series 600 Series 900 Series 1500
+Nominal Pipe
+Size
+A Stud Size B*C A Stud Size B*C A Stud Size B*C
+Inch mm Studs Inch mm Studs Inch mm Studs Inch mm
+2 50 8 5/8*6.50 16*165 8 7/8*9.50 22*245 8 7/8*9.50 22*245
+2 1/2 65 8 3/4*7.25 20*185 8 1*9.50 24*245 8 1*9.50 24*245
+3 80 8 3/4*7.75 20*200 8 7/8*9.00 22*230 8 1 1/8*10.25 28*260
+4 100 8 7/8*8.75 22*225 8 1 1/8*10.75 28*275 8 1 1/4*11.75 32*300
+6 150 12 1*12.00 24*305 12 1 1/8*14.00 28*360 12 1 3/8*16.50 35*420
+8 200 12 1 1/8*14.00 28*360 12 1 3/8*16.75 35*425 12 1 5/8*19.50 35*495
+10 250 16 1 1/4*16.75 32*425 16 1 3/8*18.75 35*480 12 1 7/8*23.50 35*600
+12 300 20 1 1/4*17.50 32*435 20 1 3/8*21.50 35*545 16 1*27.00 50*685
+© 2023 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 32 of 76
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 33 ===
+BRAY/RITE SINGLE DOOR WAFER TYPE SWING CHECK VALVES
+Installation and Maintenance Manual
+Series 150 Series 300 Series 125
+Nominal Pipe Nominal
+Size Pipe Size
+A B A B A
+Inch mm Inch mm Inch mm Inch mm Inch mm Inch Inch mm
+2 50 6.19* 157* 8.0 203 8.69 221 10.5 267 2 5.81 148
+2 1/2 65 6.56* 167* 8.5 216 9.56 243 11.5 292 2 1/2 6.06 154
+3 80 7.44* 189* 9.5 241 10.44 265 12.5 318 3 6.81 173
+4 100 9.19 233 11.5 292 11.69 297 14.0 356 Remaining dimensions are the same
+as Series 150.
+5 125 10.44 265 13.0 330 13.19 335 15.75 400
+6 150 11.19 284 14.0 356 14.69 373 17.5 445
+8 200 16.56 421 19.5 495 18.06 459 21.0 533
+10 250 21.31 541 24.5 622 21.31 541 24.5 622
+12 300 24.06 611 27.5 699 24.56 624 28.0 711
+14 350 26.69 678 31.0 787 25.69 652 33.0 838
+16 400 29.69 754 34.0 864 26.44 672 34.0 864
+18 450 34.19 868 38.5 978 30.44 773 38.5 978
+20 500 32.94 837 38.5 978 31.31 795 40.0 1016
+24 600 44.96 1141 51.0 1295 44.18 1122 53.0 1346
+30 750 50.94 1294 60.0 1524
+36 900 65.44 1662 77.0 1956
+Dimension *B* corresponds to ANSI B16.10
+18.1 The following pages (32-74) are written for the various optional
+Special Accessories in their standard right-hand-mount
+configurations. Any customer-requested left-hand-mount
+configurations would need written instructions to be adjusted
+accordingly.
+© 2023 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 33 of 76
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 34 ===
+BRAY/RITE SINGLE DOOR WAFER TYPE SWING CHECK VALVES
+Installation and Maintenance Manual
+19.0 H-100 (External Spring, Weight & Hydraulic Damper), Special Application Model:
+Item Description Material Item Description Material
+1 Body ASTM A 216 WCB* 24 Retaining Plate Steel
+2 Hinge ASTM A351-CF8M 25 Socket Head Screw Steel Zinc Plated
+3 Seat (optional) ASTM A240-304 26 Bracket Steel
+6 Spacer ASTM A479-316 27 Socket Head Screw Steel Zinc Plated
+7 Shaft ASTM A564-630 (17-4 PH) 28 Dowel Pin Steel
+8 Plug Steel (or as per body) 29 Ball Bearing Steel
+9 Lock Nut Steel Zinc Plated 32 Nut Steel Zinc Plated
+10 Eye Bolt Steel Zinc Plated ASTM A313 302/304
+33 Spring (Optional ASTM A313 316, 17-7
+11 Name Plate SS316 PH Stainless Steel, Inconel X 750)
+12 Disc ASTM A351-CF8M 34 Weight Steel
+13 Rivet Steel Zinc Plated 35 Socket Head Screw Steel Zinc Plated
+14 O-Ring (optional) Buna / EPDM / Teflon / TES / Viton 36 Pin Steel
+15 Disc Nut Stainless Steel 42 Socket Head Screw Steel Zinc Plated
+16 Spacer Steel 46 Bolt Steel Zinc Plated
+19 Bushing ASTM A479-316 49 Nut Steel Zinc Plated
+20 O-Ring Buna / EPDM / Teflon / TES / Viton 57 Rod Clevis Steel
+21 O-Ring Buna / EPDM / Teflon / TES / Viton 61 Cylinder Assembly Aluminium / Steel
+22 Spring Adaptor Steel 63 Eye Bracket Steel
+23 Weight Lever Steel 72 Threaded Bushing Steel
+82 Spacer Teflon
+* Other materials available: A126 CLB, A395, A351-CF8M, Monel, Alloy 20, Hastelloy, 254SMO, Titanium.
+All external components can be offered in SS where required.
+19.1 1) APPLICATION:
+The purpose of equipping a standard Bray/Rite Single Door Wafer
+Type Swing Check Valve with a hydraulic cylinder and an external
+spring, is to provide external control, which is field adjustable, in
+applications such as: multiple pumping installations terminating in
+common headers, where transient forces are difficult to ascertain
+and control.
+(continued)
+© 2023 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 34 of 76
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 35 ===
+BRAY/RITE SINGLE DOOR WAFER TYPE SWING CHECK VALVES
+Installation and Maintenance Manual
+19.2 2) GENERAL DESCRIPTION
+A Model H-100 is a standard Bray/Rite Single Door Wafer Type
+Swing Check Valve which has been converted, featuring a positive
+hexagon drive at the Hinge/Disc/Shaft (2, 12, 7) connection point.
+The Shaft (7) extends through and is supported in the Body (1)
+on one side and externally by a Ball bearing (29) mounted in a
+Bracket (26) on the other side. O-Rings (20, 21) mounted in a Seal
+Bushing (19) seal the Shaft (7) and the Body (1).
+The Spring/Cylinder Adaptor (22) engaged on the Shaft (7),
+is inter-connected to the Rod Clevis (57) through the Cylinder
+Assembly (61) as well as the Spring (33), and then anchored to the
+Bracket (26). The Weight Lever (23), which supports the Weight
+(34), is connected to the Shaft (7) with a hexagon bushing. The
+Weight Lever (23) can be rotated together with the Shaft (7).
+The Disc (12) is supplied with a non-rotating feature to prevent it
+from “Spinning” and creating excessive wear at the Hinge-Disc (2,
+12) connection. Threaded Bushing (72) is optional if the Shaft (7)
+interferes with the flange’s stud.
+19.3 3) ADJUSTMENT:
+The limited adjustment of the Spring (33) and Cylinder Assembly
+(61) is designed to suit most applications. Adjustment by qualified
+mechanic, allows for the design to be adjusted to suit a variety of
+applications. The valve has been set at the factory to estimated
+operating conditions.
+a) The flow control valve (needle valve on hydraulic damper) is set
+at the factory to give a controlled opening speed and a fast closing
+speed. If slower opening is required, the control valve should be
+closed slowly until the desired speed is obtained.
+b) If a faster opening is required, the control valve should be
+opened slowly until the desired speed is obtained.
+19.4 4) MAINTENANCE REQUIREMENTS:
+Should the valve require repair, the following procedure
+is recommended to dis-assemble the valve and its major
+components.
+1. The Cylinder Assembly (61) should be removed first to reduce
+the chances of damaging any of the components. The Cylinder
+Assembly (61) is filled with hydraulic oil. If possible, it is best to
+remove this unit while the valve is inline. To remove the Cylinder
+Assembly (61):
+a. Remove the Pin (36) in the Rod Clevis (57) and the Eye Bracket
+(63) of the Cylinder Assembly (61).
+b. Support the Cylinder Assembly (61) and remove the Pin (36).
+The Cylinder Assembly (61) is free from the valve assembly.
+2. Remove valve from the line.
+3.Mark the hole that the Spring (33) mounts to Spring/Cylinder
+Adaptor (22), mark the location of the Nut (32) tight to the
+Eyebolt (31), loosen Nut (32) to remove tension from the Spring
+(33) and remove the Spring (33).
+© 2023 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 35 of 76
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 36 ===
+BRAY/RITE SINGLE DOOR WAFER TYPE SWING CHECK VALVES
+Installation and Maintenance Manual
+4. Mark the location between the Weight Lever (23) and the
+Weight (34), loosen the Socket Head Screw (35) and carefully
+remove the Weight (34) from Weight Lever (23).
+5. Remove Socket Head Screw (25) and the Retaining Plate (24)
+from the end of the Shaft (7).
+6. Mark the orientation between the Weight Lever (23) and Spring/
+Cylinder Adaptor (22) with the Shaft (7), remove the Weight Lever
+(23) and Spring/Cylinder Adaptor (22) from the Shaft (7).
+7. Remove the Plug (8) from the opposite side of the Body (1).
+8. The Shaft (7) can now be removed. You may be required to tap
+the free end of the Shaft (7) to remove it.
+9. The Hinge-Disc (2, 12) Assembly may now be removed from the
+Body (1).
+10. Remove the Bushings (19) and Spacer (6) from the Body (1).
+11. Clean parts, replace O-Rings (14, 20, 21) and add compatible
+grease.
+Assembly is accomplished by reversing the above procedure.
+NOTICE
+O-Rings: Surfaces that the O-Ring (14, 20, 21) will contact in
+operation should be smooth and free from sharp edges, burrs
+and deep scratches.
+When installing the O-Rings (14, 20, 21), lubricate the O-Rings
+(14, 20, 21) and all contact surfaces with clean oil or grease. When
+filling the Cylinder Assembly (61), cycle the valve a few times to
+ensure the circuit is completely full of oil. Oil may seep from the
+muffler if the Cylinder Assembly (61) is overfilled. Cycle the valve
+until the seeping stops.
+NOTICE
+Cylinder: The Cylinder is filled with a light hydraulic oil, Esso Nuto
+46. When filling the Cylinder Assembly (61), cycle the valve a few
+times to ensure the circuit is completely full of oil. Oil may seep
+from the muffler if the cylinder is overfilled. Cycle the valve until
+the seeping stops.
+© 2023 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 36 of 76
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 37 ===
+BRAY/RITE SINGLE DOOR WAFER TYPE SWING CHECK VALVES
+Installation and Maintenance Manual
+20.0 SA-01 (EXTERNAL LEVER, & SPRING), SPECIAL APPLICATION MODEL:
+Item Description Material Item Description Material
+1 Body ASTM A 216 WCB* 19 Seal Bushing ASTM A479-316
+2 Hinge ASTM A351-CF8M 20 O-Ring Buna / EPDM / Teflon / TES / Viton
+3 Seat (optional) ASTM A240-304 21 O-Ring Buna / EPDM / Teflon / TES / Viton
+6 Spacer ASTM A479-316 22 Spring Adaptor Steel
+Shaft F316 under 4”, and ASTM 24 Retaining Plate Steel
+7
+A564-630 (17-4 PH) above 4”
+25 Socket Head Screw Steel Zinc Plated
+8 Plug Steel (or as per body)
+26 Bracket Steel
+9 Lock Nut Steel Zinc Plated
+27 Socket Head Screw Steel Zinc Plated
+10 Eye Bolt Steel Zinc Plated
+28 Dowel Pin Steel Zinc Plated
+11 Name Plate SS316
+29 Ball Bearing Steel
+12 Disc ASTM A351-CF8M
+30 Round Head Screw Steel Zinc Plated
+13 Rivet Steel Zinc Plated
+32 Nut Steel Zinc Plated
+14 O-Ring (optional) Buna / EPDM / Teflon / TES / Viton
+ASTM A313 302/304
+15 Disc Nut Stainless Steel 33 Spring (Optional ASTM A313 316, 17-7 PH
+Stainless Steel, Inconel X 750)
+* Other materials available: A126 CLB, A395, A351-CF8M, Monel, Alloy 20, Hastelloy, 254SMO, Titanium.
+All external components can be offered in SS where required.
+This model is only available up to 12” in size.
+20.1 1) APPLICATION:
+The purpose of equipping a standard Bray/Rite Single Door Wafer
+Type Swing Check Valve with an external spring, is to provide
+external control, which is field adjustable, in applications such as:
+multiple pumping installations terminating in common headers,
+where transient forces are difficult to ascertain and control.
+(continued)
+© 2023 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 37 of 76
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 38 ===
+BRAY/RITE SINGLE DOOR WAFER TYPE SWING CHECK VALVES
+Installation and Maintenance Manual
+20.2 2) GENERAL DESCRIPTION:
+A Model SA-01 is a standard Bray/Rite Single Door Wafer Type
+Swing Check Valve which has been converted, featuring a positive
+hexagon drive at the Hinge/Disc/Shaft (2, 12, 7) connection point.
+The Shaft (7) extends through and is supported in the Body (1)
+on one side and externally by a Ball bearing (29) mounted in a
+Bracket (26) on the other side. O-Rings (20, 21) seal the Shaft (7)
+and the Body (1). A Spring (33) mounted between the Bracket
+(26) and the Shaft (7) through the Spring Adaptor (22) provides
+for adjustment and rapid closure. The Disc (12) is supplied with a
+non-rotating feature to prevent it from “Spinning” and creating
+excessive wear at the Hinge-Disc (2, 12) connection.
+20.3 3) ADJUSTMENT:
+The limited adjustment of the spring is designed to suit most
+applications. Adjustment by qualified mechanic, allows for design
+to apply to suit a variety of applications. The valve has been set at
+the factory to estimated operating conditions.
+20.4 4) MAINTENANCE REQUIREMENTS:
+No special tools are required to replace shaft seals. The following
+steps are recommended:
+1. Remove valve from the line.
+2. Mark the hole that the spring mounted to the Spring Adaptor
+(22), mark the position that the Nut (32) tightened to the Eyebolt
+(10). Loosen Nut (32) to remove tension from the Spring (33),
+remove the Spring (33).
+3. Remove Socket Head Screw (25) and Retaining Plate (24) from
+the end of the Shaft (7). Mark the orientation between the Spring
+Adaptor (22) and the Shaft (7).
+4. Remove the Spring Adaptor (22) from the Shaft (7).
+5. Remove the Plug (8) from the Body (1).
+6. Remove the Shaft (7) from the Plug (8) side of the Body (1) by
+tapping gently.
+7. The Hinge-Disc (2, 12) Assembly may now be removed from
+the Body (1).
+8. Clean parts, replace O-Rings (14, 20, 21) and add compatible
+grease.
+Assembly is accomplished by reversing the above procedure.
+© 2023 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 38 of 76
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 39 ===
+BRAY/RITE SINGLE DOOR WAFER TYPE SWING CHECK VALVES
+Installation and Maintenance Manual
+21.0 SA-1 (External Lever, Spring, & Weight), Special Application Model:
+Item Description Material Item Description Material
+1 Body ASTM A 216 WCB* 20 O-Ring Buna / EPDM / Teflon / TES / Viton
+2 Hinge ASTM A351-CF8M 21 O-Ring Buna / EPDM / Teflon / TES / Viton
+3 Seat (optional) ASTM A240-304 22 Spring Adaptor Steel
+6 Spacer ASTM A479-316 23 Weight Lever Steel
+F316 under 4”, and ASTM 24 Retaining Plate Steel
+7 Shaft
+A564-630 (17-4 PH) above 4”
+25 Socket Head Screw Steel Zinc Plated
+8 Plug Steel (or as per body)
+26 Bracket Steel
+9 Lock Nut Steel Zinc Plated
+27 Socket Head Screw Steel Zinc Plated
+10 Eye Bolt Steel Zinc Plated
+28 Dowel Pin Steel Zinc Plated
+11 Name Plate SS316
+29 Ball Bearing Steel
+12 Disc ASTM A351-CF8M
+30 Round Head Screw Steel Zinc Plated
+13 Rivet Steel Zinc Plated
+32 Nut Steel Zinc Plated
+14 O-Ring (optional) Buna / EPDM / Teflon / TES / Viton
+ASTM A313 302/304
+15 Disc Nut Stainless Steel 33 Spring (Optional ASTM A313 316, 17-7 PH
+Stainless Steel, Inconel X 750)
+19 Seal Bushing ASTM A479-316
+34 Weight Steel
+35 Socket Head Screw Steel Zinc Plated
+* Other materials available: A126 CLB, A395, A351-CF8M, Monel, Alloy 20, Hastelloy, 254SMO, Titanium.
+All external components can be offered in SS where required.
+This model is only available up to 12” in size.
+21.1 1) APPLICATION:
+The purpose of equipping a standard Bray/Rite Single Door Wafer
+Type Swing Check Valve with an external lever with spring &
+weight, is to provide an external control, which is field adjustable,
+in applications such as: multiple pumping installations terminating
+in common headers where transient forces are difficult to ascertain
+and control. Other applications include those that require fast
+closure such as solids handling, & wastewater. The basic principle is
+to start closing the valve as soon as the flow starts to decrease.
+© 2023 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 39 of 76
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 40 ===
+BRAY/RITE SINGLE DOOR WAFER TYPE SWING CHECK VALVES
+Installation and Maintenance Manual
+With the external spring it is possible to close the valve before the
+flow reverses. This reduces or eliminates water-hammer and the
+associated problems.
+21.2 2) GENERAL DESCRIPTION:
+A Model SA-1 is a basic Bray/Rite Check Valve which has been
+converted, featuring a positive hexagon drive at the Hinge/Disc/
+Shaft (2, 12, 7) connection point. The Shaft (7) extends through
+and is supported in the Body (1) on one side and externally by
+a Ball bearing (29) mounted in a Bracket (26) on the other side.
+O-Rings (20, 21) seal the Shaft (7) and the Body (1). A Spring (33)
+mounted between the Bracket (26) and the Shaft (7) provides for
+the adjustment and rapid closure. The Spring (33) and Weight (34)
+are attached to the Shaft (7) with hexagon drive bushings. The
+Disc (12) is supplied with a non-rotating feature to prevent it from
+“Spinning” and creating excessive wear at the Hinge-Disc (2, 12)
+connection.
+21.3 3) ADJUSTMENT OF VALVE:
+The limited adjustment of the Spring (33) & Weight (34) is
+designed to suit most applications. Adjustment by qualified
+mechanic, allows for design to apply to suit a variety of
+applications. The valve has been set at the factory to estimated
+operating conditions. To reduce valve closing time, the Spring
+(33) can be tightened, or the Weight (34) moved further from the
+Shaft (7). To increase the valve closing time, the Spring (33) can be
+loosened, or the Weight (34) moved closer to the Shaft (7). Make
+sure that there is preload on the Spring (33) to ensure that the
+valve is closed when there is no flow.
+21.4 4) MAINTENANCE REQUIREMENTS:
+No special tools are required to replace shaft seals. The following
+steps are recommended:
+1. Remove valve from the line.
+2. Mark the location between the Weight Lever (23) and the
+Weight (34), loosen the Socket Head Screw (35) and carefully
+remove the Weight (34) from Weight Lever (23).
+3. Mark the hole that the Spring (33) mounts to the Spring Adaptor
+(22), mark the location where the Nut (32) tightens to the Eyebolt
+(10), loosen the Nut (32) to remove tension from the Spring (33)
+and remove the Spring (33).
+4. Remove Socket Head Screw (25) and Retaining Plate (24) from
+the end of Shaft (7). Mark the orientation between the Weight
+Lever (23) and Spring Adaptor (22) with the Shaft (7).
+5. Remove the Weight Lever (23) and Spring Adaptor (22) from
+the Shaft (7).
+6. Remove the Plug (8) from the Body (1).
+(continued)
+© 2023 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 40 of 76
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 41 ===
+BRAY/RITE SINGLE DOOR WAFER TYPE SWING CHECK VALVES
+Installation and Maintenance Manual
+7. Remove the Shaft (7) from the Plug (8) side of the Body (1) by
+tapping gently.
+8. The Hinge-Disc (2, 12) Assembly may now be removed from
+the Body (1).
+9. Remove the Bushings (19) and Spacer (6) from the Body (1).
+10. Clean parts, replace O-Rings (14, 20, 21) and add compatible
+grease.
+Assembly is accomplished by reversing the above procedure.
+© 2023 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 41 of 76
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 42 ===
+BRAY/RITE SINGLE DOOR WAFER TYPE SWING CHECK VALVES
+Installation and Maintenance Manual
+22.0 SA-2 (LIMIT SWITCH), SPECIAL APPLICATION MODEL:
+Item Description Material Item Description Material
+1 Body ASTM A 216 WCB* 15 Disc Nut Stainless Steel
+2 Hinge ASTM A351-CF8M 19 Seal Bushing ASTM A479-316
+3 Seat (optional) ASTM A240-304 20 O-Ring Buna / EPDM / Teflon / TES / Viton
+5 Spring ASTM A313-316 21 O-Ring Buna / EPDM / Teflon / TES / Viton
+6 Spacer ASTM A479-316 26 Bracket Steel
+F316 under 4”, and ASTM 27 Socket Head Screw Steel Zinc Plated
+7 Shaft
+A564-630 (17-4 PH) above 4”
+28 Dowel Pin Steel Zinc Plated
+8 Plug Steel (or as per body)
+29 Ball Bearing Steel
+9 Lock Nut Steel Zinc Plated
+30 Set Screw Steel Zinc Plated
+10 Eye Bolt Steel Zinc Plated
+38 Set Screw Steel Zinc Plated
+11 Name Plate SS316
+39 Actuator Steel
+12 Disc ASTM A351-CF8M
+Electrostatic Epoxy
+40 Limit Switch
+13 Rivet Steel Zinc Plated Coated Zinc (Housing)
+14 O-Ring (optional) Buna / EPDM / Teflon / TES / Viton Socket Head Steel Zinc Plated
+41
+Screw
+* Other materials available: A126-CLB, A395, A351-CF8M, Monel, Alloy 20, 254 SMO.
+All external components can be offered in SS where required.
+22.1 1) APPLICATION:
+The purpose of equipping a standard Bray/Rite Single Door Wafer
+Type Swing Check Valve with a Limit Switch, is to provide remote
+indication of valve position and a positive indication of flow within
+an automated control system environment.
+(continued)
+© 2023 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 42 of 76
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 43 ===
+BRAY/RITE SINGLE DOOR WAFER TYPE SWING CHECK VALVES
+Installation and Maintenance Manual
+22.2 2) GENERAL DESCRIPTION:
+The Model SA-2 is a standard Bray/Rite Single Door Wafer Type
+Swing Check Valve that has been modified to allow the use of a
+limit switch to indicate the valve is in the closed position. The basic
+valve has a Hinge/Disc Assembly (2, 12) connected to a positive
+hexagonal drive Shaft (7) which extends through the Body (1). The
+Shaft (7) extends through and is supported in the Body (1) on one
+side and externally by a Ball bearing (29) mounted in a Bracket
+(26) on the other side. O-Rings (20, 21) seal the Shaft (7), Bushings
+(19) and the Body (1) to prevent leakage.
+22.3 3) ADJUSTMENT:
+No transient adjustments available.
+22.4 4) MAINTENANCE REQUIREMENTS:
+Should the valve require repair the following procedure
+is recommended to dis-assemble the valve and its major
+components.
+1. Remove valve from the line.
+2. Loosen the Set Screw (38) and remove the Actuator (39) from
+the Shaft (7).
+3. Remove the Plug (8) from the Body (1).
+4. Remove the Shaft (7) from the Plug (8) side of the Body (1) by
+tapping gently.
+5. The Hinge-Disc (2, 12) Assembly may now be removed from the
+Body (1).
+6. Remove the Bushing (19) and Spacer (6) from the Body (1).
+7. Clean parts, replace O-Rings (14, 20, 21) if necessary and add
+compatible grease.
+Assembly is accomplished by reversing the above procedure.
+© 2023 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 43 of 76
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 44 ===
+BRAY/RITE SINGLE DOOR WAFER TYPE SWING CHECK VALVES
+Installation and Maintenance Manual
+23.0 SA-3 (BACKFLUSH LEVER, & EXTERNAL SPRING), SPECIAL APPLICATION MODEL:
+Item Description Material Item Description Material
+1 Body ASTM A216 WCB* 19 Seal Bushing ASTM A479-316
+2 Hinge ASTM A351-CF8M 20 O-Ring Buna / EPDM / Teflon / TES / Viton
+3 Seat (optional) ASTM A240-304 21 O-Ring Buna / EPDM / Teflon / TES / Viton
+6 Spacer ASTM A479-316 Spring Adaptor/ Steel
+22
+Lever
+F316 under 4”, and ASTM
+7 Shaft
+A564-630 (17-4 PH) above 4” 24 Retaining Plate Steel
+8 Plug Steel (or as per body) 25 Socket Head Screw Steel Zinc Plated
+9 Lock Nut Steel Zinc Plated 26 Bracket Steel
+10 Eye Bolt Steel Zinc Plated 27 Socket Head Screw Steel Zinc Plated
+11 Name Plate SS316 28 Dowel Pin Steel Zinc Plated
+12 Disc ASTM A351-CF8M 29 Ball Bearing Steel
+13 Rivet Steel Zinc Plated 32 Nut Steel Zinc Plated
+14 O-Ring (optional) Buna / EPDM / Teflon / TES / Viton ASTM A313 302/304
+33 Spring (Optional ASTM A313 316, 17-7 PH
+15 Disc Nut Stainless Steel Stainless Steel, Inconel X 750)
+* Other materials available: A126 CLB, A395, A351-CF8M, Monel, Alloy 20, Hastelloy, 254SMO, Titanium.
+All external components can be offered in SS where required.
+This model is only available up to 12” in size.
+23.1 1) APPLICATION:
+The purpose of equipping a standard Bray/Rite Single Door
+Wafer Type Swing Check Valve with a Backflush Lever & External
+Spring, is to allow backflush process while retaining elements
+of external control, that is field adjustable, in applications such
+as: backflushing pipelines for chemical washes in the food and
+beverage industry.
+(continued)
+© 2023 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 44 of 76
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 45 ===
+BRAY/RITE SINGLE DOOR WAFER TYPE SWING CHECK VALVES
+Installation and Maintenance Manual
+23.2 2) GENERAL DESCRIPTION:
+A Model SA-3 is a standard Bray/Rite Single Door Wafer
+Type Swing Check Valve which has been converted, featuring
+a positive hexagon drive at the Hinge/Disc/Shaft (2, 12, 7)
+connection point. The Shaft (7) extends through and is supported
+in the Body (1) on one side and externally by a Ball Bearing (29)
+mounted in a Bracket (26) on the other side. O-Rings (20, 21) seal
+the Shaft (7) and the Body (1). A Spring (33) mounted between
+the Bracket (26) and the Shaft (7) provides for adjustment and
+rapid closure. The Disc (12) is supplied with a non-rotating feature
+to prevent it from “Spinning” and creating excessive wear at the
+Hinge-Disc (2, 12) connection. The Spring Adaptor/Lever (22) is
+mounted onto the Shaft (7) with a hexagon connection.
+23.3 3) ADJUSTMENT:
+The limited adjustment of the Spring (33) is designed to suit most
+applications. Adjustment by qualified mechanic, allows for design
+to apply to suit a variety of applications. The valve has been set
+at the factory to estimated operating conditions. To reduce valve
+closing time, the Spring (33) can be tightened. To increase the
+valve closing time, the Spring (33) can be loosened. Make sure
+that there is preload on the Spring (33) to ensure that the valve is
+closed when there is no flow. It is not recommended to attempt
+to open the valve in the presence of any back-pressure as the
+resulting forces may damage the mechanism.
+23.4 4) MAINTENANCE REQUIREMENTS:
+No special tools are required to replace shaft O-Rings. The
+following steps are recommended:
+1. Remove valve from the line.
+2. Mark the hole where the Spring (33) is mounted to the Spring
+Adaptor/Lever (22), mark the position that the Lock Nut (9)
+tightened to the Eyebolt (10). Loosen Nut (32) to remove tension
+from the Spring (33), and remove the Spring (33).
+3. Remove Socket Head Screw (25) and Retaining Plate (24) from
+the end of Shaft (7). Mark the orientation between the Spring
+Adaptor/Lever (22) and the Shaft (7).
+4. Remove the Spring Adaptor/Lever (22) from the Shaft (7).
+5. Remove the Plug (8) from Body (1).
+6. Remove the Shaft (7) from the Plug (8) side of the Body (1). The
+Shaft (7) may be tapped gently to remove it from the Body (1).
+7. The Hinge-Disc (2, 12) Assembly may now be removed from the
+Body (1).
+8. Remove the Seal Bushings (19) and Spacer (6) from the Body (1).
+9. Clean parts, replace O-Rings (14, 20, 21) and add compatible
+grease.
+10. Assembly is accomplished by reversing the above procedure.
+© 2023 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 45 of 76
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 46 ===
+BRAY/RITE SINGLE DOOR WAFER TYPE SWING CHECK VALVES
+Installation and Maintenance Manual
+24.0 SA-4 (EXTERNAL POSITION INDICATOR), SPECIAL APPLICATION MODEL:
+Item Description Material Item Description Material
+1 Body ASTM A216 WCB* 12 Disc ASTM A351-CF8M
+2 Hinge ASTM A351-CF8M 13 Rivet Steel Zinc Plated
+3 Seat (optional) ASTM A240-304 14 O-Ring (optional) Buna / EPDM / Teflon / TES / Viton
+5 Spring ASTM A313-316 15 Disc Nut Stainless Steel
+6 Spacer ASTM A479-316 19 Seal Bushing ASTM A479-316
+F316 under 4”, and ASTM 20 O-Ring Buna / EPDM / Teflon / TES / Viton
+7 Shaft
+A564-630 (17-4 PH) above 4”
+21 O-Ring Buna / EPDM / Teflon / TES / Viton
+8 Plug Steel (or as per body)
+23 Indicator Aluminum
+9 Lock Nut Steel Zinc Plated
+36 Pin Steel
+10 Eye Bolt Steel Zinc Plated
+11 Name Plate SS316
+* Other materials available: A126 CLB, A395, A351-CF8M, Monel, Alloy 20, Hastelloy, 254SMO, Titanium.
+All external components can be offered in SS where required.
+(*) Integral seat offered for stainless steel valves
+24.1 1) APPLICATION:
+The purpose of equipping a standard Bray/Rite Single Door Wafer
+Type Swing Check Valve with an external position indicator, is to
+provide a visual indication of the internal disc position.
+(continued)
+© 2023 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 46 of 76
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 47 ===
+BRAY/RITE SINGLE DOOR WAFER TYPE SWING CHECK VALVES
+Installation and Maintenance Manual
+24.2 2) GENERAL DESCRIPTION:
+A Model SA-4 is a basic Bray/Rite Single Door Wafer Type Swing
+Check Valve which has been converted, featuring a positive drive
+at the Hinge/Disc/Shaft (2, 12, 7) connection point. The basic
+valve has a Hinge-Disc (2, 12) Assembly connected to a positive
+hexagonal drive shaft (7), which extends through the Body (1). The
+Shaft (7) extends through and is supported in the Body (1) on one
+side. Four O-Rings (20, 21) seal the shaft (7) and the Body (1). The
+Disc (12) is supplied with a non-rotating feature to prevent it from
+“Spinning” and creating excessive wear at the Hinge-Disc (2, 12)
+connection.
+24.3 3) ADJUSTMENT:
+There are no transient adjustments available.
+24.4 4) MAINTENANCE REQUIREMENTS:
+No special tools are required to replace shaft seals.
+The following steps are recommended:
+1. Remove valve from the line.
+2. Remove the Pin (36) from the Indicator/Shaft (7).
+3. Remove the Indicator (23) from the Shaft (7).
+4. Remove the Plug (8) from the Body (1).
+5. Remove the Shaft (7) from the Plug (8) side of the Body (1).
+6. The Disc Assembly (2, 12) can now be lifted from the Body (1).
+7. Clean parts, replace O-Rings (14, 20, 21) if necessary and add
+compatible grease.
+Assembly is accomplished by reversing the above procedure.
+© 2023 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 47 of 76
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 48 ===
+BRAY/RITE SINGLE DOOR WAFER TYPE SWING CHECK VALVES
+Installation and Maintenance Manual
+25.0 SA-4A (BACKFLUSH LEVER), SPECIAL APPLICATION MODEL:
+Item Description Material Item Description Material
+1 Body ASTM A216 WCB* 15 Disc Nut Stainless Steel
+2 Hinge ASTM A351-CF8M 19 Seal Bushing ASTM A479-316
+3* Seat (optional) ASTM A240-304 20 O-Ring Buna / EPDM / Teflon / TES / Viton
+5 Spring ASTM A313-316 21 O-Ring Buna / EPDM / Teflon / TES / Viton
+6 Spacer ASTM A479-316 23 Lever Steel
+F316 under 4”, and ASTM 24 Retaining Plate Steel
+7 Shaft
+A564-630 (17-4 PH) above 4”
+25 Socket Head Screw Steel Zinc Plated
+8 Plug Steel (or as per body)
+26 Bracket Steel
+9 Lock Nut Steel Zinc Plated
+27 Socket Head Screw Steel Zinc Plated
+10 Eye Bolt Steel Zinc Plated
+28 Dowel Pin Steel Zinc Plated
+11 Name Plate SS316
+29 Ball Bearing Steel
+12 Disc ASTM A351-CF8M
+30 Rd. Hd. Screw Steel Zinc Plated
+13 Rivet Steel Zinc Plated
+46 Hex Bolt Steel
+14 O-Ring (optional) Buna / EPDM / Teflon / TES / Viton
+49 Hex Nut Steel
+* Other materials available: A126 CLB, A395, A351-CF8M, Monel, Alloy 20, Hastelloy, 254SMO, Titanium.
+All external components can be offered in SS where required.
+(*) Integral seat offered for stainles steel valves
+25.1 1) APPLICATION:
+The purpose of equipping a standard Bray/Rite Single Door Wafer
+Type Swing Check Valve that has been modified to allow the user
+to open the valve manually to backflush a pipeline.
+(continued)
+© 2023 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 48 of 76
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 49 ===
+BRAY/RITE SINGLE DOOR WAFER TYPE SWING CHECK VALVES
+Installation and Maintenance Manual
+25.2 2) GENERAL DESCRIPTION:
+The Model SA-4A is a standard Bray/Rite Single Door Wafer Type
+Swing Check Valve that has been modified, featuring a positive
+hexagonal drive at the Hinge/Disc/Shaft (2, 12, 7) connection point.
+The basic valve has a Hinge-Disc (2, 12) Assembly connected to a
+positive hexagonal drive shaft (7), which extends through the body
+(1). The Shaft (7) extends through and is supported in the Body
+(1) on one side and externally by a Ball bearing (29) mounted in a
+Bracket (26) on the other side. Four O-Rings (20, 21) seal the Shaft
+(7) and the Body (1). The Ball Bearing (29) is used in the Bracket
+(26) to provide support and to reduce friction. The Lever (23) is
+mounted onto the Shaft (7) with a hexagon connection.
+25.3 3) ADJUSTMENT:
+No transient adjustment is available.
+25.4 4) MAINTENANCE REQUIREMENTS:
+Should the valve require repair the following procedure is
+recommended to disassemble the valve and its major components.
+1. Remove valve from the line.
+2. Remove the Socket Head Screw (25) and Retaining Plate (24).
+Mark the orientation between the Lever (23) and the Shaft (7).
+Remove the Hex Nut (49) from the Hex Bolt (46) and slide Hex
+Bolt (46) out through the Lever (23). Mark the orientation between
+the Lever (23) and the Shaft (7). Remove the Lever (23).
+3. Remove the Plug (8) from the Body (1).
+4. While holding the Spring (5), remove the Shaft (7) from the Plug
+(8) side of the Body (1).
+5. The Disc Assembly (2, 12) can now be lifted from the Body (1).
+6. Remove the Bushing (19) and Spacer (6) from the Body (1).
+7. Clean parts, replace O-Rings (14, 20, 21) if necessary and add
+compatible grease.
+Assembly is accomplished by reversing the above procedure.
+© 2023 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 49 of 76
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 50 ===
+BRAY/RITE SINGLE DOOR WAFER TYPE SWING CHECK VALVES
+Installation and Maintenance Manual
+26.0 SA-6 (FOOT VALVE), SPECIAL APPLICATION MODEL:
+Item Description Material
+1 Check Valve ASTM A216 WCB*
+2 Flange Steel
+3 Basket Stainless Steel
+4 Gasket Carbon Fiber
+Basket supplied with 1/4” perforations, and 11/32” centers.
+* Other materials available: A126 CLB, A395, A351-CF8M, Monel, Alloy 20,
+Hastelloy, 254SMO, Titanium.
+All external components can be offered in SS where required.
+26.1 1) APPLICATION:
+The purpose of equipping a standard Bray/Rite Single Door Wafer
+Type Swing Check Valve with an Inlet Strainer basket, is to filter
+impurities from the line assisting downstream pump to maintain its
+prime. They are commonly found in the bottom/end of a pipeline
+in a suction lift application.
+26.2 2) GENERAL DESCRIPTION:
+A Model SA-6 is a standard wafer Bray/Rite Single Door Wafer
+Type Swing Check Valve which has been fitted with an inlet
+strainer. Foot valves are designed to block debris from entering the
+line The screen diameter opening is designed to be larger than the
+valve inlet itself, minimizing head loss.
+26.3 3) ADJUSTMENT:
+No transient adjustment is available.
+26.4 4) MAINTENANCE REQUIREMENTS:
+No special maintenance required.
+© 2023 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 50 of 76
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 51 ===
+BRAY/RITE SINGLE DOOR WAFER TYPE SWING CHECK VALVES
+Installation and Maintenance Manual
+27.0 SA-7 (EMERGENCY SHUT-OFF, FUSIBLE LINK), SPECIAL APPLICATION MODEL:
+Item Description Material Item Description Material
+1 Body ASTM A216 WCB** 26 Bracket Steel
+2 Hinge ASTM A351-CF8M 27 Socket Head Screw Steel Zinc Plated
+3* Seat (optional) ASTM A240-304 28 Dowel Pin Steel Zinc Plated
+5 Spring ASTM A313-316 29 Ball Bearing Steel
+6 Spacer ASTM A479-316 30 Retaining Clip Steel
+F316 under 4”, and ASTM 31 Eye Bolt Steel Zinc Plated
+7 Shaft
+A564-630 (17-4 PH) above 4”
+36 Pin Steel Zinc Plated
+8 Plug Steel (or as per body)
+46 Bolt Steel Zinc Plated
+9 Lock Nut Steel Zinc Plated
+47 Turnbuckle Steel Zinc Plated
+10 Eye Bolt Steel Zinc Plated
+48 Fusible Link Bronze
+11 Name Plate SS316
+49 Nut Steel Zinc Plated
+12 Disc ASTM A351-CF8M
+67 Bearing Steel
+13 Rivet Steel Zinc Plated
+68 Bolt Steel Zinc Plated
+14 O-Ring (optional) Buna / EPDM / Teflon / TES / Viton
+69 Bushing Steel
+15 Disc Nut Stainless Steel
+70 Stud Steel
+19 Seal Bushing ASTM A479-316
+71 Plate Steel
+20 O-Ring Buna / EPDM / Teflon / TES / Viton
+74 Turnbuckle Eye Steel Zinc Plated
+21 O-Ring Buna / EPDM / Teflon / TES / Viton
+84 Set Screw Steel Zinc Plated
+22 Lever Steel
+24 Retaining Plate Steel
+25 Socket Head Screw Steel Zinc Plated
+* Temperature rating to be specified, as this can affect the mechanical and fusible design elements.
+** Other materials available: A126 CLB, A395, A351-CF8M, Monel, Alloy 20, Hastelloy, 254SMO, Titanium.
+All external components can be offered in SS where required.
+This model is only available up to 24” in size.
+© 2023 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 51 of 76
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 52 ===
+BRAY/RITE SINGLE DOOR WAFER TYPE SWING CHECK VALVES
+Installation and Maintenance Manual
+27.1 1) APPLICATION:
+The purpose of equipping a standard Bray/Rite Single Door Wafer
+Type Swing Check Valve with a fusible link, is to create a piping
+element that will provide failsafe protection in case of a fire. In
+event of an external fire, the fusible link will melt which will release
+the lever and allow the disc to close. Closing of the disc is started
+by the internal spring. The fluid itself will then force the disc closed
+quickly. With the valve closed, the flow of the fluid will stop.
+These valves are frequently used by the Chemical/Petro-Chemical
+industry and installed in locations where there is a possibility of fire
+spreading from one tank to another. These valves help contain the
+damage to a local area by eliminating a potential source of fuel for
+the fire.
+27.2 2) GENERAL DESCRIPTION:
+A Model SA-7 is a basic Bray/Rite Single Door Wafer Type Swing
+Check Valve which has been converted, featuring a positive
+hexagon drive at the Hinge/Disc/Shaft (2, 12, 7) connection point.
+The Shaft (7) extends through and is supported in the Body (1)
+on one side and externally by a Ball bearing (29) mounted in a
+Bracket (26) on the other side. O-Rings (20, 21) seal the Shaft (7)
+and the Body (1).
+A turnbuckle/cam bearing arrangement (47, 74) holds the major
+component of the load generated by the flow torque. The Fusible
+Link (48) holds the Bearing (67) in its proper position. Due to the
+geometry of the linkage, a small load is applied to the Fusible Link
+(48) to ensure that it separates and frees the Bearing (67) in case
+of fire.
+27.3 3) ADJUSTMENT:
+No transient adjustment is available.
+27.4 4) MAINTENANCE REQUIREMENTS:
+The pipeline must be empty for the installation and setup of the
+Model SA-7 Fusible Link Valve.
+1. To install the valve in the pipeline the Disc (12) must be closed.
+This requires disconnecting the Fusible Link (48) from the Lever
+(22) by removing Bolt (68).
+2. With the valve Disc (12) closed, insert the valve and the gaskets
+between the pipeline flanges.
+3. Align the valve with the bolt holes of the flange and install and
+tighten all the flange bolting.
+4. Open the disc by pressing the Lever (22) down.
+5. Insert the Bearing (67) into the slot in the Lever (22).
+6. Attach the free end of the Fusible Link (48) to the Lever (22)
+with the two Bolt (68).
+(continued)
+© 2023 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 52 of 76
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 53 ===
+BRAY/RITE SINGLE DOOR WAFER TYPE SWING CHECK VALVES
+Installation and Maintenance Manual
+7. Tighten the Turnbuckle (47) until the Hinge (2) is firmly in
+contact against the Body (1) wall.
+8. Clamp the Turnbuckle (47) in position by tightening the Lock
+Nut (49).
+9. The pipeline can now be filled with liquid and the pumps started.
+10. If the Fusible Link (48) has to be replaced, first remove the
+Retaining Clips (30) and the Bushing/Bearing (67, 69) to remove
+the Fusible Link (48). Remove the two Bolts (68) that hold the
+Fusible Link (48) to the Lever (22).
+11. Replace the Fusible Link (48) and install the Bearing/Bushing
+(67, 69) and Retaining Clips (30). Reset the Lever (22) in the
+sequence 4 through 8 above.
+Assembly is accomplished by reversing the above procedure.
+WARNING
+These valves to be installed in horizontal lines only.
+CAUTION
+Failure to install the valve as instructed may result in loosening
+of the turnbuckle and may eventually lead to unexpected
+closing of the valve with the resultant waterhammer and
+possible pipe and pump damage.
+Assembly is accomplished by reversing the above procedure.
+© 2023 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 53 of 76
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 54 ===
+BRAY/RITE SINGLE DOOR WAFER TYPE SWING CHECK VALVES
+Installation and Maintenance Manual
+28.0 SA-10 (DUAL BALANCED WEIGHTS), SPECIAL APPLICATION MODEL:
+Item Description Material Item Description Material
+1 Body ASTM A216 WCB* 19 Seal Bushing ASTM A479-316
+2 Hinge ASTM A351-CF8M 20 O-Ring Buna / EPDM / Teflon / TES / Viton
+3 Seat (optional) ASTM A240-304 21 O-Ring Buna / EPDM / Teflon / TES / Viton
+6 Spacer ASTM A479-316 23 Weight Lever Steel
+F316 under 4”, and ASTM 26 Bracket Steel
+7 Shaft
+A564-630 (17-4 PH) above 4”
+27 Socket Head Screw Steel Zinc Plated
+8 Plug Steel (or as per body)
+28 Dowel Pin Steel Zinc Plated
+9 Lock Nut Steel Zinc Plated
+29 Ball Bearing Steel
+10 Eye Bolt Steel Zinc Plated
+30 Set Screw Steel Zinc Plated
+11 Name Plate SS316
+34 Weight Steel
+12 Disc ASTM A351-CF8M
+35 Socket Head Screw Steel Zinc Plated
+13 Rivet Steel Zinc Plated
+37 Lock Nut Steel Zinc Plated
+14 O-Ring (optional) Buna / EPDM / Teflon / TES / Viton
+15 Disc Nut Stainless Steel
+* Other materials available: A126 CLB, A395, A351-CF8M, Monel, Alloy 20, Hastelloy, 254SMO, Titanium.
+All external components can be offered in SS where required.
+Downflow models available.
+28.1 1) APPLICATION:
+The purpose of equipping a standard Bray/Rite Single Door
+Wafer Type Swing Check Valve with external balance weights is
+to provide a field adjustable external control, in applications such
+as blowers where the flow rates are often insufficient to keep
+a standard valve fully open. The basic principle is to adjust the
+balance weights so that the valve is fully opening while the fluid
+is flowing and fully closed when there is no flow. By using two
+weights it is easy to position the arms so that the valve operates
+correctly under most flow conditions.
+(continued)
+© 2023 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 54 of 76
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 55 ===
+BRAY/RITE SINGLE DOOR WAFER TYPE SWING CHECK VALVES
+Installation and Maintenance Manual
+28.2 2) GENERAL DESCRIPTION:
+A Model SA-10 is a basic Bray/Rite Single Door Wafer Type Swing
+Check Valve which has been converted, featuring a positive
+hexagon drive at the Hinge/Disc/Shaft (2, 12, 7) connection point.
+The basic valve has a Hinge-Disc (2, 12) Assembly connected to a
+positive hexagonal drive shaft (7), which extends through the body
+(1). The Shaft (7) extends through and is supported in the Body
+(1) on one side and externally by a Ball bearing (29) mounted in a
+Bracket (26) on the other side. Four O-Rings (20, 21) seal the Shaft
+(7) and the Body (1). The two weight levers (23), which support
+Weights (34) are screwed onto the Shaft (7) and locked in place
+with Lock Nuts (37). The Weight Levers (23) can be rotated on the
+Shaft (7) independently.
+28.3 3) ADJUSTMENT:
+When operating conditions are known, the valve is set at the
+factory but may require minor field adjustment to optimize
+on-site performance. If the operating conditions are not provided
+the valve has to be adjusted in the following manner. These steps
+should be carried out singularly or in combination as the field
+setting dictates.
+NOTICE
+IF VALVE DOES NOT
+FULLY OPEN
+This valve is designed to be fully open or fully closed. Weights
+(34) and Weight Levers (23) are provided for this purpose.
+Refer to diagram to the right.
+(1) If the valve does not fully open (a) Move lever A clockwise, or
+(b) Move weight D towards the Shaft (7). (2) If the valve does not
+fully close. (a) Move lever B counterclockwise, or (b) Move weight FLOW DIRECTION
+C towards the Shaft (7). Changing any of the relative positions of
+the weights affects how the valve performs.
+These steps may need to be repeated a number of times to obtain
+the desired setting.
+IF VALVE DOES NOT
+FULLY CLOSE
+NOTICE
+If the valve is not fully biased to the open position under working
+conditions, an oscillating motion will be observed on the external
+assembly. This must be corrected as it can lead to premature
+wear and a shortened service life.
+FLOW DIRECTION
+28.4 4) MAINTENANCE REQUIREMENTS:
+Should the valve require repair the following procedure is
+recommended to disassemble the valve and its major components.
+The following steps are recommended:
+1. Remove valve from the line.
+(continued)
+© 2023 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 55 of 76
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 56 ===
+BRAY/RITE SINGLE DOOR WAFER TYPE SWING CHECK VALVES
+Installation and Maintenance Manual
+2. Mark the position between the Weight Levers (23) and the
+Weights (34), loosen the Socket Head Screw (35) and carefully
+remove the Weight (34) from Weight Lever (23).
+3. Mark the orientation between the Weight Lever (23) and the
+Shaft (7). Remove the Lock Nuts (37) and unscrew the Weight
+Levers (23) from the Shaft (7).
+4. Unscrew Plug (8). The Shaft (7) can now be withdrawn from the
+Body (1) through the Plug (8) hole. The Shaft (7) may be tapped
+gently to remove it from the Body (1).
+5. The Hinge-Disc (2, 12) Assembly may now be removed from the
+Body (1).
+6. Remove the Bushings (19) and Spacer (6) from the Body (1).
+7. Clean parts, replace O-Rings (14, 20, 21) and add compatible
+grease.
+Assembly is accomplished by reversing the above procedure.
+© 2023 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 56 of 76
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 57 ===
+BRAY/RITE SINGLE DOOR WAFER TYPE SWING CHECK VALVES
+Installation and Maintenance Manual
+29.0 SA-16 (EXTERNAL WEIGHT & LEVER), SPECIAL APPLICATION MODEL:
+Item Description Material Item Description Material
+1 Body ASTM A216 WCB* 19 Bushing ASTM A479-316
+2 Hinge ASTM A351-CF8M 20 O-Ring Buna / EPDM / Teflon / TES / Viton
+3 Seat (optional) ASTM A240-304 21 O-Ring Buna / EPDM / Teflon / TES / Viton
+6 Spacer ASTM A479-316 23 Weight Lever Steel
+F316 under 4”, and ASTM 24 Retaining Plate Steel
+7 Shaft
+A564-630 (17-4 PH) above 4”
+25 Socket Head Screw Steel Zinc Plated
+8 Plug Steel (or as per body)
+26 Bracket Steel
+9 Lock Nut Steel Zinc Plated
+27 Socket Head Screw Steel Zinc Plated
+10 Eye Bolt Steel Zinc Plated
+28 Dowel Pin Steel Zinc Plated
+11 Name Plate SS316
+29 Ball Bearing Steel
+12 Disc ASTM A351-CF8M
+30 Round Head Screw Steel Zinc Plated
+13 Rivet Steel Zinc Plated
+34 Weight Steel
+14 O-Ring (optional) Buna / EPDM / Teflon / TES / Viton
+35 Socket Head Screw Steel Zinc Plated
+15 Disc Nut Stainless Steel
+* Other materials available: A126 CLB, A395, A351-CF8M, Monel, Alloy 20, Hastelloy, 254SMO, Titanium.
+All external components can be offered in SS where required.
+29.1 1) APPLICATION:
+The Model SA-16 is a standard Bray/Rite Single Door Wafer Type
+Swing Check Valve that has been modified to provide the user with
+the ability to change the opening/cracking pressure of the valve,
+within a certain range and/or change the closing characteristics
+of the valve. A weight is used to provide the necessary torque to
+close the valve.
+(continued)
+© 2023 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 57 of 76
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 58 ===
+BRAY/RITE SINGLE DOOR WAFER TYPE SWING CHECK VALVES
+Installation and Maintenance Manual
+29.2 2) GENERAL DESCRIPTION:
+The Model SA-16 is a basic Bray/Rite Single Door Wafer Type
+Swing Check Valve which has been converted, featuring a positive
+hexagonal drive at the Hinge/Disc/Shaft (2, 12, 7) connection point.
+The basic valve has a Hinge-Disc (2, 12) Assembly connected to
+a positive hexagonal drive Shaft (7), which extends through the
+Body (1). The Shaft (7) extends through and is supported in the
+Body (1) on one side and externally by a Ball bearing (29) mounted
+in a Bracket (26) on the other side. Four O-Rings (20, 21) seal the
+Shaft (7) and the Body (1). The Weight Lever (23), which supports
+the Weight (34), is connected to the Shaft (7) with a Bushing (19).
+The Weight Lever (23) can be rotated on the Shaft (7).
+29.3 3) ADJUSTMENT:
+When operating conditions are known, the valve is set at the
+factory but may require minor field adjustment. If the operating
+conditions are not provided the valve has to be adjusted in the
+field.
+NOTICE
+This valve is designed to be fully open or fully closed. If the valve
+oscillates in the flow, life expectancy will be reduced. Premature
+wear on the Shaft (7) and the Bushing (19) will lead to eventual
+failure of the valve.
+1). If the valve does not fully open or opens at too high a pressure,
+move the Weight (34) towards the Shaft (7).
+2) If the valve does not fully close or a higher opening pressure
+is required, move the Weight (34) toward the end of the Weight
+Lever (23).
+Changing the position of the Weight (34) affects how the valve
+performs. These steps may need to be repeated a number of
+times to obtain the desired setting.
+29.4 4) MAINTENANCE REQUIREMENTS:
+Should the valve require repair the following procedure is
+recommended to disassemble the valve and its major components.
+1. Remove valve from the line.
+2. Mark the position between the Weight Lever (23) and the
+Weight (34), loosen the Socket Head Screw (35) and carefully
+remove the Weight (34) from the Weight Lever (23).
+3. Remove Socket Head Screw (25) and Retaining Plate (24) from
+the end of the Shaft (7). Mark the orientation between the Weight
+Lever (23) and the Shaft (7). Remove the Weight Lever (23).
+4. Remove the Plug (8) from the opposite side of the Body (1).
+5. Remove the Shaft (7) from the Plug (8) side of the Body (1).
+(continued)
+© 2023 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 58 of 76
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 59 ===
+BRAY/RITE SINGLE DOOR WAFER TYPE SWING CHECK VALVES
+Installation and Maintenance Manual
+6. The Hinge-Disc (2, 12) Assembly. can now be lifted from the
+Body (1).
+7. Remove the Bushing (19) and Spacer (6) from the Body (1).
+8. Clean parts, replace O-Rings (14, 20, 21) if necessary and add
+compatible grease.
+To assemble the valve, reverse the above procedure.
+© 2023 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 59 of 76
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 60 ===
+BRAY/RITE SINGLE DOOR WAFER TYPE SWING CHECK VALVES
+Installation and Maintenance Manual
+30.0 SA-40 (EXTERNAL COMPRESSION SPRING), SPECIAL APPLICATION MODEL:
+Item Description Material Item Description Material
+1* Body ASTM A216 WCB* 24 Retaining Plate Steel
+2 Hinge ASTM A351-CF8M 25 Socket Head Screw Steel Zinc Plated
+3 Seat (optional) ASTM A240-304 26 Bracket Steel
+6 Spacer ASTM A479-316 27 Socket Head Screw Steel Zinc Plated
+F316 under 4”, and ASTM 28 Dowel Pin Steel Zinc Plated
+7 Shaft
+A564-630 (17-4 PH) above 4”
+29 Ball Bearing Steel
+8 Plug Steel (or as per body)
+33 Spring Steel (ASTM A228)
+9 Lock Nut Steel Zinc Plated
+36 Cotter Pin Steel Zinc Plated
+10 Eye Bolt Steel Zinc Plated
+41 Socket Head Screw Steel Zinc Plated
+11 Name Plate SS316
+49 Flanged Lock Nut Steel Zinc Plated
+12 Disc ASTM A351-CF8M
+52 Rod Steel
+13 Rivet Steel Zinc Plated
+57 Rod Clevis Steel
+14* O-Ring (optional) Buna / EPDM / Teflon / TES / Viton
+67 Guiding Bushing Steel
+15 Disc Nut Stainless Steel
+72 Threaded Bushing Steel
+18 Retaining Seat Steel
+82 Washer Steel
+19 Bushing ASTM A479-316
+86 Spring Chamber Steel
+20 O-Ring Buna / EPDM / Teflon / TES / Viton
+95 Rod Eye Steel
+21 O-Ring Buna / EPDM / Teflon / TES / Viton
+106 Grease Fitting Alemite
+22 Spring Adaptor Steel
+132 Cam Bearing Steel
+* Other materials available: A126 CLB, A395, A351-CF8M, Monel, Alloy 20, Hastelloy, 254SMO, Titanium.
+All external components can be offered in SS where required.
+30.1 1) APPLICATION:
+The purpose of equipping a standard Bray/Rite Single Door Wafer
+Type Swing Check Valve with an external compression spring, is
+to provide external control, which is field adjustable. For use in
+applications such as: multiple pumping installations terminating in
+common headers, where transient forces are difficult to ascertain
+and control.
+(continued)
+© 2023 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 60 of 76
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 61 ===
+BRAY/RITE SINGLE DOOR WAFER TYPE SWING CHECK VALVES
+Installation and Maintenance Manual
+The basic principle is to start closing the valve as soon as the flow
+starts to decrease. With external springs it is possible to close
+the valve before flow reverses. This reduces or eliminates water-
+hammer and the associated problems.
+30.2 2) GENERAL DESCRIPTION:
+A Model SA-40 is a basic Bray/Rite Single Door Wafer Type
+Swing Check Valve which has been converted, featuring a positive
+hexagon drive at the Hinge/Disc/Shaft (2, 12, 7) connection point.
+The basic valve has a Hinge-Disc (2, 12) Assembly connected
+to a positive hexagonal drive Shaft (7), which extends through
+the Body (1). The Shaft (7) extends through and is supported in
+the Body (1) on one side and externally by a Ball bearing (29)
+mounted in a Bracket (26) on the other side. Four O-Rings (20, 21)
+seal the Shaft (7) and the Body (1). A Compression Spring (33) is
+mounted between the Bracket (26) and the Shaft (7) to provide
+for adjustment and rapid closure. The Disc (12) is supplied with a
+non-rotating feature to prevent it from “Spinning” and creating
+excessive wear at the Hinge-Disc (2, 12) connection. The external
+Spring (33) is enclosed in a Spring Chamber (86) which acts as
+guard against contact from foreign objects.
+30.3 3) ADJUSTMENT:
+The size of the Spring (33) is determined by flow rates and the
+required response of the valve. The limited adjustment of the
+Spring (33) allows fine tuning of the valve when it is installed.
+Adjustment by qualified mechanic, allows for design to apply to
+suit a variety of applications. To reduce valve closing time, the
+Spring (33) can be tightened. To increase the valve closing time,
+the Spring (33) can be loosened. Make sure that there is preload
+on the Spring (33) to ensure that the valve is closed when there is
+no flow.
+WARNING
+If the disc is not fully closed, the Spring (33) may be under
+compression. Sudden decompression may cause serious injury
+and/or damage.
+30.4 4) MAINTENANCE REQUIREMENTS:
+Should the valve require repair the following procedure is
+recommended to disassemble the valve and its major components.
+No special tools are required to replace shaft seals. The following
+steps are recommended:
+1. Remove valve from the line.
+2. Loosen Flanged Lock Nut (49) to remove tension from the
+Spring (33).
+3. Remove Pin (36) from the Rod Clevis (57).
+(continued)
+© 2023 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 61 of 76
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 62 ===
+BRAY/RITE SINGLE DOOR WAFER TYPE SWING CHECK VALVES
+Installation and Maintenance Manual
+4. Remove Socket Head Screw (25) and Retaining Plate (24) from
+the end of Shaft (7).
+5. Mark the orientation between the Spring Adaptor (22) and the
+Shaft (7).
+6. Remove the Spring Adaptor (22) from the valve.
+7. Remove the Plug (8) from the Body (1).
+8. Remove the Shaft (7) from the Plug (8) side of the Body (1). The
+Shaft (7) may be tapped gently to remove it from the Body (1).
+9. The Hinge-Disc (2, 12) Assembly may now be removed from the
+Body (1).
+10. Remove the Bushing (19) and Spacer (6) from the Body (1).
+11. Clean parts, replace O-Rings (14, 20, 21) and add compatible
+grease.
+Assembly is accomplished by reversing the above procedure. The
+Spring Chamber (86) is provided with a grease fitting to allow
+greasing of the Spring (33) and Shaft (7).
+Any compatible grease can be used. All pivot points of the
+Spring (33) should be lubricated on a regular basis to ensure that
+no binding occurs between the components.
+Assembly is accomplished by reversing the above procedure.
+© 2023 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 62 of 76
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 63 ===
+BRAY/RITE SINGLE DOOR WAFER TYPE SWING CHECK VALVES
+Installation and Maintenance Manual
+31.0 SA-40A (EXTERNAL COMPRESSION SPRING, WEIGHT & LEVER), SPECIAL APPLICATION
+MODEL:
+Item Description Material Item Description Material
+1 Body ASTM A216 WCB* 26 Bracket Steel
+2 Hinge ASTM A351-CF8M 27 Socket Head Screw Steel Zinc Plated
+3 Seat (optional) ASTM A240-304 28 Dowel Pin Steel Zinc Plated
+6 Spacer ASTM A479-316 29 Ball Bearing Steel
+F316 under 4”, and ASTM 33 Spring Steel (ASTM A228)
+7 Shaft
+A564-630 (17-4 PH) above 4”
+34 Weight Steel
+8 Plug Steel (or as per body)
+35 Socket Head Screw Steel Zinc Plated
+9 Lock Nut Steel Zinc Plated
+36 Cotter Pin Steel (ASTM A228)
+10 Eye Bolt Steel Zinc Plated
+41 Socket Head Screw Steel Zinc Plated
+11 Name Plate SS316
+49 Flanged Lock Nut Steel Zinc Plated
+12 Disc ASTM A351-CF8M
+52 Rod Steel
+13 Rivet Steel Zinc Plated
+57 Rod Clevis Steel
+14 O-Ring (optional) Buna / EPDM / Teflon / TES / Viton
+67 Guiding Bushing Steel
+15 Disc Nut Steel
+69 Needle Bearing Steel
+Seat Retaining
+18 Steel
+Screws (optional) 72 Threaded Bushing Steel
+19 Seal Bushing ASTM A479-316 82 Spacer Teflon
+20 O-Ring Buna / EPDM / Teflon / TES / Viton 86 Spring Chamber Steel
+21 O-Ring Buna / EPDM / Teflon / TES / Viton 93 Cotter Pin Steel
+22 Spring Adaptor Steel 95 Rod Eye Steel
+23 Weight Lever Steel 102 Headless Liner Bronze
+24 Retaining Plate Steel 106 Grease Fitting Alemite
+25 Socket Head Screw Steel Zinc Plated 132 Cam Bearing Steel
+* Other materials available: A126 CLB, A395, A351-CF8M, Monel, Alloy 20, Hastelloy, 254SMO, Titanium.
+All external components can be offered in SS where required.
+© 2023 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 63 of 76
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 64 ===
+BRAY/RITE SINGLE DOOR WAFER TYPE SWING CHECK VALVES
+Installation and Maintenance Manual
+31.1 1) APPLICATION:
+The purpose of equipping a standard Bray/Rite Single Door Wafer
+Type Swing Check Valve with an external compression spring, is
+to provide external control, which is field adjustable. For use in
+applications such as: multiple pumping installations terminating in
+common headers, where transient forces are difficult to ascertain
+and control. The basic principle is to start closing the valve as soon
+as the flow starts to decrease. With external springs it is possible
+to close the valve before flow reverses. This reduces or eliminates
+water-hammer and the associated problems
+31.2 2) GENERAL DESCRIPTION:
+A Model SA-40 is a basic Bray/Rite Single Door Wafer Type
+Swing Check Valve which has been converted, featuring a positive
+hexagon drive at the Hinge/Disc/Shaft (2, 12, 7) connection point.
+The basic valve has a Hinge-Disc (2, 12) Assembly connected to
+a positive hexagonal drive Shaft (7), which extends through the
+Body (1). The Shaft (7) extends through and is supported in the
+Body (1) on one side and externally by a Ball bearing (29) mounted
+in a Bracket (26) on the other side. Four O-Rings (20, 21) seal the
+Shaft (7) and the Body (1). A Compression Spring (33) is mounted
+to the Bracket (26) and the Shaft (7) to provide adjustment and
+rapid closure. The Disc (12) is supplied with a non-rotating feature
+to prevent it from “Spinning” and creating excessive wear at the
+Hinge-Disc (2, 12) connection. The external Spring (33) is enclosed
+in a Spring Chamber (86) which acts as guard against contact
+from foreign objects.
+31.3 3) ADJUSTMENT:
+The size of the Spring (33) is determined by flow rates and the
+required response of the valve. The limited adjustment of the
+Spring (33) allows fine tuning of the valve when it is installed.
+Adjustment by qualified mechanic, allows for design to apply to
+suit a variety of applications. To reduce valve closing time, the
+Spring (33) can be tightened. To increase the valve closing time,
+the Spring (33) can be loosened. Make sure that there is preload
+on the Spring (33) to ensure that the valve is closed when there is
+no flow.
+WARNING
+If the Disc (12) is not fully closed, the Spring (33) may be under
+compression. Sudden decompression may cause serious injury
+and/or damage.
+31.4 4) MAINTENANCE REQUIREMENTS:
+Should the valve require repair the following procedure is
+recommended to disassemble the valve and its major components.
+(continued)
+© 2023 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 64 of 76
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 65 ===
+BRAY/RITE SINGLE DOOR WAFER TYPE SWING CHECK VALVES
+Installation and Maintenance Manual
+No special tools are required to replace shaft seals. The following
+steps are recommended:
+1. Remove valve from the line.
+2. Loosen Flanged Lock Nut (49) to remove tension from the
+Spring (33).
+3. Remove Pin (36) from the Rod Clevis (57).
+4. Remove Socket Head Screw (25) and Retaining Plate (24) from
+the end of the Shaft (7).
+5. Mark the orientation between the Spring Adaptor (22) and the
+Shaft (7).
+6. Remove the Spring Adaptor (22) from the valve.
+7. Remove the Plug (8) from the Body (1).
+8. Remove the Shaft (7) from the Plug (8) side of the Body (1). The
+Shaft may be tapped gently to remove it from the Body (1).
+9. The Hinge-Disc (2, 12) Assembly may now be removed from the
+Body (1).
+10. Remove the Bushing (19) and Spacer (6) from the Body (1).
+11. Clean parts, replace O-Rings (14, 20, 21) and add compatible
+grease.
+12. The Spring Chamber (86) is provided with a Grease Fitting
+(106) to allow greasing of the Spring and Shaft. Any compatible
+grease can be used. All pivot points of the Spring (33) should be
+lubricated on a regular basis to ensure that no binding occurs
+between the components.
+Assembly is accomplished by reversing the above procedure.
+© 2023 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 65 of 76
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 66 ===
+BRAY/RITE SINGLE DOOR WAFER TYPE SWING CHECK VALVES
+Installation and Maintenance Manual
+32.0 SA-50 (EXTERNAL COMPRESSION SPRING, WEIGHT & HYDRAULIC DAMPER), SPECIAL
+APPLICATION MODEL:
+Item Description Material Item Description Material
+1 Body ASTM A216 WCB* 27 Socket Head Screw Steel Zinc Plated
+2 Hinge ASTM A351-CF8M 28 Dowel Pin Steel Zinc Plated
+3 Seat (optional) ASTM A240-304 29 Ball Bearing Steel
+6 Spacer ASTM A479-316 33 Spring Steel (ASTM A228)
+F316 under 4”, and ASTM 34 Weight Steel
+7 Shaft
+A564-630 (17-4 PH) above 4”
+35 Socket Head Screw Steel Zinc Plated
+8 Plug Steel (or as per body)
+36 Pivot Pin Steel Zinc Plated
+9 Lock Nut Steel Zinc Plated
+41 Socket Head Screw Steel Zinc Plated
+10 Eye Bolt Steel Zinc Plated
+46 Bolt Steel Zinc Plated
+11 Name Plate SS316
+49 Flanged Lock Nut Steel Zinc Plated
+12 Disc ASTM A351-CF8
+52 Rod Steel
+13 Rivet Steel Cad Plated
+57 Rod Clevis Steel
+14 O-Ring (optional) Buna / EPDM / Teflon / TES / Viton
+61 Cylinder Assembly Aluminium
+15 Disc Nut Steel
+63 Eye Bracket Steel
+Seat Retaining
+18 Steel Zinc Plated
+Screws (optional) 64 Nut Steel Zinc Plated
+19 Seal Bushing ASTM A479-316 67 Guiding Bushing Steel
+20 O-Ring Buna / EPDM / Teflon / TES / Viton 69 Needle Bearing Steel
+21 O-Ring Buna / EPDM / Teflon / TES / Viton 72 Threaded Bushing Steel
+22 Spring Adaptor Steel 82 Spacer Teflon
+23 Weight Lever Steel 86 Spring Chamber Steel
+24 Retaining Plate Steel 95 Rod Eye Steel
+25 Socket Head Screw Steel Zinc Plated 106 Grease Fitting Alemite
+26 Bracket Steel
+* Other materials available: A126 CLB, A395, A351-CF8M, Monel, Alloy 20,
+Hastelloy, 254SMO, Titanium.
+All external components can be offered in SS where required.
+© 2023 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 66 of 76
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 67 ===
+BRAY/RITE SINGLE DOOR WAFER TYPE SWING CHECK VALVES
+Installation and Maintenance Manual
+32.1 1) APPLICATION:
+The purpose of equipping a standard Bray/Rite Single Door Wafer
+Type Swing Check Valve with an external spring, weight, and a
+damper is to provide external control, which is field adjustable, in
+applications such as: multiple pumping installations terminating in
+common headers, where transient forces are difficult to ascertain
+and control. The basic principle is to close the valve as soon as
+the flow starts to decrease with the help of an external spring and
+weight. This reduces or eliminates water-hammer and associated
+problems. The hydraulic damper is used to reduce disc oscillations
+due to variations in the flow, and to stop the disc from being
+slammed open or closed. This model provides damping for the
+final few degrees of travel upon opening, and the last few degrees
+upon closing.
+32.2 2) GENERAL DESCRIPTION:
+A Model SA-50 is a standard Bray/Rite Single Door Wafer Type
+Swing Check Valve which has been converted, featuring a positive
+hexagon drive at the Hinge-Disc-Shaft (2, 12) connection point. The
+Shaft (7) extends through and is supported in the Body (1) on one
+side and externally by a Ball bearing (29) mounted in a Bracket
+(26) on the other side. O-Rings (20, 21) seal the Shaft (7) and the
+Body (1). The Spring Adaptor (22) is engaged on the Shaft (7), and
+is connected to the Spring Chamber (86) which is anchored to
+the Bracket (26). The Spring Adaptor (22) is similarly connected
+to the Rod Clevis (57) with anchored to the Bracket (26) by the
+Cylinder Assembly (61). The Weight Lever (23) also engages the
+Shaft (7) and supports the Weight (34). Note: Lever (23) can be
+rotated on the Shaft (7) independently of the Spring Adaptor (22),
+all of which are retained on the Shaft (7) by the Retaining Plate
+(24) and Socket Head Screw (25). The Disc (12) is supplied with
+a non-rotating feature to prevent it from “Spinning” and creating
+excessive wear at the Hinge-Disc (2, 12) connection.
+32.3 3) ADJUSTMENT:
+The limited adjustment of The Cylinder Assembly (61) is designed
+to suit most applications. Adjustment by qualified mechanic, allows
+for design to apply to suit a variety of applications.
+a) If a faster closing time is desirable, the Weight (34) can be
+moved further towards the end of the Lever (23) and the Spring
+(33) can be tightened.
+b) The Cylinder Assembly (61) is set at the factory to give a
+controlled opening speed and a fast-closing speed. If slower
+opening is required, control needle valve on the Cylinder Assembly
+(61) should be closed slowly until the desired speed is obtained.
+c) If faster opening is required, control needle valve on the Cylinder
+Assembly (61) should be opened slowly until the desired speed is
+obtained.
+(continued)
+© 2023 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 67 of 76
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 68 ===
+BRAY/RITE SINGLE DOOR WAFER TYPE SWING CHECK VALVES
+Installation and Maintenance Manual
+d) To increase the valve closing time, the Spring (33) can be
+loosened, or the Weight (34) can be moved towards the Shaft (7).
+Make sure that there is preload on the Spring (33), or the Weight
+(34) is positioned to ensure that the valve is closed when there is
+no flow.
+WARNING
+If the Disc (12) is not fully closed, the Spring (33) may be under
+compression. Sudden decompression may cause serious injury
+and/or damage.
+32.4 4) MAINTENANCE REQUIREMENTS:
+No special tools are required to replace shaft seals. Should the
+valve require repair, the following procedure is recommended to
+disassemble the valve and its major components.
+NOTICE
+Before beginning, record the position of the Weight (34), Spring
+Adaptor (22) and the Lever (23) with respect to the Shaft (7).
+1. The Cylinder Assembly (61) should be removed first to reduce
+the chances of damaging any of the components. The Cylinder (61)
+is filled with hydraulic oil. If possible, it is best to remove this unit
+while the valve is inline and the reservoir in the vertical position. To
+remove the Cylinder Assembly (61):
+a) Remove the Pivot Pin (36) from the Rod Clevis (57) and the
+Eye Bracket (63).
+b) Support the Cylinder Assembly (61) and remove the Pivot Pins
+(36) so that Cylinder Assembly (61) is free from the valve assembly.
+2. Remove valve from the line.
+3. Loosen Socket Head Screw (35) and remove the Weight (34).
+4. Remove Socket Head Screw (25) and the Retaining Plate (24)
+from the end of the Shaft (7).
+5. Remove Weight Lever (23).
+6. Loosen Flanged Lock Nut (49) to remove tension from the
+Spring (33).
+7. Remove Pivot Pin (36) from the Rod Clevis (57).
+8. Remove Socket Head Screw (41) and remove Rod Eye (95).
+9. The Spring Chamber (86) can now be removed.
+10. Remove the Spring Adaptor (22) from the Shaft (7).
+11. Remove the Plug (8) from the Body (1).
+(continued)
+© 2023 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 68 of 76
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 69 ===
+BRAY/RITE SINGLE DOOR WAFER TYPE SWING CHECK VALVES
+Installation and Maintenance Manual
+12. The Shaft (7) may now be removed from the Plug (8) side of
+the Body (1). The Shaft (7) may be tapped gently to remove it from
+the Body (1).
+13. The Hinge-Disc (2, 12) Assembly may now be removed from the
+Body (1).
+14. Remove the Bushing (19) and Spacer (6) from the Body (1).
+15. Clean parts, replace O-Rings (14, 20, 21) and add compatible
+grease.
+Assembly is accomplished by reversing the above procedure.
+When installing the O-Rings (14, 20, 21), lubricate the O-Rings and
+all contact surfaces with clean oil or grease.
+The Spring Chamber is provided with a grease fitting (106) to
+allow greasing of the Spring (33) and Shaft (7). Any compatible
+grease can be used. All pivot points of the Spring (33) should be
+lubricated on a regular basis to ensure that no binding occurs
+between the components.
+© 2023 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 69 of 76
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 70 ===
+BRBRAAYY//RRITIET ESI NSGINLEG DLOEO DR OWAOFRER W TYAPFE ESWRI NTGY PCHEE SCWK VIANLVGE SCHECK VALVES
+InsIntsatlalallatitoionn aanndd M Maainitnetneannacen cMea nMuaanl ual
+333.30.0 PVPVCC (, SPPLEACISATL IACP PBLOICDATYIO),N S MPOEDCEILA: L APPLICATION MODEL:
+ItemItem DeDsecsrcirpipttioionn MMataertiealrial ItIetemm DDeessccrriippttioionn MaMtearitaelrial
+1 1 BoBdoydy AASSTTMM DD11778844 (P (VPCV)C) 910 LEoycek B oNltut StaSintaleisnsl eStsese lSteel
+2 2 HinHginege AASSTTMM AA33515-1C-FC8FM8M 1011 EyNea mBeo Pltlate StSaitnaleinssle Sstse eSlteel
+5 5 SpSrpinrigng AASSTTMM AA331313-3-13616, ASTM 302-304, 1112 NDaimsce Plate SS316
+Inconel X-750
+6 Spacer ASTM A479-316 1213 DRisivcet AStSaiTnMles sA S3te5e1l-CF8M
+6 Spacer ASTM A479-316
+7 Shaft ASTM A479-316 1314 ROiv-Reitng Stainless Steel
+7 Shaft ASTM A479-316
+8 Plug Stainless Steel 1415 OD-iRscin Ngu t(optional)StBaiunnleass / S tEeePlDM / Teflon / TES / Viton
+8 Plug Stainless Steel
+9 Lock Nut Stainless Steel 15 Disc Nut Stainless Steel
+All wetted stainless steel components are pickled and passivated.
+* All external components can be offered in SS where required. This model is only available up to 24” in size.
+33.1 1) APPLICATION:
+33.1 1) INTRODUCTION TO PVC CHECK RITE WAFER TYPE SWING
+ThCeH pECuKr pVAoLsVeE oS:f equipping a standard Bray/Rite Single Door
+Wafer Type Swing Check Valve with a PVC body is for exceptional
+re2s.i sMtaondecren tpoip sinaglt a apnpldic acthiolnosr idneem wanadt ebre tetenrv fieraotnurmese, nts.
+performance and economy in a check valve.
+33.2 2) GENERAL DESCRIPTION:
+Features:
+Th>e PSiVmCp lMiciotydel is a basic Bray/Rite Single Door Wafer Type Swing
+Ch>e cCko mVaplavcetn iens splastic body material that features no additional
+Sp>ecMiainl iAmpupmli Wcaetigiohnt accessories.
+(c(coonnttiinnuueedd))
+© 2 © 0 2 2 0 3 2 3 B B R R A AY Y I N IN TE T R E N R A N TIO A N T A IO L, N IN A C L . A , L IN L C RI . G A HT L S L R R ES IG ER H V T ED S . R BR E A S Y. E C R OM VE T D h . e B In R fo A r Y m . a C t O ion M The Information 7 6 0 9 o o f f 7 5 76
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 71 ===
+BRAY/RITE SINGLE DOOR WAFER TYPE SWING CHECK VALVES
+Installation and Maintenance Manual
+Check Rite Wafer type valves consist of a compact Body (1) with
+a single plate Disc (12) attached to a Hinge (2) which in turn is
+supported by a Shaft (7) inside an off-center body cavity. The Disc
+(12) is mechanically biased to the closed position by a Spring (5)
+located between the two Hinge (2) lugs. The Shaft (7) is retained
+by two NPT Pipe Plugs (8) inside the Body (1). The O-Ring (14) can
+be to Buna / EPDM / Teflon / TES / Viton. The standard connection
+is a welded sub-assembly, by means of a Hinge (2) in which the
+Disc (12) is attached to the Hinge (2) with a Nut (15) and a weld is
+used to secure the components.
+The Eyebolt (10) located on the top of the Check valve aids easy
+installation.
+Check valves are designed to open when a pressure of less than 1
+psi (.07 bar) is applied across the face of the Disc (12).
+Check valves are provided for installation between standard
+flanges. Check valves are normally installed with the Eyebolt (10)
+pointing vertically upwards in a horizontal run of pipe, with the
+arrow on the Body (1) pointing in the direction of flow.
+Bray/Rite Single Door Wafer Type Swing Check Valves are
+designed for installation between ANSI class 125/150 lb. weld neck
+or slip on flanges.
+33.3 3) MAINTENANCE REQUIREMENTS:
+Should the valve require repair, the following procedure is
+recommended to dismantle the valve and its major components.
+The simple design of the Check valve permits for easy assembly
+and disassembly. The following assembly procedure applies to all
+Check valves.
+To Dis-assemble the valve:
+a) Place the Body (1) in a horizontal position with the Disc (12)
+assembly showing.
+b) Remove the Plugs (8) on either side of the Body (1).
+c) Hold the Spring (5) in position and slide the Shaft (7) out of the
+Body (1).
+d) Slowly release the pressure on the Spring (5) and remove it
+from the valve.
+e) The Hinge-Disc (2, 12) Assembly can now be lifted from the
+Body (1) (and disassembled, if required, on large sizes).
+f) Remove the Spacers (6) being careful to note their original
+orientation.
+g) Remove the O-Ring (14) if required.
+(continued)
+© 2023 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 71 of 76
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 72 ===
+BRAY/RITE SINGLE DOOR WAFER TYPE SWING CHECK VALVES
+Installation and Maintenance Manual
+To re-assemble the valve:
+a) Clean the Body (1) with a suitable PVC cleaning agent and clean
+all internal parts with acceptable solvent.
+b) Place the Body (1) in a horizontal position with the o-ring face
+pointing upwards.
+c) If O-Ring (14) was removed, insert in seat groove.
+d) Place the Hinge-Disc (2, 12) Assembly in the Body (1) cavity.
+e) Insert the Shaft (7) through the Plug (8) hole on either side of
+the Body (1) and slide a Spacer (6) in between the Body (1) and
+adjacent Hinge (2) lug.
+f) Press Spring (5) between the Hinge (2) lugs and Body (1) cavity,
+then advance the Shaft (7) through the Spring (5) and the second
+Hinge (2) lug.
+g) Slide the second Spacer (6) between the Body (1) and Hinge (2)
+lug and advance the Shaft (7) into the Body (1). Position the Shaft
+(7) central to the valve Body (1) prior to the installation of the
+retaining Plugs (8).
+h) Check that the Spring (5) ends are seated properly.
+i) If application necessitates it apply Teflon tape on retaining Plugs
+(8), install Plugs (8) and tighten both sides with a Hex wrench.
+j) Check that the valve opens and closes freely and that adequate
+freedom of movement of the Hinge/Disc/Shaft (2, 12, 7)
+connection is provided for the Disc (12) to adapt a self-aligning
+position with the Body (1).
+© 2023 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 72 of 76
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 73 ===
+BRAY/RITE SINGLE DOOR WAFER TYPE SWING CHECK VALVES
+Installation and Maintenance Manual
+34.0 PVC (PLASTIC BODY) SA-4A (BACKFLUSH LEVER), SPECIAL APPLICATION MODEL:
+Item Description Material Item Description Material
+1 Body ASTM D1784 (PVC) 14 O-Ring Buna / EPDM / Teflon / TES / Viton
+2 Hinge ASTM A351-CF8M 15 Disc Nut Stainless Steel
+5 Spring ASTM A313-316 19 Seal Bushing ASTM A479-316
+6 Spacer ASTM A479-316 20 O-Ring Buna / EPDM / Teflon / TES / Viton
+7 Shaft ASTM A479-316 21 O-Ring Buna / EPDM / Teflon / TES / Viton
+8 Plug Stainless Steel 22 Lever Stainless Steel
+9 Eye Bolt Stainless Steel 24 Retaining Plate Stainless Steel
+10 Nut Stainless Steel 25 SHCS Stainless Steel
+11 Name Plate Stainless Steel 29 Ball Bearing Stainless Steel
+12 Disc ASTM A351-CF8M 46 Hex Bolt Stainless Steel
+13 Rivet Stainless Steel 49 Hex Nut Stainless Steel
+34.1 1) APPLICATION:
+The purpose of equipping a standard Bray/Rite Single Door Wafer
+Type Swing Check Valve that has been modified to allow the user
+to open the valve manually to backflush a pipeline.
+(continued)
+© 2023 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 73 of 76
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 74 ===
+BRAY/RITE SINGLE DOOR WAFER TYPE SWING CHECK VALVES
+Installation and Maintenance Manual
+34.2 2) GENERAL DESCRIPTION:
+The Model SA-4AX is a standard Bray/Rite Single Door Wafer
+Type Swing Check Valve that has been modified to allow the user
+to open the valve manually to backflush a pipeline, featuring a
+positive hexagonal drive at the Hinge/Disc-shaft mounting. The
+basic valve has a Hinge-Disc assembly (2, 12) connected to a
+positive hexagonal drive Shaft (7), which extends through the
+Body (1). The Shaft (7) is supported by the Body (1) at one end,
+by a Bushing (19) in the body and by a Ball Bearing (29). Four
+O-Rings (20, 21) seal the Shaft (7) and the body. Ball Bearing
+(29) is used to support and to reduce friction. The Lever (22) is
+mounted onto the Shaft (7) with a hexagon connection.
+34.3 3) ADJUSTMENT:
+No transient adjustment is available.
+34.4 4) MAINTENANCE REQUIREMENTS:
+Should the valve require repair, the following procedure is
+recommended to disassemble the valve and its major components:
+a) Remove valve from the line.
+b) Remove the Socket Head Screw (25) and Retaining Plate (24)
+and remove the Hex Nut (49) from the Hex Bolt (46) and slide Hex
+Bolt (46) out through the Lever (22). Mark the orientation between
+the Lever (22) and the Shaft (7). Remove the Lever (22).
+c) Remove the Plug (8) from the Body (1).
+d) While holding the Spring (5), remove the Shaft (7) from the
+Plug (8) side of the Body (1).
+e) The Hinge-Disc (2, 12) Assembly can now be lifted from the
+Body (1).
+f) Remove the Bushing (19) and Spacer (6) from the Body (1).
+g) Clean all internal parts with applicable solvent, replace O-Rings
+(14, 20, 21) if necessary and add compatible grease.
+h) Insert Bushing (19) into Body (1). Be careful not to damage the
+O-Rings (14, 20, 21).
+i) Slide Shaft (7) carefully into Body (1), through spacer (6), Hinge-
+Disc (2, 12) Assembly, Spring (5), Bushing (19) and the Bearing (29).
+j) Replace and tighten the Plug (8).
+k) Mount Lever (22) and Retaining Plate (24) and tighten Socket
+Head Screw (25) and reinstall Hex Bolt (46) through Lever (22)
+and into Hex Nut (49).
+l) Reinstall the valve between flanges in the pipeline.
+(continued)
+© 2023 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 74 of 76
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 75 ===
+BRAY/RITE SINGLE DOOR WAFER TYPE SWING CHECK VALVES
+Installation and Maintenance Manual
+The valve is inserted between two companion flanges with gaskets
+on the contact faces. Studs are installed, which will span the valve,
+and tightened in the same manner as typical flange connection.
+The check valve stud holes are designed to locate the valve in the
+same centerline as the companion flanges.
+Assembly is accomplished by reversing the above procedure.
+NOTICE
+1) Check the flow arrow on the Body (1) before inserting the
+check valve between the flanges.
+2) Pipeline flanges must be parallel.
+3) Verify that the valve is properly centered with the piping.
+4) There must be no obstructions to prevent the Disc (12)
+operation. Valves are designed for either schedule 40 or 80
+piping. Note Schedule 40 valves may not function properly in
+schedule 80 pipe.
+5) Certain Models require Threaded Bushings (72) which are
+located in areas where the stud location interferes with the
+external Shaft (7). Studs should be adequately sized, so that no
+interference is created with the Shaft (7), and the studs should be
+torqued evenly on both sides.
+6) If slip-on flanges are used, make sure that no weld deposits
+projects into the pipe bore.
+Refer to O-Ring instructions provided on page 14 as required.
+© 2023 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 75 of 76
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 76 ===
+SINCE 1986, BRAY HAS PROVIDED FLOW CONTROL SOLUTIONS
+FOR A VARIETY OF INDUSTRIES AROUND THE WORLD.
+VISIT BRAY.COM TO LEARN MORE ABOUT
+BRAY PRODUCTS AND LOCATIONS NEAR YOU.
+HEADQUARTERS
+BRAY INTERNATIONAL, INC.
+13333 Westland East Blvd.
+Houston, Texas 77041
+Tel: +1.281.894.5454
+All statements, technical information, and recommendations in this bulletin are for general
+use only. Consult Bray representatives or factory for the specific requirements and material
+selection for your intended application. The right to change or modify product design or
+product without prior notice is reserved. Patents issued and applied for worldwide.
+Bray® is a registered trademark of Bray International, Inc.
+© 2021 BRAY INTERNATIONAL. ALL RIGHTS RESERVED. BRAY.COM EN_IOM_RITE_2022
+THE HIGH PERFORMANCE COMPANY BRAY.COM

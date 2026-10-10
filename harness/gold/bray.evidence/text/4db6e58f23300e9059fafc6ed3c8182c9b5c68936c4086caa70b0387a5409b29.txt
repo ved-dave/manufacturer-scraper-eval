@@ -1,0 +1,818 @@
+=== page 1 ===
+TRI LOK®
+TRIPLE OFFSET CRYOGENIC VALVE
+Installation, Operation and Maintenance Manual
+=== page 2 ===
+Tri Lok® Cryogenic Valve
+Installation, Operation and Maintenance Manual
+TABLE OF CONTENTS
+Definition of Terms 2
+1 0 Introduction 2
+2 0 Safety Information 3
+2 1 ATEX Directive 2014/34/EU 3
+3 0 Installation 4
+4 0 Long Term Storage 5
+5 0 Handling Requirements 5
+6 0 Travel Stop Setting Instructions 6
+7 0 Valve Parts Diagram - Class 150, 300 7
+7 1 Exploded View - Class 150, 300 8
+8 0 Valve Parts Diagram - Class 600 9
+9 1 Exploded View - Class 600 10
+10 0 Standard Maintenance 11
+10 1 Recommended Lubricants 11
+10 2 Packing Replacement 11
+10 3 Seat Replacement 12
+10 4 Seal Ring Replacement 13
+10 5 Bottom Plate Gasket Replacement 14
+TABLES
+Table 1 - Minimum Allowable Pipe ID for Tri Lok Installation 4
+Table 2 - Torque Values for Gland Retaining Nuts 15
+Table 3 - Torque Values for Seat Retaining Cap Screws and Seal Retainer Cap Screws and Bottom Plate 15
+Table 4 - Torque Values For Bracket/Bonnet Fasteners 16
+For information on this product and other Bray products please visit us at our web page - www.bray.com
+1 | BRAY.COM
+=== page 3 ===
+Tri Lok® Cryogenic Valve
+Installation, Operation and Maintenance Manual
+Read and Follow These Instructions
+Save These Instructions
+DEFINITION OF TERMS
+indicates a potentially hazardous situation which, if not avoided, could result in death or
+serious injury
+indicates a potentially hazardous situation which, if not avoided, may result in minor or
+moderate injury
+used without the safety alert symbol indicates a potential situation which, if not avoided, may
+NOTICE
+result in an undesirable result or state, including property damage
+1.0 INTRODUCTION
+Information provided in this manual is for cryogenic
+Tri Lok configuration only. Specific instructions for
+non-standard materials of construction, temperature
+Do not remove or de-energize actuation devices while the valve
+range, etc. should be referred to the factory. is under line pressure
+This manual covers Tri Lok valves in the following range:
+The valve is inherently fire safe, and has been qualified to
+ASME ISO 10497 and API 607 standards
+Size Body Style
+Class
+The preferred direction of valve installation is with the
+Wafer upstream line pressure on the stem side and the body seat
+150, 300, 3” - 48”
+Lug on the downstream side
+and 600 (80mm - 1200mm)
+Double Flange
+The preferred direction of flow is indicated by an arrow on
+The Tri Lok metal seated valve is fully rated to ASME the valve nameplate
+B16 34, and complies with API 609
+Tri Lok is torque-seated Torque must be continually applied
+by an actuation device (manual gearbox or power valve
+actuator) to the valve stem to ensure the valve seals against
+the line pressure
+TRI LOK® CRYOGENIC TRIPLE OFFSET VALVE | 2
+=== page 4 ===
+Tri Lok® Cryogenic Valve
+Installation, Operation and Maintenance Manual
+2.0 SAFETY INFORMATION Temperature Considerations
+2.1 ATEX Directive 2014/34/EU The surface temperature of the Tri Lok valve is wholly
+dependent on the ambient temperature in combination
+with the temperature of the process medium The
+maximum surface temperature of the Tri Lok valve may
+be calculated from the maximum ambient temperature
+When using this product in hazardous environments, the plus the maximum process medium temperature as shown
+national directives and laws which apply in your country for below:
+hazardous areas must be followed The specifications of the
+Equation 1 - Surface Temperature Calculation
+examination certificate valid in country of operation must be
+also observed T = T + T
+s(max) a(max) p(max)
+The system designer is responsible for ensuring the
+2.1.1 Marking
+maximum temperature, either inside the valve body or on
+Certification Code: the external surface, will remain well below the ignition
+temperature of the atmosphere Additional protective
+devices may be required to ensure a sufficient thermal
+safety margin, including but not limited to: thermal shut-
+off devices and cooling devices
+For operating temperatures above 200° C (392°F) Bray
+recommends thermal insulation of the valve body.
+Static Electricity Considerations
+Where the process medium is a liquid or semi-solid material
+Ambient Range: TX See Special Conditions for Safe Use with a surface resistance in excess of 1 G-ohms, special
+precautions should be taken to ensure the process does
+Serial Number: As appropriate
+not generate electro-static discharge This may be done
+through ensuring the flow rate of the process media
+remains below 1 m/s or providing sufficient discharge
+2.1.2 Special Conditions for Safe Use
+points along the process path to eliminate electrostatic
+The following factors must be carefully considered in order build-up Consultation to EN 50404 is recommended
+to ensure the valve is compatible with the atmosphere in
+Appropriate grounding may be necessary through the use
+which it is applied The system designer and/or end user
+of grounding straps or other means
+should formally address each item and carefully document
+the reasoning behind specific measures taken to ensure Stray Electric Current Considerations
+continued compliance throughout the life of the Tri Lok
+When the Tri Lok valve is used near sources of high current
+valve
+or magnetic radiation, a secure bonding to earth ground
+Material Considerations should be made so as to prevent ignition due to inductive
+currents or a rise in temperature due to these currents
+Titanium is not to be used in Group I mining applications
+and Group II Category 1 equipment, due to the potential of Filtration of Process Medium Considerations
+ignition from sparks caused by mechanical impacts Please
+Special consideration should be made regarding the
+consult factory for details regarding material limitations
+filtration of the process medium if there is a potential for
+the process medium to contain solid particulates The
+process medium is recommended to be filtered to allow
+particles no greater than 1 0 mm in diameter through the
+valve assembly where there is a high probability of solid
+particulates Larger particulate sizes may be deemed
+appropriate based on the possibility of particulates within
+the process medium and the area classification The
+decision regarding filtration levels and limits should be well-
+documented by the system designer and/or end user to
+ensure continued compliance through the life of the valve
+3 | BRAY.COM
+=== page 5 ===
+Tri Lok® Cryogenic Valve
+Installation, Operation and Maintenance Manual
+3.0 INSTALLATION
+Table 1
+1 Tri Lok is designed to be installed between ASME B16 5, Minimum Allowable Pipe ID for Tri Lok Installation
+B16 47 flanges When the valve is open, a portion of Valve/Pipe Minimum Pipe ID
+the disc may protrude into the pipe Wafer and lug
+Size Class 150 Class 300 Class 600
+configurations will protrude on both sides of the valve
+In the double flange version and some gate sizes, the In mm In mm In mm In mm
+open disc may protrude into the pipe on the seat side 3 80 2 4 61 2 1 53
+of the valve Adjacent piping must be large enough to Consult
+4 100 3 1 80 1 5 38
+allow the open disc to clear the pipe Table 1 shows the Factory
+minimum allowable pipe ID 6 150 5 3 135 5 2 132
+2 The valve closes with clockwise rotation of the stem and 8 200 7 1 180 6 8 173 4 3 109
+opens with counterclockwise rotation 10 250 9 0 228 8 9 226 6 2 158
+12 300 11 0 278 11 0 279 8 1 206
+14 350 12 2 310 11 8 300 10 6 269
+16 400 14 2 359 13 7 348 11 2 284
+Avoid uncontrolled rotation of the disc beyond fully-open 18 450 15 9 403 15 5 394 12 8 326
+position (counterclockwise) as this could damage the sealing
+20 500 17 9 454 16 9 429 14 4 366
+surfaces
+24 600 21 8 554 21 5 546 16 3 414
+3 To benefit from the most favorable low operating torque
+28 700 24 3 616 24 1 613
+and best sealing conditions, install the valve with the
+stem on the upstream (pressure side) of the installation 30 750 27 0 686 27 2 691
+The valve tag is marked with an arrow indicating the
+32 800 29 4 747 29 0 737
+preferred direction of flow Consult
+36 900 33 3 846 32 6 828
+Factory
+4 Whenever possible, install with the stem vertical If this
+40 1000 36 8 834 36 4 925
+installation is not possible, orient the stem at an inclined
+angle with the actuator above the horizontal centerline 42 1050 39 1 992 Consult
+48 1200 44 9 1140 Factory
+5 Flange gaskets should conform to the requirements of
+ASME B16 20 (supersedes API Standard 601) for ASME
+B16 5 flanges Spiral wound gaskets conforming to Notes for Table 1
+ASME B16 20 are recommended • Minimum allowable ID of pipe with recommended clearances (per API 609).
+• This table assumes that the valve is centered in the pipe flanges.
+6 When bolting the valve into the line, use standard
+• A minimum of 1/16” (1.6 mm) thick gasket is used between the pipe flange and the face
+bolting torque as recommended by applicable piping
+of the valve body.
+standards The valve body seat is independent of the
+flange bolting Additional force from the flange bolts is
+not required
+TRI LOK® CRYOGENIC TRIPLE OFFSET VALVE | 4
+=== page 6 ===
+Tri Lok® Cryogenic Valve
+Installation, Operation and Maintenance Manual
+4.0 LONG TERM STORAGE 5.0 HANDLING REQUIREMENTS
+If valves are to be stored before installation, storage must Packed Valves
+be carried out in a controlled manner as follows:
+Crates: Lifting and handling of the packed valves in crates
+1 Valves must be stored in an enclosed, clean and dry will be carried out by a fork lift truck, by means of the
+environment appropriate fork hitches
+2 Valve disc should be in the closed position and the Cases: The lifting of packed valves in cases will be carried
+body flange faces must be covered with appropriate out in the lifting points and in the center of gravity position
+protection which have been marked The transportation of all packed
+material must be carried out safely and following the local
+3 Periodically, the valves should be checked to ensure the
+safety regulations
+above conditions are maintained
+Unpacked Valves
+4 These are general guidelines for valve storage Please
+consult the factory for information regarding specific 1 Lifting and handling of valves should be carried out by
+requirements using appropriate means and observing the carrying
+limits Handling must be carried out on pallets,
+If the valves must be stored in an open area, for a limited
+protecting all machined surfaces to avoid any damage
+time only, they must be packed in cases lined with tar paper
+and the valves wrapped in plastic with desiccant bags and 2 With large bore valves, rigging the load must be carried
+vapor inhibitor papers within out by using the appropriate tools to prevent the valve
+from falling or moving during the lifting and handling
+For valve handling and/or lifting, the lifting equipment
+(fasteners, hooks, etc ) must be sized and selected while taking
+into account the valve weight indicated in our packing list and/
+or delivery note Lifting and handling must be made only by
+qualified personnel
+Fasteners must be protected by plastic covers in sharp corner
+areas
+Caution must be taken during the handling to avoid this
+equipment passing over the workers or over any other place
+where a possible fall could cause injury or damage In any case,
+local safety regulations must be respected
+5 | BRAY.COM
+=== page 7 ===
+Tri Lok® Cryogenic Valve
+Installation, Operation and Maintenance Manual
+6.0 TRAVEL STOP SETTING INSTRUCTIONS
+Preface
+Tri Lok is a quarter turn, metal-seated triple offset valve
+There is no mechanical stop in the valve at the “closed” Valves can be damaged if proper care is not exercised during
+the setting of Open and /or Closed stops
+position
+Purpose Actuator Stop Settings
+The following travel stop-setting instructions are designed The Tri Lok valve is a torque seated valve During normal
+to provide a maintenance or service person clear direction operation, only the open mechanical stop on the actuator
+and procedures for executing these important adjustments should function Set the opening stroke stop to stop the
+disc rotation in the fully open (90°) position
+Methodology
+For safety reasons, the closed mechanical stop shall be set
+When installing ANY type of actuator on a Tri Lok valve, the
+as follows:
+following general instructions should be followed closely
+These general instructions include all actuation types: 1 Unscrew the closing stroke mechanical stop
+manual gear, pneumatic, hydraulic and electric actuators
+2 Close the valve applying the correct end-to-close
+1 Select a desired orientation for the actuator mounting torque required for the particular service Check that
+relative to the valve The disc should be oriented with the mechanical stop is free
+the disc indicator marked on the stem
+3 Adjust mechanical stop until engagement
+2 Rotate BOTH valve and actuator to either the full
+4 Loosen the mechanical stop 1-1½ turns to ensure there
+“open” or full “closed” position to establish a common
+is enough travel for the valve to receive the required
+reference point
+torque and to protect the valve from excessive torque
+3 Mount actuator to the valve and secure
+5 Tighten the stop lock nut with the torque specified in
+the actuator operating manual
+Notes:
+• With valve/actuator in the closed position, it may be necessary 6 Mark the closing stop set position
+to loosen the “closed” mechanical stop to allow the mounting
+holes to align properly
+• Special applications may require more specific instructions
+Please consult the factory for further instruction
+TRI LOK® CRYOGENIC TRIPLE OFFSET VALVE | 6
+=== page 8 ===
+Tri Lok® Cryogenic Valve
+Installation, Operation and Maintenance Manual
+7.0 VALVE PARTS DIAGRAM - CLASS 150, 300 Sectional Drawing Cryogenic Configuration Tri Lok Valve
+L1 D1
+M2
+M1
+M4
+K2 M3
+M5
+K1
+E1
+A1
+E2
+C6
+C1
+C6
+E2
+E1
+G3
+J1 H6 H8 H7 B2 C3
+F1
+H4 F2
+H5 G2
+H1 G1
+J3 J2 H2 H3 J4 B1 B3 C2 C4 C5
+Packing Box & Bracket Detail Seat & Seal Ring Detail Bottom Plate Detail
+7 | BRAY.COM
+=== page 9 ===
+Tri Lok® Cryogenic Valve
+Installation, Operation and Maintenance Manual
+7.1 EXPLODED VIEW - CLASS 150, 300 J2
+J3
+Item Component Description Note
+A1 Body J1
+B1 Seat 1
+B2 Seat Gasket 1
+H8
+B3 Seat Cap Screws 1 H7
+C1 Disc
+H6
+C2 Seal Ring 1
+C3 Seal Ring Gasket 1
+H4
+C4 Seal Ring Retainer H5
+C5 Seal Ring Retainer Cap Screws 1 H1
+C6 Disc Spacer
+H3
+C7 Seal Ring Alignment Pin
+D1 Stem H2
+E1 Stem Bearing
+M2
+J4
+E2 Bearing Protector Gasket
+F1 Thrust Bearing
+M1
+F2 Bearing Washer
+G1 Bottom Plate
+G2 Bottom Plate Gasket 1
+G3 Bottom Plate Cap Screws M3
+H1 Packing Gland Ring
+H2 Packing Thrust Washer
+H3 Stem Packing 1
+M4
+H4 Gland Retainer
+M6
+H5 Anti Blow-Out Retaining Ring
+H6 Packing Gland Studs L1 M5
+H7 Packing Gland Lock Washers
+H8 Packing Gland Hex Nuts
+E1
+J1 Mounting Bracket
+E2
+J2 Mounting Bracket Cap Screws
+J3 Mounting Bracket Lock Washers
+J4 Mounting Bracket Pins
+K1 Identification Tag
+K2 Drive Screws A1
+L1 Stem Keys
+M1 Bonnet
+M2 Bonnet Bearing
+D1
+M3 Bonnet Cap Screws
+M4 Bonnet Gasket
+M5 Bearing Spacer
+C6
+M6 Dowel Pins
+C1
+Note 1: Suggested Spare Part
+C7
+E2
+E1
+C3
+C2 F1
+C4 F2
+C5 G2
+G1
+B2
+G3
+B1
+B3
+TRI LOK® CRYOGENIC TRIPLE OFFSET VALVE | 8
+=== page 10 ===
+Tri Lok® Cryogenic Valve
+Installation, Operation and Maintenance Manual
+8.0 VALVE PARTS DIAGRAM - CLASS 600 Sectional Drawing Cryogenic Configuration Tri Lok Valve
+L1 D1
+M2
+M1
+M4
+M3
+K2 E1 M5
+K1 E2
+A1 C6
+C1
+C6
+E2
+E1
+G3
+J1 H6 H8 H7 C9
+B2
+H4 C3 B1 F1
+H5 B8 F2
+H1 B6 G2
+B4 G1
+J3 J2 H2 H3 J4 C2 C4 C5 C7 C8 B7 B5
+Packing Box & Bracket Detail Seat & Seal Ring Detail Bottom Plate Detail
+9 | BRAY.COM
+=== page 11 ===
+Tri Lok® Cryogenic Valve
+Installation, Operation and Maintenance Manual
+9.1 EXPLODED VIEW - CLASS 600
+J2
+Item Component Description Note
+A1 Body J3
+B1 Seat 1
+B2 Seat Gasket 1
+J1
+B3 Seat Cap Screws (Not Shown) 1
+B4 Seat Retainer
+B5 Seat Retainer Ring H8
+B6 Seat Lower Set Screws 1 H7
+B7 Seat Upper Set Screws 1
+H4
+B8 Seat Alignment Button
+C1 Disc H6
+C2 Seal Ring 1
+H5
+C3 Seal Ring Gasket 1
+H1
+C4 Seal Ring Retainer
+H3
+C5 Seal Ring Retainer Cap Screws 1
+H2
+C6 Disc Spacer
+M2
+C7 Seal Ring Alignment Pin
+J4
+C8 Disc Seal Collar
+C9 Roll Pin For Seal Ring
+M1
+D1 Stem
+M3
+E1 Stem Bearing
+E2 Bearing Protector Gasket
+F1 Thrust Bearing
+F2 Bearing Washer
+M4
+G1 Bottom Plate
+G2 Bottom Plate Gasket 1
+M5
+G3 Bottom Plate Cap Screws
+H1 Packing Gland Ring
+H2 Packing Thrust Washer E1
+H3 Stem Packing 1 L1
+E2
+H4 Gland Retainer
+M6
+H5 Anti Blow-Out Retaining Ring
+H6 Packing Gland Studs
+H7 Packing Gland Lock Washers
+H8 Packing Gland Hex Nuts
+A1
+J1 Mounting Bracket
+J2 Mounting Bracket Cap Screws
+J3 Mounting Bracket Lock Washers D1
+J4 Mounting Bracket Pins
+K1 Identification Tag
+K2 Drive Screws C6
+L1 Stem Keys C1
+M1 Bonnet C3
+E2
+M2 Bonnet Bearing C2
+C8
+M3 Bonnet Cap Screws E1
+M4 Bonnet Gasket C4
+M5 Bearing Spacer C5 C7 F1
+M6 Dowel Pins F2
+B8 C9 G2
+Note 1: Suggested Spare Part
+G1
+B7 B2
+B1
+G3
+B4
+B6
+B5
+TRI LOK® CRYOGENIC TRIPLE OFFSET VALVE | 10
+=== page 12 ===
+Tri Lok® Cryogenic Valve
+Installation, Operation and Maintenance Manual
+10.0 STANDARD MAINTENANCE 10.2 Packing Replacement
+Refer to parts diagram for parts identification by
+reference numbers (Pg 7, 9)
+1 If the valve is installed, relieve line pressure Remove
+Verify if the valves are required to be cleaned for oxygen service actuator from the valve Remove socket head cap
+Depending on application valve may need to be cleaned and screws and lock washers (J2 & J3) Remove mounting
+assembled at a qualified oxygen cleaning facility bracket or mounting plate (J1), depending on valve
+size Note assembly positions of the actuator and the
+mounting hardware for reinstallation
+2 Remove packing gland retainer nuts (H8) and lock
+washers (H7) Remove gland retainer (H4), anti-blowout
+retaining ring/split ring (H5) and gland ring (H1)
+Precautions should be taken before beginning any work on the 3 Remove all packing (H3), taking care not to scratch the
+valve assembly stem or the bore of the bonnet Do not remove the
+thrust washer (H2) unless further valve disassembly is
+Protective clothing, as required by appropriate safety codes,
+should be worn required
+Relieve line pressure and close valve before: 4 Examine the bonnet packing bore and the stem
+surface Clean as necessary to remove any corrosion,
+Removing any actuation
+foreign matter and minor surface imperfections
+Loosening any packing gland nuts
+5 Install new packing rings (H3) in valve body packing
+Do not pressurize the line without an actuation device properly bore one at a time First the external ring (H2), then
+installed and working on the valve internal rings (H2) and last the second external ring
+(H2)
+6 Reinstall gland ring (H1), anti-blowout retaining ring
+(H5) and gland retainer (H4) Re-install lock washers
+(H7) and nuts (H8) Tighten gland nuts (H8) utilizing
+a cross bolting technique to the proper torque value
+The Tri Lok valve must be in the closed position to be removed
+given in Table 2 (pg 15)
+from the line to prevent damaging the disc seal ring
+7 Reinstall mounting bracket or mounting plate (J1)
+with cap screws and lock washers (J2 & J3) Remount
+When replacing the seat and/or seal ring in a dead-end
+actuation device on top of the mounting bracket
+service, or with the piping on the body seat side removed,
+depressurize the line and partially open the disc before 8 Operate the valve open and closed several times to
+loosening any of the valve trim fasteners check for binding and to set the seal rings Loosen
+gland nuts (H8) and retighten, utilizing a cross bolting
+1 Clean the valve, removing any grit or scale When
+technique, to torque value given in Table 2 (pg 15)
+handling, care should be taken not to scratch the seal
+ring, seat and gasket faces on both sides of the valve 9 Install the key(s) Then mount actuator, paying
+attention that the actuator is properly oriented
+2 Replacement seat, disc seal ring, and other parts are
+available from authorized Tri Lok sales and service
+locations
+10.1 RECOMMENDED LUBRICANTS
+PTFE Thread Lubricant for non-oxygen service
+PTFE Thread Lubricant Krytox GPL226 for oxygen service
+11 | BRAY.COM
+=== page 13 ===
+Tri Lok® Cryogenic Valve
+Installation, Operation and Maintenance Manual
+10.3 Seat Replacement 9 Place a new disc gasket (C3) into the groove on the
+disc face (C1) Place the seal ring alignment pin (C7)
+Refer to parts diagrams (Pgs 7 and 9)
+into the disc Place the seal ring (C2) onto the disc
+It is highly recommended that both the seat (B1) and seal such that the notch is aligned Place the seal retainer
+ring (C2) be replaced at the same time However, individual (C4) over the seal ring Apply PTFE Thread Lubricant
+components are not matched in pairs; and may be replaced to the seal ring retainer cap screws (C5) Install all
+separately if desired disc seal ring retainer cap screws (C5) The seal ring
+retainer cap screws (C5) should be fully threaded into
+the disc (C1), but remain only finger-tight at this time
+Open the valve to approximately 20°
+10 Place the seat gasket (B2) into the groove of the seat
+Exercise extra care when handling the seat and disc seal ring to (B1) Insert the seat (B1) into the body (A1) making
+avoid damage to the sealing surfaces sure the alignment dimples in the seat (B1) and the
+retaining cavity in the body (A1) match Apply PTFE
+1 Close the valve and remove the actuator Place the
+Thread Lubricant to seat retaining cap screws (B3) and
+valve on a flat stable surface with the body seat (B1)
+install the screws (B3) finger-tight
+facing up
+11 Verify that all four alignment marks match (body, seat,
+2 Carefully clean the surface of the seat and remove all
+seal ring and seal ring retainer) and then tighten the
+foreign matter from the hex sockets of seat retaining
+seat retainer cap screws (B3) evenly and firmly using a
+cap screws (B3) Use compressed air to blow out the
+cross bolting technique to the torque specified in Table
+gap between the seat OD and the wall of the retaining
+3 (Pg 15)
+cavity in valve body (A1) Apply a suitable penetrant
+into the gap between the seat OD (B1) and the body 12 Reinstall actuation device and test the valve
+(A1) to help in extracting the seat (B1) from the body
+13 Using a suitable actuator, close and open the valve 2-3
+cavity
+times, only closing the valve to the point where the
+3 Using a wrench, remove all seat retainer set cap screws seal ring engages with the seat Check each time that
+(B3) the disc seal ring makes full contact without torquing
+into the seat Attention should be paid in the closing
+4 Using a hardwood or aluminum drift and a light
+stroke that the seat does not scratch the seal ring This
+hammer, tap the top of the seat (B1) lightly all around
+will allow the seal ring and seat to be properly aligned
+to loosen the seat in the retaining cavity
+14 Close the valve Tighten at least four screws in the
+5 Using full-threaded bolts or suitable threaded rod
+seal ring retainer to prevent the seal ring from further
+matched to the threads in all tapped jacking holes,
+movement Open the valve approximately five degrees
+begin jacking the seat (B1) evenly out from the
+Tighten all seal ring retainer screws (C5) using a cross
+retaining cavity Tap the seat lightly with the drift as
+bolting technique, to the torque specified in Table 3
+necessary to keep it in alignment with the walls of the
+(Pg 15)
+retaining cavity in the body (A1) Remove the seat (B1)
+from the body (A1)
+6 Using non-abrasive tools, carefully clean any
+remnants of old gasket and foreign matter within the
+retaining cavity Blow out all threaded holes and gasket
+grooves with compressed air
+7 Remove the seal ring retainer cap screws (C5) from seal
+ring retainer (C4) Remove disc seal ring retainer (C4)
+If the old seal ring (C2) is to be reinstalled, extract it
+carefully Wipe the seal ring (C2) clean, removing all
+remnants of old gasket and foreign matter Place the
+old seal ring (C2) aside for reinstallation
+8 Using soft tools and a suitable wire brush, carefully
+clean any remnants of old gasket and foreign matter
+from the face of the disc (C1) Blow out all threaded
+holes and the gasket groove with compressed air
+TRI LOK® CRYOGENIC TRIPLE OFFSET VALVE | 12
+=== page 14 ===
+Tri Lok® Cryogenic Valve
+Installation, Operation and Maintenance Manual
+10.4 Seal Ring Replacement 7 Rotate the disc (C1) to its previous position to facilitate
+installation of the seal ring (C2) Place a new seal ring
+Refer to parts diagram (Pg 7, 9)
+gasket (C3) into the groove on the disc face (C1) Place
+the seal ring (C2) onto the disc (C1) making sure the
+alignment line on the disc seal ring matches the locating
+dimple on the disc face Place the seal ring retainer (C4)
+over the seal ring Apply PTFE Thread Lubricant to the
+Exercise extra care when handling the seat and seal ring to seal ring retainer cap screws (C5) Install all seal ring
+avoid damage to the sealing surfaces
+retainer cap screws (C5) The cap screws (C5) should be
+The seal ring (C2) may be replaced in two ways: without fully threaded into the disc (C1), but remain only finger-
+removing the seat (B1); or replacing the seal ring (C2) with tight at this time
+the seat (B1) removed 8 Using a suitable actuator, close and open the valve 2-3
+times, only closing the valve to the point where the seal
+To remove the seal ring (C2) without removing the seat
+ring engages the seat Check each time that the seal
+(B1), the actuation device must be removed and the valve
+ring makes full contact without torquing into the seat
+oriented in a manner that allows access to both sides This
+Attention should be paid in the closing stroke that the
+procedure is not suitable if the seal ring (C2) is to be
+seat does not scratch the seal ring This will allow the
+replaced while the valve is installed in the pipeline. In
+seal ring and seat to be properly aligned
+addition, this procedure is not recommended for large
+valves where manipulating the valve may be more 9 Orient the valve with the seat side facing up Verify that
+difficult than removing the seat (B1) and installing the all four alignment marks (body, seat, seal ring and seal
+seal ring (C2) solely from the seat side of the body. ring retainer) are aligned
+10.4.1.1 Seal ring replacement with the seat 10 Tighten the seal ring retainer cap screws (C5) using a
+in the valve (Class 150/300) cross bolting technique to the torque specified in Table
+3 (Pg 15)
+1 Remove valve from the pipeline Remove the actuator
+from the valve 11 Reinstall operator or actuator and test the valve
+10.4.1.2 Seal ring replacement with the seat
+2 Clean the surface of the valve with compressed air,
+blow out all debris around the seal ring retainer (C4) in the valve (Class 600)
+and clean out the hex sockets of the seal ring retainer
+1 Remove valve from the pipeline Remove the actuator
+cap screws (C5)
+from the valve
+3 Loosen all seal ring retainer cap screws (C5), but leave
+2 Clean the surface of the valve with compressed air,
+them in the valve with the seal ring retainer (C4)
+blow out all debris around the seal ring retainer (C4)
+attached to the disc (C1)
+and clean out the hex sockets of the seal ring retainer
+4 Using a wrench, rotate the valve stem (D1) cap screws (C5)
+counterclockwise past the fully open position far
+3 Loosen all seal ring retainer cap screws (C5), but leave
+enough so the disc is in a position to allow seal ring
+them in the valve with the seal ring retainer (C4)
+retainer and seal ring removal (C2) Be careful not to
+attached to the disc (C1)
+over-rotate the stem (D1) to the point where the seal
+4 Using the appropriate size hex key, completely remove
+ring (C2) or disc edge (C1) contact the body (A1) Make
+the upper set screws (B7) from the seat retaining ring
+sure the packing gland retainer nuts (H8) are tight
+(B3)
+enough to prevent the valve stem (D1) from rotating on
+its own under the eccentric weight of the disc (C1) 5 Below these dowels are seat retainer lower set screws
+(B6) that compress the seat (B1) against the valve body
+5 Remove the seal ring retaining cap screws (C5) and
+Unscrew them until the Seat retainer ring (B5) above
+extract disc seal ring retainer (C4) and the seal ring (C2)
+the retaining ring is free to move Remove the seat
+6 Rotate the disc (C1) as necessary to access the seal
+retainer ring (B5) from the body Carefully clean the
+face on the disc (C1) Using soft tools and suitable wire
+seat retaining ring (B4) and upper set screws (B7)
+brush, carefully clean any remnants of old gasket and
+6 Extract the seat ring retainer (B4), remove the seat
+foreign matter from the face of the disc (C1) Blow
+alignment button (B8) that retains the seat within the
+out all threaded holes and the gasket groove with
+body and then remove the seat (B1)
+compressed air
+13 | BRAY.COM
+=== page 15 ===
+Tri Lok® Cryogenic Valve
+Installation, Operation and Maintenance Manual
+7 Install the new seat gasket (B2), place this seat/gasket 10.4.2 Seal ring replacement with the seat
+sub-assembly into the valve body paying attention that removed from the valve
+the groove of the seat is aligned with the body groove
+This procedure follows the instructions for replacement
+and insert the seat alignment button (B8)
+of the seat (B1) described above If the old seat (B1) is to
+8 Replace set screws if necessary be reused, exercise extra care when extracting it from the
+9 Adjust the seat retaining ring lower dowels (B6) until retaining cavity in the valve body (A1) When using jacking
+they are flush with the bottom of the seat retaining ring bolts to extract the seat, avoid forcing the jack screws
+(B4) Install the seat retaining ring (B4) in its groove in unevenly which could result in permanent deformation
+the body of the seat (B1) If the old seat (B1) is to be reused, make
+absolutely certain that the seat (B1) slides out of the
+10 Using a cross bolting technique, tighten the seat retainer
+retaining cavity easily; in a balanced and level manner
+lower set screws (B5) to 50% of torque specified in
+Table 5 (Pg 16) Once all set screws are tightened to the 10.5 Bottom Plate Gasket Replacement
+same torque, proceed to fully tighten them to 100% of
+Refer to parts diagram (Pg 7, 9)
+the listed torque value
+1 If the valve is installed, remove line pressure
+11 Assemble the seat retaining ring upper dowels (B7) and
+using a cross bolting technique, tighten them according 2 Completely remove the bottom plate screws (G3)
+to the torque specified in Table 5 (Pg 16) Remove the bottom plate (G1) and the bottom plate
+gasket (G2)
+12 Rotate the disc (C1) to its previous position to facilitate
+installation of the seal ring (C2) Place a new disc seal 3 Clean the bearing area of residual gasket and foreign
+gasket (C3) into the groove on the disc face (C1) Be materials
+sure that the new seal ring (C2) is assembled with the 4 Place the new gasket (G2) on the bottom plate (G1)
+seal ring collar (C8) and kept together with the seal ring and install it onto the body
+collar pin (C9) Place the seal ring and collar onto the
+5 Reinstall the bottom plate screws (G3) and using a
+disc making sure the collar groove is aligned with the
+cross bolting technique, tighten them according to the
+seal ring alignment pin (C7) Place the seal ring retainer
+torque specified in Table 3 (Pg 15)
+(C4) over the seal ring Apply PTFE Thread Lubricant to
+the seal ring retainer cap screws (C5) All of the cap
+screws (C5) need to be fully threaded into the disc (C1),
+but remain only finger-tight at this time
+TRI LOK® CRYOGENIC TRIPLE OFFSET VALVE | 14
+=== page 16 ===
+Tri Lok® Cryogenic Valve
+Installation, Operation and Maintenance Manual
+Table 2 - Torque Values for Packing Gland Hex Nuts
+Valve Size Class 150 Class 300 Class 600
+in mm Lb-in Nm Lb-in Nm Lb-in Nm
+3 80 22 2 22 2 CF CF
+4 100 31 4 31 4 CF CF
+6 150 31 4 46 5 51 6
+8 200 35 4 55 6 110 12
+10 250 50 6 60 7 126 14
+12 300 55 6 80 9 254 29
+14 350 80 9 141 16 279 31
+16 400 80 9 254 29 303 34
+18 450 141 16 279 31 328 37
+20 500 141 16 303 34 378 43
+24 600 279 31 328 37 619 70
+28 700 328 37 619 70 CF CF
+30 750 328 37 950 107 CF CF
+32 800 378 43 950 107 CF CF
+36 900 619 70 1046 118 CF CF
+40 1000 950 107 CF CF CF CF
+42 1050 950 107 CF CF CF CF
+48 1200 1046 118 CF CF CF CF
+Table 3 - Torque Values for Seat Retaining Cap Screws and Seal Retainer Cap Screws and Bottom Plate
+Class 150 Class 300 Class 600
+Valve Size Seal Ring Bottom Plate Seal Ring Bottom Plate Seal Ring Bottom Plate Seat Retainer
+Seat Seat Seat
+Retainer Cap Screw Retainer Cap Screw Retainer Cap Screw Set Screw
+in mm Lb-in Nm Lb-in Nm Lb-in Nm Lb-in Nm Lb-in Nm Lb-in Nm Lb-in Nm Lb-in Nm Lb-in Nm Lb-in Nm
+3 80 22 2 19 2 96 11 22 2 19 2 96 11 CF CF CF CF CF CF CF CF
+4 100 55 6 45 5 96 11 55 6 45 5 96 11 CF CF CF CF CF CF CF CF
+6 150 55 6 45 5 96 11 55 6 95 11 171 19 204 23 95 11 422 48 204 23
+8 200 55 6 45 5 96 11 110 12 95 11 171 19 204 23 171 19 848 96 204 23
+10 250 204 23 95 11 171 19 204 23 171 19 422 48 499 56 422 48 848 96 499 56
+12 300 204 23 171 19 171 19 204 23 171 19 422 48 499 56 848 96 1,522 172 499 56
+14 350 204 23 171 19 423 48 204 23 422 48 422 48 499 56 848 96 1,522 172 499 56
+16 400 204 23 171 19 423 48 204 23 422 48 848 96 499 56 848 96 1,522 172 499 56
+18 450 320 36 171 19 423 48 204 23 422 48 848 96 1,008 114 848 96 2,464 278 499 56
+20 500 320 36 422 48 423 48 499 56 422 48 1,522 172 1,008 114 1,522 172 2,464 278 1008 114
+24 600 320 36 422 48 849 96 499 56 848 96 2,464 278 1,008 114 1,522 172 3,703 418 1008 114
+28 700 499 56 848 96 848 96 499 56 848 96 1,522 172
+30 750 499 56 848 96 848 96 499 56 848 96 2,464 278
+32 800 499 56 848 96 1,522 172 499 56 848 96 2,464 278
+36 900 499 56 848 96 1,522 172 499 56 1,522 172 2,464 278 Consult Factory
+40 1000 499 56 848 96 1,522 172 CF CF CF CF CF CF
+42 1050 499 56 848 96 1,522 172 CF CF CF CF CF CF
+48 1200 499 56 848 96 1,522 172 CF CF CF CF CF CF
+*Seat upper dowels require 1/3 the torque of the seat lower dowel fasteners.
+15 | BRAY.COM
+=== page 17 ===
+Tri Lok® Cryogenic Valve
+Installation, Operation and Maintenance Manual
+Table 4 - Torque Values for Bracket/Bonnet Fasteners
+Valve Size Class 150 Class 300 Class 600
+in mm Lb-in Nm Lb-in Nm Lb-in Nm
+3 80 171 19 171 19 CF CF
+4 100 171 19 171 19 CF CF
+6 150 171 19 422 48 848 96
+8 200 171 19 1522 172 1522 172
+10 250 422 48 1522 172 1522 172
+12 300 1522 172 1522 172 848 96
+14 350 1522 172 848 96 1522 172
+16 400 1522 172 848 96 1522 172
+18 450 1522 172 848 96 1522 172
+20 500 1522 172 1522 172 3703 418
+24 600 848 96 1522 172 7473 844
+28 700 1522 172 3703 418
+30 750 1522 172 7473 844
+32 800 3703 418 7473 844
+36 900 3703 418 7473 844 Consult Factory
+40 1000 7473 844 CF CF
+42 1050 7473 844 CF CF
+48 1200 7473 844 CF CF
+US HEADQUARTERS All statements, technical information, and recommendations in this bulletin are for general use only.
+Bray International, Inc. Consult Bray representatives or factory for the specific requirements and material selection for your
+intended application. The right to change or modify product design or product without prior notice is
+13333 Westland East Blvd.
+reserved. Patents issued and applied for worldwide.
+Houston, Texas 77041
+Bray® is a registered trademark of Bray International, Inc.
+Tel: 281.894.5454 © 2021 Bray International, Inc. All rights reserved.
+www.bray.com
+IOM_Tri Lok Cryogenic_09_26_2022

@@ -1,0 +1,66 @@
+=== page 1 ===
+Page 1 of 1
+August 1, 2012
+Series 20/21 Resilient Seated Valve
+Valve Type:
+Bray Series 20 wafer or Series 21 lug or approved
+equal.
+Body:
+• Shall be two-piece wafer or lug design with
+extended neck to allow for 2” of piping insulation.
+• Flange locating holes shall be provided on wafer
+bodies to allow for quick and precise alignment
+during valve installation.
+• Flange hole drilling per international flange
+standard as specified.
+• A non-corrosive bushing and a self-adjusting stem
+seal shall be provided. No field adjustment shall
+be necessary to maintain optimum field
+performance.
+Disc-Stem:
+• Shall be of one-piece, high capacity design.
+• No part of the stem shall be exposed to the line
+media.
+• If a PTFE or rubber-covered disc-stem is required,
+the entire disc base material must be
+encapsulated with no part of the disc or stem
+exposed to the line media.
+All PTFE Seated Series 20 and Series 21 Valves
+• Disc edge and hub on metal discs shall be
+(with Standard Disc):
+spherically machined and hand polished for
+• Metal Disc 2”-20” (50mm-500mm)
+minimum torque and maximum sealing capability.
+150 psi (10.3 Bar)
+Seat:
+• PTFE Molded Disc 2”-20” (50mm-500mm)
+• Shall be tongue-and-groove seat with a primary
+100 psi (7 Bar)
+hub seal and a molded flange O-ring suitable for
+weld-neck and slip-on flanges.
+Dead-End Service
+• The seat shall totally encapsulate the body
+(No downstream flanges and disc in closed
+isolating it from the line media and no flange
+position):
+gaskets shall be required.
+Testing:
+All Series 21 Valves:
+• Valve shall be tested to 110% of the rated
+• 1”-12” (25mm-300mm) 75 psi (5.2 Bar)
+pressure.
+• 14”-20” (350mm-500mm) 50 psi (3.4 Bar)
+Pressure Ratings:
+Valve shall be rated for bubble-tight shut-off at pressure
+Approvals & Certifications:
+rating shown below.
+• CE/PED Certification
+Bi-directional Service • NSF/ANSI 61-2008 Certification (Potable Water)
+(With downstream flanges and disc in closed • SIL Certification
+position): • ABS Certification
+All Resilient Seated Series 20 and Series 21 • Bureau Veritas Certification
+Valves (with Standard Disc): • DNV
+• Metal Disc-Stem 1”-20” (25mm-500mm)
+150 psi (10.3 Bar)
+• Resilient Molded Disc 2”-20” (50mm-500mm)
+100 psi (7.0 Bar)

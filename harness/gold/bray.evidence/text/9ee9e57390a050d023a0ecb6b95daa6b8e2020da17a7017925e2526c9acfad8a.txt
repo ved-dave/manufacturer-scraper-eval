@@ -1,0 +1,1265 @@
+=== page 1 ===
+TRI LOK
+TRIPLE OFFSET VALVES
+TECHNICAL SALES MANUAL
+BRAY.COM THE HIGH PERFORMANCE COMPANY
+=== page 2 ===
+TECHNICAL MANUAL
+CERTIFICATIONS
+American Bureau of Shipping
+National Association of Corrosion Engineers
+EXIDA - Safety Integrity Level (SIL)
+Lloyd’s Register - LRQA - ISO 9001
+Conformité Européenne - European Conformity
+American Petroleum Institute
+Bureau Veritas - Testing, Inspection and Certification
+TÜV Rheinland - Materials Testing and Inspection
+Page 2 | Technical Manual
+=== page 3 ===
+TECHNICAL MANUAL
+TABLE OF CONTENTS Page
+Valve Part Numbering System 4
+Recommended Valve Installation 5
+Actuator & Gear Orientations 6
+Class 150 8
+Overall Dimen-
+Class 300 10
+sions & Weights
+Class 600 12
+Diagram 13
+Class 150 14
+Disc Protrusion
+Class 300 15
+Class 600 16
+Flow Capacity (Cv / Kv) 17
+Charts 18
+Pressure ASTM A216 WCB 19
+Temperature
+Ratings ASTM A351 CF8M 20
+ASTM A352 LCB 21
+Sample Diagram 22
+Wafer 23
+Lug 24
+Class 150
+Double Flange 25
+Gate 26
+Flange Bolting
+Wafer 27
+Lug 28
+Class 300
+Double Flange 29
+Gate 30
+Class 600 Double Flange 30
+Technical Manual | Page 3
+=== page 4 ===
+TECHNICAL MANUAL
+VALVE PART NUMBERING SYSTEM
+SERIES SIZE TRI LOK BASE NUMBER TRIM CODE:
+XX XXXX 110XX XXX
+1. Body Style
+5. Trim Code
+L Lug 4. Body Drilling
+Body ASTM A216 WCB
+Double ASME B16.5 or B16.47 Body Seat Nitrided Stainless Steel
+F
+Flanged 11075* Series A Class 150 & 4R5 Disc ASTM A216 WCB
+300 Seal Ring ASTM A240 UNS S31803 + Graphite
+G Gate Body
+ASME B16.47 Series B Stem ASTM A564-Type 630 H1150D**
+1101B*
+W Wafer Body Class 150 & 300 Body ASTM A216 WCB
+Body Seat Nitrided Stainless Steel
+110EZ* ASME B16.5 Class 600
+4D6 Disc ASTM A216 WCB
+Factory mounted Seal Ring ASTM A240 UNS S31803 + Graphite
+110G0
+gear Stem ASTM A182 Gr. F6A-Type 410
+2. ASME Class
+Body ASTM A216 WCB
+0 150 Body Seat Nitrided Stainless Steel
+4K4†
+3. Size in inches
+Disc ASTM A351 CF8M
+1 300
+0300 3” Seal Ring ASTM A240 UNS S31803 + Graphite
+2 600 Stem ASTM A564-Type 630 H1150D**
+0400 4”
+Body ASTM A216 WCB
+0600 6”
+Body Seat Nitrided Stainless Steel
+0800 8” 4C9† Disc ASTM A351 CF8M
+1000 10” Seal Ring ASTM A240 UNS S31803 + Graphite
+Example: Stem ASTM A479-XM 19
+1200 12”
+Body ASTM A351 CF8M
+L1-1800-11075-09K 1400 14” Body Seat Nitrided Stainless Steel
+1600 16” 09K Disc ASTM A351 CF8M
+18 inch, Lug body, ASME 1800 18” Seal Ring ASTM A240 UNS S31803 + Graphite
+Class 300 Tri Lok Valve Stem ASTM A564-Type 630 H1150D**
+2000 20”
+with 09K trim. Body ASTM A351 CF8M
+2400 24”
+Body Seat Nitrided Stainless Steel
+2800 28” 09L Disc ASTM A351 CF8M
+3000 30” Seal Ring ASTM A240 UNS S31803 + Graphite
+Stem ASTM A479-XM 19
+† Maximum application 3200 32”
+Body ASTM A352 LCB
+temperature dependent on size.
+3600 36” Body Seat Nitrided Stainless Steel
+3" & 4" WCB - 800°F (425°C), LCB 650°F
+(343°C) 4000 40” 4T6 Disc ASTM A352 LCB
+6" - 12" 482°F (250°C) 4200 42” Seal Ring ASTM A240 UNS S31803 + Graphite
+14" & 16" 392°F (200°C) Stem ASTM A564-Type 630 H1150D**
+4800 48”
+18" - 24" 302°F (150°C) Body ASTM A352 LCB
+Body Seat Nitrided Stainless Steel
+4T7† Disc ASTM A351 CF8M
+*Bare stem valves to be actuated
+Seal Ring ASTM A240 UNS S31803 + Graphite
+*at a Bray authorized facility.
+Stem ASTM A564-Type 630 H1150D**
+**Not suitable above 600ºF (315ºC)
+Body ASTM A352 LCB
+Body Seat Nitrided Stainless Steel
+4T8† Disc ASTM A351 CF8M
+Seal Ring ASTM A240 UNS S31803 + Graphite
+Stem ASTM A479-XM 19
+Page 4 | Technical Manual
+=== page 5 ===
+TECHNICAL MANUAL
+RECOMMENDED VALVE INSTALLATION
+7700ºº
+Tri Lok recommends that the valve should be
+installed with the shaft horizontal or at least de-
+clined from
+vertical. This shaft orientation is beneficial to
+reduce the possibility of solid particles within the
+media depositing in the bearing areas.
+Technical Manual | Page 5
+=== page 6 ===
+TECHNICAL MANUAL
+Preferred Flow
+ACTUATOR ORIENTATIONS
+stem on the upstream (Pressure Side)
+2H
+Standard
+5H
+9H
+13H
+Page 6 | Technical Manual
+=== page 7 ===
+TECHNICAL MANUAL
+Preferred Flow
+GEAR ORIENTATIONS
+stem on the upstream (Pressure Side)
+A
+B
+C
+Standard
+D
+Technical Manual | Page 7
+=== page 8 ===
+TECHNICAL MANUAL
+CLASS 150 OVERALL DIMENSIONS - IMPERIAL
+Inches FACE TO FACE DIMENSIONS (in.) WEIGHT (lb)
+Dimensions (in.)
+Wafer & Double
+Size Gate
+Lug Flanged Double
+Gear Wafer Lug Gate
+Flanged
+NPS B B B D E G H J
+3 1.88 4.50 8.00 4.27 8.40 2.05 9.45 8.00 12 17 18 34 40
+4 2.12 5.00 9.00 4.68 9.15 2.05 9.45 8.00 12 22 27 45 55
+6 2.25 5.50 10.50 5.85 9.90 2.05 9.45 8.00 12 36 42 67 87
+8 2.50 6.00 11.50 7.12 11.15 2.05 10.53 12.00 12 57 64 104 132
+10 2.81 6.50 13.00 8.66 12.40 2.63 10.86 24.00 18 94 110 159 203
+12 3.19 7.00 14.00 10.23 14.22 3.53 11.52 24.00 32 132 156 232 306
+14 3.62 7.50 15.00 11.44 15.97 3.53 13.41 30.00 32 200 228 325 419
+16 4.00 8.50 16.00 12.75 19.72 6.06 15.08 24.00 91 303 360 498 588
+18 4.50 8.75 17.00 14.48 21.97 6.06 16.45 30.00 91 449 490 633 732
+20 5.00 9.00 18.00 15.48 24.72 6.06 17.45 36.00 91 551 648 777 907
+24 6.06 10.50 20.00 17.18 27.10 7.28 17.H26 H18.00 185 886 1010 1208 134H6 H H H
+30 7.50 12.52 24.00 21.67 34.25 2.77 22.59 24.00 400 1660 1836 1933 2449
+32 7.50 12.52 N/A 22.90 35.50 2.77 24.48 30.00 400 N/A 2298 2398 N/A
+36 8.25 12.99 N/A 25.62D 40D.0E6 4E.91 23.58 18.00 649D 2446 D E2829 E 2978 N/A D D E E
+40 9.88 16.14 N/A 28.00 44.06 4.91 24.83 24.00 649 N/A 3688 3988 N/A
+42 9.88 16.14 N/A 29.76 45.06 4.91 24.83 24.00 649 3510 4140 4320 N/A
+G G G G B B G G
+B B B B
+48 10.88 18.50 N/A 32.49 52.32 4.80 0J37.05 0J 18.00 1753 4810 5290 5750 0J N/A 0J 0J 0J
+Lug Wafer
+Notes:
+API 609 Table 3A API 609 Table 3A
+1. Face to face dimensions are in strict accor-
+dance with the lastest edition of the stated
+standards.
+2. Flange/end connections are in strict accor-
+dance with ASME B16.5 or ASME B16.47.
+H H H H
+3. Please consult your Bray Representative for
+available sizes, classes and end connections
+for table values shown as “N/A”.
+D D E E D D E E
+G G G G
+B B B B
+0J 0J 0J 0J
+Page 8 | Technical Manual
+=== page 9 ===
+TECHNICAL MANUAL
+CLASS 150 OVERALL DIMENSIONS - METRIC
+mm FACE TO FACE DIMENSIONS (mm) WEIGHT (kg)
+Dimensions (mm)
+Wafer & Double
+Size Gate
+Lug Flanged Double
+Gear Wafer Lug Gate
+Flanged
+DN B B B D E G H J
+80 48 114 203 108 213 52 240 200 6 8 8 15 18
+100 54 127 229 119 233 52 240 200 6 10 12 20 25
+150 57 140 267 149 252 52 240 200 6 16 19 30 39
+200 64 152 292 181 283 52 267 300 6 26 29 47 60
+250 71 165 330 220 315 67 276 600 8 43 50 72 92
+300 81 178 356 260 361 90 293 600 15 60 71 105 139
+350 92 191 381 291 406 90 341 750 15 91 103 147 190
+400 102 216 406 324 501 154 383 600 41 137 163 226 267
+450 114 222 432 368 558 154 418 750 41 204 222 287 332
+500 127 229 457 393 628 154 443 900 41 250 294 352 411
+600 154 267 508 436 688 185 438 450 84 402 458 548 611
+750 191 318 610 550 870 70 574 600 182 753 833 877 1111
+800 191 318 N/A 582 902 70 622 750 182 N/A 1042 1088 N/A
+900 210 330 N/A 651 1018 125 599 450 294 1109 1283 1351 N/A
+1000 251 410 N/A 711 1119 125 631 600 294 N/A 1673 1809 N/A
+1050 251 410 N/A 756 1145 125 631 600 294 1592 1878 1960 N/A
+1200 276 470 N/A 825 1329 122 941 450 795 2182 2400 2608 N/A
+Double Flanged Gate
+API 609 Table 3C API 609 Table 3B Notes:
+1. Face to face dimensions are in strict accordance
+ISO 5752 Col. 13 ASME B16.10 with the lastest edition of the stated standards.
+2. Flange/end connections are in strict accordance
+with ASME B16.5 or ASME B16.47.
+H H H H 3. PHlease consult your Bray Representative for H
+available sizes, classes and end connections for
+table values shown as “N/A”.
+D E D ED E D DE E D E
+G G G B G G B G
+B B B B
+0J 0J 0J 0J 0J 0J
+Technical Manual | Page 9
+H H H H
+D E D ED E D E
+G G G G
+B B B B
+0J 0J 0J 0J
+=== page 10 ===
+TECHNICAL MANUAL
+CLASS 300 OVERALL DIMENSIONS - IMPERIAL
+Inches FACE TO FACE DIMENSIONS (in.) WEIGHT (lb)
+Dimensions (in.)
+Wafer & Double
+Size Gate
+Lug Flanged Double
+Gear Wafer Lug Gate
+Flanged
+NPS B B B D E G H J
+3 1.88 4.50 11.12 4.27 8.40 2.05 9.45 8.00 12 17 24 34 53
+4 2.12 5.00 12.00 4.68 9.15 2.05 9.45 8.00 12 22 31 45 79
+6 2.31 5.50 15.88 7.00 10.90 2.63 9.61 18.00 18 47 56 67 153
+8 2.88 6.00 16.50 8.34 12.22 3.53 11.52 24.00 32 83 99 104 242
+10 3.25 6.50 18.00 9.59 13.47 6.06 16.45 30.00 91 120 149 149 353
+12 3.62 7.00 19.75 11.37 15.97 6.06 16.45 30.00 91 184 243 243 531
+14 4.62 7.50 30.00 12.43 20.36 5.74 17.15 24.00 98 294 420 420 891
+16 5.25 8.50 33.00 14.09 24.60 7.28 18.51 24.00 185 444 595 590 1222
+18 5.88 8.75 36.00 14.94 24.60 7.28 18.51 24.00 185 589 800 800 1563
+20 6.25 9.00 39.00 16.04 26.50 2.77 24.48 30.00 400 732 989 985 1939
+24 7.12 10.50 45.00 18.73 30.50 2.77 22.59H 24.0H0 400 1188 1632 1632 30H22 H H H
+30 9.00 12.52 N/A 23.93 40.81 4.91 24.83 24.00 649 2489 3279 2849 N/A
+36 10.67 12.99 N/A 27.25 47.82 4.80 38.30 24.00 1753 3634 4958 4079 N/A
+42 13.00 16.14 N/A 28.70 49.82 4.80 38.30 24.00 1753 N/A 5345 6107 N/A
+D D E E D D E E D D E E
+48 15.00 18.50 N/A 33.24 54.82 4.80 38.30 24.00 1753 N/A 6150 7595 N/A
+G G G G B B G G
+B B B B
+0J 0J 0J 0J 0J 0J
+Lug Wafer
+Notes:
+API 609 Table 3A API 609 Table 3A
+1. Face to face dimensions are in strict accordance
+with the lastest edition of the stated standards.
+2. Flange/end connections are in strict accordance
+with ASME B16.5 or ASME B16.47.
+3. Please consult your Bray Representative for H H H H
+available sizes, classes and end connections for
+table values shown as “N/A”.
+D D E E D D E E
+G G G G
+B B B B
+0J 0J 0J 0J
+Page 10 | Technical Manual
+=== page 11 ===
+TECHNICAL MANUAL
+CLASS 300 OVERALL DIMENSIONS - METRIC
+mm FACE TO FACE DIMENSIONS (mm) WEIGHT (kg)
+Dimensions (mm)
+Wafer & Double
+Size Gate
+Lug Flanged Double
+Gear Wafer Lug Gate
+Flanged
+DN B B B D E G H J
+80 48 114 282 108 213 52 240 200 6 8 11 15 24
+100 54 127 305 132 233 52 240 200 6 10 14 20 36
+150 59 140 403 178 277 67 244 450 8 21 25 30 69
+200 73 152 419 212 310 90 293 600 15 38 45 47 110
+250 83 165 457 244 342 154 418 750 41 54 68 68 160
+300 92 178 502 289 406 154 418 750 41 83 110 110 241
+350 117 191 762 316 517 146 436 600 44 133 191 191 404
+400 133 216 838 358 625 185 470 600 84 201 270 268 554
+450 149 222 914 379 625 185 470 600 84 267 363 363 709
+500 159 229 991 407 673 70 622 750 182 332 449 447 880
+600 181 267 1143 476 775 70 574 600 182 539 740 740 1371
+750 229 318 N/A 608 1037 125 631 600 294 1129 1487 1293 N/A
+900 271 330 N/A 692 1215 122 973 600 795 1648 2248 1850 N/A
+1050 330 410 N/A 729 1265 122 973 600 795 N/A 2424 2770 N/A
+1200 381 470 N/A 844 1392 122 973 600 795 N/A 2790 3445 N/A
+Double Flanged Gate
+API 609 Table 3C API 609 Table 3B Notes:
+1. Face to face dimensions are in strict accordance
+ISO 5752 Col. 13 ASME B16.10 with the lastest edition of the stated standards.
+2. Flange/end connections are in strict accordance
+with ASME B16.5 or ASME B16.47.
+H H H H 3. HPlease consult your Bray Representative for H
+available sizes, classes and end connections for
+table values shown as “N/A”.
+D E D D E E D D E E D E
+G G G B G G B G
+B B B B
+0J 0J 0J 0J 0J 0J
+Technical Manual | Page 11
+H H H H
+D E D D E E D E
+G G G G
+B B B B
+0J 0J 0J 0J
+=== page 12 ===
+TECHNICAL MANUAL
+CLASS 600 OVERALL DIMENSIONS
+Face to Face to
+Face Face
+Inches WEIGHT (lb) mm WEIGHT (kg)
+Dimensions Dimensions
+(in.) Dimensions (in.) (mm) Dimensions (mm)
+Double Double
+Size Size
+Flanged Double Flanged Double
+Gear Gear
+Flanged Flanged
+NPS B D E G H J DN B D E G H J
+4 7.48 6.22 15.78 2.63 8.42 10.00 18 130 100 190 158 376 67 214 254 8 59
+6 8.27 10.00 18.15 3.54 15.71 10.00 98 240 150 210 254 461 90 399 254 44 109
+8 9.06 11.27 19.69 3.54 15.71 14.00 98 361 200 230 286 500 90 399 356 44 164
+10 9.84 13.62 24.65 4.24 20.70 14.00 185 638 250 250 346 626 108 526 356 84 289
+12 10.63 14.71 26.56 2.77 22.03 14.00 400 783 300 270 374 675 70 560 356 182 355
+14 11.42 16.00 28.13 2.77 22.03 18.00 400 987 350 290 406 715 70 560 457 181 448
+16 12.20 17.64 30.75 2.77 23.28 24.00 400 1316 400 310 448 781 70 591 610 181 597
+18 13.00 19.32 35.06 4.91 25.50 24.00 650 1740 450 330 491 891 125 648 610 295 789
+20 13.78 22.01 38.29 4.91 27.00 30.00 650 2370 500 350 559 973 125 686 762 295 1075
+24 15.35 25.31 45.80 4.81 37.20 18.00 1754 3250 600 390 643 1164 122 945 457 796 1474
+Double Flanged Notes:
+1. Face to face dimensions are in strict accordance with the lastest
+API 609 Table 3C , ISO 5752 Col. 14
+edition of the stated standards.
+2. Flange/end connections are in strict accordance with ASME B16.5 or
+ASME B16.47.
+3. Please consult your Bray Representative for available sizes, classes
+H H H
+and end connections for table values shown as “N/A”.
+D E D E D E
+G G B G
+B B
+0J 0J 0J
+H H
+Page 12 | Technical Manual
+D E D E
+G G
+B B
+0J 0J
+=== page 13 ===
+TECHNICAL MANUAL
+DISC PROTRUSION DIMENSIONS
+ØE
+ØC
+A
+L
+B
+ØD
+Technical Manual | Page 13
+=== page 14 ===
+TECHNICAL MANUAL
+CLASS 150 DISC PROTRUSION DIMENSIONS
+VALVE
+A B L ØC ØD ØE
+SIZE
+in mm in mm in mm in mm in mm in mm in mm
+3 80 0.2 4 0.5 13 2.0 50 1.1 28 2.3 58 3.8 97
+4 100 0.5 13 1.0 25 2.1 54 2.3 58 3.3 84 4.8 122
+WAFER/LUG 6 150 1.4 36 1.9 48 2.3 57 4.6 117 5.3 135 6.7 170
+8 200 2.2 55 2.7 69 2.5 64 6.3 160 7.0 178 8.7 221
+API 609 Table 3A
+10 250 3.1 78 3.6 91 2.8 71 8.3 211 8.9 226 10.9 277
+12 300 3.9 100 4.4 112 3.2 81 10.3 262 10.9 277 12.9 328
+14 350 4.3 109 4.9 124 3.6 92 11.4 290 12.1 307 14.1 358
+16 400 5.0 128 5.8 147 4.0 103 13.3 338 14.1 358 16.2 411
+18 450 5.8 146 6.5 165 4.5 115 14.9 378 15.9 404 18.2 462
+20 500 6.5 165 7.3 185 5.0 127 16.8 427 17.7 450 20.2 513
+24 600 8.3 211 8.6 218 6.1 154 20.8 528 21.5 546 24.3 617
+30 750 10.5 268 10.8 274 7.5 191 26.2 665 26.9 683 30.3 770
+32 800 11.6 295 12.0 305 7.5 191 28.3 719 29.1 739 32.3 820
+36 900 13.1 333 13.9 353 8.3 210 31.9 810 33.1 841 36.3 922
+40 1000 14.7 374 14.7 373 9.9 251 35.8 909 36.6 930 40.3 1024
+42 1050 15.7 400 15.8 401 9.9 251 37.7 958 38.7 983 42.3 1074
+48 1200 18.2 462 18.7 475 10.9 276 43.5 1105 44.6 1133 48.3 1227
+3 80 0.2 5 0 0 4.5 114 1.1 28 0 0 3.8 97
+4 100 0.5 13 0 0 5.0 127 2.3 58 0 0 4.8 122
+6 150 1.4 36 0 0 5.5 140 4.6 117 0 0 6.7 170
+8 200 2.2 56 0 0 6.0 152 6.3 160 0 0 8.7 221
+DOUBLE
+10 250 3.1 79 0 0 6.5 165 8.3 211 0 0 10.9 277
+FLANGE
+12 300 3.9 99 0.3 8 7.0 178 10.3 262 4.3 109 12.9 328
+14 350 4.3 109 0.7 18 7.5 191 11.4 290 6.1 155 14.1 358
+API 609 Table 3C,
+16 400 5.0 127 1.0 25 8.5 216 13.3 338 7.7 196 16.2 411
+ISO 5752 COL.13
+18 450 5.8 147 2.0 51 8.8 222 14.9 378 10.6 269 18.2 462
+20 500 6.5 165 3.0 76 9.0 229 16.8 427 13.4 340 20.2 513
+24 600 8.3 211 3.9 99 10.5 267 20.8 528 16.7 424 24.3 617
+30 750 10.5 267 5.5 140 12.5 318 26.2 665 21.8 554 30.3 770
+32 800 11.6 295 6.6 168 12.5 318 28.1 714 24.4 620 32.3 820
+36 900 13.1 333 8.8 224 13.0 330 31.9 810 29.3 744 36.3 922
+40 1000 14.7 373 8.0 203 16.1 410 35.8 909 30.4 772 40.3 1024
+42 1050 15.7 399 9.1 231 16.1 410 37.7 958 33.0 838 42.3 1074
+48 1200 18.6 472 10.1 257 18.5 470 43.6 1107 37.3 947 48.3 1227
+3 80 0 0 0 0 8.0 203 0 0 0 0 3.8 97
+4 100 0.1 3 0 0 9.0 229 1.0 25 0 0 4.8 122
+GATE
+6 150 0.1 3 0 0 10.5 267 1.4 36 0 0 6.7 170
+8 200 0.1 3 0 0 11.5 292 1.7 43 0 0 8.7 221
+API 609 Table 3B,
+ASME B16.10 10 250 0.1 3 0 0 13.0 330 1.9 48 0 0 10.9 277
+12 300 0.1 3 0 0 14.0 356 2.3 58 0 0 12.9 328
+14 350 0.1 3 0 0 15.0 381 2.4 61 0 0 14.2 361
+16 400 0.2 5 0 0 16.0 406 2.9 74 0 0 16.2 411
+18 450 0.2 5 0 0 17.0 432 3.1 79 0 0 18.2 462
+20 500 0.2 5 0 0 18.0 457 3.3 84 0 0 20.2 513
+24 600 2.0 51 0 0 20 508 12.2 310 0 0 24.3 617
+30 750 3.7 94 0 0 24.0 610 18.1 460 0 0 30.3 770
+Valves listed are for maximum protrusion, due to offsets disc may or may not be at 90º angle for this to occur.
+“0” indicates no protrusion beyond flange face. Consult your Bray Representative for Sizes and ASME Classes Not Listed.
+Page 14 | Technical Manual
+=== page 15 ===
+TECHNICAL MANUAL
+CLASS 300 DISC PROTRUSION DIMENSIONS
+VALVE
+A B L ØC ØD ØE
+SIZE
+in mm in mm in mm in mm in mm in mm in mm
+3 80 0.2 5 0.5 13 2.1 53 1.2 30 2.5 64 4.1 104
+WAFER/LUG 4 100 0.5 13 1.0 25 2.3 58 2.5 64 3.6 91 5.2 132
+6 150 1.2 30 1.8 46 2.5 64 4.5 114 5.4 137 7.2 183
+API 609 Table 3A
+8 200 1.8 46 2.4 61 3.1 79 6.4 163 7.3 185 9.4 239
+10 250 2.7 69 3.4 86 3.5 89 8.7 221 9.6 244 11.7 297
+12 300 3.6 91 4.3 109 3.9 99 10.8 274 11.7 297 13.8 351
+14 350 3.8 97 4.1 104 5.0 127 11.8 300 12.4 315 15.2 386
+16 400 4.5 114 4.8 122 5.6 142 13.8 351 14.6 371 17.4 442
+18 450 5.3 135 5.5 140 6.3 160 15.8 401 16.4 417 19.5 495
+20 500 6.1 155 6.3 160 6.7 170 17.8 452 18.4 467 21.7 551
+24 600 7.7 196 8.0 203 7.7 196 21.9 556 22.7 577 26.1 663
+30 750 9.8 249 10.1 257 9.7 246 28.0 711 28.7 729 32.5 826
+36 900 11.8 300 12.5 318 11.5 292 33.5 851 35.0 889 36.7 932
+42 1050 14.3 363 13.7 348 14.0 356 39.6 1006 40.3 1024 43.2 1097
+48 1200 16.5 419 15.7 399 16.1 409 45.6 1158 46.4 1179 49.6 1260
+3 80 0.2 5 0 0 4.8 122 1.2 30 0 0 4.1 104
+4 100 0.5 13 0 0 5.4 137 2.5 64 0 0 5.2 132
+6 150 1.2 30 0 0 5.9 150 4.5 114 0 0 7.2 183
+DOUBLE
+8 200 1.8 46 0 0 6.4 163 6.4 163 0 0 9.4 239
+FLANGE
+10 250 2.7 69 0 0 7.0 178 8.7 221 0 0 11.7 297
+12 300 3.6 91 0.7 18 7.5 191 10.8 274 6.2 157 13.8 351
+API 609 Table 3C,
+14 350 3.8 97 1.0 25 8.1 206 11.8 300 7.7 196 15.2 386
+ISO 5752 COL.13
+16 400 4.5 114 1.4 36 9.1 231 13.8 351 9.4 239 17.4 442
+18 450 5.3 135 2.4 61 9.4 239 15.8 401 12.5 318 19.5 495
+20 500 6.1 155 3.4 86 9.7 246 17.7 450 15.2 386 21.7 551
+24 600 7.7 196 4.3 109 11.3 287 21.9 556 18.8 478 26.1 663
+30 750 9.8 249 6.3 160 13.5 343 28.0 711 25.0 635 32.5 826
+36 900 11.8 300 10 254 14.0 356 33.5 851 33.0 838 39.0 991
+42 1050 14.3 363 10.3 262 17.4 442 39.6 1006 37.1 942 45.4 1153
+48 1200 16.5 419 12.0 305 19.9 505 45.6 1158 42.9 1090 51.9 1318
+3 80 0 0 0 0 12.0 305 0 0 0 0 4.1 104
+GATE 4 100 0.1 3 0 0 12.9 328 1.1 28 0 0 5.2 132
+6 150 0 0 0 0 17.1 434 0 0 0 0 7.2 183
+API 609 Table 3B, 8 200 0 0 0 0 17.7 450 0 0 0 0 9.4 239
+ASME B16.10
+10 250 0 0 0 0 19.4 493 0 0 0 0 11.7 297
+12 300 0 0 0 0 21.2 538 0 0 0 0 13.8 351
+14 350 0 0 0 0 32.3 820 0 0 0 0 15.2 386
+16 400 0 0 0 0 35.5 902 0 0 0 0 17.4 442
+18 450 0 0 0 0 38.7 983 0 0 0 0 19.5 495
+20 500 0.3 8 0 0 41.9 1064 4.7 119 0 0 21.7 551
+24 600 0.3 8 0 0 48.4 1229 5.3 135 0 0 26.1 663
+Valves listed are for maximum protrusion, due to offsets disc may or may not be at 90º angle for this to occur.
+“0” indicates no protrusion beyond flange face. Consult your Bray Representative for Sizes and ASME Classes Not Listed.
+Technical Manual | Page 15
+=== page 16 ===
+TECHNICAL MANUAL
+CLASS 600 DISC PROTRUSION DIMENSIONS
+VALVE
+A B L ØC ØD ØE
+SIZE
+in mm in mm in mm in mm in mm in mm in mm
+4 100 0 0 0 0 7.48 190 0 0 0 0 4.62 117
+6 150 0 0 0 0 8.27 210 0 0 0 0 6.72 171
+DOUBLE
+FLANGE 8 200 0 0 0 0 9.06 230 0 0 0 0 8.72 221
+API 609 Table 3C, 10 250 0 0 0 0 9.84 250 0 0 0 0 10.75 273
+ISO 5752 COL.14
+12 300 0.1 2 0.5 13 10.63 270 4.25 108 5.0 127 12.75 324
+14 350 0.3 7 0.7 18 11.42 290 5.85 149 6.2 157 14.14 359
+16 400 0.7 17 1.1 28 12.20 310 8.00 203 8.1 206 16.16 410
+18 450 1.3 33 1.7 42 13.00 330 10.10 257 10.3 262 18.18 462
+20 500 1.7 43 2.3 58 13.78 350 12.10 307 12.3 312 20.2 513
+24 600 2.6 65 3.3 84 15.35 390 15.46 393 15.72 399 24.25 616
+Valves listed are for maximum protrusion, due to offsets disc may or may not be at 90º angle for this to occur.
+“0” indicates no protrusion beyond flange face. Consult your Bray Representative for Sizes and ASME Classes Not Listed.
+Page 16 | Technical Manual
+=== page 17 ===
+TECHNICAL MANUAL
+FLOW CAPACITY (Cv/Kv)
+VALVE
+CLASS 150 CLASS 300 CLASS 600
+SIZE
+Preferred Non-Preferred Preferred Non-Preferred Preferred Non-Preferred
+(Shaft Side) (Disc Side) (Shaft Side) (Disc Side) (Shaft Side) (Disc Side)
+in mm Curve 1 Curve 2 Curve 1 Curve 2 Curve 1 Curve 2
+Cv Kv Cv Kv Cv Kv Cv Kv Cv Kv Cv Kv
+3 80 95 82 81 70 95 82 81 70 N/A N/A N/A N/A
+4 100 124 107 119 103 124 107 119 103 89 77 80 69
+6 150 485 420 413 357 475 411 398 344 445 385 432 374
+8 200 1,127 975 989 855 1,105 956 950 822 681 589 647 560
+10 250 2,605 2,253 2,215 1,916 1,870 1,618 1,758 1,521 1,177 1,018 1,195 1,034
+12 300 3,515 3,040 3,281 2,838 2,862 2,476 2,696 2,332 2,128 1,841 1,974 1,708
+14 350 5,542 4,794 4,711 4,075 4,145 3,585 3,911 3,383 2,864 2,477 2,854 2,469
+16 400 6,548 5,664 5,566 4,815 5,626 4,866 5,329 4,610 3,597 3,111 3,613 3,125
+18 450 8,218 7,109 6,986 6,043 7,413 6,412 6,850 5,925 4,933 4,267 4,858 4,202
+20 500 10,805 9,346 9,184 7,944 9,396 8,128 9,032 7,813 5,838 5,050 5,859 5,068
+24 600 16,542 14,309 15,964 13,809 14,357 12,419 13,670 11,825 9,059 7,836 8,522 7,372
+30 750 26,183 22,648 25,054 21,672 24,269 20,993 23,222 20,087 14,523 12,562 13,906 12,029
+32 800 29,791 25,769 28,550 24,696 28,172 24,369 26,998 23,353 N/A N/A N/A N/A
+36 900 37,967 32,841 36,492 31,566 32,139 27,800 30,847 26,683 19,998 17,298 19,996 17,297
+40 1000 46,872 40,544 45,177 39,078 40,586 35,106 39,065 33,791 N/A N/A N/A N/A
+42 1050 51,643 44,671 49,842 43,113 45,250 39,141 43,614 37,726 N/A N/A N/A N/A
+48 1200 67,797 58,644 65,676 56,810 60,487 52,321 58,524 50,623 N/A N/A N/A N/A
+1) To find Cv at varying opening angles, use curves specified in heading.
+2) Please contact your Bray Representative for valves shown as “N/A”.
+CURVE 1 - Preferred Flow Direction (Shaft Side).
+CURVE 2 - Non - Preferred Flow Direction (Disc Side).
+Technical Manual | Page 17
+)vK(
+vC
+DETAR
+%
+Rated Cv/Kv Chart for Tri Lok Valves at Full Open Position
+=== page 18 ===
+TECHNICAL MANUAL
+800
+700
+600
+500
+400
+300
+200
+100
+0
+-50
+Page 18 | Technical Manual
+F°
+erutarepmeT
+200
+100
+0
+-46
+C°
+erutarepmeT
+800
+700
+600
+500
+400
+300
+200
+100
+0
+-20
+Body Material ASTM A352 LCB
+Pressure Bar
+0 20 40 60 80 100
+400
+300
+CLASS CLASS 300 CLASS 600
+150
+0 200 400 600 800 1000 1200 1400 1600
+Pressure psig
+F°
+erutarepmeT
+200
+100
+0
+-29
+C°
+erutarepmeT
+Body Material ASTM A216 WCB
+Pressure Bar
+0 20 40 60 80 100
+400
+CLASS 300 CLASS 600 300
+CLASS
+150
+0 200 400 600 800 1000 1200 1400 1600
+Pressure psig
+Body Material ASTM A351 CF8M
+800
+700
+600
+500
+400
+300
+200
+100
+0
+-100
+-200
+-320
+F°
+erutarepmeT 200
+100
+0
+C°
+erutarepmeT
+PRESSURE TEMPERATURE RATING CHARTS
+Pressure Bar
+0 20 40 60 80 100
+500
+900
+400
+300
+CLASS 300 CLASS 600
+CLASS
+150
+-100
+-196
+0 200 400 600 800 1000 1200 1400 1600
+Pressure psig
+Ratings correspond to ASME B16.34 for material grades shown
+=== page 19 ===
+TECHNICAL MANUAL
+ASTM A216 WCB PRESSURE TEMPERATURE RATING TABLE
+Body Material Applicable Rating Standard Material Group Min Design Temp
+ASTM A216 WCB2 ASME B16.34 1.1 -20°F (-29°C)
+ASME Pressure Class
+Design Temperature Class 150 Class 300 Class 600
+Maximum Allowable Pressure1
+°C °F barg psig barg psig barg psig
+-29 to 38 -20 to 100 19.6 285 51.1 740 102.1 1,480
+50 122 19.2 278 50.1 727 100.2 1,453
+93 200 17.9 260 46.9 680 93.8 1,360
+100 212 17.7 257 46.6 676 93.2 1,352
+149 300 15.9 230 45.2 655 90.3 1,310
+150 302 15.8 229 45.1 654 90.2 1,308
+200 392 13.8 200 43.8 635 87.6 1,271
+204 400 13.8 200 43.8 635 87.2 1,265
+250 482 12.1 175 41.9 608 83.9 1,217
+260 500 11.7 170 41.7 605 83.1 1,205
+300 572 10.2 148 39.8 577 79.6 1,155
+3153 6003 9.7 140 39.3 570 78.3 1,135
+325 617 9.3 135 38.7 561 77.4 1,123
+343 650 8.6 125 37.9 550 75.8 1,100
+350 662 8.4 122 37.6 545 75.1 1,089
+371 700 7.6 110 36.5 530 73.1 1,060
+375 707 7.4 107 36.4 528 72.7 1,054
+399 750 6.6 95 34.8 505 70.0 1,015
+400 752 6.5 94 34.7 503 69.4 1,007
+425 797 5.5 80 28.8 418 57.5 834
+427 800 5.5 80 28.3 410 56.9 825
+NOTES:
+1. Maximum allowable pressure at selected design temperature refers to valve body material. There may be further temperature
+limitations based on valve trim and application conditions.
+2. Minimum application temperature of ASTM A216 WCB is defined by ASME B16.34. Some codes or regulations, such as
+EU Directive 2014/68/EU PED, may restrict minimum temperature to higher than -20°F (-29°C). When such requirements apply,
+It is the responsibility of the purchaser to ensure these requirements are communicated to Bray prior to the time of purchase.
+3. Stem - ASTM A564-Type 630 Condition H1 150D (17-4 PH) not suitable for use above 600°F (315°C). For services above 600°F
+(315°C) factory generally suggests use of ASTM A182 F6A Cl 3. For temperatures over 800ºF (427°C) please consult factory.
+Technical Manual | Page 19
+=== page 20 ===
+TECHNICAL MANUAL
+ASTM A351 CF8M PRESSURE TEMPERATURE RATING TABLE
+Body Material Applicable Rating Standard Material Group Min Design Temp
+ASTM A351 CF8M ASME B16.34 2.2 -58°F (-50°C)
+ASME Pressure Class
+Design Temperature Class 150 Class 300 Class 600
+Maximum Allowable Pressure1
+°C °F barg psig barg psig barg psig
+-196 to 38 -320 to 100 19.0 275 49.6 720 99.3 1,440
+50 122 18.4 267 48.1 698 96.2 1,395
+93 200 16.2 235 42.7 620 85.5 1,240
+100 212 16.2 235 42.2 612 84.4 1,224
+149 300 14.8 215 38.6 560 77.2 1,120
+150 302 14.8 215 38.5 558 77.0 1,117
+200 392 13.7 199 35.7 518 71.3 1,034
+204 400 13.4 195 35.5 515 70.7 1,025
+250 482 12.1 175 33.4 484 66.8 969
+260 500 11.7 170 33.1 480 65.8 955
+300 572 10.2 148 31.6 458 63.2 917
+3152 6002 9.7 140 31.0 450 62.1 900
+325 617 9.3 135 30.9 448 61.8 896
+343 650 8.6 125 30.3 440 61.0 885
+350 662 8.4 122 30.3 439 60.7 880
+371 700 7.6 110 30.0 435 60.0 870
+375 707 7.4 107 29.9 434 59.8 867
+399 750 6.6 95 29.3 425 59.0 855
+400 752 6.5 94 29.4 425 58.9 854
+425 797 5.5 80 29.1 422 58.3 846
+427 800 5.5 80 29.0 420 58.3 845
+450 842 4.6 67 28.8 420 57.7 837
+NOTES:
+1. Maximum allowable pressure at selected design temperature refers to valve body material. There may be further temperature
+limitations based on valve trim and application conditions.
+2. Stem - ASTM A564-Type 630 Condition H1150D (17-4 PH) not suitable for use above 600°F (315°C). For services above 600°F
+(315°C) factory generally suggests use of ASTM A182 F6A Cl 3. For temperatures over 842°F (450°C) or under -58°F (50°C)
+please consult factory.
+Page 20 | Technical Manual
+=== page 21 ===
+TECHNICAL MANUAL
+ASTM A352 LCB PRESSURE TEMPERATURE RATING TABLE
+Body Material Applicable Rating Standard Material Group Min Design Temp
+ASTM A352 LCB2 ASME B16.34 1.3 -50°F (-46°C)
+ASME Pressure Class
+Design Temperature Class 150 Class 300 Class 600
+Maximum Allowable Pressure1
+°C °F barg psig barg psig barg psig
+-46 to 38 -50 to 100 18.4 265 48.0 695 96.0 1,395
+50 122 18.2 264 47.5 689 94.9 1,376
+93 200 17.6 255 45.5 660 91.0 1,320
+100 212 17.4 252 45.3 657 90.7 1,315
+149 300 15.9 230 44.1 640 87.9 1,275
+150 302 15.8 229 43.9 637 87.9 1,275
+200 392 13.8 200 42.5 616 85.1 1,234
+204 400 13.8 200 42.4 615 84.8 1,230
+250 482 12.1 175 40.8 592 81.6 1,184
+260 500 11.7 170 40.3 585 81.0 1,175
+300 572 10.2 148 38.7 561 77.4 1,123
+3153 6003 9.7 140 37.9 550 76.2 1,105
+325 617 9.3 135 37.6 545 75.2 1,091
+345 650 8.6 125 36.9 535 73.4 1,065
+NOTES:
+1. Maximum allowable pressure at selected design temperature refers to valve body material. There may be further temperature
+limitations based on valve trim and application conditions.
+2. Per ASME B16.34, not to be used over 650°F (345°C).
+3. Stem - ASTM A564-Type 630 Condition H1150D (17-4 PH) not suitable for use above 600°F (315°C). For services above 600°F
+(315°C) factory generally suggests use of ASTM A182 F6A Cl 3.
+Technical Manual | Page 21
+=== page 22 ===
+TECHNICAL MANUAL
+Examples of Typical Flange to Valve Bolting
+When bolting the valve into the line, use standard bolting torque as recommended by applicable piping standards.
+The valve body seat is independent of the flange bolting. Additional force from the flange bolts is not required. Minimum
+bolt engagement must be equal to diameter of bolt.
+CAUTION: To ensure proper installation refer to appropriate table within this guide for specific valve drilling information.
+L1
+L2 or L3
+The tapped holes at the bearing hub
+Flange gaskets
+areas are not thru holes.
+Wafer
+Connecting Flanges
+Body
+Washers
+Nuts
+L1
+Flange gaskets
++
+Lug Connecting Flanges
+VBaloved By*ody Washers
+PLUS
+Nuts
+L1
+L2 Stud Bolt Length
+Flange gaskets
+L2
+OR
+Double Flanged
+or Gate Body Connecting Flanges
+Washers L3 Hex Bolt Length
+Nuts
+L3
+L1
+* Lug Threads may be tapped from both sides and therefore tap may not be continuous.
+Page 22 | Technical Manual
+=== page 23 ===
+TECHNICAL MANUAL
+CLASS 150 | WAFER - Face to Face API 609, ISO 5752 Basic Series 13 | Body Drilling ASME B16.5
+VALVE SIZE
+Fastener Size Stud Bolts & Hex Nuts - L1 Stud Bolts - L2 Hex Head Bolts - L3
+Qty Qty Qty Qty
+In mm In mm In mm Qty Nuts In mm
+Studs Nuts Bolts
+3 80 5/8” - 11 UNC 6 152 4 8 N/A N/A N/A N/A N/A N/A N/A
+4 100 5/8” - 11 UNC 6 152 8 16 N/A N/A N/A N/A N/A N/A N/A
+6 150 3/4” - 10 UNC 6.5 165 8 16 N/A N/A N/A N/A N/A N/A N/A
++
+OR
+8 200 3/4” - 10 UNC 7 178 8 16 N/A N/A N/A N/A N/A N/A N/A
+10 250 7/8” - 9 UNC 7.75 197 12 24 PLUS N/A N/A N/A N/A N/A N/A N/A
+12 300 7/8” - 9 UNC 8.25 210 12 24 N/A N/A N/A N/A N/A N/A N/A
+14 350 1” - 8 UNC 9.25 235 12 24 N/A N/A N/A N/A N/A N/A N/A
+16 400 1” - 8 UNC 9.75 248 16 32 N/A N/A N/A N/A N/A N/A N/A
+18 450 1 1/8” - 8 UN 10.75 273 16 32 N/A N/A N/A N/A N/A N/A N/A
+20 500 1 1/8” - 8 UN 11.5 292 16 32 4.25 108 8 8 3 76 8
+24 600 1 1/4” - 8 UN 13 330 16 32 5 127 8 8 3.5 89 8
+CLASS 150 | WAFER - Face to Face API 609, ISO 5752 Basic Series 13 | Body Drilling ASME B16.47 Series A
+VALVE SIZE
+Fastener Size Stud Bolts & Hex Nuts - L1 Stud Bolts - L2 Hex Head Bolts - L3
+Qty
+Qty Qty Qty
+In mm In mm In mm Qty Nuts In mm
+Studs Nuts Bolts
+30 750 1 1/4" - 8 UN 16.75 425 24 48 + 6 152 8 8 OR 4.75 121 8
+32 800 1 1/2" - 8 UN 18 457 24 48 6.75 171 8 8 5 127 8
+PLUS
+36 900 1 1/2" - 8 UN 19.5 495 28 56 7 178 8 8 5.5 140 8
+40 1000 1 1/2" - 8 UN 21 533 32 64 7.5 191 8 8 5.75 146 8
+42 1050 1 1/2" - 8 UN 21.5 546 32 64 7.5 191 8 8 6 152 8
+48 1200 1 1/2" - 8 UN 23.25 591 40 80 8.5 216 8 8 7 178 8
+CLASS 150 | WAFER - Face to Face API 609, ISO 5752 Basic Series 13 | Body Drilling ASME B16.47 Series B
+VALVE SIZE
+Fastener Size Stud Bolts & Hex Nuts - L1 Stud Bolts -L2 Hex Head Bolts -L3
+Qty Qty QTY- Qty
+In mm In mm In mm Qty In mm
+Studs Nuts Nuts Bolts
+30 750 3/4” - 8 UNC CF CF CF CF + CF CF CF CF CF CF CF
+OR
+32 800 3/4” - 8 UNC CF CF CF CF CF CF CF CF CF CF CF
+PLUS
+36 900 7/8” - 8 UNC CF CF CF CF CF CF CF CF CF CF CF
+40 1000 1” - 8 UNC CF CF CF CF CF CF CF CF CF CF CF
+42 1050 1” - 8 UNC CF CF CF CF CF CF CF CF CF CF CF
+48 1200 1” - 8 UNC CF CF CF CF CF CF CF CF CF CF CF
+NOTES:
+1. Calculations include 2 washers (.2”) for thru stud bolts and 1 washer 6. Standard gaskets (0.125”), one per side, have been included in the
+(.1”) for hex bolt and stud bolts/nut. bolting calculations.
+2. Any combination of the above fastener types is applicable. 7. Please Consult Factory for fields marked “CF”.
+3. All nuts are in accordance with ASME B18.2.2 Table 9 Heavy Hex nuts. 8. All fields with “N/A” indicate where the bolting requirements are not
+4. All Studs are in accordance with ASME B18.2.1. applicable.
+5. All Stud and bolt lengths rounded to next 1/4”.
+Technical Manual | Page 23
+=== page 24 ===
+TECHNICAL MANUAL
+CLASS 150 | LUG - Face to Face API 609, ISO 5752 Basic Series 13 | Body Drilling ASME B16.5
+VALVE SIZE
+Fastener Size Stud Bolts & Hex Nuts - L1 Stud Bolts - L2 Hex Head Bolts - L3
+Qty Qty Qty Qty
+In mm In mm In mm Qty Nuts In mm
+Studs Nuts Bolts
+3 80 5/8” - 11 UNC 3 76 8 8 N/A N/A N/A N/A N/A N/A N/A
+4 100 5/8” - 11 UNC 3.25 83 16 16 N/A N/A N/A N/A N/A N/A N/A
+6 150 3/4” - 10 UNC 3.25 83 16 16 N/A N/A N/A N/A N/A N/A N/A
++
+OR
+8 200 3/4” - 10 UNC 3.75 95 16 16 N/A N/A N/A N/A N/A N/A N/A
+10 250 7/8” - 9 UNC 4 102 24 24 PLUS N/A N/A N/A N/A N/A N/A N/A
+12 300 7/8” - 9 UNC 4.25 108 24 24 N/A N/A N/A N/A N/A N/A N/A
+14 350 1” - 8 UNC 4.75 121 24 24 N/A N/A N/A N/A N/A N/A N/A
+16 400 1” - 8 UNC 4.5 114 32 32 N/A N/A N/A N/A N/A N/A N/A
+18 450 1 1/8” - 8 UN 5.25 133 32 32 N/A N/A N/A N/A N/A N/A N/A
+20 500 1 1/8” - 8 UN 5.25 133 32 32 4 102 8 8 2.75 70 8
+24 600 1 1/4” - 8 UN 6 152 32 32 5 127 8 8 3.5 89 8
+CLASS 150 | LUG - Face to Face API 609, ISO 5752 Basic Series 13 | Body Drilling ASME B16.47 Series A
+VALVE SIZE
+Stud Bolts & Hex Nuts - L1 Stud Bolts - L2 Hex Head Bolts - L3
+Fastener Size
+Qty Qty Qty
+In mm In mm In mm Qty Qty In mm
+Studs Nuts Nuts Bolts
+30 750 1 1/4" - 8 UN 6.75 171 48 48 + 6 152 8 8 OR 4.75 121 8
+32 800 1 1/2" - 8 UN 7.75 197 48 48 6.5 165 8 8 5 127 8
+PLUS
+36 900 1 1/2" - 8 UN 8.5 216 56 56 7 178 8 8 5.25 133 8
+40 1000 1 1/2" - 8 UN 8.25 210 64 64 7.25 184 8 8 5.5 140 8
+42 1050 1-1/2" - 8 UN 8.5 216 64 64 7.5 191 8 8 5.75 146 8
+48 1200 1 1/2" - 8 UN 8.5 216 88 88 N/A N/A N/A N/A 6.5 165 N/A
+CLASS 150 | LUG - Face to Face API 609, ISO 5752 Basic Series 13 | Body Drilling ASME B16.47 Series B
+VALVE SIZE
+Stud Bolts & Hex Nuts - L1 Stud Bolts - L2 Hex Head Bolts -L3
+Fastener Size
+Qty Qty Qty
+In mm In mm In mm Qty Qty In mm
+Studs Nuts Bolts
+Nuts
+30 750 3/4” - 8 UNC 5 127 80 80 4 102 8 8 3 76 8
++
+OR
+32 800 3/4” - 8 UNC CF CF CF CF CF CF CF CF CF CF CF
+PLUS
+36 900 7/8” - 8 UNC 5.5 140 80 80 4.5 114 8 8 3.5 89 8
+40 1000 1” - 8 UNC CF CF CF CF CF CF CF CF CF CF CF
+42 1050 1” - 8 UNC 6.5 165 88 88 5.5 140 8 8 4.5 114 8
+48 1200 1” - 8 UNC 6.5 165 80 80 6 152 8 8 4.75 121 8
+NOTES:
+1. Calculations include 2 washers (.2”) for thru stud bolts and 1 washer 6. Standard gaskets (0.125”), one per side, have been included in
+(.1”) for hex bolt and stud bolts/nut. the bolting calculations.
+2. Any combination of the above fastener types is applicable. 7. Please Consult Factory for fields marked “CF”.
+3. All nuts are in accordance with ASME B18.2.2 Table 9 Heavy Hex nuts. 8. All fields with “N/A” indicate where the bolting requirements
+4. All Studs are in accordance with ASME B18.2.1. are not applicable.
+5. All Stud and bolt lengths rounded to next 1/4”.
+Page 24 | Technical Manual
+=== page 25 ===
+TECHNICAL MANUAL
+CLASS 150 | DOUBLE FLANGE - Face to Face API 609, ISO 5752 Basic Series 13 | Body Drilling ASME B16.5
+VALVE SIZE
+Fastener Size Stud Bolts & Hex Nuts - L1 Stud Bolts - L2 Hex Head Bolts - L3
+Qty Qty Qty Qty
+In mm In mm In mm Qty Nuts In mm
+Studs Nuts Bolts
+3 80 5/8” - 11 UNC 4 102 8 16 N/A N/A N/A N/A N/A N/A N/A
+4 100 5/8” - 11 UNC 4 102 12 24 3 76 4 4 2.25 57 4
+6 150 3/4” - 10 UNC 4.25 108 12 24 3.25 82 4 4 2.25 57 4
++
+OR
+8 200 3/4” - 10 UNC 4.5 114 12 24 3.5 89 4 4 2.5 63 4
+10 250 7/8” - 9 UNC 5 127 20 40 PLUS 3.5 89 4 4 2.5 63 4
+12 300 7/8” - 9 UNC 5 127 20 40 3.75 95 4 4 2.75 70 4
+14 350 1” - 8 UNC 5.5 140 20 40 4.25 108 4 4 3 76 4
+16 400 1” - 8 UNC 5.75 146 28 56 4.5 114 4 4 3.25 82 4
+18 450 1 1/8” - 8 UN 6 152 28 56 4.5 114 4 4 3.25 82 4
+20 500 1 1/8” - 8 UN 6.25 159 36 72 4.25 108 4 4 3 76 4
+24 600 1 1/4” - 8 UN 7 179 36 72 5 127 4 4 3.5 89 4
+CLASS 150 | DOUBLE FLANGE - Face to Face API 609, ISO 5752 Basic Series 13 | Body Drilling ASME B16.47 Series A
+VALVE SIZE
+Fastener Size Stud Bolts & Hex Nuts - L1 Stud Bolts - L2 Hex Head Bolts - L3
+Qty Qty Qty Qty
+In mm In mm In mm Qty In mm
+Studs Nuts Nuts Bolts
+30 750 1 1/4" - 8 UN 9.25 235 52 104 + 6 152 4 4 4.75 121 4
+OR
+32 800 1 1/2" - 8 UN 10.25 260 48 96 6.75 171 8 8 5 127 8
+PLUS
+36 900 1 1/2" - 8 UN 11 279 52 104 7 179 12 12 5.5 140 12
+40 1000 1 1/2" - 8 UN CF CF CF CF CF CF CF CF CF CF CF
+42 1050 1 1/2" - 8 UN 11.5 292 62 124 7.5 190 10 10 5.75 146 10
+48 1200 1 1/2" - 8 UN 12.25 311 72 144 8 203 16 16 6.25 159 16
+CLASS 150 | DOUBLE FLANGE - Face to Face API 609, ISO 5752 Basic Series 13 | Body Drilling ASME B16.47 Series B
+VALVE SIZE
+Fastener Size Stud Bolts & Hex Nuts - L1 Stud Bolts - L2 Hex Head Bolts - L3
+Qty Qty Qty Qty
+In mm In mm In mm Qty In mm
+Studs Nuts Nuts Bolts
+30 750 3/4” - 8 UNC 6 152 78 156 + 4.5 254 10 10 3.5 89 10
+OR
+32 800 3/4” - 8 UNC 6 152 80 160 4.5 406 16 16 3.5 89 16
+PLUS
+36 900 7/8” - 8 UNC 7 178 72 144 5 406 16 16 4 102 16
+40 1000 1” - 8 UNC 7.25 184 68 136 5.25 508 20 20 4 102 20
+42 1050 1” - 8 UNC 8 203 86 172 5.5 254 10 10 4.25 108 10
+48 1200 1” - 8 UNC 7.5 191 86 172 5.25 254 10 10 4.25 108 10
+NOTES:
+1. Calculations include 2 washers (.2”) for thru stud bolts and 1 washer (.1”) for 6. Standard gaskets (0.125”), one per side, have been included in the
+hex bolt and stud bolts/nut. bolting calculations.
+2. Any combination of the above fastener types is applicable. 7. Please Consult Factory for fields marked “CF”.
+3. All nuts are in accordance with ASME B18.2.2 Table 9 Heavy Hex nuts. 8. All fields with “N/A” indicate where the bolting requirements are not
+4. All Studs are in accordance with ASME B18.2.1. applicable.
+5. All Stud and bolt lengths rounded to next 1/4”.
+Technical Manual | Page 25
+=== page 26 ===
+TECHNICAL MANUAL
+CLASS 150 | GATE - Face to Face API 609, ISO 5752 Basic Series 13 | Body Drilling ASME B16.5
+VALVE SIZE
+Fastener Size Stud Bolts & Hex Nuts- L1 Stud Bolts - L2 Hex Head Bolts -L3
+Qty
+Qty Qty Qty
+In mm In mm In mm Qty Nuts In mm
+Studs Nuts Bolts
+3 80 5/8” - 11 UNC 4 102 8 16 N/A N/A N/A N/A N/A N/A N/A
+4 100 5/8” - 11 UNC 4 102 12 24 2.75 70 4 4 2.25 57 4
+6 150 3/4” - 10 UNC 4.25 108 12 24 3 76 4 4 2.25 57 4
++
+OR
+8 200 3/4” - 10 UNC 4.5 114 16 32 N/A N/A N/A N/A N/A N/A N/A
+10 250 7/8” - 9 UNC 5 127 24 48 PLUS N/A N/A N/A N/A N/A N/A N/A
+12 300 7/8” - 9 UNC 5 127 24 48 N/A N/A N/A N/A N/A N/A N/A
+14 350 1” - 8 UNC 5.5 140 24 48 N/A N/A N/A N/A N/A N/A N/A
+16 400 1” - 8 UNC 5.75 146 32 64 N/A N/A N/A N/A N/A N/A N/A
+18 450 1 1/8” - 8 UN 6.25 159 32 64 N/A N/A N/A N/A N/A N/A N/A
+20 500 1 1/8” - 8 UN 6.5 165 40 80 N/A N/A N/A N/A N/A N/A N/A
+24 600 1 1/4” - 8 UN 7 178 40 80 N/A N/A N/A N/A N/A N/A N/A
+CLASS 150 | GATE - Face to Face API 609, ISO 5752 Basic Series 13 | Body Drilling ASME B16.47 Series A
+VALVE SIZE
+Fastener Size Stud Bolts & Hex Nuts - L1 + Stud Bolts - L2 Hex Head Bolts - L3
+OR
+In mm In mm
+Qty Qty
+In mm Qty
+Qty
+In mm
+Qty
+Studs Nuts Nuts Bolts
+PLUS
+30 750 1 1/4" - 8 UN 9.25 235 48 96 6 152 8 8 4.75 121 8
+NOTES:
+1. Calculations include 2 washers (.2”) for thru stud bolts and 1 washer 6. Standard gaskets (0.125”), one per side, have been included in
+(.1”) for hex bolt and stud bolts/nut. the bolting calculations.
+2. Any combination of the above fastener types is applicable. 7. Please Consult Factory for fields marked “CF”.
+3. All nuts are in accordance with ASME B18.2.2 Table 9 Heavy Hex nuts. 8. All fields with “N/A” indicate where the bolting requirements are not
+4. All Studs are in accordance with ASME B18.2.1. applicable.
+5. All Stud and bolt lengths rounded to next 1/4”.
+Page 26 | Technical Manual
+=== page 27 ===
+TECHNICAL MANUAL
+CLASS 300 | WAFER - Face to Face API 609, ISO 5752 Basic Series 13 | Body Drilling ASME B16.5
+VALVE SIZE
+Fastener Size Stud Bolts & Hex Nuts - L1 Stud Bolts - L2 Hex Head Bolts - L3
+Qty Qty Qty Qty
+In mm In mm In mm Qty Nuts In mm
+Studs Nuts Bolts
+3 80 3/4" - 10 UNC 6.5 165 8 16 N/A N/A N/A N/A N/A N/A N/A
+4 100 3/4" - 10 UNC 7 178 8 16 N/A N/A N/A N/A N/A N/A N/A
+6 150 3/4" - 10 UNC 7.5 191 12 24 N/A N/A N/A N/A N/A N/A N/A
++
+OR
+8 200 7/8" - 9 UNC 8.75 222 12 24 N/A N/A N/A N/A N/A N/A N/A
+10 250 1" - 8 UNC 10 254 12 24 PLUS 4.5 114 8 8 3.5 89 8
+12 300 1 1/8" - 8 UN 11 279 12 24 4.75 121 8 8 3.25 83 8
+14 350 1 1/8" - 8 UN 12 305 16 32 4.5 114 8 8 3.25 83 8
+16 400 1 1/4" - 8 UN 13.5 343 16 32 5.25 133 8 8 3.25 83 8
+18 450 1 1/4" - 8 UN 14 356 20 40 5.25 133 8 8 3.75 95 8
+20 500 1 1/4" - 8 UN 15 381 20 40 5.25 133 8 8 4 102 8
+24 600 1 1/2" - 8 UN 17 432 20 40 6.25 159 8 8 4.25 108 8
+CLASS 300 | WAFER - Face to Face API 609, ISO 5752 Basic Series 13 | Body Drilling ASME B16.47 Series A
+VALVE SIZE
+Fastener Size Stud Bolts & Hex Nuts - L1 Stud Bolts - L2 Hex Head Bolts - L3
+Qty Qty Qty Qty
+In mm In mm In mm Qty In mm
+Studs Nuts Nuts Bolts
+30 750 1 3/4" - 8 UN 20.75 527 24 48 + 7.25 184 8 8 5.5 140 8
+OR
+32 800 1 7/8" - 8 UN CF CF CF CF CF CF CF CF CF CF CF
+PLUS
+36 900 2" - 8 UN 23.5 597 28 56 7.75 197 8 8 6 152 8
+40 1000 1 5/8" - 8 UN CF CF CF CF CF CF CF CF CF CF CF
+42 1050 1 5/8" - 8 UN 27 686 28 56 8.75 222 8 8 6.75 171 8
+48 1200 1 7/8" - 8 UN 30.25 768 28 56 10 254 8 8 7.75 197 8
+CLASS 300 | WAFER - Face to Face API 609, ISO 5752 Basic Series 13 | Body Drilling ASME B16.47 Series B
+VALVE SIZE
+Fastener Size Stud Bolts & Hex Nuts - L1 Stud Bolts - L2 Hex Head Bolts - L3
+Qty Qty Nuts & Qty
+In mm In mm In mm Qty In mm
+Studs Nuts Washers Bolts
+30 750 1 3/8" - 8 UN CF CF CF CF + CF CF CF CF CF CF CF
+OR
+32 800 1 1/2" - 8 UN CF CF CF CF CF CF CF CF CF CF CF
+PLUS
+36 900 1 5/8" - 8 UN CF CF CF CF CF CF CF CF CF CF CF
+40 1000 1 5/8" - 8 UN CF CF CF CF CF CF CF CF CF CF CF
+42 1050 1 3/4" - 8 UN CF CF CF CF CF CF CF CF CF CF CF
+48 1200 1 7/8" - 8 UN CF CF CF CF CF CF CF CF CF CF CF
+NOTES:
+1. Calculations include 2 washers (.2”) for thru stud bolts and 1 washer 6. Standard gaskets (0.125”), one per side, have been included in the
+(.1”) for hex bolt and stud bolts/nut. bolting calculations.
+2. Any combination of the above fastener types is applicable. 7. Please Consult Factory for fields marked “CF”.
+3. All nuts are in accordance with ASME B18.2.2 Table 9 Heavy Hex nuts. 8. All fields with “N/A” indicate where the bolting requirements are not
+4. All Studs are in accordance with ASME B18.2.1. applicable.
+5. All Stud and bolt lengths rounded to next 1/4”.
+Technical Manual | Page 27
+=== page 28 ===
+TECHNICAL MANUAL
+CLASS 300 | LUG - Face to Face API 609, ISO 5752 Basic Series 13 | Body Drilling ASME B16.5
+VALVE SIZE
+Fastener Size Stud Bolts & Hex Nuts - L1 Stud Bolts - L2 Hex Head Bolts - L3
+Qty Qty Qty Qty
+In mm In mm In mm Qty Nuts In mm
+Studs Nuts Bolts
+3 80 3/4" - 10 UNC 3.5 89 16 16 N/A N/A N/A N/A N/A N/A N/A
+4 100 3/4" - 10 UNC 3.5 89 16 16 N/A N/A N/A N/A N/A N/A N/A
+6 150 3/4" - 10 UNC 4 102 24 24 N/A N/A N/A N/A N/A N/A N/A
++
+OR
+8 200 7/8" - 9 UNC 4.5 114 24 24 N/A N/A N/A N/A N/A N/A N/A
+10 250 1" - 8 UNC 5 127 32 32 PLUS N/A N/A N/A N/A N/A N/A N/A
+12 300 1 1/8" - 8 UN 5.5 140 24 24 4.5 114 8 8 3 76 8
+14 350 1 1/8" - 8 UN 5.5 140 32 32 4.5 114 8 8 3.25 83 8
+16 400 1 1/4" - 8 UN 6 152 32 32 5 127 8 8 3.75 95 8
+18 450 1 1/4" - 8 UN 6.25 159 40 40 5 127 8 8 3.75 95 8
+20 500 1 1/4" - 8 UN 6.25 159 40 40 5.25 133 8 8 4 102 8
+24 600 1 1/2" - 8 UN 7.25 184 40 40 6 152 8 8 4.5 114 8
+CLASS 300 | LUG - Face to Face API 609, ISO 5752 Basic Series 13 | Body Drilling ASME B16.47 Series A
+VALVE SIZE
+Fastener Size Stud Bolts & Hex Nuts - L1 Stud Bolts - L2 Hex Head Bolts - L3
+Qty Qty Qty Qty
+In mm In mm In mm Qty In mm
+Studs Nuts Nuts Bolts
+30 750 1 3/4" - 8 UN 8.75 222 48 48 + 7.25 184 8 8 5.5 140 8
+OR
+32 800 1 7/8" - 8 UN CF CF CF CF CF CF CF CF CF CF CF
+PLUS
+36 900 2" - 8 UN 9.75 248 56 56 7.75 197 8 8 6 152 8
+40 1000 1 5/8" - 8 UN CF CF CF CF CF CF CF CF CF CF CF
+42 1050 1 5/8" - 8 UN 9.5 241 56 56 8.75 222 8 8 6.75 171 8
+48 1200 1 7/8" - 8 UN 9.75 248 56 56 9.75 248 8 8 7.75 197 8
+CLASS 300 | LUG - Face to Face API 609, ISO 5752 Basic Series 13 | Body Drilling ASME B16.47 Series B
+VALVE SIZE
+Fastener Size Stud Bolts & Hex Nuts - L1 Stud Bolts - L2 Hex Head Bolts - L3
+Qty Qty Qty Qty
+In mm In mm In mm Qty In mm
+Studs Nuts Nuts Bolts
+30 750 1 3/8" - 8 UN 9 229 64 64 + 7.25 184 8 8 5.5 140 8
+OR
+32 800 1 1/2" - 8 UN CF CF CF CF CF CF CF CF CF CF CF
+PLUS
+36 900 1 5/8" - 8 UN 9.5 241 56 56 7.75 197 8 8 5.75 146 8
+40 1000 1 5/8" - 8 UN CF CF CF CF CF CF CF CF CF CF CF
+42 1050 1 3/4" - 8 UN 9.75 248 64 64 8.25 210 8 8 6.5 165 8
+48 1200 1 7/8" - 8 UN 10.5 267 72 72 9.75 248 8 8 7.75 197 8
+NOTES:
+1. Calculations include 2 washers (.2”) for thru stud bolts and 1 washer 6. Standard gaskets (0.125”), one per side, have been included in the
+(.1”) for hex bolt and stud bolts/nut. bolting calculations.
+2. Any combination of the above fastener types is applicable. 7. Please Consult Factory for fields marked “CF”.
+3. All nuts are in accordance with ASME B18.2.2 Table 9 Heavy Hex nuts. 8. All fields with “N/A” indicate where the bolting requirements are not
+4. All Studs are in accordance with ASME B18.2.1. applicable.
+5. All Stud and bolt lengths rounded to next 1/4”.
+Page 28 | Technical Manual
+=== page 29 ===
+TECHNICAL MANUAL
+CLASS 300 | DOUBLE FLANGE - Face to Face API 609, ISO 5752 Basic Series 13 | Body Drilling ASME B16.5
+VALVE SIZE
+Fastener Size Stud Bolts & Hex Nuts - L1 Stud Bolts - L2 Hex Head Bolts - L3
+Qty Qty Qty Qty
+In mm In mm In mm Qty Nuts In mm
+Studs Nuts Bolts
+3 80 3/4" - 10 UNC 4.5 114 12 24 3.25 83 4 4 2.5 64 4
+4 100 3/4" - 10 UNC 4.75 121 12 24 3.25 83 4 4 2.5 64 4
+6 150 3/4" - 10 UNC 5 127 20 40 3.75 95 4 4 2.75 70 4
++
+OR
+8 200 7/8" - 9 UNC 5.75 146 20 40 4 102 4 4 3.25 83 4
+10 250 1" - 8 UNC 6.5 165 24 48 PLUS 4.25 108 8 8 3.25 83 8
+12 300 1 1/8" - 8 UN 7 178 24 48 4.5 114 8 8 3.5 89 8
+14 350 1 1/8" - 8 UN 7.25 184 32 64 4.75 121 8 8 3.5 89 8
+16 400 1 1/4" - 8 UN 7.75 197 32 64 5.25 133 8 8 3.75 95 8
+18 450 1 1/4" - 8 UN 8 203 40 80 5.25 133 8 8 4 102 8
+20 500 1 1/4" - 8 UN 8.25 210 40 80 5.5 140 8 8 4 102 8
+24 600 1 1/2" - 8 UN 9.25 235 40 80 6 152 8 8 4.5 114 8
+CLASS 300 | DOUBLE FLANGE - Face to Face API 609, ISO 5752 Basic Series 13 | Body Drilling ASME B16.47 Series A
+VALVE SIZE
+Fastener Size Stud Bolts & Hex Nuts - L1 Stud Bolts - L2 Hex Head Bolts - L3
+Qty Qty Qty Qty
+In mm In mm In mm Qty In mm
+Studs Nuts Nuts Bolts
+30 750 1 3/4" - 8 UN 12.5 318 40 80 + 8.5 216 16 16 6 152 16
+OR
+32 800 1 7/8" - 8 UN CF CF CF CF CF CF CF CF CF CF CF
+PLUS
+36 900 2" - 8 UN 13.25 337 48 96 8 203 16 16 6 152 16
+40 1000 1 5/8" - 8 UN CF CF CF CF CF CF CF CF CF CF CF
+42 1050 1 5/8" - 8 UN 13.5 343 52 104 8.5 216 12 12 7 178 12
+48 1200 1 7/8" - 8 UN 15.25 387 48 96 10.5 267 16 16 8 203 16
+CLASS 300 | DOUBLE FLANGE - Face to Face API 609, ISO 5752 Basic Series 13 | Body Drilling ASME B16.47 Series B
+VALVE SIZE
+Fastener Size Stud Bolts & Hex Nuts - L1 Stud Bolts - L2 Hex Head Bolts - L3
+Qty Qty Qty Qty
+In mm In mm In mm Qty In mm
+Studs Nuts Nutss Bolts
+30 750 1 3/8" - 8 UN 11.25 286 56 112 + 7 178 16 16 5.5 140 16
+OR
+32 800 1 1/2" - 8 UN CF CF CF CF CF CF CF CF CF CF CF
+PLUS
+36 900 1 5/8" - 8 UN 12.25 311 56 112 8 203 8 8 6.25 159 8
+40 1000 1 5/8" - 8 UN CF CF CF CF CF CF CF CF CF CF CF
+42 1050 1 3/4" - 8 UN 13.75 349 56 112 8.5 216 16 16 6.75 171 16
+48 1200 1 7/8" - 8 UN 14.75 375 60 120 9.75 248 20 20 7.75 197 20
+NOTES:
+1. Calculations include 2 washers (.2”) for thru stud bolts and 1 washer 6. Standard gaskets (0.125”), one per side, have been included in the
+(.1”) for hex bolt and stud bolts/nut. bolting calculations.
+2. Any combination of the above fastener types is applicable. 7. Please Consult Factory for fields marked “CF”.
+3. All nuts are in accordance with ASME B18.2.2 Table 9 Heavy Hex nuts. 8. All fields with “N/A” indicate where the bolting requirements are not
+4. All Studs are in accordance with ASME B18.2.1. applicable.
+5. All Stud and bolt lengths rounded to next 1/4”.
+Technical Manual | Page 29
+=== page 30 ===
+TECHNICAL MANUAL
+CLASS 300 | GATE - Face to Face API 609, ISO 5752 Basic Series 13 | Body Drilling ASME B16.5
+VALVE SIZE
+Fastener Size Stud Bolts & Hex Nuts - L1 Stud Bolts - L2 Hex Head Bolts - L3
+Qty Qty Qty Qty
+In mm In mm In mm Qty Nuts In mm
+Studs Nuts Bolts
+3 80 3/4" - 10 UNC 4.5 114 12 24 3.5 89 4 4 2.5 64 4
+4 100 3/4" - 10 UNC 4.75 121 12 24 3.5 89 4 4 2.5 64 4
+6 150 3/4" - 10 UNC 5.25 133 20 40 3.75 95 4 4 2.75 70 4
++
+OR
+8 200 7/8" - 9 UNC 5.75 146 20 40 4 102 4 4 3.25 83 4
+10 250 1" - 8 UNC 6.5 165 32 64 PLUS N/A N/A N/A N/A N/A N/A N/A
+12 300 1 1/8" - 8 UN 7 178 32 64 N/A N/A N/A N/A N/A N/A N/A
+14 350 1 1/8" - 8 UN 7.25 184 36 72 5 127 4 4 4 102 4
+16 400 1 1/4" - 8 UN 7.75 197 36 72 5.75 146 4 4 4.25 108 4
+18 450 1 1/4" - 8 UN 8 203 44 88 6 152 4 4 4.5 114 4
+20 500 1 1/4" - 8 UN 8.25 210 44 88 6 152 4 4 4.5 114 4
+24 600 1 1/2" - 8 UN 9.25 235 48 96 N/A N/A N/A N/A N/A N/A N/A
+CLASS 600 | DOUBLE FLANGE - Face to Face API 609, ISO 5752 Basic Series 13 | Body Drilling ASME B16.5
+VALVE SIZE
+Fastener Size Stud Bolts & Hex Nuts - L1 Stud Bolts - L2 Hex Head Bolts - L3
+Qty Qty Qty Qty
+In mm In mm In mm Qty Nuts In mm
+Studs Nuts Bolts
+6 150 1" - 8 UNC 7.25 184 16 32 5.5 140 8 8 4 102 8
+8 200 1 1/8" - 8 UN 8.25 210 16 32 6 152 8 8 4.5 114 8
++
+10 250 1 1/4" - 8 UN 9 229 24 48 6.75 171 8 8 OR 5 127 8
+12 300 1 1/4" - 8 UN 9.25 235 32 64 PLUS 7 178 8 8 5.25 133 8
+14 350 1 3/8" - 8 UN 10 254 32 64 7.5 191 8 8 5.5 140 8
+16 400 1 1/2" - 8 UN 10.75 273 32 64 8 203 8 8 6 152 8
+18 450 1 5/8" - 8 UN 11.5 292 24 48 8.5 216 16 16 6.5 165 16
+20 500 1 5/8" - 8 UN 12 305 32 64 8.75 222 16 16 6.75 171 16
+24 600 1 7/8" - 8 UN 13.5 343 32 64 10 254 16 16 7.5 191 16
+NOTES:
+1. Calculations include 2 washers (.2”) for thru stud bolts and 1 washer 6. Standard gaskets (0.125”), one per side, have been included in the
+(.1”) for hex bolt and stud bolts/nut. bolting calculations.
+2. Any combination of the above fastener types is applicable. 7. Please Consult Factory for fields marked “CF”.
+3. All nuts are in accordance with ASME B18.2.2 Table 9 Heavy Hex nuts. 8. All fields with “N/A” indicate where the bolting requirements are not
+4. All Studs are in accordance with ASME B18.2.1. applicable.
+5. All Stud and bolt lengths rounded to next 1/4”.
+Page 30 | Technical Manual
+=== page 31 ===
+TECHNICAL MANUAL
+Technical Manual | Page 31
+=== page 32 ===
+SINCE 1986, BRAY HAS PROVIDED FLOW CONTROL SOLUTIONS
+FOR A VARIETY OF INDUSTRIES AROUND THE WORLD.
+VISIT BRAY.COM TO LEARN MORE ABOUT
+BRAY PRODUCTS AND LOCATIONS NEAR YOU.
+HEADQUARTERS
+Bray International, Inc.
+13333 Westland East Blvd.
+Houston, Texas 77041
+Tel: +1.281.894.5454
+All statements, technical information, and recommendations in this bulletin are for general
+use only. Consult Bray representatives or factory for the specific requirements and material
+selection for your intended application. The right to change or modify product design or
+product without prior notice is reserved. Patents issued and applied for worldwide.
+Bray® is a registered trademark of Bray International, Inc.
+© 2025 BRAY INTERNATIONAL. ALL RIGHTS RESERVED. BRAY.COM EN_BR_TSM_BF_Tri Lok 20250512_01
+THE HIGH PERFORMANCE COMPANY BRAY.COM

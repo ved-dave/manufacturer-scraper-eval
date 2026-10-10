@@ -1,0 +1,850 @@
+=== page 1 ===
+TRI LOK®-Cx
+TRIPLE OFFSET BUTTERFLY VALVE
+Installation, Operation, and Maintenance Manual
+BRAY.COM THE HIGH PERFORMANCE COMPANY
+=== page 2 ===
+TRI LOK®-Cx TRIPLE OFFSET BUTTERFLY VALVE
+Installation, Operation, and Maintenance Manual
+CONTENTS
+1.0 DEFINITION OF TERMS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+2.0 INTRODUCTION . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+3.0 PARTS IDENTIFICATION. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+4.0 VALVE IDENTIFICATION. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+5.0 SAFETY INFORMATION . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .7
+6.0 HAZARD-FREE USE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+7.0 QUALIFIED PERSONNEL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+8.0 HANDLING REQUIREMENTS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+9.0 LONG TERM STORAGE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+10.0 INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+11.0 OPERATOR AND TRAVEL STOP SETTING INSTRUCTIONS . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+12.0 STANDARD MAINTENANCE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+13.0 SEAT & SEAL RING REPLACEMENT . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+14.0 RETURN MERCHANDISE AUTHORIZATION. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+15.0 TABLES . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .22
+© 2025 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 2 of 23
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 3 ===
+TRI LOK®-Cx TRIPLE OFFSET BUTTERFLY VALVE
+Installation, Operation, and Maintenance Manual
+1.0 DEFINITION OF TERMS
+1.1 All information within this manual is relevant to the safe operation
+and proper care of your Bray valve. Please understand the
+following examples of information used throughout this manual.
+X.X IDENTIFIES CHAPTER HEADING
+X.XX Indentifies and explains sequential procedure to be performed.
+NOTE: Provides important information, useful tips, and
+recommendations related to a procedure.
+SAFETY STATEMENTS
+The terms DANGER, WARNING, CAUTION, and NOTICE are used
+in this document to prevent unwanted consequences. Standard
+symbols and classifications are:
+DANGER
+Indicates an immediate hazardous situation which, if not avoided,
+will result in death or serious injury and/or property damage.
+WARNING
+Indicates a potentially hazardous situation which, if not avoided,
+could result in death or serious injury and/or property damage.
+CAUTION
+Indicates a potentially hazardous situation which, if not avoided,
+may result in minor or moderate injury and/or property damage.
+NOTICE
+Indicates and provides additional technical information which
+may not be obvious, even to qualified personnel. The term is not
+used for personal injury hazards or warnings, but can be used to
+indicate possible equipment or property damage.
+1.2 Compliance with other notes — regarding transport, assembly,
+operation & maintenance, and about technical documentation
+(e.g., in the operating instructions, product documentation, or on
+the product itself) — is essential, to avoid faults which can directly
+or indirectly cause severe personal injury or property damage.
+© 2025 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 3 of 23
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 4 ===
+TRI LOK®-Cx TRIPLE OFFSET BUTTERFLY VALVE
+Installation, Operation, and Maintenance Manual
+2.0 INTRODUCTION
+NOTICE
+Failure to follow these procedures could affect product warranty.
+Read and follow these instructions carefully and keep this
+manual in a safe place for future reference.
+2.1 Information provided in this manual is for standard Tri Lok®-Cx
+configuration only. Specific instructions for non-standard materials
+of construction, temperature range, etc. should be referred to the
+factory.
+Additional information on certification documentation is available
+on the Bray website or by contacting your local Bray Sales
+Representative.
+2.2 This manual covers Tri Lok®-Cx valves in the following range:
+Nominal Pressure PN10, PN25, PN40
+Sizes DN80 to DN1200
+Body Style Lug, Double Flange
+2.4 The Tri Lok®-Cx metal seated valve is fully rated to EN 12516, and
+complies with EN593.
+2.5 Tri Lok®-Cx is torque-seated. Torque must be continually applied
+by an actuation device (valve operator) to the valve stem to
+ensure the valve seals against the line pressure.
+WARNING
+Do not remove or de-energize actuation devices while the valve
+is under line pressure.
+2.6 The valve is inherently fire safe, and has been qualified to ISO
+10497 and API 607 standards.
+2.7 The preferred direction of flow is indicated by an arrow on the
+valve nameplate.
+© 2025 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 4 of 23
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 5 ===
+TRI LOK®-Cx TRIPLE OFFSET BUTTERFLY VALVE
+Installation, Operation, and Maintenance Manual
+3.0 PARTS IDENTIFICATION
+M1
+M4
+ITEM DESCRIPTION
+A1 Body M2
+H10
+B1 Seat
+M3 H7
+B2 Seat Gasket
+B3 Seat Cap Screw H9
+C1 Disc
+H8
+C2 Seal Ring
+C3 Seal Ring Gasket H7
+C4 Seal Ring Retainer
+C5 Seal Ring Retainer Cap Screw
+H6
+C6 Disc Spacer
+C7 Pin For Seal Ring
+H4
+D1 Stem
+H5
+E1 Stem Bearing
+H1
+E2 Bearing Protector Gasket
+E3 Bearing Spacer H3
+E4 Lower Bearing Spacer
+G1 Bottom Plate H2
+G2 Bottom Plate Gasket
+G3 Bottom Plate Cap Screw
+E3
+H1 Packing Gland Ring
+H2 Thrust Washer
+H3 Stem Packing E1
+H4 Gland Retainer
+H5 Anti-blowout Retaining Ring E2
+H6 Packing Gland Stud
+H7 Flat Washer N3
+P1
+H8 Disc Spring N2
+H9 Sleeve, Live Load
+A1
+H10 Hex Nut D1
+M1 Mounting Bracket N2
+M2 Mounting Bracket Cap Screw
+N1
+M3 Mounting Bracket Lock Washer
+M4 Mounting Bracket Pin
+N1 ID Tag
+N2 Drive Screw N4
+N3 Torque Tag N2
+N4 Certification Tag
+P1 Stem Key C1
+C3 C6 E2
+C2
+E1
+C4
+C7
+E4
+C5
+B2 G2
+B1
+G1
+G3
+B3
+© 2025 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 5 of 23
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 6 ===
+TRI LOK®-Cx TRIPLE OFFSET BUTTERFLY VALVE
+Installation, Operation, and Maintenance Manual
+4.0 VALVE IDENTIFICATION
+NOTICE
+> Ensure the box is not damaged externally.
+> Remove the valve from the packaging and check for any
+damage to the valve and its components during transit.
+> Report any damage or discrepancies immediately.
+> Every valve has an identification tag and must not be removed
+or covered, so that the installed valve remains identifiable.
+> Depending on the region, the valve identification tag may vary.
+4.1 All valves, actuators, or control products are provided with an
+identification tag that is unique to each device.
+All products for the Cx Line feature a digital valve identification
+tag. The electronic tagging system — Bray DIGI-ID™ — ensures that
+each valve is uniquely and easily identifiable by simply scanning
+the QR Code on the product identification tag. This allows the
+operator to gain instant access to all relevant product information.
+This solution is in accordance with the DIN EN IEC 61406 (DIN
+Spec 91406) standard.
+Scan code for a more information
+about Bray DIGI-IDTM.
+© 2025 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 6 of 23
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 7 ===
+TRI LOK®-Cx TRIPLE OFFSET BUTTERFLY VALVE
+Installation, Operation, and Maintenance Manual
+5.0 SAFETY INFORMATION
+5.1 ATEX Directive 2014/34/EU
+WARNING
+When using this product in hazardous environments, the national
+directives and laws which apply in your country for hazardous
+areas must be followed. The specifications of the examination
+certificate valid in country of operation must be also observed.
+5.2 Special Conditions for Safe Use
+The following factors must be carefully considered in order to
+ensure the valve is compatible with the atmosphere in which it
+is applied. The system designer and/or end user should formally
+address each item and carefully document the reasoning
+behind specific measures taken to ensure continued compliance
+throughout the life of the Tri Lok®-Cx valve.
+5.3 Material Considerations
+Titanium is not to be used in Group I mining applications and
+Group II Category 1 equipment, due to the potential of ignition
+from sparks caused by mechanical impacts. Please consult
+factory for details regarding material limitations.
+5.4 Temperature Considerations
+The surface temperature of the Tri Lok®-Cx valve is wholly
+dependent on the ambient temperature in combination with the
+temperature (T) of the process medium. The maximum surface
+s
+temperature of the Tri Lok®-Cx valve may be calculated from the
+maximum ambient temperature (T )plus the maximum process
+a
+medium temperature (T ) as shown below:
+p
+Equation 1 — Surface Temperature Calculation
+T(max) = T (max) + T (max)
+s a p
+The system designer is responsible for ensuring the maximum
+temperature, either inside the valve body or on the external
+surface, will remain well below the ignition temperature of the
+atmosphere. Additional protective devices may be required
+to ensure a sufficient thermal safety margin, including but not
+limited to thermal shut-off devices and cooling devices.
+Note: For operating temperatures above 200°C, Bray
+recommends thermal insulation of the valve body.
+© 2025 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 7 of 23
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 8 ===
+TRI LOK®-Cx TRIPLE OFFSET BUTTERFLY VALVE
+Installation, Operation, and Maintenance Manual
+5.5 Static Electricity Considerations
+Where the process medium is a liquid or semi-solid material with
+a surface resistance in excess of 1 G-ohms, special precautions
+should be taken to ensure the process does not generate
+electro-static discharge. This may be done through ensuring
+the flow rate of the process media remains below 1 m/s or
+providing sufficient discharge points along the process path to
+eliminate electrostatic build-up. Consultation to EN 50404 is
+recommended.
+Note: Appropriate grounding may be necessary through the use
+of grounding straps or other means.
+5.6 Stray Electric Current Considerations
+When the Tri Lok®-Cx valve is used near sources of high current
+or magnetic radiation, a secure bonding to earth ground should
+be made so as to prevent ignition due to inductive currents or a
+rise in temperature due to these currents.
+5.7 Filtration of Process Medium Considerations
+Special consideration should be made regarding the filtration of
+the process medium if there is a potential for the process medium
+to contain solid particulates. The process medium is recommended
+to be filtered to allow particles no greater than 1 mm in diameter
+through the valve assembly where there is a high probability
+of solid particulates. Larger particulate sizes may be deemed
+appropriate based on the possibility of particulates within the
+process medium and the area classification. The decision regarding
+filtration levels and limits should be well-documented by the
+system designer and/or end user to ensure continued compliance
+through the life of the valve.
+5.8 Labelling Information
+The following information is printed on valves intended for ATEX
+applications:
+Certificate Number: CSANe 21ATEX6120X
+ATEX Marking: II 1G Ex h IIC Tx Ga (Non-Mining
+Applications)
+I M1 Ex h I Ma (Mining Applications)
+Specific valve information is printed on the identification label.
+Manufacturer information is printed on both labels.
+© 2025 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 8 of 23
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 9 ===
+TRI LOK®-Cx TRIPLE OFFSET BUTTERFLY VALVE
+Installation, Operation, and Maintenance Manual
+6.0 HAZARD-FREE USE
+6.1 This device left the factory in proper condition to be safely
+installed and operated in a hazard-free manner. The notes and
+warnings in this document must be observed by the user if this
+safe condition is to be maintained and hazard-free operation of
+the device assured.
+6.2 Take all necessary precautions to prevent damage to the valve
+due to rough handling, impact, or improper storage. Do not use
+abrasive compounds to clean the valve, or scrape metal surfaces
+with any objects
+6.3 The control systems in which the valve is installed must have
+proper safeguards to prevent injury to personnel, or damage to
+equipment, should failure of system components occur.
+6.4 The upper limits of permitted pressure and temperature
+(depending on the housing and liner materials) are shown on the
+valve tag and identified with PS and TS.
+6.5 The valve must not be operated until the following documents
+have been observed:
+> Declaration on EU Directives
+> IOM-Manual, which are supplied with the product.
+© 2025 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 9 of 23
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 10 ===
+TRI LOK®-Cx TRIPLE OFFSET BUTTERFLY VALVE
+Installation, Operation, and Maintenance Manual
+7.0 QUALIFIED PERSONNEL
+7.1 A qualified person in terms of this document is one who is
+familiar with the installation, commissioning, and operation of
+the device and who has appropriate qualifications, such as:
+> Is trained in the operation and maintenance of electrical
+equipment and systems in accordance with established
+safety practices.
+> Is trained or authorized to energize, de-energize, ground,
+tag, and lock electrical circuits and equipment in accordance
+with established safety practices.
+> Is trained in the proper use and care of personal protective
+equipment (PPE) in accordance with established safety
+practices.
+> In cases where the device is installed in a potentially
+explosive (hazardous) location — is trained in the
+commissioning, operation, and maintenance of equipment in
+hazardous locations.
+7.2 Additional information about Tri Lok®-Cx valves — including
+application data, engineering specifications, and actuator
+selection — is available from your local Bray distributor or sales
+representative.
+© 2025 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 10 of 23
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 11 ===
+TRI LOK®-Cx TRIPLE OFFSET BUTTERFLY VALVE
+Installation, Operation, and Maintenance Manual
+8.0 HANDLING REQUIREMENTS
+WARNING
+A potential hazard exists with handling valves. Failure to handle
+valves properly may cause a valve to shift, slip or fall causing
+serious injury or death and/or equipment damage.
+CAUTION
+Caution must be taken during handling to avoid this equipment
+passing over workers, or over any other place where a possible
+fall could cause injury or damage.
+For handling and/or lifting, the lifting equipment (fasteners,
+hooks, etc.) must be sized and selected while taking into account
+the product weight indicated in our packing list and/or delivery
+note. Lifting and handling must be performed only by qualified
+personnel.
+Fasteners must be protected by plastic covers in sharp corner
+areas.
+In all cases, local safety regulations must be respected.
+8.1 Packed Valves
+The transportation of all packed material must be carried out
+safely and following the local safety regulations.
+> Crates: Lifting and handling of the packed valves in crates will
+be carried out by a fork lift truck, by means of the appropriate
+fork hitches.
+> Cases: The lifting of packed valves in cases will be carried out
+in the lifting points and in the center of gravity position which
+has been marked.
+8.2 Unpacked Valves
+Lifting and handling of valves should be carried out by using
+appropriate means and observing carrying limits.
+> Handling must be carried out on pallets, protecting all
+machined surfaces to avoid any damage.
+> With large bore valves, rigging the load must be carried out by
+using the appropriate tools to prevent the valve from falling or
+moving during the lifting and handling.
+© 2025 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 11 of 23
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 12 ===
+TRI LOK®-Cx TRIPLE OFFSET BUTTERFLY VALVE
+Installation, Operation, and Maintenance Manual
+9.0 LONG TERM STORAGE
+9.1 If valves are to be stored before installation, storage must be
+carried out in a controlled manner as follows:
+> Valves must be stored in a closed, clean and dry environment.
+> Valve disc to be in closed position and the body end faces
+must be covered with appropriate flange protection. Flange
+protectors should only be removed at the time of installation.
+> Valves should be stored indoors with a preferred temperature
+range from 4°C to 29°C.
+> The valves should be checked to ensure the above conditions
+are maintained every three months.
+> These are general guidelines for valve storage. Please consult
+the factory for information regarding specific requirements.
+© 2025 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 12 of 23
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 13 ===
+TRI LOK®-Cx TRIPLE OFFSET BUTTERFLY VALVE
+Installation, Operation, and Maintenance Manual
+10.0 INSTALLATION
+10.1 Tri Lok®-Cx is designed to be installed between DIN EN 1092-1 Table 1: Minimum Allowable Pipe
+flanges. When the valve is open, a portion of the disc will protrude ID for Tri Lok®-Cx Installation
+into the pipe. Adjacent piping must be large enough to allow the
+Valve/Pipe Minimum Pipe ID
+open disc to clear the pipe. Table 1 shows the minimum allowable Size
+PN10 PN25 | PN40
+pipe ID.
+DN mm mm
+80 61 64
+10.2 The valve closes with clockwise rotation of the stem and opens
+100 84 91
+with counterclockwise rotation.
+150 135 137
+CAUTION 200 180 185
+Avoid uncontrolled rotation of the disc beyond fully-open position 250 228 244
+(counterclockwise) as this could damage the sealing surfaces. 300 278 297
+350 310 315
+10.3 To benefit from the most favorable low operating torque and best 400 359 371
+sealing conditions, install the valve with the stem on the upstream 450 403 417
+(pressure side) of the installation. The valve tag is marked with an 500 454 467
+arrow indicating the preferred direction of flow. 600 554 528
+700 616 613
+10.4 Whenever possible, install with the stem horizontal. If this
+750 686 729
+installation is not possible, orient the stem at an inclined angle
+800 747 737
+above the horizontal centerline.
+900 846 889
+10.5 Flange gaskets should conform to the requirements of DIN EN 1000 834 925
+1092-1 flanges. Spiral wound gaskets conforming to EN1514-2 are 1050 992 Consult
+1200 1140 Factory
+recommended.
+Notes:
+10.6 When bolting the valve into the line, use standard bolting torque 1 Minimum allowable ID of pipe with
+recommended clearances (per API 609).
+as recommended by applicable flange gasket manufacturers or 2 This table assumes that the valve is
+piping standards. The valve’s ability to seal is independent from centered in the pipe flanges.
+3 A minimum of 1.6 mm thick gasket is
+the flange bolting. Additional force from the flange bolts is not used between the pipe flange and the
+required. face of the valve body.
+© 2025 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 13 of 23
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 14 ===
+TRI LOK®-Cx TRIPLE OFFSET BUTTERFLY VALVE
+Installation, Operation, and Maintenance Manual
+11.0 OPERATOR AND TRAVEL STOP SETTING INSTRUCTIONS
+11.1 Tri Lok®-Cx is a quarter turn, metal-seated triple offset valve.
+There is no mechanical stop in the valve at the “closed” position.
+11.2 When installing ANY type of operator on a Tri Lok®-Cx valve, the
+following general instructions should be followed closely. These
+general instructions include all operator types: manual gear,
+pneumatic, hydraulic, and electric actuators.
+> Select a desired orientation for the operator mounting relative
+to the valve. The disc should be oriented with the disc indicator
+marked on the stem.
+> Rotate BOTH valve and operator to either the full “open” or full
+“closed” position to establish a common reference point.
+> Mount operator to the valve and secure.
+NOTICE
+With valve/operator in the closed position, it may be necessary to
+loosen the “closed” mechanical stop to allow the mounting holes
+to align properly.
+Special applications may require more specific instructions. Please
+consult the Bray factory or operator manual for further instruction.
+CAUTION
+Valves can be damaged if proper care is not exercised during the
+setting of open and /or closed stops.
+11.3 Operator Stop Settings
+The Tri Lok®-Cx valve is a torque seated valve. During normal
+operation, only the open mechanical stop on the operator should
+function. Set the opening stroke stop to stop the disc rotation in
+the fully open (90°) position.
+For safety reasons, the closed mechanical stop shall be set as
+follows:
+> Unscrew the closing stroke mechanical stop.
+> Close the valve applying the correct end-to-close torque
+required for the particular service. Check that the mechanical
+stop is free.
+> Adjust mechanical stop until engagement.
+> Loosen the mechanical stop 1 to 11/2 turns to ensure there is
+enough travel for the valve to receive the required torque and
+to protect the valve from excessive torque.
+> Tighten the stop lock nut with the torque specified in the
+operator manual.
+> Mark the closing stop set position.
+© 2025 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 14 of 23
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 15 ===
+TRI LOK®-Cx TRIPLE OFFSET BUTTERFLY VALVE
+Installation, Operation, and Maintenance Manual
+12.0 STANDARD MAINTENANCE
+WARNING
+Precautions should be taken before beginning any work on the
+valve assembly.
+Protective clothing, as required by appropriate safety codes,
+should be worn.
+Relieve line pressure and close valve before:
+> Removing any actuation.
+> Loosening any packing gland nuts.
+Do not pressurize the line without an actuation device properly
+installed and working on the valve.
+Use only Bray parts for maintenance and repairs.
+CAUTION
+The Tri Lok®-Cx valve must be in the closed position to be
+removed from the line to prevent damaging the disc seal ring.
+Note: When handling the valve, care should be taken not to
+scratch the seal ring, seat and gasket faces on both sides of
+the valve. Replacement seat, disc seal ring, and other parts are
+available from authorized Tri Lok®-Cx sales and service locations.
+12.1 Recommended Lubricants
+> Molykote® Plus CU-7439 (grease) or equivalent for fasteners.
+> Molykote® Spray 321 R (dry lubricant) or equivalent for disc
+seal ring.
+> Light mineral oil for packing and gasket interface areas (disc
+seal ring and gasket grooves).
+© 2025 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 15 of 23
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 16 ===
+TRI LOK®-Cx TRIPLE OFFSET BUTTERFLY VALVE
+Installation, Operation, and Maintenance Manual
+12.2 Packing Replacement
+(Refer to Parts Identification 3.0 and Tables 15.0)
+12.2.1 If the valve is installed, relieve line pressure. Remove actuator
+from the valve. Remove the keys (P1). Remove socket head cap
+screws (M2) and lock washers (M3). Remove mounting bracket
+(M1) and pins (M4). Mark assembly positions of the actuator and
+the mounting hardware for reinstallation.
+12.2.2 Remove hex nuts (H10), flat washers (H7), disc springs (H8), live
+load sleeves (H9), and the additional flat washers (H7) located
+under disc springs. Remove gland retainer (H4), anti-blowout
+retaining ring/split ring (H5) and gland ring (H1). Remove all stem
+packing (H3), taking care not to scratch the stem (D1) or the bore
+of the valve body. Do not remove the thrust washer (H2) unless
+further valve disassembly is required.
+12.2.3 Examine the valve body packing bore and the stem surface. Clean
+as necessary to remove any corrosion, foreign matter and minor
+surface imperfections.
+12.2.4 Apply a small amount of grease to the stem end. Lubricate each
+packing ring (H3) and install them into the valve body packing
+bore one at a time.
+12.2.5 Reinstall gland ring (H1), anti-blowout retaining ring (H5) and
+gland retainer (H4). Reinstall flat washers (H7), live load sleeves
+(H9), disc springs (H8), flat washers (H7), and hex nuts (H10).
+Tighten hex nuts (H10) utilizing a cross bolting technique to the
+proper torque value given in Table 2. Reinstall mounting bracket
+(M1) and pins (M4) with cap screws (M2) and lock washers (M3).
+Tighten according to the torque specified in Table 4. Install
+the key (P1) and remount actuation device on top of the valve,
+ensuring the actuator is properly oriented.
+12.2.6 Operate the valve open and closed several times to set the stem
+packing rings. Loosen hex nuts (H10) and retighten, utilizing a
+cross bolting technique, to torque value given in Table 2.
+12.3 Replace Bottom Plate Gasket
+(Refer to Parts Identification 3.0 and Tables 15.0)
+12.3.1 Hex nuts (H10) should be in tightened condition while replacing
+the bottom plate gaskets during inline maintenance.
+12.3.2 If the valve is installed, remove line pressure.
+12.3.3 Completely remove the bottom plate cap screws (G3). Remove
+the bottom plate (G1) and the bottom plate gasket (G2). Clean
+the bottom plate and body gasket area of residual graphite or
+foreign materials.
+12.3.4 Grease the body/bottom plate gasket groove area. Place the new
+gasket (G2) on the bottom plate (G1) and install it onto the body.
+12.3.5 Reinstall the bottom plate cap screws (G3) and using a cross
+bolting technique, tighten them according to the torque specified
+in Table 3.
+© 2025 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 16 of 23
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 17 ===
+TRI LOK®-Cx TRIPLE OFFSET BUTTERFLY VALVE
+Installation, Operation, and Maintenance Manual
+13.0 SEAT & SEAL RING REPLACEMENT
+(Refer to Parts Identification 3.0 and Tables 15.0)
+Note: It is highly recommended that both the seat (B1) and seal
+ring (C2) be replaced at the same time. However, individual
+components are not matched in pairs and may be replaced
+separately if desired.
+CAUTION
+Exercise extra care when handling the seat and seal ring to avoid
+damage to the sealing surfaces.
+13.1 Replace Seat & Seal Ring (Both at Same Time)
+13.1.1 Remove the valve with the disc in the closed position from line.
+Place the valve on a flat stable surface with the body seat (B1)
+facing up.
+Note: If valve is actuated with fail close or fail open pneumatic/
+hydraulic actuator (without manual override), remove it from
+the valve. A suitable gearbox must be installed to perform
+maintenance on the valve.
+13.1.2 Carefully clean the surface of the seat and remove all foreign
+matter from the hex sockets of seat cap screws (B3). Use
+compressed air to blow out the gap between the seat OD and the
+wall of the retaining cavity in valve body (A1). Apply a suitable
+lubricant into the gap between the seat outside diameter (B1)
+and the body (A1) to help in extracting the seat (B1) from the
+body cavity.
+13.1.3 Open the valve until the seal ring is disengaged from the seat
+using a wrench, remove all seat cap screws (B3).
+13.1.4 Using a hardwood or aluminum drift and a light hammer, tap the
+top of the seat (B1) lightly all around to loosen the seat in the
+retaining cavity. Using full-threaded bolts or suitable threaded
+rod matched to the threads in all tapped jacking holes, begin
+jacking the seat (B1) evenly out from the retaining cavity. Tap the
+seat lightly with the drift as necessary to keep it in alignment with
+the walls of the retaining cavity in the body (A1). Remove the seat
+(B1) from the body (A1).
+13.1.5 Close the valve. Remove the seal ring retainer screws (C5) from
+seal ring retainer (C4). Remove disc seal ring retainer (C4).
+Remove the seal ring (C2) and seal ring gasket (C3) from the disc
+groove.
+13.1.6 Using soft tools and a suitable wire brush, carefully clean any
+remnants of removed gasket and foreign matter within the
+retaining cavity of the body (A1) and face of the disc (C1). Blow
+out all threaded holes and the gasket groove with compressed air.
+© 2025 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 17 of 23
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 18 ===
+TRI LOK®-Cx TRIPLE OFFSET BUTTERFLY VALVE
+Installation, Operation, and Maintenance Manual
+13.1.7 Place a new seal ring gasket (C3) into the groove on the disc
+face (C1). The mating side of the seal ring gasket may be lightly
+greased to improve retention in the groove. Apply a suitable
+lubricant to the sealing surfaces of the seal ring (C2). Place the
+new seal ring (C2) onto the disc such that the notch is aligned.
+Place the seal retainer (C4) over the seal ring. Apply anti-seize
+compound to the seal ring retainer cap screws (C5). Replace
+the screws if required. The seal retaining flange cap screws (C5)
+should be fully threaded into the disc (C1), but remain only finger-
+tight at this time. Open the valve to approximately 20°.
+13.1.8 Place the seat gasket (B2) into the groove of the seat (B1). It is
+highly recommended to apply grease to the mating side of the
+seat gasket to secure its position in the groove. Apply a suitable
+lubricant to the sealing surfaces of the seat (B1). Insert the seat
+(B1) into the body (A1) making sure the alignment dimples in the
+seat (B1) and the retaining cavity in the body (A1) match. Apply
+anti-seize compound to seat retaining cap screws (B3) and install
+the screws (B3) finger tight. Replace the screws if required. Using a
+cross bolting technique, to 50% of the torque specified in Table 3.
+Once all screws are tightened, proceed to fully tighten them to
+100% of the listed torque value.
+13.1.9 Using a suitable actuation device, close and open the valve 2 to
+3 times, only closing the valve to the point where the seal ring
+engages with the seat. Check each time that the disc seal ring
+makes full contact without torqueing into the seat. Attention
+should be paid in the closing stroke that the seat does not
+scratch the seal ring. This will allow the seal ring and seat to be
+properly aligned.
+13.1.10 Close the valve. Tighten at least four screws in the seal ring
+retainer to prevent the seal ring from further movement. Open
+the valve sufficient enough to tighten the seal ring retainer
+screws. Tighten all seal ring retainer screws (C5) using a cross
+bolting technique, to 50% of the torque specified in Table 3. Once
+all screws are tightened, proceed to fully tighten them to 100% of
+the listed torque value.
+13.1.11 Re-apply lubricant to the sealing surfaces of the valve. Reinstall
+actuation device (wherever applicable) and test the valve.
+13.2 Replace Seat Only
+To replace the seat and to reuse the existing seal ring, refer to
+Section 13.1 Replace Seat & Seal Ring (Both at Same Time)
+where the existing seal ring removed from the valve can be
+cleaned and reused. However, the existing seal ring gasket (C3)
+has to be replaced while using the existing seal ring. Exercise
+extra care when handling the seal ring to prevent it from any
+damage.
+© 2025 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 18 of 23
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 19 ===
+TRI LOK®-Cx TRIPLE OFFSET BUTTERFLY VALVE
+Installation, Operation, and Maintenance Manual
+NOTICE
+The seal ring may be replaced in two ways; without the seat
+removal or with the seat removal.
+13.3 Replace Seal Ring (Without Seat Removal from the Valve)
+Note: This procedure is not suitable if the seal ring (C2) is to be
+replaced while the valve is installed in the pipeline. In addition,
+this procedure is not recommended for large valves where
+manipulating the valve may be more difficult than removing the
+seat (B1) and installing the seal ring (C2) solely from the seat side
+of the body.
+13.3.1 To remove the seal ring (C2) without removing the seat (B1), the
+actuation device must be removed and the valve oriented in a
+manner that allows access to both sides.
+13.3.2 Remove the valve with the disc in the closed position from line.
+Clean the surface of the valve with compressed air, blow out all
+debris around the seal ring retainer (C4) and clean out the hex
+sockets of the seal ring retainer cap screws (C5).
+13.3.3 Open the valve a few degrees until the seal is disengaged from
+the seat.
+13.3.4 Loosen all seal ring retainer cap screws (C5), but leave them in
+the valve with the seal ring retainer (C4) attached to the disc
+(C1).
+13.3.5 Using a wrench, rotate the valve stem (D1) counterclockwise past
+the fully open position far enough so the disc’s position is able to
+allow seal ring retainer and seal ring removal (C2). Be careful not
+to over-rotate the stem (D1) to the point where the seal ring (C2)
+or disc edge (C1) contact the body (A1). Make sure the packing
+gland retainer nuts (H10) are tight enough to prevent the valve
+stem (D1) from rotating on its own under the eccentric weight of
+the disc (C1).
+13.3.6 Remove the seal ring retaining cap screws (C5), disc seal ring
+retainer (C4), seal ring (C2) and the seal ring gasket (C3).
+13.3.7 Rotate the disc (C1) as necessary to access the seal face on the
+disc (C1). Using soft tools and suitable wire brush, carefully clean
+any remnants of removed gasket and foreign matter from the
+face of the disc (C1). Blow out all threaded holes and the gasket
+groove with compressed air.
+© 2025 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 19 of 23
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 20 ===
+TRI LOK®-Cx TRIPLE OFFSET BUTTERFLY VALVE
+Installation, Operation, and Maintenance Manual
+13.3.8 Rotate the disc (C1) to its previous position to facilitate
+installation of the seal ring (C2). Place a new seal ring gasket
+(C3) into the groove on the disc face (C1). The mating side of
+the seal ring gasket can be lightly greased to improve retention
+in the groove. Lubricate the sealing surfaces of the seal ring(C2)
+and place the seal ring (C2) onto the disc (C1) making sure the
+alignment line on the disc seal ring matches the locating dimple
+on the disc face. Place the seal ring retainer (C4) over the seal
+ring. Apply anti-seize compound to the seal ring retainer cap
+screws (C5). Replace the screws if required. The cap screws (C5)
+should be fully threaded into the disc (C1), but remain only finger-
+tight at this time.
+13.3.9 Lubricate the sealing surfaces of the seat (B1). Using a suitable
+actuator, close and open the valve 2 to 3 times, only closing the
+valve to the point where the seal ring engages the seat. Check
+each time that the seal ring makes full contact without torquing
+into the seat. Attention should be paid in the closing stroke that
+the seat does not scratch the seal ring. This will allow the seal
+ring and seat to be properly aligned.
+13.3.10 Close the valve. Orient the valve with the seat side facing up.
+13.3.11 Tighten at least four screws in the seal ring retainer to prevent
+the seal ring from further movement. Open the valve sufficient
+enough to tighten the seal ring retainer screws. Tighten all seal
+ring retainer screws (C5) using a cross bolting technique, to 50%
+of the torque specified in Table 3. Once all screws are tightened
+proceed to fully tighten them to 100% of the listed torque value.
+Re-apply lubricant to the sealing surfaces of the valve.
+13.4 Replace Seal Ring (With Seat Removal from the Valve)
+To replace the seal ring by removing the seat from the valve, refer
+to Section 13.1 Replace Seat & Seal Ring (Both at Same Time)
+where the existing seat removed from the valve can be cleaned
+and reused. However, the existing seat gasket (B2) has to be
+replaced. Exercise extra care when extracting the seat (B1) from
+the retaining cavity in the valve body (A1). When using jacking
+bolts to extract the seat, avoid forcing the jack screws unevenly
+which could result in permanent deformation of the seat (B1).
+Ensure that the seat (B1) slides out of the retaining cavity easily
+in a balanced and level manner.
+© 2025 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 20 of 23
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 21 ===
+TRI LOK®-Cx TRIPLE OFFSET BUTTERFLY VALVE
+Installation, Operation, and Maintenance Manual
+14.0 RETURN MERCHANDISE AUTHORIZATION
+14.1 All products that are returned require a Return Merchandise
+Authorization (RMA). Contact a Bray representative for instructions
+and RMA forms to be completed prior to return of any product.
+14.2 The following information must be provided when submitting RMA.
+> Serial number
+> Part number
+> Month and year of manufacture
+> Actuator specifics
+> Application
+> Media
+> Operating temperature
+> Operating pressure
+> Total estimated cycles (since last installation or repair)
+NOTE: Product information is provided on identification tag
+attached to device.
+NOTICE
+Materials must be cleaned and sanitized prior to return. MSDS
+sheets and Declaration of Decontamination are required.
+© 2025 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 21 of 23
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 22 ===
+TRI LOK®-Cx TRIPLE OFFSET BUTTERFLY VALVE
+Installation, Operation, and Maintenance Manual
+15.0 TABLES
+Table 2: Torque Values for Packing Gland Hex Nuts
+Valve Size PN10 PN25 | PN40
+DN N m N m
+80 6 6
+100 8 8
+150 8 14
+200 9 17
+250 14 17
+300 17 23
+350 23 35
+400 23 74
+500 35 88
+600 74 88
+Table 3: Torque Values for Cap Screws — Seat Retainer, Seal Retainer,
+and Bottom Plate
+Valve PN10 PN25 | PN40
+Size
+Seat Seal Ring Bottom Plate Seat Seal Ring Bottom Plate
+Retainer Cap Screw Retainer Cap Screw
+DN N m N m N m N m N m N m
+80 3 3 13 3 3 13
+100 5 5 13 5 5 13
+150 5 5 13 5 13 25
+200 5 5 13 14 13 25
+250 14 13 25 14 25 44
+300 14 25 25 14 25 44
+350 14 25 44 14 44 44
+400 14 25 44 14 44 109
+500 26 44 44 46 44 109
+600 26 44 109 46 109 212
+Table 4: Torque Values for Bracket Fasteners
+Valve Size PN10 PN25 | PN40
+DN N m N m
+80 13 13
+100 25 25
+150 25 44
+200 25 212
+250 44 212
+300 212 212
+350 212 109
+400 212 109
+500 212 212
+600 109 212
+© 2025 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 22 of 23
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 23 ===
+SINCE 1986, BRAY HAS PROVIDED FLOW CONTROL SOLUTIONS
+FOR A VARIETY OF INDUSTRIES AROUND THE WORLD.
+VISIT BRAY.COM TO LEARN MORE ABOUT
+BRAY PRODUCTS AND LOCATIONS NEAR YOU.
+HEADQUARTERS
+BRAY INTERNATIONAL, INC.
+13333 Westland East Blvd.
+Houston, Texas 77041
+Tel: +1.281.894.5454
+All statements, technical information, and recommendations in this bulletin are for general
+use only. Consult Bray representatives or factory for the specific requirements and material
+selection for your intended application. The right to change or modify product design or
+product without prior notice is reserved. Patents issued and applied for worldwide.
+Bray® is a registered trademark of Bray International, Inc.
+© 2023 BRAY INTERNATIONAL. ALL RIGHTS RESERVED. BRAY.COM EN_EU_IOM_TRILOK_Cx_20250812
+THE HIGH PERFORMANCE COMPANY BRAY.COM

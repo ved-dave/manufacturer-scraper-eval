@@ -1,0 +1,363 @@
+=== page 1 ===
+SERIES 746HP
+POLYURETHANE LINED HIGH
+PERFORMANCE KNIFE GATE VALVES
+TECHNICAL SALES MANUAL
+BRAY.COM THE HIGH PERFORMANCE COMPANY
+=== page 2 ===
+CONTENTS
+CONTENTS 2
+TECHNICAL DATA 3
+FEATURES & BENEFITS 4
+OPTIONS 5
+OPTIONS & ACCESSORIES 6
+OPTIONS & ACCESSORIES 7
+VALVE SELECTION 8
+MATERIALS OF CONSTRUCTION | PARTS CALLOUT 9
+MATERIALS OF CONSTRUCTION | PARTS LIST 10
+PRESSURE/TEMPERATURE | (psi/°F) 11
+PRESSURE/TEMPERATURE | (bar/°C) 12
+DIMENSIONS & WEIGHTS | (in & lb) 13
+DIMENSIONS & WEIGHTS | (mm & kg) 14
+© 2026 BRAY INTERNATIONAL. ALL RIGHTS RESERVED. BRAY.COM EN_TSM_746HP_260911 2 of 13
+=== page 3 ===
+TECHNICAL DATA
+OVERVIEW
+The Bray Series 746HP features a one-piece polyurethane
+liner molded throughout the body and chest providing Zero
+Leakage in the most abrasive applications The liner extends
+over the front face of the body, ensuring total protection
+from abrasive media and eliminating the need for additional
+gaskets
+The one-piece, durable ductile iron body is offered in a
+compact wafer style for ease of handling and installation
+SPECIFICATIONS
+Size Range NPS 2 to 24 | DN 50 to 600
+Temperature Range Polyurethane: -20°F to 194°F | -29°C to 90°C
+Pressure Rating 150psi | 10bar 232psi | 16bar
+Body Style One-Piece - Wafer
+DESIGN STANDARDS
+Face-to-Face MSS SP-81
+Flange Drilling ASME B16.5 CL150
+Design Standard Manufacturer Standard
+Testing Standard MSS SP-151
+STANDARD CONSTRUCTION
+Body Ductile Iron
+MATERIAL OPTIONS
+Gate 10bar | 316 Stainless Steel 16bar | 2205
+Liner Polyurethane Body Ductile Iron
+Stem 304 Gate 304, 317 Stainless Steel
+17-4PH Stainless Steel
+Gland Carbon Steel
+SAF 2507 Duplex
+Packing PTFE Impregnated Synthetic Fiber + Quad Seal
+SAF 2205 Duplex
+Topworks Carbon Steel
+Hastelloy® C
+Monel®
+Stem 316
+ACTUATOR OPTIONS
+Packing PTFE w/Copper Wiper | Graphite
+Direct Mounted Handwheel | Bevel Gear Operator PTFE w/Viton Quad Seal
+Double Acting Pneumatic | Hydraulic | Electric
+© 2026 BRAY INTERNATIONAL. ALL RIGHTS RESERVED. BRAY.COM EN_TSM_746HP_260911 3 of 13
+=== page 4 ===
+FEATURES & BENEFITS
+FEATURES
+1 Upper and lower protective stem cover is standard in all
+models, increasing cycle life in hazardous environments
+2 Multi-layer square packing with energized quad seal
+provides exceptional gland sealing
+3 Standard one-piece ductile iron body with polyurethane
+molded liner throughout Polyurethane body liner is
+rated up to 194°F/90°C and completely protects valve
+body from abrasive line media
+4 Unrestricted flow path with minimal pressure drop
+achieved through full port valve design for extended 1
+valve life
+5 Available in a wide range of corrosion-resistant alloys,
+the robust tapered edge gate efficiently cuts through
+thick slurries or solids in the flow
+6 Seat and port designed to be flush eliminating cavities
+where media can collect and prevent full gate closure
+1
+INDUSTRIES
+Wastewater
+> Slurry/Sludge Lines
+Mining
+> Mineral Mining
+> Coal Washeries
+> Coal Preparation
+Power
+> Fly Ash | Bottom Ash
+> Branch Lines
+2
+Chemical
+> Process Fluids & 3
+Chemicals
+> Petroleum Products
+5
+4
+6
+© 2026 BRAY INTERNATIONAL. ALL RIGHTS RESERVED. BRAY.COM EN_TSM_746HP_260911 4 of 13
+=== page 5 ===
+OPTIONS
+BODY STYLES
+SOLID FLANGE DOUBLE FLANGE
+NPS 2 to 12 NPS 14 to 24
+PACKING MAXIMUM TEMPERATURE RANGE
+Pure PTFE 500°F Pure PTFE
+260°C
+PTFE Impegnated Synthetic Fiber 450°F PTFE Impregnated
+Synthetic Fiber
+232°C
+PTFE w/Buna-N Quad Seal1 194°F
+PTFE w/Buna-N
+Quad Seal
+90°C
+PTFE w/Viton® Quad Seal1 392°F
+PTFE w/Viton®
+200°C Quad Seal
+PTFE w/EPDM Quad Seal1 248°F
+PTFE w/EPDM
+120°C Quad Seal
+PTFE w/Copper Wiper 450°F
+PTFE w/Copper
+232°C Wiper
+NOTE 1 Pure PTFE or PTFE Impregnated Synthetic Fiber
+can be used
+© 2026 BRAY INTERNATIONAL. ALL RIGHTS RESERVED. BRAY.COM EN_TSM_746HP_260911 5 of 13
+=== page 6 ===
+OPTIONS & ACCESSORIES
+AVAILABLE ACCESSORIES
+PNEUMATIC FAILSAFE MANUAL OVERRIDE GATE GUARD PROXIMITY SENSOR
+MECHANICAL ELECTRO PNEUMATIC CHAIN WHEEL
+LIMIT SWITCH POSITIONER
+© 2026 BRAY INTERNATIONAL. ALL RIGHTS RESERVED. BRAY.COM EN_TSM_746HP_260911 6 of 13
+=== page 7 ===
+OPTIONS & ACCESSORIES
+ACTUATOR OPTIONS
+DIRECT MOUNTED HANDWHEEL BEVEL GEAR OPERATOR DOUBLE ACTING PNEUMATIC
+ACTUATOR
+HYDRAULIC ACTUATOR ELECTRIC ACTUATOR
+ACTUATOR SELECTION
+NPS 2 3 4 6 8 10 12 14 16 18 20 24
+VALVE SIZE
+DN 50 80 100 150 200 250 300 350 400 450 500 600
+ACTUATOR SIZING 10bar / 16bar C3 C4 C6 C8 C10 C12 C14 C16 C20 C20 C24 C32
+NOTES
+1 Actuator sizing done based on actuator supply pressure of 5 bar
+2 Factor Of Safety (FOS) on design thrust>=2 0
+© 2026 BRAY INTERNATIONAL. ALL RIGHTS RESERVED. BRAY.COM EN_TSM_746HP_260911 7 of 13
+=== page 8 ===
+VALVE SELECTION
+VALVE PART NUMBERING SYSTEM
+Select one code from each category to build a complete valve order number
+XXXX-XXXX-XX-AXXXXXX-BXXXX-XXXXX
+“V” or “S” OPERATOR ASSEMBLY
+X XXXX
+SERIES SIZE OPERATOR TYPE
+XX XXXX X
+Code Flow Direction Code NPS DN PRESSURE TOPWORKS Code Operator
+RATING (bar) XXXX
+7XX Bidirectional 0200 2 50 XX C Pneumatic Actuator
+9XX Unidirectional 0300 33 65 D Rising Stem Hand Wheel
+0400 4 80
+E Electric Actuator | Rising Stem
+0500 5 100
+F Non-Rising Stem Hand Wheel
+0600 6 150
+ASSEMBLY - PT 1 ASSEMBLY - PT 2
+0800 8 200 XXX XXX G Chain Wheel
+1000 10 250 Part Part H Bevel Gear | Rising Stem
+1200 12 300 Body Drilling L Lever
+1400 14 350 Seat End Style M Hydraulic Actuator
+1600 16 400 Gate Body Options
+N Bare Stem
+1800 18 450 Gland Gate Options
+P Bevel Gear | Non-Rising Stem
+2000 20 500 Fasteners Other Options
+2400 24 600 Packing Q Electric Actuator | Non-Rising Stem
+NOTES:
+1 For a complete list of standard materials and descriptions, refer to
+MATERIALS OF CONSTRUCTION Other materials are available, please
+contact Bray for additional information
+2 No assigned code, ASSEMBLY NUMBER is generated by
+Engineering configurator
+EXAMPLE
+S746-0800-10-A610610-B0610-D6110
+> Bidirectional, Slurry
+> 8 inch (200 mm)
+> 150 psi (10 bar) rated valve
+> Standard build assembly
+> Rising Stem Hand Wheel
+© 2026 BRAY INTERNATIONAL. ALL RIGHTS RESERVED. BRAY.COM EN_TSM_746HP_260911 8 of 13
+=== page 9 ===
+MATERIALS OF CONSTRUCTION | PARTS CALLOUT
+PARTS CALLOUT
+33
+19
+32
+31 18
+30
+17
+29
+14
+28
+27 15
+16 12
+26
+13
+24
+11
+25
+10
+21
+9
+5
+7
+6
+8
+3
+20
+22
+2
+23
+4 1
+© 2026 BRAY INTERNATIONAL. ALL RIGHTS RESERVED. BRAY.COM EN_TSM_746HP_260911 9 of 13
+=== page 10 ===
+MATERIALS OF CONSTRUCTION | PARTS LIST
+PARTS LIST AND MATERIAL SPECIFICATIONS
+ITEM DESCRIPTION MATERIAL
+1 Body (Polyurethane Lined) Ductile Iron
+2 Tower Mounting Bolt Carbon steel
+3 Tower Mounting Washer Carbon steel
+4 Tower Mounting Nut Carbon steel
+5 Gland Carbon steel
+6 Gland Packing PTFE Impregnated Synthetic Fiber
+7 Quad Seal Viton
+8 Gland Mounting Stud Carbon steel
+9 Gland Mounting Washer Carbon steel
+10 Gland Mounting Nut Carbon steel
+11 Gate SS316 / SS 2205
+12 Clevis Gate Bolt SS 304
+12 Clevis Gate Nut SS 316
+14 Stem Clevis Bolt SS 304
+15 Clevis SS 316
+16 Stem Clevis Nut SS 316
+17 Stem SS 304
+18 Bellows Hose Clip Steel
+19 Bellows Canvaas
+20 Bellow Flange Carbon steel
+21 Superstructure/Tower Assembly Carbon steel
+22 Handwheel Mounting Washer Carbon steel
+23 Handwheel Mounting Nut Carbon steel
+24 Stem Nut Brass
+25 Key Carbon steel
+26 Thrust Ball Bearing Steel
+27 Handwheel Grease Nipple Stainless Steel
+28 Handwheel Housing Carbon steel
+29 Handwheel Housing Bolt Carbon steel
+30 Handwheel Ductile Iron
+31 Grub Screw Carbon steel
+32 Handwheel Lock Nut Brass
+33 Stem Guard Carbon steel
+NOTES
+1 Material specifications provided for reference only, and are subject to change without notice
+2 Additional materials available upon request
+© 2026 BRAY INTERNATIONAL. ALL RIGHTS RESERVED. BRAY.COM EN_TSM_746HP_260911 10 of 13
+=== page 11 ===
+DIMENSIONS & WEIGHTS | ASME (in & lb)
+ASME CLASS 150 | SERIES 746HP
+P
+E
+M
+L
+N
+D
+F-NOS xK (Tapped holes)
+xG (Deep) per side
+H-NOS xK (Tapped holes)
+xJ (Deep) per side
+B C-PCD
+B1*
+A
+Direct Mounted Pneumatic Bevel
+Handwheel Actuator Gear
+DIMENSIONS (inch) WEIGHT (lbs)
+NPS A B B1 * C-PCD D ØE F G H J K L ØM N P HAND PNEUMATIC GEAR
+WHEEL ACTUATOR OPERATOR
+2 6 5 1 89 2 13 4 75 21 26 11 81 2 0 39 2 0 79 5/8"-11 UNC 21 46 11 81 19 09 9.06 60 49 57
+3 7 9 2 01 2 24 6 00 23 43 11 81 2 0 39 2 0 79 5/8"-11 UNC 25 20 11 81 22 83 9.06 73 64 68
+4 9 1 2 01 2 24 7 50 26 57 11 81 2 0 39 6 0 79 5/8"-11 UNC 28 74 11 81 25 39 9.06 88 90 86
+6 11 4 2 24 2 48 9 50 35 04 15 75 2 0 47 6 0 79 3/4"-10 UNC 37 40 11 81 36 22 13.39 154 172 150
+8 13 6 2 76 2 99 11 75 39 57 19 69 2 0 51 6 0 98 3/4"-10 UNC 42 91 11 81 38 98 13.39 203 238 196
+10 16 1 2 76 2 99 14 25 46 06 19 69 4 0 55 8 1 18 7/8"-9 UNC 51 38 11 81 45 87 13.39 273 348 267
+12 19 1 2 99 3 23 17 00 - - 4 0 55 8 1 18 7/8"-9 UNC 57 48 19 69 50 79 18.7 - 505 379
+14 21 0 2 99 3 23 18 75 - - 6 0 55 6 1 18 1"-8 UNC 65 16 19 69 55 71 18.7 - 706 432
+16 23 6 3 50 3 74 21 25 - - 8 0 63 8 1 38 1"-8 UNC 73 43 19 69 63 98 22.83 - 1065 661
+18 25 2 3 50 3 74 22 75 - - 8 0 63 8 1 57 1-1/8"-8 UN 77 95 19 69 68 90 22.83 - 1157 763
+20 28 1 4 49 4 72 25 00 - - 12 0 96 8 1 57 1-1/8"-8 UN 87 20 29 53 74 61 22.83 - 1841 992
+24 33 1 4 49 4 72 29 50 - - 12 0 83 8 1 77 1-1/4"-8 UN 101 18 39 37 88 98 25.2 - 2469 1598
+NOTES
+1 Consult factory for hydraulic and electric actuator dimensions
+2 Dimensions are approximate and subject to change Consult factory for certified drawings
+3 Drilling In conformance with ASME B16 5, Class 150 for sizes NPS 2 (DN50) through NPS 24 (DN600 )
+* in-built with PU gasket and does not require additional flange gasket
+© 2026 BRAY INTERNATIONAL. ALL RIGHTS RESERVED. BRAY.COM EN_TSM_746HP_260911 11 of 13
+=== page 12 ===
+DIMENSIONS & WEIGHTS | ASME (mm & kg)
+ASME CLASS 150 | SERIES 746HP
+P
+E
+M
+L
+N
+D
+F-NOS xK (Tapped holes)
+xG (Deep) per side
+H-NOS xK (Tapped holes)
+xJ (Deep) per side
+B C-PCD
+B1*
+A
+Direct Mounted Pneumatic Bevel
+Handwheel Actuator Gear
+DIMENSIONS (mm) WEIGHT (kg)
+DN A B B1 * C-PCD D ØE F G H J K L ØM N P HAND PNEUMATIC GEAR
+WHEEL ACTUATOR OPERATOR
+50 165 48 54 120 6 540 300 2 10 2 20 5/8"-11 UNC 545 300 485 230 27 22 26
+80 200 51 57 152 4 595 300 2 10 2 20 5/8"-11 UNC 640 300 580 230 33 29 31
+100 230 51 57 190 5 675 300 2 10 6 20 5/8"-11 UNC 730 300 645 230 40 41 39
+150 290 57 63 241 3 890 400 2 12 6 20 3/4"-10 UNC 950 300 920 340 70 78 68
+200 345 70 76 298 4 1005 500 2 13 6 25 3/4"-10 UNC 1090 300 990 340 92 108 89
+250 408 70 76 362 0 1170 500 4 14 8 30 7/8"-9 UNC 1305 300 1165 340 124 158 121
+300 485 76 82 431 8 - - 4 14 8 30 7/8"-9 UNC 1460 500 1290 475 - 229 172
+350 533 76 82 476 2 - - 6 14 6 30 1"-8 UNC 1655 500 1415 475 - 320 196
+400 600 89 95 539 8 - - 8 16 8 35 1"-8 UNC 1865 500 1625 580 - 483 300
+450 640 89 95 577 8 - - 8 16 8 40 1-1/8"-8 UN 1980 500 1750 580 - 525 345
+500 715 114 120 635 0 - - 12 24 5 8 40 1-1/8"-8 UN 2215 750 1895 580 - 835 450
+600 840 114 120 749 3 - - 12 21 8 45 1-1/4"-8 UN 2570 1000 2260 640 - 1120 725
+NOTES
+1 Consult factory for hydraulic and electric actuator dimensions
+2 Dimensions are approximate and subject to change Consult factory for certified drawings
+3 Drilling In conformance with ASME B16 5, Class 150 for sizes NPS 2 (DN50) through NPS 24 (DN600 )
+* in-built with PU gasket and does not require additional flange gasket
+© 2026 BRAY INTERNATIONAL. ALL RIGHTS RESERVED. BRAY.COM EN_TSM_746HP_260911 12 of 13
+=== page 13 ===
+SINCE 1986, BRAY HAS PROVIDED FLOW CONTROL SOLUTIONS
+FOR A VARIETY OF INDUSTRIES AROUND THE WORLD
+VISIT BRAY.COM TO LEARN MORE ABOUT
+BRAY PRODUCTS AND LOCATIONS NEAR YOU
+HEADQUARTERS
+Bray International, Inc.
+13333 Westland East Blvd
+Houston, Texas 77041
+Tel: +1 281 894 5454
+All statements, technical information, and recommendations in this bulletin are for general
+use only Consult Bray representatives or factory for the specific requirements and material
+selection for your intended application The right to change or modify product design or
+product without prior notice is reserved Patents issued and applied for worldwide
+Bray® is a registered trademark of Bray International, Inc
+© 2026 BRAY INTERNATIONAL. ALL RIGHTS RESERVED. BRAY.COM EN_TSM_746HP_260911
+THE HIGH PERFORMANCE COMPANY BRAY.COM

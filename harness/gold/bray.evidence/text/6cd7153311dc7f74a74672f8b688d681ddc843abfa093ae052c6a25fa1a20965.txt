@@ -1,0 +1,113 @@
+=== page 1 ===
+RITE® SERIES 211
+SINGLE DOOR FLANGED TYPE SWING CHECK VALVE
+INTEGRAL HARD SEAT
+OVERVIEW APPLICATIONS
+The Rite® Series 211 flanged combination swing check valves > Chemical Processing > Petrochemical
+are flow activated and Rite® sized. The Rite® Series Check Valve > Electrolysis > Power Generation
+inlet ports and disc have been shape optimized to achieve a > Facilities/Skid > Refrigeration
+fully open position at low flow rates (3 ft/s on average). > HVAC > Storage & Transport
+> Marine > Tank Trucks
+> Nuclear > Water
+SPECIFICATIONS
+> Oil Transport
+NPS 2” to 42”
+Size Range
+50mm to 1050mm
+MEDIA
+Cryogenic to High Temperature (Pending
+Temperature Range
+Materials Selected)
+> Acids > Gases
+ASME (150, 300, 600, 900, 1500)
+> Alkalis > Hydrogen
+Operating Pressure
+DIN (PN10, 16, 25, 40, 64, 100, 150, 250) > Corrosive Chemicals > Oxygen
+Body Style One-Piece Flanged Body Integral Type > Dry Chlorine (Gas or > Water
+Leakage Rate API 598 Liquid)
+DESIGN FEATURES
+Figure 01: Integral Hard Seat Cutaway
+The Series 211 hard seated check valves offer:
+Front View.
+SINGLE DOOR DESIGN:
+Below numbered list can be referenced on various
+figues throughout document
+1 Combination design utilizing both gravity + spring
+makes the valve easy to open/close, reducing water 1
+hammer. 2
+2 Limited movement of internal parts during operation
+extends service life.
+3 Elliptical inlet shape designed to accelerate line media
+through the valve.
+4
+4 Optimal diameter for high flow capacity.
+5 Short face to face, reducing weight and space between
+3
+flanges.
+6 Low cracking pressure design.
+7 Quick response time (ideal for process lines with 5
+varying flows & control valves).
+8 Customizable modular design, allows for adding
+optional special accessories to meet customer
+application requirements.
+9 Cost & energy efficiency, requiring only one set of
+Figure 02: Integral Hard Seat Cutaway
+flange studs which span the valve, reducing in-service
+Rear View.
+vibration.
+10 Integral design reduces leak path enhancing life
+expectancy.
+6
+© 2025 BRAY INTERNATIONAL. ALL RIGHTS RESERVED. BRAY.COM EN_SDS_S211_IHS_20250311 1 of 2
+=== page 2 ===
+RITE® SERIES 211
+SINGLE DOOR FLANGED TYPE SWING CHECK VALVE
+INTEGRAL HARD SEAT
+DESIGN STANDARDS MATERIAL OPTIONS1
+Body Material determines whether design is integral type, or seat
+Valve Design API 594 ring type. See below chart:
+H100, SA01, SA1, SA2, SA3, SA4, SA4A, Stainless Steel (ASTM A351 CF8M)
+Accessories Available SA6, SA7, SA10, SA16, SA40, SA40A, Body
+SA50, SA54, etc. Exotic Alloys
+Testing Standard ASME B16.34, API 598 Stainless Steel (ASTM A351 CF8M)
+Hinge
+Face-to-Face API 594 Matches body material on exotic materials
+Matches body material, Stellite overlay
+Seat (Integral)
+optional
+Valve size: <12”: Stainless Steel (ASTM A313
+CERTIFICATIONS AND APPROVALS 316) standard duty
+Valve size: >14”+: Stainless Steel (ASTM 313
+API-6FD Spring 17-7 PH)
+Certifications CE/PED Inconel (X750) internal torsion spring on
+exotic body materials
+CRN
+Spacer Stainless Steel (ASTM A479 316), PTFE optional
+Approvals NSF-61
+Stainless Steel (ASTM A479 316)
+Additional information is available in the Bray Rite® Ltd. Technical Pin
+Matches body material on exotic materials
+Sales Manual.
+Stainless Steel (SS 316)
+Plug
+Matches body material on exotic materials
+Figure 03: Integral Hard Seat Lock Nut Steel Zinc Plated
+Exploded View.
+Eye Bolt Steel Zinc Plated
+Nameplate Stainless Steel (SS 316)
+Stainless Steel (ASTM A351 CF8M)
+Disc
+Matches body material on exotic materials
+Rivet Steel Zinc Plated
+Stainless Steel (ASTM F594 316)
+Disc Nut
+Matches body material on exotic materials
+Rite® Series Check Valve integral type part number: V0215XMZ211
+(For 2”, Class 150, Stainless Steel ASTM A351 CF8M Body, Metal
+Seat, SS Spacer, Series 211)
+Note: 1 Dimensions available in ASME and DIN sizes.
+7 8
+Figure 04: Integral Hard Seat In-Pipe View. Figure 05: Integral Hard Seat Close-Up Cutaway Views.
+9
+10
+© 2025 BRAY INTERNATIONAL. ALL RIGHTS RESERVED. BRAY.COM EN_SDS_S211_IHS_20250311 2 of 2

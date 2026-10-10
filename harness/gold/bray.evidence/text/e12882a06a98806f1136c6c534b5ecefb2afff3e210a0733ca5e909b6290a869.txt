@@ -1,0 +1,211 @@
+=== page 1 ===
+APPLICATION GUIDE
+TURBINE TRIP AND ANTI-SURGE VALVES
+Bray Technology Provides
+Reliable Performance in
+Turboexpander Applications
+TURBOEXPANDER OVERVIEW
+A turboexpander is a mechanical device made up of a gas turbine, a compressor,
+and a connecting shaft. These devices are used in gas processing facilities to
+simultaneously expand one fluid while compressing another. These concurrent
+processes increases the energy efficiency in the facility by reducing the amount of
+energy lost in the depressurization process.
+A turboexpander works by decompressing a high-pressure gas that enters the
+turbine so that it exits at a lower pressure. The energy generated from this process
+is used to rotate the compressor, which takes a lower pressure gas and compresses
+it so that it leaves the compressor at a higher pressure.
+Trip valves, anti-surge valves, and JT valves are critical in turboexpanders. These
+valves maintain the safety and longevity of both the turboexpander and its down
+stream components. Without these safety systems, the turboexpander risks
+catastrophic failure.
+TYPICAL TURBOEXPANDER DIAGRAM
+Inlet Inlet
+Low Pressure High Pressure
+Anti-Surge
+Valve Trip Valve JT Valve
+Compressor
+Shaft
+Expander
+Outlet Outlet
+High Pressure Low Pressure
+© 2024 BRAY INTERNATIONAL. ALL RIGHTS RESERVED. BRAY.COM EN_AG_TuRBO_Exp_20240819_wEB 1 of 6
+=== page 2 ===
+APPLICATION GUIDE
+TURBINE TRIP AND ANTI-SURGE VALVES
+EXPANDER | TRIP VALVES
+Turbines extract energy from high pressure fluids by rotating a drive shaft to create
+mechanical work. The inlet energy directly correlates with the turbine’s rotations
+per min (RPM). This means RPMs are not limited, and could increase to dangerous
+levels (otherwise known as turbine runaway). Fast-acting trip valves are installed at
+the inlet and outlet to prevent runaway, quickly closing to choke the turbine.
+SIZING CONSIDERATIONS
+When sizing the expander trip valves, the following variables are needed:
+> Full Open Cv – When the valve is open, minimum flow impact to the turbine
+is required.
+> Close Speed – Turbine runaway can occur in just a few seconds, so quick closing
+is required (0.3 to 3 seconds).
+> Media Temperatures – Turbo expanders are used in many gas applications,
+which range from cryogenic temperatures to super-heated fluids.
+TYPICAL TURBOEXPANDER DIAGRAM
+Inlet Inlet
+Low Pressure High Pressure
+Anti-Surge
+Valve Trip Valve JT Valve
+Compressor
+Shaft
+Expander
+Outlet Outlet
+High Pressure Low Pressure
+© 2024 BRAY INTERNATIONAL. ALL RIGHTS RESERVED. BRAY.COM EN_AG_TuRBO_Exp_20240819_wEB 2 of 6
+=== page 3 ===
+APPLICATION GUIDE
+TURBINE TRIP AND ANTI-SURGE VALVES
+AUTOMATED SOLUTIONS | TRIP VALVE
+Trip valve packages typically include Bray’s double offset or triple offset butterfly
+valve coupled with our scotch yoke pneumatic actuator and control accessories,
+designed to meet the application’s fast-acting and SIL 2 or SIL 3 ratings requirements.
+MCCANNALOK HIGH PERFORMANCE BUTTERFLY VALVE
+The standard choice for trip valves, due to its superior Cv values and versatile
+temperature range. Models are designed to handle temperatures as low as
+-320°F | -196°C or as high as +500°F | +260°C.
+> Flow Cv – Max flow is critical to ensure the compressor does not choke.
+> Fail Close – The required closing speed typically ranges from 0.3 to 3 seconds.
+> Fail State – Activation will be loss of 4-20mA signal or discreet fail signal.
+> Controllability – Tight deadband in the range of 1% is required.
+> Use in cryogenic temperatures, when higher flowrates are required.
+High Performance
+Butterly Valve
+TRI LOK® TRIPLE OFFSET BUTTERFLY VALVE
+Used in applications with elevated temperatures and pressures. Also specified
+when ZERO bidirectional leakage and firesafe design is required.
+> Suitable for higher temperature and pressure applications, including steam service.
+> Field repairable design simplifies maintenance and onsite repairs.
+> Live loaded packing certified to API 641, ISO 15848-1, and TA-Luft VDI 2440 for
+fugitive emissions.
+> Firesafe according to API 641 and ISO 10497.
+Triple Offset
+Butterfly Valve
+SERIES 98 SCOTCH YOKE PNEUMATIC ACTUATOR
+The premiere actuator designed for fast-acting, high-cycle applications.
+> Tested and validated to 1 million+ cycles.
+> Customizable automation accessories (such as quick exhausts, volume boosters,
+pilot and solenoid valves) to meet demanding operating speeds with maximum
+reliability and system redundancy.
+> Standard maximum air port diameter (avaliable at no added cost) and optional
+dual porting to increase actuator Cv.
+> Engineered hydraulic dampener available to protect valve sealing elements and
+actuator components from damage during fast closures.
+Scotch Yoke
+Pneumatic Actuator
+© 2024 BRAY INTERNATIONAL. ALL RIGHTS RESERVED. BRAY.COM EN_AG_TuRBO_Exp_20240819_wEB 3 of 6
+=== page 4 ===
+APPLICATION GUIDE
+TURBINE TRIP AND ANTI-SURGE VALVES
+COMPRESSOR | ANTI-SURGE VALVES
+Compressors increase the pressure of a fluid by converting mechanical energy
+from a drive shaft to drive a compressor wheel. The performance of a compressor Compressor
+depends heavily on balancing the inlet volume to the output volume.
+Some process scenarios such as upstream demand and start up can cause the
+downstream pressure to be higher than the compressor output, which causes back
+TT FT PT PT TT
+flow. This effect is known as compressor surge, and it can lead to system failure.
+Anti-surge valves are used to reroute the compressor output back to the inlet
+Anti-Surge
+to artificially increase the compressor input. These control valves are critical to
+Controller
+ensuring the compressor is protected.
+Anti-Surge
+Control Valve
+EXPANDER | JT VALVES
+Another common valve on the expander side is the JT valve, which is used to
+bypass the expander if the turbine malfunctions. The JT valve was the original
+technology used to create large drops in temperature before the invention of the
+turboexpander. The JT valve creates a large temperature drop by inducing a large
+pressure drop across the valve.
+TYPICAL TURBOEXPANDER DIAGRAM
+Inlet Inlet
+Low Pressure High Pressure
+Anti-Surge
+Valve Trip Valve JT Valve
+Compressor
+Shaft
+Expander
+Outlet Outlet
+High Pressure Low Pressure
+SIZING CONSIDERATIONS
+When sizing anti-surge and JT valves, the following variables are needed:
+> Flow Cv – Max flow is critical for rapid anti-surge protection.
+> Fail Open – The required opening speed typically ranges from 0.3 to 3 seconds.
+> Fail State – Activation will be loss of 4-20mA signal or discrete fail signal.
+> Controllability – Tight deadband in the range of 1% is required.
+© 2024 BRAY INTERNATIONAL. ALL RIGHTS RESERVED. BRAY.COM EN_AG_TuRBO_Exp_20240819_wEB 4 of 6
+=== page 5 ===
+APPLICATION GUIDE
+TURBINE TRIP AND ANTI-SURGE VALVES
+AUTOMATED SOLUTIONS | ANTI-SURGE AND JT VALVE
+Anti-surge valve packages feature a segmented ball valve with a compact scotch
+yoke pneumatic actuator. Other accessories, such as a positioner, are included to
+provide reliable system feedback on valve position.
+SERIES 19 SEGMENTED BALL VALVE
+The Series 19 segmented control valve has the following features suitable for
+optimal surge prevention:
+> Maximum rangeability (300:1)
+> High Cv – Max flow is critical to ensure the compressor does not choke.
+> Quick Fail Open – The default safe state can open in 0.3 to 3 seconds.
+> Fail State – Activation will be loss of 4-20mA control signal or discrete
+fail signal.
+> Precise Controllability – Tight range of 1% is required.
+> Splined Stem to Segment Connection – Provides efficient torque transmission
+and precise control, with minimal hysteresis and reduced deadband.
+In the same way that an anti-surge valve protects the compressor, a JT valve is a
+control valve that is used to bypass the expander. JT valves are key components
+in turboexpander machinery, since they protect the expander in the event it
+malfunctions. Globe valves are historically used in this application, but Bray’s
+Series 19 segmented ball valve is increasingly providing an alternative solution
+that utilizes newer technology to solve an age-old problem.
+Segmented
+Ball Valve
+Automation packages for anti-surge and JT valves typically include Bray’s compact
+scotch yoke pneumatic actuator, the Series 98C, and the Series 6A smart electro-
+pneumatic positioner.
+© 2024 BRAY INTERNATIONAL. ALL RIGHTS RESERVED. BRAY.COM EN_AG_TuRBO_Exp_20240819_wEB 5 of 6
+=== page 6 ===
+APPLICATION GUIDE
+TURBINE TRIP AND ANTI-SURGE VALVES
+ADDING VALUE
+VALVE AUTOMATION CENTER
+Bray’s global Valve Automation Centers (VAC) offer turnkey solutions for your
+complex automation challenges. Consider the benefits of working with a trusted
+and experienced single source provider:
+> Single point of contact simplifies decisions, saving time and money.
+> Fully integrated and tested controls packages using high performance
+Bray products or fully-qualified complementary products.
+> Stringent processes and quality standards, with full traceability of documentation.
+> Application engineers available to provide immediate technical expertise,
+including valve and actuator sizing recommendations.
+> Full customer support, including start-up commissioning and field service.
+> All Bray products are backed by our three year warranty and worldwide support.
+CLEANROOM SERVICES
+Bray’s cleanroom facilities offer a single source for precision cleaned valves, from
+automated packages to assemblies and spare parts. With global cleaning capabilities
+from ISO Class 9 through ISO Class 6, multiple service levels are available to meet a
+variety of international certifications and standards.
+> Factory direct cleaned valve & automation packages.
+> Reduced logisitical risk provides faster delivery.
+> Trained and experienced technicians provide consistent product cleanliness.
+> Cleaning procedures validated by third party labs.
+CERTIFICATIONS & STANDARDS
+EIGA 33/18 Cleaning of Equipment for Oxygen Service
+ISO 14644-1 Certification of Air Cleanliness
+MSS-SP-140 Preparation of Valves and Fittings for
+Silicone-Free Service
+VDMA 24364 Testing for Paint Wetting Impairment
+Substances (LABS-Conformity)
+GLOBAL COMPANY. REGIONAL FOCUS. LOCAL PRESENCE.
+> Our diversified headquarters develop and maintain standard processes across
+six continents to ensure consistent product quality and reliability.
+> Our research & development, engineering, and manufacturing facilities are
+strategically located to provide customized solutions with short delivery times.
+> Our factory certified sales and distribution networks span more than 40 countries
+to serve you locally.
+© 2024 BRAY INTERNATIONAL. ALL RIGHTS RESERVED. BRAY.COM EN_AG_TuRBO_Exp_20240819_wEB 6 of 6

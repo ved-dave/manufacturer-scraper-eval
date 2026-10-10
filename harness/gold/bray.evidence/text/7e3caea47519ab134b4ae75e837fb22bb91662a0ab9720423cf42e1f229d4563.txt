@@ -1,0 +1,265 @@
+=== page 1 ===
+SELECTION GUIDE
+INTRINSICALLY SAFE PACKAGES FOR VALVE STATUS MONITORING
+When specifying electronics in hazardous
+areas, it is important to ensure the device is
+equipped with the correct protection type.
+For some customers, the intrinsically safe
+protection type can be a cost effective,
+compact solution. Designed for safe operation
+of electrical equipment in hazardous areas,
+this protection technique limits the energy
+(electrical and thermal) available for ignition.
+The success of intrinscially safe certification
+lies in choosing the right supporting
+components to meet the low-voltage
+requirements. This guide will help to
+outline some of Bray’s common packages.
+Intrinsically Safe Barrier:
+Connection Requirements
+® 2020 BRAY INTERNATIONAL. ALL RIGHTS RESERVED. BRAY.COM | 1 of 8
+=== page 2 ===
+CONTROLS FOR HAZARDOUS LOCATIONS
+INTRINSICALLY SAFE
+HAZARDOUS LOCATION CLASSIFICATIONS TYPICAL HAZARDOUS GASES & VAPORS APPLICATION
+NEC 500 ATEX / IECEx
+PROBABILITY OF HAZARDOUS MATERIAL PROBABILITY OF HAZARDOUS MATERIAL
+DIVISION 1 DIVISION 2 ZONE 0 / 20 ZONE 1 / 21 ZONE 2 / 22
+Explosive atmosphere Explosive Explosive Explosive Explosive
+is continually or likely atmosphere atmosphere atmosphere atmosphere
+present. is not likely is continually is likely is not likely
+present. present. present. present.
+NATURE OF HAZARDOUS MATERIAL NATURE OF HAZARDOUS MATERIAL
+CLASS I — GASES & VAPORS G — GASES & VAPORS
+DIVISION 1 DIVISION 2 ZONE 0 ZONE 1 ZONE 2
+GROUP A | Acetylene IIC | Acetylene & Hydrogen
+GROUP B | Hydrogen IIB+H2 | Hydrogen
+GROUP C | Ethylene IIB | Ethylene
+GROUP D | Propane IIA | Propane
+CLASS II — DUST D — DUST
+DIVISION 1 DIVISION 2 ZONE 20 ZONE 21 ZONE 22
+GROUP E | Metal Dusts IIIC | Conductive Dusts
+GROUP F | Carbon-based Dusts IIIB | Non-conductive Dusts
+ZONE 0 ZONE 1 ZONE 2
+GROUP G | Non-conductive Dusts IIIA | Fibers
+CLASS III — FIBERS & FLYINGS
+INTRINSICALLY SAFE PRODUCTS1,2 | Electrically Limited
+SERIES 6A SERIES 5A / 5B SERIES 60 SERIES 54
+POSITIONER VALVE STATUS MONITOR SOLENOID PROXIMITY SENSOR
+NEC NEC NEC NEC
+CLASS I DIV 1 A,B,C,D CLASS I DIV 1 A,B,C,D CLASS I DIV 1 A,B,C,D CLASS I DIV 1 A,B,C,D
+ATEX/IECEx CLASS II/III DIV 1 E,F,G CLASS II DIV 1 E,F,G CLASS II DIV 1 E,F,G
+G ZONE 1 IIC ATEX/IECEx ATEX/IECEx
+D ZONE 21 IIIC G ZONE 0 IIC G ZONE 0 IIC
+NOTES:
+1 For full rating specifications, see product literature.
+2 Order with appropriate intrinsically safe barrier.
+® 2020 BRAY INTERNATIONAL. ALL RIGHTS RESERVED. BRAY.COM | 2 of 8
+=== page 3 ===
+NAMUR Sensor + Adjustable Activator + Optional Solenoid
+INTRINSICALLY SAFE
+1 NAMUR SENSOR
+DESCRIPTION PART NUMBER
+I.S. Proximity Sensor 540003-71104533 SERIES 54
+PROXIMITY SENSOR
+NEC
+1 CLASS I DIV 1 A,B,C,D
+2 ACTIVATOR (Choose One) CLASS II DIV 1 E,F,G
+DESCRIPTION PART NUMBER ATEX/IECEx
+G ZONE 0 IIC
+S92/93 Sizes 063–128 Imperial 54063A-14800536 2 6
+S92/93 Sizes 160–210 Imperial 54160A-14800536
+S92/93 Sizes 063–128 Metric 54063A-14850536
+To Solenoid
+S92/93 Sizes 160–255 Metric 54160A-14850536
+S98 Metric 54063A-14850536 3
+4
+S92/93 Sizes 063–128 Imperial 54063C-14800536
+S92/93 Sizes 160 Imperial 54160C-14800536
+To Switch 2
+S92/93 Sizes 210 Imperial 54210C-14800536
+S92/93 Sizes 063–128 Metric 54063C-14850536 5 To Switch 1
+S92/93 Sizes 160 Metric 54160C-14850536
+S92/93 Sizes 210–255 Metric 54210C-14850536
+S98 Metric 54063C-14850536
+To meet certification requirements,
+an intrinsically safe barrier is
+required between sensing device
+3 BARRIER1 (Optional) and PLC. (See page 1.)
+DESCRIPTION PART NUMBER
+Intrinsically Safe Barrier 24V 090006-71134533
+S92/S93 RACK & PINION ACTUATOR OR S98 SCOTCH YOKE ACTUATOR2 OR NO SOLENOID
+4 SOLENOID 4 SOLENOID (Choose One) 4 SOLENOID
+DESCRIPTION PART NUMBER DESCRIPTION PART NUMBER NONE
+I.S. 24VDC 600250-21526536 I.S. 24VDC SR VSG-3421-D14-HCC-XISX6-D024
+I.S. 24VDC DA VSG-4422-D14-HCC-XISX6-D024
+5 CONNECTOR 5 CONNECTOR 5 CONNECTOR
+DESCRIPTION PART NUMBER NONE DESCRIPTION PART NUMBER
+Y-Connectors 600250-23662536 4 pin M12 to Flying Lead 090004-76145534
+6 CORDSET 6 CORDSET 6 CORDSET
+DESCRIPTION PART NUMBER DESCRIPTION PART NUMBER NONE
+6 pin M12 to 6 pin M12 to
+090004-76152534 090004-76152534
+Flying Lead Flying Lead
+NOTES:
+1 An intrinsically safe barrier is required to meet certification requirements. (See page 1.)
+2 Consult factory mounting.
+3 For 4 switches, change “2” after H to “4”.
+4 Refer to specific product technical manuals for additional details.
+® 2020 BRAY INTERNATIONAL. ALL RIGHTS RESERVED. BRAY.COM | 3 of 8
+=== page 4 ===
+NAMUR Sensor + Adjustable Activator + Optional Solenoid + Conduit Connections
+INTRINSICALLY SAFE
+1 NAMUR SENSOR
+DESCRIPTION PART NUMBER
+I.S. Proximity Sensor 540013-71104533 SERIES 54
+PROXIMITY SENSOR
+NEC
+2 ACTIVATOR (Choose One) 2 1 C C L L A A S S S S I I I D D IV IV 1 1 A E , , B F, , G C,D
+DESCRIPTION PART NUMBER ATEX/IECEx
+G ZONE 0 IIC
+S92/93 Sizes 063–128 Imperial 54063A-14800536
+S92/93 Sizes 160–210 Imperial 54160A-14800536
+S92/93 Sizes 063–128 Metric 54063A-14850536
+S92/93 Sizes 160–255 Metric 54160A-14850536
+S98 Metric 54063A-14850536
+To Solenoid
+S92/93 Sizes 063–128 Imperial 54063C-14800536 4 5
+3
+S92/93 Sizes 160 Imperial 54160C-14800536
+S92/93 Sizes 210 Imperial 54210C-14800536
+S92/93 Sizes 063–128 Metric 54063C-14850536 To Switch 2
+S92/93 Sizes 160 Metric 54160C-14850536 To Switch 1
+S92/93 Sizes 210–255 Metric 54210C-14850536
+S98 Metric 54063C-14850536
+To meet certification requirements,
+an intrinsically safe barrier is
+3 BARRIER1 (Optional) required between sensing device
+and PLC. (See page 1.)
+DESCRIPTION PART NUMBER
+Intrinsically Safe Barrier 24V 090006-71134533
+S92/S93 RACK & PINION ACTUATOR OR S98 SCOTCH YOKE ACTUATOR2 OR NO SOLENOID
+4 SOLENOID 4 SOLENOID (Choose One) 4 SOLENOID
+DESCRIPTION PART NUMBER DESCRIPTION PART NUMBER NONE
+I.S. 24VDC 600250-21526536 I.S. 24VDC SR VSG-3421-D14-HCC-XISX6-D024
+I.S. Gland 600251-71106533 I.S. 24VDC DA VSG-4422-D14-HCC-XISX6-D024
+5 PREWIRE KIT 5 PREWIRE KIT 5 PREWIRE KIT
+NOTES:
+1 An intrinsically safe barrier is required to meet certification requirements. (See page 1.)
+2 Consult factory mounting.
+3 For 4 switches, change “2” after H to “4”.
+4 Refer to specific product technical manuals for additional details.
+® 2020 BRAY INTERNATIONAL. ALL RIGHTS RESERVED. BRAY.COM | 4 of 8
+=== page 5 ===
+NAMUR Sensor + Adjustable Activator + Optional Solenoid + S-Connector
+INTRINSICALLY SAFE
+1 NAMUR SENSOR
+DESCRIPTION PART NUMBER
+I.S. Proximity Sensor 540043-71104533 3 SERIES 54
+PROXIMITY SENSOR
+NEC
+1 CLASS I DIV 1 A,B,C,D
+2 CORDSET CLASS II DIV 1 E,F,G
+DESCRIPTION PART NUMBER ATEX/IECEx
+G ZONE 0 IIC
+Cordset Rd24 Pin 090700-71155517 6
+2
+3 ACTIVATOR (Choose One)
+DESCRIPTION PART NUMBER
+S92/93 Sizes 063–128 Imperial 54063A-14800536
+S92/93 Sizes 160–210 Imperial 54160A-14800536 5 To Solenoid
+S92/93 Sizes 063–128 Metric 54063A-14850536 4
+S92/93 Sizes 160–255 Metric 54160A-14850536
+S98 Metric 54063A-14850536
+To Switch 2
+S92/93 Sizes 063–128 Imperial 54063C-14800536
+S92/93 Sizes 160-210 Imperial 54160C-14800536 To Switch 1
+S92/93 Sizes 063–128 Metric 54063C-14850536
+S92/93 Sizes 160-255 Metric 54160C-14850536
+S98 Metric 54063C-14850536
+To meet certification requirements,
+an intrinsically safe barrier is
+required between sensing device
+4 BARRIER1 (Optional) and PLC. (See page 1.)
+DESCRIPTION PART NUMBER
+Intrinsically Safe Barrier 24V 090006-71134533
+S92/S93 RACK & PINION ACTUATOR OR S98 SCOTCH YOKE ACTUATOR2 OR NO SOLENOID
+5 SOLENOID 5 SOLENOID (Choose One) 5 SOLENOID
+DESCRIPTION PART NUMBER DESCRIPTION PART NUMBER NONE
+I.S. 24VDC 600250-21526536 I.S. 24VDC SR VSG-3421-D14-HCC-XISX6-D024
+I.S. 24VDC DA VSG-4422-D14-HCC-XISX6-D024
+6 CONNECTOR 6 CONNECTOR 6 CONNECTOR
+DESCRIPTION PART NUMBER DESCRIPTION PART NUMBER NONE
+S-Connector 090001-76160882 S-Connector 090001-76160882
+NOTES:
+1 An intrinsically safe barrier is required to meet certification requirements. (See page 1.)
+2 Consult factory mounting.
+3 For 4 switches, change “2” after H to “4”.
+4 Refer to specific product technical manuals for additional details.
+® 2020 BRAY INTERNATIONAL. ALL RIGHTS RESERVED. BRAY.COM | 5 of 8
+=== page 6 ===
+NAMUR Valve Status Monitor + 2 Switches + Optional Solenoid + Connector
+INTRINSICALLY SAFE
+1 NAMUR VALVE STATUS MONITOR
+DESCRIPTION PART NUMBER
+1
+5A 2 Prox Switch Aluminum 5A0000-126H25363 SERIES 5A / 5B
+VALVE STATUS MONITOR
+5B 2 Prox Switch Aluminum 5B0000-126H25363
+NEC
+5A 2 Prox Switch Resin 5A0000-126H25173 CLASS I DIV 1 A,B,C,D
+2
+CLASS II/III DIV 1 E,F,G
+5B 2 Prox Switch Resin 5B0000-126H25173
+ATEX/IECEx
+G ZONE 0 IIC
+2 MOUNTING (Choose One) 5 To Solenoid
+DESCRIPTION PART NUMBER 3
+S92/93 Sizes 063–128 Imperial 5B0000-22600534
+To Switch 2
+S92/93 Sizes 160–210 Imperial 5B0000-22601534
+To Switch 1
+S92/93 Sizes 063–128 Metric 5B0000-22650534
+4
+S92/93 Sizes 160–255 Metric 5B0000-22651534
+S98 Metric 5B0000-22630534 To meet certification requirements,
+an intrinsically safe barrier is
+required between sensing device
+and PLC. (See page 1.)
+3 BARRIER1 (Optional)
+DESCRIPTION PART NUMBER
+Intrinsically Safe Barrier 24V 090006-71134533
+S92/S93 RACK & PINION ACTUATOR OR S98 SCOTCH YOKE ACTUATOR2 OR NO SOLENOID
+4 SOLENOID 4 SOLENOID (Choose One) 4 SOLENOID
+DESCRIPTION PART NUMBER DESCRIPTION PART NUMBER NONE
+I.S. 24VDC 600250-21526536 I.S. 24VDC SR VSG-3421-D14-HCC-XISX6-D024
+I.S. 24VDC DA VSG-4422-D14-HCC-XISX6-D024
+5 CONNECTOR 5 CONNECTOR 5 CONNECTOR
+DESCRIPTION DESCRIPTION NONE
+Conduit Conduit
+NOTES:
+1 An intrinsically safe barrier is required to meet certification requirements. (See page 1.)
+2 Consult factory mounting.
+3 For 4 switches, change “2” after H to “4”.
+4 Refer to specific product technical manuals for additional details.
+® 2020 BRAY INTERNATIONAL. ALL RIGHTS RESERVED. BRAY.COM | 6 of 8
+=== page 7 ===
+NOTES
+® 2020 BRAY INTERNATIONAL. ALL RIGHTS RESERVED. BRAY.COM | 7 of 8
+=== page 8 ===
+SINCE 1986, BRAY HAS PROVIDED FLOW CONTROL SOLUTIONS
+FOR A VARIETY OF INDUSTRIES AROUND THE WORLD.
+VISIT BRAY.COM TO LEARN MORE ABOUT
+BRAY PRODUCTS AND LOCATIONS NEAR YOU.
+HEADQUARTERS
+Bray International, Inc.
+13333 Westland East Blvd.
+Houston, Texas 77041
+Tel: +1.281.894.5454
+All statements, technical information, and recommendations in this bulletin are for general
+use only. Consult Bray representatives or factory for the specific requirements and material
+selection for your intended application. The right to change or modify product design or
+product without prior notice is reserved. Patents issued and applied for worldwide.
+Bray® is a registered trademark of Bray International, Inc.
+© 2020 BRAY INTERNATIONAL. ALL RIGHTS RESERVED. BRAY.COM B-1079_EL_IS_GUIDE_2020-06
+THE HIGH PERFORMANCE COMPANY BRAY.COM

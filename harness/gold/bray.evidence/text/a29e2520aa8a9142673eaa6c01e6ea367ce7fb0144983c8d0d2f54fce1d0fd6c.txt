@@ -1,0 +1,91 @@
+=== page 1 ===
+CONTROLS FOR
+HAZARDOUS LOCATIONS
+HAZARDOUS LOCATION CLASSIFICATIONS EXPLOSION PROOF PRODUCTS1
+Contains Explosion (Ex d)
+SERIES 70
+NEC 500 ATEX / IECEx
+ELECTRIC ACTUATOR
+NEC
+CLASS I DIV 1 C,D
+CLASS II DIV 1 E,F,G
+PROBABILITY OF HAZARDOUS MATERIAL PROBABILITY OF HAZARDOUS MATERIAL
+DIVISION 1 DIVISION 2 ZONE 0 / 20 ZONE 1 / 21 ZONE 2 / 22 SERIES 6A
+POSITIONER
+Explosive atmosphere Explosive Explosive Explosive Explosive NEC
+is continually or likely atmosphere atmosphere atmosphere atmosphere CLASS I DIV 1 A,B,C,D
+present. is not likely is continually is likely is not likely CLASS II/III DIV 1 E,F,G
+present. present. present. present.
+ATEX/IECEx
+G ZONE 1 IIC
+D ZONE 22 IIIC
+NATURE OF HAZARDOUS MATERIAL NATURE OF HAZARDOUS MATERIAL
+SERIES 5C
+VALVE STATUS MONITOR
+CLASS I — GASES & VAPORS G — GASES & VAPORS
+NEC
+CLASS I DIV 1 A,B,C,D
+DIVISION 1 DIVISION 2 ZONE 0 ZONE 1 ZONE 2
+CLASS II DIV 1 E,F,G
+ATEX/IECEx
+GROUP A | Acetylene IIC | Acetylene & Hydrogen
+G ZONE 1 IIB+H2
+D ZONE 21 IIIC
+GROUP B | Hydrogen IIB+H2 | Hydrogen
+SERIES 63
+GROUP C | Ethylene IIB | Ethylene
+SOLENOID
+NEC
+GROUP D | Propane IIA | Propane
+CLASS I DIV 1 A,B,C,D
+CLASS II DIV 1 E,F,G
+CLASS II — DUST D — DUST
+DIVISION 1 DIVISION 2 ZONE 20 ZONE 21 ZONE 22
+GROUP E | Metal Dusts IIIC | Conductive Dusts
+INTRINSICALLY SAFE PRODUCTS1,2
+GROUP F | Carbon-based Dusts IIIB | Non-conductive Dusts
+Energy Limited (Ex ia)
+GROUP G | Non-conductive Dusts IIIA | Fibers SERIES 6A
+POSITIONER
+CLASS III — FIBERS & FLYINGS
+NEC
+CLASS I DIV 1 A,B,C,D
+ATEX/IECEx
+G ZONE 1 IIC
+D ZONE 21 IIIC
+ALTERNATE NORTH AMERICA CLASSIFICATION — NEMA
+SERIES 5A / 5B
+VALVE STATUS MONITOR
+TYPE 7 | Enclosures constructed for indoor use in hazardous (classified) locations classified as
+NEC
+Class I, Division 1, Groups A, B, C, or D as defined in NFPA 70.
+CLASS I DIV 1 A,B,C,D
+CLASS II/III DIV 1 E,F,G
+TYPE 9 | Enclosures constructed for indoor use in hazardous (classified) locations classified as
+Class II, Division 1, Groups E, F, or G as defined in NFPA 70. ATEX/IECEx
+G ZONE 0 IIC
+SERIES 60
+SOLENOID
+NEC
+TYPICAL HAZARDOUS GASES & VAPORS APPLICATION CLASS I DIV 1 A,B,C,D
+CLASS II DIV 1 E,F,G
+SERIES 54
+PROXIMITY SENSOR
+NEC
+CLASS I DIV 1 A,B,C,D
+CLASS II DIV 1 E,F,G
+ATEX/IECEx
+G ZONE 0 IIC
+NON-SPARKING PRODUCTS1
+No Arcs/Sparks (Ex nA)
+SERIES 54
+PROXIMITY SENSOR
+ATEX/IECEx
+G ZONE 2 IIC
+D ZONE 22 IIIC
+NOTES:
+1 For full rating specifications, see product literature.
+ZONE 0 ZONE 1 ZONE 2
+2 Order with appropriate intrinsically safe barrier.
+_
+© 2020 BRAY INTERNATIONAL. ALL RIGHTS RESERVED. BRAY.COM DG_1078_EL_CTRLS_HAZ_LOC_2020_03

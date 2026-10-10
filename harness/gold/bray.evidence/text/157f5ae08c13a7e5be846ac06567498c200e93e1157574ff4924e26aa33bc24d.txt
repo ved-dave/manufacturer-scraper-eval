@@ -1,0 +1,463 @@
+=== page 1 ===
+SERIES 5B/C
+VALVE STATUS MONITOR PROFIBUS DP
+Installation, Operation and Maintenance Manual
+BRAY.COM THE HIGH PERFORMANCE COMPANY
+=== page 2 ===
+
+=== page 3 ===
+Series 5B/C Valve Status Monitor PROFIBUS DP
+Installation, Operation and Maintenance Manual
+TABLE OF CONTENTS
+1.0 Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .2
+2.0 Description of Operation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .2
+3.0 Hardware Description. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+3.1 Field Connection Terminals . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .2
+3.1.1 PROFIBUS DP Connections. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+3.1.2 Power Supply . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .3
+3.1.3 Load Connections . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .3
+3.2 Factory Connection Terminals. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+3.2.1 Limit Switches . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .3
+3.2.2 Optional Auxiliary Switches . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .3
+3.3 LED Description. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+3.3.1 Network Data LED. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+3.3.2 Node Address . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+3.3.3 Product Status. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+3.3.4 Open/Close . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .4
+3.4 User Switches . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .4
+3.4.1 Calibration Switch. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+3.4.2 Baud Rate Switch . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .4
+3.4.3 Node Address Switches . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .4
+4.0 PROFIBUS DP Interface . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .4
+4.1 Node Address . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .4
+4.2 Parameterization and Configuration . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .4
+4.2.1 GSD File . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .4
+4.3 Data Exchange . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .5
+4.3.1 Cyclic Messaging . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .5
+5.0 Quick Start Guide . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .5
+6.0 Installation Instructions. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+7.0 Exploded View Drawings. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+7.1 Exploded View - 5B. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+7.2 Exploded View - 5C . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .8
+8.0 Technical Specifications. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+1
+=== page 4 ===
+Series 5B/C Valve Status Monitor PROFIBUS DP
+Installation, Operation and Maintenance Manual
+1.0 INTRODUCTION 3.0 HARDWARE DESCRIPTION
+The Bray Series 5B/C (S5B/C) Valve Status Monitor • One terminal strip (11 terminals) for field
+(VSM) with Communication Protocol electronics connections
+(CommPro) is an intelligent switchbox device that
+• Two terminal strips (4 terminals each) for factory
+provides both position feedback and diagnostic
+wiring of position switches
+information for discrete valves. It accomplishes
+this by interfacing with a bus network, over which • LED User Interface
+commands can be sent and feedback can be
+• Green Network Data LED
+returned. Once connected to the network, the Bray
+S5B/C VSM with CommPro becomes part of a larger • Seven segment Red Node Address LED
+system, which is required to ensure proper operation indication
+of the device. To refer to the elements of the system,
+a common terminology is used throughout this • Bi-color Red/Blue Product Status LED
+document, as defined below.
+• Bi-color Red/Green Open/Close Position LED
+Definition of Terms
+• Parameter switches
+• CommPro – Bray S5B/C Valve Status Monitor
+• Calibration switch
+with PROFIBUS DP Communication Protocol
+module • Baud Rate switch
+• Valve – Discrete valve being monitored by the
+• Node Address adjustment switches
+CommPro module
+3.1 Field Connection Terminals
+• Process Controller – Device acting as the
+network master that communicates with the Each CommPro has 11 terminals dedicated to field
+S5B/C via the CommPro module. connections. These terminals are where the bus
+connections are made, where external power is
+2.0 DESCRIPTION OF OPERATION
+provided (if needed), and the load connections are
+The function of the CommPro is to monitor the state terminated.
+of mechanical switches operated by a rotating cam
+shaft internal to the VSM. This cam shaft is set to
+trip the switches when the valve travel limits have
+been reached. Operation of the valve position can
+be controlled by the process, or the CommPro can
+operate the valve to the travel limits using solenoid
+valves. This operational capability, coupled with the
+position monitoring, gives the CommPro the ability
+to report degraded or erroneous operation to the
+Process Controller based on calibration procedures
+performed at the factory or on-site.
+Every CommPro has been designed to communicate
+using a specific communication protocol, designated
+by the part number.
+• PROFIBUS DP: 5B-0000-77602-536
+If CommPro is installed in S5C VSM, refer to S5C
+IOM for additional requirements. Figure 1: Field wiring of the CommPro
+NOTICE
+Operating the CommPro outside the operational
+constraints defined in this manual may impair the
+protection provided by the equipment.
+2
+=== page 5 ===
+Series 5B/C Valve Status Monitor PROFIBUS DP
+Installation, Operation and Maintenance Manual
+3.1.1 PROFIBUS DP Connections 13.8W. Exceeding these limits will result in a fault
+state. All loads are operated discretely (on/off)
+The CommPro can be provided with bus
+using 24VDC. Since these are DC connections, it is
+connections, eliminating the need for intrusion
+important that proper polarity is maintained when
+into the enclosure. The connections come in 2
+making these connections.
+configurations:
+• 2 M12 connectors, Male and Female, in a single 3.2 Factory Connection Terminals
+conduit entry. This configuration allows the Two terminal strips, located on the opposite
+CommPro to be installed in the main segment side of the CommPro from the field connection
+without the need for a stub. terminals, are provided for making factory installed
+• Tee connection to an M12 Female connector terminations. It is at these terminals that the position
+mounted in the VSM enclosure. This allows monitoring switches are connected.
+for the CommPro to be removed from the bus
+without interrupting bus communication.
+NOTICE
+Stub lines (T-pieces) are branches off the main
+segment. Stub lines are never allowed when bit
+rates more than 1.5 Mbit/s are used.
+Figure 3: Factory wiring of the CommPro module
+3.2.1 Limit Switches
+The switches attached to this terminal strip have
+1 = N/C 1 = N/C been set at the factory to be engaged when the
+2 = GREEN (BUS_A) 2 = GREEN (BUS_A)
+travel limits have been reached, fully open and fully
+3 = N/C 3 = N/C
+closed. The CommPro relies on this position feedback
+4 = RED (BUS_B) 4 = RED (BUS_B)
+5 = BARE (SHIELD) 5 = BARE (SHIELD) to report position to the Process Controller. If the
+switches are not being engaged at the fully open
+Figure 2: Figure 3: and close positions, the cams on the indicator shaft
+PROFIBUS DP PROFIBUS DP
+should be adjusted to ensure proper operation. If
+M12 Male Connector M12 Female Connector
+both switches are engaged at the same time, a fault
+3.1.2 Power Supply state will occur.
+For PROFIBUS DP, power is not provided in the 3.2.2 Optional Auxiliary Switches
+communication cable, therefore an external power
+Auxiliary switches allow for custom indication to be
+connection is required to energize the CommPro
+provided to the Process Controller. The cams that
+module.
+engage the auxiliary switches can be positioned to
+The power supply must provide 24VDC ± 10%, any position desired in the field, as these switches
+and must power the CommPro module along with do not affect standard operation of the CommPro.
+any load connections. If the maximum output load
+3.3 LED Description
+is needed (13.8W), then the power supply should
+be able to supply at least 750mA. Since this is a DC 3.3.1 Network Data LED
+connection, it is important that proper polarity is The Network Data LED indicates when the device
+maintained when making this connection. enters Data Exchange with the network. The default
+3.1.3 Load Connections state of the LED is on, and it turns off through the
+duration of the Data Exchange.
+The CommPro is designed to operate up to two
+inductive loads at 24VDC. The product was 3.3.2 Node Address
+specifically designed and tested to operate two Node Address displays the current address of the
+6.9W solenoid valves; however, any resistive or CommPro module. For PROFIBUS DP, a valid address
+inductive load of equal or lesser wattage could be must be assigned to the CommPro by the user
+operated from this connection. before bus communication can begin.
+Each load connection has a wattage limit of 6.9W, Default Address
+and the CommPro has a total wattage limit of PROFIBUS DP: 126
+3
+=== page 6 ===
+Series 5B/C Valve Status Monitor PROFIBUS DP
+Installation, Operation and Maintenance Manual
+3.3.3 Product Status 4.0 PROFIBUS DP INTERFACE
+The bi-color (Red/Blue) LED indicates normal 4.1 Node Address
+operation by cycling the blue LED on and off every
+When adding the CommPro to a PROFIBUS DP
+second. In the event of a fault state, the indicator
+network, it must have a unique node address.
+will alternate between red and blue every second. To
+The CommPro ships with a node address of 126,
+clear the fault state, the Calibration Switch must be
+which is the default address for a new device. If the
+pressed to retest any load connections.
+CommPro is added to a network with an address
+The possible faults that can occur are: that does not match the address programmed into
+• Limit Switch Fault – Both limit switches engaged the Process Controller, then it will not be able to
+at the same time. enter Data Exchange. The unit must have its address
+adjusted, via the Node Address Switches. The
+• Solenoid Overload – One of the load connections
+CommPro does not support SAP 37, Change Station
+is drawing too much current.
+Address.
+• VSM Overload – The total output load is too large
+4.2 Parameterization and Configuration
+for the CommPro.
+Once a slave address has been recognized by the
+3.3.4 Open/Close
+Process Controller, it waits for a parameterization
+The bi-color (Red/Green) LED indicates the current message from the Process Controller, SAP 3D. This
+position of the VSM, based on the limit switch state. message identifies the master to the slave and
+When in the open position, the green LED is on; defines the communication parameters that the
+when in the close position, the red LED is on. slave must use on the network.
+3.4 User Switches With the parameterization telegram accepted by
+the slave, it awaits a configuration message from
+3.4.1 Calibration Switch
+the Process Controller, SAP 3E. This message defines
+Switch that enters the CommPro into an automated the format of the input and output messages
+test of its output connections. Both outputs are during cyclic data exchange, including length
+individually and quickly cycled (< 0.1s on time), and composition. If configuration is successfully
+which allows for the power draw of each load to be completed, then the slave will enter the data
+measured. In the event of excessive power draw at exchange state.
+one or both load connections, a fault state will be
+If at any point an error is present in the
+entered.
+parameterization or configuration data received by
+If a fault state is active, then the Calibration Switch the CommPro, a diagnostic message will be sent
+should be pressed for the load(s) to be retested. This to the Process Controller, SAP 3C, informing it of
+ensures that the fault condition has been corrected the erroneous message, and the slave will return to
+by the user. the parameterization step, where it will wait for a
+3.4.2 Baud Rate Switch corrected message.
+For the S5B/C PROFIBUS DP, this switch is inactive. The information that the Process Controller needs to
+complete parameterization and configuration with
+3.4.3 Node Address Switches
+the CommPro is contained in the GSD file for the
+Switches that allow the address of the CommPro product.
+to be adjusted. When either of these buttons
+4.2.1 GSD File
+are pressed, the node address display will begin
+flashings, indicating that it is adjustable. Pressing A GSD file is an external file that contains
+one of the switches while the node address display information about configurable attributes for a field
+flashes will cause the address to increment or device in a standardized format that is recognized
+decrement, dependent on which switch is pressed. by bus masters regardless of manufacturer or
+Holding one of the switches while the node address construction.
+display flashes will automatically increment the The GSD file is included with the CommPro to aide
+node address every 0.25 seconds. Once the desired in the installation of the slave into the application,
+address has been selected, the node address reducing time to operation and simplifying the
+switches should not be pressed for at least 3 installation process. The Process Controller will
+seconds. In that time, the CommPro will set the use the GSD to automatically obtain the data
+address to the new value. that is required to enter Data Exchange, making
+Valid Address Range parameterization and configuration completely
+PROFIBUS DP: 0-126 transparent to the user.
+Depending upon the application that is used to
+4
+=== page 7 ===
+Series 5B/C Valve Status Monitor PROFIBUS DP
+Installation, Operation and Maintenance Manual
+associate the GSD with the CommPro, features such Output Data
+as monitoring are available which provide the user
+Size 1 byte
+with continuously updated bus data that is provided
+Command data used to position the S5B/C
+in an easy-to-read format. Description PROFIBUS DP
+4.3 Data Exchange Composition XXPPFECC
+The CommPro is a DP-V0 device, meaning that it XX 2 bits Not used
+supports cyclic data exchange with a class 1 master, Communication Failure Position
+termed an MS0 connection. This connection has a If the CommPro exits Data Exchange, then this
+fixed length and is defined in the GSD file provided is the default position until Data Exchange is
+with the unit. All data exchange with the CommPro re-entered.
+PP 2 bits
+occurs cyclically with the default SAP. 00 – All loads off
+01 – Load 1 on
+4.3.1 Cyclic Messaging
+10 – Load 2 on
+Every bus cycle, the Process Controller transmits 11 – All loads on
+output data to the CommPro, which will respond Communication Failure Detection Enable
+with a transmission of input data back to the Determines if the Communication Failure
+Process Controller. If the output data changes, the F 1 bit Position is enabled
+CommPro will respond to the updated command
+0 – Failure Detect Off
+state after sending the latest response telegram. 1 – Failure Detect On
+Due to the high baud rates available to Profibus DP,
+Enter Calibration
+it is possible that several bus cycles will pass before
+E 1 bit 0 – No action
+the slave has reached the desired command state. 1 – Begin load calibration
+Input and output data message composition, relative Command Position
+to the Process Controller, are shown below. Format 00 – All loads off
+and length of the data is fixed by the GSD file, and CC 2 bits 01 – Load 1 on
+should not be altered by the user. 10 – Load 2 on
+11 – All loads on
+Input Data
+Size 1 byte
+5.0 QUICK START GUIDE
+Description P P r r o o v c i e d s e s s C p o o n s t it ro io ll n e r & status information to the 1. If installation of the CommPro is required, follow
+Composition 2211AALL the Installation Instructions.
+Load 2 State
+2. If necessary, load the GSD file into the Process
+00 – No load detected (Open circuit)
+22 2 bits 01 – Normal load detected Controller.
+10 – Channel overloaded
+3. Apply power to the CommPro power supply. The
+11 – Short Circuit
+CommPro will individually illuminate all LEDs as
+Load 1 State
+part of the initialization procedure. Initialization
+00 – No load detected (Open circuit)
+11 2 bits 01 – Normal load detected is complete once the Network Data light is solid
+10 – Channel overloaded green.
+11 – Short Circuit
+4. Adjust the CommPro Node Address to the next
+Auxiliary Switch State available address on the bus, or to the address
+00 – Auxiliary Switches off
+that has been programmed into the Process
+AA 2 bits 01 – Auxiliary Switch 1 engaged
+Controller.
+10 – Auxiliary Switch 2 engaged
+11 – Both Auxiliary Switches engaged 5. Once the PROFIBUS DP network is active, the
+Limit Switch State Network Data light should turn off. This indicates
+00 – Limit Switches off successful parameterization and configuration.
+LL 2 bits 01 – Open Limit Switch engaged
+10 – Close Limit Switch engaged 6. Press the Calibration switch to detect the state of
+11 – Both Limit Switches engaged the connected output loads.
+7. Product is ready for service.
+5
+=== page 8 ===
+Series 5B/C Valve Status Monitor PROFIBUS DP
+Installation, Operation and Maintenance Manual
+6.0 INSTALLATION INSTRUCTIONS 6. Pitch the electronics unit during installation to
+engage the horizontal slot on the electronics
+1. Before beginning installation of the electronics
+package with the non-adjustable hook of the
+package, install all external cabling at the conduit
+mounting bracket.
+entries for the Bray VSM enclosure. Unused
+conduit entries should retain the supplied plugs.
+2. Install all ground wires to the Bray VSM enclosure
+supplied ground screw(s).
+3. Install the supplied electronics package mounting
+bracket using the supplied mounting hardware,
+e.g. flathead screws.
+4. Orient the electronics package such that the 11
+terminals are orientated towards the front of the
+Bray VSM.
+Figure 6: Pitching of the electronics
+package to begin installation
+7. Push down on the electronics package to snap
+it into place on the mounting bracket.
+Figure 4: Correct orientation of the
+electronics package relative to Bray VSM
+and mounting bracket
+5. Align the side slot on the electronics package
+with the notch on the mounting bracket, based
+on the Bray VSM (5B or 5C) that it is being Figure 7: Push down on electronics package
+installed in. until the slider hook snaps in place
+8. Mate all required wire terminations based on the
+provided wiring diagram.
+Figure 5: Alignment of appropriate slot
+6
+=== page 9 ===
+Series 5B/C Valve Status Monitor PROFIBUS DP
+Installation, Operation and Maintenance Manual
+7.0 EXPLODED VIEW DRAWINGS
+ITEM PART NUMBER DESCRIPTION QTY
+7.1 Exploded View - 5B 1 5B0000-77602536 CommPro Assembly, Profibus-DP 1
+2 075303-72105534 Screw, Flat Head, X-Drive 2
+ITEM PART NUMBER DESCRIPTION QTY
+3 5B0000-23500536 Commpro Adapter Assembly 1
+4 5B0000-73306533 Commpro Certification Label, Mylar 1 1 5B0000-77600536 COMMPRO ASSY, DEVICENET 1
+5 5B0000-73304533 Commpro Serial Tag, Mylar 1
+2 075303-72105534 SCREW, FLAT HEAD, X-DRIVE 2
+ALTERNATIVE COMPONENTS
+1 5B0000-77601536 CommPro Assembly, AS-i 1 3 5B0000-23500536 COMMPRO ADAPTER ASSY 1
+1 5B0000-77600536 CommPro Assembly, DeviceNet 1 COMMPRO CERTIFICATION
+4 5B0000-73306533 1
+LABEL, MYLAR
+5
+5 5B0000-73304533 COMMPRO SERIAL TAG, MYLAR 1
+ALTERNATIVE COMPONENTS
+1 5B0000-77601536 COMMPRO ASSY, AS-i 1
+1 5B0000-77602536 COMMPRO ASSY, PROFIBUS DP 1
+1
+4
+2
+3
+TO P B R L R I E M E R A A R A K Y N A U C L N A L E I N T S S S G H = = A (E ± D R X 1 E C P / E C 2 E P ° I T M D A G A S L E N S O IN TE C D H ) NCT A HOT ENUV I R NEEYF EO WDR IT MOHRO A T UDI TIOS T NPHL C EA OYEEX NDP T R AINE IN SAE SN D WY H RME IAT RNTE ENN IEN RP S ETH RHA MAL ITS L SW N IOOO NUT LO DB F E VB IC ROO ALYAP TI I E NED T IET, SR T N RPA ART NOIO SPN FRA EIEL RT, RAIN ERC DY. RELEASE E D RN------
+OVER OVER OVER
+U 0 P .2 T 4 O U 0 P .2 T 4 O U 1 P .1 T 8 O U 4 P .7 T 2 O15 O . V 7 E 5 R S5B with CommPro DIVISION
+1.18 4.72 15.75
+±0.004±0.008±0.012±0.020±0.031 THIRD ANGLE
+SECONDARY UNITS=MM
+[BRACKETED] SECONDARY UNITS
+ARE FOR REFERENCE ONLY MATERIAL VVOOLLUUMMEE ((CCUU..IINN...)) SHEET
+7 UP TO OV 6 ER O 3 V 0 ER O 12 VE 0 R OVER MS-XXXXX 16.7 1 OF 2
+6 UP 3 0 TO U 1 P 2 T 0 O U 4 P 0 T 0 O 400 DRAWING N G O. A- 28410 EXPLODED VIEW - R - EV.
+±0.1 ±0.2 ±0.3 ±0.5 ±0.8
+=== page 10 ===
+Series 5B/C Valve Status Monitor PROFIBUS DP
+Installation, Operation and Maintenance Manual
+7.2 Exploded View - 5C
+ITEM PART NUMBER DESCRIPTION QTY
+1 5B0000-77602536 CommPro Assembly, Profibus-DP 1
+2 5B0000-73306533 CommPro Certification Label, Mylar 1
+3 075303-72105534 Screw, Flat Head, X-Drive, M3x0.5x5mm 2
+4 5B0000-23500536 CommPro Adapter Assembly 1
+5 5B0000-73304533 CommPro Serial Tag, Mylar 1
+ALTERNATIVE COMPONENTS
+1 5B0000-77601536 CommPro Assembly, AS-i 1
+1 5B0000-77600536 CommPro Assembly, DeviceNet 1
+8
+=== page 11 ===
+Series 5B/C Valve Status Monitor PROFIBUS DP
+Installation, Operation and Maintenance Manual
+8.0 TECHNICAL SPECIFICATIONS
+Mechanical
+Electronics Enclosure Material PC/ABS Blend
+Mounting Bracket Material Glass-filled Nylon
+Dimensions with bracket 3.05” x 2.53” x 1.43” [77.5 x 64.3 x 36.3mm]
+Dimensions w/o bracket 2.73” x 2.53” x 1.21” [69.3 x 64.3 x 30.7mm]
+Weight Max 3.5 oz [100g]
+Terminals
+Wire Gauge 26-16 AWG [0.13-1.31 mm2]
+Torque Limit 3.5 in-lbs [15.6 N]
+Temperature Rating -25 to 65°C
+Installation Designed for use within Bray VSMs
+Switch connections Only switches approved for use within Bray VSMs should be used with
+the product
+Electrical
+Input Voltage 24 VDC ± 10%
+Power Consumption 16 W Max
+Load(s) 24 VDC Solenoids
+# of Load Connections 2 Max
+Load Switch Solid-State (NMOS Open-Drain)
+Load Limit 6.9 W per load
+13.8 W max
+LED Wavelengths
+Red 630 nm
+Green 550 nm
+Blue 470 nm
+9
+=== page 12 ===
+THE HIGH PERFORMANCE COMPANY
+BRAY INTERNATIONAL
+PRIMARY SALES AND SERVICE LOCATIONS
+USA CHINA MEXICO RUSSIA
+Houston, Texas Hangzhou, Zhejiang Zapopan, Jalisco Moscow
+AFRICA COLOMBIA MIDDLE EAST SINGAPORE
+Johannesburg Bogotá Dubai Ubi Techpark
+BENELUX FRANCE PACIFIC SOUTH KOREA
+Heerhugowaard Voiron Melbourne, Australia Seoul
+BRAZIL GERMANY PERU SOUTHEAST ASIA
+Paulinia, Sao Paulo Krefeld Lima Malaysia
+CANADA INDIA POLAND UNITED KINGDOM
+Montreal Chennai Os´wie¸cim Glasgow
+CHILE ITALY
+Santiago Milano
+FLOW-TEK RITE CORPORATION AMRESIST KUGELHAHN MÜLLER
+USA CANADA USA GERMANY
+Houston, Texas Montreal Houston, Texas Krefeld
+BRAZIL
+Paulinia, Sao Paulo VALVTRONIC
+CHINA ARGENTINA
+Hangzhou, Zhejiang Buenos Aires
+HEADQUARTERS All statements, technical information, and recommendations in this
+bulletin are for general use only. Consult Bray representatives or factory
+Bray International, Inc.
+for the specific requirements and material selection for your intended
+13333 Westland East Blvd. application. The right to change or modify product design or product
+without prior notice is reserved. Patents issued and applied for worldwide.
+Houston, Texas 77041
+Tel: 281.894.5454 Bray® is a registered trademark of BRAY INTERNATIONAL, Inc.
+© 2019 Bray International. All rights reserved.
+bray.com IOM-S5B VSM COMM PRO_Profibus DP_EL_03_21_2019
