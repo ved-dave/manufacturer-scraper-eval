@@ -1,0 +1,57 @@
+SUBJECT: Trench Drain Installation Methods
+BULLETIN NO: DRN-2410
+DATE: October 2024
+PAGE: 1 of 1
+Installation Methods for HydroTec Maxi Trench Drain Systems
+This bulletin describes some installation methods commonly used with the Sioux Chief HydroTec 'Maxi' system. This 
+is not intended to limit the acceptable installation methods to those described below, but can be used as a guideline 
+or reference as needed. There are many things to consider when deciding on the best method for a job, including  
+site conditions, project time line, and type of installation (new construction vs. retrofit). These factors, along with 
+engineering plans and local plumbing/building codes should all be considered when choosing the most appropriate 
+installation method. Regardless of the method used to install trench drain, the resulting installation must meet the 
+minimum recommended standards for the concrete encasement and expansion/control joints. Installation instructions 
+and other technical documents can be found at www.siouxchief.com
+Footer Method:
+The contractor places a low slump footer (2" to 3" slump). The footer is tall enough so that the channels, when placed on 
+the footer, sit higher than the finished floor/top of grade elevation. The contractor will use a rubber mallet to hammer 
+the channels down into the low slump footer until the grates are level at 1/8" to 3/16" below finished floor elevation. 
+When hammered, the channels sink into the footer and the concrete comes up the sides. Once the layout is level, the 
+remaining encasement is poured. 
+Block Method:
+The contractor sets channels on concrete blocks (one at each joint and extreme ends of the run), high enough off the substrate 
+to allow for the correct volume of concrete underneath the assembly. Washers and/or sand can be used to shim 
+the channels to meet the correct grate elevation. The contractor will need to ensure the security of the assembly so 
+the concrete encasement pour does not float/separate the channels. This is usually best accomplished by putting 
+concrete around the joints, up the sides of the channels, and pouring the encasement in 2 lifts. The 1st pour bringing 
+concrete up 2” on both sides of the channels; the 2nd pour finishes the concrete encasement to grade and should 
+commence once the 1st pour has sufficiently stiffened, but can still be consolidated using a concrete vibrator.
+Patty Method:
+This is a combination of both the footer and block methods. Use low slump concrete patties, placed at the joints, to 
+support the channels instead of using blocks. The contractor will use a rubber mallet to hammer the channels down 
+into the patties to level at the correct top-of-grate elevation. Encasement should be completed in 2 pours.
+TIP: Have the contractor build an A-frame to hang off the chute of the ready-mix truck. The A-frame should be centered over the trench drain 
+so roughly equal amounts of concrete fall to both sides of the assembly, this will prevent concrete from pushing the channels off center line 
+compared to the concrete encasement being placed from a single side of the assembly (also helps keep concrete off the grates and out of 
+the channels). The concrete placement should be completed at a slow and steady pace. 
+Hanging Method:
+The contractor supports the channels using baton boards to suspend the channels over the “trench out area of 
+installation”. The baton board are fastened to form boards running down both sides of the assembly or fastened to 
+existing paving. Properly secured baton boards will keep the channels/assembly from floating while the monolithic 
+concrete encasement is poured.
+Installation Bracket1 Method:
+Using the appropriate length rebar/threaded rod, support the channels from the bottom by using the correctly sized 
+bracket at channel joints, including both extreme ends of the trench drain. Determine total required invert (concrete 
+thickness plus channel height) and set the installation bracket by tightening the bracket to the rebar using set screws. 
+Set two brackets to begin the installation and set the channel on the bracket. Then set one bracket at a time to insure 
+proper spacing of the brackets. Channel joints should be centered on each bracket. As each channel is set on the 
+brackets, tighten the set screws against the channels from both sides of the assembly. Once the entire run is set and 
+secured to the correct top-of-grate elevation, pour a monolithic concrete encasement.
+1 Available for Maxi 100/150/200 only
+865 SERIES
+TECHNICAL BULLETIN
+Sioux Chief Manufacturing Company    |    P: 1.800.821.3944    |    F: 1.800.758.5950    |    www.siouxchief.com 
+10-24
+The information contained herein is believed to be reliable, but is subject to change without notice. Before use or installation, the user shall determine the suitability 
+of the information for the intended purpose, and shall assume all risk and liability in connection therewith. With the exception of the information given above, use 
+of any/all Sioux Chief product shall be in accordance with local plumbing codes, common practices, published installation instructions and legal requirements.
+HydroTec™

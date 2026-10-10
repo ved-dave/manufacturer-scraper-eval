@@ -1,0 +1,213 @@
+Sioux Chief Manufacturing Company    |    P: 1.800.821.3944    |    F: 1.800.758.5950    |    www.siouxchief.com 
+06-21
+865 SERIES
+TRENCH DRAIN HYDRAULIC CALCULATION
+DETERMINE THE MAXIMUM LENGTH [L] OF A CHANNEL RUN
+Example 1: 
+Suppose the catchment depth [E] is 90 ft and the rainfall 
+intensity is given as 2"/hr.
+The Inflow Volume [qr] is found in the table as
+9.3 [gal/inch·h] The result is indicated on the y-axis of 
+the diagram below.
+A corresponding maximum run length [L] of 76.1 ft can 
+be found on the x-axis of the diagram for the
+HydroTec Maxi 100.
+If the installed length of the Maxi 100 channel exceeded 
+76.1 ft, it would be unable to properly drain the inflow of 
+water. In that case, a greater effective channel height or 
+nominal width should be selected, or more frequent 
+outlet locations should be used.
+Inflow Volume
+qr = [gal/inch•h]
+Catchment Depth [E] ft
+30.00
+60.00
+90.00
+120.00
+150.00
+180.00
+Rainfall Intensity
+[inch/hr]
+1.50
+2.3
+4.7
+7.0
+9.3
+11.7
+14.0
+2.00
+3.1
+6.2
+9.3
+12.4
+15.5
+18.6
+2.50
+3.9
+7.8
+11.7
+15.5
+19.4
+23.3
+3.00
+4.7
+9.3
+14.0
+18.6
+23.3
+28.0
+Channel Run Length [L] ft
+ [            ]
+gal
+in/hr
+ [       ]
+gal
+hr
+Inﬂow Volume [qr]
+Catchment Depth [E] ft
+(for intake from both sides)
+Catchment Depth [E] ft
+(for intake from one side)
+Outﬂow Volume [Qr]
+Further, in the same scenario, the maximum run 
+length [L] would be:
+L = 82 ft for HydroBlock 150
+L = 158.6 ft for HydroTec Maxi 200
+0
+2
+4
+6
+8
+10
+9.3
+76.1
+158.6
+82
+12
+14
+16
+18
+20
+22
+24
+26
+28
+30
+0 
+10 
+20 
+30 
+40 
+50 
+60 
+70 
+80 
+90 
+100 
+110 
+120 
+130 
+140 
+150 
+160 
+170 
+180 
+Channel run length “L” [ft]
+Inﬂow Volume  qr [gal / inch•h]
+Outﬂow volume Qr = qr • L [gal/h]
+HydroTec Maxi/Top 100: 6.3"
+HydroBlock 100
+HydroTec Maxi/Top 100: 8.72"
+HydroBlock 150
+HydroTec Maxi 150: 12.2"
+HydroTec Maxi/Top 100: 10.23"
+HydroTec Maxi 150: 8.72"
+HydroBlock 200
+HydroTec Maxi 200: 12.2"
+Page 1 of 2
+
+Sioux Chief Manufacturing Company    |    P: 1.800.821.3944    |    F: 1.800.758.5950    |    www.siouxchief.com 
+06-21
+865 SERIES
+TRENCH DRAIN HYDRAULIC CALCULATION
+DETERMINE THE MAXIMUM LENGTH [L] OF A CHANNEL RUN
+Example 2: 
+Suppose the catchment depth [E] is 150 ft and the 
+rainfall intensity is given as 3"/hr.
+The Inflow Volume [qr] is found in the table as
+23.3 [gal/inch·h] The result is indicated on the y-axis of 
+the diagram below.
+A corresponding maximum run length [L] of 164 ft can be 
+found on the x-axis of the diagram for the
+HydroBlock 300.
+If the installed length of the HydroBlock 300 channel 
+exceeded 164 ft, it would be unable to properly drain the 
+inflow of water. In that case, a greater effective channel 
+height or nominal width should be selected, or more 
+frequent outlet locations should be used.
+Inflow Volume
+qr = [gal/inch•h]
+Catchment Depth [E] ft
+30.00
+60.00
+90.00
+120.00
+150.00
+180.00
+Rainfall Intensity
+[inch/hr]
+1.50
+2.3
+4.7
+7.0
+9.3
+11.7
+14.0
+2.00
+3.1
+6.2
+9.3
+12.4
+15.5
+18.6
+2.50
+3.9
+7.8
+11.7
+15.5
+19.4
+23.3
+3.00
+4.7
+9.3
+14.0
+18.6
+23.3
+28.0
+Channel Run Length [L] ft
+ [            ]
+gal
+in/hr
+ [       ]
+gal
+hr
+Inﬂow Volume [qr]
+Catchment Depth [E] ft
+(for intake from both sides)
+Catchment Depth [E] ft
+(for intake from one side)
+Outﬂow Volume [Qr]
+Further, in the same scenario, the maximum run 
+length [L] would be:
+L = 167 ft for HydroTec Maxi 300
+L = 274 ft for HydroTec Maxi 400
+Page 2 of 2
+23.3
+Channel run length “L” [ft]
+Inﬂow Volume  qr [gal / inch•h]
+164 167
+274
+HydroTec Maxi 400
+HydroTec Maxi 300
+HydroBlock 300
+Outﬂow volume Qr = qr • L [gal/h]

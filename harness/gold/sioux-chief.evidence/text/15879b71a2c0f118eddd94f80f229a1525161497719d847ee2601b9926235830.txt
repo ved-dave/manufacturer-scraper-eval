@@ -1,0 +1,78 @@
+Supply
+Drainage
+Support
+Specialties
+Guide for Sealing Channel Joints
+Internal
+Diameter
+Inflow Volume
+qr = [gal/inch•h]
+Joint Length
+Maxi/Top
+100
+Maxi/Top
+150
+Maxi/Top
+200
+Maxi 300
+Maxi 400
+Neutral - Channel Height 1
+10.6"
+15.7"
+24.0"
+31.9"
+36.2"
+Neutral - Channel Height 2
+12.6"
+19.7"
+Neutral - Channel Height 3
+14.6"
+23.6"
+Neutral - Channel Height 4
+16.5"
+-
+Neutral - Channel Height 5
+18.5"
+-
+Sloped - Channel Height 1
+10.6"
+15.7"
+Sloped - Channel Height 2
+11.0"
+16.5"
+Sloped - Channel Height 3
+11.4"
+17.3"
+Sloped - Channel Height 4
+11.8"
+18.1"
+Sloped - Channel Height 5
+12.2"
+18.9"
+Sloped - Channel Height 6
+12.6"
+19.7"
+Sloped - Channel Height 7
+13.0"
+20.4"
+Sloped - Channel Height 8
+13.4"
+21.3"
+Sloped - Channel Height 9
+13.8"
+22.0"
+Sloped - Channel Height 10
+14.2"
+22.8"
+For effective sealing where required, we recommend using Sika® Primer-3 N one-part primer first, then Sikaflex® PRO-3 - a 1-part 
+high-performance civil engineering joint sealant. Before sealing the joints, the tongue-and-groove connection surfaces must be 
+clean, and free from dust and loose particles. The primer (Sika® Primer-3 N) can then be applied to prepare the surface for the 
+sealant (Sikaflex® PRO-3). Apply primer and sealant according to manufacturer's instructions. To help determine the amount of 
+sealant that will be needed, use the table below, which shows the joint length for each of the HydroTec systems.
+Note: 1 oz of sealant will be needed to seal a joint of approximately 10".
+Since HydroTec systems are surrounded by concrete encasement during installation, sealing the channels from the inside is 
+not typically required. However, a sealant can be applied to the joint grooves as an added precaution, or for
+applications where a 'liquid-tight' channel system is required or specified by the designer.
+Wear gloves and eye protection.
+Always Follow Local Codes.
+Joint length

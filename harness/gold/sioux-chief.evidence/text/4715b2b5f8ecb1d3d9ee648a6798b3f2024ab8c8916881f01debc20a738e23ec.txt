@@ -1,0 +1,64 @@
+SPECIFICATION
+Sioux Chief ASTM F1960 x CPVC transition fittings shall be used in plumbing 
+systems for safe distribution of hot or cold water. Fittings shall be used 
+for fluid communication with plumbing devices and fixtures. Transition 
+fittings shall be listed to appropriate standards including ASTM fitting end 
+specifications.
+MATERIALS
+Plastic: CPVC
+Brass: No Lead, Dezincification (DZR) resistant 
+& Stress Corrosion Cracking (SCC) resistant
+O-ring: EPDM
+MAXIMUM TEMPERATURE
+180ºF
+CERTIFICATIONS
+cUPC, FGG/BM/CZ system compatible
+INSTALLATION LIMITATIONS
+Do Not expose CPVC transition fitting to heat above those listed on tubing. 
+Excessive heat will damage the integral o-ring seal. Do not install damaged 
+fittings. Do not alter fittings. Do not solder or braze in close proximity to fitting 
+unless it is protected with a heat-blocker to protect/keep the fitting under 180°F. 
+Keep fitting free from hazardous chemicals or chemical vapors.
+DIMENSIONS
+645WGC2
+645WGC3
+645WGC4
+A: F1960 PEX connection
+½"
+¾"
+1"
+B: CPVC socket connection
+½"
+¾"
+1"
+C: Overall length
+1.38"
+1.81"
+2.24"
+D: Overall hex width across flats
+1"
+1.38"
+1.75"
+645WGC SERIES
+CPVC X F1960 TRANSITION FITTING
+ITEM # SUBMITTED_________________________________________
+JOB NAME_______________________________________________
+LOCATION_______________________________________________
+ENGINEER_______________________________________________
+CONTRACTOR____________________________________________
+PO#_ _______________________ TAG________________________
+Sioux Chief Manufacturing Company    |    P: 1.800.821.3944    |    F: 1.800.758.5950    |    www.siouxchief.com 
+10-21
+ Create Item Number
+A
+C
+B
+D
+	
+CONNECTION A
+	 WGC2 = 1/2" CPVC Socket x F1960 PEX
+	 WGC3 = 3/4" CPVC Socket x F1960 PEX
+	 WGC4 = 1" CPVC Socket x F1960 PEX
+645WGC3
+645A
+e.g. 645WGC3: 3/4" CPVC Socket x brass F1960 PEX transition fitting

@@ -1,0 +1,4902 @@
+[
+ {
+  "url": "https://www.siouxchief.com/Products/113-32",
+  "name": "Sweat Preformed Copper & Valves - Brass Boiler Drain",
+  "category": "Valves",
+  "n_variants": 2,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/117-03",
+  "name": "Sweat Preformed Copper & Valves - Vacuum Breaker",
+  "category": "Valves",
+  "n_variants": 1,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/117-12",
+  "name": "Sweat Preformed Copper & Valves - Sillcock",
+  "category": "Valves",
+  "n_variants": 2,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/117-C223E",
+  "name": "CPVC Preformed Copper & Valves - Sillcock",
+  "category": "Valves",
+  "n_variants": 2,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/117Q22",
+  "name": "PDQ\u2122 Push Preformed Copper & Valves - Sillcock",
+  "category": "Valves",
+  "n_variants": 1,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/117W2",
+  "name": "ASTM F1960 - Metal Fittings, Adapters & Connectors - F1960 Sillcock",
+  "category": "Valves",
+  "n_variants": 1,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/117X2",
+  "name": "ASTM F1807 Preformed Copper & Valves - Sillcock",
+  "category": "Valves",
+  "n_variants": 1,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/118-01",
+  "name": "Sweat Preformed Copper & Valves - Frost-Proof Sillcock Replacement Parts",
+  "category": "Valves",
+  "n_variants": 26,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/118-C208",
+  "name": "CPVC Preformed Copper & Valves - Frost Proof Hydrant",
+  "category": "Valves",
+  "n_variants": 3,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/118M204",
+  "name": "Sweat Preformed Copper & Valves - Frost Proof Hydrants",
+  "category": "Valves",
+  "n_variants": 11,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/118W204",
+  "name": "ASTM F1960 - Metal Fittings, Adapters & Connectors - Frost Proof Hydrant",
+  "category": "Valves",
+  "n_variants": 5,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/118X204",
+  "name": "ASTM F1807 Preformed Copper & Valves - F1807 Frost-Proof Anti-Siphon Sillcock",
+  "category": "Valves",
+  "n_variants": 10,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/119Q208",
+  "name": "PDQ\u2122 Push Preformed Copper & Valves - Frost Proof Hydrants",
+  "category": "Valves",
+  "n_variants": 2,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/120-TM3F",
+  "name": "Sweat Preformed Copper & Valves - Thermostatic Mixing Valve",
+  "category": "Valves",
+  "n_variants": 1,
+  "has_cad": true
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/120-TM3F-1",
+  "name": "Sweat Preformed Copper & Valves - Thermostatic Mixing Valve",
+  "category": "Outlet Boxes & Panels",
+  "n_variants": 3,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/129-G1C1C",
+  "name": "Supply Stops & Kits - Quarter-Turn Bar Stock Stops",
+  "category": "Valves",
+  "n_variants": 22,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/131-G0Y3HR101",
+  "name": "Sweat Preformed Copper & Valves - Valves & Fittings",
+  "category": "Outlet Boxes & Panels",
+  "n_variants": 2,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/131-G1F1C04",
+  "name": "Supply Stops & Kits - Quarter-Turn Forged Straight Stops",
+  "category": "Valves",
+  "n_variants": 11,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/132-G1F1C01",
+  "name": "Supply Stops & Kits - Quarter-Turn Forged Angle Stops",
+  "category": "Valves",
+  "n_variants": 20,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/133-G1F1C04",
+  "name": "Supply Stops & Kits - Multi-Turn Straight Stops",
+  "category": "Valves",
+  "n_variants": 10,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/134-G1F1C04",
+  "name": "Supply Stops & Kits - Multi-Turn Angle Stops",
+  "category": "Valves",
+  "n_variants": 28,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/200-062",
+  "name": "Metal Tubular - Branch Tailpieces",
+  "category": "Tubular",
+  "n_variants": 30,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/200-090",
+  "name": "Trap Primers - TrapEase\u2122",
+  "category": "Trap Primers",
+  "n_variants": 6,
+  "has_cad": true
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/230-0105101",
+  "name": "Plastic Tubular - P-Traps",
+  "category": "Tubular",
+  "n_variants": 22,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/230-1005101",
+  "name": "Plastic Tubular - S-Traps",
+  "category": "Tubular",
+  "n_variants": 8,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/230-1505101",
+  "name": "Plastic Tubular - Trap Accessories",
+  "category": "Tubular",
+  "n_variants": 6,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/230-170616101",
+  "name": "Plastic Tubular - End Outlets",
+  "category": "Tubular",
+  "n_variants": 39,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/230-2906101",
+  "name": "Plastic Tubular - Center Outlets",
+  "category": "Tubular",
+  "n_variants": 12,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/230-320616101",
+  "name": "Plastic Tubular - Disposer Waste",
+  "category": "Tubular",
+  "n_variants": 6,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/230-40060125",
+  "name": "Plastic Tubular - Sink Tailpieces",
+  "category": "Tubular",
+  "n_variants": 11,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/230-44061625",
+  "name": "Plastic Tubular - Sink Tailpiece/Extension",
+  "category": "Tubular",
+  "n_variants": 1,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/230-450506132",
+  "name": "Plastic Tubular - Extensions",
+  "category": "Tubular",
+  "n_variants": 33,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/230-530608225",
+  "name": "Plastic Tubular - Dishwasher Tailpieces",
+  "category": "Tubular",
+  "n_variants": 12,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/230-600607101",
+  "name": "Plastic Tubular - Waste Arms",
+  "category": "Tubular",
+  "n_variants": 17,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/230-8006125",
+  "name": "Plastic Tubular - Tubular Fittings",
+  "category": "Tubular",
+  "n_variants": 19,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/231-1506101",
+  "name": "Plastic Tubular - Flexible Fittings",
+  "category": "Tubular",
+  "n_variants": 5,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/234-QP",
+  "name": "Test Devices - Plastic Tubular Accessories",
+  "category": "Tubular",
+  "n_variants": 2,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/239",
+  "name": "Lav/Sink Specialties - Dishwasher/Disposal Drain",
+  "category": "Lav/Sink Specialties",
+  "n_variants": 4,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/240-0151C04",
+  "name": "Metal Tubular - P-Traps",
+  "category": "Tubular",
+  "n_variants": 60,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/240-1151C04",
+  "name": "Metal Tubular - S-Traps",
+  "category": "Tubular",
+  "n_variants": 16,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/240-1563C04",
+  "name": "Metal Tubular - Trap Accessories",
+  "category": "Tubular",
+  "n_variants": 2,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/240-276116C04",
+  "name": "Metal Tubular - End Outlets",
+  "category": "Tubular",
+  "n_variants": 9,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/240-306116C04",
+  "name": "Metal Tubular - Center Outlets",
+  "category": "Tubular",
+  "n_variants": 8,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/240-336213C04",
+  "name": "Disposer Waste",
+  "category": "Tubular",
+  "n_variants": 2,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/240-405104C50",
+  "name": "Metal Tubular - Sink Tailpieces",
+  "category": "Tubular",
+  "n_variants": 23,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/240-455106C32",
+  "name": "Metal Tubular - Extensions",
+  "category": "Tubular",
+  "n_variants": 34,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/240-606107C01",
+  "name": "Metal Tubular - Waste Arms",
+  "category": "Tubular",
+  "n_variants": 28,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/240-703212C25",
+  "name": "Metal Tubular - Threaded Tube",
+  "category": "Tubular",
+  "n_variants": 18,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/240-8051C25",
+  "name": "Metal Tubular - Tubular Fittings",
+  "category": "Tubular",
+  "n_variants": 22,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/242-10",
+  "name": "Lav/Sink Specialties - Sink/Faucet Repair",
+  "category": "Lav/Sink Specialties",
+  "n_variants": 13,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/245-12530C04",
+  "name": "Basket Strainers & Sink Drains - Basket Strainers",
+  "category": "Tubular",
+  "n_variants": 25,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/250-11",
+  "name": "TurboVent\u2122 - MIP Thread Connection",
+  "category": "Air Admittance Valve (AAV)",
+  "n_variants": 2,
+  "has_cad": true
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/250-11A",
+  "name": "TurboVent\u2122 - ABS Sch. 40 Hub Connection",
+  "category": "Air Admittance Valve (AAV)",
+  "n_variants": 11,
+  "has_cad": true
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/250-11P",
+  "name": "TurboVent\u2122 - PVC Sch. 40 Hub Connection",
+  "category": "Air Admittance Valve (AAV)",
+  "n_variants": 12,
+  "has_cad": true
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/270-525",
+  "name": "Metal Tubular - Metal Tubular Accessories",
+  "category": "Tubular",
+  "n_variants": 25,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/279-3F3F18",
+  "name": "Lav/Sink Supply - Lav/Sink Supply",
+  "category": "Tubing/Hose",
+  "n_variants": 6,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/279-3F3Q18",
+  "name": "PDQ\u2122 Push Preformed Copper & Valves - Water Heater Connector",
+  "category": "Water Heater Connectors & Accessories",
+  "n_variants": 10,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/280-A266537",
+  "name": "ASTM F1807 Accessories - Tube Stiffener",
+  "category": "Fittings & Accessories",
+  "n_variants": 3,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/281-072",
+  "name": "Supply Tubes - Ice Maker Supply & Kits",
+  "category": "Tubing/Hose",
+  "n_variants": 7,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/283-S04112C00",
+  "name": "Supply Tubes - Lav/Sink Supply",
+  "category": "Tubing/Hose",
+  "n_variants": 18,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/283-T24112C00",
+  "name": "Supply Tubes - Toilet Supply",
+  "category": "Tubing/Hose",
+  "n_variants": 7,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/290-20180",
+  "name": "Lav/Sink Specialties - Dishwasher/Disposal Drain",
+  "category": "Lav/Sink Specialties",
+  "n_variants": 3,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/290-20200",
+  "name": "Basket Strainers & Sink Drains - Lav Sink Drains",
+  "category": "Tubular",
+  "n_variants": 13,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/290-20320",
+  "name": "Lav/Sink Specialties - Sink/Faucet Repair",
+  "category": "Lav/Sink Specialties",
+  "n_variants": 6,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/291-30500",
+  "name": "Brass Garden Hose Washer",
+  "category": "Fittings & Accessories",
+  "n_variants": 1,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/300-12",
+  "name": "Tools & Accessories - SawHorse\u2122 Multi-Purpose Saws",
+  "category": "Tools & Chemicals",
+  "n_variants": 3,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/301-061",
+  "name": "Tools & Accessories - SawHorse\u2122 Mini Hacksaws",
+  "category": "Tools & Chemicals",
+  "n_variants": 3,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/304-06",
+  "name": "Deburring Tool",
+  "category": "Tools & Chemicals",
+  "n_variants": 2,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/304-08",
+  "name": "Poly Tube Cutters",
+  "category": "Tools & Chemicals",
+  "n_variants": 7,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/304-20",
+  "name": "Copper Tube Cutters",
+  "category": "Tools & Chemicals",
+  "n_variants": 3,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/305-521PK",
+  "name": "Metal Stud Punch",
+  "category": "Tools & Chemicals",
+  "n_variants": 2,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/305-649",
+  "name": "PowerPex\u00ae Tools - ASTM F1807/F2159 Tools",
+  "category": "Tools & Chemicals",
+  "n_variants": 8,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/305-7023",
+  "name": "ASTM F1807 Tools - ASTM F1807/F2159 Tools",
+  "category": "Tools & Chemicals",
+  "n_variants": 10,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/305-RT",
+  "name": "Access Tools",
+  "category": "Outlet Boxes & Panels",
+  "n_variants": 2,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/305-W23KIT",
+  "name": "PowerPex\u00ae Tools - ASTM F1960 Tools",
+  "category": "Tools & Chemicals",
+  "n_variants": 8,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/305-X665",
+  "name": "PowerPEX\u00ae Tube - PowerPEX\u00ae Tools",
+  "category": "Tools & Chemicals",
+  "n_variants": 1,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/305Q2",
+  "name": "Push Fit Disconnect Tools",
+  "category": "Fittings & Accessories",
+  "n_variants": 5,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/306-10",
+  "name": "Slip-Joint Pliers",
+  "category": "Tools & Chemicals",
+  "n_variants": 1,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/307-616",
+  "name": "Tub/Shower Specialties - Shower WallNut\u2122",
+  "category": "Tub/Shower Specialites",
+  "n_variants": 6,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/308-2",
+  "name": "Flaring Tool",
+  "category": "Tools & Chemicals",
+  "n_variants": 1,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/310-12",
+  "name": "Levels",
+  "category": "Tools & Chemicals",
+  "n_variants": 1,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/311-10",
+  "name": "Tub/Shower Socket Set",
+  "category": "Tools & Chemicals",
+  "n_variants": 1,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/312-2",
+  "name": "Plunger",
+  "category": "Tools & Chemicals",
+  "n_variants": 1,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/313-20",
+  "name": "Strap Wrench",
+  "category": "Tools & Chemicals",
+  "n_variants": 1,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/314-10",
+  "name": "Screwdrivers",
+  "category": "Tools & Chemicals",
+  "n_variants": 2,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/316-1",
+  "name": "Ratcheting Offset Box Wrenches",
+  "category": "Tools & Chemicals",
+  "n_variants": 2,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/318-4",
+  "name": "Faucet Handle Puller",
+  "category": "Tools & Chemicals",
+  "n_variants": 1,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/318-9",
+  "name": "Hex Wrenches",
+  "category": "Tools & Chemicals",
+  "n_variants": 1,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/319-15",
+  "name": "Tie-Down Straps",
+  "category": "Tools & Chemicals",
+  "n_variants": 3,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/330-260",
+  "name": "Sealants, Lubricants, & Tapes - Tapes",
+  "category": "Tools & Chemicals",
+  "n_variants": 6,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/355-05PK2",
+  "name": "Gauges & Accessories - Test Gauge Assemblies",
+  "category": "Testing",
+  "n_variants": 8,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/356-100PK1",
+  "name": "Test Gauges",
+  "category": "Testing",
+  "n_variants": 5,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/390-50105",
+  "name": "Wire Cable Saw",
+  "category": "Tools & Chemicals",
+  "n_variants": 1,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/390-50115",
+  "name": "Inspection Mirror",
+  "category": "Tools & Chemicals",
+  "n_variants": 1,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/390-50128",
+  "name": "Moen Cartridge Puller",
+  "category": "Tools & Chemicals",
+  "n_variants": 1,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/390-50130",
+  "name": "Faucet Seat Wrenches",
+  "category": "Tools & Chemicals",
+  "n_variants": 3,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/390-50134",
+  "name": "Faucet Stem Key",
+  "category": "Tools & Chemicals",
+  "n_variants": 1,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/390-50138",
+  "name": "O-Ring Pick",
+  "category": "Tools & Chemicals",
+  "n_variants": 1,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/390-50153",
+  "name": "Tools & Accessories - Inside Pipe Cutter",
+  "category": "Tools & Chemicals",
+  "n_variants": 4,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/390-50160",
+  "name": "SafeFlame\u2122 Protection Pad",
+  "category": "Tools & Chemicals",
+  "n_variants": 1,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/390-50185",
+  "name": "Water Heater Element Wrench",
+  "category": "Tools & Chemicals",
+  "n_variants": 1,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/390-50197",
+  "name": "Telescoping Basin Wrench",
+  "category": "Tools & Chemicals",
+  "n_variants": 1,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/390-50198",
+  "name": "PO Plug Wrench",
+  "category": "Tools & Chemicals",
+  "n_variants": 1,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/390-50200",
+  "name": "Peg-Board Hook",
+  "category": "Tools & Chemicals",
+  "n_variants": 1,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/402-10",
+  "name": "Closet Specialties - Closet Bowl Gaskets",
+  "category": "Closet Specialties",
+  "n_variants": 12,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/410-PB",
+  "name": "Closet Specialties - Closet Bolts",
+  "category": "Closet Specialties",
+  "n_variants": 9,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/425",
+  "name": "Closet Specialties - PlumbPerfect\u2122",
+  "category": "Closet Specialties",
+  "n_variants": 4,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/440-2W",
+  "name": "Closet Specialties - SmartCap\u2122",
+  "category": "Closet Specialties",
+  "n_variants": 3,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/452-PB",
+  "name": "Closet Specialties - Tank-To-Bowl Repair",
+  "category": "Closet Specialties",
+  "n_variants": 14,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/460-10",
+  "name": "Closet Specialties - WedgeIt\u2122",
+  "category": "Closet Specialties",
+  "n_variants": 6,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/490-10108",
+  "name": "Closet Specialties - Misc Closet Repair",
+  "category": "Closet Specialties",
+  "n_variants": 16,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/490-10325",
+  "name": "ELJER Touch Flush KIT",
+  "category": "Closet Specialties",
+  "n_variants": 1,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/490-10465",
+  "name": "Closet Specialties - Toilet Tank Fill Valves",
+  "category": "Closet Specialties",
+  "n_variants": 2,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/490-11100",
+  "name": "Closet Specialties - Tank Handles",
+  "category": "Closet Specialties",
+  "n_variants": 5,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/490-11150",
+  "name": "Closet Specialties - Toilet Tank Flush Valves",
+  "category": "Closet Specialties",
+  "n_variants": 2,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/490-11240",
+  "name": "Closet Bolt Cover Cap",
+  "category": "Closet Specialties",
+  "n_variants": 1,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/490-11320",
+  "name": "Spacer & Repair Rings - Save-A-Flange\u2122",
+  "category": "Residential Drainage",
+  "n_variants": 1,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/490-11322",
+  "name": "Spacer & Repair Rings - Closet Flange Floor Support",
+  "category": "Residential Drainage",
+  "n_variants": 1,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/501-0",
+  "name": "Metal CTS/IPS - 2-Hole Tube Strap",
+  "category": "Hangers / Brackets / Guards",
+  "n_variants": 28,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/505-24",
+  "name": "Stub Out Brackets - Solder Straps",
+  "category": "Hangers / Brackets / Guards",
+  "n_variants": 7,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/506-26",
+  "name": "Metal CTS/IPS - Wire Pipe Hook",
+  "category": "Hangers / Brackets / Guards",
+  "n_variants": 17,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/508-2B",
+  "name": "Metal CTS/IPS - CTS Bell Hanger",
+  "category": "Hangers / Brackets / Guards",
+  "n_variants": 6,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/510-6PK",
+  "name": "Extension Hangers - Metal DWV Hanger",
+  "category": "Hangers / Brackets / Guards",
+  "n_variants": 8,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/512-26PK",
+  "name": "Metal CTS/IPS - Milford Hanger",
+  "category": "Hangers / Brackets / Guards",
+  "n_variants": 3,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/513-26PK",
+  "name": "Metal CTS/IPS - Natick Hanger",
+  "category": "Hangers / Brackets / Guards",
+  "n_variants": 2,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/514-G02",
+  "name": "Overhead Brackets - Adjustable Swivel/Loop",
+  "category": "Hangers / Brackets / Guards",
+  "n_variants": 12,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/515-10GPK2",
+  "name": "Overhead Brackets - Clevis Hangers",
+  "category": "Hangers / Brackets / Guards",
+  "n_variants": 15,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/516-2CPK2",
+  "name": "Overhead Brackets - Split Rings",
+  "category": "Hangers / Brackets / Guards",
+  "n_variants": 17,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/517-C02",
+  "name": "Overhead Brackets - Strut Clamps",
+  "category": "Hangers / Brackets / Guards",
+  "n_variants": 18,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/517-I062PK2",
+  "name": "Overhead Brackets - Copper Tube Cushion Clamps",
+  "category": "Hangers / Brackets / Guards",
+  "n_variants": 6,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/520-09",
+  "name": "Outlet Box Accessories - Box Clips, Brackets & Supports",
+  "category": "Outlet Boxes & Panels",
+  "n_variants": 5,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/520-19",
+  "name": "Adjustable/Multi-Purpose Brackets - Slider\u2122",
+  "category": "Hangers / Brackets / Guards",
+  "n_variants": 7,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/520-616",
+  "name": "Adjustable/Multi-Purpose Brackets - WiderSlider\u2122",
+  "category": "Hangers / Brackets / Guards",
+  "n_variants": 3,
+  "has_cad": true
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/520-E16",
+  "name": "Adjustable/Multi-Purpose Brackets - Edge\u2122 Support Brackets",
+  "category": "Hangers / Brackets / Guards",
+  "n_variants": 2,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/521-110",
+  "name": "Commercial Brackets - Alignment Brackets",
+  "category": "Hangers / Brackets / Guards",
+  "n_variants": 4,
+  "has_cad": true
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/521-118",
+  "name": "Stub Out Brackets - Flat Brackets",
+  "category": "Hangers / Brackets / Guards",
+  "n_variants": 9,
+  "has_cad": true
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/521-210",
+  "name": "Extension Hangers - ZipStick\u2122",
+  "category": "Hangers / Brackets / Guards",
+  "n_variants": 5,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/521-3SBP2",
+  "name": "Stub Out Brackets - SnapBack\u2122",
+  "category": "Hangers / Brackets / Guards",
+  "n_variants": 1,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/521-557",
+  "name": "Overhead Brackets - SnapBack\u2122",
+  "category": "Hangers / Brackets / Guards",
+  "n_variants": 3,
+  "has_cad": true
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/521-6415",
+  "name": "Stub Out Brackets - Stub Out Bracket with Stud Guard",
+  "category": "Hangers / Brackets / Guards",
+  "n_variants": 2,
+  "has_cad": true
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/521-723",
+  "name": "Commercial Brackets - ChaseBracket",
+  "category": "Hangers / Brackets / Guards",
+  "n_variants": 2,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/521-725",
+  "name": "Commercial Brackets - Carrier Bracket",
+  "category": "Hangers / Brackets / Guards",
+  "n_variants": 4,
+  "has_cad": true
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/521-851",
+  "name": "Stub Out Brackets - Secure-All",
+  "category": "Hangers / Brackets / Guards",
+  "n_variants": 3,
+  "has_cad": true
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/522-100B",
+  "name": "Adjustable/Multi-Purpose Brackets - PowerBar\u2122",
+  "category": "Hangers / Brackets / Guards",
+  "n_variants": 12,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/523-1",
+  "name": "Commercial Brackets - SaddleUp\u2122",
+  "category": "Hangers / Brackets / Guards",
+  "n_variants": 4,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/523-16",
+  "name": "Adjustable/Multi-Purpose Brackets - PowerBar\u2122",
+  "category": "Hangers / Brackets / Guards",
+  "n_variants": 25,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/523-2MS",
+  "name": "Commercial Brackets - PowerBar\u2122 Mini Strut",
+  "category": "Hangers / Brackets / Guards",
+  "n_variants": 8,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/523-31",
+  "name": "Vinyl-coated Steel Clamp with Screw",
+  "category": "Hangers / Brackets / Guards",
+  "n_variants": 4,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/523-3MS2C",
+  "name": "Commercial Brackets - PowerBar\u2122 Mini Strut",
+  "category": "Hangers / Brackets / Guards",
+  "n_variants": 12,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/524-10",
+  "name": "Hanger Straps - Metal Hanger Strap",
+  "category": "Hangers / Brackets / Guards",
+  "n_variants": 13,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/525-02",
+  "name": "Stub Out Brackets - SimpleStrap\u2122",
+  "category": "Hangers / Brackets / Guards",
+  "n_variants": 5,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/525-1612",
+  "name": "Stub Out Brackets - StrongArm\u2122",
+  "category": "Hangers / Brackets / Guards",
+  "n_variants": 31,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/525-33",
+  "name": "Plastic CTS - tube hangers - MainBlock\u2122",
+  "category": "Hangers / Brackets / Guards",
+  "n_variants": 3,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/525-6918",
+  "name": "Adjustable/Multi-Purpose Brackets - SnapBack\u2122",
+  "category": "Hangers / Brackets / Guards",
+  "n_variants": 1,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/525-6920",
+  "name": "Adjustable/Multi-Purpose Brackets - SimpleStrap\u2122",
+  "category": "Hangers / Brackets / Guards",
+  "n_variants": 2,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/525-B2S",
+  "name": "Stub Out Brackets - LockBlock\u2122",
+  "category": "Hangers / Brackets / Guards",
+  "n_variants": 2,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/525-P2",
+  "name": "Bend Supports - SideWinder\u2122",
+  "category": "Hangers / Brackets / Guards",
+  "n_variants": 10,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/530-163",
+  "name": "Self Nailing Stud Guards",
+  "category": "Hangers / Brackets / Guards",
+  "n_variants": 11,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/530-6M",
+  "name": "Stud Guards / Shield Plates",
+  "category": "Hangers / Brackets / Guards",
+  "n_variants": 13,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/533-1",
+  "name": "Stud Shoes",
+  "category": "Hangers / Brackets / Guards",
+  "n_variants": 3,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/535-14",
+  "name": "Ground Stake - Tomahawk\u2122",
+  "category": "Hangers / Brackets / Guards",
+  "n_variants": 5,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/541-CB",
+  "name": "Overhead Brackets - Beam Clamp & Connector Products",
+  "category": "Hangers / Brackets / Guards",
+  "n_variants": 5,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/543-21",
+  "name": "Commercial Brackets - TakeOff\u2122",
+  "category": "Hangers / Brackets / Guards",
+  "n_variants": 3,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/549-712",
+  "name": "Extension Hangers - StickEm Up\u2122",
+  "category": "Hangers / Brackets / Guards",
+  "n_variants": 2,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/550-02",
+  "name": "Single Hole Tube Strap",
+  "category": "Hangers / Brackets / Guards",
+  "n_variants": 1,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/550-11",
+  "name": "Plastic CTS - tube hangers - TouchDown\u2122",
+  "category": "Hangers / Brackets / Guards",
+  "n_variants": 6,
+  "has_cad": true
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/550-210",
+  "name": "Commercial Brackets - TD+\u2122 Universal Clamps",
+  "category": "Hangers / Brackets / Guards",
+  "n_variants": 8,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/550-2111",
+  "name": "Commercial Brackets - TD+\u2122 Universal Clamps",
+  "category": "Hangers / Brackets / Guards",
+  "n_variants": 3,
+  "has_cad": true
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/550-2111Q",
+  "name": "Commercial Brackets - Acoustical TD+\u2122 Universal Clamps",
+  "category": "Hangers / Brackets / Guards",
+  "n_variants": 6,
+  "has_cad": true
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/550-AMB",
+  "name": "Commercial Brackets - Manifold Brackets",
+  "category": "Preformed Copper & Kits",
+  "n_variants": 1,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/550-FP2",
+  "name": "Stub Out Brackets - PEX Sleeve",
+  "category": "Hangers / Brackets / Guards",
+  "n_variants": 2,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/550-PC2",
+  "name": "Bend Supports - PexChair\u2122",
+  "category": "Hangers / Brackets / Guards",
+  "n_variants": 1,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/550F3111",
+  "name": "Commercial Brackets - TD+\u2122 Plenum-Rated Universal Clamps",
+  "category": "Hangers / Brackets / Guards",
+  "n_variants": 5,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/551-2",
+  "name": "Plastic CTS - tube hangers - SiouxStrap\u2122",
+  "category": "Hangers / Brackets / Guards",
+  "n_variants": 12,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/551-P2",
+  "name": "Plastic CTS - tube hangers - PadLock\u2122",
+  "category": "Hangers / Brackets / Guards",
+  "n_variants": 10,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/552-A2",
+  "name": "Plastic CTS - tube hangers - Totem\u2122",
+  "category": "Hangers / Brackets / Guards",
+  "n_variants": 8,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/553-22W",
+  "name": "HangsTuff, Jr.",
+  "category": "Hangers / Brackets / Guards",
+  "n_variants": 6,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/553-6W",
+  "name": "Extension Hangers - HangsTuff\u2122",
+  "category": "Hangers / Brackets / Guards",
+  "n_variants": 6,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/553-6WZ",
+  "name": "Extension Hangers - Swivel J-Hanger\u2122",
+  "category": "Hangers / Brackets / Guards",
+  "n_variants": 8,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/554-08",
+  "name": "Tools & Accessories - Cable Ties",
+  "category": "Tools & Chemicals",
+  "n_variants": 5,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/554-100",
+  "name": "Hanger Straps - Plastic Hanger Strap",
+  "category": "Hangers / Brackets / Guards",
+  "n_variants": 3,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/554-100W",
+  "name": "Hanger Straps - ApeTape\u2122",
+  "category": "Hangers / Brackets / Guards",
+  "n_variants": 2,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/555-2",
+  "name": "Plastic CTS - tube hangers - TubeTalon\u2122",
+  "category": "Hangers / Brackets / Guards",
+  "n_variants": 6,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/555-23",
+  "name": "Plastic CTS - tube hangers - TwinTalon\u2122",
+  "category": "Hangers / Brackets / Guards",
+  "n_variants": 7,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/556-1",
+  "name": "Plastic CTS - tube hangers - PickUp Talon\u2122",
+  "category": "Hangers / Brackets / Guards",
+  "n_variants": 18,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/557-2",
+  "name": "Plastic CTS - tube hangers - EZ Glide\u2122 Suspension Clamp",
+  "category": "Hangers / Brackets / Guards",
+  "n_variants": 17,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/558-2",
+  "name": "EZ Glide\u2122 Tube Insulator",
+  "category": "Hangers / Brackets / Guards",
+  "n_variants": 5,
+  "has_cad": true
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/558-23B",
+  "name": "Plastic CTS - tube hangers - BiFolator\u2122",
+  "category": "Hangers / Brackets / Guards",
+  "n_variants": 1,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/558-E2",
+  "name": "Plastic CTS - tube hangers - Suspensulator\u2122",
+  "category": "Hangers / Brackets / Guards",
+  "n_variants": 6,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/558-M23",
+  "name": "Plastic CTS - tube hangers - PipeEye\u2122",
+  "category": "Hangers / Brackets / Guards",
+  "n_variants": 7,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/559-2",
+  "name": "Plastic CTS - tube hangers - EZ Glide\u2122 Tube Clamp",
+  "category": "Hangers / Brackets / Guards",
+  "n_variants": 15,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/570",
+  "name": "Commercial Brackets - PipeTitan\u2122",
+  "category": "Hangers / Brackets / Guards",
+  "n_variants": 9,
+  "has_cad": true
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/574-710",
+  "name": "Stainless Steel Bands",
+  "category": "Hangers / Brackets / Guards",
+  "n_variants": 6,
+  "has_cad": true
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/575-100Q",
+  "name": "Commercial Brackets - Acoustical Isolation Accessories",
+  "category": "Hangers / Brackets / Guards",
+  "n_variants": 6,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/590-10",
+  "name": "Anchors & Fasteners - Anchors, Screws and Fasteners",
+  "category": "Hangers / Brackets / Guards",
+  "n_variants": 3,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/590-4411",
+  "name": "Anchors & Fasteners - Sioux Chief Sammys - Thread Rod Anchors",
+  "category": "Hangers / Brackets / Guards",
+  "n_variants": 8,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/598-010",
+  "name": "Water Heater Stands",
+  "category": "Water Heater Connectors & Accessories",
+  "n_variants": 3,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/598-0210",
+  "name": "Water Heater Accessories - Expansion Tank Support Kits",
+  "category": "Water Heater Connectors & Accessories",
+  "n_variants": 6,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/600-206PK",
+  "name": "Sweat Preformed Copper & Valves - Coupling",
+  "category": "Fittings & Accessories",
+  "n_variants": 4,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/600Q206",
+  "name": "PDQ\u2122 Push - Fittings, Adapters & Connectors - Push Fit Slip Coupling",
+  "category": "Fittings & Accessories",
+  "n_variants": 3,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/601-G20CV",
+  "name": "Sweat Preformed Copper & Valves - Add-A-Line\u2122",
+  "category": "Valves",
+  "n_variants": 3,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/601Q20V",
+  "name": "PDQ\u2122 Push Preformed Copper & Valves - Add-A-Line\u2122",
+  "category": "Valves",
+  "n_variants": 2,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/60205005",
+  "name": "Sealants, Lubricants, & Tapes - Sealants",
+  "category": "Tools & Chemicals",
+  "n_variants": 2,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/603Q2",
+  "name": "Poly Tube Stiffener",
+  "category": "Fittings & Accessories",
+  "n_variants": 3,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/605QG2",
+  "name": "PDQ\u2122 Push - Fittings, Adapters & Connectors - Push Fit Cap",
+  "category": "Fittings & Accessories",
+  "n_variants": 6,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/608-D288E",
+  "name": "Sweat Preformed Copper & Valves - Sweat Stub Out Elbow",
+  "category": "Preformed Copper & Kits",
+  "n_variants": 20,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/608-L2308",
+  "name": "Sweat Preformed Copper & Valves - Riser Stub Out",
+  "category": "Preformed Copper & Kits",
+  "n_variants": 10,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/608-L263A",
+  "name": "Sweat Tub/Shower Pressure Connector",
+  "category": "Preformed Copper & Kits",
+  "n_variants": 1,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/612-2S",
+  "name": "Stub Out Brackets - StainlessStar\u2122",
+  "category": "Hangers / Brackets / Guards",
+  "n_variants": 3,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/612-557",
+  "name": "Sweat Preformed Copper & Valves - Sweat Tub Spout Elbow",
+  "category": "Preformed Copper & Kits",
+  "n_variants": 23,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/614-2",
+  "name": "Sweat - Fittings, Adapters & Connectors - Full Slip Male Adapter",
+  "category": "Fittings & Accessories",
+  "n_variants": 3,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/614-8L",
+  "name": "Sweat Preformed Copper & Valves - Bullet",
+  "category": "Preformed Copper & Kits",
+  "n_variants": 18,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/615-213",
+  "name": "Sweat - Fittings, Adapters & Connectors - Wal-Let\u2122",
+  "category": "Fittings & Accessories",
+  "n_variants": 4,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/615-C2113",
+  "name": "Sweat - Fittings, Adapters & Connectors - Wal-Let\u2122",
+  "category": "Fittings & Accessories",
+  "n_variants": 2,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/615W216",
+  "name": "Sweat - Fittings, Adapters & Connectors - Wal-Let\u2122",
+  "category": "Fittings & Accessories",
+  "n_variants": 1,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/616-2",
+  "name": "Sweat - Fittings, Adapters & Connectors - Sweat Elbow Adapter",
+  "category": "Fittings & Accessories",
+  "n_variants": 4,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/616-CG2E3",
+  "name": "CPVC - Fittings, Adapters & Connectors - CPVC Elbow Adapter",
+  "category": "Fittings & Accessories",
+  "n_variants": 5,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/616X2PX",
+  "name": "ASTM F1807 - Fittings, Adapters & Connectors - Elbow Adapter",
+  "category": "Fittings & Accessories",
+  "n_variants": 12,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/622-L09CF",
+  "name": "Sweat Preformed Copper & Valves - Termination Fitting",
+  "category": "Fittings & Accessories",
+  "n_variants": 1,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/630-C2412",
+  "name": "CPVC Preformed Copper & Valves - Stub Out Elbow",
+  "category": "Preformed Copper & Kits",
+  "n_variants": 10,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/630-C9248",
+  "name": "IPS F438 CPVC - Fittings, Adapters & Connectors - CPVC Stub Out Elbow - IPS Gray",
+  "category": "Preformed Copper & Kits",
+  "n_variants": 3,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/630EG248",
+  "name": "Preformed Copper Fittings - 1/2'' Everloc+, 4'' \u00d7 8''",
+  "category": "Preformed Copper & Kits",
+  "n_variants": 1,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/630Q248",
+  "name": "PDQ\u2122 Push Preformed Copper & Valves - Stub Out Elbow",
+  "category": "Preformed Copper & Kits",
+  "n_variants": 4,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/630VG248",
+  "name": "ASTM F3347 Preformed Copper & Valves - Stub Out Elbow",
+  "category": "Preformed Copper & Kits",
+  "n_variants": 2,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/630WG2138",
+  "name": "ASTM F1960 - Metal Fittings, Adapters & Connectors - F1960 Stub Out Elbow",
+  "category": "Preformed Copper & Kits",
+  "n_variants": 11,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/630X148",
+  "name": "ASTM F1807 Preformed Copper & Valves - Stub Out Elbow",
+  "category": "Preformed Copper & Kits",
+  "n_variants": 19,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/631-33",
+  "name": "Sweat Preformed Copper & Valves - Water Heater Connector",
+  "category": "Water Heater Connectors & Accessories",
+  "n_variants": 25,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/631-C307",
+  "name": "CPVC Preformed Copper & Valves - CPVC Water Heater Connector",
+  "category": "Water Heater Connectors & Accessories",
+  "n_variants": 14,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/631WG02",
+  "name": "ASTM F1960 - Metal Fittings, Adapters & Connectors - F1960 Water Heater Connector",
+  "category": "Water Heater Connectors & Accessories",
+  "n_variants": 9,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/631X02",
+  "name": "ASTM F1807 Preformed Copper & Valves - F1807 Water Heater Connector",
+  "category": "Water Heater Connectors & Accessories",
+  "n_variants": 10,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/632-C263",
+  "name": "CPVC Tub/Shower Pressure Connector",
+  "category": "Preformed Copper & Kits",
+  "n_variants": 6,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/632EG263",
+  "name": "Preformed Copper Fittings - 1/2'' Everloc+ \u00d7 1/2'' MSWT, 6'' \u00d7 2-1/4''",
+  "category": "Preformed Copper & Kits",
+  "n_variants": 1,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/632PX222M",
+  "name": "ASTM F2159 - Fittings, Adapters & Connectors - F2159 Poly Elbow Adapter",
+  "category": "Fittings & Accessories",
+  "n_variants": 4,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/632Q263",
+  "name": "Tub Shower Connector",
+  "category": "Preformed Copper & Kits",
+  "n_variants": 3,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/632QG222F",
+  "name": "PDQ\u2122 Push - Fittings, Adapters & Connectors - Push Fit Elbow Adapter",
+  "category": "Fittings & Accessories",
+  "n_variants": 3,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/632VG273",
+  "name": "Tub/Shower Pressure Connector",
+  "category": "Preformed Copper & Kits",
+  "n_variants": 1,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/632W273X",
+  "name": "F1960 Tub/Shower Pressure Connector",
+  "category": "Preformed Copper & Kits",
+  "n_variants": 3,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/632WG222M",
+  "name": "ASTM F1960 - Metal Fittings, Adapters & Connectors - Elbow Adapter",
+  "category": "Fittings & Accessories",
+  "n_variants": 5,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/632WP222M",
+  "name": "ASTM F1960 - Poly Fittings, Adapters & Connectors - F1960 Poly Elbow Adapter",
+  "category": "Fittings & Accessories",
+  "n_variants": 1,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/632X243",
+  "name": "F1807 Tub/Shower Pressure Connector",
+  "category": "Preformed Copper & Kits",
+  "n_variants": 7,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/633-3TFMF6",
+  "name": "Sweat Preformed Copper & Valves - Adapters",
+  "category": "Water Heater Connectors & Accessories",
+  "n_variants": 12,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/633-C02",
+  "name": "CPVC - Fittings, Adapters & Connectors - Straight Adapter",
+  "category": "Fittings & Accessories",
+  "n_variants": 31,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/633-CG18HRV",
+  "name": "CPVC Preformed Copper & Valves - CPVC Water Heater Connector",
+  "category": "Valves",
+  "n_variants": 1,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/633Q03",
+  "name": "PDQ\u2122 Push - Fittings, Adapters & Connectors - Straight Adapter",
+  "category": "Fittings & Accessories",
+  "n_variants": 19,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/633VG18",
+  "name": "ASTM F3347 Preformed Copper & Valves - Water Heater Connector",
+  "category": "Water Heater Connectors & Accessories",
+  "n_variants": 2,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/633WG18FRV",
+  "name": "ASTM F1960 - Metal Fittings, Adapters & Connectors - F1960 Water Heater Connector",
+  "category": "Valves",
+  "n_variants": 3,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/633XG18FRV",
+  "name": "ASTM F1807 Preformed Copper & Valves - F1807 Water Heater Connector",
+  "category": "Valves",
+  "n_variants": 3,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/634-4F3F18",
+  "name": "Sweat Preformed Copper & Valves - Water Softener Connector",
+  "category": "Water Heater Connectors & Accessories",
+  "n_variants": 2,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/636-3L10888",
+  "name": "Water Heater Stub Out Loops",
+  "category": "Water Heater Connectors & Accessories",
+  "n_variants": 2,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/636-3TR",
+  "name": "Heat Trap",
+  "category": "Water Heater Connectors & Accessories",
+  "n_variants": 1,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/636X38883",
+  "name": "ASTM F1807 Preformed Copper & Valves - F1807 Water Loop",
+  "category": "Water Heater Connectors & Accessories",
+  "n_variants": 2,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/637-B23HWP",
+  "name": "Supply Tubes - Dishwasher Supply & Kits",
+  "category": "Fittings & Accessories",
+  "n_variants": 1,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/637PX20",
+  "name": "ASTM F2159 - Fittings, Adapters & Connectors - F2159 Poly Straight Adapter",
+  "category": "Fittings & Accessories",
+  "n_variants": 6,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/637QK900",
+  "name": "Polypropylene Push-Fit Fittings - Polypropylene Push-Fit Valves",
+  "category": "Valves",
+  "n_variants": 3,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/637WP20",
+  "name": "ASTM F1960 - Poly Fittings, Adapters & Connectors - F1960 Poly Faucet Adapter",
+  "category": "Fittings & Accessories",
+  "n_variants": 2,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/637X20",
+  "name": "ASTM F1807 - Fittings, Adapters & Connectors - F1807 Faucet Adapter",
+  "category": "Fittings & Accessories",
+  "n_variants": 3,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/637X423PK",
+  "name": "ASTM F1807 - Fittings, Adapters & Connectors - F1807 Ballcock Adapter",
+  "category": "Fittings & Accessories",
+  "n_variants": 1,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/637XG711",
+  "name": "ASTM F1807 - Fittings, Adapters & Connectors - Straight Adapter",
+  "category": "Fittings & Accessories",
+  "n_variants": 68,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/637XG920",
+  "name": "ASTM F1807 Preformed Copper & Valves - F1807 Ice Maker Valve",
+  "category": "Valves",
+  "n_variants": 4,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/638VG208E4",
+  "name": "ASTM F3347 Preformed Copper & Valves - Bullet",
+  "category": "Preformed Copper & Kits",
+  "n_variants": 2,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/638WG208",
+  "name": "ASTM F1960 - Metal Fittings, Adapters & Connectors - F1960 Bullet\u2122",
+  "category": "Preformed Copper & Kits",
+  "n_variants": 3,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/638X208",
+  "name": "ASTM F1807 Preformed Copper & Valves - Bullet",
+  "category": "Preformed Copper & Kits",
+  "n_variants": 8,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/640PX12",
+  "name": "F2159 Poly Plug",
+  "category": "Fittings & Accessories",
+  "n_variants": 3,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/640WP02",
+  "name": "F1960 Poly Plug",
+  "category": "Fittings & Accessories",
+  "n_variants": 6,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/640XG01",
+  "name": "ASTM F1807 - Fittings, Adapters & Connectors - F1807 Plug",
+  "category": "Fittings & Accessories",
+  "n_variants": 4,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/641PX222",
+  "name": "ASTM F2159 - Fittings, Adapters & Connectors - F2159 Poly Tee",
+  "category": "Fittings & Accessories",
+  "n_variants": 12,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/641Q3-3Q2",
+  "name": "PDQ\u2122 Push - Fittings, Adapters & Connectors - Push Fit Transition Tee",
+  "category": "Fittings & Accessories",
+  "n_variants": 1,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/641QG222",
+  "name": "PDQ\u2122 Push - Fittings, Adapters & Connectors - Push Fit Tee",
+  "category": "Fittings & Accessories",
+  "n_variants": 16,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/641QK000",
+  "name": "Polypropylene Push-Fit Tees",
+  "category": "Fittings & Accessories",
+  "n_variants": 3,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/641WG222",
+  "name": "ASTM F1960 - Metal Fittings, Adapters & Connectors - F1960 Tee",
+  "category": "Fittings & Accessories",
+  "n_variants": 13,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/641WP222",
+  "name": "ASTM F1960 - Poly Fittings, Adapters & Connectors - F1960 Poly Tee",
+  "category": "Fittings & Accessories",
+  "n_variants": 46,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/641XG111",
+  "name": "ASTM F1807 - Fittings, Adapters & Connectors - F1807 Tee",
+  "category": "Fittings & Accessories",
+  "n_variants": 12,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/642PX2",
+  "name": "F2159 Poly Elbow",
+  "category": "Fittings & Accessories",
+  "n_variants": 4,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/642QG2",
+  "name": "PDQ\u2122 Push - Fittings, Adapters & Connectors - Push Fit Elbow",
+  "category": "Fittings & Accessories",
+  "n_variants": 8,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/642QK0",
+  "name": "Polypropylene Push-Fit Elbows",
+  "category": "Fittings & Accessories",
+  "n_variants": 2,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/642WG2",
+  "name": "ASTM F1960 - Metal Fittings, Adapters & Connectors - Elbow",
+  "category": "Fittings & Accessories",
+  "n_variants": 3,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/642WP2",
+  "name": "F1960 Poly Elbow",
+  "category": "Fittings & Accessories",
+  "n_variants": 7,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/642X2",
+  "name": "ASTM F1807 - Fittings, Adapters & Connectors - Elbow",
+  "category": "Fittings & Accessories",
+  "n_variants": 9,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/643-C9211",
+  "name": "IPS F438 CPVC - Fittings, Adapters & Connectors - CPVC Straight Adapter - IPS Gray",
+  "category": "Fittings & Accessories",
+  "n_variants": 16,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/643-P311",
+  "name": "PVC - Fittings, Adapters & Connectors - Straight Adapter",
+  "category": "Fittings & Accessories",
+  "n_variants": 20,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/643WG2",
+  "name": "ASTM F1960 - Metal Fittings, Adapters & Connectors - Straight Adapter",
+  "category": "Fittings & Accessories",
+  "n_variants": 46,
+  "has_cad": true
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/645PX2",
+  "name": "F2159 Poly Coupling",
+  "category": "Fittings & Accessories",
+  "n_variants": 6,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/645Q2-3",
+  "name": "PDQ\u2122 Push - Fittings, Adapters & Connectors - Push Fit Transition Adapter",
+  "category": "Fittings & Accessories",
+  "n_variants": 2,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/645QG2",
+  "name": "PDQ\u2122 Push - Fittings, Adapters & Connectors - Push Fit Coupling",
+  "category": "Fittings & Accessories",
+  "n_variants": 11,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/645QK0",
+  "name": "Polypropylene Push-Fit Fittings - Polypropylene Push-Fit Couplings",
+  "category": "Fittings & Accessories",
+  "n_variants": 5,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/645VGC2",
+  "name": "ASTM F3347 Preformed Copper & Valves - Straight Adapter",
+  "category": "Fittings & Accessories",
+  "n_variants": 3,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/645WG2",
+  "name": "ASTM F1960 - Metal Fittings, Adapters & Connectors - Coupling",
+  "category": "Fittings & Accessories",
+  "n_variants": 5,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/645WP2",
+  "name": "F1960 Poly Coupling",
+  "category": "Fittings & Accessories",
+  "n_variants": 15,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/645X2",
+  "name": "ASTM F1807 - Fittings, Adapters & Connectors - F1807 Coupling",
+  "category": "Fittings & Accessories",
+  "n_variants": 14,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/646-GP4312FD",
+  "name": "Sweat Preformed Copper & Valves - Water Service Connectors",
+  "category": "Valves",
+  "n_variants": 2,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/646QK0",
+  "name": "Polypropylene Push-Fit Fittings - Polypropylene Push-Fit Straight Adapters",
+  "category": "Fittings & Accessories",
+  "n_variants": 10,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/646WP2",
+  "name": "ASTM F1960 - Poly Fittings, Adapters & Connectors - F1960 Poly Straight Adapter",
+  "category": "Fittings & Accessories",
+  "n_variants": 5,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/648-3PRV",
+  "name": "Outlet Box Accessories - Valves & Fittings",
+  "category": "Outlet Boxes & Panels",
+  "n_variants": 5,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/648-3SMARX",
+  "name": "Sweat Preformed Copper & Valves - F1960 Brass Ball Valve",
+  "category": "Valves",
+  "n_variants": 2,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/648-3SX",
+  "name": "Sweat Preformed Copper & Valves - Ball Valve",
+  "category": "Valves",
+  "n_variants": 2,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/648-ARW",
+  "name": "ASTM F1960 - Metal Fittings, Adapters & Connectors - F1960 Brass Ball Valve",
+  "category": "Valves",
+  "n_variants": 12,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/648-ARX",
+  "name": "ASTM F1807 Preformed Copper & Valves - Brass Ball Valve",
+  "category": "Valves",
+  "n_variants": 9,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/648-CG2FP",
+  "name": "CPVC Preformed Copper & Valves - Ball Valve",
+  "category": "Valves",
+  "n_variants": 9,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/648-PG3FP",
+  "name": "PVC - Fittings, Adapters & Connectors - Ball Valve",
+  "category": "Valves",
+  "n_variants": 5,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/648-WG3CR",
+  "name": "Sweat Preformed Copper & Valves - Sweat Brass Ball Valve",
+  "category": "Valves",
+  "n_variants": 6,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/648QG2",
+  "name": "PDQ\u2122 Push Preformed Copper & Valves - Ball Valve",
+  "category": "Valves",
+  "n_variants": 3,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/648VG2FP",
+  "name": "ASTM F3347 Preformed Copper & Valves - Brass Ball Valve",
+  "category": "Valves",
+  "n_variants": 3,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/648WG3WRV",
+  "name": "ASTM F1960 - Metal Fittings, Adapters & Connectors - F1960 Brass Ball Valve",
+  "category": "Valves",
+  "n_variants": 1,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/648XG3XRV",
+  "name": "ASTM F1807 Preformed Copper & Valves - F1807 Brass Ball Valve",
+  "category": "Valves",
+  "n_variants": 1,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/649TX2",
+  "name": "ASTM F1807 - Fittings, Adapters & Connectors - V-Sleeve\u2122",
+  "category": "Fittings & Accessories",
+  "n_variants": 3,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/649WP2",
+  "name": "Ring",
+  "category": "Fittings & Accessories",
+  "n_variants": 6,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/649X1",
+  "name": "ASTM F1807 - Fittings, Adapters & Connectors - Crimp Ring",
+  "category": "Fittings & Accessories",
+  "n_variants": 7,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/649Y1PK1",
+  "name": "ASTM F1807 - Fittings, Adapters & Connectors - Cinch Clamp",
+  "category": "Fittings & Accessories",
+  "n_variants": 4,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/652-A",
+  "name": "Water Hammer Arresters - HydraRester\u2122",
+  "category": "Water Hammer Arresters",
+  "n_variants": 21,
+  "has_cad": true
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/652-AD",
+  "name": "Water Hammer Arresters - VacuRester\u2122",
+  "category": "Water Hammer Arresters",
+  "n_variants": 2,
+  "has_cad": true
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/658-1503",
+  "name": "Water Hammer Arresters - MegaRester\u2122",
+  "category": "Water Hammer Arresters",
+  "n_variants": 8,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/660-G2",
+  "name": "Water Hammer Arresters - MiniRester\u2122",
+  "category": "Water Hammer Arresters",
+  "n_variants": 33,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/663-05810HS",
+  "name": "Pipe Insulation - Foam Pipe/Tube Insulation",
+  "category": "Tubing/Hose",
+  "n_variants": 39,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/664X0W5M",
+  "name": "PowerPEX\u00ae Tube - Type B PEX Tube",
+  "category": "PEX Tube",
+  "n_variants": 66,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/664X3H20",
+  "name": "PowerPEX\u00ae Tube - Type B Oxygen Barrier PEX Tube",
+  "category": "PEX Tube",
+  "n_variants": 17,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/664XA2B10",
+  "name": "PowerPEX\u00ae Tube - Type A PEX Tube",
+  "category": "PEX Tube",
+  "n_variants": 61,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/664XA3H20",
+  "name": "PowerPEX\u00ae Tube - Type A Oxygen Barrier PEX Tube",
+  "category": "PEX Tube",
+  "n_variants": 19,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/672PX0290",
+  "name": "ASTM F2159 - Fittings, Adapters & Connectors - 1/2\" F2159 Poly Manifold",
+  "category": "Preformed Copper & Kits",
+  "n_variants": 6,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/672Q0490",
+  "name": "PDQ\u2122 Push Fit Manifolds - 1/2\" Push Fit Branch, Manifold",
+  "category": "Preformed Copper & Kits",
+  "n_variants": 6,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/672WG0240",
+  "name": "ASTM F1960 - Metal Fittings, Adapters & Connectors - 1/2\" F1960 Branch, Manifold",
+  "category": "Preformed Copper & Kits",
+  "n_variants": 31,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/672WGT0390",
+  "name": "ASTM F1960 - Metal Fittings, Adapters & Connectors - 1/2\" F1960 Branch, Multi-Port Tee",
+  "category": "Preformed Copper & Kits",
+  "n_variants": 4,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/672WP0299",
+  "name": "ASTM F1960 - Poly Fittings, Adapters & Connectors - 1/2\" F1960 Branch, Poly Manifold",
+  "category": "Preformed Copper & Kits",
+  "n_variants": 11,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/672WPT0399",
+  "name": "ASTM F1960 - Poly Fittings, Adapters & Connectors - 1/2\" F1960 Branch, Poly Multi-Port Tee",
+  "category": "Preformed Copper & Kits",
+  "n_variants": 3,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/672X0242",
+  "name": "ASTM F1807 Manifolds - 1/2\" F1807 Branch, Manifold",
+  "category": "Preformed Copper & Kits",
+  "n_variants": 92,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/672XGT0390",
+  "name": "ASTM F1807 Manifolds - 1/2\" F1807 Branch, Multi-Port Tee",
+  "category": "Preformed Copper & Kits",
+  "n_variants": 4,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/675-V20244",
+  "name": "Sweat Manifolds - 1/2\" MIP/FSWT Ball Valve Branch, Manifold",
+  "category": "Preformed Copper & Kits",
+  "n_variants": 2,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/67745L-08334",
+  "name": "Sweat Manifolds - 3/4\" Female Sweat Branch, Manifold",
+  "category": "Preformed Copper & Kits",
+  "n_variants": 1,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/678-20242",
+  "name": "Sweat Manifolds - 1/2\" Male Sweat Branch, Manifold",
+  "category": "Preformed Copper & Kits",
+  "n_variants": 7,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/6795L-12333",
+  "name": "Sweat Manifolds - 3/4\" Male Sweat Branch, Manifold",
+  "category": "Preformed Copper & Kits",
+  "n_variants": 3,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/687-2CD",
+  "name": "Water Service - Single Valve - ServiceBox\u2122 - Single Valve",
+  "category": "Outlet Boxes & Panels",
+  "n_variants": 27,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/687-2QDT",
+  "name": "Water Service - Dual Valve - ServiceBox\u2122 - Dual Valve",
+  "category": "Outlet Boxes & Panels",
+  "n_variants": 6,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/687-332CB",
+  "name": "Water Service - Water Softener - ServiceBox\u2122 - Water Softener Outlet",
+  "category": "Outlet Boxes & Panels",
+  "n_variants": 8,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/687-3CH",
+  "name": "Water Service - Water Heater - ServiceBox\u2122 - Water Heater",
+  "category": "Outlet Boxes & Panels",
+  "n_variants": 10,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/687-3CV",
+  "name": "Water Service - Termination Box - ServiceBox\u2122 - Single Valve Termination Outlet",
+  "category": "Outlet Boxes & Panels",
+  "n_variants": 5,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/687-3RPQ",
+  "name": "Water Service - PRV - ServiceBox\u2122 - Pressure Reducing Valve",
+  "category": "Outlet Boxes & Panels",
+  "n_variants": 16,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/687-Y33",
+  "name": "Line Splitter",
+  "category": "Outlet Boxes & Panels",
+  "n_variants": 2,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/688-C0B",
+  "name": "Outlet Box Accessories - Box Clips, Brackets & Supports",
+  "category": "Fittings & Accessories",
+  "n_variants": 8,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/688-G10CR",
+  "name": "Laundry - 3/4\" Male Hose Outlet - ClassicBox\u2122 3/4\" Outlet",
+  "category": "Outlet Boxes & Panels",
+  "n_variants": 12,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/689C0101",
+  "name": "CPVC Kits - CPVC Stub Out Elbow Kit",
+  "category": "Preformed Copper & Kits",
+  "n_variants": 1,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/689C1102",
+  "name": "CPVC Kits - CPVC Stub Out Elbow Kit",
+  "category": "Preformed Copper & Kits",
+  "n_variants": 2,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/689VG3212",
+  "name": "ASTM F3347 PEX Kits - F3347 Stub Out Kit",
+  "category": "Preformed Copper & Kits",
+  "n_variants": 13,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/689WG2201",
+  "name": "ASTM F1960 - Metal Fittings, Adapters & Connectors - F1960 Stub Out Kit",
+  "category": "Preformed Copper & Kits",
+  "n_variants": 4,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/689WG2291",
+  "name": "ASTM F1960 - Metal Fittings, Adapters & Connectors - F1960 Stub Out Kit",
+  "category": "Preformed Copper & Kits",
+  "n_variants": 2,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/689WG5103",
+  "name": "ASTM F1960 - Metal Fittings, Adapters & Connectors - F1960 Stub Out Kit",
+  "category": "Preformed Copper & Kits",
+  "n_variants": 2,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/692-1308",
+  "name": "Sweat Preformed Copper & Valves - Water Meter Adapters",
+  "category": "Fittings & Accessories",
+  "n_variants": 2,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/693-13155301",
+  "name": "Shower-Up",
+  "category": "Preformed Copper & Kits",
+  "n_variants": 2,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/694-G21012091",
+  "name": "Water Heater Connector Kit",
+  "category": "Preformed Copper & Kits",
+  "n_variants": 6,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/694Q312620",
+  "name": "PDQ\u2122 Push Preformed Copper & Valves - Push Fit Water Heater Connector Kit",
+  "category": "Preformed Copper & Kits",
+  "n_variants": 2,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/694XG32012091",
+  "name": "ASTM F1807 PEX Kits - F1807 Water Heater Connector Kit",
+  "category": "Preformed Copper & Kits",
+  "n_variants": 3,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/695-01",
+  "name": "Trap Primers - PrimePerfect\u2122",
+  "category": "Trap Primers",
+  "n_variants": 1,
+  "has_cad": true
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/695-D20",
+  "name": "Trap Primers - Splitter",
+  "category": "Trap Primers",
+  "n_variants": 7,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/695-ER05",
+  "name": "Trap Primers - Electronic Trap Primer",
+  "category": "Trap Primers",
+  "n_variants": 11,
+  "has_cad": true
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/696-1020GF",
+  "name": "Gas Service - FIP Outlet - OxBox\u2122 Gas",
+  "category": "Outlet Boxes & Panels",
+  "n_variants": 6,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/696-1F",
+  "name": "Outlet Box Accessories - Frames, Inserts, & Extensions",
+  "category": "Outlet Boxes & Panels",
+  "n_variants": 14,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/696-2313CR",
+  "name": "Laundry - 3/4\" Male Hose Outlet - OxBox\u2122 3/4\" Outlet",
+  "category": "Outlet Boxes & Panels",
+  "n_variants": 32,
+  "has_cad": true
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/696-2413MF",
+  "name": "Laundry - 3/4\" Male Hose Outlet - OxBox ONE\u2122 3/4\" Outlet",
+  "category": "Outlet Boxes & Panels",
+  "n_variants": 10,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/696-7",
+  "name": "Outlet Box Accessories - Boxes",
+  "category": "Outlet Boxes & Panels",
+  "n_variants": 10,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/696-CF",
+  "name": "Secondary Drainage Funnel",
+  "category": "Outlet Boxes & Panels",
+  "n_variants": 1,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/696-G1000CF",
+  "name": "Ice Maker - 1/4\" Comp. Outlet - OxBox\u2122 1/4\" Outlet",
+  "category": "Outlet Boxes & Panels",
+  "n_variants": 24,
+  "has_cad": true
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/696-G1001CF",
+  "name": "Lav/Toilet/Dishwasher - 3/8\" Comp. Outlet - OxBox\u2122 3/8\" Outlet-Single valve",
+  "category": "Outlet Boxes & Panels",
+  "n_variants": 15,
+  "has_cad": true
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/696-G2001CF",
+  "name": "Lav/Toilet/Dishwasher - 3/8\" Comp. Outlet - OxBox\u2122 3/8\" Outlets - Dual valve",
+  "category": "Outlet Boxes & Panels",
+  "n_variants": 16,
+  "has_cad": true
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/696-G3011CR",
+  "name": "Kitchen Supply - Comp. Multi-Valve Outlet - OxBox\u2122 3/8\" Outlets, Multi-Valve",
+  "category": "Outlet Boxes & Panels",
+  "n_variants": 9,
+  "has_cad": true
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/696-T2001CR",
+  "name": "Lav/Toilet/Dishwasher - 3/8\" Comp. Outlet - OxBox\u2122 3/8\" Outlets, TMV, Dual Outlet",
+  "category": "Valves",
+  "n_variants": 4,
+  "has_cad": true
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/696R2313WF",
+  "name": "Laundry - 3/4\" Male Hose Outlet - OxBox\u2122 3/4\" Outlet, Fire-Rated",
+  "category": "Outlet Boxes & Panels",
+  "n_variants": 11,
+  "has_cad": true
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/696RG1000CF",
+  "name": "Ice Maker - 1/4\" Comp. Outlet - OxBox\u2122 1/4\" Outlet, Fire-Rated",
+  "category": "Outlet Boxes & Panels",
+  "n_variants": 11,
+  "has_cad": true
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/696RG1001CF",
+  "name": "Lav/Toilet/Dishwasher - 3/8\" Comp. Outlet - OxBox\u2122 3/8\" Outlet, Fire-Rated - Single Valve",
+  "category": "Outlet Boxes & Panels",
+  "n_variants": 5,
+  "has_cad": true
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/696RG2001CF",
+  "name": "Lav/Toilet/Dishwasher - 3/8\" Comp. Outlet - OxBox\u2122 3/8\" Outlets, Fire-Rated - Dual Valve",
+  "category": "Outlet Boxes & Panels",
+  "n_variants": 8,
+  "has_cad": true
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/696RG2403CF",
+  "name": "Laundry - 3/4\" Male Hose Outlet - OxBox ONE\u2122 3/4\" Outlet, Fire-Rated",
+  "category": "Outlet Boxes & Panels",
+  "n_variants": 4,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/698-A11-CR",
+  "name": "Lav/Toilet/Dishwasher - 3/8\" Comp. Outlet - OmniPanel\u2122 3/8\" Outlets",
+  "category": "Outlet Boxes & Panels",
+  "n_variants": 8,
+  "has_cad": true
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/698-A33-MR",
+  "name": "Laundry - 3/4\" Male Hose Outlet - OmniPanel\u2122 3/4\" Outlet",
+  "category": "Outlet Boxes & Panels",
+  "n_variants": 8,
+  "has_cad": true
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/698-DC",
+  "name": "Outlet Box Accessories - Debris Covers",
+  "category": "Outlet Boxes & Panels",
+  "n_variants": 2,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/698RA11-CR",
+  "name": "Lav/Toilet/Dishwasher - 3/8\" Comp. Outlet - OmniPanel\u2122 3/8\" Outlets, Fire-Rated",
+  "category": "Outlet Boxes & Panels",
+  "n_variants": 5,
+  "has_cad": true
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/699-A0-MR",
+  "name": "Ice Maker - 1/4\" Comp. Outlet - ProPlate\u2122 1/4\" Outlet",
+  "category": "Outlet Boxes & Panels",
+  "n_variants": 4,
+  "has_cad": true
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/699-A1-CR",
+  "name": "Lav/Toilet/Dishwasher - 3/8\" Comp. Outlet - ProPlate\u2122 3/8\" Outlet",
+  "category": "Outlet Boxes & Panels",
+  "n_variants": 17,
+  "has_cad": true
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/700-0",
+  "name": "Brushes & Abrasives - Fitting Brushes",
+  "category": "Tools & Chemicals",
+  "n_variants": 28,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/710-2",
+  "name": "Tube OD Brush",
+  "category": "Tools & Chemicals",
+  "n_variants": 3,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/730-05",
+  "name": "Brushes & Abrasives - Abrasive Mesh/Cloth",
+  "category": "Tools & Chemicals",
+  "n_variants": 10,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/750-46",
+  "name": "Abrasive Cleaning Pads",
+  "category": "Tools & Chemicals",
+  "n_variants": 3,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/771",
+  "name": "Brushes & Abrasives - Acid/Cement Brushes",
+  "category": "Tools & Chemicals",
+  "n_variants": 6,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/800-A",
+  "name": "Integral-Trap Floor Drains - WeldOne\u2122",
+  "category": "Residential Drainage",
+  "n_variants": 5,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/801-A",
+  "name": "Floor Drain Replacement Strainers - Strainers for Weld One / Quad Drain",
+  "category": "Residential Drainage",
+  "n_variants": 17,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/802-7",
+  "name": "Residential Floor Drain Accessories - Polypro Backwater Device For 2'' FIP Threads",
+  "category": "Residential Drainage",
+  "n_variants": 1,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/803-2PK2",
+  "name": "Shallow Access - Backup Float Valve",
+  "category": "Residential Drainage",
+  "n_variants": 3,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/819-2A",
+  "name": "Freestanding Tub Drain",
+  "category": "Residential Drainage",
+  "n_variants": 2,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/820-20PCQ",
+  "name": "Shower Pan Drains - Adjustable Slab Shower Drain",
+  "category": "Residential Drainage",
+  "n_variants": 18,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/821-200A",
+  "name": "Shower Pan Drains - Screw-On Stainless Steel Strainer",
+  "category": "Residential Drainage",
+  "n_variants": 10,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/821-200ACQ",
+  "name": "Shower Pan Drains - Deluxe Polished Stainless Ring & Strainer",
+  "category": "Residential Drainage",
+  "n_variants": 8,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/821-200AKR",
+  "name": "Shower Pan Drains - Deluxe Satin Nickel Finish Ring & Strainer",
+  "category": "Residential Drainage",
+  "n_variants": 7,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/821-200ANQ",
+  "name": "Shower Pan Drains - Deluxe Nickel-Bronze Ring & Strainer",
+  "category": "Residential Drainage",
+  "n_variants": 7,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/821-200ARBQ",
+  "name": "Shower Pan Drains - Deluxe Oil-Rubbed Bronze Finish Ring & Strainer",
+  "category": "Residential Drainage",
+  "n_variants": 8,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/821-200ASQ",
+  "name": "Shower Pan Drains - Deluxe Matte Stainless Ring & Strainer",
+  "category": "Residential Drainage",
+  "n_variants": 7,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/821-270A",
+  "name": "Shower Pan Drains - Snap-In Stainless Steel Strainer",
+  "category": "Residential Drainage",
+  "n_variants": 8,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/821-2AQCP",
+  "name": "Shower Pan Drains - Grid-Pattern Head & Strainer",
+  "category": "Residential Drainage",
+  "n_variants": 8,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/821-2AT4A",
+  "name": "Shower Pan Drains - Tile-Insert Strainer",
+  "category": "Residential Drainage",
+  "n_variants": 11,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/821-2IFS",
+  "name": "Shower Pan Drains - Cast Iron Shower Drains",
+  "category": "Residential Drainage",
+  "n_variants": 4,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/821-2IH",
+  "name": "Shower Pan Drains",
+  "category": "Residential Drainage",
+  "n_variants": 33,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/821-2S",
+  "name": "Shower Drain Replacement Strainers - Screw-On Strainers",
+  "category": "Residential Drainage",
+  "n_variants": 2,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/821-2SCQPK1",
+  "name": "Shower Drain Replacement Strainers - Cast Ring & Strainers",
+  "category": "Residential Drainage",
+  "n_variants": 18,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/822-2AF",
+  "name": "Halo\u2122 Floor Drains - FinishLine Halo\u2122 Floor Drains",
+  "category": "Specification & Commercial Drainage",
+  "n_variants": 30,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/822-2ANQ",
+  "name": "Halo\u2122 Floor Drains",
+  "category": "Specification & Commercial Drainage",
+  "n_variants": 28,
+  "has_cad": true
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/822-C3AF",
+  "name": "Halo\u2122 Cleanouts - FinishLine Halo\u2122 Adjustable Cleanouts",
+  "category": "Specification & Commercial Drainage",
+  "n_variants": 15,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/822-C3ANQ",
+  "name": "Halo\u2122 Cleanouts - Halo\u2122 Adjustable Cleanouts",
+  "category": "Specification & Commercial Drainage",
+  "n_variants": 20,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/822-CKIT",
+  "name": "Halo\u2122 Floor Drains",
+  "category": "Specification & Commercial Drainage",
+  "n_variants": 3,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/822-EX3",
+  "name": "Halo\u2122 Floor Drains - Large-Capacity Shower Pan Drains",
+  "category": "Residential Drainage",
+  "n_variants": 1,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/822-S2A",
+  "name": "Shower Pan Drains - FinishLine\u2122 Shower Pan Drain",
+  "category": "Residential Drainage",
+  "n_variants": 2,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/823-24PSS",
+  "name": "StreamLine\u2122 Linear Shower Pan Drains - Low-Profile Linear Shower Drain",
+  "category": "Residential Drainage",
+  "n_variants": 6,
+  "has_cad": true
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/823-T2A36T",
+  "name": "StreamLine\u2122 Linear Shower Pan Drains - Site-Adjustable Linear Shower Drain",
+  "category": "Residential Drainage",
+  "n_variants": 8,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/823-TX26SA",
+  "name": "StreamLine\u2122 Linear Shower Pan Drains - Stainless Steel Linear Shower Drain",
+  "category": "Residential Drainage",
+  "n_variants": 36,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/825-17P",
+  "name": "Shower Module Drains - 825 Series - Receptor-Base Style",
+  "category": "Residential Drainage",
+  "n_variants": 10,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/825-17P9",
+  "name": "Shower Module Drains - 825 Series - Side Outlet Receptor-Base Style",
+  "category": "Residential Drainage",
+  "n_variants": 2,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/825-2AFS",
+  "name": "Shower Module Drains - 825 Series - Offset Receptor-Base Style",
+  "category": "Residential Drainage",
+  "n_variants": 2,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/826-2A",
+  "name": "Shower Module Drains - 826 Series - Outer-Locknut Style",
+  "category": "Residential Drainage",
+  "n_variants": 3,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/827-2B",
+  "name": "Shower Module Drains - No-Caulk Connection",
+  "category": "Residential Drainage",
+  "n_variants": 3,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/827-2BG",
+  "name": "Shower Module Drains - 827/828 Series - Outer-Locknut Style",
+  "category": "Residential Drainage",
+  "n_variants": 2,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/827-2J",
+  "name": "Shower Module Drains - JackRabbit\u2122 Outer-Locknut Style",
+  "category": "Residential Drainage",
+  "n_variants": 1,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/827-2RBPK2",
+  "name": "Shower Drain Replacement Strainers - Snap-In Strainers",
+  "category": "Residential Drainage",
+  "n_variants": 12,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/832-25AF",
+  "name": "FinishLine\u2122 On-Grade Floor Drains - PVC/ABS - Sch. 40 Hub Connection",
+  "category": "Specification & Commercial Drainage",
+  "n_variants": 50,
+  "has_cad": true
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/832-25DF",
+  "name": "FinishLine\u2122 On-Grade Floor Drains - Cast Iron - No-Hub Connection",
+  "category": "Specification & Commercial Drainage",
+  "n_variants": 122,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/832-3DHNQ",
+  "name": "Floor Drain Accessories - FinishLine Floor Drain Accessories",
+  "category": "Specification & Commercial Drainage",
+  "n_variants": 23,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/832-3HHD",
+  "name": "Floor Drain Accessories - FinishLine\u2122 Floor Drain Accessories",
+  "category": "Specification & Commercial Drainage",
+  "n_variants": 20,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/832-3SF",
+  "name": "FinishLine\u2122 On-Grade Floor Drains - Stainless Steel - No-Hub Connection",
+  "category": "Specification & Commercial Drainage",
+  "n_variants": 6,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/832-63DF",
+  "name": "FinishLine\u2122 On-Grade Floor Drains - Cast Iron - Push-Joint Connection",
+  "category": "Specification & Commercial Drainage",
+  "n_variants": 106,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/833-225F",
+  "name": "FinishLine\u2122 Above-Grade Floor Drains - ABS on Iron - No-Hub Connection",
+  "category": "Specification & Commercial Drainage",
+  "n_variants": 25,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/833-25AF",
+  "name": "FinishLine\u2122 Above-Grade Floor Drains - PVC/ABS - Sch. 40 Hub Connection",
+  "category": "Specification & Commercial Drainage",
+  "n_variants": 50,
+  "has_cad": true
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/833-625F",
+  "name": "FinishLine\u2122 Above-Grade Floor Drains - ABS on Iron - Push-Joint Connection",
+  "category": "Specification & Commercial Drainage",
+  "n_variants": 25,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/834-3AF",
+  "name": "FinishLine\u2122 Adjustable Cleanouts - PVC/ABS - Sch. 40 Hub Connection",
+  "category": "Specification & Commercial Drainage",
+  "n_variants": 56,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/834-3DF",
+  "name": "FinishLine\u2122 Adjustable Cleanouts - Cast Iron - No-Hub Connection",
+  "category": "Specification & Commercial Drainage",
+  "n_variants": 45,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/834-3DHNQ",
+  "name": "Cleanout Accessories - FinishLine\u2122 Cleanout Accessories",
+  "category": "Specification & Commercial Drainage",
+  "n_variants": 14,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/834-3HNQ",
+  "name": "Cleanout Accessories - FinishLine\u2122 Cleanout Accessories",
+  "category": "Specification & Commercial Drainage",
+  "n_variants": 9,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/834-3SF",
+  "name": "FinishLine\u2122 Adjustable Cleanouts - Stainless Steel - No-Hub Connection",
+  "category": "Specification & Commercial Drainage",
+  "n_variants": 6,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/834-63DF",
+  "name": "FinishLine\u2122 Adjustable Cleanouts - Cast Iron - Push-Joint Connection",
+  "category": "Specification & Commercial Drainage",
+  "n_variants": 40,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/835-2",
+  "name": "Floor Drain Accessories - 827/828 Series - Outer-Locknut Style",
+  "category": "Residential Drainage",
+  "n_variants": 1,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/835-2CQ",
+  "name": "Floor Drain Accessories - TrapShield\u2122",
+  "category": "Specification & Commercial Drainage",
+  "n_variants": 4,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/835-3",
+  "name": "Floor Drain Accessories - Large-Capacity Shower Pan Drains",
+  "category": "Residential Drainage",
+  "n_variants": 2,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/835-4",
+  "name": "Floor Drain Accessories - TrapShield\u2122",
+  "category": "Trap Primers",
+  "n_variants": 1,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/836-2",
+  "name": "Floor Drain Accessories - DeckAnchor\u2122 Fixture Mounting Fitting",
+  "category": "Specification & Commercial Drainage",
+  "n_variants": 4,
+  "has_cad": true
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/837-06",
+  "name": "Closet Carriers - Closet Carrier Accessories",
+  "category": "Specification & Commercial Drainage",
+  "n_variants": 13,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/837-7C15",
+  "name": "Concealed Arm",
+  "category": "Specification & Commercial Drainage",
+  "n_variants": 3,
+  "has_cad": true
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/837-7CA15",
+  "name": "Adjustable Concealed Arm",
+  "category": "Specification & Commercial Drainage",
+  "n_variants": 3,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/837-7D",
+  "name": "Urinal Carriers - Plate Type",
+  "category": "Specification & Commercial Drainage",
+  "n_variants": 2,
+  "has_cad": true
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/837-7D2",
+  "name": "Water Cooler Carriers - Plate Type",
+  "category": "Specification & Commercial Drainage",
+  "n_variants": 4,
+  "has_cad": true
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/837-7PL",
+  "name": "Lavatory Carriers - Plate Type",
+  "category": "Specification & Commercial Drainage",
+  "n_variants": 2,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/837-HBD",
+  "name": "Closet Carriers - Horizontal",
+  "category": "Specification & Commercial Drainage",
+  "n_variants": 14,
+  "has_cad": true
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/837-VB10",
+  "name": "Closet Carriers - Vertical",
+  "category": "Specification & Commercial Drainage",
+  "n_variants": 28,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/840-20ANR",
+  "name": "General-Purpose Floor Drains - 840 Series Floor Drains",
+  "category": "Residential Drainage",
+  "n_variants": 16,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/841-29P",
+  "name": "General-Purpose Floor Drains - QuadDrain\u2122",
+  "category": "Residential Drainage",
+  "n_variants": 6,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/842-2ANQ",
+  "name": "On-Grade Floor Drains - Adjustable Floor Drain",
+  "category": "Specification & Commercial Drainage",
+  "n_variants": 34,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/842-2LNQ",
+  "name": "On-Grade Floor Drains - Adjustable Floor Drain Head",
+  "category": "Specification & Commercial Drainage",
+  "n_variants": 20,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/842-712A",
+  "name": "Accessories",
+  "category": "Air Admittance Valve (AAV)",
+  "n_variants": 2,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/842-82AT",
+  "name": "Floor Drain Accessories - Floor Drain Adapters",
+  "category": "Specification & Commercial Drainage",
+  "n_variants": 21,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/842-SCS2",
+  "name": "Floor Drain Accessories - Replacement Strainers",
+  "category": "Specification & Commercial Drainage",
+  "n_variants": 19,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/842-UM",
+  "name": "On-Grade Floor Drains - Adjustable Floor Drain",
+  "category": "Specification & Commercial Drainage",
+  "n_variants": 1,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/843-2PNQ",
+  "name": "On-Grade Floor Drains - Non-Adjustable Floor Drain",
+  "category": "Specification & Commercial Drainage",
+  "n_variants": 12,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/844-02G",
+  "name": "Floor Drain Replacement Strainers - Strainers for City-Style Drains",
+  "category": "Residential Drainage",
+  "n_variants": 5,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/844-02SL",
+  "name": "Cast Iron Floor Drains - St. Louis Style Floor Drain",
+  "category": "Residential Drainage",
+  "n_variants": 3,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/844-04IQ",
+  "name": "Cast Iron Floor Drains - Pittsburgh Style Floor Drain",
+  "category": "Residential Drainage",
+  "n_variants": 1,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/845-2APK",
+  "name": "Pipe Strainers - Inside Pipe Drain",
+  "category": "Residential Drainage",
+  "n_variants": 8,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/846-S11PK",
+  "name": "General-Purpose Cast Iron Strainers",
+  "category": "Residential Drainage",
+  "n_variants": 10,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/847-2",
+  "name": "Pipe Strainers - Gripper\u2122",
+  "category": "Residential Drainage",
+  "n_variants": 6,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/847-7",
+  "name": "Pipe Strainers - ReplaceIt\u2122",
+  "category": "Residential Drainage",
+  "n_variants": 3,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/850-234N",
+  "name": "Adjustable Access Cover - Set Screw Connection",
+  "category": "Specification & Commercial Drainage",
+  "n_variants": 10,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/850-9I",
+  "name": "Access Cover Cleanouts - Heavy-Duty Cleanout Housing",
+  "category": "Specification & Commercial Drainage",
+  "n_variants": 2,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/850-CI2",
+  "name": "Cleanout Accessories - Replacement Cleanout Covers",
+  "category": "Specification & Commercial Drainage",
+  "n_variants": 33,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/850-V105",
+  "name": "Floor Drain Accessories - Vandal-Resistant Strainer Screws",
+  "category": "Specification & Commercial Drainage",
+  "n_variants": 8,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/852-2LNR",
+  "name": "Adjustable Cleanouts - ABS - MIP Thread Connection",
+  "category": "Specification & Commercial Drainage",
+  "n_variants": 14,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/853-F23I",
+  "name": "Cleanout Fittings - Cleanout Ferrules",
+  "category": "Specification & Commercial Drainage",
+  "n_variants": 3,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/853-T23I",
+  "name": "Cleanout Fittings - Cleanout Tees",
+  "category": "Specification & Commercial Drainage",
+  "n_variants": 4,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/860-22I",
+  "name": "FatMax\u2122 Large-Capacity Floor Drains - 9\" Diameter",
+  "category": "Specification & Commercial Drainage",
+  "n_variants": 21,
+  "has_cad": true
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/860-2A",
+  "name": "FatMax\u2122 Large-Capacity Floor Drains - PVC/ABS - Sch. 40 Hub Connection",
+  "category": "Specification & Commercial Drainage",
+  "n_variants": 32,
+  "has_cad": true
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/860-3SS",
+  "name": "FatMax\u2122 Large-Capacity Floor Drains - Stainless Steel",
+  "category": "Specification & Commercial Drainage",
+  "n_variants": 2,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/860-3SSS",
+  "name": "FatMax\u2122 Large-Capacity Floor Drains - Stainless Steel",
+  "category": "Specification & Commercial Drainage",
+  "n_variants": 3,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/860-6",
+  "name": "FatMax\u2122 Large-Capacity Floor Drains - FatMax\u2122 Floor Drain Accessories",
+  "category": "Specification & Commercial Drainage",
+  "n_variants": 15,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/860-Q222I",
+  "name": "FatMax\u2122 Large-Capacity Floor Drains - 12\" Diameter",
+  "category": "Specification & Commercial Drainage",
+  "n_variants": 36,
+  "has_cad": true
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/860-RGN2",
+  "name": "FatMax\u2122 PVC Round Floor Sink - FatMax\u2122 Floor Sink Accessories",
+  "category": "Specification & Commercial Drainage",
+  "n_variants": 8,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/860-UMCQ",
+  "name": "Cast Iron Round Floor Sinks - 9\" x 6\"",
+  "category": "Specification & Commercial Drainage",
+  "n_variants": 1,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/860-W2P",
+  "name": "FatMax\u2122 PVC Round Floor Sink - PVC - Sch. 40 Hub Connection",
+  "category": "Specification & Commercial Drainage",
+  "n_variants": 14,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/861-2P",
+  "name": "SquareMax\u2122 PVC Square Floor Sink - PVC - Sch. 40 Hub Connection",
+  "category": "Specification & Commercial Drainage",
+  "n_variants": 24,
+  "has_cad": true
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/861-5",
+  "name": "SquareMax\u2122 PVC Square Floor Sink - SquareMax\u2122 Floor Sink Accessories",
+  "category": "Specification & Commercial Drainage",
+  "n_variants": 15,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/861-52IN",
+  "name": "Cast Iron Square Floor Sinks - 12\" x 12\" x 6\" - Alpha Series",
+  "category": "Specification & Commercial Drainage",
+  "n_variants": 1,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/861-BKQ2",
+  "name": "Stainless Steel Square Floor Sinks - 12\" x 12\" x 8\"",
+  "category": "Specification & Commercial Drainage",
+  "n_variants": 5,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/861-BQ2",
+  "name": "Cast Iron Square Floor Sinks - 12\" x 12\" x 6\"",
+  "category": "Specification & Commercial Drainage",
+  "n_variants": 11,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/861-BQ8",
+  "name": "Cast Iron Square Floor Sinks - 8\" x 8\" x 6\"",
+  "category": "Specification & Commercial Drainage",
+  "n_variants": 10,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/861-BR2",
+  "name": "Cast Iron Round Floor Sinks - 12\" x 8\"",
+  "category": "Specification & Commercial Drainage",
+  "n_variants": 9,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/861-BR8",
+  "name": "Cast Iron Round Floor Sinks - 8\" x 6\"",
+  "category": "Specification & Commercial Drainage",
+  "n_variants": 8,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/861-Q2221",
+  "name": "Cast Iron Square Floor Sinks - 12\" x 12\" x 10\"",
+  "category": "Specification & Commercial Drainage",
+  "n_variants": 24,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/861-Q2226",
+  "name": "Cast Iron Square Floor Sinks - 12\" x 12\" x 6\"",
+  "category": "Specification & Commercial Drainage",
+  "n_variants": 24,
+  "has_cad": true
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/861-Q2228",
+  "name": "Cast Iron Square Floor Sinks - 12\" x 12\" x 8\"",
+  "category": "Specification & Commercial Drainage",
+  "n_variants": 24,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/861-Q2286",
+  "name": "Cast Iron Square Floor Sinks - 8\" x 8\" x 6\"",
+  "category": "Specification & Commercial Drainage",
+  "n_variants": 24,
+  "has_cad": true
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/861-R2228",
+  "name": "Cast Iron Round Floor Sinks - 12\" x 8\"",
+  "category": "Specification & Commercial Drainage",
+  "n_variants": 24,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/861-R2286",
+  "name": "Cast Iron Round Floor Sinks - 8\" x 6\"",
+  "category": "Specification & Commercial Drainage",
+  "n_variants": 24,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/861-SQ2428",
+  "name": "Stainless Steel Square Floor Sinks - 12\" x 12\" x 8\"",
+  "category": "Specification & Commercial Drainage",
+  "n_variants": 1,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/862-410LNQ",
+  "name": "Floor Drain Accessories - Adjustable Floor Drain Head",
+  "category": "Specification & Commercial Drainage",
+  "n_variants": 22,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/862-EX4",
+  "name": "Floor Drain Accessories",
+  "category": "Specification & Commercial Drainage",
+  "n_variants": 4,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/863-325NQ",
+  "name": "Above-Grade Floor Drains - PVC/ABS - Sch. 40 Hub Connection",
+  "category": "Specification & Commercial Drainage",
+  "n_variants": 36,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/863-335CQ",
+  "name": "Shower Pan Drains - Large-Capacity Shower Pan Drains",
+  "category": "Residential Drainage",
+  "n_variants": 4,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/863-335NQ",
+  "name": "Above-Grade Floor Drains - Large-Capacity Shower Pan Drains",
+  "category": "Residential Drainage",
+  "n_variants": 8,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/863-62NR",
+  "name": "Above-Grade Floor Drains - ABS on Iron - Push-Joint Connection",
+  "category": "Specification & Commercial Drainage",
+  "n_variants": 1,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/863-FA",
+  "name": "Condensate Funnels",
+  "category": "Specification & Commercial Drainage",
+  "n_variants": 3,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/864-2A",
+  "name": "FatMax\u2122 Large-Capacity Floor Drains - LittleMax\u2122 General Purpose Floor Drain",
+  "category": "Specification & Commercial Drainage",
+  "n_variants": 6,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/864-GP",
+  "name": "FatMax\u2122 Large-Capacity Floor Drains - LittleMax\u2122 General Purpose Floor Drain",
+  "category": "Specification & Commercial Drainage",
+  "n_variants": 4,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/864-W2P",
+  "name": "LittleMax\u2122 Compact PVC Round Floor Sink - PVC - Sch. 40 Hub Connection",
+  "category": "Specification & Commercial Drainage",
+  "n_variants": 3,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/864-WGP",
+  "name": "LittleMax\u2122 Compact PVC Round Floor Sink - PVC - Sch. 40 Hub Connection",
+  "category": "Specification & Commercial Drainage",
+  "n_variants": 3,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/865-12ECD",
+  "name": "HydroTec\u2122 System - HydroTec\u2122 MAXI System",
+  "category": "Trench Drains",
+  "n_variants": 42,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/865-12PC",
+  "name": "HydroBlock\u2122 System - HydroBlock\u2122 300",
+  "category": "Trench Drains",
+  "n_variants": 4,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/865-A",
+  "name": "FastTrack\u2122 System - FastTrack\u2122 Pre-Sloped System",
+  "category": "Trench Drains",
+  "n_variants": 13,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/865-GGD",
+  "name": "FastTrack\u2122 System - FastTrack\u2122 Pre-Sloped System",
+  "category": "Trench Drains",
+  "n_variants": 15,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/865-HB12005BFA",
+  "name": "HydroBlock\u2122 System - HydroBlock\u2122 300",
+  "category": "Trench Drains",
+  "n_variants": 7,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/865-HB4005BFA",
+  "name": "HydroBlock\u2122 System - HydroBlock\u2122 100",
+  "category": "Trench Drains",
+  "n_variants": 4,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/865-HB4CBFA",
+  "name": "HydroBlock\u2122 System - HydroBlock\u2122 100",
+  "category": "Trench Drains",
+  "n_variants": 4,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/865-HB6005BFA",
+  "name": "HydroBlock\u2122 System - HydroBlock\u2122 150",
+  "category": "Trench Drains",
+  "n_variants": 7,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/865-HB6ADACBFA",
+  "name": "HydroBlock\u2122 System - HydroBlock\u2122 150",
+  "category": "Trench Drains",
+  "n_variants": 7,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/865-HB8005BFA",
+  "name": "HydroBlock\u2122 System - HydroBlock\u2122 200",
+  "category": "Trench Drains",
+  "n_variants": 7,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/865-HB8ADACBFA",
+  "name": "HydroBlock\u2122 System - HydroBlock\u2122 200",
+  "category": "Trench Drains",
+  "n_variants": 4,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/865-HL4L",
+  "name": "HydroLine\u2122 System",
+  "category": "Trench Drains",
+  "n_variants": 11,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/865-HLAC",
+  "name": "HydroLine\u2122 System",
+  "category": "Trench Drains",
+  "n_variants": 12,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/865-M12PN005EA",
+  "name": "HydroTec\u2122 System - HydroTec\u2122 MAXI System",
+  "category": "Trench Drains",
+  "n_variants": 126,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/865-N3",
+  "name": "FastTrack\u2122 System - FastTrack\u2122 Pre-Sloped System",
+  "category": "Trench Drains",
+  "n_variants": 13,
+  "has_cad": true
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/865-NS1",
+  "name": "FastTrack\u2122 System - FastTrack\u2122 Low-Profile System",
+  "category": "Trench Drains",
+  "n_variants": 1,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/865-NSC",
+  "name": "FastTrack\u2122 System - FastTrack\u2122 Low-Profile System",
+  "category": "Trench Drains",
+  "n_variants": 1,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/865-T4CB",
+  "name": "HydroTec\u2122 System - HydroTec\u2122 TOP System",
+  "category": "Trench Drains",
+  "n_variants": 13,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/865-T4LP003",
+  "name": "HydroTec\u2122 System - HydroTec\u2122 TOP System",
+  "category": "Trench Drains",
+  "n_variants": 44,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/865-TEC",
+  "name": "FastTrack\u2122 System - FastTrack\u2122 Large-Capacity System",
+  "category": "Trench Drains",
+  "n_variants": 5,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/865-TNDS",
+  "name": "FastTrack\u2122 System - FastTrack\u2122 Large-Capacity System",
+  "category": "Trench Drains",
+  "n_variants": 2,
+  "has_cad": true
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/866-2I",
+  "name": "General-Purpose Floor Drains - Bell-Trap Floor Drains",
+  "category": "Residential Drainage",
+  "n_variants": 4,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/867-30PK",
+  "name": "Condensate Trap",
+  "category": "Residential Drainage",
+  "n_variants": 2,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/867-A2",
+  "name": "Roof Drains - 10\" Roof Drain",
+  "category": "Specification & Commercial Drainage",
+  "n_variants": 12,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/867-C",
+  "name": "Roof Drain Accessories - Roof Drain Accessories",
+  "category": "Specification & Commercial Drainage",
+  "n_variants": 38,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/867-DI2",
+  "name": "Combination Roof Drain & Overflow - 8\" Roof Drain & Overflow",
+  "category": "Specification & Commercial Drainage",
+  "n_variants": 5,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/867-L3AP",
+  "name": "Planter-Area Drains - PVC/ABS - Sch. 40 Hub Connection",
+  "category": "Specification & Commercial Drainage",
+  "n_variants": 4,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/868-2010",
+  "name": "Roof Drains - 20\" Large-Capacity Roof Drain",
+  "category": "Specification & Commercial Drainage",
+  "n_variants": 2,
+  "has_cad": true
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/868-523",
+  "name": "Roof Drains - 15\" Roof Drain",
+  "category": "Specification & Commercial Drainage",
+  "n_variants": 12,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/868-5A",
+  "name": "Specialty Flanges - Urinal Flange Kit",
+  "category": "Residential Drainage",
+  "n_variants": 6,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/868-823",
+  "name": "Roof Drains - 8\" Roof Drain",
+  "category": "Specification & Commercial Drainage",
+  "n_variants": 2,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/868-D523",
+  "name": "Combination Roof Drain & Overflow - 15\" Roof Drain & Overflow",
+  "category": "Specification & Commercial Drainage",
+  "n_variants": 12,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/868-DI3",
+  "name": "Combination Roof Drain & Overflow - 11\" Roof Drain & Overflow",
+  "category": "Specification & Commercial Drainage",
+  "n_variants": 12,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/868-I3",
+  "name": "Roof Drains - 11\" Roof Drain",
+  "category": "Specification & Commercial Drainage",
+  "n_variants": 12,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/868-N3F",
+  "name": "Roof Drain Accessories - Nickel-Bronze Downspout Nozzles",
+  "category": "Specification & Commercial Drainage",
+  "n_variants": 12,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/868-N3S",
+  "name": "Stainless Steel Downspout Nozzle Cover",
+  "category": "Specification & Commercial Drainage",
+  "n_variants": 4,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/868-Q623I",
+  "name": "Promenade Drains - Promenade Drain",
+  "category": "Specification & Commercial Drainage",
+  "n_variants": 16,
+  "has_cad": true
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/868-S3A",
+  "name": "Scupper Drains - Cast Iron - FIP Connection",
+  "category": "Specification & Commercial Drainage",
+  "n_variants": 6,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/868-V234",
+  "name": "Roof Drain Accessories - Vent Cap",
+  "category": "Specification & Commercial Drainage",
+  "n_variants": 1,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/869-23",
+  "name": "Backwater Valve Accessories - Extension Sleeve Kit For 2'' Valve; Includes Sleeve, Locking Collar And Lid",
+  "category": "Residential Drainage",
+  "n_variants": 1,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/869-2A",
+  "name": "Shallow Access - DWV Backwater Valve",
+  "category": "Residential Drainage",
+  "n_variants": 4,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/869-61",
+  "name": "Backwater Valve Accessories - Flapper & O-Ring For 6'' Valve",
+  "category": "Residential Drainage",
+  "n_variants": 1,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/869-6P1",
+  "name": "Backwater Valve Accessories - 6'' White PVC Threaded Lid",
+  "category": "Residential Drainage",
+  "n_variants": 1,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/869-S3A",
+  "name": "Shallow-or-Deep Access - ProCheck\u2122",
+  "category": "Residential Drainage",
+  "n_variants": 12,
+  "has_cad": true
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/869-S4ADB",
+  "name": "Backwater Valve Accessories - ABS Deep-Bury Adapter Kit",
+  "category": "Residential Drainage",
+  "n_variants": 1,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/869-S4PDB",
+  "name": "Backwater Valve Accessories - PVC Deep-Bury Adapter Kit",
+  "category": "Residential Drainage",
+  "n_variants": 1,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/869-SF3",
+  "name": "Backwater Valve Accessories - Flapper & Carrier For 3'' Backwater Valve",
+  "category": "Residential Drainage",
+  "n_variants": 1,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/869-SF4",
+  "name": "Backwater Valve Accessories - Flapper & Carrier For 4'' Backwater Valve",
+  "category": "Residential Drainage",
+  "n_variants": 1,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/869-SRV3",
+  "name": "Sewer Relief Valve",
+  "category": "Residential Drainage",
+  "n_variants": 2,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/869-SSK",
+  "name": "Backwater Valve Accessories - Shallow Access Sleeve Kit \u2013 Collar/Sleeve/Lid",
+  "category": "Residential Drainage",
+  "n_variants": 1,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/869-SSL",
+  "name": "Backwater Valve Accessories - Turn-Lock Collar & Lid For 16'' Shallow Access Sleeve",
+  "category": "Residential Drainage",
+  "n_variants": 1,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/869-SVLW",
+  "name": "Backwater Valve Accessories - Threaded Lid For Backwater Valve, White w/ O-Ring",
+  "category": "Residential Drainage",
+  "n_variants": 1,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/869-V34",
+  "name": "PVC Vent Cap",
+  "category": "Residential Drainage",
+  "n_variants": 1,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/869-V4",
+  "name": "Cast Iron Floor Drains - Philadelphia Style Fresh Air Vent",
+  "category": "Residential Drainage",
+  "n_variants": 1,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/870-2CM",
+  "name": "Wall Cleanouts - Cleanout Cover Accessories",
+  "category": "Specification & Commercial Drainage",
+  "n_variants": 14,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/870-3",
+  "name": "Wall Cleanouts - Cleanout Covers",
+  "category": "Specification & Commercial Drainage",
+  "n_variants": 22,
+  "has_cad": true
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/870-3PK1",
+  "name": "Wall Cleanouts - Cleanout Cover Kits",
+  "category": "Specification & Commercial Drainage",
+  "n_variants": 21,
+  "has_cad": true
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/875-2A",
+  "name": "Cleanout Bushing - Inside-Pipe Cleanout Bushing",
+  "category": "Specification & Commercial Drainage",
+  "n_variants": 9,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/875-83AN",
+  "name": "Cleanout Bushing - Inside-Pipe Cleanout Fitting",
+  "category": "Specification & Commercial Drainage",
+  "n_variants": 5,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/876-60",
+  "name": "Cleanout Plugs - Brass - Square-Head",
+  "category": "Specification & Commercial Drainage",
+  "n_variants": 19,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/876-SL15",
+  "name": "Brass - Slotted",
+  "category": "Specification & Commercial Drainage",
+  "n_variants": 8,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/878-015",
+  "name": "Cleanout Plugs - Polypropylene - Slotted",
+  "category": "Specification & Commercial Drainage",
+  "n_variants": 44,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/878-960",
+  "name": "PVC - Spanner",
+  "category": "Specification & Commercial Drainage",
+  "n_variants": 2,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/878-S15",
+  "name": "Polypropylene - Square-Head",
+  "category": "Specification & Commercial Drainage",
+  "n_variants": 8,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/880",
+  "name": "Pipe Bore Adapter",
+  "category": "Residential Drainage",
+  "n_variants": 1,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/880-012",
+  "name": "Dual-Fit Test Caps",
+  "category": "Testing",
+  "n_variants": 2,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/880-01A",
+  "name": "Test Devices - HardHat\u2122",
+  "category": "Testing",
+  "n_variants": 8,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/880-1",
+  "name": "Flexible PVC Test Caps",
+  "category": "Testing",
+  "n_variants": 4,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/880-81",
+  "name": "Test Devices - GripTip\u2122",
+  "category": "Testing",
+  "n_variants": 20,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/881-01-4",
+  "name": "Test Devices - TeePee\u2122",
+  "category": "Testing",
+  "n_variants": 6,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/881-02A",
+  "name": "Test Devices - GripTip\u2122",
+  "category": "Testing",
+  "n_variants": 2,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/881-1",
+  "name": "Knockout Test Plugs",
+  "category": "Testing",
+  "n_variants": 4,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/882-1",
+  "name": "Test Devices - TestTitan\u2122",
+  "category": "Testing",
+  "n_variants": 10,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/882-647",
+  "name": "Shower Arm Test Plug",
+  "category": "Testing",
+  "n_variants": 1,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/882-95",
+  "name": "Test Devices - HandTite\u2122",
+  "category": "Testing",
+  "n_variants": 3,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/882-CS202",
+  "name": "Test Devices - T-Cone\u2122",
+  "category": "Testing",
+  "n_variants": 15,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/882-EHPG",
+  "name": "Hand Pump",
+  "category": "Testing",
+  "n_variants": 1,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/882-EL23",
+  "name": "Test Devices - Inflatable Test Plug",
+  "category": "Testing",
+  "n_variants": 6,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/882-HEXKEY1",
+  "name": "Test Devices - RealTite\u2122",
+  "category": "Testing",
+  "n_variants": 53,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/882-TT2",
+  "name": "Inflatable Cleanout Tee Plug",
+  "category": "Testing",
+  "n_variants": 3,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/883-AT",
+  "name": "Knockout Closet Flanges - TKO\u2122",
+  "category": "Residential Drainage",
+  "n_variants": 24,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/886-411",
+  "name": "Spacer & Repair Rings - Raise-A-Ring\u2122",
+  "category": "Residential Drainage",
+  "n_variants": 4,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/886-4A",
+  "name": "Open Closet Flanges - Open Flanges",
+  "category": "Residential Drainage",
+  "n_variants": 19,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/886-ER",
+  "name": "Spacer & Repair Rings - QuickSpacer\u2122",
+  "category": "Residential Drainage",
+  "n_variants": 1,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/886-GA",
+  "name": "Push-In Closet Flanges - PushTite\u2122",
+  "category": "Residential Drainage",
+  "n_variants": 6,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/886-MR",
+  "name": "Spacer & Repair Rings - Ringer\u2122",
+  "category": "Residential Drainage",
+  "n_variants": 1,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/886-MRM",
+  "name": "Spacer & Repair Rings - Two-Piece Repair Ring",
+  "category": "Residential Drainage",
+  "n_variants": 1,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/889-45AM",
+  "name": "Offset Closet Flanges - DropKick\u2122",
+  "category": "Residential Drainage",
+  "n_variants": 4,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/889-AOM",
+  "name": "Offset Closet Flanges - FullFlush\u2122",
+  "category": "Residential Drainage",
+  "n_variants": 8,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/890-4BDPK",
+  "name": "Specialty Flanges - Brass Closet Flange Rings",
+  "category": "Residential Drainage",
+  "n_variants": 2,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/890-I42",
+  "name": "Specialty Flanges - Cast Iron Closet Flanges",
+  "category": "Residential Drainage",
+  "n_variants": 1,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/891-0312P",
+  "name": "SmartSaddle\u2122",
+  "category": "Residential Drainage",
+  "n_variants": 5,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/900-01021C04005",
+  "name": "Vinyl Tubing - Clear Vinyl Tubing",
+  "category": "Tubing/Hose",
+  "n_variants": 56,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/900-01163N00101",
+  "name": "Vinyl Tubing - Black Vinyl Tubing",
+  "category": "Tubing/Hose",
+  "n_variants": 3,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/900-04258N00101",
+  "name": "Hose - Dishwasher/Disposal Drain",
+  "category": "Lav/Sink Specialties",
+  "n_variants": 9,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/900-06103Y00101",
+  "name": "Latex Hose",
+  "category": "Tubing/Hose",
+  "n_variants": 1,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/900-07256G01505",
+  "name": "Garden Hose",
+  "category": "Tubing/Hose",
+  "n_variants": 1,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/900-12306N00101",
+  "name": "Hose - Heater Hose",
+  "category": "Tubing/Hose",
+  "n_variants": 1,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/900-14010R00051",
+  "name": "Fuel Line - Polyurethane Micro Fuel Line",
+  "category": "Tubing/Hose",
+  "n_variants": 5,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/900-15106N00051",
+  "name": "Fuel Line - Polyester Reinforced",
+  "category": "Tubing/Hose",
+  "n_variants": 3,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/900-15106P00051",
+  "name": "Fuel Line - Polyester Reinforced Fuel Line",
+  "category": "Tubing/Hose",
+  "n_variants": 3,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/900-16200W01004",
+  "name": "Flexible PVC Spa Hose",
+  "category": "Tubing/Hose",
+  "n_variants": 15,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/900-18300W00061",
+  "name": "Hose - Suction/Discharge Hose",
+  "category": "Tubing/Hose",
+  "n_variants": 6,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/901-03053W00101",
+  "name": "Polyethylene Tubing - Low-Density Polyethylene Tubing",
+  "category": "Tubing/Hose",
+  "n_variants": 8,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/901-10",
+  "name": "Hose Clamps - Stainless Steel Hose Clamps",
+  "category": "Fittings & Accessories",
+  "n_variants": 11,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/902-125001",
+  "name": "Pool Hose Couplings",
+  "category": "Fittings & Accessories",
+  "n_variants": 2,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/903-120201",
+  "name": "Brass Hose Barb Couplings",
+  "category": "Fittings & Accessories",
+  "n_variants": 8,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/903-400201",
+  "name": "Brass Hose Barb Fittings - Brass Hose Barb Straight Adapters",
+  "category": "Fittings & Accessories",
+  "n_variants": 34,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/903-L99531",
+  "name": "Brass Hose Barb Ferrule",
+  "category": "Fittings & Accessories",
+  "n_variants": 6,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/904-120201",
+  "name": "Nylon Hose Barb Couplings",
+  "category": "Fittings & Accessories",
+  "n_variants": 11,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/904-13161001",
+  "name": "Nylon Hose Barb Reducing Couplings",
+  "category": "Fittings & Accessories",
+  "n_variants": 3,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/904-201001",
+  "name": "Nylon Hose Barb Fittings - Nylon Hose Barb Tees",
+  "category": "Fittings & Accessories",
+  "n_variants": 8,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/904-25101",
+  "name": "Nylon Hose Barb Elbows",
+  "category": "Fittings & Accessories",
+  "n_variants": 6,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/904-271001",
+  "name": "Nylon Hose Barb Fittings - Nylon Hose Barb Elbow Adapters",
+  "category": "Fittings & Accessories",
+  "n_variants": 13,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/904-401001",
+  "name": "Nylon Hose Barb Fittings - Nylon Hose Barb Straight Adapters",
+  "category": "Fittings & Accessories",
+  "n_variants": 22,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/906-0402",
+  "name": "EasyClamps",
+  "category": "Fittings & Accessories",
+  "n_variants": 7,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/907-010203",
+  "name": "Brass Compression Fittings - Ferrules",
+  "category": "Fittings & Accessories",
+  "n_variants": 16,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/907-080203",
+  "name": "Brass Compression Fittings - Nuts & Inserts",
+  "category": "Fittings & Accessories",
+  "n_variants": 20,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/907-120201",
+  "name": "Brass Compression Fittings - Brass Compression Couplings",
+  "category": "Fittings & Accessories",
+  "n_variants": 12,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/907-13100201",
+  "name": "Brass Compression Fittings - Brass Compression Reducing Couplings",
+  "category": "Fittings & Accessories",
+  "n_variants": 6,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/907-1920201601",
+  "name": "Brass Compression Fittings - Brass Compression Tees",
+  "category": "Fittings & Accessories",
+  "n_variants": 8,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/907-2120200201",
+  "name": "Supply Stops & Kits - Add-A-Valve Fitting",
+  "category": "Valves",
+  "n_variants": 4,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/907-27101601",
+  "name": "Brass Compression Fittings - Brass Compression Elbow Adapters",
+  "category": "Fittings & Accessories",
+  "n_variants": 10,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/907-40021001",
+  "name": "Brass Compression Fittings - Brass Compression Straight Adapters",
+  "category": "Fittings & Accessories",
+  "n_variants": 48,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/909-250201",
+  "name": "Brass Compression Fittings - Brass Compression Elbows",
+  "category": "Fittings & Accessories",
+  "n_variants": 5,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/910-2",
+  "name": "Lav/Sink Specialties - Metal Escutcheons",
+  "category": "Lav/Sink Specialties",
+  "n_variants": 33,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/920-1W",
+  "name": "Lav/Sink Specialties - Polypropylene Escutcheons",
+  "category": "Lav/Sink Specialties",
+  "n_variants": 39,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/928-12",
+  "name": "Tub/Shower Specialties - DrySeal\u2122 Pipe Collar",
+  "category": "Tub/Shower Specialites",
+  "n_variants": 2,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/929-01302001",
+  "name": "Dielectric Union",
+  "category": "Fittings & Accessories",
+  "n_variants": 2,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/930-120201",
+  "name": "Bar-Stock Couplings",
+  "category": "Fittings & Accessories",
+  "n_variants": 6,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/930-13100201",
+  "name": "Bar-Stock Reduced Couplings",
+  "category": "Fittings & Accessories",
+  "n_variants": 5,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/930-15100201",
+  "name": "Bar-Stock & Forged Fittings - Bar-Stock Hex Bushings",
+  "category": "Fittings & Accessories",
+  "n_variants": 11,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/930-201001",
+  "name": "Bar-Stock & Forged Fittings - Bar-Stock Tees",
+  "category": "Fittings & Accessories",
+  "n_variants": 3,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/930-250201",
+  "name": "Bar-Stock & Forged Fittings - Bar-Stock Elbows",
+  "category": "Fittings & Accessories",
+  "n_variants": 5,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/930-270201",
+  "name": "Bar-Stock & Forged Fittings - Bar-Stock Street Elbows",
+  "category": "Fittings & Accessories",
+  "n_variants": 5,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/930-490201",
+  "name": "Bar-Stock Caps",
+  "category": "Fittings & Accessories",
+  "n_variants": 8,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/930-500201",
+  "name": "Bar-Stock & Forged Fittings - Bar-Stock Plugs",
+  "category": "Fittings & Accessories",
+  "n_variants": 9,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/930-56161001",
+  "name": "Bar-Stock & Forged Fittings - Bar-Stock Straight Adapters",
+  "category": "Fittings & Accessories",
+  "n_variants": 1,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/930-610201",
+  "name": "Bar-Stock Hex Nipples",
+  "category": "Fittings & Accessories",
+  "n_variants": 6,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/930-62201001",
+  "name": "Reducing Hex Nipples",
+  "category": "Fittings & Accessories",
+  "n_variants": 3,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/930-642001",
+  "name": "Bar-Stock Locknuts",
+  "category": "Fittings & Accessories",
+  "n_variants": 2,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/931-122001",
+  "name": "Cast Red Brass Couplings",
+  "category": "Fittings & Accessories",
+  "n_variants": 3,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/931-13100201",
+  "name": "Cast Red Brass Reducing Couplings",
+  "category": "Fittings & Accessories",
+  "n_variants": 2,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/931-200201",
+  "name": "Cast Red Brass Tees",
+  "category": "Fittings & Accessories",
+  "n_variants": 3,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/931-252001",
+  "name": "Cast Brass Fittings - Cast Red Brass Elbows",
+  "category": "Fittings & Accessories",
+  "n_variants": 3,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/931-272001",
+  "name": "Cast Brass Fittings - Cast Red Brass Street Elbows",
+  "category": "Fittings & Accessories",
+  "n_variants": 1,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/931-494001",
+  "name": "Cast Red Brass Caps",
+  "category": "Fittings & Accessories",
+  "n_variants": 1,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/931-503001",
+  "name": "Cast Brass Fittings - Cast Red Brass Plugs",
+  "category": "Fittings & Accessories",
+  "n_variants": 1,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/931-542001",
+  "name": "Cast Red Brass Union Adapters",
+  "category": "Fittings & Accessories",
+  "n_variants": 1,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/933-122001",
+  "name": "Nylon Thread Couplings",
+  "category": "Fittings & Accessories",
+  "n_variants": 1,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/933-15201001",
+  "name": "Nylon Thread Hex Bushings",
+  "category": "Fittings & Accessories",
+  "n_variants": 2,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/933-252001",
+  "name": "Nylon Thread Elbows",
+  "category": "Fittings & Accessories",
+  "n_variants": 2,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/933-611601",
+  "name": "Nylon Thread Hex Nipples",
+  "category": "Fittings & Accessories",
+  "n_variants": 2,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/933-822001",
+  "name": "Nylon Thread Fittings - Thread Bulkhead Union Adapters",
+  "category": "Fittings & Accessories",
+  "n_variants": 9,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/934-02001",
+  "name": "Pipe Nipples - Pipe Nipples - Yellow Brass",
+  "category": "Fittings & Accessories",
+  "n_variants": 38,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/935-022.501",
+  "name": "Pipe Nipples - Pipe Nipples - Red Brass",
+  "category": "Fittings & Accessories",
+  "n_variants": 5,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/936-16201",
+  "name": "Pipe Nipples - Pipe Nipples - Chrome-Plated Yellow Brass",
+  "category": "Fittings & Accessories",
+  "n_variants": 8,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/937-1230201",
+  "name": "Brass Garden Hose Couplings",
+  "category": "Fittings & Accessories",
+  "n_variants": 3,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/937-2330101",
+  "name": "Brass Garden Hose Wye",
+  "category": "Fittings & Accessories",
+  "n_variants": 1,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/937-4930100",
+  "name": "Brass Garden Hose Cap",
+  "category": "Fittings & Accessories",
+  "n_variants": 2,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/937-66302001",
+  "name": "Brass Garden Hose Fittings - Brass Garden Hose Straight Adapters",
+  "category": "Fittings & Accessories",
+  "n_variants": 20,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/937-803030201",
+  "name": "Brass Garden Hose Elbow",
+  "category": "Fittings & Accessories",
+  "n_variants": 1,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/937-95301001",
+  "name": "Brass Garden Hose Blowout Fittings",
+  "category": "Fittings & Accessories",
+  "n_variants": 2,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/938-1230101",
+  "name": "Nylon Garden Hose Couplings",
+  "category": "Fittings & Accessories",
+  "n_variants": 2,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/938-65303001",
+  "name": "Nylon Garden Hose Fittings - Nylon Garden Hose Straight Adapters",
+  "category": "Fittings & Accessories",
+  "n_variants": 11,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/961-20",
+  "name": "Work Gloves",
+  "category": "Tools & Chemicals",
+  "n_variants": 4,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/963-01",
+  "name": "Sealants, Lubricants, & Tapes - Lubricants",
+  "category": "Tools & Chemicals",
+  "n_variants": 1,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/963-HTL-FE128",
+  "name": "FlowEasy\u2122 - Liquid Drain Cleaner",
+  "category": "Tools & Chemicals",
+  "n_variants": 4,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/965-204",
+  "name": "Bin Boxes",
+  "category": "Tools & Chemicals",
+  "n_variants": 6,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/970-112",
+  "name": "Access Panels - Plastic Access Panel",
+  "category": "Outlet Boxes & Panels",
+  "n_variants": 6,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/970-214S",
+  "name": "Access Panels - OverUnder",
+  "category": "Outlet Boxes & Panels",
+  "n_variants": 2,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/971-1414",
+  "name": "Access Panels - Metal Access Panel",
+  "category": "Outlet Boxes & Panels",
+  "n_variants": 2,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/972-10",
+  "name": "Tub/Shower Specialties - Tub Spouts",
+  "category": "Tub/Shower Specialites",
+  "n_variants": 13,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/972-100",
+  "name": "Tub/Shower Specialties - Tub Spouts",
+  "category": "Tub/Shower Specialites",
+  "n_variants": 2,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/973-0010C01",
+  "name": "Bath Waste Drains - Plastic Waste & Overflows",
+  "category": "Tubular",
+  "n_variants": 19,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/973-2015C04",
+  "name": "Bath Waste Drains - Brass Waste & Overflows",
+  "category": "Tubular",
+  "n_variants": 11,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/973-9000C01",
+  "name": "Bath Waste Drains - Bath Waste Accessories",
+  "category": "Tubular",
+  "n_variants": 13,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/974-60300",
+  "name": "Shower Heads",
+  "category": "Tub/Shower Specialites",
+  "n_variants": 1,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/974-60306",
+  "name": "Tub/Shower Specialties - Shower Arms",
+  "category": "Tub/Shower Specialites",
+  "n_variants": 3,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/974-660303L04",
+  "name": "Tub/Shower Specialties - Add-A-Shower",
+  "category": "Tub/Shower Specialites",
+  "n_variants": 9,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/974-95650004",
+  "name": "Lav/Sink Specialties - Lav/Sink Accessories",
+  "category": "Lav/Sink Specialties",
+  "n_variants": 2,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/975-080201",
+  "name": "Brass Flare Fittings - Brass Flare Nuts",
+  "category": "Fittings & Accessories",
+  "n_variants": 9,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/975-120201",
+  "name": "Brass Flare Couplings",
+  "category": "Fittings & Accessories",
+  "n_variants": 3,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/975-13161001",
+  "name": "Brass Flare Reducing Couplings",
+  "category": "Fittings & Accessories",
+  "n_variants": 2,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/975-27101601",
+  "name": "Brass Flare Fittings - Brass Flare Elbow Adapters",
+  "category": "Fittings & Accessories",
+  "n_variants": 1,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/975-40021001",
+  "name": "Brass Flare Fittings - Brass Flare Straight Adapters",
+  "category": "Fittings & Accessories",
+  "n_variants": 16,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/975-490201",
+  "name": "Brass Flare Caps",
+  "category": "Fittings & Accessories",
+  "n_variants": 4,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/975-510205",
+  "name": "Brass Flare Plugs",
+  "category": "Fittings & Accessories",
+  "n_variants": 3,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/975-L541001",
+  "name": "Brass Flare Swivel Unions",
+  "category": "Fittings & Accessories",
+  "n_variants": 1,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/978-47021001",
+  "name": "Brass Fine Thread Flare Compression Adapters",
+  "category": "Fittings & Accessories",
+  "n_variants": 2,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/988-5000",
+  "name": "Plastic Tubular - Plastic Tubular Accessories",
+  "category": "Tubular",
+  "n_variants": 14,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/996-L100201",
+  "name": "Bar-Stock Ball Valves",
+  "category": "Valves",
+  "n_variants": 2,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/996-L601001",
+  "name": "Brass Hose Barb Fittings - Brass Hose Barb Valves",
+  "category": "Valves",
+  "n_variants": 2,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/997-010206020601",
+  "name": "Valves & Cocks - Needle Valves - Straight",
+  "category": "Valves",
+  "n_variants": 3,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/997-020201104001",
+  "name": "Valves & Cocks - Needle Valves - Angled",
+  "category": "Valves",
+  "n_variants": 3,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/997-940201",
+  "name": "Valves & Cocks - Needle Valves - Saddle Valves",
+  "category": "Valves",
+  "n_variants": 3,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/998-011044104001",
+  "name": "Valves & Cocks - Shuttoff Cocks",
+  "category": "Valves",
+  "n_variants": 2,
+  "has_cad": false
+ },
+ {
+  "url": "https://www.siouxchief.com/Products/998-05104001",
+  "name": "Drain Cocks",
+  "category": "Valves",
+  "n_variants": 1,
+  "has_cad": false
+ }
+]

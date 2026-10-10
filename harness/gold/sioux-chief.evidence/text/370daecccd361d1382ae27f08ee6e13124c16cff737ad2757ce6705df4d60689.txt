@@ -1,0 +1,33 @@
+Sioux Chief Manufacturing Company    |    P: 1.800.821.3944    |    F: 1.800.758.5950    |    www.siouxchief.com 
+07-22
+861 SERIES
+TRAP PRIMER ADAPTER
+ITEM # SUBMITTED_________________________________________
+JOB NAME_______________________________________________
+LOCATION_______________________________________________
+ENGINEER_______________________________________________
+CONTRACTOR____________________________________________
+PO#_ _______________________ TAG________________________
+SPECIFICATION
+Sioux Chief 861 Series coated cast iron trap primer adapter with 1/2" FIP 
+thread side-inlet trap primer connection with removable plug.
+For use between infrequently used drainage fixtures and traps to allow inlet 
+of water for priming of traps.
+MATERIALS
+Coated cast iron
+DIMENSIONS
+A: Connection size (No-Hub)
+2", 3", 4"
+ Create Item Number
+861-A
+e.g. 861-TA23: Coated cast iron trap primer adapter with 3" No-Hub connection
+	
+CONNECTION SIZE A
+	 TA22 = 2"
+	 TA23 = 3"
+	 TA24 = 4"
+8.0"
+A
+A
+B
+4.0"

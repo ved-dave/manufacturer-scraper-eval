@@ -1,0 +1,117 @@
+SPECIFICATION
+Sioux Chief ASTM F1960 Grip™ polymer PEX fitting system shall be used in hot 
+and cold water distribution systems. Fittings are approved for use with ASTM F876 
+PEX tubing with cold-expansion rings. Please contact Sioux Chief representative for 
+specific product information within the Sioux Chief ASTM F1960 product offering.
+MATERIALS
+Polyphenylsulfone (PPSU) - NSF Listed
+SAFE HANDLING
+Solvents, glues, lubricants, pipe dopes, ethylene glycol, thread oils and paste 
+should not come in contact with PPSU fittings. Store fittings away from petroleum 
+products and direct sunlight (UV exposure).
+APPLICATIONS
+Sioux Chief polymer F1960 fittings should only be used in operating conditions 
+that are consistent with the temperature and pressure ratings of the tube and all 
+applicable standards. Polymer F1960 fittings are suitable for radiant heating and 
+cooling under the following conditions:
+	
+1. Use only propylene glycol (food grade) to maximum 60% by volume
+	
+2. DO NOT USE ETHYLENE GLYCOL WITH PPSU FITTINGS
+	
+3. Recommended Corrosion Inhibitors: Metal Guard™
+	
+     • H50 6% by volume
+	
+     • H60 4% by volume
+	
+     • H80 4% by volume
+INSTALLATION NOTES
+Full installation instructions can be found at www.siouxchief.com. ASTM F1960 
+connections with PowerPEX® type B tubing must be made with a self-rotating, 
+power expansion tool. ASTM F1960 connections made in temperatures below 
+35 ºF with either Sioux Chief PowerPEX® type A or type B tubing should be 
+conditioned per Sioux Chief installation instructions to allow the tube and ring to 
+annularly constrict around the sealing barb of the fitting thereby achieving an air-
+tight pressure seal. Pressure test all joints before use.
+DIMENSIONS per ASTM F1960
+½"
+¾"
+1"
+A: Ftg Inside diameter
+0.385" min
+0.590" min
+0.788" min
+B: Ftg Upper barb diameter
+0.571" min
+0.579" max
+0.787" min
+0.795" max
+1.024" min
+1.032" max
+C: Ftg Lower barb diameter
+0.610" min
+0.618" max
+0.866" min
+0.874" max
+1.102" min
+1.110" max
+D: Fitting end length
+0.689" min
+0.749" max
+0.925" min
+0.985" max
+1.161" min
+1.221" max
+E: Ring inside diameter
+0.633"
++/- 0.003
+0.882"
++/- 0.004
+1.134"
++/- 0.004
+F: Ring wall thickness
+0.123"
++/- 0.005
+0.123"
++/- 0.005
+0.143"
++/- 0.006
+G: Ring overall height
+0.630"
++/- 0.020
+0.866"
++/- 0.020
+1.102"
++/- 0.030
+Sioux Chief Manufacturing Company    |    P: 1.800.821.3944    |    F: 1.800.758.5950    |    www.siouxchief.com 
+02-21
+6_WP SERIES
+ Item Number Series
+ASTM F1960 PEX POLYMER FITTING SYSTEM
+ITEM # SUBMITTED_________________________________________
+JOB NAME_______________________________________________
+LOCATION_______________________________________________
+ENGINEER_______________________________________________
+CONTRACTOR____________________________________________
+PO#_ _______________________ TAG________________________
+ 632WP_ = MIP Elbow Adapters	
+	
+ 642WP_ = Elbows
+ 637WP_ = FIP Swivel Adapters	
+	
+ 645WP_ = Couplings
+ 640WP_ = Plugs	
+	
+ 646WP_ = MIP Adapters
+ 641WP_ = Tees	
+	
+ 672WP_ = Multi-port Tees
+C
+A
+D
+Grip™
+B
+E
+F
+G

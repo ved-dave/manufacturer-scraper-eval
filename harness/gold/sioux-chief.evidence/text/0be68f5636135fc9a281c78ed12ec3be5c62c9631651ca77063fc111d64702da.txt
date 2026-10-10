@@ -1,0 +1,70 @@
+SPECIFICATION
+Sioux Chief 120 Series thermostatic mixing valve shall be used in plumbing systems 
+to provide safe/tempered water temperatures at the lavatory or other fixture. Mixing 
+valve shall allow control of both hot and cold incoming lines and deliver either a 
+single, mixed/tempered line out, or both a mixed/tempered line and a cold (bypass) 
+line out to the fixture. Valve shall incorporate integral, replaceable check valves and 
+stainless steel 60 mesh screens to protect from sediment/debris. Valve shall be set 
+on ABS base for solid/secure mounting on walls. 
+Listed to ASSE 1070, ASME A112.1070 and CSA B125.70
+MATERIALS
+Mixing Valve Body: No Lead brass1, Stainless steel springs, EPDM o-rings, 
+Stainless steel debris screens, Nylon test cap, No Lead brass1 bypass cap
+Mounting Base : ABS
+FLOW RATE
+Min: 0.25 gpm 
+Max: 4.0 gpm
+OPERATING PRESSURE
+Min: 30 psi | Max: 125 psi 
+Max Test Pressure: 150 psi
+INLET TEMPERATURE
+Cold Inlet: 39ºF - 85ºF 
+Hot Inlet: 120ºF - 180ºF
+OPERATION
+Valve maintains and limits hot water to a selectable temperature between 
+80°F and 120°F. Valve is factory preset to deliver a maximum 'mixed' water 
+temperature of 105°F. The water temperature can be adjusted by the installer; 
+however, a maximum temperature of 105°F is recommended. 
+ • Higher temperatures may result in scalding, serious bodily harm and/or death.
+ • Carefully read and follow all instructions for installation and maintenance. 
+ • Do Not use pipe dope on female swivel threads.
+DIMENSIONS
+A:
+Base width
+3-7/8"
+B:
+Depth with base
+2-7/8"
+C:
+Overall height
+4"
+D:
+Supply connections
+3/8" Compression, 2" O.C.
+E:
+Outlet connection
+3/8" compression
+F:
+Cold bypass connection 3/8" compression
+1 Material is C69300 and C46500. Brass is dezincification and SCC resistant, 
+and is compliant with NSF-61 Annex G and California No Lead Plumbing Law
+120 SERIES
+THERMOSTATIC MIXING VALVE
+ITEM # SUBMITTED_________________________________________
+JOB NAME_______________________________________________
+LOCATION_______________________________________________
+ENGINEER_______________________________________________
+CONTRACTOR____________________________________________
+PO#_ _______________________ TAG________________________
+Sioux Chief Manufacturing Company    |    P: 1.800.821.3944    |    F: 1.800.758.5950    |    www.siouxchief.com 
+04-24
+120-TM3F
+D
+F
+A
+C
+B
+E
+ Item Number
+120-TM3F
+FLOW CAPACITY

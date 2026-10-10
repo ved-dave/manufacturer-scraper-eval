@@ -1,0 +1,225 @@
+Supply
+Drainage
+Support
+Specialties
+Installation Guide
+The following should be used as a guide only. Always consult local codes for specific
+requirements regarding trench drain installation in your area before beginning.
+Use caution. Wear gloves, safety glasses, and other protective equipment
+during handling and installation.
+
+2     Always visit www.siouxchief.com for up-to-date prices
+Load Classes per DIN EN 1433
+Fitting Direction
+Flow Direction
+Type I
+Drainage channel does not require a 
+concrete encasement for bearing the 
+loads. Foundations are only required 
+to distribute the exerted vertical and 
+horizontal forces.
+Class A 15
+Test Load: 3,372 Lbs
+Walkways, pedestrian/cycle paths
+Class B 125
+Test Load: 28,101 Lbs
+Walkways, light-vehicle parking areas
+Class C 250
+Test Load: 56,202 Lbs
+Curb areas, Car and Truck parking
+Class D 400
+Test Load: 89,924 Lbs
+Forklift traffic, road surfaces
+Class E 600
+Test Load: 134,885 Lbs
+Industrial/military applications, high wheel loads
+Class F 900
+Test Load: 202,328 Lbs
+Airport surfaces, docks, extreme wheel loads
+Type I vs. Type M Systems
+Type M
+Drainage channel requires a foundation 
+and encasement of concrete that can 
+transfer all vertical and horizontal loads 
+into the foundation after installation   
+Channel Layout
+During installation, always layout the channels opposite to the direction of flow - Starting at the outlet, and working "upstream".
+When adjacent channels will flow in opposite directions (Fig. B), it may be necessary to join the
+upstream side of two sections. To avoid a gap between sections, remove
+the upstream end profile with an angle grinder or use end pieces.
+Fig. B
+Basic Principles of Laying Drainage Channels
+The type of drainage channel to be installed depends on the location of the installation, anticipated traffic loads, and the intended surface materials.
+Traffic loads are organized in classes: A 15 to F 900 by the EN 1433 standard. For Class C and above, grating must be anchored for safety. The foundation of the 
+drainage channel must always be suitable to bear the traffic load.
+Any horizontal loads arising from traffic or thermal behavior of the surface layer must be supported by sufficiently dimensioned concrete encasement of the channel 
+sections. Expansion joints that run parallel to the channel must be installed, especially when adjoining concrete surfaces. Installation of the channel should be 
+generally opposite to the direction of flow – starting at the outlet point, and working "upstream".
+Finished/settled adjacent surfaces must be approx. 3/16" higher than the top edge of the grate or edge rails.
+Where extreme horizontal forces are expected at right angles to the channel, e.g. on railway crossings, ramps or highways, the drainage channels should be secured 
+laterally with reinforced decking concrete.
+Concrete Encasement: Concrete used for trench drain encasement must be minimum 4,000 psi compressive strength
+
+www.siouxchief.com     3
+Options for Pipe Connection
+1	 Pavers set against the channel body must be bonded to the concrete bed to ensure that dynamic forces do not affect the channel sides. Depending on paver orientation, up to
+	
+three courses adjacent the channel should be bonded in this manner. Subsequent paver courses can be set on a compacted base according to specifications.
+2	 4,000 psi compressive strength
+Bottom Outlets
+Connect drain piping to channel sections 
+with bottom outlet openings. Gasket 
+seals for a watertight joint. 
+Catch Basins
+Drainage from a single channel or two 
+channels can be directed into a catch 
+basin. Galvanized steel debris
+baskets included.
+2
+3
+5
+4
+Y
+X
+Z
+1 Top course   |   2 Binder course
+3 Load-bearing substructure
+4 Concrete
+5 Frost-proof, load-bearing substructure
+Dimensions - X Y Z (calculated)
+A 15 
+B 125 / C 250
+4" concrete2
+6" concrete2
+1
+TYPE M
+HydroTec™  A 15 - C 250
+Asphalt
+3/16"
+1 Pavers1   |   2 Paver base
+3 Load-bearing substructure
+4 Concrete
+5 Frost-proof, load-bearing substructure
+TYPE M
+X
+Z
+2
+3
+5
+4
+1
+Dimensions - X Z (calculated)
+A 15 
+B 125 / C 250
+4" concrete2
+6" concrete2
+3/16"
+HydroTec™  A 15 - C 250
+Centric Slot Channel
+Concrete | Pavers
+1 Top course   |   2 Binder course
+3 Load bearing substructure
+4 Concrete
+5 Frost-proof load-bearing substructure
+X
+HydroBlock™  D 400 - F 900
+Asphalt | Concrete
+Z
+2
+3
+5
+4
+1
+4
+Dimensions - X (calculated)
+D 400
+E 600 / F 900
+6" concrete2
+8" concrete2
+Dimensions - Z (calculated)
+D 400
+E 600 / F 900
+8" concrete2
+10" concrete2
+TYPE I
+1 Pavers1   |   2 Paver base 
+3 Load-bearing substructure
+4 Concrete   |   5 Expansion joint
+6 Frost-proof, load-bearing substructure
+TYPE M
+X
+Z
+3
+4
+2
+1
+Dimensions - X Z (calculated)
+A 15 
+B 125 / C 250 
+D 400
+E 600 / F 900
+4" concrete2
+6" concrete2
+8" concrete2
+10" concrete2
+HydroTec™  A 15 - F 900
+Concrete
+3/16"
+4
+1 Pavers   |   2 Paver base
+3 Load bearing substructure
+4 Concrete   |   5 Expansion joint
+6 Frost-proof load-bearing substructure
+TYPE I
+1
+HydroLine™  C 250 - F 900
+Iron Channel
+Concrete | Pavers
+3/16"
+Z
+2
+3
+6
+4
+5
+Dimensions - Z (calculated)
+C 250 
+D 400
+E 600 / F 900
+6" concrete2
+8" concrete2
+10" concrete2
+4
+1 Liquid sealant
+2 Mastic asphalt 
+3 Load bearing substructure
+4 Asphalt sheeting (5 mil)
+5 Two-Part epoxy adhesive
+Note: Concrete according to calculation
+of the intended load class.
+HydroLine™  C 250 - F 900
+Aluminum Channel
+Mastic Asphalt
+3/16"
+1
+2
+3
+4
+TYPE I
+5
+5
+6
+Installation Diagrams
+
+Consider Sioux Chief your Total Trench Drain source.
+We're here to help with your next trench drain project
+Contact: Todd Amerson
+Todd.Amerson@SiouxChief.com
+Support Materials:
+	 - Spec Sheets
+	 - BIM/Revit files
+	 - Job Sketches / Design layouts
+Professional Services:
+	 - System selection and optimization
+	 - Hydraulic calculations
+We're Here to Help!

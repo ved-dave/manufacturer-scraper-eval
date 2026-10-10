@@ -1,0 +1,34 @@
+Supply
+Drainage
+Support
+Specialties
+for Trench Drains
+For AASHTO requirement of HS-20/HS-25 we recommend using grates of Class C250 or above for drain
+channels up to 12" wide, and Class E600 or above for drain channels wider than 12"
+Trench Drain
+Load Classes
+DIN EN 1433
+Class A15
+Test Load: 3,372 Lbs
+Walkways, pedestrian/cycle paths
+Class B125
+Test Load: 28,101 Lbs
+Walkways, light-vehicle parking areas
+Class C250
+Test Load: 56,202 Lbs
+Curb areas, Car and Truck parking
+Class D400
+Test Load: 89,924 Lbs
+Forklift traffic, road surfaces
+Class E600
+Test Load: 134,885 Lbs
+Industrial/military applications, high wheel loads
+Class F900
+Test Load: 202,328 Lbs
+Airport surfaces, docks, extreme wheel loads
+In the DIN EN 1433 standard, a basic distinction is made between the 6 installation areas listed below. These are assigned different 
+'load classes', i.e. minimum requirements for the mechanical load capacity. The designation of the class is made up of a letter (A-F) 
+and a number. The number indicates the test load in kN, used during a test according to DIN EN 1433.
+Note: Since areas may be subject to higher loads than may be expected or intended, if there is any uncertainty, we recommend 
+selecting the higher class for the application than examples listed.
+Load Rating Guide
