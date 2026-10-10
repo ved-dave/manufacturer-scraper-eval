@@ -1,0 +1,1042 @@
+[
+ {
+  "url": "https://www.bray.com/cx-line/2-cx-ptfe-lined-butterfly-valve",
+  "name": "2-Cx",
+  "category": "Cx Line (Integrated Solutions)",
+  "n_variants": 0,
+  "has_cad": false,
+  "aliases": [],
+  "in_sitemap": false,
+  "in_crawl": true
+ },
+ {
+  "url": "https://www.bray.com/cx-line/3-cx-resilient-seated-butterfly-valve",
+  "name": "3-Cx",
+  "category": "Cx Line (Integrated Solutions)",
+  "n_variants": 0,
+  "has_cad": false,
+  "aliases": [],
+  "in_sitemap": false,
+  "in_crawl": true
+ },
+ {
+  "url": "https://www.bray.com/cx-line/4-cx-double-offset-butterfly-valve",
+  "name": "4-Cx",
+  "category": "Cx Line (Integrated Solutions)",
+  "n_variants": 0,
+  "has_cad": false,
+  "aliases": [],
+  "in_sitemap": false,
+  "in_crawl": true
+ },
+ {
+  "url": "https://www.bray.com/cx-line/km-20-21-flanged-ball-valve",
+  "name": "KM 20/21",
+  "category": "Cx Line (Integrated Solutions)",
+  "n_variants": 0,
+  "has_cad": false,
+  "aliases": [],
+  "in_sitemap": false,
+  "in_crawl": true
+ },
+ {
+  "url": "https://www.bray.com/cx-line/tri-lok-cx-triple-offset-butterfly-valve",
+  "name": "Tri Lok®-Cx",
+  "category": "Cx Line (Integrated Solutions)",
+  "n_variants": 0,
+  "has_cad": false,
+  "aliases": [],
+  "in_sitemap": false,
+  "in_crawl": true
+ },
+ {
+  "url": "https://www.bray.com/valves-actuators-controls/actuators/electric-actuator/series-70",
+  "name": "Series 70",
+  "category": "Actuators",
+  "n_variants": 0,
+  "has_cad": false,
+  "aliases": [],
+  "in_sitemap": true,
+  "in_crawl": true
+ },
+ {
+  "url": "https://www.bray.com/valves-actuators-controls/actuators/electric-actuator/series-70-hazardous-location",
+  "name": "Series 70-HAZ",
+  "category": "Actuators",
+  "n_variants": 0,
+  "has_cad": false,
+  "aliases": [],
+  "in_sitemap": true,
+  "in_crawl": true
+ },
+ {
+  "url": "https://www.bray.com/valves-actuators-controls/actuators/electric-actuator/series-76-industrial-electric-actuator",
+  "name": "Series 76",
+  "category": "Actuators",
+  "n_variants": 0,
+  "has_cad": false,
+  "aliases": [],
+  "in_sitemap": false,
+  "in_crawl": true
+ },
+ {
+  "url": "https://www.bray.com/valves-actuators-controls/actuators/electro-hydraulic-actuator/series-98-bray-electro-hydraulic-actuator",
+  "name": "Series 98EH",
+  "category": "Actuators",
+  "n_variants": 0,
+  "has_cad": false,
+  "aliases": [
+   "https://www.bray.com/valves-actuators-controls/actuators/electro-hydraulic-actuator"
+  ],
+  "in_sitemap": false,
+  "in_crawl": true
+ },
+ {
+  "url": "https://www.bray.com/valves-actuators-controls/actuators/hydraulic-actuator/series-98-scotch-yoke-hydraulic-actuator",
+  "name": "Series 98H",
+  "category": "Actuators",
+  "n_variants": 0,
+  "has_cad": false,
+  "aliases": [
+   "https://www.bray.com/valves-actuators-controls/actuators/hydraulic-actuator"
+  ],
+  "in_sitemap": false,
+  "in_crawl": true
+ },
+ {
+  "url": "https://www.bray.com/valves-actuators-controls/actuators/manual-operators/chainwheel-manual-operator",
+  "name": "Chainwheel",
+  "category": "Actuators",
+  "n_variants": 0,
+  "has_cad": false,
+  "aliases": [],
+  "in_sitemap": true,
+  "in_crawl": true
+ },
+ {
+  "url": "https://www.bray.com/valves-actuators-controls/actuators/manual-operators/ftg-series-manual-actuator",
+  "name": "FTG Series",
+  "category": "Actuators",
+  "n_variants": 0,
+  "has_cad": false,
+  "aliases": [],
+  "in_sitemap": true,
+  "in_crawl": true
+ },
+ {
+  "url": "https://www.bray.com/valves-actuators-controls/actuators/manual-operators/series-01-manual-actuator",
+  "name": "Series 01",
+  "category": "Actuators",
+  "n_variants": 0,
+  "has_cad": false,
+  "aliases": [],
+  "in_sitemap": true,
+  "in_crawl": true
+ },
+ {
+  "url": "https://www.bray.com/valves-actuators-controls/actuators/manual-operators/series-04-manual-actuator",
+  "name": "Series 04",
+  "category": "Actuators",
+  "n_variants": 0,
+  "has_cad": false,
+  "aliases": [],
+  "in_sitemap": true,
+  "in_crawl": true
+ },
+ {
+  "url": "https://www.bray.com/valves-actuators-controls/actuators/manual-operators/series-05-manual-actuator",
+  "name": "Series 05",
+  "category": "Actuators",
+  "n_variants": 0,
+  "has_cad": false,
+  "aliases": [],
+  "in_sitemap": true,
+  "in_crawl": true
+ },
+ {
+  "url": "https://www.bray.com/valves-actuators-controls/actuators/manual-operators/srh-series-manual-actuator",
+  "name": "SRH Series",
+  "category": "Actuators",
+  "n_variants": 0,
+  "has_cad": false,
+  "aliases": [],
+  "in_sitemap": true,
+  "in_crawl": true
+ },
+ {
+  "url": "https://www.bray.com/valves-actuators-controls/actuators/pneumatic-actuator/series-92-93-extreme-temp-pneumatic-actuator",
+  "name": "Series 92/93-XT",
+  "category": "Actuators",
+  "n_variants": 0,
+  "has_cad": false,
+  "aliases": [],
+  "in_sitemap": true,
+  "in_crawl": true
+ },
+ {
+  "url": "https://www.bray.com/valves-actuators-controls/actuators/pneumatic-actuator/series-92-93-pneumatic-actuator",
+  "name": "Series 92/93",
+  "category": "Actuators",
+  "n_variants": 0,
+  "has_cad": false,
+  "aliases": [],
+  "in_sitemap": true,
+  "in_crawl": true
+ },
+ {
+  "url": "https://www.bray.com/valves-actuators-controls/actuators/pneumatic-actuator/series-98-scotch-yoke-pneumatic-actuator",
+  "name": "Series 98",
+  "category": "Actuators",
+  "n_variants": 0,
+  "has_cad": false,
+  "aliases": [],
+  "in_sitemap": true,
+  "in_crawl": true
+ },
+ {
+  "url": "https://www.bray.com/valves-actuators-controls/actuators/pneumatic-actuator/series-98c-compact-scotch-yoke-actuator",
+  "name": "Series 98C",
+  "category": "Actuators",
+  "n_variants": 0,
+  "has_cad": false,
+  "aliases": [],
+  "in_sitemap": false,
+  "in_crawl": true
+ },
+ {
+  "url": "https://www.bray.com/valves-actuators-controls/ball-valves/3-piece-valves/series-5000-6000-ball-valve",
+  "name": "Series 5000/6000",
+  "category": "Ball Valves",
+  "n_variants": 0,
+  "has_cad": false,
+  "aliases": [],
+  "in_sitemap": true,
+  "in_crawl": true
+ },
+ {
+  "url": "https://www.bray.com/valves-actuators-controls/ball-valves/3-piece-valves/series-7000-8000-ball-valve",
+  "name": "Series 7000/8000",
+  "category": "Ball Valves",
+  "n_variants": 0,
+  "has_cad": false,
+  "aliases": [],
+  "in_sitemap": true,
+  "in_crawl": true
+ },
+ {
+  "url": "https://www.bray.com/valves-actuators-controls/ball-valves/3-piece-valves/series-dm7000-dm8000-ball-valve",
+  "name": "Series DM7000/DM8000",
+  "category": "Ball Valves",
+  "n_variants": 0,
+  "has_cad": false,
+  "aliases": [],
+  "in_sitemap": true,
+  "in_crawl": true
+ },
+ {
+  "url": "https://www.bray.com/valves-actuators-controls/ball-valves/3-piece-valves/series-s7500-s7700ball-valve",
+  "name": "Series S7500/S7700 Micro Pure",
+  "category": "Ball Valves",
+  "n_variants": 0,
+  "has_cad": false,
+  "aliases": [],
+  "in_sitemap": true,
+  "in_crawl": true
+ },
+ {
+  "url": "https://www.bray.com/valves-actuators-controls/ball-valves/3-piece-valves/tank-series-ball-valve",
+  "name": "Tank Series",
+  "category": "Ball Valves",
+  "n_variants": 0,
+  "has_cad": false,
+  "aliases": [],
+  "in_sitemap": true,
+  "in_crawl": true
+ },
+ {
+  "url": "https://www.bray.com/valves-actuators-controls/ball-valves/3-piece-valves/triad-series-ball-valve",
+  "name": "Triad Series",
+  "category": "Ball Valves",
+  "n_variants": 0,
+  "has_cad": false,
+  "aliases": [],
+  "in_sitemap": true,
+  "in_crawl": true
+ },
+ {
+  "url": "https://www.bray.com/valves-actuators-controls/ball-valves/ball-valve-accessories/media-containment-unit-ball-valve",
+  "name": "Media Containment Unit",
+  "category": "Ball Valves",
+  "n_variants": 0,
+  "has_cad": false,
+  "aliases": [],
+  "in_sitemap": true,
+  "in_crawl": true
+ },
+ {
+  "url": "https://www.bray.com/valves-actuators-controls/ball-valves/ball-valve-accessories/resolute-ball",
+  "name": "Resolute Ball™",
+  "category": "Ball Valves",
+  "n_variants": 0,
+  "has_cad": false,
+  "aliases": [],
+  "in_sitemap": false,
+  "in_crawl": true
+ },
+ {
+  "url": "https://www.bray.com/valves-actuators-controls/ball-valves/flanged-valves/series-f15-f30-ball-valve",
+  "name": "Series F15/F30",
+  "category": "Ball Valves",
+  "n_variants": 0,
+  "has_cad": false,
+  "aliases": [],
+  "in_sitemap": true,
+  "in_crawl": true
+ },
+ {
+  "url": "https://www.bray.com/valves-actuators-controls/ball-valves/flanged-valves/series-f15-f30-metal-seated-ball-valve",
+  "name": "Series F15/F30 Metal Seated",
+  "category": "Ball Valves",
+  "n_variants": 0,
+  "has_cad": false,
+  "aliases": [],
+  "in_sitemap": true,
+  "in_crawl": true
+ },
+ {
+  "url": "https://www.bray.com/valves-actuators-controls/ball-valves/flanged-valves/series-rf15-rf30-ball-valve",
+  "name": "Series RF15/RF30",
+  "category": "Ball Valves",
+  "n_variants": 0,
+  "has_cad": false,
+  "aliases": [],
+  "in_sitemap": true,
+  "in_crawl": true
+ },
+ {
+  "url": "https://www.bray.com/valves-actuators-controls/ball-valves/multi-port-valves/model-3hp-ball-valve",
+  "name": "Series 3HP",
+  "category": "Ball Valves",
+  "n_variants": 0,
+  "has_cad": false,
+  "aliases": [],
+  "in_sitemap": true,
+  "in_crawl": true
+ },
+ {
+  "url": "https://www.bray.com/valves-actuators-controls/ball-valves/multi-port-valves/mpf150-mpf300-ball-valve",
+  "name": "Series MPF",
+  "category": "Ball Valves",
+  "n_variants": 0,
+  "has_cad": false,
+  "aliases": [],
+  "in_sitemap": true,
+  "in_crawl": true
+ },
+ {
+  "url": "https://www.bray.com/valves-actuators-controls/ball-valves/multi-port-valves/mpt-mpc-ball-valve",
+  "name": "Series MPT/MPC",
+  "category": "Ball Valves",
+  "n_variants": 0,
+  "has_cad": false,
+  "aliases": [],
+  "in_sitemap": true,
+  "in_crawl": true
+ },
+ {
+  "url": "https://www.bray.com/valves-actuators-controls/ball-valves/severe-service/series-m1-ball-valve",
+  "name": "Series M1",
+  "category": "Ball Valves",
+  "n_variants": 0,
+  "has_cad": false,
+  "aliases": [],
+  "in_sitemap": true,
+  "in_crawl": true
+ },
+ {
+  "url": "https://www.bray.com/valves-actuators-controls/ball-valves/severe-service/series-m4-ball-valve",
+  "name": "Series M4",
+  "category": "Ball Valves",
+  "n_variants": 0,
+  "has_cad": false,
+  "aliases": [],
+  "in_sitemap": true,
+  "in_crawl": true
+ },
+ {
+  "url": "https://www.bray.com/valves-actuators-controls/ball-valves/threaded-valves/models-hp-hx-ball-valve",
+  "name": "Series HP/HX",
+  "category": "Ball Valves",
+  "n_variants": 0,
+  "has_cad": false,
+  "aliases": [],
+  "in_sitemap": true,
+  "in_crawl": true
+ },
+ {
+  "url": "https://www.bray.com/valves-actuators-controls/ball-valves/threaded-valves/series-s20-fs20-ball-valve",
+  "name": "Series S20/FS20",
+  "category": "Ball Valves",
+  "n_variants": 0,
+  "has_cad": false,
+  "aliases": [],
+  "in_sitemap": true,
+  "in_crawl": true
+ },
+ {
+  "url": "https://www.bray.com/valves-actuators-controls/ball-valves/threaded-valves/series-s40-ball-valve",
+  "name": "Series S40",
+  "category": "Ball Valves",
+  "n_variants": 0,
+  "has_cad": false,
+  "aliases": [],
+  "in_sitemap": true,
+  "in_crawl": true
+ },
+ {
+  "url": "https://www.bray.com/valves-actuators-controls/ball-valves/threaded-valves/series-s51-ball-valve",
+  "name": "Series 51",
+  "category": "Ball Valves",
+  "n_variants": 0,
+  "has_cad": false,
+  "aliases": [],
+  "in_sitemap": true,
+  "in_crawl": true
+ },
+ {
+  "url": "https://www.bray.com/valves-actuators-controls/ball-valves/threaded-valves/series-s70-s90-ball-valve",
+  "name": "Series S70/S90",
+  "category": "Ball Valves",
+  "n_variants": 0,
+  "has_cad": false,
+  "aliases": [],
+  "in_sitemap": true,
+  "in_crawl": true
+ },
+ {
+  "url": "https://www.bray.com/valves-actuators-controls/ball-valves/threaded-valves/series-s80-ball-valve",
+  "name": "Series S80",
+  "category": "Ball Valves",
+  "n_variants": 0,
+  "has_cad": false,
+  "aliases": [],
+  "in_sitemap": true,
+  "in_crawl": true
+ },
+ {
+  "url": "https://www.bray.com/valves-actuators-controls/ball-valves/threaded-valves/series-s85-ball-valve",
+  "name": "Series S85",
+  "category": "Ball Valves",
+  "n_variants": 0,
+  "has_cad": false,
+  "aliases": [],
+  "in_sitemap": true,
+  "in_crawl": true
+ },
+ {
+  "url": "https://www.bray.com/valves-actuators-controls/ball-valves/trunnion-mounted-valves/trunnion-mounted-ball-valve",
+  "name": "Series 1B",
+  "category": "Ball Valves",
+  "n_variants": 0,
+  "has_cad": false,
+  "aliases": [],
+  "in_sitemap": true,
+  "in_crawl": true
+ },
+ {
+  "url": "https://www.bray.com/valves-actuators-controls/butterfly-valves/high-performance-butterfly-valves/bray-mccannalok-cryogenic-high-performance-butterfly-valve",
+  "name": "McCannalok™ Cryogenic",
+  "category": "Butterfly Valves",
+  "n_variants": 0,
+  "has_cad": false,
+  "aliases": [
+   "https://www.bray.com/valves-actuators-controls/cryogenic/mccannalok-cryogenic"
+  ],
+  "in_sitemap": false,
+  "in_crawl": true
+ },
+ {
+  "url": "https://www.bray.com/valves-actuators-controls/butterfly-valves/high-performance-butterfly-valves/bray-mccannalok-high-performance-butterfly-valve",
+  "name": "McCannalok™",
+  "category": "Butterfly Valves",
+  "n_variants": 0,
+  "has_cad": false,
+  "aliases": [],
+  "in_sitemap": true,
+  "in_crawl": true
+ },
+ {
+  "url": "https://www.bray.com/valves-actuators-controls/butterfly-valves/high-performance-butterfly-valves/bray-mccannalok-metal-seated-high-performance-butterfly-valve",
+  "name": "McCannalok™ Metal Seated",
+  "category": "Butterfly Valves",
+  "n_variants": 0,
+  "has_cad": false,
+  "aliases": [],
+  "in_sitemap": true,
+  "in_crawl": true
+ },
+ {
+  "url": "https://www.bray.com/valves-actuators-controls/butterfly-valves/high-performance-butterfly-valves/series-41r-double-offset-high-performance-butterfly-valve",
+  "name": "Series 41R",
+  "category": "Butterfly Valves",
+  "n_variants": 0,
+  "has_cad": false,
+  "aliases": [],
+  "in_sitemap": true,
+  "in_crawl": true
+ },
+ {
+  "url": "https://www.bray.com/valves-actuators-controls/butterfly-valves/lined/series-22-23-resilient-seated-butterfly-valve",
+  "name": "Series 22/23",
+  "category": "Butterfly Valves",
+  "n_variants": 0,
+  "has_cad": false,
+  "aliases": [],
+  "in_sitemap": true,
+  "in_crawl": true
+ },
+ {
+  "url": "https://www.bray.com/valves-actuators-controls/butterfly-valves/lined/series-24-25-pfa-lined-butterfly-valve",
+  "name": "Acris® Series 24/25",
+  "category": "Butterfly Valves",
+  "n_variants": 0,
+  "has_cad": false,
+  "aliases": [],
+  "in_sitemap": false,
+  "in_crawl": true
+ },
+ {
+  "url": "https://www.bray.com/valves-actuators-controls/butterfly-valves/lined/series-39-Slurry-Control-Valve",
+  "name": "Series 39",
+  "category": "Butterfly Valves",
+  "n_variants": 0,
+  "has_cad": false,
+  "aliases": [],
+  "in_sitemap": false,
+  "in_crawl": true
+ },
+ {
+  "url": "https://www.bray.com/valves-actuators-controls/butterfly-valves/resilient-seated/series-20-21-resilient-seated-butterfly-valve",
+  "name": "Series 20/21",
+  "category": "Butterfly Valves",
+  "n_variants": 0,
+  "has_cad": false,
+  "aliases": [],
+  "in_sitemap": true,
+  "in_crawl": true
+ },
+ {
+  "url": "https://www.bray.com/valves-actuators-controls/butterfly-valves/resilient-seated/series-30-31-resilient-seated-butterfly-valve",
+  "name": "Series 30/31",
+  "category": "Butterfly Valves",
+  "n_variants": 0,
+  "has_cad": false,
+  "aliases": [],
+  "in_sitemap": true,
+  "in_crawl": true
+ },
+ {
+  "url": "https://www.bray.com/valves-actuators-controls/butterfly-valves/resilient-seated/series-31h-resilient-seated-butterfly-valve",
+  "name": "Series 31H",
+  "category": "Butterfly Valves",
+  "n_variants": 0,
+  "has_cad": false,
+  "aliases": [],
+  "in_sitemap": true,
+  "in_crawl": true
+ },
+ {
+  "url": "https://www.bray.com/valves-actuators-controls/butterfly-valves/resilient-seated/series-31u-resilient-seated-butterfly-valve",
+  "name": "Series 31U",
+  "category": "Butterfly Valves",
+  "n_variants": 0,
+  "has_cad": false,
+  "aliases": [],
+  "in_sitemap": true,
+  "in_crawl": true
+ },
+ {
+  "url": "https://www.bray.com/valves-actuators-controls/butterfly-valves/resilient-seated/series-32-33-resilient-seated-butterfly-valve",
+  "name": "Series 32/33",
+  "category": "Butterfly Valves",
+  "n_variants": 0,
+  "has_cad": false,
+  "aliases": [],
+  "in_sitemap": true,
+  "in_crawl": true
+ },
+ {
+  "url": "https://www.bray.com/valves-actuators-controls/butterfly-valves/resilient-seated/series-35-36-resilient-seated-butterfly-valve",
+  "name": "Series 35/36",
+  "category": "Butterfly Valves",
+  "n_variants": 0,
+  "has_cad": false,
+  "aliases": [],
+  "in_sitemap": true,
+  "in_crawl": true
+ },
+ {
+  "url": "https://www.bray.com/valves-actuators-controls/butterfly-valves/resilient-seated/series-35f-resilient-seated-butterfly-valve",
+  "name": "Series 35F",
+  "category": "Butterfly Valves",
+  "n_variants": 0,
+  "has_cad": false,
+  "aliases": [],
+  "in_sitemap": true,
+  "in_crawl": true
+ },
+ {
+  "url": "https://www.bray.com/valves-actuators-controls/butterfly-valves/resilient-seated/series-36h-resilient-seated-butterfly-valve",
+  "name": "Series 36H",
+  "category": "Butterfly Valves",
+  "n_variants": 0,
+  "has_cad": false,
+  "aliases": [],
+  "in_sitemap": true,
+  "in_crawl": true
+ },
+ {
+  "url": "https://www.bray.com/valves-actuators-controls/butterfly-valves/resilient-seated/series-3a-3ah-resilient-seated-butterfly-valve",
+  "name": "Series 3A/3AH",
+  "category": "Butterfly Valves",
+  "n_variants": 0,
+  "has_cad": false,
+  "aliases": [],
+  "in_sitemap": true,
+  "in_crawl": true
+ },
+ {
+  "url": "https://www.bray.com/valves-actuators-controls/butterfly-valves/resilient-seated/series-3w-3l-resilient-seated-butterfly-valve",
+  "name": "Series 3W/3L",
+  "category": "Butterfly Valves",
+  "n_variants": 0,
+  "has_cad": false,
+  "aliases": [],
+  "in_sitemap": false,
+  "in_crawl": true
+ },
+ {
+  "url": "https://www.bray.com/valves-actuators-controls/butterfly-valves/triple-offset-butterfly-valves/tri-lok-triple-offset-butterfly-valve",
+  "name": "Tri Lok®",
+  "category": "Butterfly Valves",
+  "n_variants": 0,
+  "has_cad": false,
+  "aliases": [],
+  "in_sitemap": true,
+  "in_crawl": true
+ },
+ {
+  "url": "https://www.bray.com/valves-actuators-controls/check-valves/air-release-ezi-vac",
+  "name": "EZI-Vac",
+  "category": "Check Valves",
+  "n_variants": 0,
+  "has_cad": false,
+  "aliases": [],
+  "in_sitemap": false,
+  "in_crawl": true
+ },
+ {
+  "url": "https://www.bray.com/valves-actuators-controls/check-valves/check-valve-accessories/pez-sa-4ax",
+  "name": "PEZ SA-4AX: PVC",
+  "category": "Check Valves",
+  "n_variants": 0,
+  "has_cad": false,
+  "aliases": [],
+  "in_sitemap": true,
+  "in_crawl": true
+ },
+ {
+  "url": "https://www.bray.com/valves-actuators-controls/check-valves/check-valve-accessories/sa-01-check-valve-accessory",
+  "name": "Series SA01 External Spring",
+  "category": "Check Valves",
+  "n_variants": 0,
+  "has_cad": false,
+  "aliases": [],
+  "in_sitemap": true,
+  "in_crawl": true
+ },
+ {
+  "url": "https://www.bray.com/valves-actuators-controls/check-valves/check-valve-accessories/sa-1-check-valve-accessory",
+  "name": "Series SA1 External Spring & Weight",
+  "category": "Check Valves",
+  "n_variants": 0,
+  "has_cad": false,
+  "aliases": [],
+  "in_sitemap": true,
+  "in_crawl": true
+ },
+ {
+  "url": "https://www.bray.com/valves-actuators-controls/check-valves/check-valve-accessories/sa-10-check-valve-accessory",
+  "name": "Series SA10 Dual Balanced Weights",
+  "category": "Check Valves",
+  "n_variants": 0,
+  "has_cad": false,
+  "aliases": [],
+  "in_sitemap": true,
+  "in_crawl": true
+ },
+ {
+  "url": "https://www.bray.com/valves-actuators-controls/check-valves/check-valve-accessories/sa-16-check-valve-accessory",
+  "name": "Series SA16 External Weight & Lever",
+  "category": "Check Valves",
+  "n_variants": 3,
+  "has_cad": false,
+  "aliases": [],
+  "in_sitemap": true,
+  "in_crawl": true
+ },
+ {
+  "url": "https://www.bray.com/valves-actuators-controls/check-valves/check-valve-accessories/sa-2",
+  "name": "Series SA2 External Limit Switch",
+  "category": "Check Valves",
+  "n_variants": 0,
+  "has_cad": false,
+  "aliases": [],
+  "in_sitemap": true,
+  "in_crawl": true
+ },
+ {
+  "url": "https://www.bray.com/valves-actuators-controls/check-valves/check-valve-accessories/sa-40-check-valve-accessory",
+  "name": "Series SA40 External Compression Spring",
+  "category": "Check Valves",
+  "n_variants": 0,
+  "has_cad": false,
+  "aliases": [],
+  "in_sitemap": true,
+  "in_crawl": true
+ },
+ {
+  "url": "https://www.bray.com/valves-actuators-controls/check-valves/check-valve-accessories/sa-50-check-valve-accessory",
+  "name": "Series SA50 External Hydraulic Damper",
+  "category": "Check Valves",
+  "n_variants": 0,
+  "has_cad": false,
+  "aliases": [],
+  "in_sitemap": true,
+  "in_crawl": true
+ },
+ {
+  "url": "https://www.bray.com/valves-actuators-controls/check-valves/check-valve/ball-check-valves-maxi-check",
+  "name": "Maxi-Check",
+  "category": "Check Valves",
+  "n_variants": 0,
+  "has_cad": false,
+  "aliases": [],
+  "in_sitemap": false,
+  "in_crawl": true
+ },
+ {
+  "url": "https://www.bray.com/valves-actuators-controls/check-valves/check-valve/double-door-check-valve",
+  "name": "Double Door",
+  "category": "Check Valves",
+  "n_variants": 0,
+  "has_cad": false,
+  "aliases": [],
+  "in_sitemap": true,
+  "in_crawl": true
+ },
+ {
+  "url": "https://www.bray.com/valves-actuators-controls/check-valves/check-valve/single-door-check-valve",
+  "name": "Single Door",
+  "category": "Check Valves",
+  "n_variants": 8,
+  "has_cad": false,
+  "aliases": [
+   "https://www.bray.com/valves-actuators-controls/check-valves/check-valve/bray-rite-check-valve"
+  ],
+  "in_sitemap": true,
+  "in_crawl": true
+ },
+ {
+  "url": "https://www.bray.com/valves-actuators-controls/control-accessories/filter-regulators/series-55-filter-regulator",
+  "name": "Series 55",
+  "category": "Control Accessories",
+  "n_variants": 0,
+  "has_cad": false,
+  "aliases": [],
+  "in_sitemap": true,
+  "in_crawl": true
+ },
+ {
+  "url": "https://www.bray.com/valves-actuators-controls/control-accessories/positioners/series-6a-electro-pneumatic-positioner",
+  "name": "Series 6A",
+  "category": "Control Accessories",
+  "n_variants": 0,
+  "has_cad": false,
+  "aliases": [],
+  "in_sitemap": true,
+  "in_crawl": true
+ },
+ {
+  "url": "https://www.bray.com/valves-actuators-controls/control-accessories/positioners/series-6p-pneumatic-positioner",
+  "name": "Series 6P",
+  "category": "Control Accessories",
+  "n_variants": 0,
+  "has_cad": false,
+  "aliases": [],
+  "in_sitemap": true,
+  "in_crawl": true
+ },
+ {
+  "url": "https://www.bray.com/valves-actuators-controls/control-accessories/positioners/series-kca-linear-sensor",
+  "name": "Series KCA",
+  "category": "Control Accessories",
+  "n_variants": 0,
+  "has_cad": false,
+  "aliases": [],
+  "in_sitemap": false,
+  "in_crawl": true
+ },
+ {
+  "url": "https://www.bray.com/valves-actuators-controls/control-accessories/proximity-sensors/series-54-gs-proximity-sensor",
+  "name": "Series 54-GS",
+  "category": "Control Accessories",
+  "n_variants": 0,
+  "has_cad": false,
+  "aliases": [],
+  "in_sitemap": true,
+  "in_crawl": true
+ },
+ {
+  "url": "https://www.bray.com/valves-actuators-controls/control-accessories/proximity-sensors/series-54-hs-proximity-sensor",
+  "name": "Series 54-HS",
+  "category": "Control Accessories",
+  "n_variants": 0,
+  "has_cad": false,
+  "aliases": [],
+  "in_sitemap": true,
+  "in_crawl": true
+ },
+ {
+  "url": "https://www.bray.com/valves-actuators-controls/control-accessories/proximity-sensors/series-54-is-proximity-sensor",
+  "name": "Series 54",
+  "category": "Control Accessories",
+  "n_variants": 0,
+  "has_cad": false,
+  "aliases": [],
+  "in_sitemap": true,
+  "in_crawl": true
+ },
+ {
+  "url": "https://www.bray.com/valves-actuators-controls/control-accessories/solenoids/series-60-solenoid-valve",
+  "name": "Series 60",
+  "category": "Control Accessories",
+  "n_variants": 0,
+  "has_cad": false,
+  "aliases": [],
+  "in_sitemap": true,
+  "in_crawl": true
+ },
+ {
+  "url": "https://www.bray.com/valves-actuators-controls/control-accessories/solenoids/series-63-solenoid-valve",
+  "name": "Series 63",
+  "category": "Control Accessories",
+  "n_variants": 0,
+  "has_cad": false,
+  "aliases": [],
+  "in_sitemap": true,
+  "in_crawl": true
+ },
+ {
+  "url": "https://www.bray.com/valves-actuators-controls/control-accessories/switch-boxes/series-5a-resin-switch-box",
+  "name": "Series 5A Resin",
+  "category": "Control Accessories",
+  "n_variants": 0,
+  "has_cad": true,
+  "aliases": [],
+  "in_sitemap": false,
+  "in_crawl": true
+ },
+ {
+  "url": "https://www.bray.com/valves-actuators-controls/control-accessories/switch-boxes/series-5a-switch-box",
+  "name": "Series 5A",
+  "category": "Control Accessories",
+  "n_variants": 0,
+  "has_cad": true,
+  "aliases": [],
+  "in_sitemap": true,
+  "in_crawl": true
+ },
+ {
+  "url": "https://www.bray.com/valves-actuators-controls/control-accessories/switch-boxes/series-5b-resin-switch-box",
+  "name": "Series 5B Resin",
+  "category": "Control Accessories",
+  "n_variants": 0,
+  "has_cad": true,
+  "aliases": [],
+  "in_sitemap": false,
+  "in_crawl": true
+ },
+ {
+  "url": "https://www.bray.com/valves-actuators-controls/control-accessories/switch-boxes/series-5b-switch-box",
+  "name": "Series 5B",
+  "category": "Control Accessories",
+  "n_variants": 0,
+  "has_cad": true,
+  "aliases": [],
+  "in_sitemap": true,
+  "in_crawl": true
+ },
+ {
+  "url": "https://www.bray.com/valves-actuators-controls/control-accessories/switch-boxes/series-5c-switch-box",
+  "name": "Series 5C",
+  "category": "Control Accessories",
+  "n_variants": 0,
+  "has_cad": true,
+  "aliases": [],
+  "in_sitemap": true,
+  "in_crawl": true
+ },
+ {
+  "url": "https://www.bray.com/valves-actuators-controls/control-valves/ball-valves/segmented-ball-valve",
+  "name": "Series 19/19L",
+  "category": "Control Valves",
+  "n_variants": 0,
+  "has_cad": false,
+  "aliases": [],
+  "in_sitemap": true,
+  "in_crawl": true
+ },
+ {
+  "url": "https://www.bray.com/valves-actuators-controls/control-valves/ball-valves/v-control-ball-valve",
+  "name": "V-Control",
+  "category": "Control Valves",
+  "n_variants": 0,
+  "has_cad": false,
+  "aliases": [],
+  "in_sitemap": true,
+  "in_crawl": true
+ },
+ {
+  "url": "https://www.bray.com/valves-actuators-controls/knife-gate-valves/bidirectional/series-740-knife-gate-valve",
+  "name": "Series 740",
+  "category": "Knife Gate Valves",
+  "n_variants": 0,
+  "has_cad": false,
+  "aliases": [],
+  "in_sitemap": true,
+  "in_crawl": true
+ },
+ {
+  "url": "https://www.bray.com/valves-actuators-controls/knife-gate-valves/bidirectional/series-746hp-knife-gate-valve",
+  "name": "Series 746HP",
+  "category": "Knife Gate Valves",
+  "n_variants": 0,
+  "has_cad": false,
+  "aliases": [],
+  "in_sitemap": false,
+  "in_crawl": true
+ },
+ {
+  "url": "https://www.bray.com/valves-actuators-controls/knife-gate-valves/bidirectional/series-752-752hp-knife-gate-valve",
+  "name": "Series 752/752HP",
+  "category": "Knife Gate Valves",
+  "n_variants": 0,
+  "has_cad": false,
+  "aliases": [
+   "https://www.bray.com/valves-actuators-controls/knife-gate-valves/bidirectional/series-752-knife-gate-valve"
+  ],
+  "in_sitemap": true,
+  "in_crawl": true
+ },
+ {
+  "url": "https://www.bray.com/valves-actuators-controls/knife-gate-valves/bidirectional/series-755-knife-gate-valve",
+  "name": "Series 755",
+  "category": "Knife Gate Valves",
+  "n_variants": 0,
+  "has_cad": false,
+  "aliases": [],
+  "in_sitemap": true,
+  "in_crawl": true
+ },
+ {
+  "url": "https://www.bray.com/valves-actuators-controls/knife-gate-valves/bidirectional/series-762-knife-gate-valve",
+  "name": "Series 762",
+  "category": "Knife Gate Valves",
+  "n_variants": 0,
+  "has_cad": false,
+  "aliases": [],
+  "in_sitemap": true,
+  "in_crawl": true
+ },
+ {
+  "url": "https://www.bray.com/valves-actuators-controls/knife-gate-valves/bidirectional/series-765-knife-gate-valve",
+  "name": "Series 765",
+  "category": "Knife Gate Valves",
+  "n_variants": 0,
+  "has_cad": false,
+  "aliases": [],
+  "in_sitemap": true,
+  "in_crawl": true
+ },
+ {
+  "url": "https://www.bray.com/valves-actuators-controls/knife-gate-valves/bidirectional/series-767-knife-gate-valve",
+  "name": "Series 767",
+  "category": "Knife Gate Valves",
+  "n_variants": 0,
+  "has_cad": false,
+  "aliases": [],
+  "in_sitemap": true,
+  "in_crawl": true
+ },
+ {
+  "url": "https://www.bray.com/valves-actuators-controls/knife-gate-valves/bidirectional/series-768-knife-gate-valve",
+  "name": "Series 768",
+  "category": "Knife Gate Valves",
+  "n_variants": 0,
+  "has_cad": false,
+  "aliases": [],
+  "in_sitemap": true,
+  "in_crawl": true
+ },
+ {
+  "url": "https://www.bray.com/valves-actuators-controls/knife-gate-valves/unidirectional/series-941-knife-gate-valve",
+  "name": "Series 941",
+  "category": "Knife Gate Valves",
+  "n_variants": 0,
+  "has_cad": false,
+  "aliases": [],
+  "in_sitemap": true,
+  "in_crawl": true
+ },
+ {
+  "url": "https://www.bray.com/valves-actuators-controls/knife-gate-valves/unidirectional/series-942-knife-gate-valve",
+  "name": "Series 942",
+  "category": "Knife Gate Valves",
+  "n_variants": 0,
+  "has_cad": false,
+  "aliases": [],
+  "in_sitemap": false,
+  "in_crawl": true
+ },
+ {
+  "url": "https://www.bray.com/valves-actuators-controls/knife-gate-valves/unidirectional/series-943-953-knife-gate-valve",
+  "name": "Series 953",
+  "category": "Knife Gate Valves",
+  "n_variants": 0,
+  "has_cad": false,
+  "aliases": [],
+  "in_sitemap": false,
+  "in_crawl": true
+ },
+ {
+  "url": "https://www.bray.com/valves-actuators-controls/knife-gate-valves/unidirectional/series-943-knife-gate-valve",
+  "name": "Series 943",
+  "category": "Knife Gate Valves",
+  "n_variants": 0,
+  "has_cad": false,
+  "aliases": [],
+  "in_sitemap": false,
+  "in_crawl": true
+ },
+ {
+  "url": "https://www.bray.com/valves-actuators-controls/pinch-valves/series-pva",
+  "name": "Series PVA",
+  "category": "Knife Gate Valves",
+  "n_variants": 0,
+  "has_cad": false,
+  "aliases": [],
+  "in_sitemap": false,
+  "in_crawl": true
+ }
+]
