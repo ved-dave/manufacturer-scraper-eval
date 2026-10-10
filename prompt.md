@@ -138,8 +138,9 @@ WHAT CHANGED
 TASKS
 1. Remove the binaries from the branch. harness/gold/sioux-chief.evidence/files/ must NOT be in the
    branch history (it is now git-ignored). Keep files/ in your VM; keep text/ and manifest.csv in git.
-   Rewrite the branch history so no commit contains files/ (e.g. squash the branch into a single commit),
-   then force-push gold/sioux-chief. Confirm that `git ls-tree -r origin/gold/sioux-chief` lists no files/ paths.
+   Rebase the branch onto the latest origin/main (main now includes the updated SPEC, harness and a new
+   scraper/ folder; take main's versions of everything outside harness/gold/). Rewrite the branch history so
+   no commit contains files/ (e.g. squash the branch into a single commit), then force-push gold/sioux-chief. Confirm that `git ls-tree -r origin/gold/sioux-chief` lists no files/ paths.
 2. Relabel the 15 families against the new rules:
    a. Every `conflict` where the sheet is a more specific form of the page value becomes `refines`.
       The validator warns "should be refines" for each candidate; check each one by hand.
