@@ -1,0 +1,88 @@
+=== page 1 ===
+Certificate / Certificat
+Zertifikat /
+BRA 1705031 C001
+exida hereby confirms that the:
+Tri Lok Butterfly Valves with Series 98
+The manufacturer
+Actuators
+may use the mark:
+Bray International, Inc.
+Houston, Texas - USA
+Have been assessed per the relevant requirements of:
+IEC 61508 : 2010 Parts 1-7
+and meets requirements providing a level of integrity to:
+Systematic Capability: SC 3 (SIL 3 Capable)
+Random Capability: Type A, Route 2 Device
+H
+Revision 3.0 October 28, 2022 PFH/PFD and Architecture Constraints
+avg
+Surveillance Audit Due must be verified for each application
+October 1 , 2025
+Safety Function:
+The Tri Lok Valve will move to the designated safe position per
+the Series 98 Actuator design within the specified safety time.
+Application Restrictions:
+The unit must be properly designed into a Safety Instrumented
+Function per the Safety Manual requirements.
+Place embossed Evaluating Assessor
+seal here for
+originals, lining it
+up at the bottom
+#1004 Certifying Assessor
+Page 1 of 2
+=== page 2 ===
+Certificate / Certificat / Zertifikat /
+BRA 1705031 C001
+Systematic Capability: SC 3 (SIL 3 Capable)
+Random Capability: Type A, Route 2 Device
+H
+PFH/PFD and Architecture Constraints
+avg
+must be verified for each application
+Systematic Capability :
+The product has met manufacturer design process requirements of Safety
+Tri Lok Butterfly Valves Integrity Level (SIL) 3. These are intended to achieve sufficient integrity
+with Series 98 against systematic errors of design by the manufacturer.
+A Safety Instrumented Function (SIF) designed with this product must not
+Actuators
+be used at a SIL level higher than stated.
+Random Capability:
+The SIL limit imposed by the Architectural Constraints must be met for
+each element. This device meets exidacriteria for Route 2 .
+H
+IEC 61508 Failure Rates in FIT*, Clean Service
+Single Acting, Spring Return λ λ λ λ
+SD SU DD DU
+Full Stroke 0 166 0 913
+Tight Shut-Off 0 166 0 1478
+Open on Trip 0 269 0 810
+Full Stroke with PVST† 164 2 445 468
+Tight Shut-Off with PVST 164 2 445 1033
+Open on Trip with PVST 266 3 445 365
+Double Acting, Single Piston λ λ λ λ
+SD SU DD DU
+Full Stroke 0 0 0 1004
+Tight Shut-Off 0 0 0 1569
+Open on Trip 0 103 0 901
+Full Stroke with PVST 0 0 512 492
+Tight Shut-Off with PVST 0 0 512 1057
+Open on Trip with PVST 102 1 512 389
+For Double Acting, Double Piston and Severe Service applications,
+consult the FMEDA Report.
+* FIT = 1 failure / 109hours
+†PVST = Partial Valve Stroke Test of a final element Device
+SIL Verification:
+The Safety Integrity Level (SIL) of an entire Safety Instrumented Function (SIF)
+must be verified via a calculation of PFH/PFD considering redundant
+avg
+architectures, proof test interval, proof test effectiveness, any automatic
+diagnostics, average repair time and the specific failure rates of all products
+included in the SIF. Each element must be checked to assure compliance with
+minimum hardware fault tolerance (HFT) requirements.
+The following documents are a mandatory part of certification:
+80 N Main St
+Sellersville, PA 18960 Assessment Report: BRA 17/05-031 R002 V3 R1 (or later)
+Safety Manual: SM-1005 S98 & SM-1003 Tri Lok
+T-061, V5R2
+Page 2 of 2

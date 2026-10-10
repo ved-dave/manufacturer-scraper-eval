@@ -11,3 +11,12 @@ Most issues from the first pass were adopted on `main` (robots override, `refine
 5. **(Resolved 2026-10-10: family-level comma list, no overrides; added to SPEC 6.)** **Per-variant differences in single-valued text fields.** SPEC 6 says to override only when the family level can't express the difference "as a range or list". The blind pass read that as allowing a list for `material_body` / `material_seals` (e.g. `["PVC","ABS"]`). Gold uses overrides, because those are `text` kinds in `SPEC_KINDS` and a list loses the variant mapping. The scorer will mark one of the two forms wrong. Please say which form is intended.
 6. **(Resolved 2026-10-10: CTS and IPS are valid; added to SPEC 6.)** **`size_unit` for copper-tube sizes.** SPEC lists "NPS / DN / in". Sioux Chief sizes PEX/CPVC/copper products in CTS (copper tube size), so the blind pass used `CTS` and gold used `in`. Please say whether `CTS` is a valid value.
 
+
+## bray (gold labelling, 2026-10-10)
+
+1. **No family-level price.** Every Bray family is "Request a Quote" and only 2 of 15 list identifiers, so `request_quote` can only be recorded in `labelling_notes` for 13 families. A family-level `price_status` field would make this scoreable.
+2. **`refines` heuristic misses two hand-checked refinements.** `single-door` material_trim ("SS316 as standard (or Higher Grade)" → "Stainless Steel (ASTM A351 CF8M)") and `tri-lok-cx` standards ("EN 12266" → "EN 12266-1", "EN 12266-2") warn as "does not look like a narrower form". Standard part numbers (`X` → `X-1`) and cast/wrought grade equivalents could be treated as narrower forms.
+3. **Per-model spec sheets.** Single Door has 14 data sheets, one per model and seat type. SPEC 6a assumes one spec sheet per family; it is unclear whether family-level cross-check should use one representative sheet (done here) or the union of all sheets.
+4. **Sheet-only model lists vs the variant rule.** The SRH sheet lists "SRH1 SRH2 SRH3" with no page identifiers. DEVIN_TASK says identifiers "on the page or in the family's spec sheet"; the Bray decision limited variants to page models. Worth stating in SPEC 3.
+5. **`.gitignore` still does not ignore `harness/gold/*.evidence/files/`** (see sioux-chief #1). Excluded via `.git/info/exclude` on this branch.
+6. **No allowed_hosts change.** No cited image comes from `newbrayprod.azurewebsites.net`, so `config/sites.json` is unchanged.

@@ -1,0 +1,121 @@
+=== page 1 ===
+Series 5B Resin Valve Status Monitor
+FEATURES
+• IP66 / 67 / 68 • High Visibility Indicator Dome • SIL 3 Capable Option
+• NEMA 4, 4x • Up to 20 Terminals
+TECHNICAL DATA
+General Specifications
+Body Material Fiberglass reinforced PBT
+Indicator Dome Polycarbonate
+Conduit Thread 2x 3/4” NPT or M25 (sides), 1x 1/2” NPT or M20 (rear)
+Conduit Quantity 3
+Temperature Range -13°F to 149°F (-25°C to 65°C)
+Approx. Weight with 2 x SPDT 1.8 lbs / 0.8 kg
+Mounting Pattern VDI/VDE 3845
+Terminal 12 or 20 Pole configurations
+O-Rings EPDM
+Open (yellow) Closed (red) Open (black) Closed (yellow)
+Indicator Options
+Open (green) Closed (red) Open (red) Closed (green)
+DIMENSIONS Ratings IP66 / 67 / 68 & NEMA 4, 4x
+Certification cULus on most models. CE Declaration
+Hazardous Locations (Optional) ATEX, IECEx, cULus for intrinsic safety
+Mechanical Switches Reed Switches
+Switch Type SPDT SPDT Low Power DPDT-DB SPDT
+5.11” 10A, 250V AC 0.1A, 125V AC 10A, 250V AC 180 mA, 110V AC
+(129.7mm) 5.70”
+(144.8mm) 1/2 HP, 250V AC 0.1A, 30V DC 3/4 HP, 250V AC 830 mA, 24V DC
+Switch Ratings
+0.25A, 250V DC 1mA, 4V AC/DC 10A, 28V DC Res. 20W max.
+0.5A, 125V DC min 7A, 28V DC Ind.
+Max Number of Switches 6 6 2 6
+Approvals cULus, SIL 3 Capable cULus, SIL 3 Capable cULus, SIL 3 Capable SIL 3 Capable
+3-Wire DC Proximity Switches PNP N.O. PNP N.C. NPN N.O. NPN N.C.
+Power Supply Class 2 Class 2 Class 2 Class 2
+6.44” Operating Voltage 10-30V DC 10-30V DC 10-30V DC 10-30V DC
+(163.5mm) Load Current ≤ 100 mA ≤ 100 mA ≤ 100 mA ≤ 100 mA
+Current Consumption ≤ 15 mA ≤ 15 mA ≤ 15 mA ≤ 15 mA
+Leakage Current ≤ 0.5 mA ≤ 0.5 mA ≤ 0.5 mA ≤ 0.5 mA
+Voltage Drop ≤ 3V ≤ 3V ≤ 3V ≤ 3V
+Max Number of Switches 6 6 6 6
+Approvals cULus cULus cULus N/A
+2-Wire Proximity Switches 140V N.O. 250V N.O.
+4X 1/4-20 UNC 20-140V AC 20-250V AC
+1.97” .42” (10.5mm) Operating Voltage
+(50mm) or 10-140V DC 10-300V DC
+M6 - 6H Load Current 5-200 mA ≤ 100 mA
+.33” (8.4mm) MIN 4X
+Leakage Current ≤ 0.8 mA ≤ 1.7 mA
+Voltage Drop ≤ 7V ≤ 6V
+Max Number of Switches 6 6
+Approvals N/A N/A
+NAMUR I.S. Switches N.C.
+≥ 3 mA (deactivated) Class I, Division 1, Groups A, B, C, & D, T6
+Current Consumption Class II, Division 1, Groups E, F, & G, T85°C
+≤ 1 mA (activated)
+Class III
+Max Power 64 mW UL/cUL
+Class I, Zone 0, AEx ia IIC T6
+Max Voltage 16 V Class I, Zone 1, AEx ia IIC T6
+(120 4 . . 7 7 m 5 m) Max Current 25 mA Ex ia IIC Gb T6
+II 1G Ex ia IIC Ga T6
+Switch P+F NJ2-V3-N ATEX
+II 2G Ex ia IIC Gb T6
+Effective Capacitance (C i ) ≤ 40 nF IECEx Ex ia IIC Ga T6
+Effective Inductance (L) ≤ 50 μH Ex ia IIC Gb T6
+i
+Max Number of Switches 6 Zone 0 or 1G: -25°C ≤ Ta ≤ +49°C
+Ambient
+Approval cULus, ATEX, IECEx, SIL 3 Capable Zone 1 or 2G: -25°C ≤ Ta ≤ +65°C
+All information herein is proprietary, confidential, and may not be copied or reproduced without the expressed written consent of BRAY INTERNATIONAL, Inc.
+The technical data herein is for general information only. Product suitability should be based solely upon customer’s detailed knowledge and experience with their application.
+bray.com - 1 - Rev. 3 2022
+=== page 2 ===
+Series 5B Resin Valve Status Monitor
+BRACKET
+Bracket Type NAMUR Pattern Actuator Series Actuator Size VSM / Actuator Std. Part No.
+Imperial / Imperial 5B0000-22602517
+92 / 93 063 - 128 Imperial / Metric 5B0000-22632517
+Single Piece 30 x 80 Metric / Metric 5B0000-22652517
+Imperial / Metric 5B0000-22632517
+98 All
+Metric / Metric 5B0000-22652517
+160 - 210 Imperial / Imperial 5B0000-22603517
+Single Piece 30 x 130 92 / 93 Imperial / Metric 5B0000-22633517
+160 - 255
+Metric / Metric 5B0000-22653517
+Single Piece Resin Bracket
+30mm x 80mm 30mm x 130mm
+PART NUMBERING SYSTEM
+5B000X-126X X XXX / E X
+Thread Type Switch Option Switch Indicator Indicator
+0 Imperial A SPDT Mechanical Switch Configuration Language Color
+5 Metric B SPDT Mechanical Gold Plated 2 2 Switches E English 2 Red Closed/
+Switch (Low Power) 3 3 Switches, Green Open
+C PNP N.O., 3-Wire Switch Independent Yellow Closed/
+3
+D NPN N.O., 3-Wire Switch 4 4 Switches, Black Open
+Independent Green Closed/
+E PNP N.C., 3-Wire Switch 4
+4 Switches Red Open
+F 140V, 2-Wire Switch 5 (2 Independent, No Additional
+2 Auxiliary)
+G 250V, 2-Wire Switch Characters
+6 Switches
+H NAMUR Intrinsically Safe Switch 6 (4 Independent, Standard English
+2 Auxiliary) Red Closed/Yellow Open
+K SPDT Reed Switch
+M DeviceNet Module
+N AS-i Module
+P Profibus DP Module Body Material
+R NPN N.C., 3-Wire Switch Engineered
+517
+S DPDT-DB Mechanical Switch Resin
+HEADQUARTERS
+Bray International, Inc.
+All statements, technical information, and recommendations in this bulletin are for general use only.
+13333 Westland East Blvd. Consult Bray representatives or factory for the specific requirements and material selection for your intended
+application. The right to change or modify product design or product without prior notice is reserved.
+Houston, Texas 77041 Patents issued and applied for worldwide.
+Tel: 281.894.5454 Bray® is a registered trademark of Bray International, Inc.
+bray.com © 2022 Bray International. All rights reserved. TM-1095_5B_Resin_20221121

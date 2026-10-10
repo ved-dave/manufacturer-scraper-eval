@@ -1,0 +1,454 @@
+=== page 1 ===
+Series 5A, 5B, AND 5C
+VALVE STATUS MONITORS
+SIL SAFETY MANUAL
+BRAY.COM THE HIGH PERFORMANCE COMPANY
+=== page 2 ===
+SERIES 5A, 5B, AND 5C VALVE STATUS MONITORS
+SIL Safety Manual
+Table of Contents
+1.0 Definition of Terms . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+2.0 Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+3.0 Device Description. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+4.0 Designing a SIF Using A Manufactured Product . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+5.0 Installation and Commissioning . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+6.0 Operating and Maintenance . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+7.0 Failure Rates . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+8.0 Start-up Checklist . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .12
+2 of 13
+© 2025 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM
+The Information contained herein shall not be copied, transferred, conveyed, or displayed in any manner
+that would violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 3 ===
+SERIES 5A, 5B, AND 5C VALVE STATUS MONITORS
+SIL Safety Manual
+READ AND FOLLOW THESE INSTRUCTIONS CAREFULLY. SAVE
+THIS MANUAL FOR FUTURE USE.
+1.0 Definition of Terms
+1.1 All information within this manual is relevant to the safe operation
+and proper care of your Bray product. Please understand the
+following examples of information used throughout this manual.
+1.2 Notes are indicated by the following symbols in these instructions.
+Failure to follow these procedures and observe these notes, cautions and
+warnings could lead to hazards and/or affect product warranty.
+DANGER
+Indicates a potentially hazardous situation which, if not avoided,
+will result in death or serious injury.
+WARNING
+Indicates a potentially hazardous situation which, if not avoided,
+could result in death or serious injury.
+CAUTION
+Indicates a potentially hazardous situation which, if not avoided,
+could result in minor or moderate injury.
+NOTICE
+Used without the safety alert symbol, indicates a potential
+situation which, if not avoided, may result in an undesirable result
+or state, including property damage.
+3 of 13
+© 2025 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM
+The Information contained herein shall not be copied, transferred, conveyed, or displayed in any manner
+that would violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 4 ===
+SERIES 5A, 5B, AND 5C VALVE STATUS MONITORS
+SIL Safety Manual
+2.0 INTRODUCTION
+This Safety Manual provides information necessary to design, install,
+verify and maintain a Safety Instrumented Function (SIF) utilizing
+the Bray Series 5A, 5B, and 5C Valve Status Monitors (VSM). This
+manual provides necessary requirements for meeting the IEC 61508 or
+IEC 61511 functional safety standards.
+2.1 Terms and Abbreviations
+Safety - Freedom from unacceptable risk of harm.
+Functional Safety - The ability of a system to carry out the actions
+necessary to achieve or to maintain a defined safe state for the
+equipment / machinery / plant / apparatus under control of the
+system.
+Basic Safety - The equipment must be designed and manufactured
+such that it protects against risk of damage to persons by electrical
+shock and other hazards and against resulting fire and explosion.
+The protection must be effective under all conditions of the nominal
+operation and under single fault condition.
+Safety Assessment - The investigation to arrive at a judgment - based
+on evidence - of the safety achieved by safety-related systems.
+Fail-Safe State - State where solenoid valves de-energize and springs
+are extended.
+Fail Safe - Failure that causes the valve to go to the defined fail-safe
+state without a demand from the process.
+Fail Dangerous - Failure that does not respond to a demand from the
+process (i.e. being unable to go to the defined fail-safe state).
+Fail Dangerous Undetected - Failure that is dangerous and that is not
+being diagnosed by automatic stroke testing.
+Fail Dangerous Detected - Failure that is dangerous but is detected by
+automatic stroke testing.
+Fail Annunciation Undetected - Failure that does not cause a false
+trip or prevent the safety function but does cause loss of an automatic
+diagnostic and is not detected by another diagnostic.
+Fail Annunciation Detected - Failure that does not cause a false trip
+or prevent the safety function but does cause loss of an automatic
+diagnostic or false diagnostic indication.
+Fail No Effect - Failure of a component that is part of the safety
+function but that has no effect on the safety function.
+Low Demand Mode - Where the frequency of demands for operation
+made on a safety-related system is no greater than twice the proof test
+frequency.
+2.2 Acronyms
+FMEDA - Failure Modes, Effects and Diagnostic Analysis.
+HFT - Hardware Fault Tolerance.
+MOC - Management of Change. These are specific procedures
+often done when performing any work activities in compliance with
+government regulatory authorities.
+PFDavg - Average Probability of Failure on Demand.
+SFF - Safe Failure Fraction, the fraction of the overall failure rate of a
+device that results in either a safe fault or a diagnosed unsafe fault.
+4 of 13
+© 2025 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM
+The Information contained herein shall not be copied, transferred, conveyed, or displayed in any manner
+that would violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 5 ===
+SERIES 5A, 5B, AND 5C VALVE STATUS MONITORS
+SIL Safety Manual
+SIF - Safety Instrumented Function, a set of equipment intended to
+reduce the risk due to a specific hazard (a safety loop).
+SIL - Safety Integrity Level, discrete level (one out of a possible four)
+for specifying the safety integrity requirements of the safety functions
+to be allocated to the E/E/PE safety-related systems where Safety
+Integrity Level 4 has the highest level of safety integrity and Safety
+Integrity Level 1 has the lowest.
+SIS - Safety Instrumented System – Implementation of one or more
+Safety Instrumented Functions. An SIS is composed of any combination
+of sensor(s), logic solver(s), and final element(s).
+2.3 Product Support
+Product support can be obtained from:
+Bray Controls Inc.
+13333 Westland Blvd. East Houston, TX, 77041, USA.
+Phone: 281 894 5454
+www.braycontrols.com
+2.4 Related Literature
+Hardware Documents:
+> Switchbox Series 5A, 5B, and 5C Product Brochure
+> Series 5A and Series 5B Switch Boxes Installation, Operation and
+Maintenance Manual
+> Switchbox Series 5C Technical Manual
+> Series 5C Explosion-Proof Switch Box Installation, Operation and
+Maintenance Manual
+Guidelines/References:
+> Safety Integrity Level Selection – Systematic Methods including
+Layer of Protection Analysis, ISBN 1-55617-777-1, ISA
+> Control System Safety Evaluation and Reliability, 2nd Edition,
+ISBN 1-55617-638-8, ISA Safety Instrumented Systems Verification,
+Practical Probabilistic Calculations, ISBN 1-55617-909-9, ISA
+2.5 Reference Standards
+Functional Safety:
+> IEC 61508: 2000 Functional safety of electrical/electronic/
+programmable electronic safety-related systems
+> ANSI/ISA 84.00.01-2004 (IEC 61511 Mod.) Functional Safety
+Instrumented Systems for the Process Industry Sector
+5 of 13
+© 2025 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM
+The Information contained herein shall not be copied, transferred, conveyed, or displayed in any manner
+that would violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 6 ===
+SERIES 5A, 5B, AND 5C VALVE STATUS MONITORS
+SIL Safety Manual
+3.0 DEVICE DESCRIPTION
+The Bray Series 5A, 5B, and 5C Valve Status Monitors (VSM), available
+in resin and aluminum body types, provide reliable visual and electrical
+position indication on any VDI/VDE 3845-compliant quarter-turn
+device. Series 5A offers lightweight, compact housing to fit the
+tightest spots. Series 5B features a larger body to accommodate up
+to 20 terminal points and six switches for increased customization.
+Our explosion-proof Series 5C provides unparalleled protection and
+reliability during service in the harshest environments. Our solutions
+enable end users to better monitor their process, no matter the
+conditions.
+Bray Series 5A and 5B VSMs are comprised of a NEMA Type 4/4X
+housing with external position indicator and two conduit entries, cam
+shaft with self-locking cams, elevated terminal block, internal grounding
+screw, and mounting bracket. The VSM is coupled to the quarter turn
+device via the indicator shaft. Rotation of the indicator shaft, in turn,
+drives the cams and activates the switch. The angular position in which
+the switches activate can be adjusted through the self-locking cams.
+Mechanical or proximity activation of switches provides electrical
+feedback of achieved position through field wiring to a control network.
+Bray Series 5C VSMs are comprised of a hazardous location housing
+with NEMA Type 4, 4x and IP 66/67/68 (1 meter for 1 hour) ratings,
+external position indicator, three conduit entries, cam shaft with self-
+locking cams, elevated terminal block(s), internal grounding screw,
+ATEX/IECEx required external grounding screw, and mounting bracket.
+6 of 13
+© 2025 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM
+The Information contained herein shall not be copied, transferred, conveyed, or displayed in any manner
+that would violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 7 ===
+SERIES 5A, 5B, AND 5C VALVE STATUS MONITORS
+SIL Safety Manual
+4.0 DESIGNING A SIF USING A MANUFACTURED PRODUCT
+4.1 Safety Function
+When used with a de-energized to trip final element subsystem, the
+Series 5A, 5B, and 5C VSMs will not interfere with the ability of the logic
+solver to bring the final element to its safe state.
+The Series 5A, 5B, and 5C VSMs are intended to be part of a final
+element subsystem as defined per IEC 61508 and the achieved SIL level
+of the designed function must be verified by the designer.
+4.2 Environmental Limits
+The designer of a SIF must check that the product is rated for use
+within the expected environmental limits. Refer to the Bray Series 5A,
+5B, and 5C VSM product brochures for environmental limits.
+4.3 Application Limits
+The materials of construction of the Series 5A, 5B, and 5C VSMs are
+specified in the Bray Series 5A, 5B, and 5C VSM product brochures. It
+is important that the designer check for material suitability considering
+on-site conditions. If the Series 5A, 5B, and 5C VSM is used outside of
+the application limits or with incompatible materials, the reliability data
+provided becomes invalid.
+4.4 Design Verification
+A detailed Failure Mode, Effects, and Diagnostics Analysis (FMEDA)
+report is available from Bray Controls. This report details all failure rates
+and failure modes as well as the expected lifetime.
+The achieved Safety Integrity Level (SIL) of an entire Safety
+Instrumented Function (SIF) design must be verified by the designer via
+a calculation of PFDAVG considering architecture, proof test interval,
+proof test effectiveness, any automatic diagnostics, average repair
+time and the specific failure rates of all products included in the SIF.
+Each subsystem must be checked to assure compliance with minimum
+hardware fault tolerance (HFT) requirements.
+The failure rate data listed the FMEDA report is only valid for the
+useful life time of the Series 5A, 5B, and 5C VSMs. The failure rates will
+increase sometime after this time period. Reliability calculations based
+on the data listed in the FMEDA report for mission times beyond the
+lifetime may yield results that are too optimistic, i.e. the calculated
+Safety Integrity Level will not be achieved.
+4.5 SIL Capability
+Systematic Integrity - The product has met manufacturer design
+process requirements of Safety Integrity Level (SIL) 3. These are
+intended to achieve sufficient integrity against systematic errors of
+design by the manufacturer. A Safety Instrumented Function (SIF)
+designed with this product must not be used at a SIL level higher than
+the statement without “prior use” justification by end user or diverse
+technology redundancy in the design.
+7 of 13
+© 2025 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM
+The Information contained herein shall not be copied, transferred, conveyed, or displayed in any manner
+that would violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 8 ===
+SERIES 5A, 5B, AND 5C VALVE STATUS MONITORS
+SIL Safety Manual
+Random Integrity - The Series 5A, 5B, and 5C VSM is one of many
+components that can be used in a final element assembly. The final
+element assembly consists of many components, i.e. S92/93 Pneumatic
+Actuator, solenoid, quick exhaust valve, etc.) and the SIL must be
+verified for the entire assembly using failure rates from all components.
+This analysis must account for any hardware fault tolerance and
+architecture constraints
+For detailed failure rate information refer to the Failure Modes, Effects
+and Diagnostic Analysis Report for the Series 5A, 5B, and 5C VSMs.
+4.6 Connection of the S92/93 Pneumatic Actuator to the SIS Logic-solver
+The Series 5A, 5B, and 5C VSMs are connected to the safety rated
+logic solver which is actively performing the safety function as well
+as automatic diagnostics designed to diagnose potentially dangerous
+failures within the Series 5A, 5B, and 5C VSMs, (i.e. partial stroke test).
+4.7 General Requirements
+The systems response time shall be less than process safety time. The
+Series 5A, 5B, and 5C VSM are only one part of the final element of a
+SIS. All elements of the SIF must be chosen to meet the safety response
+time.
+All SIS components, including the Series 5A, 5B, and 5C VSM must be
+operational before process start-up.
+User shall verify that the Series 5A, 5B, and 5C VSM is suitable for use
+in safety applications by confirming the Series 5A, 5B, and 5C VSM’s
+nameplate is properly marked.
+Personnel performing maintenance and testing on the Series 5A, 5B,
+and 5C VSM shall be competent to do so.
+Results from the proof tests shall be recorded and reviewed
+periodically.
+The useful life of the Series 5A, 5B, and 5C VSM is discussed in the
+Failure Modes, Effects and Diagnostic Analysis Report for the Series 5A,
+5B, and 5C VSMs.
+8 of 13
+© 2025 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM
+The Information contained herein shall not be copied, transferred, conveyed, or displayed in any manner
+that would violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 9 ===
+SERIES 5A, 5B, AND 5C VALVE STATUS MONITORS
+SIL Safety Manual
+5.0 INSTALLATION AND COMMISSIONING
+5.1 Installation
+The Series 5A, 5B, and 5C VSM must be installed per standard practices
+outlined in the Installation Manual.
+The environment must be checked to verify that environmental
+conditions do not exceed the ratings.
+The Series 5A, 5B, and 5C VSM must be accessible for physical
+inspection.
+5.2 Physical Locatation and Placement
+The Series 5A, 5B, and 5C VSM shall be accessible with sufficient room
+for connections and shall allow manual proof testing.
+Pneumatic piping to the valve shall be kept as short and straight as
+possible to minimize the airflow restrictions and potential clogging.
+Long or kinked pneumatic tubes may also increase the valve closure
+time.
+The Series 5A, 5B, and 5C VSM shall be mounted in a low vibration
+environment. If excessive vibration can be expected special precautions
+shall be taken to ensure the integrity of pneumatic connectors or the
+vibration should be reduced using appropriate damping mounts.
+5.3 Proof Test Without Automatic Testing
+The objective of proof testing is to detect failures within the Series 5A,
+5B, and 5C VSM that are not detected by automatic diagnostics of the
+system. Of main concern are undetected failures that prevent the safety
+instrumented function from performing its intended function.
+The frequency of proof testing, or proof test interval, is to be
+determined in reliability calculations for the safety instrumented
+functions for which Bray Series 5A, 5B, and 5C VSM is applied. The
+proof tests must be performed at least as frequently as specified in
+the calculation in order to maintain the required safety integrity of the
+safety instrumented function.
+9 of 13
+© 2025 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM
+The Information contained herein shall not be copied, transferred, conveyed, or displayed in any manner
+that would violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 10 ===
+SERIES 5A, 5B, AND 5C VALVE STATUS MONITORS
+SIL Safety Manual
+6.0 OPERATING AND MAINTENANCE
+6.1 Proof test without automatic testing
+The following proof test is recommended. The results of the proof
+test should be recorded and any failures that are detected and that
+compromise functional safety should be reported to Bray Controls.
+TABLE 1: RECOMMENDED PROOF TEST
+STEP ACTION
+1 Bypass the safety function and take appropriate action to avoid a false
+trip.
+2 Send a signal to the final element configuration to perform a full stroke
+and verify that this is achieved.
+3 Inspect the Series 5A, 5B, and 5C VSM for any visible damage or
+contamination.
+4 Record any failures in your company’s SIF inspection database.
+5 Restore normal operation.
+The proof test coverage for Series 5A, 5B, and 5C VSM are listed in the
+FMEDA report which is available from Bray Controls.
+The person(s) performing the proof test of Series 5A, 5B, and 5C VSM
+should be trained in SIS operations, including bypass procedures, valve
+maintenance and company Management of Change procedures.
+6.2 Proof test with automatic partial operational stroke testing
+An automatic partial valve stroke testing scheme that also performs
+a periodic full stroke of the Series 5A, 5B, and 5C VSM and measures
+valve movement timing will detect most potentially dangerous failure
+modes. It is recommended that a physical inspection (Step 2 from Table
+1) be performed on a periodic basis with the time interval determined
+by plant conditions. A maximum inspection interval of five years is
+recommended.
+6.3 Repair and Replacement
+Repair procedures in the Series 5A, 5B, and 5C VSM Installation,
+Operation and Maintenance Manual must be followed.
+6.4 Useful Life
+The useful life of the Series 5A, 5B, and 5C VSM is 10 years.
+6.5 Manufacturer Notification
+Any failures that are detected and that compromise functional safety
+should be reported to Bray Controls. Please contact Bray Controls
+customer service.
+6.6 Product Registration
+If the product is being used in a safety application and there is a desire
+to receive notices regarding the product, register the product with Bray
+Controls customer service.
+10 of 13
+© 2025 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM
+The Information contained herein shall not be copied, transferred, conveyed, or displayed in any manner
+that would violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 11 ===
+SERIES 5A, 5B, AND 5C VALVE STATUS MONITORS
+SIL Safety Manual
+7.0 FAILURE RATES
+Using reliability data extracted from the exida Electrical and Mechanical
+Component Reliability Handbook the following failure rates resulted from
+the Series 5A, 5B, and 5C VSM FMEDA.
+Table 3 and Table 4 list the failure rates for the Series 5A, 5B, and
+5C VSM with a Site Safety Index (SSI) of 2 (good site maintenance
+practices). These failure rates may be used for either Normally Open or
+Normally Closed switch configurations for the Safe State.
+7.1 Table 3 Failure rates for Static Applications3 with Good Maintenance
+Assumptions in FIT @ SSI=2
+Application/Device/Configuration λ λ 4 λ λ #
+SD SU DD DU
+Series 5A, 5B, and 5C with: A*, B*, K*, or S* 0 16 0 103 48
+Switch Types with external Current Limiting /
+Protection or H Inductive Sensor
+7.2 Table 4 Failure rates for Dynamic Applications5 with Good Maintenance
+Assumptions in FIT @ SSI=2
+Application/Device/Configuration λ λ 6 λ λ #
+SD SU DD DU
+Series 5A, 5B, and 5C with: A*, B*, K*, or S* 0 16 0 83 32
+Switch Types with external Current Limiting /
+Protection or H Inductive Sensor
+3Static Application failure rates are applicable if the device is static for a
+period of more than 200 hours.
+4It is important to realize that the No Effect failures are no longer
+included in the Safe Undetected failure category according to IEC 61508,
+ed2, 2010.
+5Dynamic Application failure rates may be used if the device moves at
+least once every 200 hours.
+6It is important to realize that the No Effect failures are no longer
+included in the Safe Undetected failure category according to IEC 61508,
+ed2, 2010
+11 of 13
+© 2025 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM
+The Information contained herein shall not be copied, transferred, conveyed, or displayed in any manner
+that would violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 12 ===
+SERIES 5A, 5B, AND 5C VALVE STATUS MONITORS
+SIL Safety Manual
+8.0 START-UP CHECKLIST
+The following checklist may be used as a guide to employ the Series 5A, 5B, and 5C VSM in a safety critical SIF
+compliant to IEC 61508
+Activity Result Verified
+By Date
+Design
+Target Safety Integrity Level and PFDavg determined
+Correct operating mode chosen (Fail-closed, Fail-open)
+Design decision documented
+Pneumatic compatibility and suitability verified
+SIS logic solver requirements for Series 5A, 5B, and 5C VSM tests
+defined and documented
+Routing of pneumatic connections determined
+SIS logic solver requirements for partial stroke tests defined and
+documented
+Design formally reviewed and suitability formally assessed
+Implementation
+Physical location appropriate
+Pneumatic connections appropriate and according to applicable
+codes
+SIS logic solver actuation test implemented
+Maintenance instructions for proof test released
+Verification and test plan released
+Implementation formally reviewed and suitability formally assessed
+Verification and Testing
+Electrical connections verified and tested
+Pneumatic connection verified and tested
+SIS logic solver actuation test verified
+Safety loop function verified
+Safety loop timing measured
+Bypass function tested (manual override)
+Verification and test results formally reviewed and suitability formally
+assessed
+Maintenance
+Tubing blockage / partial blockage tested
+Safety loop function tested
+12 of 13
+© 2025 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM
+The Information contained herein shall not be copied, transferred, conveyed, or displayed in any manner
+that would violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 13 ===
+SINCE 1986, BRAY HAS PROVIDED FLOW CONTROL SOLUTIONS
+FOR A VARIETY OF INDUSTRIES AROUND THE WORLD.
+VISIT BRAY.COM TO LEARN MORE ABOUT
+BRAY PRODUCTS AND LOCATIONS NEAR YOU.
+HEADQUARTERS
+Bray International, Inc.
+13333 Westland East Blvd.
+Houston, Texas 77041
+Tel: +1.281.894.5454
+All statements, technical information, and recommendations in this bulletin are for general
+use only. Consult Bray representatives or factory for the specific requirements and material se-
+lection for your intended application. The right to change or modify product design or product
+without prior notice is reserved. Patents issued and applied for worldwide.
+Bray® is a registered trademark of Bray International, Inc.
+© 2025 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM EN_SM_1007_5 ABC VSM_Safety Manual_20250423
+THE HIGH PERFORMANCE COMPANY BRAY.COM

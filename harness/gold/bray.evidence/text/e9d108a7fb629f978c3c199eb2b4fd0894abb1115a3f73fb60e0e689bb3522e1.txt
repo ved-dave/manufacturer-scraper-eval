@@ -1,0 +1,111 @@
+=== page 1 ===
+RITE® SERIES 211
+SINGLE DOOR FLANGED TYPE SWING CHECK VALVE
+SEAT RING SOFT SEAT
+OVERVIEW APPLICATIONS
+The Rite® Series 211 flanged combination swing check valves > Chemical Processing > Petrochemical
+are flow activated and Rite® Sized. The Rite® Series Check Valve > Electrolysis > Power Generation
+inlet ports and disc have been shape optimized to achieve a > Facilities/Skid > Refrigeration
+fully open position at low flow rates (3 ft/s on average). > HVAC > Storage & Transport
+> Marine > Tank Trucks
+SPECIFICATIONS > Nuclear > Water
+> Oil Transport
+NPS 2” to 42”
+Size Range
+50mm to 1050mm
+-240 to 400 °F (-151 to 204 °C) (Pending MEDIA
+Temperature Range
+Materials Selected)
+> Dry Chlorine (Gas or > Hydrogen
+Operating Pressure ASME (150, 300, 600, 900, 1500)
+Liquid) > Oxygen
+DIN (PN10, 16, 25, 40, 64, 100, 150, 250)
+> Gases > Water
+Body Style One-Piece Flanged Body Seat Ring Type
+Leakage Rate Zero Leakage
+DESIGN FEATURES
+Figure 01: Seat Ring Soft Seat Cutaway
+The Series 211 soft seated check valves offer:
+Front View.
+SINGLE DOOR DESIGN:
+Below numbered list can be referenced on various
+figures throughout document.
+1 Combination design utilizing both gravity + spring
+1
+makes the valve easy to open/close, reducing water
+hammer. 2
+2 Limited movement of internal parts during operation
+extends service life.
+3 Elliptical inlet shape designed to accelerate line media
+through the valve.
+4
+4 Optimal diameter for high flow capacity.
+5 Short face to face, reducing weight and space between
+3
+flanges.
+6 Low cracking pressure.
+7 Quick response time (ideal for process lines with 5
+varying flows & control valves).
+8 Customizable modular design, allows for adding
+optional special accessories to meet customer
+application requirements.
+9 Cost & energy efficiency, require only one set of Figure 02: Seat Ring Soft Seat Cutaway
+flange studs which span the valve, reducing in-service Rear View.
+vibration.
+10 A mechanically dynamic seal, contained in a specially
+designed groove.
+11 Maintenance is simple as the o-ring is easily removed
+and replaced when worn.
+12 As pressure is applied to the valve disc, the seal is
+compressed into the groove ensuring a consistent and
+uniform seal.
+6
+13 The load on the seal is controlled, reducing wear for
+longer life.
+© 2025 BRAY INTERNATIONAL. ALL RIGHTS RESERVED. BRAY.COM EN_SDS_S211_SRSS_20250310 1 of 2
+=== page 2 ===
+RITE® SERIES 211
+SINGLE DOOR FLANGED TYPE SWING CHECK VALVE
+SEAT RING SOFT SEAT
+DESIGN STANDARDS MATERIAL OPTIONS1
+Body Material determines whether design is integral type, or seat
+Valve Design API 594 ring type. See below chart:
+H100, SA01, SA1, SA2, SA3, SA4, SA4A, Carbon Steel (ASTM A216 WCB)
+Accessories Available SA6, SA7, SA10, SA16, SA40, SA40A, Body
+SA50, SA54, etc. Ductile Iron (ASTM A395)
+Testing Standard API 598, ASME B16.34 Hinge Stainless Steel (ASTM A351 CF8M)
+Face-to-Face API 594 Stainless Steel (ASTM A240 304), Stellite
+Seat Ring
+overlay optional
+Valve size: <12”: Stainless Steel (ASTM A313
+316) standard duty
+Spring
+CERTIFICATIONS AND APPROVALS Valve size: >14”+: Stainless Steel (ASTM A313
+17-7 PH)
+API 6FD (Carbon Steel Body) Spacer Stainless Steel (ASTM A479 316), PTFE optional
+Certifications CE/PED Pin Stainless Steel (ASTM A479 316)
+CRN Plug Steel
+Approvals NSF-61 Lock Nut Steel Zinc Plated
+Additional information is available in the Bray Rite® Ltd. Technical Eye Bolt Steel Zinc Plated
+Sales Manual. Nameplate Stainless Steel (SS 316)
+Disc Stainless Steel (ASTM A351 CF8M)
+Rivet Steel Zinc Plated
+Figure 03: Seat Ring Soft Seat
+BUNA-N, EPDM, FKM-A, HNBR, Neoprene
+Exploded View.
+O-Ring PTFE-virgin, Teflon encapsulated silicone,
+Viton
+Disc Nut Stainless Steel (ASTM F594 316)
+Rite® Series Check Valve seat ring type part number: V0215SBZ211
+(For 2”, Class 150, Carbon Steel ASTM A216 WCB Body, BUNA-N
+Seat, SS Spacer, Series 211)
+Note: 1 Dimensions available in ASME and DIN sizes.
+8
+7
+Figure 04: Seat Ring Soft Seat In-Pipe View. Figure 05: Seat Ring Soft Seat Close-Up Cutaway
+Views.
+9
+10
+12
+11 13
+© 2025 BRAY INTERNATIONAL. ALL RIGHTS RESERVED. BRAY.COM EN_SDS_S211_SRSS_20250310 2 of 2

@@ -1,0 +1,905 @@
+=== page 1 ===
+SERIES 5A AND 5B
+VALVE STATUS MONITOR
+Installation, Operation and Maintenance Manual - Aluminum and Resin Bodies
+BRAY.COM THE HIGH PERFORMANCE COMPANY
+=== page 2 ===
+SERIES 5A AND 5B VALVE STATUS MONITOR
+Installation, Operation and Maintenance Manual
+Table of Contents
+1.0 Definition of Terms 3
+2.0 Hazard-Free Use 4
+3.0 Qualified Personnel 4
+4.0 Part Numbering System Reference Chart 5
+5.0 Introduction 6
+6.0 Principle of Operation 6
+7.0 Pre-Installation Storage 6
+8.0 Mounting 7
+8.1 Adjustable Bracket (stainless steel only) 7
+8.2 Fixed Bracket 9
+9.0 Accessing Internal Components 10
+9.1 Cover Removal 10
+9.2 Cover Installation 10
+10.0 Field Wiring 11
+11.0 Reversal of Visual Indication 13
+12.0 Position Adjustment 14
+13.0 Switch Ratings and Certifications 16
+14.0 Mounting Kits 20
+15.0 Basic Tools 20
+16.0 Troubleshooting Chart 21
+17.0 Exploded Views 22
+FOR MORE INFORMATION ON THIS PRODUCT AND OTHER BRAY PRODUCTS
+PLEASE VISIT OUR WEBSITE – bray.com
+© 2022 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM 2 of 26
+The Information contained herein shall not be copied, transferred, conveyed, or displayed in any manner
+that would violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 3 ===
+SERIES 5A AND 5B VALVE STATUS MONITOR
+Installation, Operation and Maintenance Manual
+READ AND FOLLOW THESE INSTRUCTIONS CAREFULLY.
+SAVE THIS MANUAL FOR FUTURE USE.
+1.0 DEFINITION OF TERMS
+All information within this manual is relevant to the safe operation and
+proper care of your Bray valve. Please understand the following examples of
+information used throughout this manual.
+SAFETY STATEMENTS: To prevent unwanted consequences. Standard symbols
+and classifications are:
+DANGER
+Indicates a potentially hazardous situation which, if not avoided, will result in
+death or serious injury.
+WARNING
+Indicates a potentially hazardous situation which, if not avoided, could result in
+death or serious injury.
+CAUTION
+Indicates a potentially hazardous situation which, if not avoided, could result in
+minor or moderate injury.
+NOTICE
+Used without the safety alert symbol, indicates a potential situation which, if
+not avoided, may result in an undesirable result or state, including property
+damage.
+© 2022 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM 3 of 26
+The Information contained herein shall not be copied, transferred, conveyed, or displayed in any manner
+that would violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 4 ===
+SERIES 5A AND 5B VALVE STATUS MONITOR
+Installation, Operation and Maintenance Manual
+2.0 HAZARD-FREE USE
+This device left the factory in proper condition to be safely installed and
+operated in a hazard-free manner. The notes and warnings in this document
+must be observed by the user if this safe condition is to be maintained and
+hazard-free operation of the device assured.
+Take all necessary precautions to prevent damage to the device due to rough
+handling, impact, or improper storage. Do not use abrasive compounds to
+clean the device, or scrape surfaces with any objects.
+Configuration and setup procedures for this device are described in this
+manual. Proper configuration and setup are required for the safe operation of
+this device.
+The control system in which this device is installed must have proper
+safeguards to prevent injury to personnel, or damage to equipment, should
+failure of system components occur.
+3.0 QUALIFIED PERSONNEL
+A qualified person in terms of this document is one who is familiar with
+the installation, commissioning and operation of the device and who has
+appropriate qualifications, such as:
+> Is trained in the operation and maintenance of electric equipment and
+systems in accordance with established safety practices.
+> Is trained or authorized to energize, de-energize, ground, tag and lock
+electrical circuits and equipment in accordance with established safety
+practices.
+> Is trained in the proper use and care of personal protective equipment
+(PPE) in accordance with established safety practices.
+> Is trained in first aid.
+> In cases where the device is installed in a potentially explosive
+(hazardous) location - is trained in the commissioning, operation, and
+maintenance of equipment in hazardous locations.
+WARNING
+The VSM must only be installed, commissioned, operated and repaired by
+qualified personnel.
+All installation, commissioning, operation and maintenance must be performed
+under strict observation of all applicable codes, standards and safety
+regulations.
+Reference is specifically made here to observe all applicable safety regulations
+for electrical equipment installed in potentially explosive (hazardous) locations.
+© 2022 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM 4 of 26
+The Information contained herein shall not be copied, transferred, conveyed, or displayed in any manner
+that would violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 5 ===
+SERIES 5A AND 5B VALVE STATUS MONITOR
+Installation, Operation and Maintenance Manual
+4.0 PART NUMBERING SYSTEM REFERENCE CHART
+Series Housing Product Switch Configuration Trim
+5X 000 H -126 S C T
+5X – Designates Housing Size
+5A Type 4,4x, IP 66/67, Max 2 switches
+5B Type 4,4x, IP 66/67, Max 6 switches
+H – Designates Housing Style
+0 Imperial
+5 Metric
+S – Designates Switch Option
+A SPDT Mechanical Switch
+B SPDT Mechanical Gold Plated Switch (Low Power)
+C PNP N.O., 3-Wire Switch
+D NPN N.O., 3-Wire Switch
+E PNP N.C., 3-Wire Switch
+F 140V, 2-Wire Switch
+G 250V, 2-Wire Switch
+K SPDT Reed Switch
+R NPN N.C., 3-Wire Switch
+S DPDT-DB Mechanical Switch
+C – Designates Switch Configuration
+2 2 Switches
+3 3 Switches, Independent
+4 4 Switches, Independent
+5 4 Switches (2 Independent, 2 Auxiliary)
+6 6 Switches (4 Independent, 2 Auxiliary)
+T – Trim
+536 Polyester coated aluminum
+517 Resin
+© 2022 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM 5 of 26
+The Information contained herein shall not be copied, transferred, conveyed, or displayed in any manner
+that would violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 6 ===
+SERIES 5A AND 5B VALVE STATUS MONITOR
+Installation, Operation and Maintenance Manual
+5.0 INTRODUCTION
+The Bray Series 5A and 5B Valve Status Monitors (VSM) provide visual and
+electrical indication of position of any VDI/VDE 3845 compliant quarter-turn
+device.
+6.0 PRINCIPLE OF OPERATION
+Bray Series 5A and 5B VSMs are comprised of a NEMA Type 4/4X housing
+with external position indicator and two conduit entries, cam shaft with
+self-locking cams, elevated terminal block, internal grounding screw, and
+mounting bracket.
+The VSM is coupled to the quarter turn device via the indicator shaft.
+Rotation of the indicator shaft, in turn, drives the cams and activates the
+switch. The angular position in which the switches activate can be adjusted
+through the self-locking cams. Mechanical or proximity activation of switches
+provides electrical feedback of achieved position through field wiring to a
+control network.
+7.0 PRE-INSTALLATION STORAGE
+Bray Series 5A and 5B VSMs are not weatherproof until the unit is properly
+installed, or all conduits and applicable port connections are sealed off and
+prepared for storage. The units may be shipped with temporary covers to
+prevent foreign matter from entering through the conduit openings; however,
+the user is responsible for replacing with the proper sealing plugs to support
+its NEMA/IP ratings.
+To prevent condensation from forming inside the unit, maintain a near
+constant external temperature and store indoors in a well ventilated, clean,
+dry room. The temperature shall be between 40°F (4°C) and 85°F (29°C),
+with a relative humidity less than 70%. Store units away from vibration and
+direct sunlight exposure, and place units on a shelf or wooden pallet in order
+to protect against dampness. Keep units covered to protect against dust and
+dirt; if storing for long term, placing the unit inside a plastic sealed bag may
+be preferred.
+Bray cannot accept responsibility for deterioration caused on-site once the
+cover is removed or due to improper storage.
+NOTICE
+Units are shipped with two screw-in plugs to prevent foreign matter from
+entering the unit. To prevent condensation from forming inside these units,
+maintain a near constant external temperature and store in a well-ventilated,
+clean, dry room away from vibration.
+Store units on a shelf or wooden pallet in order to protect against dampness.
+Keep units covered to protect against dust and dirt.
+Storage temperature should be maintained between -25°C and 65°C
+© 2022 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM 6 of 26
+The Information contained herein shall not be copied, transferred, conveyed, or displayed in any manner
+that would violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 7 ===
+SERIES 5A AND 5B VALVE STATUS MONITOR
+Installation, Operation and Maintenance Manual
+8.0 MOUNTING
+All Bray Series 5A and 5B VSMs are suitable for mounting to VDI/VDE 3845
+compliant quarter-turn devices using standard mounting hardware. With
+proper mounting hardware, VSMs can be installed onto other quarter-turn
+devices. Mounting instructions may vary when using alternative mounting
+hardware.
+8.1 Adjustable Bracket (stainless steel only)
+Bray's 3 piece adjustable bracket is designed to mount on both NAMUR
+30x80 and 30x130 patterns. Installation is as follows:
+1. Disassemble two mounting bracket foot plates from top plate.
+a. Continue to Step 6 if the mounting bracket top plate was pre-installed.
+2. Lightly coat mounting bracket bolt threads with grease.
+3. Place lock washer onto bolts.
+4. Place nylon washer in between mounting bracket and bottom of the VSM.
+5. Attach mounting bracket and nylon washers to the VSM using mounting
+bracket bolts.
+a. aTighten mounting bolts in a cross pattern to 70.8 lbs-in [8Nm]
+b. bEnsure that the bracket remains aligned with the body of the VSM.
+6. Place lock washers on foot plate mounting bolts.
+© 2022 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM 7 of 26
+The Information contained herein shall not be copied, transferred, conveyed, or displayed in any manner
+that would violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 8 ===
+SERIES 5A AND 5B VALVE STATUS MONITOR
+Installation, Operation and Maintenance Manual
+7. Attach two mounting bracket foot plates to the quarter-turn device.
+a. Tighten mounting bracket foot plates to 44.3 lbs-in. [5N m]
+30 x 130
+NAMUR pad
+30 x 80
+NAMUR pad
+8. Attach coupler or adapter if provided.
+9. Adjust the VSM cam shaft to align with the actuator shaft or coupler.
+a. Adjust bracket plates as needed.
+10. Connect the mounting bracket top plate to both bracket feet using bolts.
+a. Adjust height of the bracket by choosing mounting hole.
+b. Tighten bolts to 44.3 lbs-in [5N m]
+© 2022 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM 8 of 26
+The Information contained herein shall not be copied, transferred, conveyed, or displayed in any manner
+that would violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 9 ===
+SERIES 5A AND 5B VALVE STATUS MONITOR
+Installation, Operation and Maintenance Manual
+8.2 Fixed Bracket
+8.2.1 Stainless Steel Bracket
+Bray's single piece stainless steel bracket is used for NAMUR pattern 30 x 80.
+Installation is as follows:
+1. Attach mounting bracket and nylon washers to the VSM using mounting
+bracket bolts.
+a. Tighten mounting bolts in a cross pattern to 70.8 lbs-in [8N m]
+b. Ensure that the bracket remains aligned with the body of the VSM.
+2. Place VSM and bracket assembly on actuator. Ensure VSM shaft engages
+with actuator pinion.
+3. Install bracket mounting bolts with lock washers as seen below.
+a. Tighten mounting bracket bolts to 44.3 lbs-in [5Nm].
+8.2.2 Resin Brackets
+Bray's single piece resin brackets are available for NAMUR pattern 30 x 80
+and 30 x 130 (based on actuator selection). Installation is as follows:
+1. Attach mounting bracket to the VSM using mounting bracket bolts.
+a. Tighten mounting bolts in a cross pattern to 35 lbs-in [4Nm]
+b. Ensure that the bracket remains aligned with the body of the VSM.
+2. Place VSM and bracket assembly on actuator. Ensure VSM shaft engages
+with actuator pinion.
+3. Install bracket mounting bolts with lock washers as seen below.
+a. Tighten mounting bracket bolts to 35 lbs-in [4Nm].
+© 2022 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM 9 of 26
+The Information contained herein shall not be copied, transferred, conveyed, or displayed in any manner
+that would violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 10 ===
+SERIES 5A AND 5B VALVE STATUS MONITOR
+Installation, Operation and Maintenance Manual
+9.0 ACCESSING INTERNAL COMPONENTS
+Access to the S5A/S5B internals is done by removing the cover from the
+unit. The steps for removal are as follows:
+9.1 Cover Removal
+1. Loosen captive cover bolts. The S5A contains 4 bolts and the S5B contain
+6 bolts located around the perimeter of the unit.
+2. Pull the cover up and away from unit. Do not use a wedge device to
+remove cover.
+X
+X
+3. Perform internal adjustment. Reference position adjustment section.
+9.2 Cover Installation
+1. Insure o-ring is seated in the o-ring groove.
+2. Press on cover insuring captive bolts are aligned with the bolt holes.
+3. Tighten cover bolts to 13-18 lb-in.
+© 2022 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM 10 of 26
+The Information contained herein shall not be copied, transferred, conveyed, or displayed in any manner
+that would violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 11 ===
+SERIES 5A AND 5B VALVE STATUS MONITOR
+Installation, Operation and Maintenance Manual
+10.0 FIELD WIRING
+Bray Series 5A VSMs are assembled with a numbered Euro style 8-pole
+terminal block. Bray Series 5B VSMs may be assembled with either a
+numbered Euro style 12-pole terminal block or with two numbered and
+lettered Euro style 10-pole terminal blocks. Number of terminal blocks are
+dependent on the switch model and switch configuration. All switches are
+pre-wired into the terminal block. Several features have been designed to
+help ease field wiring:
+> Terminal blocks are angled towards the cover opening.
+> Wiring diagram is attached to the inside of cover.
+> Two conduit openings are provided.
+WARNING
+Turn off all power and lock out service panel before installing or modifying any
+electrical wiring.
+NOTICE
+> Do not re-machine the conduit entry threads or create any new holes in the
+enclosure.
+> Do not remove the screw-in conduit plugs until it is time to wire into the
+unit's terminal blocks.
+> Do not tamper with or modify any exposed O-rings or gaskets.
+> A minimum of 18 AWG wire is recommended for all field wiring.
+> The terminals inside the VSM accept wire sizes ranging from 14 to 20 AWG.
+> The conduit connections must be properly sealed to maintain the
+weatherproof integrity of the VSM enclosure.
+Bray Series 5A and 5B VSMs should be wired as follows:
+1. Remove the cover of the VSM.
+2. Remove the conduit plug(s).
+3. Install appropriate cable or conduit fittings required to meet application
+needs and VSM weatherproof requirements.
+4. Terminate the field wiring per the wiring diagram attached to the inside
+of the cover.
+a. Tighten wires in terminal block to 3.5 lb-in [0.4 Nm].
+5. Re-attach VSM cover once position adjustment has been completed.
+a. Tighten cover bolts in a cross pattern to 13-18 lb-in [1.5-2.0 Nm].
+NOTICE
+Do not use power tools to tighten the cover screws.
+© 2022 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM 11 of 26
+The Information contained herein shall not be copied, transferred, conveyed, or displayed in any manner
+that would violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 12 ===
+SERIES 5A AND 5B VALVE STATUS MONITOR
+Installation, Operation and Maintenance Manual
+NOTICE
+If the valve status monitor is mounted on a vertical pipe, it is recommended
+that the unit be positioned with the conduit entries on the bottom to prevent
+condensation from entering through the conduits.
+In all cases, the conduit should be positioned to prevent drainage into the valve
+status monitor. In some cases the use of an "S" pipe can be used to prevent
+water ingress.
+Refer to the figures below.
+Conduit Entries
+VSM Imperial Metric
+S5A 2 x 1/2" NPT 2 x M20
+S5B 2 x 3/4" NPT 2 x M25
+© 2022 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM 12 of 26
+The Information contained herein shall not be copied, transferred, conveyed, or displayed in any manner
+that would violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 13 ===
+SERIES 5A AND 5B VALVE STATUS MONITOR
+Installation, Operation and Maintenance Manual
+11.0 REVERSAL OF VISUAL INDICATION
+Visual indication can be reversed per application
+requirements without the need to re-mount the
+VSM. This may also be appropriate if the standard
+orientation of the VSM is not convenient for the
+application such as field wiring entry direction do
+not align with conduit entries.
+NOTICE
+Ensure that open and close cams are properly set
+after any modification to visual indication.
+Bray Series 5A and 5B VSM visual indication can
+be reversed as follows:
+1. Remove all four Indicator dome bolts with lock
+washers.
+2. Rotate the indicator 90° in either direction.
+3. Remount the indicator dome bolts with lock
+washers.
+a. Tighten bolts in a cross pattern to 13-18
+lb-in [1.5-2 Nm].
+b. Ensure that o-ring is secure in indicator
+dome and is not pinched when dome is
+re-installed.
+NOTE: The indicator dome of the 5A Resin VSM is
+part of the cover. Remove the cover for indication
+reversal.
+© 2022 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM 13 of 26
+The Information contained herein shall not be copied, transferred, conveyed, or displayed in any manner
+that would violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 14 ===
+SERIES 5A AND 5B VALVE STATUS MONITOR
+Installation, Operation and Maintenance Manual
+12.0 POSITION ADJUSTMENT
+A single lobed or doubled lobed cam is provided for every independent/
+main switch. Double lobed cams are provided in the S5B when the switch
+configuration could include an auxiliary switch. Double lobed cams will
+activate both main and auxiliary switches at the same time.
+Cams are mounted to the indicator shaft, alternating between red and yellow
+and are independently adjustable by hand in 3.6° increments. No special
+tools are needed for this adjustment. The self-locking design ensures that
+cams will not slip position.
+The bottom red cam is intended to indicate the close position while the
+bottom yellow cam is intended to indicate the open position. Both of the
+switches associated with these cams are labeled accordingly. An additional
+red and yellow cam may be installed in the S5B and can be used for mid-
+travel position indication or to provide an additional auxiliary open and close
+indication. Mid-travel switches are unlabeled.
+Closed Travel Indication Adjustment
+1. Operate the quarter turn device until it reaches the desired closed
+position.
+2. Pull the bottom red close cam upwards towards the yellow cam to
+disengage the cam from the fixed cam holder.
+3. While the cam is disengaged, rotate the cam to the position that will
+activate the close switch.
+a. NOTE: Do not attempt to adjust cams prior to disengaging the cam
+from the fixed cam holder.
+4. Release the cam and allow the locking spring to re-engage the cam with
+the fixed cam holder.
+Open Travel Indication Adjustment
+1. Operate the quarter turn device until it reaches the desired open position.
+2. Push the bottom yellow open cam towards the bottom red cam
+to disengage the cam from the fixed cam holder.While the cam is
+disengaged, rotate the cam to the position that will activate the open
+switch.
+a. NOTE: Do not attempt to adjust cams prior to disengaging the cam
+from the fixed cam holder.
+3. Release the cam and allow the locking spring to re-engage the cam with
+the fixed cam holder.
+© 2022 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM 14 of 26
+The Information contained herein shall not be copied, transferred, conveyed, or displayed in any manner
+that would violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 15 ===
+SERIES 5A AND 5B VALVE STATUS MONITOR
+Installation, Operation and Maintenance Manual
+Mid-Travel Indication Adjustment
+1. Operate the quarter turn device until it reaches the desired mid-travel
+position.
+2. Disengage the cam from the cam holder.
+a. NOTE: Mid-travel cams are disengaged similarly to the open and close
+cams.
+3. While the cam is disengaged, rotate the cam to the position that will
+activate the mid-travel switch.
+a. NOTE: Do not attempt to adjust cams prior to disengaging the cam
+from the fixed cam holder.
+4. Release the cam and allow the locking spring to re-engage the cam with
+the fixed cam holder.
+NOTICE
+Test unit for proper switch activation prior to commissioning VSM into service.
+© 2022 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM 15 of 26
+The Information contained herein shall not be copied, transferred, conveyed, or displayed in any manner
+that would violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 16 ===
+SERIES 5A AND 5B VALVE STATUS MONITOR
+Installation, Operation and Maintenance Manual
+1 YELLOW 2 BLUE 3 RED 4 YELLOW 5 BLUE 6 RED 7 8
+© 2022 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM 16 of 26
+The Information contained herein shall not be copied, transferred, conveyed, or displayed in any manner
+that would violate its proprietary nature without the express written permission of Bray International, Inc.
+:SETON .GWA 02-41 :EGUAG ERIW
+)1
+.SBL-NI 5.3 :EUQROT MRET
+)2
+NI NWOHS SEHCTIWS
+)3
+.ETATS DETAVITCAED
+5B - Option A - (2) SPDT
+Mechanical Switches
+YELLOW BLUE RED YELLOW BLUE RED
+5A - Option B - (2) SPDT Low Power
+Mechanical Switches
+RED CAM (CLOSE) YELLOW CAM (OPEN)
+GROUND WD-000197
+:SETON
+.GWA 02-41 :EGUAG
+ERIW
+)1
+.SBL-NI 5.3 :EUQROT
+MRET
+)2
+NI NWOHS SEHCTIWS
+)3
+.ETATS DETAVITCAED 1 RED 7 2 CAM 8 3 (CLOSE) 9 4 YELLOW 10 5 CAM 11 6 (OPEN) 12
+GROUND WD-000385
+5B - Option B - (2) SPDT Low Power
+Mechanical Switches
+YELLOW BLUE RED YELLOW BLUE RED :SETON .GWA 02-41 :EGUAG ERIW
+)1
+.SBL-NI 5.3 :EUQROT MRET
+)2
+NI NWOHS SEHCTIWS
+)3
+.ETATS DETAVITCAED 2 1 R C E A D M 7 3 (CLOSE) 8 9 4 5 Y C EL A L M OW 10 6 (OPEN) 11 GROUND 12
+WD-000383
+5B - Option S - (2) DPDT Mechanical Switches
+YELLOW YELLOW
+PURPLE PURPLE YELLOW YELLOW
+PURPLE PURPLE BLUE BLUE RED RED
+BLUE BLUE
+RED RED :SETON
+.GWA
+02-41 :EGUAG
+ERIW
+)1
+.SBL-NI
+5.3 :EUQROT
+MRET
+)2
+NI NWOHS
+SEHCTIWS
+)3
+.ETATS DETAVITCAED
+ETISOPPO
+ERIW
+TON OD
+)4
+OT
+STIUCRIC
+YTIRALOP
+.HCTIWS
+EMAS
+EHT
+WD-000349
+DNUORG
+5A - Option A - (2) SPDT
+Mechanical Switches
+YELLOW BLUE RED YELLOW BLUE RED
+WD-000177
+1 A
+2 B 3 C
+4 R C E A D M YE C L A L M OW D 5 (CLOSE) (OPEN) E 6 F
+7 G
+8 H 9 J
+10 K
+:SETON
+.GWA 02-41 :EGUAG
+ERIW
+)1
+.SBL-NI 5.3 :EUQROT
+MRET
+)2
+NI NWOHS SEHCTIWS
+)3
+.ETATS DETAVITCAED
+13.0 SWITCH RATINGS AND CERTIFICATIONS
+Most Bray Series 5A and 5B VSMs hold cULus certification under UL file
+E152613. See lists below for switch ratings and approval status.
+Mechanical Switches
+Mechanical Switches SPDT SPDT Low Power DPDT-DB
+Switch Option A B S
+Switch Ratings 10A, 250V AC 0.1A, 125V AC 10A, 250V AC
+1/2 HP, 250V AC 0.1A, 30V DC 3/4 HP, 250V AC
+0.25A, 250V DC 1mA, 4V AC/dc min 10A, 28V DC Res.
+0.5A, 125V DC 7A, 28V DC Ind.
+Max Number of Switches – 5A 2 2 N/A
+Max Number of Switches – 5B 6 6 2
+Approvals cULus cULus cULus
+1 RED 2 CAM 3 (CLOSE) 4 YELLOW 5 CAM 6 (OPEN)
+7 8
+GROUND
+=== page 17 ===
+SERIES 5A AND 5B VALVE STATUS MONITOR
+Installation, Operation and Maintenance Manual
+5A - Option C - (2) PNP N.O 3-wire Switches
+V 1 BROWN RED V LOAD 2 3 B B L L U A E CK B ( C C O A L T M O T S O E M ) V 4 BROWN YELLOW V LOAD 5 6 B B L L U A E CK ( C T O O A P P M EN) 7 8
+© 2022 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM 17 of 26
+The Information contained herein shall not be copied, transferred, conveyed, or displayed in any manner
+that would violate its proprietary nature without the express written permission of Bray International, Inc.
+:SETON .GWA 02-41 :EGUAG ERIW
+)1
+.SBL-NI 5.3 :EUQROT MRET
+)2
+NI NWOHS SEHCTIWS
+)3
+.ETATS DETAVITCAED
+5B - Option C - (2) PNP N.O 3-wire Switches
+V 1+ V1- LOAD V2+ V2- LOAD
+GROUND WD-000180 :SETON
+.GWA 02-41 :EGUAG
+ERIW
+)1
+.SBL-NI 5.3 :EUQROT
+MRET
+)2
+NI NWOHS SEHCTIWS
+)3
+.ETATS DETAVITCAED 2 1 B B R LA O C W K N R C E A D M 7 8 3 BLUE (CLOSE) 9 4 5 B B R LA O C W K N YE C L A L M OW 1 1 0 1 6 BLUE (OPEN) 12
+GROUND WD-000202
+V 1 BROWN RED V LOAD 2 3 B B L L U A E CK B ( C C O A L T M O T S O E M ) V 4 BROWN YELLOW V LOAD 5 6 B B L L U A E CK ( C T O O A P P M EN) 7 8 :SETON .GWA 02-41 :EGUAG ERIW
+)1
+.SBL-NI 5.3 :EUQROT MRET
+)2
+NI NWOHS SEHCTIWS
+)3
+.ETATS DETAVITCAED
+5A - Option E - (2) PNP N.C 3-wire Switches 5B - Option E - (2) PNP N.C 3-wire Switches
+V1+ V1- LOAD V2+ V2- LOAD
+GROUND WD-000196 :SETON
+.GWA 02-41 :EGUAG
+ERIW
+)1
+.SBL-NI 5.3 :EUQROT
+MRET
+)2
+NI NWOHS SEHCTIWS
+)3
+.ETATS DETAVITCAED 2 1 B B R LA O C W K N R C E A D M 7 8 3 BLUE (CLOSE) 9 4 5 B B R LA O C W K N YE C L A L M OW 1 1 0 1 6 BLUE (OPEN) 12
+GROUND WD-000204
+V 1 BROWN RED V LOAD 2 3 B B L L U A E CK B ( C C O A L T M O T S O E M ) V 4 BROWN YELLOW V LOAD 5 6 B B L L U A E CK ( C T O O A P P M EN) 7 8 :SETON .GWA 02-41 :EGUAG ERIW
+)1
+.SBL-NI 5.3 :EUQROT MRET
+)2
+NI NWOHS SEHCTIWS
+)3
+.ETATS DETAVITCAED
+5A - Option D - (2) NPN N.O 3-wire Switches 5B - Option D - (2) NPN N.O 3-wire Switches
+V 1+ LOAD V1- V2+ LOAD V2-
+GROUND WD-000195
+:SETON .GWA 02-41 :EGUAG ERIW
+)1
+.SBL-NI 5.3 :EUQROT MRET
+)2
+NI NWOHS SEHCTIWS
+)3
+.ETATS DETAVITCAED 2 1 B B R LA O C W K N R C E A D M 7 8 3 BLUE (CLOSE) 9 4 5 B B R LA O C W K N YE C L A L M OW 1 1 0 1 6 BLUE (OPEN) 12
+GROUND WD-000203
+V 1 BROWN RED LOAD 2 BLACK B C O A T M TOM V 3 BLUE (CLOSE) V 4 BROWN YELLOW LOAD 5 BLACK C TO A P M V 6 BLUE (OPEN) 7 8 :SETON .GWA 02-41 :EGUAG ERIW
+)1
+.SBL-NI 5.3 :EUQROT MRET
+)2
+NI NWOHS SEHCTIWS
+)3
+.ETATS DETAVITCAED
+5A - Option R - (2) NPN N.C 3-wire Switches 5B - Option R - (2) NPN N.C 3-wire Switches
+V 1+ LOAD V1- V2+ LLOOAADD V2-
+GROUND WD-000375
+:SETON .GWA 02-41 :EGUAG ERIW
+)1
+.SBL-NI 5.3 :EUQROT MRET
+)2
+NI NWOHS SEHCTIWS
+)3
+.ETATS DETAVITCAED
+3-Wire DC Inductive Proximity Switches
+3-Wire DC Proximity Switches PNP N.O. PNP N.C. NPN N.O. NPN N.C.
+Switch Option C E D R
+Power Supply Class 2 Class 2 Class 2 Class 2
+Operating Voltage 10-30V DC 10-30V DC 10-30V DC 10-30V DC
+Load Current ≤ 100 mA ≤ 100 mA ≤ 100 mA ≤ 100 mA
+Current Consumption ≤ 15 mA ≤ 15 mA ≤ 15 mA ≤ 15 mA
+Leakage Current ≤ 0.5 mA ≤ 0.5 mA ≤ 0.5 mA ≤ 0.5 mA
+Voltage Drop ≤ 3V ≤ 3V ≤ 3V ≤ 3V
+Max Number of Switches – 5A 2 2 2 2
+Max Number of Switches – 5B 6 6 6 6
+Approvals cULus cULus cULus N/A
+2 1 B B R LA O C W K N R C E A D M 7 8 3 BLUE (CLOSE) 9 4 5 B B R LA O C W K N YE C L A L M OW 1 1 0 1 6 BLUE (OPEN) 12
+GROUND WD-000376
+=== page 18 ===
+SERIES 5A AND 5B VALVE STATUS MONITOR
+Installation, Operation and Maintenance Manual
+2-Wire Inductive Proximity Switches
+2-Wire Proximity Switches 140V N.O. 250V N.O.
+Switch Option F G
+Operating Voltage 20-140V AC 20-250V AC
+10-140V DC 10-300V DC
+Load Current 5-200 mA ≤ 100 mA
+Leakage Current ≤ 0.8 mA ≤ 1.7 mA
+Voltage Drop ≤ 7V ≤ 6V
+Max Number of Switches – 5A 2 2
+Max Number of Switches – 5B 6 6
+Approvals cULus N/A
+1 BROWN 2 BLUE 3 4 5 6 7
+8
+© 2022 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM 18 of 26
+The Information contained herein shall not be copied, transferred, conveyed, or displayed in any manner
+that would violate its proprietary nature without the express written permission of Bray International, Inc.
+CD/CA RED CAM BOTTOM (CLOSE) BROWN YELLOW LOAD BLUE C TO A P M (OPEN)
+:SETON
+.GWA 02-41 :EGUAG
+ERIW
+)1
+.SBL-NI 5.3 :EUQROT
+MRET
+)2
+NI NWOHS SEHCTIWS
+)3
+.ETATS DETAVITCAED LOAD
+GROUND WD-000178
+CD/CA
+5A - Option F - (2)140V N.O
+2-wire Switches
+1 BROWN 2 BLUE 3 4 5 6
+7
+8
+CD/CA RED CAM BOTTOM (CLOSE) BROWN YELLOW LOAD BLUE C TO A P M (OPEN)
+:SETON
+.GWA 02-41 :EGUAG
+ERIW
+)1
+.SBL-NI 5.3 :EUQROT
+MRET
+)2
+NI NWOHS
+SEHCTIWS
+)3
+.ETATS DETAVITCAED LOAD
+GROUND WD-000222
+CD/CA
+1 BROWN 2 BLUE 7 8 3 9 LOAD 4 10
+5 11
+6 12
+5A - Option G - (2)250V N.O
+2-wire Switches
+:SETON
+.GWA 02-41 :EGUAG
+ERIW
+)1
+.SBL-NI 5.3 :EUQROT
+MRET
+)2
+NI NWOHS
+SEHCTIWS
+)3
+.ETATS DETAVITCAED LOAD
+GROUND WD-000205
+CD/CA BROWN BLUE CD/CA
+5B - Option F - (2)140V N.O
+2-wire Switches
+RED CAM (CLOSE) YELLOW CAM (OPEN)
+1 7 2 8 3 9 4 10
+5 11
+6 12 :SETON
+.GWA 02-41 :EGUAG
+ERIW
+)1
+.SBL-NI 5.3 :EUQROT
+MRET
+)2
+NI NWOHS
+SEHCTIWS
+)3
+.ETATS DETAVITCAED BROWN LOAD BLUE LOAD
+GROUND WD-000223
+CD/CA BROWN BLUE CD/CA
+5B - Option G - (2)250V N.O
+2-wire Switches
+RED CAM (CLOSE) YELLOW CAM (OPEN)
+=== page 19 ===
+SERIES 5A AND 5B VALVE STATUS MONITOR
+Installation, Operation and Maintenance Manual
+Reed Switches
+Reed Switches SPDT
+Switch Option K
+Switch Ratings 180mA, 110V AC
+830A, 24V DC
+Max Power 20W
+Max Number of Switches – 5A 2
+Max Number of Switches – 5B 6
+Approval N/A
+BROWN GREEN WHITE BROWN GREEN WHITE
+WD-000495
+© 2022 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM 19 of 26
+The Information contained herein shall not be copied, transferred, conveyed, or displayed in any manner
+that would violate its proprietary nature without the express written permission of Bray International, Inc.
+:SETON .GWA 02-41 :EGUAG ERIW
+)1
+.SBL-NI 5.3 :EUQROT MRET
+)2
+NI NWOHS SEHCTIWS
+)3
+.ETATS DETAVITCAED
+5A - Option K - (2) Reed SPDT Switches
+1 RED BROWN 2 CAM GREEN 3 (CLOSE) WHITE 4 YELLOW 5 6 (O C P A E M N) B G R R O EE W N N 7 WHITE 8
+GROUND
+:SETON .GWA 02-41 :EGUAG ERIW
+)1
+.SBL-NI 5.3 :EUQROT MRET
+)2
+NI NWOHS SEHCTIWS
+)3
+.ETATS DETAVITCAED
+5B - Option K - (2) Reed SPDT Switches
+1 RED 7 2 CAM 8 3 (CLOSE) 9 4 YELLOW 10 5 CAM 11 6 (OPEN) 12
+GROUND WD-000584
+=== page 20 ===
+SERIES 5A AND 5B VALVE STATUS MONITOR
+Installation, Operation and Maintenance Manual
+14.0 MOUNTING KITS
+Bracket NAMUR Actuator Actuator
+VSM / Actuator Std. Part No.
+Type Pattern Series Size
+Imperial / Imperial 5B0000-22600534
+92 / 93 063 - 128
+Single Metric / Metric 5B0000-22650534
+30 x 80
+Piece Imperial / Metric 5B0000-22630534
+98 All
+Metric / Metric 5B0000-22650534
+063 - 210 Imperial / Imperial 5B0000-22601534
+92 / 93 063 - 255 Metric / Metric 5B0000-22651534
+30 x 80
+Adjustable or 255 Imperial / Metric 5B0000-22631534
+30 x 130
+Imperial / Metric 5B0000-22631534
+98 All
+Metric / Metric 5B0000-22651534
+15.0 BASIC TOOLS
+Common To All Units
+Terminal Connections Screwdriver, ¼” tip flat blade
+All switches, terminal strip Screwdriver, No. 1 Phillips
+Ground screw Screwdriver, No. 2 Phillips
+Imperial Style Housing
+Indicator Dome Wrench, 5/16”
+Cover Bolt, Imperial Hex Key, 5/32”
+S5A Conduit Entry – ½” NPT Hex Key, 3/8”
+S5B Conduit Entry – ¾” NPT Hex Key, 9/16”
+Mounting Bracket Bolts Wrench, 5/16" & 7/16"
+Metric Style Housing
+Indicator Dome Wrench, 8mm
+Cover Bolt, Metric Hex Key, 4mm
+S5A Conduit Entry – M20 Screwdriver, No. 3 Phillips
+S5B Conduit Entry – M25 Screwdriver, No. 3 Phillips
+Mounting Bracket Bolts Wrench, 8mm & 10mm
+© 2022 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM 20 of 26
+The Information contained herein shall not be copied, transferred, conveyed, or displayed in any manner
+that would violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 21 ===
+SERIES 5A AND 5B VALVE STATUS MONITOR
+Installation, Operation and Maintenance Manual
+16.0 TROUBLESHOOTING CHART
+Problem Possible Cause Solutions
+Wiring is not connected Rewire field wiring and
+inside VSM check applied torque to
+terminal block
+Signal is not received Cams are set outside of Adjust cam position
+actuator range
+Damage to switches Check power ratings of
+switches versus application
+Open signal is received Field wiring is reversed Rewire field wiring
+in close position (or
+vice versa)
+Condensation forming Seal conduit opening
+Corrosion inside unit Water ingress Check all seals and possible
+water entry through
+conduit
+Visual indication is Visual indication was Reverse visual indication or
+opposite of actuator reversed or VSM was remount VSM.
+position mounted 90°
+Bracket or adapter does not Check bracket and adapter
+mate properly with actuator. for proper fit and adjust as
+needed.
+VSM does not rotate
+Actuator is not moving as Check troubleshooting
+commanded chart in actuator IOM.
+Check field wiring.
+© 2022 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM 21 of 26
+The Information contained herein shall not be copied, transferred, conveyed, or displayed in any manner
+that would violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 22 ===
+SERIES 5A AND 5B VALVE STATUS MONITOR
+Installation, Operation and Maintenance Manual
+17.0 EXPLODED VIEWS
+Exploded View 5A - Aluminum
+9
+1
+8
+2
+3
+4
+5
+7a
+6a
+© 2022 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM 22 of 26
+The Information contained herein shall not be copied, transferred, conveyed, or displayed in any manner
+that would violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 23 ===
+SERIES 5A AND 5B VALVE STATUS MONITOR
+Installation, Operation and Maintenance Manual
+Exploded View 5A - Resin
+6
+3
+5
+© 2022 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM 23 of 26
+The Information contained herein shall not be copied, transferred, conveyed, or displayed in any manner
+that would violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 24 ===
+SERIES 5A AND 5B VALVE STATUS MONITOR
+Installation, Operation and Maintenance Manual
+Exploded View 5B - Aluminum
+1
+2
+9
+8
+3
+4
+5
+7b
+6b
+© 2022 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM 24 of 26
+The Information contained herein shall not be copied, transferred, conveyed, or displayed in any manner
+that would violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 25 ===
+SERIES 5A AND 5B VALVE STATUS MONITOR
+Installation, Operation and Maintenance Manual
+Exploded View 5B - Resin
+© 2022 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM 25 of 26
+The Information contained herein shall not be copied, transferred, conveyed, or displayed in any manner
+that would violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 26 ===
+SINCE 1986, BRAY HAS PROVIDED FLOW CONTROL SOLUTIONS
+FOR A VARIETY OF INDUSTRIES AROUND THE WORLD
+VISIT BRAY.COM TO LEARN MORE ABOUT
+BRAY PRODUCTS AND LOCATIONS NEAR YOU
+HEADQUARTERS
+BRAY INTERNATIONAL, INC.
+13333 Westland East Blvd
+Houston, Texas 77041
+Tel: 281 894 5454
+All statements, technical information, and recommendations in this bulletin are for
+general use only. Consult Bray representatives or factory for the specific requirements
+and material selection for your intended application. The right to change or modify
+product design or product without prior notice is reserved. Patents issued and
+applied for worldwide.
+Bray® is a registered trademark of BRAY INTERNATIONAL, Inc.
+© 2022 Bray International, Inc. All rights reserved. IOM_Series 5A_5B Aluminum_Resin VSM_Halfsize_20221012
+THE HIGH PERFORMANCE COMPANY BRAY.COM

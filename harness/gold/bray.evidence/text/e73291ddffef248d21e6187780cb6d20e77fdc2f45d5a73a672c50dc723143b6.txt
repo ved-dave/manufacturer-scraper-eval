@@ -1,0 +1,73 @@
+=== page 1 ===
+SERIES KCA
+LINEAR POSITION SENSOR
+OVERVIEW SPECIFICATIONS
+Bray’s linear position sensor provides precise, continuous Power Supply Range 12V DC to 32V DC
+position monitoring through the full stroke of a linear actuator. Recommend¹ > 24VDC standard
+> 110/120VAC is optional using
+It is designed for seamless integration with Bray’s Knife Gate external power supply
+pneumatic actuator and can be easily retrofitted in the field.
+Operating Temp Range -30°C to 100°C | -22°F to 212°F
+Analog Output > 4 to 20 mA DC
+HOW IT WORKS > 0 to 20 mA DC is optional
+Applications > On / Off
+> Modulating
+The sensor operates via a cable actuated mechanism attached
+to the actuator’s piston head. It detects the rotation of the Linear Tolerance ± 0.5%
+draw cable through a contactless sensor system, which then Enclosure Carbon Steel
+calculates the linear travel and outputs the data as an analog Enclosure Rating IP67
+current or voltage signal.
+NOTES:
+1 The external power supply will be sourced from third party.
+FEATURES AND BENEFITS
+1 LEVERLESS: Integrated sensor eliminates the need for
+M12 Connector
+traditional linkage devices.
+2 DURABLE AND ROBUST: Housing constructed with
+carbon steel with epoxy-based polyurethane coating.
+Linear Sensor
+3 REDUCED WIRING: Simple wiring scheme is easier to
+maintain compared to traditional discrete switches.
+4 PLUG AND PLAY: Connects effortlessly via M12
+connector.
+5 PROTECTED FROM HOSTILE ENVIRONMENTS: Fully
+encapsulated electronic components ensure long-term Stainless Steel
+reliability and performance. Linkage Cable
+6 RELIABLE AND STABLE: Designed to withstand high
+vibration and shock, with no loss of position on power
+down.
+7 FAST AND EASY INSTALLATION: Easily field
+retrofittable, and quick and easy installation on existing
+or legacy Bray linear actuator.
+© 2025 BRAY INTERNATIONAL. ALL RIGHTS RESERVED. BRAY.COM EN_SDS_KCA LINEAR POSITION SENSOR_20250508 1 of 2
+=== page 2 ===
+SERIES KCA
+LINEAR POSITION SENSOR
+ELEVATE YOUR CONTROL WITH S6A AND
+INTEGRATED LINEAR SENSOR.
+The linear sensor effortlessly connects with Bray’s Series
+6A smart positioner, relieving the positioner from the need
+for conventional mechanical linkages that are vulnerable to
+environmental conditions for valve position detection.
+This design offers greater flexibility by enabling the S6A
+positioner to be mounted separately from the valve.
+Stroke measurement is performed directly on the actuator
+utilizing the linear sensor. As a result, the positioner
+can be positioned away from the valve and actuator,
+with connections made electrically through cables and
+pneumatically via tubes or pipes.
+24V 2
+DC
+1
+3
+Linear
+6 5
+Actuator
+4
+1 Electric cable
+2 KCA Linear Sensor
+3 Pneumatic Connection
+4 Pneumatic Connection for double-acting actuators
+5 Series 6A
+6 Retrofitted AIM Module (in device)
+© 2025 BRAY INTERNATIONAL. ALL RIGHTS RESERVED. BRAY.COM EN_SDS_KCA LINEAR POSITION SENSOR_20250508 2 of 2

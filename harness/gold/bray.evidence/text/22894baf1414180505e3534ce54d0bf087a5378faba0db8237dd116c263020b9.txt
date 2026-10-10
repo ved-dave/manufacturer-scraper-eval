@@ -1,0 +1,1253 @@
+=== page 1 ===
+BRAY
+RESILIENT SEATED BUTTERFLY VALVES
+Installation, Operation and Maintenance Manual
+20/21 | 22/23 | 30/31 | 3A/3AH | 31H | 31U | 32/33 | 35/36 | 36H
+BRAY.COM THE HIGH PERFORMANCE COMPANY
+=== page 2 ===
+BRAY RESILIENT SEATED BUTTERFLY VALVES
+Installation, Operation and Maintenance Manual
+CONTENTS
+2.0 Introduction 4
+3.0 Installation Considerations - Piping and Valve Orientation and Placement 5
+4.0 Installation Procedure 10
+5.0 Maintenance and Repair 13
+6.0 Appendix A - Series 20/21 Resilient Seated Butterfly Valves 14
+7.0 Appendix B - Series 22/23 Resilient Seated Butterfly Valves 16
+8.0 Appendix C - Series 30/31 Resilient Seated Butterfly Valves 18
+9.0 Appendix D - Series 3A/3AH Resilient Seated Butterfly Valves 20
+10.0 Appendix E - Series 31H Resilient Seated Butterfly Valves 22
+11.0 Appendix F - Series 31U Resilient Seated Butterfly Valves 24
+12.0 Appendix G - Series 32/33 Resilient Seated Butterfly Valves 26
+13.0 Appendix H - Series 35/36 Resilient Seated Butterfly Valves (Taper Pin Disc/Stem Connection) 28
+14.0 Appendix I - Series 35/36 Resilient Seated Butterfly Valves (Internal Spline or Keyed Disc/Stem Connection) 30
+15.0 Appendix J - Series 36H Resilient Seated Butterfly Valves 34
+© 2025 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 2 of 36
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 3 ===
+BRAY RESILIENT SEATED BUTTERFLY VALVES
+Installation, Operation and Maintenance Manual
+1.0 SAFETY INSTRUCTIONS - DEFINITION OF TERMS
+READ AND FOLLOW THESE INSTRUCTIONS CAREFULLY.
+SAVE THIS MANUAL FOR LATER USE.
+All information within this manual is relevant to the safe operation and
+proper care of your Bray valve. Please understand the following examples of
+information used throughout this manual.
+DANGER
+Indicates a potentially hazardous situation which, if not avoided, will result in
+death or serious injury.
+WARNING
+Indicates a potentially hazardous situation which, if not avoided, could result in
+death or serious injury.
+CAUTION
+Indicates a potentially hazardous situation which, if not avoided, could result in
+minor or moderate injury.
+NOTICE
+Used without the safety alert symbol, indicates a potential situation which, if
+not avoided, may result in an undesirable result or state, including property
+damage.
+© 2025 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 3 of 36
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 4 ===
+BRAY RESILIENT SEATED BUTTERFLY VALVES
+Installation, Operation and Maintenance Manual
+2.0 INTRODUCTION
+2.1 Historical Experience
+Based on over forty years experience in the butterfly industry, Bray can
+state without question the majority of all field problems for resilient
+seated butterfly valves are directly related to poor installation procedures.
+For this reason, it is very important all distributor salespeople educate
+their customers regarding proper installation of resilient seated butterfly
+valves.
+2.2 Butterfly Valve Seat / Disc Function
+Before reviewing the proper installation, maintenance, and repair
+procedures for resilient seated butterfly valves, let’s discuss the seat-
+disc function of a butterfly valve. The seat in a resilient seated butterfly
+valve has molded o-rings on its flange face. As a result, no gaskets are
+required as these o-rings serve the function of a gasket. The flange face
+and molded o-rings of the seat extend beyond the body face-to-face to
+ensure sealing at the flange faces. The seat material, which extends past
+the face is compressed in installation and flows toward the center of the
+valve seat I.D.
+In essence, the elastomer seat acts as a liquid, and the displaced
+elastomer moves toward the point of least resistance. The seat I.D. of
+all resilient seated butterfly valves is smaller than the disc O.D. This
+difference, the disc-seat interference, plus the increased interference due
+to the elastomer movement toward the seat center after installation, has
+been engineered so as to be the basis for pressure rating capability and
+the related seating/unseating torques. Any change in this interference
+due to improper installation directly affects the pressure rating and
+seating/unseating torques.
+Finally, unlike many valve types, the resilient seated butterfly valve’s disc
+actually extends beyond the face of the valve body at given angles of
+opening (say, 30° or more) when installed between flanges.
+2.3 Shipment and Storage
+The seat, disc, stem and bushing of the resilient seated butterfly valve
+should be coated with silicone lubricant unless specified otherwise
+The disc should be positioned at 10° open.
+Note: See Section 3.2.1 for special considerations for valves with spring
+return actuators.
+Valves should be stored indoors with a preferred temperature range from
+40°F (4°C) to 85°F (29°C).
+While valves are in storage, they should be opened and closed once every
+3 months.
+Ship and store valves so that no heavy loads are applied to the bodies.
+Polymer and elastomer parts should not be stored in the presence of
+sunlight or artificial light with high ultraviolet content, or any source of
+radiation as these are primary causes of aging.
+If a component is cooled below 59°F (14°C), the entire valve assembly
+should be allowed to rise above 68°F (20°C) before installing into service.
+Valve end protectors should only be removed at the time of valve
+installation.
+© 2025 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 4 of 36
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 5 ===
+BRAY RESILIENT SEATED BUTTERFLY VALVES
+Installation, Operation and Maintenance Manual
+3.0 INSTALLATION CONSIDERATIONS - PIPING AND VALVE
+ORIENTATION AND PLACEMENT
+CAUTION
+It is very important before installation to ensure the critical chordial
+dimension of the disc at the full open position is less than the adjacent
+pipe flange I.D.
+3.1 Piping and Flanged Compatibilities
+3.1.1 Piping
+These valves have been engineered so that the critical disc chord
+dimension at the full open position will clear the adjacent inside diameter
+of most types of piping, including Schedule 40, lined pipe, heavy wall, etc.
+3.1.2 Metal Flanges
+Resilient seated butterfly valves have been designed to be suitable
+for all types of flanges (ASME, DIN, JIS and other international flange
+standards), whether flat-faced, raised face, slip-on, weld-neck, etc. Proper
+alignment of any butterfly valve between flanges is critical to good
+performance of the valve. The flange bolts must also be evenly tightened
+around the circumference of the valve, providing consistent flange
+compression of the molded o-ring in the seat face.
+Since Bray does not recommend the use of gaskets between flanges on
+resilient seated butterfly valves, a uniform flange face is critical to proper
+valve sealing. Most weld-neck and slip-on flanges conforming to ASME
+specifications have an appropriate flange face. Types A and B butt-weld
+stub-end flanges also provide a suitable mating surface for the molded
+o-ring.
+It should be noted that Type C butt-weld stub-end flanges have an “as
+formed” flange face. The varying surface of this flange face can create
+sealing problems between any resilient-seated butterfly valve and the
+flange face. For this reason, Type C flanges are not recommended for use
+with resilient-seated butterfly valves.
+3.1.3 Non-Metallic Flanges
+When non-metallic flanges, such as plastic or PVC, are used with resilient
+seated butterfly valves, care must be taken not to over-tighten the flange
+bolts. The inherent flexibility of these non-metallic flange materials allow
+them to be over-tightened relatively easily. Flexing caused by this over-
+tightening can actually reduce the compression of the valve between
+the flanges, causing leaks between the valve and the flange face. Proper
+alignment and firm, even, but not excessive tightening of flange bolts
+are especially important with non-metallic flanges. In some cases, non-
+metallic flanges of low quality will not mate tightly with butterfly valves
+regardless of the care taken during installation.
+3.2 Valves with Spring Return Actuators
+3.2.1 Fail Closed Assemblies
+If the valve is supplied with an actuator, the butterfly valve is shipped
+in the full closed position (as no air pressure is present to compress the
+springs and open the disc).
+© 2025 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 5 of 36
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 6 ===
+BRAY RESILIENT SEATED BUTTERFLY VALVES
+Installation, Operation and Maintenance Manual
+CAUTION
+Installing the valve with the disc in the full closed position may create
+a compression set on the seat causing higher than expected torques or
+premature seat failure. It is recommended to:
+> Remove the actuator. Be sure to scribe the valve and actuator to
+ensure the re-installed actuator is in the exact same quadrant as
+originally configured
+> Install the valve per the attached installation tag instructions
+> Re-install the actuator ensuring it is in the proper quadrant
+3.2.2 Fail Open Assemblies
+If the valve is supplied with an actuator, the butterfly valve disc is shipped
+in the full open position (as no air pressure is present to compress the
+springs and close the valve disc.) The sealing surface, or disc edge, is
+therefore exposed. Damage to that surface will cause premature seat
+failure.
+CAUTION
+Use caution installing the valve being careful not to damage the disc
+edge. It is recommended to:
+> Remove the actuator. Be sure to scribe the valve and actuator to
+ensure the re-installed actuator is in the exact same quadrant as
+originally configured
+> Install the valve per the attached installation tag instructions Valve orientation for media with
+> Re-install the actuator ensuring it is in the proper quadrant. sediment.
+3.2.3 Valve Location
+INCORRECT
+Resilient seated butterfly valves should be installed if possible a minimum Sediment buildup around lower
+of 6 pipe diameters from other line elements, i.e., elbows, pumps, disc and hub.
+valves, etc. of course, 6 pipe diameters are not always practical, but it is
+important to achieve as much distance as possible.
+Where the resilient seated butterfly valve is connected to a check valve or
+pump, use an expansion joint between them to ensure the disc does not
+interfere with the adjacent equipment.
+3.2.4 Valve Orientation
+In general, Bray recommends the resilient seated valve be installed with
+the stem in the vertical position and the actuator mounted vertically
+directly above the valve; however, there are those applications as
+discussed below where the stem should be horizontal. Valve Stem
+(Vertical)
+NOTE: Bray does not recommend valves be installed in an upside-down
+position.
+For slurries, sludge, mine tailing, pulp stock, dry cement, and any media
+with sediment or particles, Bray recommends the resilient seated valve be
+CORRECT
+installed with the stem in the horizontal position with the lower disc edge
+Sediment passes under disc.
+opening in the downstream direction as illustrated to the right.
+Valve Stem
+(Horizontal)
+© 2025 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 6 of 36
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 7 ===
+BRAY RESILIENT SEATED BUTTERFLY VALVES
+Installation, Operation and Maintenance Manual
+Resilient seated butterfly valve located at the discharge of a pump should be oriented as follows:
+Centrifugal pump (with pump shaft horizontal).
+INCORRECT CORRECT
+Valve stem horizontal. Valve stem vertical.
+Pump Shaft Pump Shaft
+(Horizontal) (Horizontal)
+Valve Stem Valve Stem
+(Horizontal) (Vertical)
+Centrifugal pump (with pump shaft vertical).
+INCORRECT CORRECT
+Valve stem horizontal. Valve stem vertical.
+Pump Shaft Pump Shaft
+(Vertical) (Vertical)
+Suction Valve Stem Suction Valve Stem
+(Vertical) (Horizontal)
+Axial pump (with pump shaft vertical).
+INCORRECT CORRECT
+Valve stem horizontal. Valve stem vertical.
+Pump Shaft Pump Shaft
+(Vertical) (Vertical)
+Valve Stem Valve Stem
+(Horizontal) (Vertical)
+Suction Suction
+© 2025 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 7 of 36
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 8 ===
+BRAY RESILIENT SEATED BUTTERFLY VALVES
+Installation, Operation and Maintenance Manual
+Butterfly valves located downstream of a bend or pipe reducer should be oriented as follows:
+Bend
+INCORRECT CORRECT
+Valve stem horizontal. Valve stem vertical.
+Valve Stem Valve Stem
+(Horizontal) (Vertical)
+Tee
+INCORRECT CORRECT
+Valve stem horizontal. Valve stem vertical.
+Valve Stem Valve Stem
+(Horizontal) (Vertical)
+Reducer
+INCORRECT CORRECT
+Valve stem horizontal. Valve stem vertical.
+Valve Stem Valve Stem
+(Horizontal) (Vertical)
+© 2025 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 8 of 36
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 9 ===
+BRAY RESILIENT SEATED BUTTERFLY VALVES
+Installation, Operation and Maintenance Manual
+Butterfly valves in combination for control/isolation applications should be installed as follows:
+INCORRECT CORRECT
+Combination with all valve stems in the same direction Combination with the stem of the control valve at right
+accelerates possible noise, vibration, and erosion angle to those of other valves tends to cancel the drift of
+problems. the fluid, and reduces noise, vibration, and erosion.
+Isolation Control Isolation Isolation Control Isolation
+© 2025 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 9 of 36
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 10 ===
+BRAY RESILIENT SEATED BUTTERFLY VALVES
+Installation, Operation and Maintenance Manual
+4.0 INSTALLATION PROCEDURE
+4.1 General Installation
+Make sure the pipeline and pipe flange faces are clean. Any foreign
+material such as pipe scale, metal chips, welding slag, welding rods, etc.,
+can obstruct disc movement or damage the disc or seat.
+The Bray elastomer seat has molded o-rings on the face of the seat. As a
+result, no gaskets are required as these o-rings serve the function of a
+gasket.
+Align the piping and then spread the pipe flanges a distance apart so
+as to permit the valve body to be easily dropped between the flanges
+without contacting the pipe flanges (see Figure 1 page 10).
+Check to see that the valve disc has been positioned to a partially open
+position, with the disc edge about 1/2 inch to 3/8 inch inside the face of
+the seat, (approximately 10° open) (see Figure 1 page 10)
+Note: See Section 3.2 for special consideration for valves with spring
+return actuators.
+Insert the valve between the flanges as shown in Figure 1 of page 10,
+taking care not to damage the seat faces. Always pick the valve up by the
+locating holes or by using a nylon sling on the neck of the body.
+WARNING
+Never pick up the valve by the actuator or operator mounted on top of
+the valve.
+Figure 1: Insert resilient seated butterfly valve between flanges.
+INCORRECT CORRECT
+Pipe not spread; disc opened Pipe spread and aligned; disc
+beyond valve body face. rotated.
+Results: Disc edge damaged Results: No undesirable beginning
+when it hits pipe flange. seating/unseating torque; disc
+edge protected.
+© 2025 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 10 of 36
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 11 ===
+BRAY RESILIENT SEATED BUTTERFLY VALVES
+Installation, Operation and Maintenance Manual
+Figure 2: Flange Bolt Tightening Pattern.
+Place the valve between the flanges, center it, and then span the valve
+body with all flange bolts, but do not tighten the bolts. Carefully open
+the disc to the full open position, making sure the disc does not hit the
+adjacent pipe I.D. Now systematically remove jack bolts or other flange
+spreaders, and hand-tighten the flange bolts as shown in Figure 2 below. 5 1
+Very slowly close the valve disc to ensure disc edge clearance from the
+adjacent pipe flange I.D. Now open the disc to full open and tighten all 3 7
+flange bolts per specification as shown in Figure 2. Finally, repeat a full
+close to full open rotation of the disc to ensure proper clearances (See
+Figures 3 & 4 page 11 and 12). 8 4
+For additional flange bolting information please reference the Resilient 2 6
+Seated Butterfly Valve Technical Manual and “Typical Flange Bolting
+Guide” found at www bray com
+Figure 3: Insert and center valve.
+To check for proper alignment, carefully open the disc to the full open
+position, making sure the disc does not hit the adjacent pipe I.D. (Figure 12)
+Figure 4: Check for proper alignment of valve and flanges.
+INCORRECT CORRECT
+Piping misaligned. Piping aligned properly when
+Results: Disc O.D. strikes pipe bolts tightened; disc in full open
+I.D. causing disc edge damage, position.
+increased torque, and leakage. Results: Disc clears adjacent pipe
+I.D.; liner face seals properly; no
+excessive initial torque.
+When resilient seated butterfly valves are to be installed between ASME
+welding type flanges, care should be taken to abide by the following
+procedure to ensure no damage will occur to the seat:
+Place the valve between the flanges with the flange bores and valve body
+aligned properly. The disc should be in the 10° open position.
+© 2025 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 11 of 36
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 12 ===
+BRAY RESILIENT SEATED BUTTERFLY VALVES
+Installation, Operation and Maintenance Manual
+Span the body with the bolts.
+Take this assembly of flange-body-flange and align it properly to the pipe.
+Tack weld the flanges to the pipe.
+When tack welding is complete, remove the bolts and the valve from the
+pipe flanges and complete the welding of the flanges. Be sure to let the
+pipe and flanges cool before installing the valve.
+CAUTION
+Never complete the welding process (after tacking) with the valve
+between pipe flanges. This causes severe seat damage due to heat
+transfer.
+4.2 Installation of Bray PTFE Seated Butterfly Valves in Plastic Flanges.
+Flange gaskets are not normally required in installations where pipe
+flange strength allows maximum bolting torque (steel and alloy flanges
+for example). If sufficient bolting torque cannot be achieved due to
+flange type or material strength limits (FRP for example), a gasket may
+be required for proper flange sealing. Gaskets may be used when pipeline
+flange faces exhibit excessive unevenness due to poor machining or weld
+distortion.
+Bray recommends the following guidelines when PTFE Seated Valves are
+installed between plastic flanges:
+The valve body should be coated with epoxy, not nylon. The extra
+thickness of the nylon coating slightly reduces the seat compression, and
+every advantage to maximize seat compression should be taken with
+plastic flanges.
+The plastic flange can be either one piece construction, or two piece
+construction comprised of a stub end and a backup ring.
+The plastic flange style can be butt-weld, socket or slip-on, but butt-weld
+and socket are preferred.
+The plastic flange face must be flat. Concave and convex flange faces
+are not acceptable. This includes flange faces that were originally flat but
+later distorted into a concave shape by over tightening the flange bolts.
+The plastic flange face surface may have grooves or serrations, provided
+the grooves do not exceed .100” (2.54 mm) in width or .020” (.508
+mm) in depth. If the grooves are less than .100” (2.54 mm) in width, the
+groove depth must not exceed the width. However, fine concentric or
+“phonograph record” grooves are acceptable regardless of the groove
+depth.
+The bolts holding plastic flanges should be installed in strict conformance
+to the recommended practices of the plastic flange manufacturer. This
+usually involves aligning the flanges accurately, using lubricated bolts,
+and tightening the bolts in the proper sequence and to the specified
+torque. Uniform stress across the flange prevents leakage.
+© 2025 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 12 of 36
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 13 ===
+BRAY RESILIENT SEATED BUTTERFLY VALVES
+Installation, Operation and Maintenance Manual
+5.0 MAINTENANCE AND REPAIR
+WARNING
+No valve maintenance, including removal of manual or power actuators,
+should be performed until the piping system is completely depressurized.
+The many Bray features minimize wear and maintenance requirements.
+No routine lubrication is required. All components – stem, disc, seat,
+bushing, stem seal, etc., are field replaceable, no adjustment is required.
+If components require replacement, the valve may be removed from the
+line by placing the disc in the near closed position, then supporting the
+valve and removing the flange bolts.
+© 2025 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 13 of 36
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 14 ===
+BRAY RESILIENT SEATED BUTTERFLY VALVES
+Installation, Operation and Maintenance Manual
+6.0 APPENDIX A - SERIES 20/21 RESILIENT SEATED BUTTERFLY VALVES
+6.1 Disassembly
+6.1.1 Remove handle, gear operator or power actuator from actuator mounting
+flange.
+6.1.2 Remove the body bolts and pull the lower body half away from the seat.
+6.1.3 Pull the seat and disc stem from the upper body half.
+> Remove bushing and seal from the upper body.
+6.1.4 Push the seat into an oval shape and remove the disc stem by
+withdrawing the short stem end first.
+6.2 Assembly
+6.2.1 Push the long stem end of the disc into the seat.
+6.2.2 Then push the seat over the disc’s short stem.
+6.2.3 Place the disc stem and seat into the upper body half.
+6.2.4 Align the lower body with the upper body and position lower body in the
+seat.
+NOTICE
+The body halves have a matching casting node on one side only to ensure
+correct assembly of body halves.
+6.2.5 Replace the body bolts and tighten.
+6.2.6 Install the stem seal, then the stem bushing.
+Note: It is recommended that the stem bushing be coated with a light
+amount of silicone grease before installation in the valve body. This
+coating of silicone grease will assist in keeping the stem bushing in the
+valve body until an actuator is mounted on the valve.
+6.2.7 Replace handle, manual gear operator or power actuator on the actuator
+mounting flange.
+© 2025 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 14 of 36
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 15 ===
+BRAY RESILIENT SEATED BUTTERFLY VALVES
+Installation, Operation and Maintenance Manual
+Series 20/21 - Resilient Seated Butterfly Valves
+5
+1 Upper Body (S20 Wafer Style
+Shown) 4
+2 Seat
+3 Disc Stem
+4 Stem Seal
+5 Stem Bushing 1
+6 Body Bolt
+7 Lower Body
+2
+3
+7
+6
+© 2025 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 15 of 36
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 16 ===
+BRAY RESILIENT SEATED BUTTERFLY VALVES
+Installation, Operation and Maintenance Manual
+7.0 APPENDIX B - SERIES 22/23 RESILIENT SEATED BUTTERFLY VALVES
+7.1 Disassembly
+7.1.1 Remove the handle, gear operator, or power actuator from actuator
+mounting flange.
+7.1.2 Remove the “Spirolox”® retaining ring and the two C-ring stem retainers
+from the stem hole.
+7.1.3 Then remove the stem, bushing and seal.
+7.1.4 Remove the disc from the seat, protecting the disc edge at all times.
+7.1.5 Remove the seat energizer from the stems and seat.
+7.1.6 Remove the lower and upper stems from the disc or remove the lower
+stem if the upper stem is connected to the disc.
+7.1.7 Compress the seat just enough to allow the disc to be removed along
+with the seal capsules.
+7.1.8 Remove the retainer bushing and upper stem seal.
+7.2 Assembly
+7.2.1 Install the stem bearings in upper and lower body halves.
+7.2.2 Place the body seal strip on the lower body half, overlapping the body
+width by approximately 0.19” on both sides.
+7.2.3 Press the seat to make the I.D. elliptical, then insert the shaft seals and
+place the disc into the seat. Rotate the disc hubs into alignment with the
+seat.
+7.2.4 Insert the upper and lower stems.
+7.2.5 Slip one seat energizer strip onto the lower portion of the upper shaft.
+7.2.6 Insert the upper shaft with the pre-installed seat energizer strip into the
+disc/seat sub assembly.
+7.2.7 Drive the upper shaft into the disc and slip one seat energizer strip onto
+the lower shaft.
+7.2.8 Rotate the disc into the open position and insert the disc/seat/stems/
+energizer sub assembly into the upper body half.
+7.2.9 Place the lower body half over the seat, and ensure that both body
+halves are properly aligned (identified by cast-on markings.
+7.2.10 Attach and tighten the body fasteners.
+© 2025 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 16 of 36
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 17 ===
+BRAY RESILIENT SEATED BUTTERFLY VALVES
+Installation, Operation and Maintenance Manual
+Series 22/23 - Resilient Seated Butterfly Valves 12
+6
+1 Upper Body
+7
+2 Disc
+3 Seat
+4 Upper Stem
+5 Lower Stem
+14
+6 Bushing
+7 Stem Seal
+8 Seal Capsule
+1
+9 Bearing
+9
+10 Seat Energizer
+11 Cap Screw
+12 Retaining Ring
+13 Body Seal
+4
+14 ID Tag
+15 Lower Body
+10
+3
+8
+2
+10
+8
+5
+9
+13
+15
+11
+© 2025 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 17 of 36
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 18 ===
+BRAY RESILIENT SEATED BUTTERFLY VALVES
+Installation, Operation and Maintenance Manual
+8.0 APPENDIX C - SERIES 30/31 RESILIENT SEATED BUTTERFLY VALVES
+8.1 Disassembly
+8.1.1 Remove the handle, gear operator, or power actuator from actuator
+mounting flange.
+8.1.2 Remove the “Spirolox”® retaining ring and the two C-ring stem retainers
+from the stem hole.
+8.1.3 Then remove the stem, bushing and seal.
+8.1.4 Remove the disc from the seat, protecting the disc edge at all times.
+8.1.5 Push the seat into an oval shape, and then remove the seat from the
+body.
+8.2 Assembly
+8.2.1 Push the valve seat into an oval and push it into the body with seat stem
+holes aligned to body stem holes.
+NOTICE
+When installing the seat the larger hole should be on top and the smaller
+hole should be on bottom.
+8.2.2 Insert stem seal and bushing.
+8.2.3 Push stem into the stem hole of the body until the bottom of the stem is
+flush with the inner top edge of the seat.
+8.2.4 Install a light coating of silicone or grease on the I.D. of seat. Insert the
+disc into the seat by lining up the disc holes with the stem holes of the
+seat. Note: The broached double “D” flats in the disc must be toward the
+bottom of the valve body.
+8.2.5 With a downward pressure and rotating the stem back and forth, push
+the stem until the stem touches the bottom of the body stem hole.
+8.2.6 Make certain that when pushing the stem through the disc bottom, the
+broached flats of stem and disc are aligned.
+8.2.7 Replace the stem bushing and two stem retainers, then replace the
+“Spirolox”® retaining ring back into position.
+8.2.8 Replace handle, manual gear operator or power actuator on the actuator
+mounting flange.
+© 2025 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 18 of 36
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 19 ===
+BRAY RESILIENT SEATED BUTTERFLY VALVES
+Installation, Operation and Maintenance Manual
+Series 30/31 - Resilient Seated Butterfly Valves
+9
+8
+1 Body (S30 Wafer Style Shown)
+7
+2 Seat
+3 Disc 6
+4 Stem
+5
+5 Stem Seal
+6 Stem Bushing
+7 Split Rings
+8 Thrust Washer
+9 Retaining Ring
+10 ID Tag
+4
+10
+1
+10
+2
+3
+© 2025 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 19 of 36
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 20 ===
+BRAY RESILIENT SEATED BUTTERFLY VALVES
+Installation, Operation and Maintenance Manual
+9.0 APPENDIX D - SERIES 3A/3AH RESILIENT SEATED BUTTERFLY VALVES
+9.1 Disassembly
+9.1.1 Remove the handle, gear operator, or power actuator from actuator
+mounting flange.
+9.1.2 Remove the “Spirolox”® retaining ring and the two C-ring stem retainers
+from the stem hole.
+9.1.3 Then remove the stem, bushing and seal.
+9.1.4 Remove the disc from the seat, protecting the disc edge at all times.
+Note: The seat is bonded to the body and is not easily field replaceable.
+Please contact your local Bray representative for seat replacement.
+9.2 Assembly
+9.2.1 Insert stem seal and bushing.
+9.2.2 Push stem into the stem hole of the body until the bottom of the stem is
+flush with the inner top edge of the seat.
+9.2.3 Install a light coating of silicone or grease on the I.D. of seat. Insert the
+disc into the seat by lining up the disc holes with the stem holes of the
+seat. Note: The broached double “D” flats in the disc must be toward the
+bottom of the valve body.
+9.2.4 With a downward pressure and rotating the stem back and forth, push
+the stem until the stem touches the bottom of the body stem hole.
+9.2.5 Make certain that when pushing the stem through the disc bottom, the
+broached flats of stem and disc are aligned.
+9.2.6 Replace the stem bushing and two stem retainers, then replace the
+“Spirolox”® retaining ring back into position.
+9.2.7 Replace handle, manual gear operator or power actuator on the actuator
+mounting flange.
+© 2025 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 20 of 36
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 21 ===
+BRAY RESILIENT SEATED BUTTERFLY VALVES
+Installation, Operation and Maintenance Manual
+Series 3A/3AH - Resilient Seated Butterfly Valves
+8
+1 Body/Seat 7
+2 Disc
+6
+3 Stem
+5
+4 Stem Seal
+5 Stem Bushing
+4
+6 Split Rings
+7 Thrust Washer
+8 Retaining Ring
+9 ID Tag
+10 Pop Rivet
+3
+9
+10
+1
+2
+© 2025 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 21 of 36
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 22 ===
+BRAY RESILIENT SEATED BUTTERFLY VALVES
+Installation, Operation and Maintenance Manual
+10.0 APPENDIX E - SERIES 31H RESILIENT SEATED BUTTERFLY VALVES
+10.1 Disassembly
+10.1.1 Remove the handle, gear operator, or power actuator from actuator
+mounting flange.
+10.1.2 Remove the “Spirolox”® retaining ring and the two C-ring stem retainers
+from the stem hole.
+10.1.3 Then remove the stem, bushing and seal.
+10.1.4 Remove the disc from the seat, protecting the disc edge at all times.
+Note: Valve is provided with the seat bonded to the body and
+therefore is not easily field replaceable. Please contact your local Bray
+representative for seat replacement.
+10.2 Assembly
+10.2.1 Insert stem seal and bushing.
+10.2.2 Push stem into the stem hole of the body until the bottom of the stem is
+flush with the inner top edge of the seat.
+10.2.3 Install a light coating of silicone or grease on the I.D. of seat. Insert the
+disc into the seat by lining up the disc holes with the stem holes of the
+seat. Note: The broached double “D” flats in the disc must be toward
+the bottom of the valve body.
+10.2.4 With a downward pressure and rotating the stem back and forth, push
+the stem until the stem touches the bottom of the body stem hole.
+10.2.5 Make certain that when pushing the stem through the disc bottom, the
+broached flats of stem and disc are aligned.
+10.2.6 Replace the stem bushing and two stem retainers, then replace the
+“Spirolox”® retaining ring back into position.
+10.2.7 Replace handle, manual gear operator or power actuator on the actuator
+mounting flange.
+© 2025 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 22 of 36
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 23 ===
+BRAY RESILIENT SEATED BUTTERFLY VALVES
+Installation, Operation and Maintenance Manual
+Series 31H - Resilient Seated Butterfly Valves
+8
+1 Body/Seat 7
+2 Disc 6
+3 Stem
+5
+4 Stem Seal
+5 Stem Bushing 4
+6 Split Ring
+7 Thrust Washer
+8 Retaining Ring
+9 ID Tag
+10 Pop Rivet
+3
+9
+10
+1
+2
+© 2025 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 23 of 36
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 24 ===
+BRAY RESILIENT SEATED BUTTERFLY VALVES
+Installation, Operation and Maintenance Manual
+11.0 APPENDIX F - SERIES 31U RESILIENT SEATED BUTTERFLY VALVES
+11.1 Disassembly
+11.1.1 Remove the handle, gear operator, or power actuator from actuator
+mounting flange.
+11.1.2 Remove the “Spirolox”® retaining ring and the two C-ring stem retainers
+from the stem hole.
+11.1.3 Then remove the top stem bushing and seal, upper stem and retaining
+rod.
+11.1.4 Remove the disc from the seat, protecting the disc edge at all times.
+11.1.5 The upper and lower stem bearings will remain in the valve behind the
+seat.
+Note: The seat is bonded to the body and is not easily field replaceable.
+Please contact your local Bray representative for seat replacement.
+11.2 Assembly
+11.2.1 Install a light coating of silicone or grease on the I.D. of seat.
+11.2.2 Insert the lower stem inside the disc before inserting the disc into the
+seat.
+11.2.3 Insert the disc into the seat by lining up the disc holes with the stem holes
+of the seat.
+11.2.4 Line up the disc using a T-Bar (Allan key style)
+11.2.5 With a downward pressure and rotating the T-Bar back and forth, push
+the lower stem until the lower stem touches the bottom of the body stem
+hole recess.
+Note: The broached double “D” flats in the disc must be toward the
+bottom of the valve body.
+11.2.6 Make certain that when pushing the stem through the disc bottom, the
+broached flats of stem and disc are aligned.
+11.2.7 Insert the spacer bar and upper stem into the disc and valve.
+11.2.8 Replace the top stem bushing and seal and two stem retainers.
+11.2.9 Then replace the two “C” ring stem retainers and the “Spirolox”® retaining
+ring back into position in the top stem hole.
+Note: It is recommended that a torque and seat test be done to confirm
+all is in order with the maintenance of the valve.
+11.2.10 Replace the handle, manual gear operator or power actuator on the
+actuator mounting flange.
+© 2025 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 24 of 36
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 25 ===
+BRAY RESILIENT SEATED BUTTERFLY VALVES
+Installation, Operation and Maintenance Manual
+Series 31U - Resilient Seated Butterfly Valves
+10
+1 Body/Seat 9
+2 Disc 8
+3 Upper Stem
+4 Lower Stem 7
+5 Bearings
+6
+6 Stem Seal
+7 Stem Bushing
+8 Stem Retainer Washers
+9 Upper Thrust Washer
+10 Retaining ring
+3
+11 Lower Thust Washer
+12 Spacer
+13 Seal Plug
+14 ID Tag
+15 Pop Rivet
+5
+12
+14
+15
+1
+2
+5
+4
+11
+13
+© 2025 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 25 of 36
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 26 ===
+BRAY RESILIENT SEATED BUTTERFLY VALVES
+Installation, Operation and Maintenance Manual
+12.0 APPENDIX G - SERIES 32/33 RESILIENT SEATED BUTTERFLY VALVES
+12.1 Disassembly
+12.1.1 Remove the gear operator or power actuator from the actuator mounting flange.
+12.1.2 Secure the valve in a horizontal position .
+CAUTION
+Prior to removal of the valve stem the valve disc must be secured and supported to insure it
+does not drop out of the valve body once the stem is removed. Lay the valve down with two
+wood blocks located under the disc at the 6 o’clock and 12 o’clock positions making sure the
+blocks are in close contact with the disc but not supporting the valve.
+12.1.3 Remove the packing gland by removing the retaining screws and sliding the gland off the top
+of the stem.
+12.1.4 Remove bottom plate and thrust bearing to expose bottom of stem.
+12.1.5 Remove nuts and washers from ends of taper pins and drive taper pins out of the disc. Avoid
+damaging the disc coating or surface when removing taper-pins.
+12.1.6 Once taper-pins are removed, drive the stem, bushing, and packing out of the valve body
+through the top.
+12.1.7 Remove the disc from the seat, protecting disc edge at all times.
+12.1.8 Push the seat into an oval shape, and then remove the seat from the body.
+12.2 Assembly
+12.2.1 Replace bottom thrust bearing and plate.
+12.2.2 Push the seat into an oval and push it into the body with seat stem holes aligned to body stem
+holes.
+12.2.3 De-bur taper-pin grooves in the stem.
+12.2.4 Push stem into stem hole of body until the bottom of the stem is flush with the inner top edge
+of the seat.
+Note: The end of the stem containing the keyway must be toward the top of the valve body.
+12.2.5 Install a light coating of silicone or grease on the I.D. of the seat.
+12.2.6 Insert the disc into the seat by lining up the disc hole with the upper stem hole of the seat.
+12.2.7 With a downward pressure and rotating the stem back and forth, push the stem until the stem
+touches the bottom of the body stem hole.
+Note: Make certain that when pushing the stem to the bottom of the body, the taper-pin
+grooves in the stem line up with the holes in the disc face.
+12.2.8 Tap the taper-pins into their holes from the large side of the hole, making sure the pins fit
+tightly in the hole and allow no movement of the stem in the disc.
+Note: Ensure that the taper-pin o-rings are in place before completing valve assembly.
+12.2.9 Replace the washers and nuts on the ends of the taper-pins.
+12.2.10 Replace bushing, packing, and packing gland, and then tighten the retaining screws snugly.
+12.2.11 Replace manual gear operator or power actuator on the actuator mounting flange.
+© 2025 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 26 of 36
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 27 ===
+BRAY RESILIENT SEATED BUTTERFLY VALVES
+Installation, Operation and Maintenance Manual
+Series 32/33 - Resilient Seated Butterfly Valves
+1 Body 14
+2 Disc
+3 Upper Stem
+4 Seat 3
+5 Stem Packing
+6 Stem Bushing
+7 Tie Bolt 7
+8 Lower Stem
+6
+9 Hex Nut
+10 Thrust Bearing 5
+11 Bottom Plate
+12 Bottom Plate Gasket
+13 Bolt-Hex Head 1
+14 Key
+16
+15 Stem Retainer
+16 ID Tag 17
+17 POP Rivet 4
+2
+8
+15
+9
+10
+12
+11
+13
+© 2025 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 27 of 36
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 28 ===
+BRAY RESILIENT SEATED BUTTERFLY VALVES
+Installation, Operation and Maintenance Manual
+13.0 APPENDIX H - SERIES 35/36 RESILIENT SEATED BUTTERFLY VALVES (TAPER PIN DISC/
+STEM CONNECTION)
+13.1 Disassembly
+13.1.1 Remove the gear operator or power actuator from the actuator mounting flange.
+13.1.2 Secure the valve in a horizontal position with the taper-pin nuts facing upward.
+CAUTION
+Prior to removal of the valve stem the valve disc must be secured and supported to insure it does not drop out of
+the valve body once the stem is removed. Lay the valve down with two wood blocks located under the disc at the
+6 o’clock and 12 o’clock positions making sure the blocks are in close contact with the disc but not supporting the
+valve.
+13.1.3 Remove the packing gland by removing the retaining screws and sliding the gland off the top of the stem.
+13.1.4 Remove bottom plate and thrust bearing to expose bottom of stem.
+13.1.5 Remove nuts and washers from ends of taper pins and drive taper pins out of the disc. Avoid damaging the disc
+coating or surface when removing taper-pins.
+13.1.6 Once taper-pins are removed, drive the stem, bushing, and packing out of the valve body through the top.
+13.1.7 Remove the disc from the seat, protecting disc edge at all times.
+13.1.8 Push the seat into an oval shape, and then remove the seat from the body.
+Note: Valves 54” and larger are provided with the seat bonded to the body and therefore is not easily field
+replaceable. Please contact your local Bray representative for seat replacement.
+13.2 Assembly
+13.2.1 Replace bottom thrust bearing and plate.
+13.2.2 Push the seat into an oval and push it into the body with seat stem holes aligned to body stem holes.
+Note: Valves 54” and larger are provided with the seat bonded to the body and therefore is not easily field
+replaceable. Please contact your local Bray representative for seat replacement.
+13.2.3 De-bur taper-pin grooves in the stem.
+13.2.4 Push stem into stem hole of body until the bottom of the stem is flush with the inner top edge of the seat.
+Note: The end of the stem containing the keyway must be toward the top of the valve body.
+13.2.5 Install a light coating of silicone or grease on the I.D. of the seat.
+13.2.6 Insert the disc into the seat by lining up the disc hole with the upper stem hole of the seat.
+13.2.7 With a downward pressure and rotating the stem back and forth, push the stem until the stem touches the bottom of
+the body stem hole.
+Note: Make certain that when pushing the stem to the bottom of the body, the taper-pin grooves in the stem line
+up with the holes in the disc face.
+13.2.8 Tap the taper-pins into their holes from the large side of the hole, making sure the pins fit tightly in the hole and allow
+no movement of the stem in the disc.
+Note: Ensure that the taper-pin o-rings are in place before completing valve assembly.
+13.2.9 Replace the washers and nuts on the ends of the taper-pins.
+13.2.10 Replace bushing, packing, and packing gland, and then tighten the retaining screws snugly.
+13.2.11 Replace manual gear operator or power actuator on the actuator mounting flange.
+© 2025 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 28 of 36
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 29 ===
+BRAY RESILIENT SEATED BUTTERFLY VALVES
+Installation, Operation and Maintenance Manual
+Series 35/36 - Resilient Seated Butterfly Valves (Taper Pin Disc/Stem Connection)
+1 Body
+2 Disc
+15
+3 Stem
+4 Seat 3
+5 Stem Packing
+6 Stem Bearing
+7 Taper Pin
+8 Washer
+9 Nut
+10 O-Ring
+11 Thrust Bearing
+12 Bottom Plate 19
+13 Bottom Plate Gasket 18
+14 Bolt-Hex Head
+5
+15 Key
+6
+16 Stem Retainer
+1
+17 Cap Screw
+18 Packing Gland
+20
+19 Bolt-Hex Head
+20 ID Tag 21
+4
+21 Pop Rivet
+9
+8
+2
+10
+6
+7
+17
+16
+13
+11
+12
+14
+© 2025 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 29 of 36
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 30 ===
+BRAY RESILIENT SEATED BUTTERFLY VALVES
+Installation, Operation and Maintenance Manual
+14.0 APPENDIX I - SERIES 35/36 RESILIENT SEATED BUTTERFLY VALVES (INTERNAL SPLINE
+OR KEYED DISC/STEM CONNECTION)
+14.1 Disassembly
+14.1.1 Remove the gear operator or power actuator from the actuator mounting flange.
+14.1.2 Secure the valve in a horizontal position.
+CAUTION
+Prior to removal of the valve stems the valve disc must be secured and supported to insure it does not drop out of
+the valve body once the stems are removed. Lay the valve down with two wood blocks located under the disc at the
+6 o’clock and 12 o’clock positions making sure the blocks are in close contact with the disc but not supporting the
+valve.
+14.1.3 Removal of the lower valve stem:
+> Remove the bottom plate screws, bottom plate, bottom plate gasket and thrust bearing.
+> Remove the locking nut from the tie bolt.
+> Remove the stem retainer.
+> Secure a hoist to the lower stem (end is imperial threaded).
+> Then use the hoist to remove the lower stem from the valve body.
+> Remove the stem bearing.
+14.1.4 Removal of the upper valve stem:
+> Remove the packing gland by removing the retaining screws and sliding the gland off the top of the stem.
+> Secure a hoist to the upper stem (end is imperial threaded).
+> Then use the hoist to remove the upper stem including the tie bolt from the valve body.
+14.1.5 Removal of the valve disc:
+> Remove the wood blocks noted above from below the disc.
+> Using a rubber hammer, pound one area of the disc (ex. 12 o’clock position) repeatedly until the disc clears the
+face of the valve body.
+14.1.6 Removal of packing and bearings:
+> Remove the stem packing.
+> Use a slotted screwdriver to carefully remove the upper and lower stem bearings.
+14.1.7 Removal of the valve seat:
+Note: Valves 54” and larger are provided with the seat bonded to the body and therefore is not easily field
+replaceable. Please contact your local Bray representative for seat replacement.
+WARNING
+Set the valve body in an upright position and secure it in a floor vice capable of handling the weight of the valve body
+and seat.
+Note: Be sure to not clamp the seat in the vice.
+14.1.8 Insert a slotted screwdriver into the space between the body and the seat on the face of the valve at the 12 o’clock
+position.
+14.1.9 Carefully leverage the seat away from the body.
+14.1.10 Push the seat into an oval shape and remove the seat from the body.
+© 2025 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 30 of 36
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 31 ===
+BRAY RESILIENT SEATED BUTTERFLY VALVES
+Installation, Operation and Maintenance Manual
+14.0 APPENDIX I - SERIES 35/36 RESILIENT SEATED BUTTERFLY VALVES (INTERNAL SPINE OR
+KEYED DISC/STEM CONNECTION)
+14.2 Assembly
+14.2.1 Installation of the valve seat:
+Note: Valves 54” and larger are provided with the seat bonded to the body and therefore is not easily field
+replaceable. Please contact your local Bray representative for seat replacement.
+WARNING
+Set the valve body in an upright position and secure it in a floor vice capable of handling the weight of the valve body
+and seat.
+Note: Be sure to not clamp the seat in the vice.
+14.2.2 > Check to assure the interior surface of the valve body is clean.
+> Install a light coating of silicone lubricant on the interior surface of the valve body.
+> Push the seat into an oval and push it into the body with seat stem holes aligned to the body stem holes.
+14.2.3 Installation of the valve disc:
+Note: Before installing the disc, check to assure the upper and lower stems are matched to the upper and lower
+stem holes in the disc.
+> With the valve still in the vice in a vertical position, hoist the upper stem with the splined end or the double
+keyed end pointing upward.
+> Push the upper stem into the stem hole of the upper body until the bottom of the stem exceeds the upper
+stem hole of the seat by 20-50 mm.
+> Apply a light coating of silicone or grease on the I.D. of the seat.
+> Insert the disc into the seat with the splined end or the double keyed end up.
+> Push the disc into the seat while inserting the upper stem into the upper stem hole in the disc.
+> Adjust the disc to assure the lower stem hole of the disc is properly aligned with the lower body stem hole.
+14.2.4 Installation of the lower stem:
+> Close the valve so that the disc is inside the edge of the seat.
+> Carefully place the valve in a horizontal position assuring that there is no damage to the body and disc
+coatings and disc edge.
+> Insert the stem bearing into the bottom stem hole of the body.
+> Insert the lower stem into the body and disc.
+Note: The cone-shaped end of the lower stem should be toward the center of the disc.
+14.2.5 Installation of the upper stem:
+CAUTION
+Hoist the valve to an angle and secure it (be careful not to go to high so the lower stem does not drop out).
+14.2.6 > Remove the upper stem from the valve.
+> Screw the tie bolt with lock nut to the splined or the double keyed end of the upper stem, tighten the lock nut
+and insert the upper stem into the valve with the tie bolt end first.
+Note: The tie bolt will go through the disc and reach to the bottom of the valve.
+Note: During this step, the keyway of the upper stem should be vertical to the front face of the valve.
+14.2.7 Installation of packing and bearings (upper valve stem):
+> Insert the stem bearing into the top hole of the body followed by the stem packing and packing gland follower.
+> Use two hexagon bolts to fasten the packing gland.
+14.2.8 Installation of packing and bearings (lower valve stem):
+> Insert the stem retainer into the bottom hole of the body using a nut to fasten it.
+> Install the locking nut on the tie bolt.
+> Install the thrust bearing, bottom plate gasket and bottom plate follower.
+> Use four hexagon bolts to fasten the bottom plate tightly.
+© 2025 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 31 of 36
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 32 ===
+BRAY RESILIENT SEATED BUTTERFLY VALVES
+Installation, Operation and Maintenance Manual
+Series 35/36 - Resilient Seated Butterfly Valves
+(Internal Spline Valve)
+5
+1 Body
+2 Disc 3
+3 Upper Stem
+4 Seat
+5 Key 6
+6 Tie Bolt
+11
+7 Stem Bearing
+10
+8 Stem Packing
+21
+9 Packing Gland Follower
+9
+10 Packing Gland
+11 Bolt-Hex Head 8
+12 Lower Stem
+13 Stem Retainer 7
+14 Hex Nut
+15 Thrust Bearing
+16 Bottom Plate Gasket 1
+19
+17 Bottom Plate
+18 Bolt-Hex Head
+20
+19 ID Tag
+20 Pop Rivet
+4
+21 Retaining Ring
+2
+12
+7
+13
+14
+15
+16
+17
+18
+© 2025 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 32 of 36
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 33 ===
+BRAY RESILIENT SEATED BUTTERFLY VALVES
+Installation, Operation and Maintenance Manual
+Series 35/36 - Resilient Seated Butterfly Valves
+(Internal Keyed Valve) 22
+1 Body 21
+2 Disc
+3 Upper Stem
+4 Seat 5
+5 Key 5 3
+6 Tie Bolt
+7 Stem Bearing 5
+8 Stem Packing
+6
+9 Packing Gland Follower
+10 Packing Gland
+11
+11 Bolt-Hex Head
+12 Lower Stem 10
+13 Retaining Ring 13
+14 Hex Nut
+9
+15 Stem Retainer
+8
+16 Bottom Plate Gasket
+17 Bottom Plate 7
+18 Bolt-Hex Head
+19 ID Tag
+20 Pop Rivet
+1
+21 Top Plate
+22 Cap Screws 19
+20
+4
+2
+7
+5
+12
+15
+14
+16
+17
+18
+© 2025 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 33 of 36
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 34 ===
+BRAY RESILIENT SEATED BUTTERFLY VALVES
+Installation, Operation and Maintenance Manual
+15.0 APPENDIX J - SERIES 36H RESILIENT SEATED BUTTERFLY VALVES
+15.1 Disassembly
+15.1.1 Remove the gear operator or power actuator from the actuator mounting flange.
+15.1.2 Secure the valve in a horizontal position with the taper-pin nuts facing upward.
+CAUTION
+Prior to removal of the valve stem the valve disc must be secured and supported to insure it does not drop out of
+the valve body once the stem is removed. Lay the valve down with two wood blocks located under the disc at the
+6 o’clock and 12 o’clock positions making sure the blocks are in close contact with the disc but not supporting the
+valve.
+15.1.3 Remove the packing gland by removing the retaining screws and sliding the gland off the top of the stem.
+15.1.4 Remove bottom plate and thrust bearing to expose bottom of stem.
+15.1.5 Remove nuts and washers from ends of taper pins and drive taper pins out of the disc. Avoid damaging the disc
+coating or surface when removing taper-pins.
+15.1.6 Once taper-pins are removed, drive the stem, bushing, and packing out of the valve body through the top.
+15.1.7 Remove the disc from the seat, protecting disc edge at all times.
+Note: Valve is provided with the seat bonded to the body and therefore is not easily field replaceable. Please
+contact your local Bray representative for seat replacement.
+15.2 Assembly
+15.2.1 Replace bottom thrust bearing and plate.
+15.2.2 De-bur taper-pin grooves in the stem.
+15.2.3 Push stem into stem hole of body until the bottom of the stem is flush with the inner top edge of the seat.
+Note: The end of the stem containing the keyway must be toward the top of the valve body.
+15.2.4 Install a light coating of silicone or grease on the I.D. of the seat.
+15.2.5 Insert the disc into the seat by lining up the disc hole with the upper stem hole of the seat.
+15.2.6 With a downward pressure and rotating the stem back and forth, push the stem until the stem touches the bottom of
+the body stem hole.
+Note: Make certain that when pushing the stem to the bottom of the body, the taper-pin grooves in the stem line
+up with the holes in the disc face.
+15.2.7 Tap the taper-pins into their holes from the large side of the hole, making sure the pins fit tightly in the hole and allow
+no movement of the stem in the disc.
+Note: Ensure that the taper-pin o-rings are in place before completing valve assembly.
+15.2.8 Replace the washers and nuts on the ends of the taper-pins.
+15.2.9 Replace bushing, packing, and packing gland, and then tighten the retaining screws snugly.
+15.2.10 Replace manual gear operator or power actuator on the actuator mounting flange.
+© 2025 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 34 of 36
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 35 ===
+BRAY RESILIENT SEATED BUTTERFLY VALVES
+Installation, Operation and Maintenance Manual
+Series 36H - Resilient Seated Butterfly Valves
+1 Body 15
+2 Disc
+3 Stem
+4 Seat
+5 Stem Packnig 3
+6 Stem Bearing
+7 Taper Pin
+8 Washer
+9 Nut
+10 O-Ring
+11 Thrust Bearing
+12 Bottom Plaate 19
+13 Bottom Plate Gasket
+18
+14 Bolt-Hex Head
+5
+15 Key
+16 Stem Retainer 6
+17 Cap Screw
+18 Packing Gland
+19 Bolt-Hex Head
+20 ID Tag 1 20
+21 Pop Rivet
+21
+4
+9
+8
+2
+6
+10
+7 17
+16
+13
+11
+12
+14
+© 2025 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 35 of 36
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 36 ===
+SINCE 1986, BRAY HAS PROVIDED FLOW CONTROL SOLUTIONS
+FOR A VARIETY OF INDUSTRIES AROUND THE WORLD
+VISIT BRAY.COM TO LEARN MORE ABOUT
+BRAY PRODUCTS AND LOCATIONS NEAR YOU
+HEADQUARTERS
+Bray International, Inc.
+13333 Westland East Blvd
+Houston, Texas 77041
+Tel: +1 281 894 5454
+All statements, technical information, and recommendations in this bulletin are for general
+use only Consult Bray representatives or factory for the specific requirements and material
+selection for your intended application The right to change or modify product design or
+product without prior notice is reserved Patents issued and applied for worldwide
+Bray® is a registered trademark of Bray International, Inc
+© 2025 BRAY INTERNATIONAL, INC ALL RIGHTS RESERVED BRAY COM EN_BR_IOM_BF_ALL_20250604
+THE HIGH PERFORMANCE COMPANY BRAY.COM

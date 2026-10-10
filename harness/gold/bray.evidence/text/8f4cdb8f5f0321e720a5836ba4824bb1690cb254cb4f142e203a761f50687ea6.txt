@@ -1,0 +1,889 @@
+=== page 1 ===
+SERIES 746HP
+BIDIRECTIONAL POLYURETHANE LINED
+HIGH PERFORMANCE KNIFE GATE VALVES
+Installation, Operation, and Maintenance Manual
+BRAY.COM THE HIGH PERFORMANCE COMPANY
+=== page 2 ===
+SERIES 746HP POLYURETHANE LINED HP KNIFE GATE VALVES
+Installation, Operation, and Maintenance Manual
+TABLE OF CONTENTS
+0.0 Definition of Terms 3
+1.0 Introduction 4
+2.0 Parts Identification 5
+3.0 Valve Identification 6
+4.0 Hazard-Free Use 7
+5.0 Qualified Personnel 8
+6.0 Handling Requirements 9
+7.0 Storage 10
+8.0 Installation & Commissioning 10
+9.0 Operation 15
+10.0 Actuation and Travel Stop Setting 16
+11.0 Lockout 17
+12.0 Standard Maintenance 18
+13.0 Field Adjustments 19
+14.0 Actuator Conversion 21
+15.0 Troubleshooting Guide 22
+16.0 Return Merchandise Authorization 23
+© 2026 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 2 of 25
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 3 ===
+SERIES 746HP POLYURETHANE LINED HP KNIFE GATE VALVES
+Installation, Operation, and Maintenance Manual
+READ AND FOLLOW THESE INSTRUCTIONS CAREFULLY.
+SAVE THIS MANUAL FOR FUTURE USE.
+0.0 DEFINITION OF TERMS
+All information within this manual is relevant to the safe operation
+and proper care of your Bray valve. Please understand the
+following examples of information used throughout this manual.
+0.0 IDENTIFIES CHAPTER HEADING
+0.00 Indentifies and explains sequential procedure to be performed.
+NOTE: Provides important information related to a procedure.
+SAFETY STATEMENTS: To prevent unwanted consequences.
+Standard symbols and classsifications are:
+DANGER
+Indicates a potentially hazardous situation which, if not avoided,
+will result in death or serious injury.
+WARNING
+Indicates a potentially hazardous situation which, if not avoided,
+could result in death or serious injury.
+CAUTION
+Indicates a potentially hazardous situation which, if not avoided,
+could result in minor or moderate injury.
+NOTICE
+Used without the safety alert symbol, indicates a potential
+situation which, if not avoided, may result in an undesirable
+result or state, including property damage.
+© 2026 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 3 of 25
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 4 ===
+SERIES 746HP POLYURETHANE LINED HP KNIFE GATE VALVES
+Installation, Operation, and Maintenance Manual
+1.0 INTRODUCTION
+1.1
+The Bray knife gate Series 746HP’s one-piece, cast body with
+molded-in lining offers rugged performance in applications
+ranging from general purpose to severe media handling.
+1.2 Additional product information (such as application data,
+engineering specifications, actuator selection, etc.) is available
+from your local Bray distributor or sales representative, or online
+at BRAY.COM
+1.3 For a detailed list of product certifications please contact your
+local Bray representative.
+© 2026 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 4 of 25
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 5 ===
+SERIES 746HP POLYURETHANE LINED HP KNIFE GATE VALVES
+Installation, Operation, and Maintenance Manual
+2.0 PARTS IDENTIFICATION
+Figure 1: Series 746HP Parts
+Item Description
+1 Body (Polyurethane Lined)
+2 Tower Mounting Bolt 19
+3 Tower Mounting Washer
+4 Tower Mounting Nut
+5 Gland
+18
+6 Gland Packing
+7 Gland Mounting Stud 32
+8 Gland Mounting Washer 17
+9 Gland Mounting Nut
+10 Gate
+11 Clevis Gate Nut
+31 16
+12 Clevis Gate Bolt
+30
+13 Stem Clevis Nut
+29
+14 Clevis
+15 Stem Clevis Bolt 15
+16 Stem 13
+17 Bellows Hose Clip 12
+28
+18 Bellows 11 14
+19 Bellow Flange
+20 Superstructure/Tower Assembly 27
+21 Bellows Mounting Washer
+25 26
+22 Bellows Mounting Nut
+10
+23 Stem Nut
+24 Key
+25 Thrust Bearing 24
+26 Grease Nipple 23 9
+27 Handwheel Assembly Housing
+28 Handwheel Assembly Housing Bolt
+29 Handwheel 21 8
+30 Grub Screws
+7
+31 Stem Lock Nut
+22
+32 Stem Guard
+20
+5
+2
+6
+3
+1
+4
+© 2026 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 5 of 25
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 6 ===
+SERIES 746HP POLYURETHANE LINED HP KNIFE GATE VALVES
+Installation, Operation, and Maintenance Manual
+3.0 VALVE IDENTIFICATION
+3.1 All valves, actuators, or control products are provided with an
+identification tag that is unique to each device. The following
+table is a representation of information that may be included.
+Data Label Description
+Serial Number SERIAL NUMBER Unique serial number of valve.
+Valve Size SIZE Valve size e.g. 6 in/150 mm.
+Model MODEL Series number of the Valve
+Flange Drill FLG. DRILL Flange Drill e.g. ASME B16.5
+CL150.
+Temperature Limits MAX TEMP Maximum temperature in
+°F/°C
+Maximum Permissible CWP Maximum permissible pressure
+Pressure in psi/bar(g)
+Body Material BODY Material grade of body e.g.
+CF8 (304) etc.
+Gate Material GATE Material grade of gate e.g. 304
+Stainless Steel.
+Packing Material PACKING Material of packing e.g. PTFE
+w/EPDM Quad Seal.
+Seat Material SEAT Material of seat e.g. Buna-N.
+© 2026 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 6 of 25
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 7 ===
+SERIES 746HP POLYURETHANE LINED HP KNIFE GATE VALVES
+Installation, Operation, and Maintenance Manual
+4.0 HAZARD-FREE USE
+NOTICE
+Failure to follow these procedures could affect product warranty.
+4.1 This device left the factory in proper condition to be safely
+installed and operated in a hazard-free manner. The notes and
+warnings in this document must be observed by the user if this
+safe condition is to be maintained and hazard-free operation of
+the device assured.
+4.2 Take all necessary precautions to prevent damage to the valve
+due to rough handling, impact, or improper storage. Do not use
+abrasive compounds to clean the valve, or scrape metal surfaces
+with any objects.
+4.3 The control systems in which the valve is installed must have
+proper safeguards — to prevent injury to personnel, or damage to
+equipment — should failure of system components occur.
+4.4 The upper limits of permitted pressure and temperature
+(depending on the housing and liner materials) must be
+observed. These limits are shown on the valve identification tag.
+4.5 The valve must not be operated until the following documents
+have been observed:
+> Declaration on EU Directives
+> IOM Manual (supplied with the product).
+© 2026 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 7 of 25
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 8 ===
+SERIES 746HP POLYURETHANE LINED HP KNIFE GATE VALVES
+Installation, Operation, and Maintenance Manual
+5.0 QUALIFIED PERSONNEL
+NOTICE
+Failure to follow these procedures could affect product warranty.
+5.1 A qualified person (in terms of this document) is one who is
+familiar with the installation, commissioning, and operation of the
+device, and who has appropriate qualifications, such as:
+> Is trained in the operation and maintenance of electrical
+equipment and systems in accordance with established safety
+practices.
+> Is trained or authorized to energize, de-energize, ground, tag,
+and lock electrical circuits and equipment in accordance with
+established safety practices.
+> Is trained in the proper use and care of personal protective
+equipment (PPE) in accordance with established safety
+practices.
+> Is trained in the commissioning, operation, and maintenance of
+equipment in hazardous locations — in cases where the device
+is installed in a potentially explosive (hazardous) location.
+© 2026 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 8 of 25
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 9 ===
+SERIES 746HP POLYURETHANE LINED HP KNIFE GATE VALVES
+Installation, Operation, and Maintenance Manual
+6.0 HANDLING REQUIREMENTS
+6.1 Packed Valves
+Crates: Lifting and handling of the packed valves in crates will be
+carried out by a fork lift truck, by means of the appropriate fork
+hitches.
+Cases: The lifting of packed valves in cases will be carried out in
+the lifting points and in the center of gravity position which has
+been marked. The transportation of all packed material must be
+carried out safely and following the local safety regulations.
+6.2 Unpacked Valves
+Lifting and handling of valves should be carried out by using
+appropriate means and observing the carrying limits. Handling
+must be carried out on pallets, protecting all machined surfaces
+to avoid any damage.
+With large bore valves, rigging the load must be carried out by
+using the appropriate tools to prevent the valve from falling or
+moving during the lifting and handling.
+CAUTION
+For handling and/or lifting, the lifting equipment (fasteners,
+hooks, etc.) must be sized and selected while taking into account
+the product weight indicated in our packing list and/or delivery
+note. Lifting and handling must be performed only by qualified
+personnel.
+Fasteners must be protected by plastic covers in sharp corner
+areas.
+Caution must be taken during handling to avoid this equipment
+passing over workers, or over any other place where a possible fall
+could cause injury or damage. In all cases, local safety regulations
+must be respected.
+© 2026 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 9 of 25
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 10 ===
+SERIES 746HP POLYURETHANE LINED HP KNIFE GATE VALVES
+Installation, Operation, and Maintenance Manual
+7.0 STORAGE
+NOTICE
+The packaging is designed to protect the valve only during
+shipping. If you are not installing the valve immediately after
+delivery, then you must store it according to these requirements.
+Failure to follow these procedures could affect product warranty.
+7.1 Short-term storage is defined as storage of valves to allow for
+project construction and will be installed within a relatively short
+amount of time (typically one to three months). During short-term
+storage, the following is required:
+7.2 The preferred storage location is a clean, dry, protected
+warehouse. Do not expose the valve to temperature extremes.
+7.3 End protectors shall remain on the valve ends to prevent the
+entrance of dirt, debris, or insects/wildlife.
+7.4 Remain in the original shipping container with the original
+packaging materials. This packaging method will not protect
+valves that will be stored outside, uncovered, and unprotected.
+7.5 Storage of valves in an open, uncovered area is permissible, but
+requires provisions for inclement weather. The product must be
+elevated from the ground on a pallet, a shelf, or other suitable
+surface, and must be covered with a secure, waterproof tarp.
+7.6 Do not stack the valves on top of each other.
+7.7 Manually actuated valves may be stored in the vertical or
+horizontal position. For air or hydraulic actuated valves, the
+preferred orientation is with the valve and cylinder in the vertical
+position. Access ports should be secured to prevent unauthorized
+entry and prevent contamination.
+(continued)
+© 2026 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 10 of 25
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 11 ===
+SERIES 746HP POLYURETHANE LINED HP KNIFE GATE VALVES
+Installation, Operation, and Maintenance Manual
+7.8 Long-term storage is defined as storage of valves longer than
+three months. During long-term storage, the following is required:
+7.9 The storage location shall be a clean, dry, protected warehouse.
+Do not expose the valve to temperature extremes.
+7.10 End protectors shall remain on the valve ends to prevent the
+entrance of dirt, debris, or insects/wildlife.
+7.11 Product shall remain in the original shipping container with the
+original packaging materials.
+7.12 Do not stack the valves on top of each other.
+7.13 Manually actuated valves may be stored in the vertical or
+horizontal position. For air or hydraulic actuated valves, the
+preferred orientation is with the valve and cylinder in the vertical
+position. Access ports should be secured to prevent unauthorized
+entry and prevent contamination.
+Valves and equipment containing elastomers, including O-rings,
+must be stored in a climate-controlled warehouse according to
+SAE-ARP5316D requiring:
+> The ambient relative humidity to be less than 75%.
+> No exposure from direct ultraviolet or sunlight.
+> Protection from ozone generating equipment or combustible
+gases and vapors.
+> Storage at temperatures below 100°F (38°C), away from direct
+sources of heat.
+> No exposure to ionizing radiation.
+Storage inspection — visual inspection shall be performed on a
+semi-annual basis and results recorded. Inspection, as a minimum,
+shall include reviewing the following:
+> Packaging.
+> Flange covers.
+> Dryness.
+> Cleanliness.
+7.14 Actuators to be stored with all cable/pneumatic entries plugged
+to prevent entry of foreign material.
+7.15 Leave protective caps and covers on the product.
+© 2026 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 11 of 25
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 12 ===
+SERIES 746HP POLYURETHANE LINED HP KNIFE GATE VALVES
+Installation, Operation, and Maintenance Manual
+Figure 2: Bolt Tightening
+8.0 INSTALLATION AND COMMISSIONING
+Sequence
+WARNING
+Verify line is depressurized before installing, removing, or
+6 1
+repairing a valve or operator.
+Do not pressurize the line without an operator on the valve. 4 8
+CAUTION
+Never try to assemble a valve with misaligned pipe flanges 7 3
+CAUTION
+2 5
+Support should be used for valves installed in vertical pipeline.
+Failure to do so can result in improper valve operation and/or
+valve failure. Table 1: Recommended Tightening Torque
+8.1 Before installing the valve, check the valve body port for any Tightening
+Tightening
+Torque for
+foreign material that may have collected during shipping or Valve Size Standard Torque for
+FRP Flange
+storage. Flange
+NPS DN ft-lb N-m ft-lb N-m
+8.1.1 These valves have a preferred flow direction. Refer to the
+2 50 40 54 25 34
+identification mark on the valve.
+3 80 40 54 25 34
+8.1.2 This valve is designed with a built-in flange gasket function. Do 4 100 40 54 25 34
+not use additional flange gaskets. 6 150 70 95 49 66
+8.1.3 Tighten bolts in a crisscross pattern for uniform tightness of 8 200 70 95 49 66
+flanges. See Figure 2. 10 250 110 150 65 88
+12 300 110 150 65 88
+8.1.4 Exceeding recommended torque values will reduce the overall
+14 350 170 230 100 136
+valve performance and may permanently damage the seat or
+16 400 170 230 100 136
+other parts. See Table 1 for maximum flange bolt tightening
+torques for metallic and FRP flanges. 18 450 240 325 140 190
+20 500 240 325 140 190
+8.1.5 Gland packing is tightened to hold the specified pressure and
+24 600 240 325 140 190
+tested for no leakage before shipping. However, this may require
+28 700 170 230 102 138
+some adjustment at site due to loosening in transit, etc., if gland
+leak is observed, tighten the gland uniformly in a cris-cross 30 750 192 260 115 156
+pattern until the leakage stops. 32 800 258 350 155 210
+36 900 280 380 168 228
+8.1.6 Ensure the mating line flanges are properly aligned prior to valve
+installation.
+Figure 3: Flanged body installation
+8.2 FLANGING DETAILS AND MOUNTING HARDWARE
+options
+8.2.1 Series 746HP has a flanged style body and uses threaded bolts to
+mount between pipeline flanges.
+8.2.2 The gate comes out through the chest when opening like all
+wafer knife gate and slurry valve designs, with tapped BLIND
+holes in the chest area.
+8.2.3 The length of the bolt used with the chest holes must prevent
+bottoming while tightening. For the number of bolts necessary
+and bolt diameter, please refer to the applicable flange standard
+listed in Table 2 and Table 3 on the following page.
+© 2026 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 12 of 25
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 13 ===
+SERIES 746HP POLYURETHANE LINED HP KNIFE GATE VALVES
+Installation, Operation, and Maintenance Manual
+Table 2: RECOMMENDED FASTENERS - ASME B16.5 Class 150 Flanges Figure 4: L5 Flange Bolt
+L5 (Figure 4) L6 (Figure 5)
+Valve Size Bolt & Nut Flange Bolt Flange Bolt Chest Bolt Chest Bolt Washer*
+Size Length Qty Length Qty Quantity
+NPS DN NPS
+2 50 5/8-11 1.75 4 1.25 4 8
+3 80 5/8-11 1.75 4 1.50 4 8
+4 100 5/8-11 1.75 4 1.50 12 16
+6 150 3/4-10 2.00 4 1.50 12 16
+8 200 3/4-10 2.50 4 1.75 12 16 Figure 5: L6 Chest Bolt
+10 250 7/8-9 2.50 8 2.00 16 24
+12 300 7/8-9 2.50 8 2.00 16 24
+14 350 1-8 2.75 8 2.00 16 24
+16 400 1-8 3.00 12 2.25 20 32
+18 450 1 1/8-8 3.25 12 2.50 20 32
+20 500 1 1/8-8 3.25 20 2.75 20 40
+24 600 1 1/4-8 4.00 20 3.00 20 40
+28 700 1 1/4-8 4.75 20 4.25 36 56
+30 750 1 1/4-8 5.00 16 4.50 40 56
+32 800 1 1/2-8 5.25 20 4.75 36 56
+Figure 6: L7 Flange Stud
+36 900 1 1/2-8 5.50 20 5.00 44 64
+* Washer Type B Wide
+Table 3: RECOMMENDED FASTENERS - ASME B16.5 Class 150 Flanges
+L7 (Figure 6) L8 (Figure 7)
+Valve Size Stud & Nut Flange Stud Flange Stud Chest Stud Chest Stud Nut Washer*
+Size Length Qty Length Qty Qty Qty
+NPS DN NPS NPS
+2 50 5/8-11 2.50 4 2.25 4 8 8
+Figure 7: L8 Chest Stud
+3 80 5/8-11 2.75 4 2.50 4 8 8
+4 100 5/8-11 2.75 4 2.50 12 16 16
+6 150 3/4-10 3.00 4 2.50 12 16 16
+8 200 3/4-10 3.50 4 2.75 12 16 16
+10 250 7/8-9 3.75 8 3.00 16 24 24
+12 300 7/8-9 3.75 8 3.00 16 24 24
+14 350 1-8 4.00 8 3.25 16 24 24
+16 400 1-8 4.25 12 3.50 20 32 32
+18 450 1 1/8-8 4.50 12 3.75 20 32 32
+20 500 1 1/8-8 4.75 20 4.25 20 40 40
+24 600 1 1/4-8 5.50 20 4.50 20 40 40
+28 700 1 1/4-8 6.25 20 5.50 36 36 56
+30 750 1 1/4-8 6.25 16 5.75 40 40 56
+32 800 1 1/2-8 6.25 20 6.25 36 36 56
+36 900 1 1/2-8 7.25 20 6.75 44 44 64
+* Washer Type B Wide
+© 2026 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 13 of 25
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 14 ===
+SERIES 746HP POLYURETHANE LINED HP KNIFE GATE VALVES
+Installation, Operation, and Maintenance Manual
+Figure 8: Installation support for
+8.3 COMMISSIONING
+a Valve installed in Horizontal
+8.3.1 Before the valve is put into regular use, stroke the valve to check orientation
+for smooth operation.
+8.3.2 For manually operated valves, closing and opening the valve once
+or twice is recommended.
+8.3.3 For pneumatically operated valves with a double-acting cylinder,
+connect a closed airline to the upper actuator port and gradually
+increase the air supply pressure to the rated pressure on the
+nameplate to close the valve; repeat by connecting the airline to
+the other port to slowly stroke the valve back to open position.
+If movement with the rated air supply pressure is smooth, the
+Figure 9: Installation support for
+valve is ready to be put into service. For valves with spring-return
+a Valve installed in Horizontal
+actuators, use the air port to stroke the valve in one direction and
+orientation
+release air slowly to stroke by spring in the opposite direction.
+8.3.4 Ensure that the valve is stroking fully between the OPEN and
+CLOSED indicators provided. Normal stroke lengths for the valves
+are listed below in Table 4.
+Table 4: STROKE LENGTH
+Size
+2 3 4 6 8 10 12 14 16 18 20 24 28 30 32 36
+(NPS)
+Stroke
+2.0 3.1 4.0 6.0 8.0 10.0 12.0 13.2 15.3 17.2 19.3 23.2 27.3 29.1 30.7 33.5
+(in)
+Size
+50 80 100 150 200 250 300 350 400 450 500 600 700 750 800 900
+(DN)
+Stroke
+50 80 102 152 203 254 305 335 388 438 490 590 690 740 780 850
+(mm)
+8.4 MOUNTING ORIENTATION AND SUPPORTS
+8.4.1 Series 746HP valve may be mounted in piping in any orientation;
+however, where possible, a vertical mounting on horizontally laid
+out piping is preferable and recommended.
+8.4.2 The valve superstructure is designed to provide rigid mounting
+and generally no additional supports are required for valves
+mounted in vertical orientation. Additional supports may be
+necessary where specifically recommended by Bray for valves
+with exceptionally tall actuator assemblies, etc.
+8.4.3 Where valves are mounted in orientations where the valve
+shaft is not vertical (horizontal, slanted) additional supports
+are recommended for all valve sizes with pneumatic or other
+powered actuators.
+8.4.4 Typical recommended supports are shown in Figures 8 & 9; for
+any assistance on other types of mounting requirements, please
+contact Bray.
+© 2026 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 14 of 25
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 15 ===
+SERIES 746HP POLYURETHANE LINED HP KNIFE GATE VALVES
+Installation, Operation, and Maintenance Manual
+9.0 OPERATION
+9.0.1 Series 746HP is suitable for on-off service and not
+recommended for throttling application.
+9.0.2 The valve closes by moving the gate which slides between the
+polyurethane liner, providing a bubble tight shutoff.
+9.0.3 The valve is designed not to discharge process media to the
+environment.
+The bottom of the seat is flush eliminating trapped debris and
+slurry, allowing for leak-free closure.
+9.0.4 The Polyurethane liner is chemically bonded to the valve body.
+9.0.5 Gate is easily replaceable, and are available in a different material.
+© 2026 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 15 of 25
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 16 ===
+SERIES 746HP POLYURETHANE LINED HP KNIFE GATE VALVES
+Installation, Operation, and Maintenance Manual
+Figure 10: Cylinder Actuator
+10.0 ACTUATION AND TRAVEL STOPS
+WARNING
+Verify line is depressurized before installing, removing, or
+repairing a valve or operator.
+Do not pressurize the line without an operator on the valve.
+10.1 Series 746HP valves may be supplied with a variety of actuation
+options.
+10.2 MANUAL - Direct or bevel gear with hand wheel / chain wheel
+10.2.1 These actuators are designed to operate without any routine
+maintenance. In case the operation is found to require excessive
+rim pull than normal (about 30 kgf), standard lubricant grease
+can be injected using a hand-held grease gun at the nipples
+provided; typical location of the grease nipple is shown in the
+exploded view (24).
+10.3 PNEUMATIC - Double-acting or spring return cylinder
+10.3.1 Bray pneumatic actuators use the following port connections,
+unless specially ordered otherwise. Connections are listed below
+in Table 5.
+Table 5: PORT CONNECTIONS Figure 11: Manual Valve Stem
+C80-C100 C150-C200 C250-C600 C800
+1/4”NPT 1/2” NPT 3/4” NPT 1-1/2” NPT
+10.3.2 Please use air supply as indicated in the tag plate/order
+documentation, using suitably sized air filter regulator; other
+relevant details of the actuators are given in Table 6 below.
+Table 6: AIR SUPPLY & TEMPERATURE
+Recommended Typical Maximum
+Selection Permissible
+Air Supply Pressure 44 to 100 psi (3 to 7 bar) 73 psi (5 bar) 100psi (7bar)
+Maximum Ambient 392°F (200°C) - Metal Cylinder w/Viton Seal
+Temperature 194°F (90°C) - Metal Cylinder w/Nitrile Seal
+270°F (132°C) - FRP Cylinder w/Viton Seal
+194°F (90°C) - FRP Cylinder w/Nitrile Seal
+Minimum Ambient -4°F (-20°C)
+Temperature
+10.3.3 Bray actuators are also designed to provide long duration
+trouble-free service without any routine maintenance or
+lubrication. They are suitable for use with a lubricated or non-
+lubricated air supply. For constructional details and replacement
+of worn out parts, please refer to the “Bray Pneumatic Actuator
+Installation & Operation Manual.”
+10.3.4 For actuators supplied by other vendors, please refer to the
+manufacturer manuals provided by Bray with the supply or the
+manufacturer’s website. Please contact Bray for any assistance
+required.
+© 2026 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 16 of 25
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 17 ===
+SERIES 746HP POLYURETHANE LINED HP KNIFE GATE VALVES
+Installation, Operation, and Maintenance Manual
+11.0 LOCKOUT Figure 12: Lockout pin through
+yoke and gate.
+11.1 Lockouts are optional in Series 746HP valves.
+11.2 If provided, the open-closed lockout brackets are designed to
+resist the normal valve operating thrust.
+11.3 To assure complete lockout compliance, any actuated valve
+(Pneumatic or Hydraulic or Electric) must be placed in a “Zero
+energy state” by isolating all potential energy sources including
+electricity, operator supply air or hydraulic fluids.
+CAUTION
+Valves supplied with spring to close or open have cylinders
+containing a mechanical spring which is compressed. In this
+case, the mechanical energy of the compressed spring cannot
+be placed in a ZERO ENERGY STATE. Take extreme care when
+inserting and removing the lockout pin. If the valve is actuated
+or the opposing pneumatic force is removed during
+the insertion process, the cylinder rod, gate and accompanying
+hardware will move and injury could occur.
+© 2026 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 17 of 25
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 18 ===
+SERIES 746HP POLYURETHANE LINED HP KNIFE GATE VALVES
+Installation, Operation, and Maintenance Manual
+12.0 STANDARD MAINTENANCE
+WARNING
+Verify line is depressurized before installing, removing, or
+repairing a valve or operator.
+Do not pressurize the line without an operator on the valve.
+WARNING
+After completing any alterations or maintenance procedures, the
+product must be tested to confirm performance requirements.
+NOTICE
+Any modification or use of unauthorized parts voids all warranty
+considerations.
+NOTICE
+Note assembly positions before removal.
+12.0.1 Inspect the valve body and gate at a regular interval. Check for
+any signs of corrosion, components wear and/or damage caused
+by process media
+12.0.2 Look for corrosion, galling or lack of lubrication in the valve
+stem, stem nut or extension stems. If the valve stem requires
+lubrication, utilize the grease fitting provided and pump standard
+bearing grease through the HW housing to lubricate the stem and
+stem nut assembly. Additional lubrication may be applied directly
+to stem or stem threads.
+© 2026 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 18 of 25
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 19 ===
+SERIES 746HP POLYURETHANE LINED HP KNIFE GATE VALVES
+Installation, Operation, and Maintenance Manual
+Table 7: Replacement Parts
+13.0 FIELD ADJUSTMENTS
+Part # Description Qty
+WARNING
+Verify line is depressurized before installing, removing, or 10 Gate 1
+repairing a valve or operator. 6 Gland Packing 1
+Do not pressurize the line without an operator on the valve. Figure 13: Gate Disassembly
+13.1 REPLACEMENT OF PARTS AND MODIFICATIONS
+13.1.1 Parts listed in Table 7 may wear out and require replacement
+during the normal life of the valve; they may be replaced on-site by
+the user with spare parts supplied by Bray.
+13.2 GATE REPLACEMENT
+13.2.1 1. Relieve the line pressure and open the valve. Flush the line if
+necessary.
+2. Remove the cylinder port tubing and vent the air inside the
+cylinder if the valve with Pneumatic operated.
+3. Lock the gate in opened position using a suitable locking pin
+in the holes provided.
+4. If the valves are supplied with bellows, ensure stem is not
+rotated, as rotation will damage the bellows.
+5. Disassemble the super structure by removing the fasteners
+with body.
+6. Lift the damaged/old gate & superstructure from the body
+assembly using suitable sling strapped below the base plate of
+superstructure. An overhead hoist may be required for larger
+size valves.
+Figure 14: Gate Removal
+7. Lay the superstructure & old gate assembly in horizontal
+position & disconnect the stem/Piston rod from the gate by
+removing the clevis bolts & nuts.
+8. Remove the gland and packing and inspect the packing for
+suitability to reuse.
+9. Lubricate the new gate and install it in body carefully.
+10. Assemble the packing back into the packing chamber.
+11. Re-attach the gland onto the valve body.
+12. Tighten the gland fasteners.
+13. Mount the actuator and super structure on the valve.
+14. Hand tighten the body bolting to the superstructure.
+15. Tighten the actuator bolting.
+16. Connect the gate and stem by clevis bolts and nuts.
+17. Lower the stem by rotating the hand wheel clockwise (or
+by applying air gradually for cylinder operated valves) while
+holding the stem and fasten the stem to the gate with bolts
+and nuts.
+18. Operate the valve for a few cycles and then tighten the body
+to superstructure bolting as per the recommended torque.
+19. Adjust and ensure the gate positions from the of the body
+according to Table 8.
+13.2.2 Changing or repair of valve parts other than Gate and packing by
+users is not recommended; please contact Bray for any further
+advice and assistance.
+© 2026 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 19 of 25
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 20 ===
+SERIES 746HP POLYURETHANE LINED HP KNIFE GATE VALVES
+Installation, Operation, and Maintenance Manual
+13.3 PACKING REPLACEMENT Figure 15: Stroke Length A & B
+13.3.1 1. Relieve the line pressure and close the valve. Flush the line if
+necessary.
+2. Remove the cylinder port tubing and vent the air inside the
+cylinder if the valve is Pneumatically operated.
+3. Ensure the valve is fully closed.
+4. If the valves are supplied with bellows, ensure stem is not
+rotated, as rotation will damage the bellows.
+5. Loosen the bolts on tower and remove from valve body.
+6. Remove the gland fasteners and gland.
+7. Remove the old packing (6) from the packing chamber one
+layer at a time, using a long thin tool to pry it out.
+8. Install the new packing one at a time firmly and evenly into
+the chamber before installing next layer; the end each layer
+should meet but not overlap.
+9. Install the gland and its fasteners. Ensure the gap between
+the gland and gate is uniform all around.
+10. Tighten the gland nuts finger tight plus one-half turn.
+11. Mount the actuator and super structure along with the valve.
+12. Lower the stem by rotating the hand wheel clockwise or
+apply air slightly for cylinder operated valves.
+13. Ensure the gate positions from top of the body according to
+Table 8 as appropriate.
+Table 8: STROKE LENGTH
+VALVE SIZE A (in) B(in) A(mm) B(mm)
+NPS DN
+2 50 2.40 4.37 61 111
+3 80 2.64 5.79 67 147
+4 100 2.80 6.81 71 173
+6 150 3.31 9.29 84 236
+8 200 3.90 11.89 99 302
+10 250 3.86 13.86 98 352
+12 300 4.17 16.18 106 411
+14 350 4.37 17.56 111 446
+16 400 5.35 20.63 136 524
+18 450 5.94 23.19 151 589
+20 500 5.59 24.88 142 632
+24 600 6.30 29.53 160 750
+28 700 8.46 35.63 215 905
+30 750 8.46 37.59 215 955
+32 800 9.44 40.15 240 1020
+36 900 9.44 42.91 240 1090
+© 2026 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 20 of 25
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 21 ===
+SERIES 746HP POLYURETHANE LINED HP KNIFE GATE VALVES
+Installation, Operation, and Maintenance Manual
+14.0 ACTUATOR CONVERSION Figure 16: Handwheel Actuator
+Conversion
+14.1 Most Bray valve models can be changed from manual actuation
+to pneumatic actuation with Bray Pneumatic actuators in the field
+without additional parts
+14.2 To convert a manually operated valve to pneumatic, please follow 2
+steps below:
+REMOVE THE HANDWHEEL ACTUATOR ASSEMBLY
+14.2.1 Relieve the line pressure and close the valve. Flush the line if 4
+necessary.
+14.2.2 Disconnect the stem from the gate by removing the clevis bolt
+and nut. (Figure 16: Items 8 & 9)
+1
+14.2.3 Loosen the bellows hose clip. 9 8
+14.2.4 Remove the hand wheel assembly fasteners in the super
+structure. (Figure 16: Item 4)
+14.2.5 Remove the hand wheel assembly, the stem, and the bellows, hose
+clip and bellows flange.
+Finally, remove the clevis from the gate. Figure 17: Pneumatic Actuator
+Conversion
+14.2.6 INSTALL THE PNEUMATIC ACTUATOR ASSEMBLY
+14.2.7 Remove the clevis from the piston rod in the actuator assembly
+(Figure 17: Item 5)
+3
+14.2.8 Place the actuator on the super structure and fasten loosely using
+the bellows flange. (Figure 17: Item 3)
+14.2.9 Give air supply to actuator and extend the piston rod towards
+closing position.
+5
+14.2.10 Insert the bellows and bellow flange in the piston rod. Remove
+the bolts used for actuator mounting with the super structure 7
+14.2.11 Insert the actuator mounting bolts through the bellow flange and
+hand tighten. Keep the assembly loose and floating. 6
+14.2.12 Attach the clevis with actuator piston rod, mark the clevis 10
+position and adjust accordingly. (Table 10)
+14.2.13 Afterwards adjust the Clevis by half rotation (180 deg) counter
+clockwise to provide additional thrust or load on the PU seating
+surface.
+14.2.14 Apply the air slightly to the actuator to lower the piston rod and Table 9: PARTS
+fasten the gate.
+Itm No. Part Name
+14.2.15 Fasten the clevis bolts and nuts and tighten the lock nut. 1 Superstructure Assembly
+2 Handwheel Assembly
+3 Pneumatic Operator
+4 Handwheel Assembly Fasteners
+5 Screwed Clevis
+6 Bellows
+7 Bellows Flange
+8 Clevis Bolt
+9 Clevis Nut
+10 Actuator Mounting Bolts
+© 2026 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 21 of 25
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 22 ===
+SERIES 746HP POLYURETHANE LINED HP KNIFE GATE VALVES
+Installation, Operation, and Maintenance Manual
+OPEN / CLOSE STROKE ADJUSTMENT
+14.2.16 In the closed position, adjust and ensure the gate positions from
+the top of the body. (Table 10)
+14.2.17 In the open position the adjusting set screw (or stroke bolt) in
+the cylinder acts as the cylinder stroke adjustment. Adjust this
+adjusting screw (or stroke bolt) to set the gate open position.
+(Table 10)
+14.2.18 Ensure the whole assembly is aligned correctly.
+14.2.19 Give air supply to actuator assembly and ensure smooth
+operation of the valve.
+14.2.20 Verify the seating of the gate using a 0.002” or 0.05mm feeler
+gauge at the bottom; the feeler gauge shall not enter at any
+point.
+14.2.21 Secure the bellows to the stem using the hose clip.
+14.2.22 Tighten hose clip to keep the bellows fastened with piston rod.
+14.2.23 Fully tighten the actuator mounting bolts. (Figure 17: Item 10)
+Figure 18: Dimensions of gate open - close positions
+Table 10: Dimensions of gate
+open - close positions in Figure 18
+Size
+A B C D
+in mm
+2 50 61 111 29 12
+3 80 67 147 29 14
+4 100 71 173 43 19
+6 150 84 236 47 20
+8 200 99 302 50 18
+10 250 98 352 51 20
+12 300 106 411 42 20
+14 350 111 446 50 28
+16 400 136 524 52 27
+18 450 151 589 65 25
+20 500 142 632 76 31
+68 31
+24 600 160 750 (for (for
+C24) C24)
+© 2026 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 22 of 25
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 23 ===
+SERIES 746HP POLYURETHANE LINED HP KNIFE GATE VALVES
+Installation, Operation, and Maintenance Manual
+15.0 TROUBLESHOOTING
+TROUBLE POSSIBLE CAUSE SOLUTION
+Media oozing out of gland packing Packing deteriorated Replace Packing
+High torque during valve seating Misalignment between gate and a) Remove the clevis fasteners
+and unseating stem b) Loosen the superstructure fasteners
+c) Adjust the alignment of the stem
+and gate
+d) Connect the clevis fasteners
+e) Retighten superstructure fasten
+Packing is not tightened Adjust gland nuts
+properly
+Valve jerks during open and close Superstructure fasteners loosen Tighten the super structure fasteners
+Insufficient air supply Pneumatic operated valves: Increase
+supply pressure
+Solenoid valve dust Remove and clean solenoid valve
+accumulation
+Piston rod seal damaged Replace seal
+NOTES:
+> Bray does not accept any responsibility for the product if wear parts not tested and approved by Bray are used.
+> Bray does not accept any responsibility for the product if maintenance instructions are not followed during maintenance.
+© 2026 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 23 of 25
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 24 ===
+SERIES 746HP POLYURETHANE LINED HP KNIFE GATE VALVES
+Installation, Operation, and Maintenance Manual
+16.0 RETURN MERCHANDISE AUTHORIZATION
+16.1 All products that are returned require a Return Merchandise
+Authorization (RMA). Contact a Bray representative to obtain
+authorization and shipping instructions.
+16.2 The following information must be provided when submitting RMA.
+> Serial number
+> Part number
+> Month and year of manufacture
+> Actuator specifics
+> Application
+> Media
+> Operating temperature
+> Operating pressure
+> Total estimated cycles (since last installation or repair)
+NOTE: Product information is provided on identification tag
+attached to device.
+NOTICE
+Materials must be cleaned and sanitized prior to return. MSDS
+sheets and Declaration of Decontamination are required.
+© 2026 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 24 of 25
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 25 ===
+SINCE 1986, BRAY HAS PROVIDED FLOW CONTROL SOLUTIONS
+FOR A VARIETY OF INDUSTRIES AROUND THE WORLD.
+VISIT BRAY.COM TO LEARN MORE ABOUT
+BRAY PRODUCTS AND LOCATIONS NEAR YOU.
+HEADQUARTERS
+BRAY INTERNATIONAL, INC.
+13333 Westland East Blvd.
+Houston, Texas 77041
+Tel: +1.281.894.5454
+All statements, technical information, and recommendations in this bulletin are for general
+use only. Consult Bray representatives or factory for the specific requirements and material
+selection for your intended application. The right to change or modify product design or
+product without prior notice is reserved. Patents issued and applied for worldwide.
+Bray® is a registered trademark of Bray International, Inc.
+© 2026 BRAY INTERNATIONAL. ALL RIGHTS RESERVED. BRAY.COM EN_IOM_746HP_20260223
+THE HIGH PERFORMANCE COMPANY BRAY.COM

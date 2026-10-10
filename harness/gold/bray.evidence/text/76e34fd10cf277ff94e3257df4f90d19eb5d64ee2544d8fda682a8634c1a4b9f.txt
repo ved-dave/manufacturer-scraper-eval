@@ -1,0 +1,364 @@
+=== page 1 ===
+TRI LOK
+TRI LOK TRIPLE OFFSET BUTTERFLY VALVE
+SAFETY MANUAL
+=== page 2 ===
+Table of Contents
+1.0 Introduction ..........................................................................................................................1
+1.1 Terms and Abbreviations ...............................................................................................................1
+1.2 Acronyms .......................................................................................................................................1
+1.3 Product Support .............................................................................................................................2
+1.4 Related Literature ...........................................................................................................................2
+1.5 Reference Standards
+2.0 Device Description ...............................................................................................................2
+3.0 Designing a SIF Using a Manufactured Product ..............................................................2
+3.1 Safety Function ..............................................................................................................................2
+3.2 Environmental Limits ....................................................................................................................2
+3.3 Application Limits .........................................................................................................................2
+3.4 Design Verification .........................................................................................................................3
+3.5 SIL Capability ................................................................................................................................3
+3.5.1 Systematic Integrity ................................................................................................................3
+3.5.2 Random Integrity ....................................................................................................................3
+3.5.3 Safety Parameters ....................................................................................................................3
+3.6 Connection of the Tri Lok valve to the SIS Logic-Solver .............................................................3
+3.7 General Requirements ....................................................................................................................3
+4.0 Installation and Commissioning .........................................................................................3
+4.1 Installation ......................................................................................................................................3
+4.2 Physical Location and Placement ..................................................................................................4
+4.3 Pneumatic Connections ..................................................................................................................4
+5.0 Operation and Maintenance ...............................................................................................5
+5.1 Proof Test without Automatic Testing ............................................................................................5
+5.2 Proof Test with Automatic Partial Operational Stroke Testing ......................................................5
+5.3 Repair and Replacement ................................................................................................................5
+5.4 Useful Life .....................................................................................................................................5
+5.5 Manufacturer Notification ..............................................................................................................5
+5.6 Product Registration .......................................................................................................................5
+Start-Up Checklist..............................................................................................................................................6
+=== page 3 ===
+Tri Lok Triple Offset Butterfly Valve
+Safety Manual
+1.0 Introduction Fail Annunciation Detected - Failure that does
+not cause a false trip or prevent the safety function
+This Safety Manual provides information necessary
+but does cause loss of an automatic diagnostic or
+to design, install, verify and maintain a Safety
+false diagnostic indication.
+Instrumented Function (SIF) utilizing the Bray
+Tri Lok Butterfly Valve. This manual provides
+Fail No Effect - Failure of a component that is part
+necessary requirements for meeting the IEC 61508
+of the safety function but that has no effect on the
+or IEC 61511 functional safety standards.
+safety function.
+1.1 Terms and Abbreviations Low Demand Mode - Mode, where the frequency
+Safety - Freedom from unacceptable risk of harm. of demands for operation made on a safety-related
+system is no greater than twice the proof test fre-
+Functional Safety - The ability of a system to carry quency.
+out the actions necessary to achieve or to maintain
+a defined safe state for the equipment / machinery /
+1.2 Acronyms
+plant / apparatus under control of the system.
+FMEDA - Failure Modes, Effects and Diagnostic
+Basic Safety - The equipment must be designed Analysis.
+and manufactured such that it protects against risk
+of damage to persons by electrical shock and other HFT - Hardware Fault Tolerance.
+hazards and against resulting fire and explosion. The
+protection must be effective under all conditions of the MOC - Management of Change. These are specific
+nominal operation and under single fault condition. procedures often done when performing any work
+activities in compliance with government regulatory
+Safety Assessment - The investigation to arrive authorities.
+at a judgment - based on evidence - of the safety
+achieved by safety-related systems. PFDavg - Average Probability of Failure on
+Demand.
+Fail-Safe State - State where the valve actuator is
+either open or closed depending on the safety function
+SFF - Safe Failure Fraction, the fraction of the
+of the final element.
+overall failure rate of a device that results in either
+a safe fault or a diagnosed unsafe fault.
+Fail Safe - Failure that causes the valve to go to
+the defined fail-safe state without a demand from
+SIF - Safety Instrumented Function, a set of
+the process.
+equipment intended to reduce the risk due to a
+Fail Dangerous - Failure that does not respond specific hazard (a safety loop).
+to a demand from the process (i.e. being unable to
+go to the defined fail-safe state). SIL - Safety Integrity Level, discrete level (one out
+of a possible four) for specifying the safety integrity
+Fail Dangerous Undetected - Failure that is requirements of the safety functions to be allocated
+dangerous and that is not being diagnosed by auto- to the E/E/PE safety-related systems where Safety
+matic stroke testing. Integrity Level 4 has the highest level of safety in-
+tegrity and Safety Integrity Level 1 has the lowest.
+Fail Dangerous Detected - Failure that is danger-
+ous but is detected by automatic stroke testing.
+SIS - Safety Instrumented System – Implementation
+of one or more Safety Instrumented Functions. An
+Fail Annunciation Undetected - Failure that does
+SIS is composed of any combination of sensor(s),
+not cause a false trip or prevent the safety function
+logic solver(s), and final element(s).
+but does cause loss of an automatic diagnostic and
+is not detected by another diagnostic.
+All information herein is proprietary and confidential and may not be copied or reproduced without the expressed written consent of BRAY INTERNATIONAL, Inc. 1
+The technical data herein is for general information only. Product suitability should be based solely upon customer’s detailed knowledge and experience with their application.
+=== page 4 ===
+Tri Lok Triple Offset Butterfly Valve
+Safety Manual
+1.3 Product Support Tri Lok is offered in wafer, lug body, double-flange,
+and gate face-to-face configuration. It is designed
+Product support can be obtained from:
+in accordance with ASME standard B16.34, which
+meets international standards for pressure and tem-
+Bray Controls Inc.
+perature ratings, shell thickness, and bore diameters.
+13333 Westland Blvd. East
+Installation details conform to the international
+Houston, TX, 77041, USA.
+flange standards ASME B16.5 and B16.47, ISO
+Phone: 281 894 5454
+7005, JIS B2238, and others. Tri Lok is provided
+www.braycontrols.com
+with actuator/operator mounting details which
+conform to ISO 5211 standard.
+1.4 Related Literature
+Hardware Documents:
+The main components of the Tri Lok triple offset
+• Bray Trilok Product Brochure
+butterfly valve are the body, disc, stem, and seat.
+• Installation, Operation and Maintenance The assembly includes the disc seal, disc seal
+Instructions retainer, stem journals, stem packing set, packing
+• Tri Lok Technical Manual gland, stem anti-blowout clips, and bottom body
+plug. The assembly is complemented with neces-
+Guidelines/References:
+sary gaskets, and fastener hardware.
+• Safety Integrity Level Selection – Systematic
+Methods Including Layer of Protection Analysis,
+3.0 Designing a SIF Using A
+ISBN 1-55617-777-1, ISA
+Manufactured Product
+• Control System Safety Evaluation and Reliability,
+2nd Edition, ISBN 1-55617-638-8, ISA 3.1 Safety Function
+• Safety Instrumented Systems Verification, Practical Depending upon the version specified (Fail Closed
+Probabilistic Calculations, ISBN 1-55617-909-9, or Fail Open), the Tri Lok valve will rotate the valve
+ISA disc to close off the flow path through the valve body
+or open the flow path through the valve body.
+1.5 Reference Standards
+Functional Safety: The Tri Lok valve is intended to be part of final ele-
+ment subsystem as defined per IEC 61508 and the
+• IEC 61508: 2000 Functional safety of electrical/
+achieved SIL level of the designed function must be
+electronic/programmable electronic safety-related
+verified by the designer.
+systems
+• ANSI/ISA 84.00.01-2004 (IEC 61511 Mod.)
+3.2 Environmental limits
+Functional Safety – Safety Instrumented Systems
+The designer of a SIF must check that the product
+for the Process Industry Sector
+is rated for use within the expected environmental
+limits. Refer to the Service data and Material
+2.0 Device Description
+sections of Tri Lok valve product brochure for
+The Tri Lok is a high performance quarter-turn
+environmental limits.
+triple offset butterfly valve used to control process
+fluids. It is offered in a standard version, and in a
+3.3 Application limits
+fire-safe version. The standard version is available
+The materials of construction of Tri Lok valve
+in sizes from 3” through 60” in ASME pressure
+are specified in the Bray Tri Lok valve product
+classes 150 and 300.
+brochure. It is important that the designer check for
+material suitability considering on-site conditions
+The valve is inherently firesafe, and is certified to
+and air supply conditions. If the Tri Lok valve
+API 607, fifth edition and ISO 10497 in all materials
+is used outside of the application limits or with
+listed in ASME B16.34, as well as in non-ferrous
+incompatible materials, the reliability data provided
+nickel-aluminum bronze.
+becomes invalid.
+2 All information herein is proprietary and confidential and may not be copied or reproduced without the expressed written consent of BRAY INTERNATIONAL, Inc.
+The technical data herein is for general information only. Product suitability should be based solely upon customer’s detailed knowledge and experience with their application.
+=== page 5 ===
+Tri Lok Triple Offset Butterfly Valve
+Safety Manual
+3.4 Design Verification for any hardware fault tolerance and architecture
+A detailed Failure Mode, Effects, and Diagnostics constraints.
+Analysis (FMEDA) report is available from Bray
+Controls. This report details all failure rates and 3.5.3 Safety Parameters
+failure modes as well as the expected lifetime. For detailed failure rate information refer to the
+Failure Modes, Effects and Diagnostic Analysis
+The achieved Safety Integrity Level (SIL) of an Report for the Tri Lok valve.
+entire Safety Instrumented Function (SIF) design
+must be verified by the designer via a calculation of 3.6 Connection of the Tri Lok valve to
+PFDavg considering architecture, proof test interval, the SIS Logic-solver
+proof test effectiveness, any automatic diagnostics, In a functional safety application the Tri Lok valve is
+average repair time and the specific failure rates of part of the final element of a SIS. The final element
+all products included in the SIF. Each subsystem system is connected to the safety rated logic solver
+must be checked to assure compliance with mini- which is actively performing the safety function as
+mum hardware fault tolerance (HFT) requirements. well as automatic diagnostics designed to diagnose
+potentially dangerous failures within the Tri Lok
+When using the Tri Lok valve in a redundant con- valve, (i.e. partial stroke test).
+figuration, a common cause factor of at least 10%
+should be included in safety integrity calculations.
+3.7 General Requirements
+The failure rate data listed the FMEDA report is
+The system’s response time shall be less than pro-
+only valid for the useful life time of Tri Lok valve.
+cess safety time. The Tri Lok valve is only part of
+The failure rates will increase sometime after this
+the final element of a SIS. All elements of the SIF
+time period. Reliability calculations based on the
+must be chosen to meet the safety response time.
+data listed in the FMEDA report for mission times
+All SIS components, including the Tri Lok valve
+beyond the lifetime may yield results that are too
+must be operational before process start-up.
+optimistic, i.e. the calculated Safety Integrity Level
+will not be achieved.
+User shall verify that the Tri Lok valve is suitable
+for use in safety applications by confirming the
+3.5 SIL Capability
+Tri Lok valve’s nameplate is properly marked.
+3.5.1 Systematic Integrity Personnel performing maintenance and testing on
+The product has met manufacturer design process Tri Lok valve shall be competent to do so.
+requirements of Safety Integrity Level (SIL) 3. These
+are intended to achieve sufficient integrity against Results from the proof tests shall be recorded and
+systematic errors of design by the manufacturer. A reviewed periodically.
+Safety Instrumented Function (SIF) designed with this
+product must not be used at a SIL level higher than The useful life of the Tri Lok valve is discussed
+the statement without “prior use” justification by end in Section 5.4.
+user or diverse technology redundancy in the design.
+4.0 Installation And Commissioning
+3.5.2 Random Integrity
+The Tri Lok valve is a Type A Device and is one 4.1 Installation
+of many components that can be used in a final The Tri Lok valve must be installed per standard
+element assembly. practices outlined in the Installation, Operations
+and Maintenance Instructions.
+The final element assembly consists of many com-
+The environment must be checked to verify that
+ponents, i.e. Tri Lok valve, an actuator or operator,
+environmental conditions do not exceed the ratings.
+solenoid, quick exhaust valve, etc. and the SIL must
+be verified for the entire assembly using failure rates
+The Tri Lok valve must be accessible for physical
+from all components. This analysis must account
+inspection.
+All information herein is proprietary and confidential and may not be copied or reproduced without the expressed written consent of BRAY INTERNATIONAL, Inc. 3
+The technical data herein is for general information only. Product suitability should be based solely upon customer’s detailed knowledge and experience with their application.
+=== page 6 ===
+Tri Lok Triple Offset Butterfly Valve
+Safety Manual
+4.2 Physical Location and Placement 4.3 Pneumatic Connections
+The Tri Lok valve shall be accessible with sufficient Recommended piping for the inlet and outlet pneu-
+room for pneumatic connections and shall allow matic connections to the actuator of the Tri Lok
+manual proof testing. valve is a minimum 1/4” metal or PVC tubing.
+The length of tubing between the actuator and the
+Pneumatic piping to the valve actuator shall be kept control device, such as a solenoid valve, shall be
+as short and straight as possible to minimize the kept as short as possible and free of kinks.
+airflow restrictions and potential clogging. Long
+or kinked pneumatic tubes may also increase the Only dry air filtered to 50 micron or better is rec-
+valve closure time. ommended.
+The Tri Lok valve shall be mounted in a low The process air pressure shall meet the require-
+vibration environment. If excessive vibration can ments set forth in the Installation, Operation and
+be expected special precautions shall be taken to Maintenance Instructions.
+ensure the integrity of pneumatic connectors to the
+valve actuator, or the vibration should be reduced The process air capacity shall be sufficient to move
+using appropriate damping mounts. the valve actuator within the required time.
+4 All information herein is proprietary and confidential and may not be copied or reproduced without the expressed written consent of BRAY INTERNATIONAL, Inc.
+The technical data herein is for general information only. Product suitability should be based solely upon customer’s detailed knowledge and experience with their application.
+=== page 7 ===
+Tri Lok Triple Offset Butterfly Valve
+Safety Manual
+5.0 Operation And Maintenance proof tests must be performed more frequently than or
+as frequently as specified in the calculation in order
+to maintain the required safety integrity of the safety
+5.1 Proof test without automatic testing
+instrumented function.
+The objective of proof testing is to detect failures within
+the valve that are not detected by any automatic diag-
+The following proof test is recommended. The results
+nostics of the system. Of main concern are undetected
+of the proof test should be recorded and any failures
+failures that prevent the safety instrumented function
+that are detected and that compromise functional safety
+from performing its intended function.
+should be reported to Bray Controls.
+The frequency of proof testing, or the proof test interval,
+The suggested proof test consists of a full stroke of the
+is to be determined in reliability calculations for the safety
+Tri Lok valve’s actuator.
+instrumented functions for which a valve is applied. The
+Table1: Recommended Proof Test
+Step Action
+1 Bypass the safety function and take appropriate action to avoid a false trip
+2 Send a signal to the final element configuration to perform a full stroke and verify that this is achieved
+3 Inspect the Tri Lok valve for any visible damage or contamination
+4 Record any failures in your company’s SIF inspection database
+5 Remove the bypass and otherwise restore normal operation
+The proof test coverage for the Tri Lok valve is listed 5.3 Repair and replacement
+in the FMEDA report. Repair procedures in the Tri Lok valve Installation,
+Operation and Maintenance manual must be followed.
+The person(s) performing the proof test of Tri Lok
+valve should be trained in SIS operations, including 5.4 Useful Life
+bypass procedures, valve maintenance and company The useful life of the Trilok valve is 10 to 15 years or
+Management of Change procedures. 1,000 cycles.
+5.2 Proof test with automatic partial 5.5 Manufacturer Notification
+operational stroke testing
+Any failures that are detected and that compromise
+An automatic testing scheme that performs a full stroke functional safety should be reported to Bray Controls.
+of the Tri Lok valve and measures valve movement Please contact Bray Controls customer service.
+timing will detect most potentially dangerous failure
+modes. It is recommended that a physical inspection 5.6 Product Registration
+(Step 2 from Table 1) be performed on a periodic basis If the product is being used in a safety application
+with the time interval determined by plant conditions. and there is a desire to receive notices regarding
+A maximum inspection interval of five years is the product, register the product with Bray Controls
+recommended. Customer Service.
+All information herein is proprietary and confidential and may not be copied or reproduced without the expressed written consent of BRAY INTERNATIONAL, Inc. 5
+The technical data herein is for general information only. Product suitability should be based solely upon customer’s detailed knowledge and experience with their application.
+=== page 8 ===
+Tri Lok Triple Offset Butterfly Valve
+Safety Manual
+START-UP CHECKLIST
+The following checklist may be used as a guide to employ the Tri Lok Valve in a safety critical SIF com-
+pliant to IEC61508.
+Verified
+Activity Result
+By Date
+Design
+Target Safety Integrity Level and PFDavg determined
+Correct valve mode chosen (Fail-closed, Fail-open)
+Design decision documented
+Pneumatic compatibility and suitability verified
+SIS logic solver requirements for Tri Lok valve tests defined and documented
+Routing of pneumatic connections determined
+SIS logic solver requirements for partial stroke tests defined and documented
+Design formally reviewed and suitability formally assessed
+Implementation
+Physical location appropriate
+Pneumatic connections appropriate and according to applicable codes
+SIS logic solver valve actuation test implemented
+Maintenance instructions for proof test released
+Verification and test plan released
+Implementation formally reviewed and suitability formally assessed
+Verification and Testing
+Electrical connections verified and tested
+Pneumatic connection verified and tested
+SIS logic solver valve actuation test verified
+Safety loop function verified
+Safety loop timing measured
+Bypass function tested
+Verification and test results formally reviewed and suitability formally assessed
+Maintenance
+Tubing blockage / partial blockage tested
+Safety loop function tested
+6 All information herein is proprietary and confidential and may not be copied or reproduced without the expressed written consent of BRAY INTERNATIONAL, Inc.
+The technical data herein is for general information only. Product suitability should be based solely upon customer’s detailed knowledge and experience with their application.
+=== page 9 ===
+A Division of BRAY INTERNATIONAL, Inc.
+13333 Westland East Blvd. Houston, Texas 77041
+281/894-5454 FAX 281/894-9499 www.bray.com
+Bray® is a registered trademark of BRAY INTERNATIONAL, Inc.
+© 2020 Bray International. All rights reserved. SM-1003_TriLok_2020-06

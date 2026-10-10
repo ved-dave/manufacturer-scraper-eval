@@ -1,0 +1,100 @@
+=== page 1 ===
+RITE® SERIES 210
+SINGLE DOOR WAFER TYPE SWING CHECK VALVE
+SEAT RING HARD SEAT
+OVERVIEW APPLICATIONS
+The Rite® Series 210 wafer combination swing check valves are > Chemical Processing > Petrochemical
+flow activated and Rite® Sized. The Rite® Series Check Valve > Electrolysis > Power Generation
+inlet ports and disc have been shape optimized to achieve a > Facilities/Skid > Refrigeration
+fully open position at low flow rates (3 ft/s on average). > HVAC > Storage & Transport
+> Marine > Tank Trucks
+SPECIFICATIONS > Nuclear > Water
+> Oil Transport
+NPS 1” to 60”
+Size Range
+25mm to 1500mm
+Cryogenic to High Temperature (Pending MEDIA
+Temperature Range
+Materials Selected)
+> Acids > Gases
+ASME (125, 150, 300)
+Operating Pressure > Alkalis > Hydrogen
+DIN (PN10, 16, 25, 40)
+> Corrosive Chemicals > Oxygen
+Body Style One-Piece Wafer Body Seat Ring Type > Dry Chlorine (Gas or > Water
+Leakage Rate API 598 Liquid)
+DESIGN FEATURES
+The Series 210 hard seated check valves offer: Figure 01: Seat Ring Hard Seat Cutaway
+Front View.
+SINGLE DOOR DESIGN:
+Below numbered list can be referenced on various
+figures throughout document
+1 Combination design utilizing both gravity + spring
+makes the valve easy to open/close, reducing water 1
+hammer.
+2
+2 Limited movement of internal parts during operation
+extends service life.
+3 Elliptical inlet shape designed to accelerate line media
+through the valve.
+4
+4 Optimal diameter for high flow capacity.
+5 Short face to face reducing weight and space between
+3
+flanges.
+6 Low cracking pressure design.
+7 Quick response time (ideal for process lines with 5
+varying flows & control valves).
+8 Customizable modular design, allows for adding
+special accessories to meet customer application
+requirements.
+9 Cost & energy efficiency, requiring only one set of
+Figure 02: Seat Ring Hard Seat Cutaway
+flange studs which span the valve, reducing in-service
+Rear View.
+vibration.
+10 Higher grade material as standard on seat ring type
+design enhances life expectancy.
+6
+© 2025 BRAY INTERNATIONAL. ALL RIGHTS RESERVED. BRAY.COM EN_SDS_S210_SRHS_20250311 1 of 2
+=== page 2 ===
+RITE® SERIES 210
+SINGLE DOOR WAFER TYPE SWING CHECK VALVE
+SEAT RING HARD SEAT
+DESIGN STANDARDS MATERIAL OPTIONS1
+Body Material determines whether design is integral type, or seat
+Valve Design ASME B16.34 ring type. See below chart:
+H100, SA01, SA1, SA2, SA3, SA4, SA4A, Carbon Steel (ASTM A216 WCB)
+Accessories Available SA6, SA7, SA10, SA16, SA40, SA40A,
+SA50, etc. Body Cast Iron (ASTM A126 CLB)
+Testing Standard ASME B16.34, API 598 Ductile Iron (ASTM A395)
+Face-to-Face Manufacturer’s Standard Hinge Stainless Steel (ASTM A351 CF8M)
+Stainless Steel (ASTM A240 304), Stellite
+Seat Ring
+overlay optional
+Valve size: <12”: Stainless Steel (ASTM A313
+CERTIFICATIONS AND APPROVALS 316) standard duty
+Spring
+Valve size: >14”+: Stainless Steel (ASTM A313
+CE/PED 17-7 PH)
+Certifications
+CRN Spacer Stainless Steel (ASTM A479 316), PTFE optional
+Approvals NSF-61 Pin Stainless Steel (ASTM A479 316)
+Additional information is available in the Bray Rite® Ltd. Technical Plug Steel
+Sales Manual. Lock Nut Steel Zinc Plated
+Eye Bolt Steel Zinc Plated
+Nameplate Stainless Steel (SS 316)
+Figure 03: Seat Ring Hard Seat Disc Stainless Steel (ASTM A351 CF8M)
+Exploded View. Rivet Steel Zinc Plated
+Disc Nut Stainless Steel (ASTM F594 316)
+Rite® Series Check Valve seat ring type part number: V0215SMZ
+(For 2”, Class 150, Carbon Steel ASTM A216 WCB Body, Metal Seat,
+SS Spacer, Series 210)
+Note: 1 Dimensions available in ASME and DIN sizes.
+8
+7
+Figure 04: Seat Ring Hard Seat In-Pipe View. Figure 05: Seat Ring Hard Seat Close-Up Cutaway
+Views.
+9
+10
+© 2025 BRAY INTERNATIONAL. ALL RIGHTS RESERVED. BRAY.COM EN_SDS_S210_SRHS_20250311 2 of 2

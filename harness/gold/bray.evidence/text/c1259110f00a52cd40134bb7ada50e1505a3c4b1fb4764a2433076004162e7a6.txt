@@ -1,0 +1,87 @@
+=== page 1 ===
+RITE® SPECIAL APPLICATION SERIES SA16
+EXTERNAL WEIGHT & LEVER
+CHECK VALVE ACCESSORY
+OVERVIEW APPLICATIONS
+The Rite® Series SA16 check valve accessory is designed to > Solids handling
+provide additional external mass to increase the cracking > Vacuum
+pressure to alter the closing force of the disc during open/close. > Wastewater
+This valve is used where flexibility is required on-site to alter the
+closing characteristics of the valve. MEDIA
+> Dry Chlorine (Gas or > Hydrogen
+SPECIFICATIONS
+Liquid) > Oxygen
+NPS 2” to 24” > Gases > Water
+Size Range
+50mm to 600mm
+Temperature Range Pending Materials Selected
+Operating Pressure Pending Pressure Class Selected
+Body Style One-Piece Flanged or Wafer Body
+Compatibility Bray 205, 210, or 211 Series
+Leakage Rate API 598
+DESIGN FEATURES Figure 01: SA16 Rear View Closed (Right
+Hand Mount Displayed and Provided As
+The Rite® Series SA16 check valve accessory offers
+Standard).
+single door check valve design modification to alter flow
+conditions:
+APPLICATION:
+The purpose of equipping a standard Rite® Series Single
+Door Wafer or Flanged Type Swing Check Valve with an
+external weight and lever to provide the user with the ability
+to change the cracking pressure of the valve, within a certain
+range and/or change the closing characteristics of the valve.
+A weight is used to provide the necessary torque to close
+the valve.
+GENERAL DESCRIPTION:
+The model SA16 is a standard Rite® Series Single Door
+Swing Check Valve that has been converted, featuring a
+positive hexagon drive at the disc/hinge/shaft connection.
+The shaft extends through and is supported by the
+body at one end, by a bushing in the body, and by a
+ball bearing designed to reduce friction mounted in a Figure 02: SA16 Rear View Open.
+bracket on the opposing side. O-rings seal the shaft, seal
+bushing and the body to prevent leakage. The weight is
+supported by a lever mounted to the shaft via a hexagonal
+connection. The position of the weight along the lever arm
+is adjustable, allowing fine-tuning of the disc’s cracking
+pressure to either decrease or increase.
+© 2025 BRAY INTERNATIONAL. ALL RIGHTS RESERVED. BRAY.COM EN_CVA_SDS_SA16_20240924 1 of 2
+=== page 2 ===
+RITE® SPECIAL APPLICATION SERIES SA16
+EXTERNAL WEIGHT & LEVER
+CHECK VALVE ACCESSORY
+For body/trim materials user must first refer to and select the MATERIAL OPTIONS1
+appropriate model from the foundation unit Sales Data Sheets.
+Seal Bushing Stainless Steel (ASTM A479 316)
+Integral Hard Seat (IHS)
+BUNA-N, EPDM, FKM-A, HNBR, Neoprene
+Seat Ring Hard Seat (SRHS)
+Series 205 Seal O-Rings (x4) PTFE-virgin, Teflon encapsulated silicone,
+Integral Soft Seat (ISS) Viton
+Seat Ring Soft Seat (SRSS) Weight Lever Steel
+Integral Hard Seat (IHS) Retaining Plate Steel
+Seat Ring Hard Seat (SRHS) Bracket Steel
+Series 210
+Integral Soft Seat (ISS) Socket Head Steel Zinc Plated
+Screws (x4)
+Seat Ring Soft Seat (SRSS)
+Dowel Pins (x2) Steel Zinc Plated
+Integral Hard Seat (IHS)
+Ball Bearing Steel
+Seat Ring Hard Seat (SRHS)
+Series 211 Round Head Steel Zinc Plated
+Integral Soft Seat (ISS) Screw
+Seat Ring Soft Seat (SRSS) Weight Steel
+Note: 1 Dimensions available in ASME and DIN sizes.
+All external components can be offered in SS where required.
+* Previous Models before July 2024 may have included slightly
+different material configurations/parts callout lists.
+Rite® Series Check Valve Integral Hard Seat type part number:
+V0215XBZ205SA16 (For 2”, Class 150, Stainless Steel (ASTM A351
+CF8M) Body, BUNA-N O-Ring, SS Spacer, Series 205, Special
+Application Series SA16).
+Figure 03: SA16 Exploded View.
+Figure 04: Seal Bushing & O-Ring
+Close up.
+© 2025 BRAY INTERNATIONAL. ALL RIGHTS RESERVED. BRAY.COM EN_CVA_SDS_SA16_20240924 2 of 2

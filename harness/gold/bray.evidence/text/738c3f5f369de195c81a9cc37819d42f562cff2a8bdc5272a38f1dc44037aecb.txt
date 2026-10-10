@@ -1,0 +1,85 @@
+=== page 1 ===
+TRI LOK® TRIPLE OFFSET BUTTERFLY VALVE
+RECOMMENDED SPECIFICATION SHEET
+VALVE DETAILS DISC AND SEAL RING:
+> Tri Lok® Triple Offset Butterfly Valve > The disc shall be of the same material as specified for the
+> Double Flange | Lug | Wafer valve body and shall be connected to the stem by means
+> NPS 3 to 48 | DN 80 to 1200 of an internal splined connection. Pins, keys and other
+> ASME Class 150, 300, 600, 900 connection designs are not acceptable.
+PN 10, 16, 25, 40, 63, 100, 150 > The disc shall be designed and constructed with one
+> Bray Tri Lok® or approved equal. hub and shall not expose the stem to the flow thereby
+improving flow characteristics and performance.
+GENERAL > The seal ring shall consist of stainless steel laminations or
+> The valve shall be: solid stainless steel and shall be machined on the outside
+– 90° clockwise to close diameter to an inclined conical shape that matches the
+– Non-rubbing seat in the body.
+– Non-jamming > The overall geometry of the seal ring shall be formed into
+– Metal-to-metal seated an elliptical shape that will provide resilient seating while
+– Bi-directional maintaining uniform contact pressure around the entire
+– Zero leakage sealing surface.
+– Inherently fire-safe - Tested to API 607 7th or Latest > The seal ring shall be designed to flex and compress
+Edition or ISO 10497 elastically on the seating surface to ensure uniform
+– Low fugitive emissions tested per ISO 15848-1, pressure on the entire outside diameter of the seal ring.
+API 641, API 622 or TA Luft > The seal ring shall be held securely, but not rigidly, in
+> The valve shall be designed in accordance with place by a retaining flange bolted to the disc to allow for
+ANSI/ASME B16.34, B31.1 and B31.3 standards. easy replacement.
+> The body, disc and stem shall be designed within the > The seal ring shall be positioned on the disc with the
+allowable stress levels defined by ASME Boiler Pressure assistance of a locating pin and a die formed gasket shall
+Vessel Code Section VIII and III for the material used. be provided between the seal ring and the disc to prevent
+> The valve end connections shall be per ANSI/ASME B16.5, any possible leakage around the seal ring
+ANSI B16.47 or the international standard specified.
+> The valve shall be of all metal construction, inherently
+fire-safe and fire tested by an independent agency.
+BODY AND SEAT
+> Body shall be one piece cast or forged wafer, lug, or
+double flanged design. Welded bodies are not permitted.
+> Valve body wall thickness shall meet ASME B16.34 and
+API600 for increased corrosion allowance.
+> Face-to-face dimensions shall conform to API 609,
+ISO 5752 and EN 558-2 standards.
+> The valve seat shall be REPLACEABLE and bolted to
+the valve body. Seats welded to the valve body are not
+permitted.
+> The valve seat shall be an inclined conical shape
+specifically designed for non-rubbing, non-jamming and
+zero leakage bidirectional shut-off.
+© 2022 BRAY INTERNATIONAL. ALL RIGHTS RESERVED. BRAY.COM EN_RSS_TR LOk TRIpLE OffSET BV_20220610 1 of 2
+=== page 2 ===
+TRI LOK® TRIPLE OFFSET BUTTERFLY VALVE
+RECOMMENDED SPECIFICATION SHEET
+STEM APPROVALS AND CERTIFICATIONS
+> Shall be a one-piece design. Two-piece stems are not > CE/PED
+acceptable. > Fire Tested
+> The stem material shall be stainless steel. – API 607
+> The stem shall be connected to the disc by means of – ISO 10497
+an internal splined connection. Pins, keys and other > Fugitive Emissions Certification
+connection designs are not acceptable. – API 641
+> Shall contain a position indicator dimple which will – ISO 15848-1
+provide a positive disc position. – TA-Luft VDI 2440
+> A blow-out proof prevention ring shall be located above
+the packing box, outside the pressure boundary and VALVE ACTUATOR MOUNTING PAD
+integral to the valve. Retention systems which are integral > ISO 5211
+to the actuator or actuator mounting bracket are not
+permitted. TESTING
+> The valve body shall be hydrostatically tested per API 598
+PACKING & BEARINGS to 150% of the maximum design pressure.
+> A two-piece adjustable packing gland shall be supplied > No leakage shall be detected through the valve body.
+and designed in such a manner to prevent galling of > Each valve shall be tested for seat leakage in both
+the packing box in the event of unequal loading of the directions with both liquid and air in accordance with
+packing gland studs. API 598 for resilient seated valves. Valve leakage shall be
+> The packing shall consist of five rings of high density, high zero.
+purity, die formed graphite.
+> The bearings shall be of sufficient length and designed in PRESSURE RATINGS
+a manner to minimize the load and wear. > The pressure rating of the valve shall be in accordance
+> The bearings shall Include a separate and replaceable seal with ASME B16.34
+of graphite to eliminate media and solids ingress. > ASME Class 150 | PN 10, PN 16
+– NPS 3 to 48 | DN 80 to 1200
+285 psi (20 bar)
+– ASME Class 300 | PN 25, PN 40
+– NPS 3 to 42 | DN 80 to 1050
+– 740 psi (50 bar)
+> ASME Class 600 | PN 63, PN 100
+– NPS 6 to 36 | DN 150 to 900
+– 1440 psi (100 bar)
+> ASME Class 900 | PN 150 option
+© 2022 BRAY INTERNATIONAL. ALL RIGHTS RESERVED. BRAY.COM EN_RSS_TR LOk TRIpLE OffSET BV_20220610 2 of 2

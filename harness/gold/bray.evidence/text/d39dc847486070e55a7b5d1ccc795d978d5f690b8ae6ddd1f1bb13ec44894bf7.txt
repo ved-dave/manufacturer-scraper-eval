@@ -1,0 +1,126 @@
+=== page 1 ===
+SERIES 70 ELECTRIC ACTUATOR
+RECOMMENDED SPECIFICATION SHEET
+GENERAL MECHANICAL TRAVEL STOPS
+> The actuator shall be compact and low profile to minimize > Mechanical stainless steel travel stops shall be provided
+space requirements. and located outside the actuator enclosure for ease of
+> The actuator shall provide adjustable operation up to 90°. adjustment.
+> The actuator shall provide easy access for field wiring and > Stainless steel lock nuts shall be provided to hold the
+adjustment. travel stops in position.
+> The actuator shall be built to withstand line vibration and > O-ring seals for waterproof protection shall be provided.
+shock without failure. > The mechanical travel stops shall limit the travel of the
+actuator in either direction to the full travel range of the
+ENCLOSURE - WEATHERPROOF valve.
+> The enclosure shall be die-cast aluminum. > Stainless steel spacers shall be provided to prevent
+> The enclosure shall be polyester or Seacorr coated (as adjustment of travel stops above 0° and below 90°.
+specified) for environmental protection.
+> The enclosure shall be provided with captive cover bolts MANUAL OVERRIDE
+to prevent loss of cover bolts when cover is removed. > The actuator shall be equipped with a manual override
+> The enclosure shall have two conduit connections (one for handwheel to rotate the valve without electrical power.
+power wiring and one for control signal wiring) in either > The manual override system shall ensure efficient manual
+NPT or metric threads as specified. operation without the use of extra tools or levers.
+> The actuator enclosure shall be provided with a high > A motor power cutout switch shall be provided to cut
+visibility valve position display prominently labeled and power to the motor when the actuator manual override is
+color coded to indicate the valve position throughout the engaged.
+full range of travel.
+TRAVEL LIMIT SWITCHES
+MOTOR > Travel limit switches shall limit the actuator travel in both
+> The motor shall be a single phase, permanent split the open and closed direction of travel.
+capacitor induction type with Class F or better insulation. > Travel limit switches shall be held in brackets for accurate
+> The motor shall contain a built-in UL approved automatic and repeatable valve position feedback.
+reset thermal overload protector set at 275ºF (135ºC) > Travel limit switch cams shall be infinitely adjustable by
+embedded in the motor windings. finger touch or screw driver.
+> Motors shall be 120 VAC or 220 VAC (230 VAC > All travel limit switches shall be:
+compatible) 50/60 Hz as specified. – Single Pole Double Throw (SPDT) Form C, UL Listed,
+> Other DC and AC motors shall be available upon request. and CSA Approved.
+– 10A at 125/250 VAC and 1/2A at 125 VDC.
+ACTUATOR GEAR TRAIN SYSTEM > Travel limit switches shall be pre-wired to a terminal block
+> The actuator shall have a self-locking gear train system for ease of access and all internal wiring shall range from
+consisting of a worm and worm gear output drive 12-22 AWG.
+mechanism, which will hold the valve in the desired
+position without the need for an electro-mechanical
+braking system.
+> The spur gear train shall have precision cut multi- staged
+gears which will withstand locked rotor conditions and
+are permanently lubricated at the factory.
+> The actuator shall have an Oldham coupler to correct any
+misalignment between the output gear and the cam shaft.
+© 2023 BRAY INTERNATIONAL. ALL RIGHTS RESERVED. BRAY.COM EN_RSS_S70 ACTUATOR_20230915 1 of 3
+=== page 2 ===
+SERIES 70 ELECTRIC ACTUATOR
+RECOMMENDED SPECIFICATION SHEET
+SERVICE REQUIREMENTS LOCAL CONTROL STATION
+> Actuators shall be designed for electric operation under > Permits local electrical operation of the actuator.
+the following service conditions: > Shall flush mount to the actuator and include:
+> Temperature range: – A local-off-remote control switch.
+– -20ºF to 150°F (-29ºC to 65º) – An open-stop-close switch.
+> Duty Cycle: – Two lights which indicate open and closed valve
+– 25% for Intermittent Operation position.
+– 100% for Continuous Operation – Two ¾” NPT conduit entries in base of enclosure for
+customer wiring.
+TESTING > Enclosure shall be aluminum and weatherproof.
+> All actuators shall be factory tested at rated load to
+ensure proper operation. BATTERY BACK UP
+> User-selectable valve fail position upon loss of power
+MOUNTING supply in 24V applications.
+> All actuators shall comply with ISO 5211 and mount > Shall flush mount to the actuator and include:
+directly to the valve mounting flange and stem without – Visual and remote indication of battery status and
+the need for any brackets or couplings. operation.
+– Field selectable valve fail position.
+OPTIONAL EQUIPMENT – Two ¾” NPT conduit entries in base of enclosure for
+> The actuator shall be designed to accept the following customer wiring.
+optional accessories if specified: > Enclosure shall be aluminum and weatherproof.
+TORQUE LIMITING SYSTEM POTENTIOMETER
+> Limits torque output during electrical operation. > Provides continuous feedback of valve position.
+> Shall include two SPDT mechanical switches and two > Shall be a gear driven 10k Ohm potentiometer.
+factory-calibrated adjusting screws. > Shall be standard for units with Servo NXT controller.
+> The switches, in response to a predetermined load on the
+actuator output shaft, shall interrupt power to the motor. AUXILIARY SWITCHES
+> The switches shall operate at any point and in both > Indicates travel position for remote customer control
+directions of actuator travel. systems.
+> All auxiliary switches shall be:
+HEATER – Single Pole Double Throw (SPDT) Form C, UL Listed,
+> Prevents internal condensation build-up. and CSA Approved.
+> Shall be a self-regulating temperature control type. – 10A at 125/250 VAC and 1/2A at 125 VDC
+> Shall be pre-wired to the terminal block for ease of > Up to 6 auxiliary switches may be added.
+connection to external source.
+> Rated output shall be 5 W at 120 or 220 VAC.
+© 2023 BRAY INTERNATIONAL. ALL RIGHTS RESERVED. BRAY.COM EN_RSS_S70 ACTUATOR_20230915 2 of 3
+=== page 3 ===
+SERIES 70 ELECTRIC ACTUATOR
+RECOMMENDED SPECIFICATION SHEET
+SERVO NXT
+> Precise modulating control of the valve position. ACTUATOR APPROVALS & CERTIFICATIONS
+> Shall accept an analog input command signal proportional > CE
+to the desired valve position. – Low Voltage Directive: 2014/35/EU
+> The analog input signal shall be configurable to either – EMC Directive: 2014/30/EU
+current or voltage input: – Machinery Directive: 2006/42/EC
+– 4-20mA DC, 0-10V DC, 2-10V DC, 0-5V DC. – RoHS Directive: 2011/65/EU
+> Shall have an analog output retransmission signal – IP65, IP67 (Excluding S70-130/180)
+proportional to the actual valve position. > ABS
+> The analog output signal shall be configurable to either > Bureau Veritas Certification
+current or voltage output: > CSA Certification
+– 4-20mA DC, 0-10V DC, 0-5V DC. – For select 120VAC units.
+> LED driven menu display shall be provided for simplified > UL Certification (cULus)
+commissioning, monitor and control of actuator. – For select 120VAC units.
+> Voltage spike and transient protection shall be provided – NEMA Type 4, 4x.
+on all input terminals and output terminals.
+> Independent isolation shall be provided between analog HAZARDOUS LOCATION
+input command signal and output retransmission signal to > Certified to UL and CSA standards.
+eliminate ground loops. – For select 120VAC units.
+> 120/230VAC units shall have inductive isolation between – NEMA Type 4, 4x, 7, 9.
+line voltage and logic level voltages. > Hazardous location enclosure shall be UL certified to:
+> Control characteristic shall be linear and duty cycle shall – Class I, DIV 1 & 2, Group C, D
+be 100%. – Class II, DIV 1 & 2, Group E, F, G
+> Calibration shall be accomplished by pressing a single – Operating Temperature Code: T3B (165°C)
+button to initiate the calibration routine. > All unused conduit entry points to be sealed for ingress
+> Independent adjustments shall be provided for deadband protection.
+and for both open and closed speed control of the
+actuator.
+> Internal feedback shall be by means of a 10k Ohm
+potentiometer.
+> Manual mode operation shall be provided to allow for
+control of actuator when no command signal is present.
+> On-board fault indications shall be provided.
+> Shall be designed to meet UL and CE standards.
+© 2023 BRAY INTERNATIONAL. ALL RIGHTS RESERVED. BRAY.COM EN_RSS_S70 ACTUATOR_20230915 3 of 3

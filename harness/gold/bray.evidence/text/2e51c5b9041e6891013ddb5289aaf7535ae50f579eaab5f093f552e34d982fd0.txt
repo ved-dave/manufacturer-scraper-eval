@@ -1,0 +1,914 @@
+=== page 1 ===
+BRAY/RITE
+DUAL DOOR WAFER TYPE
+CHECK VALVES
+Installation, Operation, and Maintenance Manual
+BRAY.COM THE HIGH PERFORMANCE COMPANY
+=== page 2 ===
+Dual Door Wafer Check Valve
+Installation, Operation and Maintenance Manual
+CONTENTS
+1.0 Definition Of Terms . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+2.0 Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+3.0 Parts Identification . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+4.0 Valve Identification . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+5.0 Qualified Personnel . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+6.0 Handling Requirements. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+7.0 Storage. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+8.0 Lifting. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+9.0 Description. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+10.0 Inspection & Unpacking . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .13
+11.0 Tools Required. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+12.0 Installation Considerations. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+13.0 Installation Procedure. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+14.0 Disassembly/Reassembly . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .18
+15.0 Maintenance . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .19
+16.0 Repairs . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+17.0 Spool Installation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .21
+18.0 Safety Warnings. . . . . . . .. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 22
+19.0 Limitations And Precautions. . . . . . . .. . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+20.0 Troubleshooting. . . . . . . .. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24
+2 of 25
+© 2023 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM
+The Information contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 3 ===
+Dual Door Wafer Check Valve
+Installation, Operation and Maintenance Manual
+READ AND FOLLOW THESE INSTRUCTIONS CAREFULLY.
+SAVE THIS MANUAL FOR FUTURE USE.
+1.0 DEFINITION OF TERMS
+All information within this manual is relevant to the safe operation
+1.1
+and proper care of your Bray valve. Please understand the
+following examples of information used throughout this manual.
+X.X IDENTIFIES CHAPTER HEADING
+X.XX Indentifies and explains sequential procedure to be performed.
+NOTE: Provides important information related to a procedure.
+SAFETY STATEMENTS
+The terms DANGER, WARNING, CAUTION, and NOTICE are used
+in this document to prevent unwanted consequences. Standard
+symbols and classifications are:
+DANGER
+Indicates an immediate hazardous situation which, if not avoided,
+will result in death or serious injury and/or property damage.
+WARNING
+Indicates a potentially hazardous situation which, if not avoided,
+could result in death or serious injury and/or property damage.
+CAUTION
+Indicates a potentially hazardous situation which, if not avoided,
+may result in minor or moderate injury and/or property damage.
+NOTICE
+Indicates and provides additional technical information which
+may not be obvious, even to qualified personnel. The term is not
+used for personal injury hazards or warnings, but can be used to
+indicate possible equipment or property damage.
+1.2 Compliance with other notes — regarding transport, assembly,
+operation & maintenance, and about technical documentation
+(e.g., in the operating instructions, product documentation, or on
+the product itself) — is essential, to avoid faults which can directly
+or indirectly cause severe personal injury or property damage.
+3 of 25
+© 2023 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM
+The Information contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 4 ===
+Dual Door Wafer Check Valve
+Installation, Operation and Maintenance Manual
+2.0 INTRODUCTION
+NOTICE
+Failure to follow these procedures could affect product warranty.
+Read and follow these instructions carefully, and keep this
+manual in a safe place for future use.
+Instructions provided herewith should be thoroughly read and
+understood prior to actioning any installation or maintenance
+activities. Bray recommends that only experienced & skilled
+personnel be allowed to install and maintain these products.
+This manual is an overview only & does not in anyway replace the
+vital functions of on-site, process engineer(s), pipe fitter(s), etc.
+Please retain this manual in an easily accessible location for any &
+all employees that may need to reference it routinely.
+2.2 Valve Selection Confirmation:
+A properly functioning valve requires adequate selection
+review process. Before installation, efforts should be made to
+ensure valve being offered fits with application requirements by
+evaluating some common characteristics (non-exhaustive list):
+> Applicable operating conditions (condensation, flow reversal,
+frequency of operation, pressure drop, throttling, vacuum, etc.).
+> Design and working pressure/temperature requirements.
+> Materials of construction.
+> Pipeline media flow-rate and viscosity.
+> Service media type (abrasive, corrosive, dirty, gas, liquid, etc).
+> Site location for installation, ensuring adequate distance from
+sources of turbulence.
+2.3 Modern piping applications demand better features, performance
+and economy in a check valve.
+2.4 Bray/Rite Features:
+> Cost efficient.
+> Low cracking pressure.
+> Minimal head loss.
+> Quick close.
+2.5 Bray/Rite Performance Characteristics:
+> Non-slamming.
+> Rapid response.
+> Silent operation.
+2.6 Bray/Rite’s combination of these features and performance
+characteristics ensure long service life of Bray/Rite products.
+2.7 Please refer to separate general arrangement drawings for
+particular dimensional and operational parameters not appearing
+in this publication.
+4 of 25
+© 2023 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM
+The Information contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 5 ===
+Dual Door Wafer Check Valve
+Installation, Operation and Maintenance Manual
+3.0 PARTS IDENTIFICATION
+ITEM DESCRIPTION
+1 Body
+2 Disc
+3 Pin 11
+4 Spring
+5 Spacer
+8
+6 Resilient Seat (bonded permanently
+to body)
+7 Stem Sealing
+8 Plug
+7
+9 Nameplate
+10 Rivet
+11 Eye Bolt
+5
+3
+2
+4
+2
+4
+1
+5
+9
+10
+6 7
+8
+NOTES:
+> Flange connections meet ASME B16.1
+Class 150/BS EN 1092-2, PN10/16.
+> Design: API 594 Class 150.
+> Test: API 598.
+> CE, CE/UKCA, NSF marks available.
+5 of 25
+© 2023 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM
+The Information contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 6 ===
+Dual Door Wafer Check Valve
+Installation, Operation and Maintenance Manual
+4.0 VALVE IDENTIFICATION
+NOTICE
+> Ensure the box is not damaged externally.
+> Remove the valve from the packaging and check for any
+damage to the valve and its components during transit.
+> Report any damage or discrepancies immediately.
+> Every valve has an identification nameplate and must not
+be removed or covered, so that the installed valve remains
+identifiable.
+> Depending on the region, the valve identification nameplate
+may vary.
+All valves, actuators, or control products are provided with a
+nameplate that is unique to each device.
+The below nameplate (Figure 01) is an example at time of
+publishing and is subject to change.
+All valves shall be marked in accordance with ASME B16.34 and
+MSS SP25, except in the following conditions:
+> Special Project Valves: as per Engineering designer.
+> Valves designed to different design standard.
+Figure 01
+6 of 25
+© 2023 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM
+The Information contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 7 ===
+Dual Door Wafer Check Valve
+Installation, Operation and Maintenance Manual
+5.0 QUALIFIED PERSONNEL
+NOTICE
+Failure to follow these procedures could affect product warranty.
+A qualified person in terms of this document is one who is
+familiar with the installation, commissioning, and operation of the
+device and who has appropriate qualifications, such as:
+> Is trained in the operation and maintenance of electrical
+and mechanical equipment and systems in accordance with
+established safety practices.
+> Is trained or authorized to energize, de-energize, ground, tag,
+and lock electrical circuits and equipment in accordance with
+established safety practices.
+> Is trained in the proper use and care of personal protective
+equipment (PPE) in accordance with established safety
+practices.
+> In cases where the device is installed in a potentially explosive
+(hazardous) location — is trained in the commissioning,
+operation, and maintenance of equipment in hazardous
+locations.
+5.1 Additional information about DDCV valves — including
+application data, engineering specifications, and actuator
+selection — is available from your local Bray distributor or sales
+representative.
+7 of 25
+© 2023 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM
+The Information contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 8 ===
+Dual Door Wafer Check Valve
+Installation, Operation and Maintenance Manual
+6.0 HANDLING REQUIREMENTS
+WARNING
+A potential hazard exists with handling valves. Failure to handle
+valves properly may cause a valve to shift, slip or fall causing
+serious injury or death and/or equipment damage.
+CAUTION
+Must be taken during handling to avoid this equipment passing
+over workers, or over any other place where a possible fall could
+cause injury or damage.
+For handling and/or lifting, the lifting equipment (fasteners, hooks,
+etc.) must be sized and selected while taking into account the
+product weight indicated in our packing list and/or delivery note.
+Lifting and handling must be performed only by qualified personnel.
+Fasteners must be protected by plastic covers in sharp corner areas.
+In all cases, local safety regulations must be respected.
+6.1 Packed Valves
+Crates: Lifting and handling of the packed valves in crates will be
+carried out by a fork lift truck, by means of the appropriate fork
+hitches.
+Cases: The lifting of packed valves in cases should be carried out Figure 02
+at appropriate lifting points and based on the center of gravity
+position. The transportation of all packed material must be
+carried out safely and following the local safety regulations.
+6.2 Unpacked Valves
+NOTICE
+Valve should never be used as pipeline alignment tool. The area
+where the valve will be installed should have proper spacing
+afforded by pipeline flanges being mounted on both sides of the
+space prior to valve install.
+NEVER lift or move the valve assembly by means of any attached
+accessory, internal part, or mounting holes.
+Support the pipes first for
+Lifting and handling of valves should be carried out by using
+correct alignment
+appropriate means and observing carrying limits. Handling must
+be carried out on pallets, protecting all machined surfaces to
+Figure 03
+avoid any damage.
+With large bore valves, rigging the load must be carried out by
+using the appropriate tools to prevent the valve from falling or
+moving during the lifting and handling.
+Most standard large (8” and above) check valves are supplied
+with a removable lifting Eye Bolt (11) (Figure 03) which must be
+used to lift the valve and support the valve during alignment/
+installation. Improper use will result in valve Body (1) damage.
+© Th 2 e 0 In 23 fo B rm RA at Y io I n N T co E n R t N a A in T e I d O h N e A re L i , n I N sh C a . l l A n L o L t R b I e G c H o T p S ie R d E , S tr E a R n V sf E e D rr . e B d R , c A o Y n .C v O ey M e d , or displayed in any manner that would In © fo 2 rm 0 a 2 ti 1 o n Mh in tc t t Mp hi : s /a d /sw r t a e w wr in -wC g . a i m s r p rc r S o m v u i a d ps e pt d e l f y o r. r cC r o e o f m e m re p nc a e n o y nly.
+NUPMARBTER
+In © fo S2 rm 0h S a 2t toi 1e ou n eMh
+3
+lin lt dc t t EMp eh
+0
+i y: sr
+8
+/a e d /s
+1
+- w r tb afe w w o or
+4
+in -w r lC g t . La i m
+T
+s wri p rf
+o
+c r t iS
+5
+o mt iv un h i a d pg
+8
+s e pt d e l f
+f
+y o r. r cC r o e o f m e m re p n
+2
+c a e n o y nly.
+5NUPMARBTER
+Sh St o e u e
+3
+l l d E e
+0
+y r e
+1
+- b fo o
+4
+r lt L
+T
+w ift i
+5
+t in h g
+8
+violate its proprietary nature without the express written permission of Bray International, Inc.
+PART 3014T58
+NUMBER
+http://www.mcmaster.com Steel Eyebolt with
+© 2021 McMaster-Carr Supply Company
+Shoulder - for Lifting
+Information in this drawing is provided for reference only.
+=== page 9 ===
+Dual Door Wafer Check Valve
+Installation, Operation and Maintenance Manual
+7.0 STORAGE
+NOTICE
+The packaging is designed to protect the valve only during
+shipping. If you are not installing the valve immediately after
+delivery, then you must store it according to these requirements.
+Failure to follow these procedures could affect product warranty.
+7.1 Short-Term Storage
+Short-term storage is defined as storage of valves to allow for
+project construction and will be installed within a relatively short
+amount of time (typically one to three months). During short-term
+storage, the following is required:
+The preferred storage location is a clean, dry, protected
+warehouse. Do not expose the valve to temperature extremes.
+End protectors shall remain on the valve ends to prevent the
+entrance of dirt, debris, or insects/wildlife and should only be
+removed at the time of valve installation.
+Goods shall remain in the original shipping container with
+the original packaging materials. This packaging method will
+not protect valves that will be stored outside, uncovered, and
+unprotected.
+Storage of valves in an open, uncovered area is permissible, but
+requires provisions for inclement weather. The product must
+elevated from the ground on a pallet, a shelf, or other suitable
+surface, and must be covered with a secure, waterproof tarp.
+CAUTION
+Do not stack the valves on top of each other.
+Manually actuated valves may be stored in the vertical or
+horizontal position. For air or hydraulic actuated valves, the
+preferred orientation is with the valve and cylinder in the vertical
+position. Access ports should be secured to prevent unauthorized
+entry and prevent contamination.
+7.2 Long-Term Storage
+Long-term storage is defined as storage of valves longer than
+three months. During long-term storage, the following is required:
+The storage location shall be a clean, dry, protected warehouse.
+Do not expose the valve to temperature extremes.
+End protectors shall remain on the valve ends to prevent the
+entrance of dirt, debris, or insects/wildlife and should only be
+removed at the time of valve installation.
+Product shall remain in the original shipping container with the
+original packaging materials.
+CAUTION
+Do not stack the valves on top of each other.
+9 of 25
+© 2023 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM
+The Information contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 10 ===
+Dual Door Wafer Check Valve
+Installation, Operation and Maintenance Manual
+Manually actuated valves may be stored in the vertical or
+horizontal position. For air or hydraulic actuated valves, the
+preferred orientation is with the valve and cylinder in the vertical
+position. Access ports should be secured to prevent unauthorized
+entry and prevent contamination.
+Valves and equipment containing elastomers, including o-rings,
+must be stored in a climate-controlled warehouse according to
+SAE-ARP5316D requiring:
+> The ambient relative humidity to be less than 75%.
+> No exposure from direct ultraviolet or sunlight.
+> Protection from ozone generating equipment or combustible
+gases and vapors.
+> Storage at temperatures below 38°C (100°F), away from direct
+sources of heat. Preferred temperature range from 4°C to 29°C
+(40°F to 85°F). If a component is cooled below 15°C (59°F),
+the entire valve assembly should be allowed to rise above 20°C
+(68°F) before installing into service.
+> No exposure to ionizing radiation.
+7.3 Outdoor Storage
+Where outdoor storage is a necessity, special crating and valve
+packaging can be provided, at an additional charge but must be
+quoted before the order has been placed. Periodic checks on
+valves in storage are required to ensure all conditions listed above
+have been met.
+Storage of valves in an open, uncovered area is permissible, but
+requires following of above listed short and long term storage
+requirements as well as provisions for inclement weather. The
+product (at minimum) must be elevated off the ground on a
+pallet, a shelf, or other suitable surface, and must be covered with
+a secure waterproof tarp.
+7.4 Storage Inspection
+Visual inspection shall be performed on a quarterly basis
+and results recorded. Inspection, as a minimum, shall include
+reviewing the following:
+> Packaging.
+> Flange covers.
+> Dryness.
+> Cleanliness.
+Valves should be opened and closed once every 3 months.
+10 of 25
+© 2023 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM
+The Information contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 11 ===
+Dual Door Wafer Check Valve
+Installation, Operation and Maintenance Manual
+8.0 LIFTING
+WARNING
+A potential hazard exists with handling valves. Failure to handle
+valves properly may cause a valve to shift, slip, or fall — causing
+serious injury or death and/or equipment damage.
+NOTICE
+Always use safe and proper techniques for lifting and support.
+> Do NOT lift valves with any adjoining pipe or other equipment
+attached.
+> Follow jurisdictional safety requirements.
+> Lift with properly rated lifting equipment.
+11 of 25
+© 2023 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM
+The Information contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 12 ===
+Dual Door Wafer Check Valve
+Installation, Operation and Maintenance Manual
+9.0 DESCRIPTION
+9.1 Bray/Rite Dual Door Wafer Type Check Valves consist of a
+compact Body (1) bonded with Resilient Seat (6), and featuring
+a central mounted internal Pin (3) and Spring (4) system that
+automatically controls the open/close function of two single plate
+Discs (2) in the presence of flow.
+9.2 The Discs (2) are mechanically biased to the closed position by
+Spring (4) system.
+9.3 An Eye Bolt (11) is typically shipped separately (on sizes 8”+ only)
+in the check valve box from Bray/Rite to avoid damage resulting
+from transportation to it or the accompanying valve/ packaging.
+This Eye Bolt (11) can be installed/threaded on the top of the
+Bray/Rite dual door wafer type check valves.
+The Eye Bolt (11) has the primary purpose of aiding alignment
+during installation. Once successfully installed in proper
+alignment, The Eye Bolt (11) can be removed after installation if
+required.
+9.4 The Nameplate located on the valve body specifies:
+> Bray Rite
+> Class
+> Mfg. Date
+> Model
+> Size
+> Temperature (Min/Max)
+> Trim
+9.5 Bray/Rite Dual Door Wafer Type Check Valves are
+designed to open with minimal crack pressure as per Table 01.
+Table 01
+CRACKING PRESSURE
+DN50 DN65 DN80 DN100 DN125 DN150 DN200 DN250 DN300
+Direction
+Flow 2” 2 1/2” 3” 4” 5” 6” 8” 10” 12”
+Vertical 0.3 0.3 0.3 0.3 0.3 0.3 0.3 1.2 1.2
+Horizontal 0.2 0.2 0.2 0.2 0.2 0.2 0.2 1 1
+9.6 Bray/Rite Dual Door Wafer Type Check Valves are normally
+installed with the Eyebolt (11) (Figure 03 pg. 8) pointing vertically
+upwards in a horizontal run of pipe, with the arrow on the Body
+pointing in the direction of flow.
+9.7 All Bray/Rite Dual Door Wafer Type Check Valves are
+hydrostatically tested in accordance with ANSI B16.34, and API
+598 test procedures.
+12 of 25
+© 2023 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM
+The Information contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 13 ===
+Dual Door Wafer Check Valve
+Installation, Operation and Maintenance Manual
+10.0 INSPECTION & UNPACKING
+NOTICE
+Care should be given to inspect the product packaging for
+damage on all goods received while the freight carrier is still
+present. Any observed packaging damage should be reported
+immediately to the carrier, & any claim requirements followed
+through.
+10.1 Unpacking
+Open the shipping container with adequate care ensuring to
+leave containers intact.
+Any/all externally listed container specific markings must be
+followed.
+Remove any packing material and carefully lift the product(s)
+from the container.
+All shipping container and packing materials provided should be
+used (when space permits to do so) for product storage.
+NOTICE
+Care must be given to do a thorough visual inspection
+of all goods received in a timely manner. Any damage, or
+missing components expected where the expectation relates
+to mishandling during transit, should be noted to carrier
+immediately.
+Items that are damaged during shipment fall under the liability
+involved with quoted incoterms. If damage is observed, file a
+claim with the freight carrier immediately. Refer to Bray Terms
+and Conditions for Sale for our full warranty policy.
+10.2 Preparation for Shipment
+Bray/Rite valves are normally shipped from the factory in
+a combination of boxes, crates, or on skids (size & model
+dependent).
+Product packaging (when customer intends to re-ship goods to
+an additional location) must be completed in a manner to protect
+against deterioration and physical damage during transit and
+storage.
+Any protruding accessories, deemed to be at heightened risk to
+damage by their design (i.e. Eye Bolts (11)) may, if required for
+safekeeping, be removed & packaged separately.
+All customer-driven packing requirements, must be clearly called
+out and quoted separately prior to placing the purchase order.
+Any/all special shipping conditions must be reviewed by Bray/
+Rite for compliance at time of quotation, & be clearly defined
+in writing. Such instructions also need to be of a quality
+standard such that they adequately protect to (a.) goods during
+transport, & (b.) goods during site storage requirements.
+13 of 25
+© 2023 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM
+The Information contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 14 ===
+Dual Door Wafer Check Valve
+Installation, Operation and Maintenance Manual
+11.0 TOOLS REQUIRED
+Lifting equipment, wrench.
+NOTICE
+Personal protective equipment such as eye/foot/hand protection
+is required when installing or maintaining wafer check valves.
+CAUTION
+Please use caution. Preset spring(s) have capacity to cause
+serious injury when tension is released.
+14 of 25
+© 2023 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM
+The Information contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 15 ===
+Dual Door Wafer Check Valve
+Installation, Operation and Maintenance Manual
+12.0 INSTALLATION CONSIDERATIONS
+Lifting equipment, wrench.
+NOTICE
+Location for valve should be selected based on distance from
+turbulent conditions.
+> Media flowing to valve should be filtered first to remove
+unwanted debris.
+> Non-compliance can effect check valve sealing, and adversely
+effect optimal performance.
+> Valve materials must be compatible with line media it will
+experience.
+> Valve pressure/temperature limits must align with the
+application requirements.
+Before installation, all valves must be checked for any/all foreign
+materials that may have become entrapped during storage/
+transportation. All contaminants should be removed with solvent
+dampened cloths.
+Sealing surfaces should be inspected to ensure there is no
+damage (cuts or nicks) & that general appearance is clean and
+smooth.
+Check Valves must be placed a distance 6 to 10 pipe diameters
+away from any/all source of turbulence such as elbows,
+expansions, pumps, reductions, swages, tees, etc) and in an area
+easily serviced.
+CAUTION
+Standard check valves are typically designed for steady flow
+conditions, and not for use in physical/thermal shock-load
+applications (via reciprocating pump, compressor). In this type of
+application, standard check valve will not perform efficiently and
+have a greater tendency to fail.
+Install all flangeless wafer valves between two pipe flanges with
+gaskets on the contact faces (of the same series as the valve),
+centered in line by the surrounding flange bolts, and tightened as
+per industry standard practice.
+All internal parts designed to move should operate freely.
+The normal installation of a Bray/Rite Dual Door Wafer Type
+Check Valves should be as per Figure 04 pg. 16 pending
+horizontal or vertical flow applications.
+15 of 25
+© 2023 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM
+The Information contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 16 ===
+Dual Door Wafer Check Valve
+Installation, Operation and Maintenance Manual
+When removing a Bray/Rite Dual Door Wafer Type Check
+valve from the line, only one half of the studs need to be
+removed and the others loosened.
+NOTICE
+1. Double check the flow direction arrow on the body is matching
+intended flow direction before inserting the Bray/Rite Dual
+Door Wafer Type Check valve between the flanges.
+2. Pipeline flanges must be parallel and have the same pressure
+class rating as the valve.
+3. There must be no obstructions in the mating flange(s), or pipe
+bore(s) as this would prevent the valve from opening fully,
+potentially leading to premature valve failure.
+Any provided valve protection accessories such as wooden plates
+or plastic caps should not be removed until the valves are ready
+to be installed, so as to keep foreign contaminants out.
+12.1 Final Preparations
+Remove the plastic flange protectors (if present) and other
+packaging materials from the Check Valve.
+CAUTION
+For vertical down-flow installations, consult Bray/Rite technical
+Figure 04
+team for custom solutions that may be available.
+Orient the valve such that the flow arrow (cast/etched onto
+body or printed on the nameplate) points in the direction of
+the desired pipeline flow. Be aware that Discs (2) in open valve
+position extends beyond face-to-face dimension, and so needs to
+be installed to avoid contact with pipe end, gasket, or other valve
+which should not be directly connected.
+The appropriate material handling equipment must be used in
+order to prevent injury and possible damage to the check valve
+and personnel responsible for installation.
+16 of 25
+© 2023 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM
+The Information contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 17 ===
+Note:
+Dual Door Wafer ChecBrkay RVitea isl ivssuein g these recommendations only as a guide to installation. This recommendation is based on the full
+compliance of all materials supplied to their appropriate specifications. Since many of the components are not
+Installation, Operation and Maintemnaannufcaect uMreadn buy aBlray we can take no responsibility for any damage caused during installation.
+13.0 INSTALLATION PROCEDURE Table 02 DDCV Series Figure 05 FIGURE 05
+Recommended Flange Torques
+Use jack-up bolts if reqFulainrgeed S izteo R mangaeintainFa stthenee rr Seizqeuired RSepcoamcmee nodfe d6 4 Bolt and 8 Bolt Flanges
+Torques*
+to 10 mm wider than the face to face dimension of the valve.
+in mm in mm lb-ft Nm
+Set two bolts into the low 2” e - 4 r ” side 5 0 o -10 f 0 the pi 5⁄ p8 e flang 16 es with 3 o 5 ut 50 44 11 8 1 8 12 1 5 16 8 20 12 1 13
+5”- 8” 125-200 3⁄4 19 45 60 4 5 4 5
+tightening them, then in 1 s 0” t - a 1 l 2 l ” the 2 5 v 0- a 30 lv 0 e bet 7⁄8 w een th 22 e flang 7 e 5 s care 1 f 0 u 0 lly. 4 9 10 17
+Install the gaskets (proc1u4”r -e 1d6” se3p5a0-r4a00tely) o1 nto bo2t5h sides11 0and se1t5 0 10 3 18 9
+two bolts Into the uppe1r8 ”s -i d20e” of4 5t0h-5e00 pipe1 fl1⁄8 anges2.9 200 270
+2 3
+6 3
+6 7
+6
+14 15
+3
+22” - 30” 550-750 11⁄4 32 250 340 2 7 2 11 2 11 19 7
+Tighten four of the upper and bottom bolts to temporarily align
+32” - 48” 800-1200 11⁄2 38 430 585
+•Lubricate, hand tighten, then SNUG up bolts
+the pipes and the valve52 ”a -c 7c2”ura13t0e0-l1y8.00 13⁄4 45 715 970
+•Round 1 - Tighten to 25% of- final torque
+84” 2200 2 51 1175 1595
+Tighten all other bolts through the holes of the pipe flanges. •Round 2 - Tighten to 50% of final torque
+90” - 96” 2250-2400 21⁄4 57 1675 2270
+•Round 3 - Tighten to 100% of final torque
+Tighten the bolts evenl*y A, sgsumraes dweull laublrlicyat ead fnasdten ear sletleectredn tao at egraldye siunffi ciaen tply satrotntge forr nth e corre-
+sponding torque rating. Torque value is a general recommendation. Specific applications
+as shown in Figure 05. mTayh reequ iere naddditsion oal tfo rqaulel o nt iflganhget feastneneer.d Do b noot elxtcsee ds 1h10a%l lo f breceom mended
+value.
+evaluated for equal protrusion beyond the nuts. Run a pil8ot 1
+44 11
+operation to gradually raise the line temperature and pressure.
+4 5
+Retighten the threaded portions as required.
+6 3
+CAUTION
+2 3
+Operation Start-Up: After the installation has been ver2ified 7(at
+start-up, & after shut-down conditions) as safe and complete,
+it is important for operators to start the pipe system flow
+gradually. The goal is to not stress the check valve (and other line
+equipment) via sudden shock.
+Note:
+Bray Rite is issuing these recommendations only as a guide to
+installation. This recommendation is based on the full compliance
+of all materials supplied to their appropriate specifications. Since
+many of the components are not manufactured by Bray we can
+take no responsibility for any damage caused during installation.
+Table 02
+RECOMMENDED FLANGE TORQUES
+Flange Size Range Fastener Size Recommended Torque*
+In mm In mm lb ft Nm
+2” - 4” 50-100 5⁄8 16 35 50
+5”- 8” 125-200 3⁄4 19 45 60
+10” - 12” 250-300 7⁄8 22 75 100
+14” - 16” 350-400 1 25 110 150
+18” - 20” 450-500 11⁄8 29 200 270
+22” - 30” 550-750 11⁄4 32 250 340
+32” - 48” 800-1200 11⁄2 38 430 585
+52” - 72” 1300-1800 13⁄4 45 715 970
+84” 2200 2 51 1175 1595
+90” - 96” 2250-2400 21⁄4 57 1675 2270
+* Assumes well lubricated fastener selected to a grade sufficiently
+strong for the corresponding torque rating. Torque value is a
+general recommendation. Specific applications may require
+additional torque on flange fastener. Do not exceed 110% of
+recommended value.
+17 of 25
+© 2023 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM
+The Information contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 18 ===
+Dual Door Wafer Check Valve
+Installation, Operation and Maintenance Manual
+14.0 DISASSEMBLY/REASSEMBLY
+The simple design of the Bray/Rite Dual Door Wafer Type Check
+Valves valve is designed to be a no-maintenance design and
+repair kits are not available.
+Dis-assembly/Re-assembly is not recommended. Consult factory
+engineering staff for technical support.
+18 of 25
+© 2023 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM
+The Information contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 19 ===
+Dual Door Wafer Check Valve
+Installation, Operation and Maintenance Manual
+15.0 MAINTENANCE
+Valve Removal for Inspection
+DANGER
+Before removing any check valve from the pipeline, ensure the
+media flowing in the pipeline is confirmed and any/all special
+handling protocols are followed/understood. Always review the
+applicable Material Safety Data Sheet (MSDS) for the media in
+advance of work performed.
+Before removing any check valve from the pipeline, the vessel
+pressure must be reduced to atmospheric by means of suction/
+venting/other. Failure to do so may result in serious bodily injury.
+Shutting off the upstream pump acts to isolate the check valve.
+Close the downstream isolation valve.
+Drain the system section featuring the check valve as much as
+possible.
+Vent the line on both sides of the check valve to relieve pressure
+from the check valve. Always loosen the outlet side first.
+Once pressure has been relieved successfully, move to loosen the
+inlet side.
+Remove check valve from the pipeline, inspecting internals for
+signs of damage, & degradation.
+If replacement valves are required, use exact valve nameplate
+& drawing procured to identify part numbers required for
+replacement. Alternatively, please contact Bray/Rite for technical
+support.
+19 of 25
+© 2023 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM
+The Information contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 20 ===
+Dual Door Wafer Check Valve
+Installation, Operation and Maintenance Manual
+16.0 REPAIRS
+16.1 Leakage Conditions
+A schedule for routine inspection should be implemented and
+performed.
+NOTICE
+If leakage is identified during maintenance, check the flange
+gasket and flange bolt torque to ensure they are within
+acceptable limits. Valve removal for inspection may be required.
+See above notes.
+Any re-tightening should be even, gradual, & completed
+alternately in pattern as indicated in Figure 05 on pg. 17.
+16.2 Minimal Flow
+While flow is halted, verify flow direction arrow is installed in
+correct alignment with required direction of flow.
+16.3 Slam Conditions
+Initiate valve removal to inspect spring condition and tension.
+For any persisting problems, consult Bray/Rite engineering staff
+to see if your application may require the premium Single Door
+Wafer Type Check Valves that are sized & accessorized (where
+necessary) to meet application requirements.
+16.4 Vibration Conditions
+When valves are found to be vibrating excessively, firstly verify
+that flow rate is within acceptable ranges.
+Verify site installation location has at least 6 to 10 pipe diameters
+length from any source of turbulence (ie. elbows, expansions,
+pumps, reductions, swages, tees, etc.).
+When visible damage is observed on the bonded Resilient
+Seat (6) (or other internal parts), a replacement valve is
+necessary.
+20 of 25
+© 2023 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM
+The Information contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 21 ===
+Dual Door Wafer Check Valve
+Installation, Operation and Maintenance Manual
+Figure 06
+17.0 SPOOL INSTALLATION
+When a standard flanged valve is replaced with a shorter face-to-
+face wafer valve model, a spool piece (Figure 06) can be inserted
+with the Bray/Rite Dual Door Wafer Type Check Valves valve
+to obtain the required face to face dimension. The installation
+instructions above apply.
+21 of 25
+© 2023 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM
+The Information contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 22 ===
+Dual Door Wafer Check Valve
+Installation, Operation and Maintenance Manual
+18.0 SAFETY WARNINGS
+18.1 The valve must be installed in the correct line size between
+flanges of the correct class.
+The valve materials of construction must be compatible with the
+media being handled.
+Pressures and temperatures must be kept within the limits
+specified by the appropriate ASME standard, ie: B16.1, B16.34,
+B16.42, API 594, or within the limits specified by the particular
+design.
+An arrow on the body indicates the direction of flow through the
+valve. The valve must be installed with the arrow pointing in the
+correct direction.
+For flow in the horizontal direction, the valve shall be installed
+with the Pin (3) in the vertical position with the Eye Bolt (11)
+pointing vertically upwards.
+The valve must be installed in the correct location in the
+INSTALLATIOFNi CgOIuNNSrSTIeDA EL0RLAA7TTIIOONN SC ONSIDERATIONS
+pipeline. The Discs (2) must not open into or against other CHECK VALVE CLOHCECATKI OVANLSVE LOCATIONS
+piping components such as valves, elbows, or tees. For the bFeigsurte 00: Locating Fniegaurr tee 0e.0: Locating near tee.
+performance and to extend/maximize life of the valve, a minimum
+INCORRECT IINnCcORoRrECrTect CCOoRRrErCeTct CORRECT
+of 6-10 pipe diameters of straight pipe upstream of the valve is Positioned too close Ptoo stiutriobnueledn tcoeo. close to turbulence. Positioned away fromP otusritbiounleendc ea wuasiyn gfr osmpa tcuerrb.ulence using spacer.
+suggested. Any reduction in this length upstream of the valve Positioned too Positioned away
+close to turblence. from turbulence
+reduces the life of the valve proportionally. using spacer.
+The Plugs (8) must not be removed from the valve while the
+pipeline is under pressure.
+Flow rates must be within the acceptable limits. Excessively
+high flow rates may cause extreme pressure drops and erosion
+of the components. Excessively low flow rates may cause the
+Disc (2) assembly to oscillate and cause wear which may lead to
+premature failure of the internals.
+Care should be taken in handling the valve. Mishandling may
+lead to damage of the sealing components or damage to the
+externals.
+18.2 Take care to ensure dangerous media is handled according to
+your company site safety protocol.
+© 2022 BRAY INTERNATIO©N 2A0L2.2 A BLRLA RYIG INHTTESR RNEASTEIROVNEADL. .B ARLALY R.CIGOHMTS RESERVED. EBNR_ACYH.CEOCMK_VALVE_LOCAETNIO_CNHSE_C20K2_2V_A0L1VE_LOCA1T IoOfN 2S_2022_01 1 of 2
+22 of 25
+© 2023 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM
+The Information contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 23 ===
+Dual Door Wafer Check Valve
+Installation, Operation and Maintenance Manual
+19.0 LIMITATIONS AND PRECAUTIONS
+Accurate sizing is crucial to ensure an acceptable pressure drop,
+and a resulting long service life. Bray/Rite Dual Door Wafer Type
+check valves are NOT recommended for the following service
+conditions:
+> Installed directly on to a Butterfly valve (or other piping
+accessory) that may interfere with the opening or closing of
+Disc (2) components.
+> Pulsating flow conditions.
+> Service condition requiring a “Full Port” opening.
+> Solid handling.
+> Severe services.
+> Vertical down flow.
+See Bray Terms and Conditions provided with quotation for
+complete warranty details.
+23 of 25
+© 2023 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM
+The Information contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 24 ===
+Dual Door Wafer Check Valve
+Installation, Operation and Maintenance Manual
+20.0 TROUBLESHOOTING
+SYMPTOM POSSIBLE CAUSE RECOMMENDED SOLUTION
+Abnormal Noise The Disc (2) (a.) hits the Pin (3) when in the Tighten the flange bolts and nuts evenly,
+open position due to turbulent flow of the gradually, and alternately in pattern shown on
+line media, or (b.) the Disc (2) chatters by Figure 05 pg. 17. When any abnormal noise
+contacting the bonded Resilient Seat (6) as is found, consult with Bray/Rite Engineering
+a result of low flow velocity water hammer staff immediately who many further assess
+phenomenon. the condition of primary components such as
+the Disc (2), Pin (3), and Spring (4) prior to
+disassembly, which is discouraged.
+Leakage detected from Flange Area Loose or uneven torque of flange bolts and Tighten the flange bolts and nuts evenly,
+nuts. gradually, and alternately in pattern shown on
+Figure 05 pg. 17.
+Leakage detected from Gasket Area (in Resilient Seat damage or deformation. Tighten the flange bolts and nuts evenly,
+closed position) gradually, and alternately in pattern shown
+on Figure 05 pg. 17. Consult piping engineer
+regarding potential external stress.
+Note: Spare Resilient Seat parts are not
+available as this is a bonded design, so full
+valve replacement is likely required.
+NOTICE
+The DDCV is not in-field repairable. For further troubleshooting and repair options and
+information, please contact your local Bray representative.
+24 of 25
+© 2023 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM
+The Information contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 25 ===
+SINCE 1986, BRAY HAS PROVIDED FLOW CONTROL SOLUTIONS
+FOR A VARIETY OF INDUSTRIES AROUND THE WORLD.
+VISIT BRAY.COM TO LEARN MORE ABOUT
+BRAY PRODUCTS AND LOCATIONS NEAR YOU.
+GLOBAL HEADQUARTERS
+Bray International, Inc.
+13333 Westland East Blvd.
+Houston, Texas 77041
+Tel: +1.281.894.5454
+All statements, technical information, and recommendations in this bulletin are for general
+use only. Consult Bray representatives or factory for the specific requirements and material
+selection for your intended application. The right to change or modify product design or
+product without prior notice is reserved. Patents issued and applied for worldwide.
+Bray® is a registered trademark of Bray International, Inc.
+© 2023 BRAY INTERNATIONAL. ALL RIGHTS RESERVED. BRAY.COM EN_IOM_DDCV_2023_09_27
+THE HIGH PERFORMANCE COMPANY BRAY.COM

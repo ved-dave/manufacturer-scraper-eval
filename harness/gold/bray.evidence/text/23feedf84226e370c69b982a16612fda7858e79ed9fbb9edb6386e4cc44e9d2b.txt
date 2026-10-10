@@ -1,0 +1,83 @@
+=== page 1 ===
+RITE® SPECIAL APPLICATION SERIES SA4A
+EXTERNAL BACKFLUSH LEVER
+CHECK VALVE ACCESSORY
+OVERVIEW APPLICATIONS
+The Rite® Series SA4A check valve accessory with external > Backflushing Pipelines
+backflush lever is designed to allow manual operation in > Power Generation
+applications requiring backflush process.
+MEDIA Add PVC Media to
+> Dry Chlorine (Gas or > Hydrogen this
+SPECIFICATIONS
+Liquid) > Oxygen
+NPS 2” to 12” > Gases > Water
+Size Range
+50mm to 300mm
+Temperature Range Pending Materials Selected
+Operating Pressure Pending Pressure Class Selected
+Body Style One-Piece Flanged or Wafer Body
+Compatibility Bray 205, 210, or 211 or PVC Series
+Leakage Rate API 598
+DESIGN FEATURES Figure 01: SA4A Rear View Closed (Right
+Hand Mount Displayed and Provided As
+The Rite® Series SA4A check valve accessory offers
+Standard).
+single door check valve design modification to alter flow
+conditions:
+APPLICATION:
+The purpose of equipping a standard Rite® Series Single
+Door Wafer or Flanged Type Swing Check Valve with
+an external backflush lever is to allow external control of
+backflush process. Used in applications such as: pipelines for
+chemical washes in the food and beverage industry.
+GENERAL DESCRIPTION:
+The model SA4A is a standard Rite® Series Single Door
+Swing Check Valve that has been converted, featuring a
+positive hexagon drive at the disc/hinge/shaft connection.
+The shaft extends through and is supported by the body
+at one end, by a bushing in the body, and by a ball bearing
+designed to reduce friction mounted in a bracket on the
+opposing side. O-rings seal the shaft, seal bushing and the
+body to prevent leakage. The lever is mounted onto the Figure 02: SA4A Rear View Open.
+shaft with a hexagonal connection to manually open or
+close the valve.
+© 2025 BRAY INTERNATIONAL. ALL RIGHTS RESERVED. BRAY.COM EN_CVA_SDS_SA4A_20240924 1 of 2
+=== page 2 ===
+RITE® SPECIAL APPLICATION SERIES SA4A
+EXTERNAL BACKFLUSH LEVER
+CHECK VALVE ACCESSORY
+For body/trim materials user must first refer to and select the MATERIAL OPTIONS1
+appropriate model from the foundation unit Sales Data Sheets.
+Seal Bushing Stainless Steel (ASTM A479 316)
+Integral Hard Seat (IHS)
+BUNA-N, EPDM, FKM-A, HNBR, Neoprene
+Seat Ring Hard Seat (SRHS)
+Series 205 Seal O-Rings (x4) PTFE-virgin, Teflon encapsulated silicone,
+Integral Soft Seat (ISS) Viton
+Seat Ring Soft Seat (SRSS) Lever Steel
+Integral Hard Seat (IHS) Retaining Plate Steel
+Seat Ring Hard Seat (SRHS) Bracket Steel
+Series 210
+Integral Soft Seat (ISS) Socket Head Steel Zinc Plated
+Screws (x3)
+Seat Ring Soft Seat (SRSS)
+Dowel Pins (x2) Steel Zinc Plated
+Integral Hard Seat (IHS)
+Ball Bearing Steel
+Seat Ring Hard Seat (SRHS)
+Series 211 Round Head Steel Zinc Plated
+Integral Soft Seat (ISS) Screw
+Seat Ring Soft Seat (SRSS) Hex Bolt Steel
+PVC Integral Soft Seat (ISS) Hex Nut Steel
+Note: 1 Dimensions available in ASME and DIN sizes.
+All external components can be offered in SS where required.
+* Previous Models before July 2024 may have included slightly
+different material configurations/parts callout lists.
+Rite® Series Check Valve Integral Hard Seat type part number:
+V0215XBZ205SA4A (For 2”, Class 150, Stainless Steel (ASTM A351
+CF8M) Body, BUNA-N O-Ring, SS Spacer, Series 205, Special
+Application Series SA4A).
+Figure 03: SA4A Exploded View.
+Figure 04: Seal Bushing & O-Ring
+Close up.
+© 2025 BRAY INTERNATIONAL. ALL RIGHTS RESERVED. BRAY.COM EN_CVA_SDS_SA4A_20240924 2 of 2

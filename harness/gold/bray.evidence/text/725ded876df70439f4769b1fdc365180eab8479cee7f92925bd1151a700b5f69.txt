@@ -1,0 +1,92 @@
+=== page 1 ===
+TRIPLE OFFSET
+TRI LOK®-Cx.
+OVERVIEW
+Tri Lok® is the premier isolation valve for operation in light
+vacuum to high-pressure applications. The non-rubbing,
+metal-to-metal seal delivers zero-leakage bidirectional shutoff
+with minimal torque, and is certified fire-safe. Compared to
+gate, globe, or ball valves of the same size and pressure class,
+Tri Lok® provides space and weight savings, while minimizing
+installation and maintenance costs.
+APPLICATIONS
+> Bulk Liquid Storage > Refining (Downstream)
+> Carbon Black Processing > Shipbuilding
+> Chemical Processing > Steam Distribution
+> Geothermal Steam > Sugar and Ethanol
+> LNG/Liquefaction > Upstream Oil and Gas
+> Power Generation > Water & Wastewater
+> Pulp and Paper Liquor
+SPECIFICATIONS MATERIAL OPTIONS1
+Size Range1 DN 80 to 400 Body Carbon Steel
+Temperature Range2 -60°C to 450°C Stainless Steel
+Pressure Rating PN 10, PN 25, PN 40 Disc Carbon Steel
+Body Style Lug | Double Flanged Stainless Steel
+Tightness Test Bidirectional Zero Leakage Seat Stainless Steel (Hardened)
+EN 12266 Rate A
+Seal Ring (Laminated) Duplex Stainless Steel/Graphite
+NOTES
+1 Larger sizes available upon request. Seal Ring Duplex Stainless Steel
+2 Higher temperatures available upon request. (Solid Seal)
+Stem 410 Stainless Steel
+XM-19 (Nitronic® 50)
+DESIGN STANDARDS NOTE:
+1 Other materials available upon request.
+Valve Design EN 12516-1 | EN 12569 | EN 593 | NE 167
+Material Standard EN 16668 | AD2000 W0
+Marking EN 19 | DIN EN IEC 61406 | DIN 91406
+CERTIFICATIONS AND APPROVALS
+Top Flange ISO 5211
+Declaration of CE | UKCA
+Flange Drilling EN 1092-1 Conformity
+Face-to-Face EN 558 Pressure Equipment 2014/68/EU | PE(S)R
+Directive
+Testing Standard EN 12266-1 & 2
+Machinery Directive 2006/42/EC
+Fire-Safe API 607
+Atmospheric ATEX (2014/34/EU)
+Explosion1
+Fugitive Emissions ISO 15848-1
+TA-Luft VDI 2440
+AutoID / ID Link DIN 91406 / IEC 61406
+Safety Integrity Level IEC 61508 Level 3 (SIL 3 capable)
+NOTE:
+1 Pending.
+© 2022 BRAY INTERNATIONAL. ALL RIGHTS RESERVED. BRAY.COM EN_EU_SDS_TriLok-Cx_2022_11_17 1 of 2
+=== page 2 ===
+FEATURES & BENEFITS
+The Tri Lok®-Cx features a fully adjustable, field-replaceable
+seat and seal system to extends overall service life,
+6
+minimized downtime and reduces the need for costly off-
+site repairs or total replacement.
+1 SEAT: The hardened seat, reduces the risk of galling,
+offering superior performance and durability.
+5
+2 SEAL RING: Offers a flexible design and wide range of
+3
+materials to provide torque-loaded sealing with zero-
+leakage.
+3 STEM PACKING: Fully-adjustable, field-replaceable
+stem seal system is certified to international fugitive
+emission standards.
+4 SPLINED CONNECTION: Strong reliable connection
+allows for axial movement, prevents typical
+misalignment, minimizes hysteresis and eliminates
+7
+external connections
+8
+5 BLOWOUT-PROOF STEM: The one-piece stem features 1
+a blow-out prevention ring located above the packing
+4
+box, outside the pressure boundary. 2
+6 INDEXED STEM: Provides positive visual indication of
+disc/seal ring position after installation.
+7 STEM BEARINGS: Elongated hardened stem bearings
+provide maximum stem support.
+8
+8 BEARING SEALS: Standard bearing seals that minimize
+ingress of media into the journal. 7
+Visit BRAY.COM for additional product
+information and downloads.
+© 2022 BRAY INTERNATIONAL. ALL RIGHTS RESERVED. BRAY.COM EN_EU_SDS_TriLok-Cx_2022_11_17 2 of 2

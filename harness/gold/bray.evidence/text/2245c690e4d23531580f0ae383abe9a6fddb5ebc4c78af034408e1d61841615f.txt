@@ -1,0 +1,83 @@
+=== page 1 ===
+Page 1 of 2
+August 1, 2012
+Series 22/23 Resilient Seated Valve
+Valve Type:
+Bray Series 22 wafer or Series 23 lug or approved
+equal.
+Body:
+• Shall be two-piece wafer or lug design with
+extended neck to allow for 2” piping Insulation.
+• Flange locating holes shall be provided on wafer
+bodies to allow for quick and precise alignment
+during valve installation.
+• PTFE impregnated steel bearing shall be
+provided in the upper and lower valve journal for
+precision alignment of the upper and lower stem.
+• Reinforced PTFE gaskets shall be placed
+between body halves to eliminate potential leak
+path and contamination from environmental
+conditions.
+• Body bolts shall be 316 Stainless Steel.
+Disc:
+• Disc edge and hub on metal discs shall be
+spherically machined and hand polished for
+minimum torque and maximum sealing
+capability.
+• PTFE and PFA discs shall have 1/8” (3mm) Seat:
+• Shall be designed to reduce seating/unseating
+minimum thickness of encapsulated over the
+torque and reduce wear on the contacting parts.
+following metals: 2”-12” (25mm-300mm) Valves
+• Materials shall be pure, virgin PTFE, Conductive
+- encapsulated over 316 Stainless Steel 14”-24”
+PTFE or UHMWPE with 1/8” (3mm) minimum
+(350mm-600mm) Valves - encapsulated over
+thickness.
+17-4PH Stainless Steel
+• Disc materials are to be fully certified and • Seat materials are to be fully certified and
+marked accordingly for traceability.
+marked accordingly for traceability.
+Stem: • The design shall include a resilient seat
+• Shall be of two-piece design. energizer extending completely around the seat
+• No part of the stem shall be exposed to the line including the disc hub area to provide uniform
+force sufficient for tight shut-off.
+media.
+• Disc to stem connection shall be an internal • The seat shall totally encapsulate the body
+isolating it from the line media and no flange
+double “D” design with no possible leak paths in
+gaskets shall be required.
+disc-to-stem connection. External disc-to-stem
+Testing:
+connections such as disc screws or pins are not
+• Valve shall be tested to 110% of the rated
+allowed.
+• Stem shall be mechanically retained in body pressure.
+neck for blowout proof protection and no part of
+the stem shall be exposed to line media.
+• Stem materials are to be fully certified and
+marked accordingly for traceability.
+=== page 2 ===
+Page 2 of 2
+August 1, 2012
+Series 22/23 Resilient Seated Valve
+Pressure Ratings:
+Valve shall be rated for bubble-tight shut-off at pressure
+rating shown below.
+Bi-directional Service
+(With downstream flanges and disc in closed
+position):
+All Series 22 and Series 23 Valves:
+• 2”-24” (50mm-600mm) 150 psi (10.3 Bar)
+Dead-End Service
+(No downstream flanges and disc in closed
+position):
+All Series 23 Valves:
+• 2”-12” (50mm-300mm) 75 psi (5.2 Bar)
+• 14”-24” (350mm-600mm) 50 psi (3.4 Bar)
+Approvals & Certifications:
+• CE/PED Certification
+• SIL Certification
+• ABS Certification
+• Bureau Veritas Certification
+• DNV

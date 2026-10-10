@@ -1,0 +1,106 @@
+=== page 1 ===
+RITE® SERIES 212-312
+SINGLE DOOR WAFER TYPE SWING CHECK VALVE
+INTEGRAL SOFT SEAT
+OVERVIEW APPLICATIONS
+The Rite® Series 212/312 wafer combination swing check valves LISTED BY Fire Protection NFPA
+are flow activated and Rite® sized. These valves are installed UNDERWRITERS No. 22
+LABORATORIES OF
+in fire protection systems in accordance with standards of the > Outside Protection NFPA
+CANADA FOR USE IN:
+National Fire Protection Association. No. 24
+> Foam Extinguishing FIRE PROTECTION
+Systems NFPA No. 11 APPROVED FOR USE
+SPECIFICATIONS
+> Installation of Sprinkler > Discharge Lines for Fire
+NPS 2” to 12”
+Size Range Systems NFPA No. 13 Pumps
+50mm to 300mm > Standpipe and Hose > Fire Protection Systems
+Temperature Range -40:250 °F (-40:121 °C) Systems NFPA No. 14 > Listed Under Check
+Series 212: ASME (125) > Water Spray Systems Valves Anti water-
+Operating Pressure
+Series 312: DIN (PN10, 16) for Fire Protection NFPA hammer Single Check
+Body Style One-Piece Wafer Body Integral Type No. 15 Valves
+> Installation of Centrifugal
+Leakage Rate Zero Leakage
+Pumps NFPA No. 20
+> Water Tanks for Private
+DESIGN FEATURES
+Figure 01: Integral Soft Seat Cutaway
+The Series 212/312 soft seated check valves offer:
+Front View.
+SINGLE DOOR DESIGN:
+Below numbered list can be referenced on various
+figures throughout document
+1 Combination design utilizing both gravity + spring
+1
+makes the valve easy to open/close, reducing water
+hammer.
+2
+2 Limited movement of internal parts during operation
+extends service life.
+3 Elliptical inlet shape designed to accelerate line media
+through the valve.
+4
+4 Optimal diameter for high flow capacity.
+5 Short face to face, reducing weight and space between
+3
+flanges.
+6 Low cracking pressure design.
+7 Quick response time (ideal for process lines with 5
+varying flows & control valves).
+8 Cost & energy efficiency, requiring only one set of
+flange studs which span the valve, reducing in-service
+vibration.
+9 A mechanically dynamic seal, contained in a specially
+Figure 02: Integral Soft Seat Cutaway
+designed groove.
+Rear View.
+10 Maintenance is simple as the o-ring is easily removed
+and replaced when worn.
+11 As pressure is applied to the valve disc, the seal is
+compressed into the groove ensuring a consistent and
+uniform seal.
+12 The load on the seal is controlled, reducing wear for
+longer life.
+6
+© 2025 BRAY INTERNATIONAL. ALL RIGHTS RESERVED. BRAY.COM EN_SDS_S212-312_ISS_20250311 1 of 2
+=== page 2 ===
+RITE® SERIES 212-312
+SINGLE DOOR WAFER TYPE SWING CHECK VALVE
+INTEGRAL SOFT SEAT
+DESIGN STANDARDS MATERIAL OPTIONS1
+Body Material determines whether design is integral type, or seat
+Valve Design ASME B16.34 ring type. See below chart:
+Testing Standard ASME B16.34, API 598 Body Cast Iron (ASTM A126 CLB)
+Face-to-Face Manufacturer Standard Hinge Stainless Steel (ASTM A351 CF8M)
+Seat (Integral) Matches body material
+Spring Stainless Steel (ASTM A313 316) standard duty
+CERTIFICATIONS AND APPROVALS Spacer PTFE
+CE/PED Pin Stainless Steel (ASTM A479 316)
+Certifications
+CRN Plug Steel
+FM Lock Nut Steel Zinc Plated
+Approvals
+ULC Eye Bolt Steel Zinc Plated
+Nameplate Stainless Steel (SS 316)
+Additional information is available in the Bray Rite® Ltd. Technical
+Sales Manual. Disc Stainless Steel (ASTM A351 CF8M)
+Rivet Steel Zinc Plated
+O-Ring BUNA-N
+Disc Nut Stainless Steel (ASTM F594 316)
+Rite® Series Check Valve 212 Series part number: V02212
+(For 2”, Class 125, Cast Iron ASTM A126 CLB Body, BUNA-N Seat,
+PTFE Spacer, Series 212)
+Rite® Series Check Valve 312 Series part number: V02312
+Figure 03: Integral Soft Seat (For 2”, Class PN10/16, Cast Iron ASTM A126 CLB Body, BUNA-N Seat,
+Exploded View. PTFE Spacer, Series 312)
+Note: 1 Dimensions available in ASME and DIN sizes.
+7
+Figure 04: Integral Soft Seat In-Pipe View. Figure 05: Integral Soft Seat Close-Up Cutaway Views.
+8
+9
+11
+10
+12
+© 2025 BRAY INTERNATIONAL. ALL RIGHTS RESERVED. BRAY.COM EN_SDS_S212-312_ISS_20250311 2 of 2

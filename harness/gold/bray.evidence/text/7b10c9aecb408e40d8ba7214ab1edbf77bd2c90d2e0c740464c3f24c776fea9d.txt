@@ -1,0 +1,1064 @@
+=== page 1 ===
+TRI LOK®
+TRIPLE OFFSET VALVE
+Installation, Operation and Maintenance Manual
+ASME Pressure Class
+BRAY.COM THE HIGH PERFORMANCE COMPANY
+=== page 2 ===
+TRI LOK®
+Installation, Operation and Maintenance Manual
+CONTENTS
+1.0 Definition of Terms 2
+2.0 Introduction 2
+3.0 Safety Information 3
+4.0 Installation 6
+5.0 Long Term Storage 8
+6.0 Handling Requirements 9
+7.0 Actuation And Travel Stop Setting Instructions 10
+8.0 Valve Part Diagram - Class 150, 300 11
+9.0 Exploded View - Class 150, 300 12
+10.0 Valve Parts Diagram - Class 600, 900 13
+11.0 Exploded View - Class 600, 900 14
+12.0 Standard Maintenance 15
+TABLES
+Table 1 - Minimum Allowable Pipe ID for Tri Lok Installation 7
+Table 2 - Torque Values for Packing Gland Hex Nuts 23
+Table 3 - Torque Values for Seat Retaining Cap Screws and Seal Retainer Cap Screws and Bottom Plate (Class 150/300) 23
+Table 4a - Torque Values for Seat Retaining Cap Screws and Seal Retainer Cap Screws and Bottom Plate (Class 600) 24
+Table 4b - Torque Values for Seat Retaining Cap Screws and Seal Retainer Cap Screws and Bottom Plate (Class 900) 24
+Table 5 - Torque Values for Bracket Fasteners 25
+For information on this product and other Bray products please visit us at our web page - www.bray.com
+© 2023 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 1 of 26
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 3 ===
+TRI LOK®
+Installation, Operation and Maintenance Manual
+READ AND FOLLOW THESE INSTRUCTIONS CAREFULLY.
+SAVE THIS MANUAL FOR LATER USE.
+1.0 DEFINITION OF TERMS
+WARNING
+Indicates a potentially hazardous situation which, if not avoided, could result in
+death or serious injury.
+CAUTION
+Indicates a potentially hazardous situation which, if not avoided, may result in
+minor or moderate injury.
+NOTICE
+Used without the safety alert symbol, indicates a potential situation which, if not
+avoided, may result in an undesirable result or state, including property damage.
+2.0 INTRODUCTION
+2.1 Information provided in this manual is for standard Tri Lok
+configuration only. Specific instructions for non-standard materials
+of construction, temperature range, etc. should be referred to the
+factory.
+2.2 This manual covers Tri Lok valves in the following range:
+ASME Classes Sizes Body Style
+150, 300, 600 and 3” - 48” Wafer, Lug,
+900 (80mm - 1200mm) Double Flange, Gate
+2.3 The Tri Lok metal seated valve is fully rated to ASME B16.34, and
+complies with API 609.
+2.4 Tri Lok is torque-seated. Torque must be continually applied by an
+actuation device (manual gearbox or power valve actuator) to the valve
+stem to ensure the valve seals against the line pressure.
+WARNING
+Do not remove or de-energize actuation devices while the valve is under line
+pressure.
+2.5 The valve is inherently fire safe, and has been qualified to ISO 10497
+and API 607 standards
+2.6 The preferred direction of valve installation is with the upstream line
+pressure on the stem side and the body seat on the downstream side.
+2.7 The preferred direction of flow is indicated by an arrow on the valve
+nameplate.
+© 2023 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 2 of 26
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 4 ===
+TRI LOK®
+Installation, Operation and Maintenance Manual
+3.0 SAFETY INFORMATION
+3.1 ATEX Directive 2014/34/EU - Equipment For Use in Potentially
+Explosive Atmospheres
+UKSI 2016:1107 - The Equipment and Protective Systems Intended for
+Use in Potentially Explosive Atmospheres Regulations
+The requirements of the equivalent ATEX and UKCA standards are
+similar; therefore, any references in the following instructions can be
+regarded as referring to either format unless stated otherwise.
+WARNING
+When using this product in hazardous environments, the national directives and
+laws which apply in your country for hazardous areas must be followed. The
+specifications of the examination certificate valid in country of operation must be
+also observed.
+3.2 Marking
+Certification Code:
+Ambient Range: TX See Special Conditions for Safe Use
+Serial Number: As appropriate
+Year of Manufacture:
+Warnings:
+The requirements of the equivalent ATEX and UKCA standards are
+similar; therefore, any references in the following instructions can be
+regarded as referring to either format unless stated otherrwise.
+3.3 Special Conditions for Safe Use
+The following factors must be carefully considered in order to ensure
+the valve is compatible with the atmosphere in which it is applied. The
+system designer and/or end user should formally address each item
+and carefully document the reasoning behind specific measures taken
+to ensure continued compliance throughout the life of the Tri Lok valve.
+3.4 Material Considerations
+Please consult factory for details regarding material limitations.
+© 2023 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 3 of 26
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 5 ===
+TRI LOK®
+Installation, Operation and Maintenance Manual
+3.5 Temperature Considerations
+The surface temperature of the Tri Lok valve is wholly dependent on
+the ambient temperature in combination with the temperature of the
+process medium. The maximum surface temperature of the Tri Lok
+valve may be calculated from the maximum ambient temperature plus
+the maximum process medium temperature as shown below:
+Equation 1 - Surface Temperature Calculation
+Tx(max) = Ta(max) + Tp(max)
+Tx(max) = Surface Temperature
+Ta(max) = Ambient Temperature = -20°C to + 40°C (-4°F to +104°F).
+Tp(max) = Temperature of Process Medium
+Group I equipment
+The maximum surface temperature shall not exceed:
+a. 150 °C (302°F) on any surface where coal dust can form a layer;
+b. or 450 °C (842°F) where coal dust is not expected to form a layer,
+in which case:
+1. the actual maximum surface temperature is marked on the
+equipment and
+2. the symbol “X” marking is placed on the equipment and the
+Specific Conditions of Use is given in the instructions
+The system designer is responsible for ensuring the maximum
+temperature, either inside the valve body or on the external surface,
+will remain well below the ignition temperature of the atmosphere.
+For operating temperatures above 200°C (392°F) Bray recommends
+thermal insulation of the valve body.
+3.6 Static Electricity Considerations
+Where the process medium is a liquid or semi-solid material with a
+surface resistance in excess of 1 G-ohms, special precautions should be
+taken to ensure the process does not generate electro-static discharge.
+This may be done through ensuring the flow rate of the process media
+remains below 1 m/s or providing sufficient discharge points along the
+process path to eliminate electrostatic build-up. Consultation to EN
+50404 is recommended.
+Appropriate grounding may be necessary through the use of grounding
+straps or other means.
+3.7 Stray Electric Current Considerations
+When the Tri Lok valve is used near sources of high current or magnetic
+radiation, a secure bonding to earth ground should be made so as to
+prevent ignition due to inductive currents or a rise in temperature due
+to these currents.
+© 2023 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 4 of 26
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 6 ===
+TRI LOK®
+Installation, Operation and Maintenance Manual
+3.8 Filtration of Process Medium Considerations
+Special consideration should be made regarding the filtration of
+the process medium if there is a potential for the process medium
+to contain solid particulates. The process medium is recommended
+to be filtered to allow particles no greater than 1.0 mm in diameter
+through the valve assembly where there is a high probability of solid
+particulates. Larger particulate sizes may be deemed appropriate based
+on the possibility of particulates within the process medium and the
+area classification. The decision regarding filtration levels and limits
+should be well-documented by the system designer and/or end user to
+ensure continued compliance through the life of the valve.
+© 2023 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 5 of 26
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 7 ===
+TRI LOK®
+Installation, Operation and Maintenance Manual
+4.0 INSTALLATION
+4.1 Tri Lok is designed to be installed between ASME B16.5, B16.47 flanges.
+When the valve is open, a portion of the disc may protrude into the
+pipe. Wafer, lug and some double flange configurations will protrude on
+both sides of the valve. In double flange and some gate configurations,
+the open disc may protrude into the pipe on the seat side of the valve.
+Adjacent piping must be large enough to allow the open disc to clear
+the pipe. Table 1 shows the minimum allowable pipe ID.
+4.2 The valve closes with clockwise rotation of the stem and opens with
+counterclockwise rotation.
+CAUTION
+Avoid uncontrolled rotation of the disc beyond fully-open position
+(counterclockwise) as this could damage the sealing surfaces.
+4.3 To benefit from the most favorable low operating torque and best
+sealing conditions, install the valve with the stem on the upstream
+(pressure side) of the installation. The valve tag is marked with an arrow
+indicating the preferred direction of flow.
+4.4 Whenever possible, install with the stem horizontal. If this installation is
+not possible, orient the stem at an inclined angle above the horizontal
+centerline.
+4.5 Flange gaskets should conform to the requirements of ASME B16.20 for
+ASME B16.5/ASME B16.47 flanges. Spiral wound gaskets conforming to
+ASME B16.20 are recommended.
+4.6 When bolting the valve into the line, use standard bolting torque as
+recommended by applicable piping standards. The valve body seat
+is independent of the flange bolting. Additional force from the flange
+bolts is not required.
+© 2023 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 6 of 26
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 8 ===
+TRI LOK®
+Installation, Operation and Maintenance Manual
+Table 1 - Minimum Allowable Pipe ID for Tri Lok Installation
+Minimum Pipe ID
+Valve/Pipe
+Size
+Class 150 Class 300 Class 600 Class 900 Flanged
+In mm In mm In mm In mm in mm
+Consult Consult
+3 80 2.4 61 2.5 64 2.0 52
+Factory Factory
+Consult Consult
+4 100 3.3 84 3.6 91 2.0 52
+Factory Factory
+Consult Consult
+6 150 5.3 135 5.4 137 3.9 100
+Factory Factory
+8 200 7.1 180 7.3 185 4.6 117 6.63 168
+10 250 9.0 228 9.6 244 6.2 158 8.25 210
+12 300 11.0 278 11.7 297 8.1 206 10.13 257
+14 350 12.2 310 12.4 315 10.6 269 9.00 229
+Consult Consult
+16 400 14.2 359 14.6 371 11.2 284
+Factory Factory
+Consult Consult
+18 450 15.9 403 16.4 417 12.8 326
+Factory Factory
+Consult Consult
+20 500 17.9 454 18.4 467 14.4 366
+Factory Factory
+Consult Consult
+24 600 21.8 554 20.8 528 16.3 414
+Factory Factory
+28 700 24.3 616 24.1 613
+30 750 27.0 686 28.7 729
+32 800 29.4 747 29.0 737
+Consult
+36 900 33.3 846 35.0 889
+Factory
+40 1000 36.8 834 36.4 925
+42 1050 39.1 992 Consult
+Factory
+48 1200 44.9 1140
+Notes for Table 1
+> Minimum allowable ID of pipe with recommended clearances (per API 609).
+> This table assumes that the valve is centered in the pipe flanges.
+> A minimum of 1/16" (1.6 mm) thick gasket is used between the pipe flange and the face of the
+valve body.
+© 2023 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 7 of 26
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 9 ===
+TRI LOK®
+Installation, Operation and Maintenance Manual
+5.0 LONG TERM STORAGE
+5.1 If valves are to be stored before installation, storage must be carried
+out in a controlled manner as follows:
+1. Valves must be stored in a closed, clean and dry environment.
+2. Valve disc to be in closed position and the body end faces must
+be covered with appropriate flange protection. Flange protectors
+should only be removed at the time of installation.
+3. Valves should be stored indoors with a preferred temperature
+range from 40°F (4°C) to 85°F (29°C).
+4. The valves should be checked to ensure the above conditions are
+maintained every three months.
+5. These are general guidelines for valve storage. Please consult the
+factory for information regarding specific requirements.
+© 2023 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 8 of 26
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 10 ===
+TRI LOK®
+Installation, Operation and Maintenance Manual
+6.0 HANDLING REQUIREMENTS
+6.1 Packed Valves
+1. Crates: Lifting and handling of the packed valves in crates will be
+carried out by a fork lift truck, by means of the appropriate fork
+hitches.
+2. Cases: The lifting of packed valves in cases will be carried out in
+the lifting points and in the center of gravity position which have
+been marked. The transportation of all packed material must be
+carried out safely and following the local safety regulations.
+6.2 Unpacked Valves
+1. Lifting and handling of valves should be carried out by using
+appropriate means and observing the carrying limits. Handling
+must be carried out on pallets, protecting all machined surfaces to
+avoid any damage.
+2. With large bore valves, rigging the load must be carried out by
+using the appropriate tools to prevent the valve from falling or
+moving during the lifting and handling.
+CAUTION
+For valve handling and/or lifting, the lifting equipment (fasteners, hooks, etc.)
+must be sized and selected while taking into account the valve weight indicated
+in our packing list and/or delivery note. Lifting and handling must be made only
+by qualified personnel.
+Fasteners must be protected by plastic covers in sharp corner areas.
+Caution must be taken during the handling to avoid this equipment passing over
+the workers or over any other place where a possible fall could cause injury or
+damage. In any case, local safety regulations must be respected.
+© 2023 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 9 of 26
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 11 ===
+TRI LOK®
+Installation, Operation and Maintenance Manual
+7.0 ACTUATION AND TRAVEL STOP SETTING
+INSTRUCTIONS
+7.1 Tri Lok is a quarter turn, metal-seated triple offset valve. There is no
+mechanical stop in the valve at the “closed” position.
+7.2 When installing ANY type of actuator on a Tri Lok valve, the following
+general instructions should be followed closely. These general
+instructions include all actuation types: manual gear, pneumatic,
+hydraulic and electric actuators.
+1. Select a desired orientation for the actuator mounting relative
+to the valve. The disc should be oriented with the disc indicator
+marked on the stem.
+2. Rotate BOTH valve and actuator to either the full “open” or full
+“closed” position to establish a common reference point.
+3. Mount actuator to the valve and secure.
+Notes:
+> With valve/actuator in the closed position, it may be necessary to
+loosen the “closed” mechanical stop to allow the mounting holes to
+align properly.
+> Special applications may require more specific instructions. Please
+consult the factory for further instruction.
+CAUTION
+Valves can be damaged if proper care is not exercised during the setting of Open
+and /or Closed stops.
+7.3 Actuator Stop Settings
+The Tri Lok valve is a torque seated valve. During normal operation,
+only the open mechanical stop on the actuator should function. Set the
+opening stroke stop to stop the disc rotation in the fully open (90°)
+position.
+For safety reasons, the closed mechanical stop shall be set as follows:
+1. Unscrew the closing stroke mechanical stop.
+2. Close the valve applying the correct end-to-close torque required
+for the particular service. Check that the mechanical stop is free.
+3. Adjust mechanical stop until engagement.
+4. Loosen the mechanical stop 1-11/2 turns to ensure there is enough
+travel for the valve to receive the required torque and to protect
+the valve from excessive torque.
+5. Tighten the stop lock nut with the torque specified in the actuator
+operating manual.
+6. Mark the closing stop set position.
+© 2023 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 10 of 26
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 12 ===
+TRI LOK®
+Installation, Operation and Maintenance Manual
+8.0 VALVE PART DIAGRAM - CLASS 150, 300
+Sectional Drawing Standard Configuration Tri Lok Valve
+© 2023 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 11 of 26
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 13 ===
+TRI LOK®
+Installation, Operation and Maintenance Manual
+9.0 EXPLODED VIEW - CLASS 150, 300
+Item Component Description Note
+A1 Body
+B1 Seat 1
+B2 Seat Gasket 1 M2
+B3 Seat Cap Screws 1
+C1 Disc
+M1
+C2 Seal Ring 1
+H8
+C3 Seal Ring Gasket 1
+C4 Seal Ring Retainer H7
+C5 Seal Ring Retainer Cap Screws 1
+H6
+C6 Seal Ring Retainer Washer
+C10 Disc Spacer H4
+D1 Stem H5
+E1 Stem Bearing
+H9
+E2 Bearing Protector Gasket
+E3 Upper Spacer H1
+E4 Lower Spacer
+H3
+G1 Bottom Plate
+G2 Bottom Plate Gasket 1
+H2
+G3 Bottom Plate Cap Screws
+H1 Packing Gland Ring E3
+H2 Packing Gland Ring, Lower E1
+H3 Stem Packing 1
+E2
+H4 Gland Retainer
+H5 Anti Blow-Out Retaining Ring
+H6 Packing Gland Studs P1
+H7 Packing Gland Lock Washers
+H8 Packing Gland Hex Nuts
+H9 Packing Spring Washers
+A1
+H10 Packing Thrust Washer
+M1 Mounting Bracket
+M2 Mounting Bracket Cap Screws D1
+M3 Mounting Bracket Lock Washers
+M4 Mounting Bracket Pins
+N1 Identification Tag
+N2 Drive Screws C10
+P1 Stem Keys 1
+Note 1: Suggested Spare Part E2
+E1
+E4
+G2
+C1
+G1
+C3
+G3
+C2
+C4
+C6
+C5
+B2
+B1
+B3
+© 2023 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 12 of 26
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 14 ===
+TRI LOK®
+Installation, Operation and Maintenance Manual
+10.0 VALVE PARTS DIAGRAM - CLASS 600, 900
+Sectional Drawing Standard Configuration Tri Lok Valve
+THRUST BEARING UPPER / LOWER BEARING DISC - SEAL - SEAT1
+B2
+B1
+B8
+B6
+B4
+F1 F2 C6 E2 E1 C3 C2 C4 C5 C7 C9 C8 B7 B5
+P1 D1
+M1
+H6 H5
+M2
+H8 H4
+M3
+H7
+M4 H1
+H3
+H2
+E3
+E1
+A1
+E2
+C1
+E2
+E1
+G2
+G3
+G1
+1Disc - Seal - Seat illustrations depict bolted and push designs
+© 2023 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 13 of 26
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 15 ===
+TRI LOK®
+Installation, Operation and Maintenance Manual
+11.0 EXPLODED VIEW - CLASS 600, 900
+Item Component Description Note
+A1 Body
+B1 Seat 1
+M2
+B2 Seat Gasket 1
+B3 Seat Cap Screws (Not Shown) 1
+M3
+B4 Seat Retainer
+B5 Seat Retainer Ring
+B6 Seat Lower Set Screws 1 M1
+B7 Seat Upper Set Screws 1
+B8 Seat Alignment Button
+C1 Disc H8
+C2 Seal Ring 1 H7
+C3 Seal Ring Gasket 1
+C4 Seal Ring Retainer H4
+C5 Seal Ring Retainer Cap Screws 1
+C6 Disc Spacer H6
+C7 Seal Ring Alignment Pin
+H5
+C8 Disc Seal Collar
+C9 Roll Pin For Seal Ring H1
+D1 Stem H3
+E1 Stem Bearing H2
+E2 Bearing Protector Gasket
+E3
+E3 Upper Spacer
+M4
+F1 Thrust Bearing E1
+F2 Bearing Washer
+G1 Bottom Plate E2
+G2 Bottom Plate Gasket 1
+G3 Bottom Plate Cap Screws
+H1 Packing Gland Ring
+H2 Packing Thrust Washer
+P1
+H3 Stem Packing 1
+H4 Gland Retainer A1
+H5 Anti Blow-Out Retaining Ring
+H6 Packing Gland Studs
+H7 Packing Gland Lock Washers D1
+H8 Packing Gland Hex Nuts
+M1 Mounting Bracket
+M2 Mounting Bracket Cap Screws
+C6
+M3 Mounting Bracket Lock Washers
+M4 Mounting Bracket Pins C1
+N1 Identification Tag C3 E2
+N2 Drive Screws C2
+P1 Stem Keys C8
+E1
+C4
+Note 1: Suggested Spare Part
+C5 C7 F1
+F2
+B8 C9 G2
+G1
+B7 B2
+B1
+G3
+B4
+B6
+B5
+© 2023 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 14 of 26
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 16 ===
+TRI LOK®
+Installation, Operation and Maintenance Manual
+12.0 STANDARD MAINTENANCE
+WARNING
+> Precautions should be taken before beginning any work on the valve assembly.
+> Protective clothing, as required by appropriate safety codes, should be worn.
+> Relieve line pressure and close valve before:
+> Removing any actuation
+> Loosening any packing gland nuts
+> Do not pressurize the line without an actuation device properly installed and
+working on the valve.
+CAUTION
+The Tri Lok valve must be in the closed position to be removed from the line to
+prevent damaging the disc seal ring.
+When handling the valve, care should be taken not to scratch the seal ring, seat
+and gasket faces on both sides of the valve. Replacement seat, disc seal ring, and
+other parts are available from authorized Tri Lok sales and service locations.
+Recommended Lubricants
+Molykote® Plus CU-7439 (grease) or equivalent for Fasteners Molykote® Spray 321
+R (dry lubricant) or equivalent for Disc Seal Ring Light Mineral Oil for Packing and
+Gasket interface areas (Disc Seal Ring and gasket grooves.
+12.1 Packing Replacement
+Refer Part diagram 8.0 & 10.0
+12.1.1 If the valve is installed, relieve line pressure. Remove actuator from
+the valve. Remove the Keys (P1). Remove socket head cap screws
+and lock washers (M2 & M3). Remove mounting bracket or mounting
+plate (M1), depending on valve size. Note assembly positions of the
+actuator and the mounting hardware for reinstallation.
+12.1.2 Remove packing gland retainer nuts (H8) and lock washers (H7).
+Remove gland retainer (H4), anti-blowout retaining ring/split ring
+(H5) and gland ring (H1). Remove all packing (H3), taking care not
+to scratch the stem or the bore of the valve body. Do not remove the
+thrust washer (H12) unless further valve disassembly is required.
+12.1.3 Examine the valve body packing bore and the stem surface. Clean as
+necessary to remove any corrosion, foreign matter and minor surface
+imperfections.
+12.1.4 Apply a small amount of grease to the stem end. Lubricate each
+packing ring (H3) install them in to the valve body packing bore one
+at a time. First the external ring (H3), then internal rings (H3) and last
+the second external ring (H3).
+© 2023 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 15 of 26
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 17 ===
+TRI LOK®
+Installation, Operation and Maintenance Manual
+12.1.5 Reinstall gland ring (H1), anti-blowout retaining ring (H5) and
+gland retainer (H4). Re-install lock washers (H7) and nuts (H8).
+Tighten gland nuts (H8) utilizing a cross bolting technique to the
+proper torque value given in Table 2. Reinstall mounting bracket or
+mounting plate (M1) with cap screws and lock washers (M2 & M3).
+Tighten them according to the torque specified in table 5. Install the
+key(s) (P1) and remount actuation device on top of the valve, paying
+attention that the actuator is properly oriented
+12.1.6 Operate the valve open and closed several times to check for binding
+and to set the seal rings. Loosen gland nuts (H8) and retighten,
+utilizing a cross bolting technique, to torque value given in Table 2.
+12.2 Seat & Seal Replacement in Class 150/300 Valves
+Refer part diagram 8.0 and 9.0
+It is highly recommended that both the seat (B1) and seal ring (C2)
+be replaced at the same time. However, individual components are
+not matched in pairs and may be replaced separately if desired.
+CAUTION
+Exercise extra care when handling the seat and seal ring to avoid damage to the
+sealing surfaces
+12.2.1 Both Seat & Seal ring Replacement (Class 150/300 Valves)
+12.2.1.1 Remove the valve with the disc in the closed position from line. Place
+the valve on a flat stable surface with the body seat (B1) facing up.
+12.2.1.2 If valve is actuated with fail close or fail open pneumatic/hydraulic
+actuator (without manual override), remove it from the valve. A
+suitable gearbox must be installed to perform maintenance on the
+valve
+12.2.1.3 Carefully clean the surface of the seat and remove all foreign
+matter from the hex sockets of seat retaining cap screws (B3). Use
+compressed air to blow out the gap between the seat OD and the
+wall of the retaining cavity in valve body (A1). Apply a suitable
+penetrant into the gap between the seat OD (B1) and the body (A1)
+to help in extracting the seat (B1) from the body cavity
+12.2.1.4 Open the valve a few degrees until the seal ring is disengaged from
+the seat Using a wrench, remove all seat retainer socket cap screws
+(B3)
+12.2.1.5 Using a hardwood or aluminum drift and a light hammer, tap the top
+of the seat (B1) lightly all around to loosen the seat in the retaining
+cavity. Using full-threaded bolts or suitable threaded rod matched to
+the threads in all tapped jacking holes, begin jacking the seat (B1)
+evenly out from the retaining cavity. Tap the seat lightly with the drift
+as necessary to keep it in alignment with the walls of the retaining
+cavity in the body (A1). Remove the seat (B1) from the body (A1).
+© 2023 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 16 of 26
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 18 ===
+TRI LOK®
+Installation, Operation and Maintenance Manual
+12.2.1.6 Close the valve, disc face facing parallel to top surface. Remove the
+seal ring retainer screws (C5) and lock washers (C6) from seal ring
+retainer (C4). Remove disc seal ring retainer (C4). Remove the seal
+ring gasket (C3) from the disc groove. Wipe the seal ring (C2) clean,
+removing all remnants of removed gasket and foreign matter.
+12.2.1.7 Using soft tools and a suitable wire brush, carefully clean any
+remnants of removed gasket and foreign matter within the retaining
+cavity of the body (A1) and face of the Disc (C1). Blow out all
+threaded holes and the gasket groove with compressed air.
+12.2.1.8 Place a new disc gasket (C3) into the groove on the disc face (C1).
+The mating side of the disc gasket may be lightly greased to improve
+retention in the groove. Apply a suitable lubricant to the sealing
+surfaces of the seal ring (C2). Place the new seal ring (C2) onto the
+disc such that the notch is aligned. Place the seal retainer (C4) over
+the seal ring. Apply anti-seize compound to the seal ring retainer
+cap screws (C5). Replace the screws if required. Install all disc
+seal ring retainer cap screws (C5) with lock washers (C6). The seal
+retaining flange cap screws (C5) should be fully threaded into the
+disc (C1), but remain only finger-tight at this time. Open the valve to
+approximately 20°.
+12.2.1.9 Place the seat gasket (B2) into the groove of the seat (B1). It is
+highly recommended to apply grease to the mating side of the seat
+gasket to secure its position in the groove. Apply a suitable lubricant
+to the sealing surfaces of the seat (B1). Insert the seat (B1) into
+the body (A1) making sure the alignment dimples in the seat (B1)
+and the retaining cavity in the body (A1) match. Apply anti-seize
+compound to seat retaining cap screws (B3) and install the screws
+(B3) finger tight. Replace the screws if required. Using a cross
+bolting technique, to 50% of the torque specified in Table 3. Once all
+screws are tightened, proceed to fully tighten them to 100% of the
+listed torque value
+12.2.1.10 Using a suitable actuation device , close and open the valve 2-3
+times, only closing the valve to the point where the seal ring engages
+with the seat. Check each time that the disc seal ring makes full
+contact without torqueing into the seat. Attention should be paid in
+the closing stroke that the seat does not scratch the seal ring. This
+will allow the seal ring and seat to be properly aligned
+12.2.1.11 Close the valve. Tighten at least four screws in the seal ring retainer
+to prevent the seal ring from further movement. Open the valve
+sufficient enough to tighten the seal ring retainer screws. Tighten
+all seal ring retainer screws (C5) using a cross bolting technique, to
+50% of the torque specified in Table 3. Once all screws are tightened,
+proceed to fully tighten them to 100% of the listed torque value.
+12.2.1.12 Re-apply lubricant to the sealing surfaces of the valve. Reinstall
+actuation device (wherever applicable) and test the valve
+© 2023 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 17 of 26
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 19 ===
+TRI LOK®
+Installation, Operation and Maintenance Manual
+12.2.2 Only Seal Ring replacement (Class 150/300 Valves)
+The seal ring (C2) may be replaced in two ways; Without the seat
+(B1) removal or with the seat (B1) removal
+12.2.2.1 Seal ring replacement without the Seat Removal from the valve
+12.2.2.1.1 This procedure is not suitable if the seal ring (C2) is to be replaced
+while the valve is installed in the pipeline. In addition, this procedure
+is not recommended for large valves where manipulating the valve
+may be more difficult than removing the seat (B1) and installing the
+seal ring (C2) solely from the seat side of the body.
+12.2.2.1.2 To remove the seal ring (C2) without removing the seat (B1), the
+actuation device must be removed and the valve oriented in a
+manner that allows access to both sides.
+12.2.2.1.3 Remove the valve with the disc in the closed position from line. Clean
+the surface of the valve with compressed air, blow out all debris
+around the seal ring retainer (C4) and clean out the hex sockets of
+the seal ring retainer cap screws (C5).
+12.2.2.1.4 Open the valve a few degrees until the seal is disengaged from the
+seat
+12.2.2.1.5 Loosen all seal ring retainer cap screws (C5), but leave them in the
+valve with the seal ring retainer (C4) attached to the disc (C1).
+12.2.2.1.6 Using a wrench, rotate the valve stem (D1) counterclockwise past
+the fully open position far enough so the disc’s position is able to
+allow seal ring retainer and seal ring removal (C2). Be careful not to
+over-rotate the stem (D1) to the point where the seal ring (C2) or
+disc edge (C1) contact the body (A1). Make sure the packing gland
+retainer nuts (H8) are tight enough to prevent the valve stem (D1)
+from rotating on its own under the eccentric weight of the disc (C1).
+12.2.2.1.7 Remove the seal ring retaining cap screws (C5), lock washers (C6),
+disc seal ring retainer (C4), seal ring (C2) and the seal ring gasket
+(C3)
+12.2.2.1.8 Rotate the disc (C1) as necessary to access the seal face on the disc
+(C1). Using soft tools and suitable wire brush, carefully clean any
+remnants of removed gasket and foreign matter from the face of the
+disc (C1). Blow out all threaded holes and the gasket groove with
+compressed air.
+© 2023 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 18 of 26
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 20 ===
+TRI LOK®
+Installation, Operation and Maintenance Manual
+12.2.2.1.9 Rotate the disc (C1) to its previous position to facilitate installation
+of the seal ring (C2). Place a new seal ring gasket (C3) into the
+groove on the disc face (C1). The mating side of the seal ring gasket
+can be lightly greased to improve retention in the groove. Lubricate
+the sealing surfaces of the seal ring(C2) and place the seal ring (C2)
+onto the disc (C1) making sure the alignment line on the disc seal
+ring matches the locating dimple on the disc face. Place the seal ring
+retainer (C4) over the seal ring. Apply anti-seize compound to the
+seal ring retainer cap screws (C5). Install all seal ring retainer cap
+screws (C5) with lock washers (C6). Replace the screws if required.
+The cap screws (C5) should be fully threaded into the disc (C1), but
+remain only finger-tight at this time.
+12.2.2.1.10 Lubricate the sealing surfaces of the seat (B1). Using a suitable
+actuator, close and open the valve 2-3 times, only closing the valve
+to the point where the seal ring engages the seat. Check each time
+that the seal ring makes full contact without torquing into the seat.
+Attention should be paid in the closing stroke that the seat does
+not scratch the seal ring. This will allow the seal ring and seat to be
+properly aligned.
+12.2.2.1.11 Close the valve. Orient the valve with the seat side facing up
+12.2.2.1.12 Tighten at least four screws in the seal ring retainer to prevent the
+seal ring from further movement. Open the valve sufficient enough
+to tighten the seal ring retainer screws. Tighten all seal ring retainer
+screws (C5) using a cross bolting technique, to 50% of the torque
+specified in Table 3. Once all screws are tightened proceed to fully
+tighten them to 100% of the listed torque value. Re-apply lubricant to
+the sealing surfaces of the valve
+12.2.2.2 Seal ring replacement with the Seat Removal from the valve
+12.2.2.2.1 To replace the seal ring by removing the seat from the valve ,
+refer section “Both Seat & Seal ring Replacement (Class 150/300
+Valves)” where the existing seat removed from the valve can be
+reused. However, the existing seat gasket (B2) has to be replaced.
+Exercise extra care when extracting the seat (B1) from the retaining
+cavity in the valve body (A1). When using jacking bolts to extract
+the seat, avoid forcing the jack screws unevenly which could result
+in permanent deformation of the seat (B1). Ensure that the seat
+(B1) slides out of the retaining cavity easily in a balanced and level
+manner
+12.2.3 Only Seat Replacement (Class 150/300 Valves)
+12.2.3.1 To replace the seat and to reuse the existing seal ring, refer section
+“Both Seat & Seal ring Replacement (Class 150/300 Valves)”
+where the existing seal ring removed from the valve can be reused.
+However, the existing seal ring gasket (C3) has to be replaced while
+using the existing seal ring. Exercise extra care when handling the
+seal ring to prevent it from any damage.
+© 2023 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 19 of 26
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 21 ===
+TRI LOK®
+Installation, Operation and Maintenance Manual
+12.3 Seat & Seal Ring Replacement in Class 600/900 Valves
+Refer part diagram 10.0 and 11.0
+CAUTION
+Exercise extra care when handling the seat and seal ring to avoid damage to the
+sealing surfaces
+Seal ring replacement without seat removal is not possible in the
+class 600/900 valves.
+12.3.1 Only Seal Ring Replacement (or) Both Seat & Seal Ring
+Replacement (Class 600/900 Valves)
+12.3.1.1 Remove the valve with the disc in the closed position from line. Place
+the valve on a flat stable surface with the body seat (B1) facing up.
+12.3.1.2 If valve is actuated with fail close or fail open pneumatic/hydraulic
+actuator (without manual override), remove it from the valve. A
+suitable gearbox must be installed to perform maintenance on the
+valve.
+12.3.1.3 Clean the surface of the valve with compressed air, blow out all
+debris around the seal ring retainer (C4) and clean out the hex
+sockets of the seal ring retainer cap screws (C5) & Seat Upper Set
+Screws (B7)
+12.3.1.4 Open the disc until the seal ring is disengaged from the seat. Clean
+the surface of the valve, blow out all debris and clean out all the hex
+sockets of the seal ring retainer cap screws
+12.3.1.5 Using the appropriate size hex key, completely remove the upper set
+screw fasteners (B7) from the seat retainer ring (B4). Unscrew the
+lower set screws (B6) until the Seat retainer ring (B5) is free to move.
+Remove the seat retainer ring (B5) from the body. Extract the seat
+retainer (B4), remove the seat alignment button (B8)
+12.3.1.6 Using a hardwood or aluminum drift and a light hammer, tap the top
+of the seat (B1) lightly all around to loosen the seat in the retaining
+cavity
+12.3.1.7 If the existing seat (B1) is to be reused, exercise extra care when
+extracting it from the retaining cavity in the valve body (A1). When
+using jacking bolts to extract the seat, avoid forcing the jack screws
+unevenly which could result in permanent deformation of the seat
+(B1). If the existing seat (B1) is to be reused, make absolutely
+certain that the seat (B1) slides out of the retaining cavity easily; in a
+balanced and level manner.
+12.3.1.8 Close the valve, disc face facing parallel to top surface
+12.3.1.9 Loosen all the seal ring retainer cap screws (C5). Remove the seal
+ring retainer cap screws (C5), extract the seal ring retainer (C4), the
+seal ring with collar (C2 & C8) and the seal ring gasket (C3)
+© 2023 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 20 of 26
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 22 ===
+TRI LOK®
+Installation, Operation and Maintenance Manual
+12.3.1.10 Using soft tools and a suitable wire brush, carefully clean any
+remnants of removed gasket and foreign matter within the retaining
+cavity of the body (A1) and face of the Disc (C1). Blow out all
+remnants and foreign matter with compressed air.
+12.3.1.11 Apply a suitable lubricant to the sealing surfaces of the seal ring
+(C2). Place a new seal ring gasket (C3) into the groove on the disc
+face (C1). The mating side of the seal ring gasket can be lightly
+greased to improve retention in the groove. Place the seal ring
+alignment pin (C7) into the disc (C1) slot. Place the seal ring (C2)
+on disc seal collar (C8), (wherever applicable) ensuring the smaller
+ellipse dimension side rests on the disc seal collar (C8). Align the
+notch on seal ring (C2) and drill hole on disc seal collar (C8) and
+install the dowel pin (C9) and hold in place. (If necessary, a small
+amount of grease or wax can be used to hold). Place the seal ring
+with seal collar (C2 & C8) onto the disc (C1) making sure the notch
+on the disc seal collar matches the locating pin on the disc face.
+Place the seal ring retainer (C4) over the seal ring collar. Apply anti-
+seize compound to the seal ring retainer cap screws (C5). Replace
+the screws if required. Install all seal ring retainer cap screws (C5).
+The cap screws (C5) should be fully threaded into the disc (C1), but
+remain only finger-tight at this time
+12.3.1.12 Open the valve disc position to minimum of 20 deg
+12.3.1.13 If the existing seat planned to be used, remove the seat gasket from
+existing seat and carefully clean any remnants of removed gasket
+and foreign matter within the gasket groove. Also clean the seating
+surface gently without scratching the seating surface
+12.3.1.14 Slightly grease the gasket groove in the existing seat/New seat,
+install the new seat gasket (B2). Apply a suitable lubricant to
+the sealing surfaces of the seat (B1). Place this seat/gasket sub-
+assembly into the valve body paying attention that the groove of the
+seat is aligned with the body groove and insert the seat alignment
+button (B8). Replace seat set screws if necessary. Adjust the seat
+retainer ring lower set screws (B6) until they are flush with the
+bottom of the seat retainer (B4). Install the seat retainer (B4) and
+the seat retainer ring (B5) in its groove in the body. Using a cross
+bolting technique, tighten the seat retainer lower set screws (B6) to
+50% of torque specified in Table 4 . Once all set screws are tightened,
+proceed to fully tighten them to 100% of the listed torque value
+12.3.1.15 Using a suitable actuation device, close and open the valve 2-3
+times, only closing the valve to the point where the seal ring engages
+with the seat. Check each time that the disc seal ring makes full
+contact without torqueing into the seat. Attention should be paid in
+the closing stroke that the seat does not scratch the seal ring. This
+will allow the seal ring and seat to be properly aligned.
+© 2023 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 21 of 26
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 23 ===
+TRI LOK®
+Installation, Operation and Maintenance Manual
+12.3.1.16 Close the valve. Tighten at least four screws in the seal ring retainer
+to prevent the seal ring from further movement. Open the valve
+sufficient enough to tighten the seal ring retainer screws. Tighten
+all seal ring retainer screws (C5) using a cross bolting technique, to
+50% of the torque specified in Table 4. Once all screws are tightened,
+proceed to fully tighten them to 100% of the listed torque value
+12.3.1.17 Re-apply lubricant to the sealing surfaces of the valve. Reinstall
+actuation device (wherever applicable) and test the valve
+12.3.2 Only Seat Replacement (Class 600/900 Valves)
+12.3.2.1 To replace the seat and to reuse the existing seal ring, refer
+section “Only Seal Ring Replacement (or) Both Seat & Seal Ring
+Replacement (Class 600/900 Valves)” where the existing seal ring
+removed from the valve can be reused. However, the existing seal
+ring gasket (C3) has to be replaced while using the existing seal ring.
+Exercise extra care when handling the seal ring to prevent it from any
+damage.
+12.4 Bottom Flange Gasket Replacement
+Refer part diagram 8.0 and 10.0. Packing gland nuts should be in
+tightened condition while replacing the bottom plate gaskets during
+inline maintenance
+12.4.1 Bottom Plate
+12.4.1.1 If the valve is installed, remove line pressure.
+12.4.1.2 Completely remove the bottom plate screws (G3). Remove the
+bottom plate (G1) and the bottom plate gasket (G2). Clean the
+bearing area of residual gasket and foreign materials.
+12.4.1.3 Grease the body/bottom plate gasket groove area. Place the new
+gasket (G2) on the bottom plate (G1) and install it onto the body.
+12.4.1.4 Reinstall the bottom plate screws (G3) and using a cross bolting
+technique, tighten them according to the torque specified in Table 3
+or 4
+12.4.2 Bottom Plug
+12.4.2.1 If the valve is installed, remove line pressure.
+12.4.2.2 Remove the bottom plug (G1) and the bottom plug gasket (G2).
+Clean the bearing area of residual gasket and foreign materials.
+Grease the body/bottom plug gasket area.
+12.4.2.3 Place the new gasket (G2) on the bottom plug (G1) and install it onto
+the body.
+12.4.2.4 Tighten the bottom plug according to the torque specified in Table 3
+© 2023 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 22 of 26
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 24 ===
+TRI LOK®
+Installation, Operation and Maintenance Manual
+Table 2 - Torque Values for Packing Gland Hex Nuts
+Class 600 Class 600 Class 900
+Valve Size Class 150 Class 300
+Flanged Valves Lug/Wafer Flanged Valve
+in mm lb-in Nm lb-in Nm lb-in Nm lb-in Nm lb-in Nm
+3 80 48 5 48 5 84 9 Consult Factory Consult Factory
+4 100 55 6 55 6 133 15 84 9 Consult Factory
+6 150 63 7 84 9 295 33 136 15 Consult Factory
+8 200 84 9 102 12 337 38 295 33 680 77
+10 250 99 11 159 18 680 77 337 38 896 101
+12 300 111 13 183 21 746 84 680 77 2362 267
+14 350 80 9 183 21 813 92 746 84 3473 392
+16 400 183 21 342 39 879 99 813 92 Consult Factory
+18 450 203 23 342 39 1012 114 879 99 Consult Factory
+20 500 342 39 401 45 1657 187 1012 114 Consult Factory
+24 600 401 45 654 74 2546 288 1657 187 Consult Factory
+28 700 401 45 654 74
+30 750 654 74 1107 125
+32 800 654 74 1107 125
+36 900 859 97 1216 137 Consult Factory
+40 1000 1107 125
+42 1050 1107 125
+48 1200 1216 137
+Table 3 - Torque Values for Seat Retaining Cap Screws and Seal Retainer Cap Screws and Bottom Plate (Class 150/300)
+Class 150 Class 300
+Valve Size
+Bottom Plate Bottom Plate
+Seat Seal Ring Retainer Seat Seal Ring Retainer
+Cap Screw Cap Screw
+in mm lb-in Nm lb-in Nm lb-in Nm lb-in Nm lb-in Nm lb-in Nm
+3 80 22 2 19 2 720 81 22 2.5 20 2.3 720 81
+4 100 55 6 45 5 720 81 55 6.2 45 5 720 81
+6 150 55 6 95 11 840 95 110 12.4 95 11 960 108
+8 200 110 12 95 11 960 108 204 23 171 19 1080 122
+10 250 204 23 171 19 1080 122 204 23 171 19 1440 163
+12 300 204 23 171 19 1200 136 204 23 171 19 423 48
+14 350 204 23 171 19 423 48 320 36 274 31 423 48
+16 400 204 23 274 31 423 48 320 36 274 31 848 96
+18 450 320 36 274 31 848 96 320 36 422 48 848 96
+20 500 320 36 422 48 848 96 499 56 422 48 848 96
+24 600 320 36 422 48 848 96 499 56 422 48 848 96
+28 700 1008 114 848 96 848 96 499 56 422 48 848 96
+30 750 1008 114 848 96 848 96 1008 114 848 96 1523 172
+32 800 1008 114 848 96 848 96 1008 114 848 96 1523 172
+36 900 1008 114 848 96 1523 172 1008 114 848 96 1523 172
+40 1000 1008 114 848 96 1523 172
+42 1050 1008 114 848 96 1523 172 Consult Factory
+48 1200 1008 114 848 96 1523 172
+© 2023 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 23 of 26
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 25 ===
+TRI LOK®
+Installation, Operation and Maintenance Manual
+Table 4a - Torque Values for Seat Retaining Cap Screws and Seal Retainer Cap Screws and Bottom Plate (Class 600)
+Class 600 - Flanged Valves Class 600 - Lug/Wafer
+Valve Size
+*Seat Retainer Bottom Plate Bottom Plate
+Seal Ring Retainer Seat Seal Ring Retainer
+Set Screw Cap Screw Cap Screw
+in mm lb-in Nm lb-in Nm lb-in Nm lb-in Nm lb-in Nm lb-in Nm
+3 80 64 7 55 6 274 31 Consult Factory
+4 100 69 8 95 11 274 31 100 11 55 6 422 48
+6 150 124 14 171 19 848 96 204 23 171 19 422 48
+8 200 127 14 422 48 848 96 204 23 171 19 848 96
+10 250 294 33 848 96 1522 172 499 56 422 48 848 96
+12 300 288 33 848 96 1522 172 499 56 848 96 1522 172
+14 350 297 34 848 96 1522 172 499 56 848 96 1522 172
+16 400 304 34 848 96 2464 278 499 56 848 96 1522 172
+18 450 273 31 1522 172 2464 278 1008 114 848 96 2464 278
+20 500 544 61 1522 172 3703 418 1008 114 1522 172 2464 278
+24 600 597 67 1522 172 5504 622 1008 114 1522 172 3703 418
+*Seat upper dowels require 1/3 the torque of the seat lower dowel fasteners
+Table 4b - Torque Values for Seat Retaining Cap Screws and Seal Retainer Cap Screws and Bottom Plate (Class 900)
+Class 900 - Flanged Valves
+Valve Size Seat RetainerSet Screw Seal Ring Retainer Bottom Plate Cap Screw
+in mm lb-in Nm lb-in Nm lb-in Nm
+3 80 Consult Factory Consult Factory Consult Factory
+4 100 Consult Factory Consult Factory Consult Factory
+6 150 Consult Factory Consult Factory Consult Factory
+8 200 291 33 422 48 1522 172
+10 250 321 36 848 96 2464 278
+12 300 361 41 1522 172 3703 418
+14 350 376 42 1522 172 5504 622
+16 400 Consult Factory Consult Factory Consult Factory
+18 450 Consult Factory Consult Factory Consult Factory
+20 500 Consult Factory Consult Factory Consult Factory
+24 600 Consult Factory Consult Factory Consult Factory
+© 2023 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 24 of 26
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 26 ===
+TRI LOK®
+Installation, Operation and Maintenance Manual
+Table 5 - Torque Values for Bracket Fasteners
+Class 600 Flanged Class 900
+Valve Size Class 150 Class 300 Class 600 Lug
+Valve Flanged Valve
+in mm Lb-in Nm Lb-in Nm Lb-in Nm Lb-in Nm Lb-in Nm
+3 80 300 34 300 34 422 48 Consult Factory Consult Factory
+4 100 300 34 300 34 422 48 423 48 Consult Factory
+6 150 300 34 300 34 1,522 172 Consult Factory Consult Factory
+8 200 300 34 750 85 1,522 172 1,522 172 848 96
+10 250 750 85 750 85 848 96 1,522 172 3703 418
+12 300 750 85 1,500 169 1,522 172 848 96 1522 172
+14 350 1,500 169 2,600 294 1,522 172 1,522 172 3703 418
+16 400 2,600 294 2,600 294 1,522 172 1,522 172 Consult Factory
+18 450 2,600 294 3,600 407 3,703 418 1,522 172 Consult Factory
+20 500 2,600 294 3,600 407 7,473 844 3,703 418 Consult Factory
+24 600 6,300 712 14,250 1,610 7,473 844 7,473 844 Consult Factory
+28 700 2,600 294 14,250 1,610
+30 750 14,250 1,610 14,250 1,610
+32 800 14,250 1,610 14,250 1,610
+Consult Consult
+36 900 14,250 1,610 14,250 1,610
+Factory Factory
+40 1,000 14,250 1,610 14,250 1,610
+42 1,050 14,250 1,610 14,250 1,610
+48 1,200 14,250 1,610 14,250 1,610
+© 2023 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM The Information 25 of 26
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would
+violate its proprietary nature without the express written permission of Bray International, Inc.
+=== page 27 ===
+SINCE 1986, BRAY HAS PROVIDED FLOW CONTROL SOLUTIONS
+FOR A VARIETY OF INDUSTRIES AROUND THE WORLD.
+VISIT BRAY.COM TO LEARN MORE ABOUT
+BRAY PRODUCTS AND LOCATIONS NEAR YOU.
+HEADQUARTERS
+BRAY INTERNATIONAL, INC.
+13333 Westland East Blvd.
+Houston, Texas 77041
+Tel: 281.894.5454
+EUROPE HEADQUARTERS
+BRAY CONTROLS EUROPE B.V.
+Joulestraat 8
+1704 PK Heerhugowaard
+The Netherlands
+Tel: +31 072 572 1410
+CHINA HEADQUARTERS
+BRAY CONTROLS (ZHE JIANG) CO. LIMITED
+98 GaoXin #6 Road
+XiaoShan Economic & Development Zone
+HangZhou, ZheJiang 311231, P.R. China
+Tel: 86 571 8285 2200
+All statements, technical information, and recommendations in this bulletin are for general
+use only. Consult Bray representatives or factory for the specific requirements and material
+selection for your intended application. The right to change or modify product design or product
+without prior notice is reserved. Patents issued and applied for worldwide.
+© 2023 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. EN_IOM_TriLok Standard_11-26-2024
+THE HIGH PERFORMANCE COMPANY BRAY.COM

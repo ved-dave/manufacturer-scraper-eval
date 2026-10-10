@@ -1,0 +1,147 @@
+=== page 1 ===
+PLEASE NOTE
+During shipping and difficult installation, the actuator
+may fall outside of factory settings. If during initial
+start up the actuator does not function, please follow
+the following procedures.
+All safety precautions stated in the full Operations Manual must
+QUICK START GUIDE – SERIES 70 ELECTRIC ACTUATORS be read and understood before proceeding with this document.
+YouTube
+2.3 With the travel switch in the closed position, rotate the handwheel clockwise:
+“NXT Calibration REV2”
+bit.ly/S70NXTCalibrate
+1/2 turn 300-800 lb-in (34-90 N m)
+5,000-6,500 lb-in (565-734 N m)
+1 turn 1,200-3,000 lb-in (136-339 N m)
+2 turns 13,000-18,000 lb-in (1,469-2,034 N m)
+Adjust the closed travel stop bolt until it bottoms against the internal
+1.0 CLOSE CAM
+segment gear and lock it in position with the locknut.
+1.1 Pull the Handwheel to disable the electric motor. Apply power to power
+3.0 OPEN CAM
+terminals. For Servo NXT electronic modules, adjust display settings using
+arrow keys and checkmark. 3.1 Manually operate the actuator handwheel counterclockwise until the valve
+reaches the desired open position.
+1.2 Manually operate the actuator hand wheel clockwise until the valve reaches
+the fully closed position. This can be accomplished by using the dome valve 3.2 For On/Off actuators, rotate the GREEN Cam adjusting knob until the cam lobe
+position indicator. just activates (depresses) the switch from a counterclockwise direction. This can
+be accomplished by using a switch contact indicator device with lights and by
+NOTICE listening for the second click sound from the travel limit switch. Skip step 3.3.
+Cam Locking Screw must be loosened before each cam/pot drive gear adjustment
+3.3 For NXT Servo actuators, the full open valve position will depend on the VDC
+and re-tightened after each cam/pot drive gear adjustment. It is likely that the
+measured at the appropriate Potentiometer terminals. Manually rotate the
+rotation of one will move the other. Hold the other knobs or cams/pot drive gear
+actuator until the Pot voltage is between 2.99 – 3.04 VDC. Rotate the GREEN
+during adjustment
+Cam Adjustment Knob with a flat head screwdriver until the cam lobe just
+1.3 Rotate the RED Cam Adjustment Knob with a flat head screwdriver until the activates (depresses) the switch from a counterclockwise direction. This can
+cam lobe just activates (depresses) the switch from a clockwise direction. be accomplished by viewing the GREEN Valve Position LED Open light or by
+This can be accomplished by viewing the RED Valve Position LED Close light listening for the second click sound from the travel limit switch.
+or by listening for the second click sound from the travel limit switch. Note, 3.4 With the travel switch in the open position, rotate the handwheel
+the first click sound comes from the auxiliary switch when applicable. counterclockwise using the turns listed in step 2.3. Adjust the open travel
+stop bolt until it bottoms against the internal segment gear and lock it in
+position with the locknut.
+4.0 TESTING
+2.0 POTENTIOMETER DRIVE GEAR
+4.1 For On/Off actuators, electrically command the actuator full open and close
+2.1 The BLACK Potentiometer Drive Gear is not used for On/Off actuators, skip to verify proper valve position. If positions are good, then calibration is
+step 2.2. complete. Otherwise return to step 1 or contact Bray.
+2.2 For NXT Servo actuators, the Potentiometer’s Volts Direct Current (VDC) must 4.2 For NXT Servo actuators, put the Servo NXT into Autocalibration mode by
+be measured using a Multimeter. pressing the autocalibration button. Wait approximately 2.5 - 7.5 min. for
+a. Contact multimeter NEGATIVE to FB Pot Com (WHITE wire) autocalibration to complete before moving to next step.
+b. Contact multimeter POSITIVE to FB Pot Wiper (ORANGE wire)
+4.3 Electrically command the actuator full open and close to verify proper valve
+c. Rotate the BLACK Potentiometer Drive Gear adjustment knob with a flat
+position and recheck potentiometer VDC measurements to the specifications
+head screwdriver until the Multimeter VDC measurement falls within
+below, using Command Inputs. If position and potentiometer measurements are
+0.16 – 0.21 VDC, in the closed position.
+good, then calibration is complete. Otherwise return to step 1 or contact Bray.
+d. Note: Make gentle contact when bringing the mechanical stop in contact
+• Close Position = 0.10 – 0.26 VDC
+with the output gear. When tightening the nut, use two wrenches. One
+• Open Position = 2.94 – 3.10 VDC
+to hold the bolt in place and one to tighten the nut. DO NOT drive the
+mechanical stop into the internal segment gear and crack the plastic washer. 4.4 Note: For actuator sizes 13,000 in.lb. and 18,000 in.lb., disable the Motor
+Stall Detection. The Stall Detection feature can be disabled by simultaneously
+pressing and holding the Up and Down Arrow keys for 5 seconds. After 5
+Negative to white wire Positive to orange wire seconds, all valve position indicators will flash simultaneously for 1 second
+indicating that the feature has been disabled.
+The electrical travel switches must be set to activate (depress) prior to reaching the
+mechanical travel stop bolts.
+Disconnect power supply before making electrical connections to avoid electric
+shock.
+© 2022 BRAY INTERNATIONAL. ALL RIGHTS RESERVED. BRAY.COM B_1103_S70 QuickStart Guide_20240816
+=== page 2 ===
+PLEASE NOTE
+During shipping and difficult installation, the actuator
+may fall outside of factory settings. If during initial
+start up the actuator does not function, please follow
+the following procedures.
+All safety precautions stated in the full Operations Manual must
+QUICK START GUIDE – SERIES 70 ELECTRIC ACTUATORS be read and understood before proceeding with this document.
+1.0 Mounting 2.0 Wiring - Use wiring diagrams under actuator lid (sticker) and tucked near the motor (paper), that matches
+a. Actuator should not be installed with handwheel facing DOWN. your specific order.
+b. Electrical conduits locations should NOT allow moisture to drain into the actuator.
+c. On Steam Line Applications, install valve with stem at 45° to 90° from vertical.
+Turn off all power and lockout/tag out service panel before installing or modifying any electrical wiring.
+X √ 45˚ to 90˚ NOTICE
+1. Power and control wiring should use separate conduit entries, excluding 24VAC applications.
+2. Control wiring should be shielded, and the shield line should only be grounded at onew end, preferably at
+the controller.
+3. The conduit connections must be properly sealed to maintain the weatherproof integrity of the actuator
+enclosure to meet applicable NEMA standards.
+4. A minimum of 18 AWG wire is recommended for all field wiring.
+5. Some On/Off units require additional terminal wiring to power the heaters, and the heaters are
+High Temperature Steam recommended.
+Applications
+3.0 Calibration - See other side of S70 Quick Start Guide.
+4.0 Troubleshooting - Warning: Turn off all power and lockout/tag out service panel before installing or modifying any elecrical wiring.
+ISSUES POSSIBLE CAUSES POSSIBLE SOLUTIONS
+Fuse is blown Verify and replace 5A Fast Blow 5x20mm Fuse on the side of the NXT Electronic Module.
+Servo NXT does not
+turn on when power Servo NXT is incorrectly wired Verify wire connections against the wiring diagram. Wiring diagrams found inside actuator lid and upon email request.
+is applied
+Servo NXT is not receiving power Test the Input Power connection with a multimeter or oscilloscope.
+Actuator moves back Deadband is too narrow Increase the deadband setting.
+a se n t d p o fo in rt t h ( h n u e n a t r i ng) Excessive noise on the signal lines U be s e s h a e n i l o d s e c d il l a o n s d co g p r e o u to n d te e s d t . f S o o r m th e e a p p r p e l s ic e a n t c io e n o s f r E e M qu I. i r U e t s il e iz p e a E ra M te I r c e o d n u d c u in it g s f t o e r c h si n g i n q a u l e w s t ir o e s m , p it e ig r a N te E C th . e issue. Command Signal and Feedback wires must
+Servo NXT in local Control Box mode I o f n lo t c h a e l C co o n n t t r r o o l l i B s o b x e i O n p g e u n s e a d n , d e C n l s o u s r e e p th in e s l r o e c l a a l t i c v o e n t t o ro t l h s e t a C t O io M n i p s i n n o s. t G a r c e ti a v t e e r o t r h i a s n s e 3 t V t o s h re o m ul o d t b e e m m o e d a e s . u If r e lo d c . al control is not being used, test the voltage
+Servo NXT not
+responding to Servo NXT in manual or autocalibration mode Check the indicators for manual and autocalibration mode.
+Command Signal Autocalibration not conducted after CAM Shaft assembly adjustments Autocalibrate Servo NXT.
+Servo NXT is incorrectly wired Verify wire connections against the wiring diagram. Wiring diagrams found inside actuator lid and upon email request.
+Command signal does not match Input setting Adjust the Input setting to match the command signal used.
+Cmd Signal Fault Servo NXT is incorrectly wired Verify wire connections against the wiring diagram. Wiring diagrams found inside actuator lid and upon email request.
+Servo NXT is not receiving the command signal T a e p s p t l i t c h a e t i I o n n p s u r t e C q o u m ire m s a e n p d a r c a o t n e n c e o c n ti d o u n i t w s f it o h r a si g m n u a l l t i w m i e re te s, r p o e r r o N sc E i C llo . scope. Command Signal and Feedback wires must be sheilded and grounded. Some
+Both limit switches are engaged or disengaged at the same time Adjust actuator cams.
+Limit Switch Fault Servo NXT is incorrectly wired Verify wire connections against the wiring diagram. Wiring diagrams found inside actuator lid and upon email request.
+Travel limit switch failure T P e o s s t i t t i h o e n s in w d i i t c c a h t e o s r t l o ig e h n ts s . ure that they are changing Limit Swithc fault light states when engaged. View the NXT’s OPEN (green) and CLOSE (red) Valve
+Hand Wheel is engaged Disengage (push in) hand wheel.
+Hand Wheel Fault Servo NXT is incorrectly wired Verify wire connections against the wiring diagram. Wiring diagrams found inside actuator lid and upon email request.
+Hand wheel switch failure Test the switch to ensure that it is changing Hand Wheel fault light states when engaged.
+FB Pot Fault Potentiometer outside of travel range O ca p li e b r r a a t t e io t n h e p r a o c c tu ed a u to re r . to the fully open and fully closed position, and adjust the potentiometer position to always be between 0.1-3.1 VDC. Follow
+Servo NXT is incorrectly wired Verify wire connections against the wiring diagram. Wiring diagrams found inside actuator lid and upon email request.
+Torque Switch setting enabled with no torque switches connected Disable torque switch setting.
+Torque switche(s) engaged Check the valve and/or actuator for obstructions.
+Torque Switch Fault Servo NXT is incorrectly wired Verify wire connections against the wiring diagram. Wiring diagrams found inside actuator lid and upon email request.
+Torque Switch failure Test the switches to ensure that they are changing Torque Switch fault light states when engaged.
+Top Plate has been removed or adjusted This can effect Torque Switch calibration, requiring factory recalibration.
+Operational torque is exceeding the torque rating of the actuator C th h e e a ck ct t u h a e t o v r a t lv o e rq a u n e d r / a o t r i n a g ct . uator for obstructions. Remove actuator, measure the valve stem torque required to rotate the valve disk and verify against
+Motor Stall Fault Fault lights exist while initiating autocalibration Correct applicable fault light.
+( f A la l s l h 5 ) fault lights Autocalibration not conducted after CAM Shaft assembly adjustments Autocalibrate Servo NXT.
+Motor Stall enabled on 13k and 18k in.lb. actuators Disable Motor Stall Detection, by holding UP and DOWN arrows simultaneously for 5 seconds.
+Servo NXT is incorrectly wired Verify wire connections against the wiring diagram. Wiring diagrams found inside actuator lid and upon email request.
+F d a u u ri l n t g co ndition Fault occurring during calibration C V o D r C re a c n t d a n N y X f T a ’ u s l O ts P l E ig N h t ( s g . r O ee p n e ) r a a t n e d t h C e L O ac S t E u a (r t e o d r ) t V o a t l h v e e f P u o l s ly it o io p n e n in d an ic d a t f o u r l l l y i g c h lo ts s e f d u n p c o ti s o it n io . n, while verifying potentiometer voltage is between 0.1-3.1
+autocalibration Servo NXT is incorrectly wired Verify wire connections against the wiring diagram. Wiring diagrams found inside actuator lid and upon email request.
+Pulsing Motor Excessive motor use U cy L c l l e is . ted NXT modules will reduce runtime to 33% (1s On/2x Off) until high temperature actuator has cooled. Increase Deadband span or reduce duty
+Rotation Motor Speed selection below 100% M lim o i t t o e r d S d p u e e e d to b t e e l m ow pe 1 r 0 at 0 u % re . will use an On/Off pulsing action to reduce speeds. Change Motor Speed selection as needed, unless speed has been
+REFERENCE FILE
+S70 NXT IOM Manual https://www.bray.com/docs/default-source/manuals-guides/iom-manuals/s70-servo-nxt-devicenet_halfsize_2_2020.pdf
+S70 IOM MANUAL HTTPS://WWW.BRAY.COM/DOCS/DEFAULT-SOURCE/MANUALS-GUIDES/IOM-MANUALS/ELECTRIC-ACTUATORS-SERIES-70-OM-EN-US.PDF
+S70 NXT Calibration YouTube Video https://www.youtube.com/watch?v=tGlgF8GwT2Y
+S70 NXT Calibration And Testing https://www.youtube.com/watch?v=tGlgF8GwT2Y
+S70 Servo NXT Potentiometer Setting h N t X tp T s % :/ 2 /a 0 s P - o co te m n d ti - o s m ite e - t w er e % ba 2 p 0 i S -w et u ti s n 2 g -prd-01.azurewebsites.net/documents/48bff248-c97c-4880-a8d6-15baa41c3d81/Bray%20Commercial%2070%20Series%20
+S70 Technical Manual https://www.bray.com/docs/default-source/manuals-guides/technical-sales-guide/en_br_tsm__s70-electric-actuator_20240628.pdf
+S70 Sales Brochure https://www.bray.com/docs/default-source/specifications/datasheets/en_sds_ac_70_20220304.pdf
+© 2022 BRAY INTERNATIONAL. ALL RIGHTS RESERVED. BRAY.COM B_1103_S70 QuickStart Guide_20240816

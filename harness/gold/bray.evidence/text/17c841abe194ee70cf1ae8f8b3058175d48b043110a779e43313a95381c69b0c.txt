@@ -1,0 +1,127 @@
+=== page 1 ===
+Series 5A Aluminum Valve Status Monitor
+FEATURES
+• IP66 / 67 • High Visibility Indicator Dome • SIL 3 Capable Option
+• NEMA 4, 4x • Compact Design
+TECHNICAL DATA
+General Specifications
+Body Material Die cast aluminum
+Indicator Dome Polycarbonate
+Coating Grey polyester
+Conduit Thread 1/2” NPT or M20
+Conduit Quantity 2
+Temperature Range -13°F to 149°F (-25°C to 65°C)
+Approx. Weight with 2 x SPDT 1.2 lbs / 0.5 kg
+Mounting Pattern VDI/VDE 3845
+Terminal 4 or 8 Pole configurations
+O-Rings EPDM
+DIMENSIONS
+Open (yellow) Closed (red) Open (black) Closed (yellow)
+Indicator Options
+Open (green) Closed (red) Open (red) Closed (green)
+Ratings IP66/67 & NEMA 4, 4x
+Certification cULus on most models. CE Declaration
+3.48" Hazardous Locations (Optional) ATEX, IECEx, cULus for intrinsic safety
+(88mm) Mechanical Switches Reed Switches
+4.11" Switch Type SPDT SPDT Low Power SPDT
+(104mm)
+10A, 250V AC 0.1A, 125V AC 180 mA, 110V AC
+1/2 HP, 250V AC 0.1A, 30V DC 830 mA, 24V DC
+Switch Ratings
+0.25A, 250V DC 1mA, 4V AC/DC min 20W max.
+0.5A, 125V DC
+3.39"
+Max Num(b8e6rm omf) Switches 2 2 2
+44..7755"" Approvals cULus, SIL 3 Capable cULus, SIL 3 Capable SIL 3 Capable
+(120mm)
+3-Wire DC Proximity Switches PNP N.O. PNP N.C. NPN N.O. NPN N.C.
+Power Supply Class 2 Class 2 Class 2 Class 2
+Operating Voltage 10-30V DC 10-30V DC 10-30V DC 10-30V DC
+Load Current ≤ 100 mA ≤ 100 mA ≤ 100 mA ≤ 100 mA
+F05 Mounting Current Consumption ≤ 15 mA ≤ 15 mA ≤ 15 mA ≤ 15 mA
+Pattern
+Leakage Current ≤ 0.5 mA ≤ 0.5 mA ≤ 0.5 mA ≤ 0.5 mA
+Voltage Drop ≤ 3V ≤ 3V ≤ 3V ≤ 3V
+Max Number of Switches 2 2 2 2
+Approvals cULus cULus cULus N/A
+2-Wire Proximity Switches 140V N.O. 250V N.O.
+20-140V AC 20-250V AC
+3.48" Operating Voltage
+(88mm) 10-140V DC 10-300V DC
+Load Current 5-200 mA ≤ 100 mA
+4.11"
+(104mm) Leakage Current ≤ 0.8 mA ≤ 1.7 mA
+Voltage Drop ≤ 7V ≤ 6V
+Max Number of Switches 2 2
+Approvals N/A N/A
+3.39"
+NAMUR I.S. Switches N.C.
+(86mm)
+44..7755"" ≥ 3 mA (deactivated) Class I, Division 1, Groups A, B, C, & D, T6
+(120mm) Current Consumption ≤ 1 mA (activated) Class II, Division 1, Groups E, F, & G, T85°C
+Class III
+Max Power 64 mW UL/cUL
+Class I, Zone 0, AEx ia IIC T6
+Max Voltage 16 V Class I, Zone 1, AEx ia IIC T6
+Max Current 25 mA Ex ia IIC Gb T6
+F05 Mounting Switch P+F NJ2-V3-N ATEX II 1G Ex ia IIC Ga T6
+Pattern II 2G Ex ia IIC Gb T6
+Effective Capacitance (C i ) ≤ 40 nF IECEx Ex ia IIC Ga T6
+Effective Inductance (L) ≤ 50 μH Ex ia IIC Gb T6
+i
+Max Number of Switches 2 Zone 0 or 1G: -25°C ≤ Ta ≤ +49°C
+Ambient
+Approval cULus, ATEX, IECEx, SIL 3 Capable Zone 1 or 2G: -25°C ≤ Ta ≤ +65°C
+All information herein is proprietary, confidential, and may not be copied or reproduced without the expressed written consent of BRAY INTERNATIONAL, Inc.
+The technical data herein is for general information only. Product suitability should be based solely upon customer’s detailed knowledge and experience with their application.
+bray.com - 1 - Rev. 10 2022
+=== page 2 ===
+Series 5A Aluminum Valve Status Monitor
+BRACKET
+Bracket Type NAMUR Pattern Actuator Series Actuator Size VSM / Actuator Std. Part No.
+Imperial / Imperial 5B0000-22600534
+92 / 93 063 - 128 Imperial / Metric 5B0000-22630534
+Single Piece 30 x 80 Metric / Metric 5B0000-22650534
+Imperial / Metric 5B0000-22630534
+98 All
+Metric / Metric 5B0000-22650534
+063 - 210 Imperial / Imperial 5B0000-22601534
+92 / 93 Imperial / Metric 5B0000-22631534
+30 x 80
+063 - 255
+Adjustable or Metric / Metric 5B0000-22651534
+30 x 130
+Imperial / Metric 5B0000-22631534
+98 All
+Metric / Metric 5B0000-22651534
+Single Piece Bracket Adjustable Bracket for both 30x80 and 30x130 NAMUR mounting pads (fits all S92/93/98 actuators)
+30mm x 80mm 30mm x 80mm 30mm x 130mm
+PART NUMBERING SYSTEM
+5A000X-126X X XXX / E X
+Thread Type Switch Option Switch Indicator Indicator
+Configuration Language Color
+0 Imperial A SPDT Mechanical Switch
+5 Metric B SPDT Mechanical Gold Plated 2 2 Switches E English 2 R G e re d e C n l o O s p e e d n /
+Switch (Low Power)
+Yellow Closed/
+C PNP N.O., 3-Wire Switch 3
+Black Open
+D NPN N.O., 3-Wire Switch No Additional Green Closed/
+4
+E PNP N.C., 3-Wire Switch Characters Red Open
+F 140V, 2-Wire Switch Standard English
+Red Closed/Yellow Open
+G 250V, 2-Wire Switch
+H NAMUR Intrinsically Safe Switch
+Body Material
+K SPDT Reed Switch
+Polyester coated
+R NPN N.C., 3-Wire Switch 536 die-cast aluminum
+HEADQUARTERS
+Bray International, Inc.
+All statements, technical information, and recommendations in this bulletin are for general use only.
+13333 Westland East Blvd. Consult Bray representatives or factory for the specific requirements and material selection for your intended
+application. The right to change or modify product design or product without prior notice is reserved.
+Houston, Texas 77041 Patents issued and applied for worldwide.
+Tel: 281.894.5454 Bray® is a registered trademark of Bray International, Inc.
+bray.com © 2022 Bray International. All rights reserved. TM-1090_5A_aluminum_20221014

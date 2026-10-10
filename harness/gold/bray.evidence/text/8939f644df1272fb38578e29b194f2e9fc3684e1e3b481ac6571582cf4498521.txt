@@ -1,0 +1,871 @@
+=== page 1 ===
+RESILIENT SEATED AND DOUBLE OFFSET VALVES
+TYPICAL FLANGE BOLTING
+without Washers
+BRAY.COM THE HIGH PERFORMANCE COMPANY
+=== page 2 ===
+RREESSIILLIIEENNTT SSEEAATT VVAALLVVEE BBOOLLTTIINNGG
+WWiitthhoouutt WWaasshheerrss RReevviissiioonn 1111
+Examples of Typical Valve to Flange Bolting without Washers
+When bolting the valve into the line, use standard bolting torque as recommended by applicable piping standards.
+Additional force from the flange bolts is not required. Minimum bolt engagement must be equal to the diameter of the bolt.
+CAUTION: To ensure proper installation refer to appropriate table within this guide for specific valve drilling information.
+NOTES: Double flange style bolting not shown. Lug Threads may be tapped from both sides and therefore tap may not be continuous.
+Recommend 2 Threads Recommend 2 Threads NOTE: Lug Threads may be tapped
+Beyond Nut Per Side Beyond Nut Per Side from both sides and therefore
+to Determine Overall Length to Determine Overall Length tap may not be continuous.
+Minimum Stud Minimum Bolt
+Engagement Engagement
+Must Be Equal to Must Be Equal to
+the Stud Diameter the Bolt Diameter
+VVaallvvee
+FFaaccee ttoo FFaaccee
+Flange Thickness X2
+Hex Head Nut Hex Head Bolt
+Hex Head Nut Thickness X2 Flange Thickness Flange Thickness
+Wafer Valve Lug Valve
+Through Stud Length Hex Head Bolt Length
+Valve Flange Nut Minimum Bolt
+Length of Stud Flange
+Face to + Thickness +Thickness = + Engagement Equal to = Length of Bolt
+(Plus 2 Threads for Studs) Thickness
+Face X2 X2 the Bolt Diameter
+FLANGES WITH RAISED FACES - Stud Length
+ADD IN THE THICKNESS OF THE
+Minimum Stud
+RAISED FACE Nut Flange Length of Stud
++ + Engagement Equal to =
+Thickness Thickness (Plus 2 Threads for Studs)
+the Stud Diameter
+PLEASE REFER TO APPROPRIATE BRAY DIMENSIONAL
+CAUTION: DRAWINGS FOR SPECIFIC VALVE DRILLING INFORMATION
+Tapped holes at Assumptions Made in Calculations
+Lengths rounded to the nearest 1⁄4”for maximum thread engagement.
+neck locations DO NOT
+Nut thickness as per ASME B18.2.2 Heavy Hex.
+permit thru holes..
+Flange thickness as per ASME B16.5 or ASME B 16.47 Class A.
+Page 2 Valve Flange Bolting Without Washers
+=== page 3 ===
+RECOMMENDED FLANGE TORQUE
+Without Washers Revision 11
+Note:
+Bray Controls is issuing these recommendations only as a guide to installation. This recommendation is based on the full
+compliance of all materials supplied to their appropriate specifications. Since many of the components are not manufactured
+by Bray we can take no responsibility for any damage caused during installation.
+S20/21, S22/23, S30/31, S32/33, S35/36 FIGURE 1
+Recommended Flange Torques
+Flange Size Range Fastener Size Recommended 4 Bolt and 8 Bolt Flanges
+Torques*
+in mm in mm lb-ft Nm
+2” - 4” 50-100 5⁄
+8
+16 35 50
+44 11
+8 1
+8
+12 1
+5 16
+8 20 12 1
+13
+5”- 8” 125-200 3⁄ 4 19 45 60 4 5 4 5
+4 9
+10” - 12” 250-300 7⁄
+8
+22 75 100 10 17
+14” - 16” 350-400 1 25 110 150 10 3 18 9
+6 3 6 3
+18” - 20” 450-500 11⁄
+8
+29 200 270
+2 3 6 7 14 15
+22” - 30” 550-750 11⁄ 4 32 250 340 2 7 2 11 2 11 19 7
+32” - 48” 800-1200 11⁄
+2
+38 430 585
+• Lubricate, hand tighten, then SNUG up bolts
+52” - 72” 1300-1800 13⁄
+4
+45 715 970
+• Round 1 - Tighten to 25% of- final torque
+84” 2200 2 51 1175 1595
+• Round 2 - Tighten to 50% of final torque
+90” - 96” 2250-2400 21⁄ 4 57 1675 2270
+• Round 3 - Tighten to 100% of final torque
+* Assumes well lubricated fastener selected to a grade sufficiently strong for the corre-
+sponding torque rating. Torque value is a general recommendation. Specific applications 12 Bolt Flanges and Above
+may require additional torque on flange fastener. Do not exceed 110% of recommended
+value.
+8 1 12 1 8 20 12 1
+44 11 8 5 16 13
+4 5 4 5
+4 9
+10 17
+18 9
+10 3
+6 3 6 3
+2 3 6 7 14 15
+2 7 2 11 2 11 19 7
+• Lubricate, hand tighten, then SNUG up bolts
+• Round 1 - Tighten to 20% of final torque
+• Round 2 - Tighten to 40% of final torque
+• Round 3 - Tighten to 80% of final torque
+• Round 4 - Tighten to 100% of final torque
+NOTES:
+Refer to Bray Resilient BFV Technical Manual for additional flange bolt tensioning data.
+For Series 4X, refer to gasket manufacturers recommended fastener torque.
+Do not exceed flange manufacturers’ recommended fastener torque.
+Tighten in star pattern, progressively increasing fastener torque as per Figure 1.
+Page 3 Valve Flange Bolting Without Washers
+=== page 4 ===
+SERIES 20 - 21 BOLTING
+Without Washers Revision 11
+SERIES 20 | WAFER
+Valve Size
+Diameter/Thread Studs
+in mm in mm Qty
+1 25 1⁄2-13UNC 3.75 95 4
+11/2 30 1⁄2-13UNC 4.00 102 4
+2 50 5⁄8-11UNC 4.75 121 4
+21/2 65 5⁄8-11UNC 5.25 133 4
+3 80 5⁄8-11UNC 5.25 133 4
+4 100 5⁄8-11UNC 5.50 140 8
+5 125 3⁄4-10UNC 6.00 152 8
+6 150 3⁄4-10UNC 6.00 152 8
+8 200 3⁄4-10UNC 6.75 171 8
+10 250 7⁄8-9UNC 7.25 184 12
+12 300 7⁄8-9UNC 7.75 197 12
+14 350 1-8UNC 8.25 210 12
+16 400 1-8UNC 9.50 241 16
+18 450 11⁄
+8
+-7UNC 10.25 260 16
+20 500 11⁄
+8
+-7UNC 11.25 286 20
+SERIES 21 | LUG
+Valve Size
+Diameter/Thread Studs Hex Head Bolts
+in mm in mm Qty in mm Qty
+1 25 1⁄
+2
+-13UNC 2.00 51 8 1.00 25 8
+11/2 30 1⁄
+2
+-13UNC 2.00 51 8 1.25 32 8
+2 50 5⁄
+8
+-11UNC 2.50 64 8 1.50 38 8
+21/2 65 5⁄
+8
+-11UNC 2.50 64 8 1.50 38 8
+3 80 5⁄
+8
+-11UNC 2.50 64 8 1.75 44 8
+4 100 5⁄
+8
+-11UNC 2.50 64 16 OR 1.75 44 16
+5 125 3⁄
+4
+-10UNC 2.75 70 16 1.75 44 16
+6 150 3⁄
+4
+-10UNC 3.00 76 16 1.75 44 16
+8 200 3⁄
+4
+-10UNC 3.00 76 16 2.00 51 16
+10 250 7⁄
+8
+-9UNC 3.50 89 24 2.25 57 24
+12 300 7⁄
+8
+-9UNC 3.50 89 24 2.50 64 24
+14 350 1-8UNC 4.00 102 24 2.75 70 24
+16 400 1-8UNC 4.50 114 32 2.75 70 32
+18 450 11⁄
+8
+-7UNC 4.50 114 32 3.25 83 32
+20 500 11⁄
+8
+-7UNC 5.00 127 40 3.75 95 40
+Dead end Service requires half the number of bolts and nuts
+PLEASE REFER TO APPROPRIATE BRAY DIMENSIONAL
+DRAWINGS FOR SPECIFIC VALVE DRILLING INFORMATION
+Assumptions Made in Calculations
+Lengths rounded to the nearest 1⁄4”for maximum thread engagement.
+Nut thickness as per ASME B18.2.2 Heavy Hex.
+Flange thickness as per ASME B16.5 Class 150.
+Page 4 Valve Flange Bolting Without Washers
+=== page 5 ===
+SERIES 22 - 23 BOLTING
+Without Washers Revision 11
+SERIES 22 | WAFER
+Valve Size
+Studs
+Diameter/Thread
+in mm in mm Qty
+2 50 5⁄
+8
+-11UNC 5.00 127 4
+21⁄
+2
+65 5⁄
+8
+-11UNC 5.25 133 4
+3 80 5⁄
+8
+-11UNC 5.50 140 4
+4 100 5⁄
+8
+-11UNC 5.50 140 8
+6 150 3⁄
+4
+-10UNC 6.25 159 8
+8 200 3⁄
+4
+-10UNC 6.50 165 8
+10 250 7⁄
+8
+-9UNC 7.25 184 12
+12 300 7⁄
+8
+-9UNC 7.75 197 12
+14 350 1-8UNC 8.50 216 12
+16 400 1-8UNC 9.50 241 16
+18 450 11⁄
+8
+-7UNC 10.50 267 16
+20 500 11⁄
+8
+-7UNC 11.25 286 20
+11⁄
+4
+-7UNC 12.75 324 12
+24 600
+Blind Bolts 5.00 127 16
+SERIES 23 | LUG
+Valve Size
+Diameter/Thread Studs Hex Head Bolts
+in mm in mm Qty in mm Qty
+2 50 5⁄
+8
+-11UNC 2.50 64 8 1.50 38 8
+21⁄
+2
+65 5⁄
+8
+-11UNC 2.75 70 8 1.75 44 8
+3 80 5⁄
+8
+-11UNC 2.75 70 8 1.75 44 8
+4 100 5⁄
+8
+-11UNC 2.75 70 16 1.75 44 8
+6 150 3⁄ 4 -10 UNC 3.00 76 16 OR 2.00 51 16
+8 200 3⁄
+4
+-10UNC 3.25 83 16 2.25 57 16
+10 250 7⁄
+8
+-9UNC 3.50 89 24 2.50 64 24
+12 300 7⁄
+8
+-9UNC 3.75 95 24 2.50 64 24
+14 350 1-8UNC 4.00 102 24 2.75 70 24
+16 400 1-8UNC 4.25 108 32 3.00 76 32
+18 450 1 1⁄
+8
+-7UNC 4.75 121 32 3.50 89 32
+20 500 1 1⁄
+8
+-7UNC 5.25 133 40 3.75 95 40
+1 1⁄
+4
+-7UNC 6.50 165 24 3.75 95 24
+24 600
+Blind Bolts 5.00 127 16 3.50 89 16
+Dead end Service requires half the number of bolts and nuts
+PLEASE REFER TO APPROPRIATE BRAY DIMENSIONAL
+DRAWINGS FOR SPECIFIC VALVE DRILLING INFORMATION
+Assumptions Made in Calculations
+Lengths rounded to the nearest 1⁄4”for maximum thread engagement.
+Nut thickness as per ASME B18.2.2 Heavy Hex.
+Flange thickness as per ASME B16.5 Class 150.
+Page 5 Valve Flange Bolting Without Washers
+=== page 6 ===
+SERIES 30 - 31 BOLTING
+Without Washers Revision 11
+SERIES 30 | WAFER
+Valve Size
+Diameter/Thread Studs
+in mm in mm Qty
+2 50 5⁄
+8
+-11UNC 5.00 127 4
+21⁄
+2
+65 5⁄
+8
+-11UNC 5.50 140 4
+3 80 5⁄
+8
+-11UNC 5.25 133 4
+4 100 5⁄
+8
+-11UNC 5.50 140 8
+5 125 3⁄
+4
+-10UNC 6.00 152 8
+6 150 3⁄
+4
+-10UNC 6.00 152 8
+8 200 3⁄
+4
+-10UNC 6.75 171 8
+10 250 7⁄
+8
+-9UNC 7.25 184 12
+12 300 7⁄
+8
+-9UNC 7.75 197 12
+14 350 1-8UNC 8.25 210 12
+16 400 1-8UNC 9.50 241 16
+18 450 11⁄
+8
+-7UNC 10.25 260 16
+20 500 11⁄
+8
+-7UNC 11.25 286 20
+SERIES 31 | LUG
+Valve Size
+Diameter/Thread Studs Hex Head Bolts
+in mm in mm Qty in mm Qty
+2 50 5⁄
+8
+-11UNC 2.50 64 8 1.50 38 8
+21⁄
+2
+65 5⁄
+8
+-11UNC 2.50 64 8 1.50 38 8
+3 80 5⁄
+8
+-11UNC 2.50 64 8 1.75 44 8
+4 100 5⁄
+8
+-11UNC 2.50 64 16 1.75 44 16
+5 125 3⁄
+4
+-10UNC 2.75 70 16
+OR
+1.75 44 16
+6 150 3⁄
+4
+-10UNC 3.00 76 16 2.00 51 16
+8 200 3⁄
+4
+-10UNC 3.00 76 16 2.00 51 16
+10 250 7⁄
+8
+-9UNC 3.50 89 24 2.25 57 24
+12 300 7⁄
+8
+-9UNC 3.50 89 24 2.50 64 24
+14 350 1-8UNC 4.00 102 24 2.75 70 24
+16 400 1-8UNC 4.25 108 32 3.00 76 32
+18 450 11⁄
+8
+-7UNC 4.50 114 32 3.25 83 32
+11⁄
+8
+-7UNC 5.25 133 32 3.75 95 32
+20 500
+Blind Bolts 4.25 108 8 3.00 76 8
+Dead end Service requires half the number of bolts and nuts
+PLEASE REFER TO APPROPRIATE BRAY DIMENSIONAL
+DRAWINGS FOR SPECIFIC VALVE DRILLING INFORMATION
+Assumptions Made in Calculations
+Lengths rounded to the nearest 1⁄4”for maximum thread engagement.
+Nut thickness as per ASME B18.2.2 Heavy Hex.
+Flange thickness as per ASME B16.5 Class 150.
+Page 6 Valve Flange Bolting Without Washers
+=== page 7 ===
+SERIES 32/33 - 35/36 BOLTING
+Without Washers Revision 11
+SERIES 32/33 | WAFER
+Valve Size
+Diameter/Thread Studs Blind Studs
+in mm in mm Qty in mm Qty
+24 600 11⁄
+4
+-7UNC 12.75 324 20 OR N/A N/A N/A
+26 650 11⁄
+4
+-7UNC 15.00 381 20 5.50 140 8
+28 700 11⁄
+4
+-7UNC 15.00 381 24 5.75 146 8
+30 750 11⁄
+4
+-7UNC 15.50 394 24 5.75 146 8
+32 800 11⁄
+2
+-6UNC 17.50 445 24 6.50 165 8
+36 900 11⁄
+2
+-6UNC 18.50 470 28 7.00 178 8
+SERIES 35/36 | DOUBLE FLANGE
+Valve Size
+Diameter/Thread Studs Hex Head Bolts Blind Studs Blind Hex Head Bolts
+in mm in mm Qty in mm Qty in mm Qty in mm Qty
+22 550 11⁄
+4
+-7UNC 6.25 159 32 4.50 114 32 4.50 114 8 3.25 83 8
+24 600 11⁄
+4
+-7UNC 6.25 159 32 4.75 121 32 4.50 114 8 3.25 83 8
+26 650 11⁄
+4
+-7UNC 7.00 178 40 5.75 146 40 5.50 140 8 4.00 102 8
+28 700 11⁄
+4
+-7UNC 7.25 184 48 6.00 152 48 5.50 140 8 4.25 108 8
+30 750 11⁄
+4
+-7UNC 7.50 191 48 6.00 152 48 5.75 146 8 4.25 108 8
+32 800 11⁄
+2
+-6UNC 8.50 216 48 6.75 171 48 6.50 165 8 4.50 114 8
+34 850 11⁄
+2
+-6UNC 8.75 222 56 7.00 178 56 6.50 165 8 4.75 121 8
+36 900 11⁄
+2
+-6UNC 9.00 229 56 7.25 184 56 6.75 171 8 5.00 127 8
+40 1000 11⁄
+2
+-6UNC 9.00 229 64 7.25 184 64
+AND
+6.75 171 8 5.00 127 8
+42 1050 11⁄
+2
+-6UNC 9.75 248 64 8.25 210 64 7.00 178 8 5.50 140 8
+44 1100 11⁄
+2
+-6UNC 10.00 254 72 8.50 216 72 7.25 184 8 5.50 140 8
+46 1150 11⁄
+2
+-6UNC 10.25 260 72 8.50 216 72 7.25 184 8 5.75 146 8
+48 1200 11⁄
+2
+-6UNC 10.25 260 80 8.75 222 80 7.50 191 8 5.75 146 8
+52 1300 13⁄
+4
+-8UN 11.50 292 80 9.75 248 80 8.25 210 8 6.50 165 8
+54 1350 13⁄
+4
+-8UN 11.75 298 80 10.00 254 80 8.50 216 8 6.50 165 8
+60 1500 13⁄
+4
+-8UN 12.25 311 96 10.50 267 96 9.00 229 8 7.00 178 8
+66 1650 13⁄
+4
+-8UN 9.75 248 96 8.00 203 96 6.25 159 8 4.50 114 8
+72 1800 13⁄
+4
+-8UN 10.25 260 104 8.25 210 104 6.50 165 16 4.50 114 16
+78 2000 2-8UN 11.00 279 112 8.75 222 112 7.25 184 16 5.00 127 16
+84 2200 2-8UN 11.00 279 112 9.00 229 112 7.25 184 16 5.00 127 16
+90 2250 21⁄
+4
+-8UN 12.00 305 120 9.75 248 120 7.75 197 16 5.50 140 16
+96 2400 21⁄
+4
+-8UN 12.75 324 120 10.50 267 120 8.00 203 16 5.75 146 16
+PLEASE REFER TO APPROPRIATE BRAY DIMENSIONAL DRAWINGS
+FOR SPECIFIC VALVE DRILLING INFORMATION
+Assumptions Made in Calculations
+Lengths rounded to the nearest 1⁄4”for maximum thread engagement.
+Blind Bolts
+Nut thickness as per ASME B18.2.2 Heavy Hex.
+CAUTION: Tapped holes at neck Flange thickness as per ASME B16.47 Class 150 Series A, sizes 66” - 96” per AWWA C207 Class D.
+locations DO NOT permit thru holes..
+Page 7 Valve Flange Bolting Without Washers
+=== page 8 ===
+DOUBLE OFFSET VALVE BOLTING
+Without Washers Revision 11
+Examples of Typical Valve to Flange Bolting without Washers
+When bolting the valve into the line, use standard bolting torque as recommended by applicable piping standards.
+Additional force from the flange bolts is not required. Minimum bolt engagement must be equal to the diameter of the bolt.
+CAUTION: To ensure proper installation refer to appropriate table within this guide for specific valve drilling information.
+NOTES: Double flange style bolting not shown. Lug Threads may be tapped from both sides and therefore tap may not be continuous.
+Recommend 2 Threads Recommend 2 Threads
+Beyond Nut Per Side Beyond Nut Per Side
+to Determine Overall Length to Determine Overall Length
+Minimum Stud Minimum Bolt
+Engagement Engagement
+Must Be Equal to Must Be Equal to
+the Stud Diameter the Bolt Diameter
+VVaallvvee
+FFaaccee ttoo FFaaccee
+Retainer Thickness
+Retainer Thickness
+Hex Head Nut Hex Head Bolt
+Gasket
+Thickness X2 Flange Thickness Flange Thickness
+Gasket Thickness Gasket Thickness
+Flange Thickness X2
+Hex Head Nut Thickness X2
+Lug Valve
+Wafer Valve Hex Head Bolt Length
+Through Stud Length Minimum Bolt Seat Retainer Ring
+Flange Gasket Engagement Raised Face Length
++ + + =
+Valve Gasket Flange Nut Thickness Thickness of One (Only for Retainer of Bolt
+Length of Stud
+Face to + Thickness +Thickness + Thickness = Bolt Diameter Ring Side)
+(Plus 2 Threads for Studs
+Face X2 X2 X2
+Stud Length
+FLANGES WITH RAISED FACES -
+Minimum Stud Seat Retainer Ring
+ADD IN THE THICKNESS OF Nut Flange Gasket Engagement Raised Face Length of Stud
++ + + + =
+Thickness Thickness Thickness of One (Only for Retainer (Plus 2 Threads for Studs
+THE RAISED FACE Stud Diameter Ring Side)
+PLEASE REFER TO APPROPRIATE BRAY DIMENSIONAL DRAWINGS FOR SPECIFIC VALVE
+DRILLING INFORMATION
+CAUTION: Assumptions Made in Calculations
+Lengths rounded to the nearest 1⁄4” for maximum thread engagement.
+Tapped holes at
+Nut thickness as per ASME B18.2.2 Heavy Hex.
+neck locations DO NOT Flange thickness as per ASME B16.5 or ASME B16.47 Series A.
+permit thru holes.. Gasket thickness .175“.
+Raised Face - .06”.
+Page 8 Valve Flange Bolting Without Washers
+=== page 9 ===
+SERIES 40 - 41 BOLTING
+Without Washers Revision 11
+Series 40 Series 41
+Typical Wafer Typical Lug
+SERIES 40 CLASS 150 | WAFER
+Valve Size
+Diameter/Thread Studs Retainer Blind Studs Back Blind Studs
+in mm in mm Qty in mm Qty in mm Qty
+2 50 5⁄8-11UNC 5.25 133 4 N/A N/A N/A N/A N/A N/A
+21/2 65 5⁄8-11UNC 5.75 146 4 N/A N/A N/A N/A N/A N/A
+3 80 5⁄8-11UNC 5.75 146 4 N/A N/A N/A N/A N/A N/A
+4 100 5⁄8-11UNC 6.00 152 8 N/A N/A N/A N/A N/A N/A
+5 125 3⁄4-10UNC 6.50 165 8 N/A N/A N/A N/A N/A N/A
+6 150 3⁄4-10UNC 6.50 165 8 N/A N/A N/A N/A N/A N/A
+8 200 3⁄4-10UNC 7.00 178 8 N/A N/A N/A N/A N/A N/A
+10 250 7⁄8-9UNC 7.75 197 12 N/A N/A N/A N/A N/A N/A
+12 300 7⁄8-9UNC 8.25 210 12 AND N/A N/A N/A N/A N/A N/A
+14 350 1-8UNC 9.50 241 12 N/A N/A N/A N/A N/A N/A
+16 400 1-8UNC 10.00 254 16 N/A N/A N/A N/A N/A N/A
+18 450 11⁄8-8UN 11.00 279 16 N/A N/A N/A N/A N/A N/A
+20 500 11⁄8-8UN 11.50 292 16 5.25 133 4 4.50 114 4
+24 600 11⁄4-8UN 13.00 330 20 N/A N/A N/A N/A N/A N/A
+26 650 11⁄4-8UN 15.50 394 20 6.75 171 4 5.75 146 4
+28 700 11⁄4-8UN 15.50 394 24 6.50 165 4 5.75 146 4
+30 750 11⁄4-8UN 16.75 425 24 7.25 184 4 6.00 152 4
+32 800 11⁄4-8UN 17.75 451 24 7.75 197 4 6.75 171 4
+36 900 11⁄2-8UN 19.25 489 28 8.00 203 4 7.00 178 4
+42 1050 11⁄2-8UN 21.00 533 32 8.00 203 4 7.25 184 4
+48 1200 11⁄2-8UN 22.50 572 40 8.25 210 4 7.75 197 4
+54 1350 13⁄4-8UN 24.75 629 40 10.00 254 4 8.75 222 4
+PLEASE REFER TO APPROPRIATE BRAY DIMENSIONAL DRAWINGS FOR SPECIFIC VALVE DRILLING INFORMATION
+Assumptions Made in Calculations
+Lengths rounded to the nearest 1⁄4” for maximum thread engagement. Flange thickness as per ASME B16.5 Class 150 or ASME B16.47 Class 150 Series A.
+Nut thickness as per ASME B18.2.2 Heavy Hex Gasket thickness .175“
+Raised Face - .06”
+Page 9 Valve Flange Bolting Without Washers
+=== page 10 ===
+SERIES 41 BOLTING
+Without Washers Revision 11
+SERIES 41 CLASS 150 | LUG - STUD LENGTHS
+Valve Size
+Diameter/Thread Retainer Side Back Side Retainer Blind Back Blind
+Bore Studs Studs Studs Studs
+in mm in mm Qty in mm Qty in mm Qty in mm Qty
+21/2 65 5⁄8-11UNC 2.75 70 4 2.50 64 4 N/A N/A N/A N/A N/A N/A
+3 80 5⁄8-11UNC 2.75 70 4 2.50 64 4 N/A N/A N/A N/A N/A N/A
+4 100 5⁄8-11UNC 3.00 76 8 2.50 64 8 N/A N/A N/A N/A N/A N/A
+5 125 3⁄4-10UNC 3.00 76 8 2.75 70 8 N/A N/A N/A N/A N/A N/A
+6 150 3⁄4-10UNC 3.25 83 8 2.75 70 8 N/A N/A N/A N/A N/A N/A
+8 200 3⁄4-10UNC 3.50 89 8 3.00 76 8 N/A N/A N/A N/A N/A N/A
+10 250 7⁄8-9UNC 3.75 95 12 3.50 89 12 N/A N/A N/A N/A N/A N/A
+12 300 7⁄8-9UNC 4.00 102 12 3.75 95 12 N/A N/A N/A N/A N/A N/A
+AND
+14 350 1-8UNC 4.75 121 12 4.00 102 12 N/A N/A N/A N/A N/A N/A
+16 400 1-8UNC 4.50 114 16 4.50 114 16 N/A N/A N/A N/A N/A N/A
+18 450 11⁄8-8UN 5.25 133 16 5.00 127 16 N/A N/A N/A N/A N/A N/A
+20 500 11⁄8-8UN 5.25 133 16 5.25 133 16 5.25 133 4 4.25 108 4
+24 600 11⁄4-8UN 6.00 152 20 5.75 146 20 N/A N/A N/A N/A N/A N/A
+28 700 11⁄4-8UN 6.50 165 24 6.75 171 24 6.50 165 4 5.75 146 4
+30 750 11⁄4-8UN 7.25 184 24 6.75 171 24 7.25 184 4 5.75 146 4
+32 800 11⁄2-8UN 7.75 197 24 7.75 197 24 7.75 197 4 6.50 165 4
+36 900 11⁄2-8UN 8.00 203 28 8.00 203 28 8.00 203 4 7.00 178 4
+40 1000 11⁄2-8UN 7.75 197 32 8.50 216 32 7.75 197 4 7.00 178 4
+42 1050 11⁄2-8UN 7.75 197 32 9.00 229 32 7.75 197 4 7.25 184 4
+48 1200 11⁄2-8UN 8.00 203 40 9.25 235 40 8.00 203 4 7.75 197 4
+54 1350 13⁄4-8UN 9.25 235 40 10.25 260 40 9.25 235 4 8.25 210 4
+60 1500 13⁄4-8UN 10.00 254 42 9.00 229 42 10.00 254 10 9.00 229 10
+SERIES 41 CLASS 150 | LUG - BOLT LENGTHS
+Valve Size
+Diameter/Thread Retainer Side Back Side Retainer Blind Back Blind
+Bore Hex Head Bolts Hex Head Bolts Hex Head Bolts Hex Head Bolts
+in mm in mm Qty in mm Qty in mm Qty in mm Qty
+21/2 65 5⁄8-11UNC 2.00 51 4 1.75 44 4 N/A N/A N/A N/A N/A N/A
+3 80 5⁄8-11UNC 2.00 51 4 1.75 44 4 N/A N/A N/A N/A N/A N/A
+4 100 5⁄8-11UNC 2.25 57 8 1.75 44 8 N/A N/A N/A N/A N/A N/A
+5 125 3⁄4-10UNC 2.25 57 8 2.00 51 8 N/A N/A N/A N/A N/A N/A
+6 150 3⁄4-10UNC 2.25 57 8 2.00 51 8 N/A N/A N/A N/A N/A N/A
+8 200 3⁄4-10UNC 2.50 64 8 2.25 57 8 N/A N/A N/A N/A N/A N/A
+10 250 7⁄8-9UNC 2.75 70 12 2.50 64 12 AND N/A N/A N/A N/A N/A N/A
+12 300 7⁄8-9UNC 3.00 76 12 2.75 70 12 N/A N/A N/A N/A N/A N/A
+14 350 1-8UNC 3.50 89 12 3.00 76 12 N/A N/A N/A N/A N/A N/A
+16 400 1-8UNC 3.50 89 16 3.50 89 16 N/A N/A N/A N/A N/A N/A
+18 450 11⁄8-8UN 4.00 102 16 3.75 95 16 N/A N/A N/A N/A N/A N/A
+20 500 11⁄8-8UN 4.00 102 16 4.25 108 16 4.00 102 4 3.25 83 4
+24 600 11⁄4-8UN 4.75 121 20 4.50 114 20 N/A N/A N/A N/A N/A N/A
+28 700 11⁄4-8UN 5.25 133 24 5.50 140 24 5.25 133 4 4.25 108 4
+30 750 11⁄4-8UN 6.00 152 24 5.50 140 24 5.75 146 4 4.50 114 4
+32 800 11⁄2-8UN 6.25 159 24 6.25 159 24 5.75 146 4 4.75 121 4
+36 900 11⁄2-8UN 6.50 165 28 6.50 165 28 6.25 159 4 5.25 133 4
+40 1000 11⁄2-8UN 6.25 159 32 7.00 178 32 5.75 146 4 5.00 127 4
+42 1050 11⁄2-8UN 6.25 159 32 7.50 191 32 6.00 152 4 5.50 140 4
+48 1200 11⁄2-8UN 6.50 165 40 7.75 197 40 6.50 165 4 6.00 152 4
+54 1350 13⁄4-8UN 7.50 191 40 8.50 216 40 7.00 178 4 6.25 159 4
+60 1500 13⁄4-8UN 8.25 210 42 7.25 184 42 8.00 203 10 6.75 171 10
+Page 10 Valve Flange Bolting Without Washers
+=== page 11 ===
+SERIES 42 - 43 BOLTING
+Without Washers Revision 11
+Series 42 Series 43
+Typical Wafer Typical Lug
+SERIES 42 CLASS 300 | WAFER
+Valve Size
+Diameter/Thread Studs Retainer Blind Studs Back Blind Studs
+Bore
+in mm in mm Qty in mm Qty in mm Qty
+21⁄2 65 3⁄4-10UNC 6.00 152 8 N/A N/A N/A N/A N/A N/A
+3 80 3⁄4-10UNC 6.25 159 8 N/A N/A N/A N/A N/A N/A
+4 100 3⁄4-10UNC 6.75 171 8 N/A N/A N/A N/A N/A N/A
+5 125 3⁄4-10UNC 7.25 184 8 N/A N/A N/A N/A N/A N/A
+6 150 3⁄4-10UNC 7.50 191 12
+AND
+N/A N/A N/A N/A N/A N/A
+8 200 7⁄8-9UNC 8.50 216 12 N/A N/A N/A N/A N/A N/A
+10 250 1-8UNC 9.75 248 16 N/A N/A N/A N/A N/A N/A
+12 300 11⁄8-8UN 10.50 267 16 N/A N/A N/A N/A N/A N/A
+14 350 11⁄8-8UN 12.00 305 16 5.50 140 4 5.00 127 4
+16 400 11⁄4-8UN 13.25 337 16 5.50 140 4 5.25 133 4
+18 450 11⁄4-8UN 14.00 356 20 6.25 159 4 5.50 140 4
+20 500 11⁄4-8UN 14.50 368 20 6.25 159 4 5.50 140 4
+24 600 11⁄2-8UN 16.50 419 20 6.75 171 4 6.25 159 4
+30 750 13⁄4-8UN 20.50 521 24 8.00 203 4 7.75 197 4
+36 900 2-8UN 24.00 610 28 9.00 229 4 8.75 222 4
+PLEASE REFER TO APPROPRIATE BRAY DIMENSIONAL DRAWINGS FOR SPECIFIC VALVE
+DRILLING INFORMATION
+Assumptions Made in Calculations
+Lengths rounded to the nearest 1⁄4” for maximum thread engagement. Flange thickness as per ASME B16.5 Class 300 or ASME B16.47 Class 300 Series A.
+Nut thickness as per ASME B18.2.2 Heavy Hex. Gasket thickness .175“.
+. Raised Face - .06”.
+Page 11 Valve Flange Bolting Without Washers
+=== page 12 ===
+SERIES 43 BOLTING
+Without Washers Revision 11
+SERIES 43 CLASS 300 | LUG - STUD LENGTHS
+Valve Size
+Diameter/Thread Retainer Side Back Side Retainer Blind
+Back Blind Studs
+Bore Studs Studs Studs
+in mm in mm Qty in mm Qty in mm Qty in mm Qty
+21/2 65 3⁄4-10UNC 3.00 76 8 2.75 70 8 N/A N/A N/A N/A N/A N/A
+3 80 3⁄4-10UNC 3.25 83 8 3.00 76 8 N/A N/A N/A N/A N/A N/A
+4 100 3⁄4-10UNC 3.25 83 8 3.00 76 8 N/A N/A N/A N/A N/A N/A
+5 125 3⁄4-10UNC 3.50 89 8 3.25 83 8 N/A N/A N/A N/A N/A N/A
+6 150 3⁄4-10UNC 3.75 95 12 3.50 89 12 N/A N/A N/A N/A N/A N/A
+8 200 7⁄8-9UNC 4.25 108 12 3.75 95 12 AND N/A N/A N/A N/A N/A N/A
+10 250 1-8UNC 4.75 121 16 4.25 108 16 N/A N/A N/A N/A N/A N/A
+12 300 11⁄8-8UN 5.25 133 16 4.50 114 16 N/A N/A N/A N/A N/A N/A
+14 350 11⁄8-8UN 5.00 127 16 5.75 146 16 5.00 127 4 4.75 121 4
+16 400 11⁄4-8UN 5.50 140 16 6.50 165 16 5.50 140 4 5.00 127 4
+18 450 11⁄4-8UN 6.00 152 20 6.00 152 20 6.00 152 4 5.25 133 4
+20 500 11⁄4-8UN 6.00 152 20 6.00 152 20 6.00 152 4 5.25 133 4
+24 600 11⁄2-8UN 6.50 165 20 6.75 171 20 6.50 165 4 6.00 152 4
+30 750 13⁄4-8UN 7.75 197 24 9.00 229 24 7.75 197 4 7.50 191 4
+36 900 2-8UN 8.75 222 28 10.25 260 28 8.75 222 4 8.50 216 4
+40 1000 15⁄8-8UN 9.00 229 28 9.75 248 28 9.00 229 4 7.75 197 4
+42 1050 15⁄8-8UN 9.50 241 28 8.25 210 28 9.50 241 4 7.75 197 4
+44 1100 13⁄4-8UN 8.75 222 28 8.75 222 28 8.75 222 4 8.75 222 4
+48 1200 17⁄8-8UN 11.25 286 28 9.75 248 28 11.25 286 4 9.25 235 4
+54 1350 21⁄4-8UN 12.25 311 24 11.25 286 24 12.25 311 4 10.75 273 4
+SERIES 43 CLASS 300 | LUG - BOLT LENGTHS
+Valve Size
+Diameter/Thread Retainer Side Back Side Retainer Blind Back Blind Hex Head
+Bore Hex Head Bolts Hex Head Bolts Hex Head Bolts Bolts
+in mm in mm Qty in mm Qty in mm Qty in mm Qty
+21/2 65 3⁄4-10UNC 2.25 57 8 1.75 44 8 N/A N/A N/A N/A N/A N/A
+3 80 3⁄4-10UNC 2.25 57 8 2.00 51 8 N/A N/A N/A N/A N/A N/A
+4 100 3⁄4-10UNC 2.25 57 8 2.25 57 8 N/A N/A N/A N/A N/A N/A
+5 125 3⁄4-10UNC 2.75 70 8 2.25 57 8 N/A N/A N/A N/A N/A N/A
+6 150 3⁄4-10UNC 2.75 70 12 2.50 64 12 N/A N/A N/A N/A N/A N/A
+8 200 7⁄8-9UNC 3.25 83 12 2.75 70 12 AND N/A N/A N/A N/A N/A N/A
+10 250 1-8UNC 3.75 95 16 3.25 83 16 N/A N/A N/A N/A N/A N/A
+12 300 11⁄8-8UN 4.25 108 16 3.50 89 16 N/A N/A N/A N/A N/A N/A
+14 350 11⁄8-8UN 4.00 102 16 4.50 114 16 3.75 95 4 3.25 83 4
+16 400 11⁄4-8UN 4.25 108 16 5.25 133 16 4.00 102 4 3.50 89 4
+18 450 11⁄4-8UN 4.75 121 20 4.75 121 20 4.50 114 4 3.75 95 4
+20 500 11⁄4-8UN 4.75 121 20 4.75 121 20 4.50 114 4 4.00 102 4
+24 600 11⁄2-8UN 5.00 127 20 5.25 133 20 4.75 121 4 4.50 114 4
+30 750 13⁄4-8UN 6.00 152 24 7.25 184 24 5.75 146 4 5.50 140 4
+36 900 2-8UN 6.75 171 28 8.25 210 28 6.50 165 4 6.50 165 4
+40 1000 15⁄8-8UN 7.75 197 28 8.50 216 28 7.75 197 4 6.50 165 4
+42 1050 15⁄8-8UN 8.50 216 28 7.25 184 28 8.25 210 4 6.50 165 4
+44 1100 13⁄4-8UN 7.00 178 28 7.00 178 28 7.00 178 4 6.75 171 4
+48 1200 17⁄8-8UN 9.50 241 28 8.00 203 28 9.25 235 4 7.25 184 4
+54 1350 21⁄4-8UN 10.00 254 24 9.00 229 24 9.75 248 4 8.25 210 4
+PLEASE REFER TO APPROPRIATE BRAY DIMENSIONAL DRAWINGS FOR SPECIFIC VALVE DRILLING INFORMATION
+Assumptions Made in Calculations
+Lengths rounded to the nearest 1⁄4” for maximum thread engagement. Flange thickness as per ASME B16.5 Class 300 or ASME B16.47 Class 300 Series A.
+Nut thickness as per ASME B18.2.2 Heavy Hex. Gasket thickness .175“.
+Raised Face - .06”.
+Page 12 Valve Flange Bolting Without Washers
+=== page 13 ===
+SERIES 44 BOLTING
+Without Washers Revision 11
+Series 44
+Typical Wafer
+SERIES 44 CLASS 600 | WAFER
+Valve Size
+Diameter/Thread Studs Retainer Blind Studs Back Blind Studs
+in mm in mm Qty in mm Qty in mm Qty
+3 80 3⁄4-10UNC 7.00 178 8 N/A N/A N/A N/A N/A N/A
+4 100 7⁄8-9UNC 8.25 210 8 N/A N/A N/A N/A N/A N/A
+6 150 1-8UNC 10.00 254 12 N/A N/A N/A N/A N/A N/A
+AND
+8 200 11⁄8-8UN 11.75 298 12 N/A N/A N/A N/A N/A N/A
+10 250 11⁄4-8UN 13.25 337 12 6.00 152 4 5.50 140 4
+12 300 11⁄4-8UN 14.00 356 16 6.00 152 4 5.50 140 4
+14 350 13⁄8-8UN 15.25 387 16 6.25 159 4 6.00 152 4
+16 400 11⁄2-8UN 17.00 432 16 6.75 171 4 6.50 165 4
+18 450 15⁄8-8UN 18.50 470 16 7.50 191 4 7.00 178 4
+20 500 15⁄8-8UN 19.75 502 20 8.00 203 4 7.25 184 4
+24 600 17⁄8-8UN 21.75 552 20 8.50 216 4 8.25 210 4
+PLEASE REFER TO APPROPRIATE BRAY DIMENSIONAL DRAWINGS FOR SPECIFIC VALVE
+DRILLING INFORMATION
+Assumptions Made in Calculations
+Lengths rounded to the nearest 1⁄4” for maximum thread engagement. Flange thickness as per ASME B16.5 Class 600 or ASME B16.47 Class 600 Series A.
+Nut thickness as per ASME B18.2.2 Heavy Hex. Gasket thickness .175“.
+Raised Face - .06”Raised Face - Assumption of .06”.
+Page 13 Valve Flange Bolting Without Washers
+=== page 14 ===
+SERIES 45 BOLTING
+Without Washers Revision 11
+Series 45
+Typical Lug
+SERIES 45 CLASS 600 | LUG - STUD LENGTH
+Valve Size
+Retainer Studs Retainer Blind Back Blind
+Diameter/Thread Studs Back Studs Studs
+in mm in mm Qty in mm Qty in mm Qty in mm Qty
+3 80 3⁄4-10UNC 3.75 95 8 3.25 83 8 N/A N/A N/A N/A N/A N/A
+4 100 7⁄8-9UNC 4.25 108 8 3.75 95 8 N/A N/A N/A N/A N/A N/A
+6 150 1-8UNC 4.75 121 12 4.50 114 12 N/A N/A N/A N/A N/A N/A
+AND
+8 200 11⁄8-8UN 5.50 140 12 5.00 127 12 N/A N/A N/A N/A N/A N/A
+10 250 11⁄4-8UN 6.25 159 12 5.50 140 12 6.25 159 4 5.50 140 4
+12 300 11⁄4-8UN 6.25 159 16 5.75 146 16 6.25 159 4 5.75 146 4
+14 350 13⁄8-8UN 6.50 165 16 6.00 152 16 6.50 165 4 6.00 152 4
+16 400 11⁄2-8UN 6.75 171 16 6.50 165 16 6.75 171 4 6.50 165 4
+18 450 15⁄8-8UN 7.50 191 16 7.00 178 16 7.50 191 4 7.00 178 4
+20 500 15⁄8-8UN 8.00 203 20 7.25 184 20 8.00 203 4 7.25 184 4
+24 600 17⁄8-8UN 8.75 222 20 8.25 210 20 8.75 222 4 8.25 210 4
+SERIES 45 CLASS 600 | LUG - BOLT LENGTH
+Valve Size
+Retainer Hex Back Side Hex Retainer Blind Back Blind
+Diameter/Thread
+Head Bolts Head Bolts Hex Head Bolts Hex Head Bolts
+in mm in mm Qty in mm Qty in mm Qty in mm Qty
+3 80 3⁄4-10UNC 2.75 70 8 2.25 57 8 N/A N/A N/A N/A N/A N/A
+4 100 7⁄8-9UNC 3.00 76 8 2.75 70 8 N/A N/A N/A N/A N/A N/A
+6 150 1-8UNC 3.50 89 12 3.25 83 12 N/A N/A N/A N/A N/A N/A
+AND
+8 200 11⁄8-8UN 4.25 108 12 3.50 89 12 N/A N/A N/A N/A N/A N/A
+10 250 11⁄4-8UN 4.75 121 12 4.00 102 12 4.50 114 4 3.75 95 4
+12 300 11⁄4-8UN 4.75 121 16 4.25 108 16 4.50 114 4 4.00 102 4
+14 350 13⁄8-8UN 4.75 121 16 4.50 114 16 4.50 114 4 4.25 108 4
+16 400 11⁄2-8UN 5.00 127 16 4.75 121 16 4.75 116 4 4.50 114 4
+18 450 15⁄8-8UN 5.75 146 16 5.25 133 16 5.50 140 4 5.00 127 4
+20 500 15⁄8-8UN 6.25 159 20 5.50 140 20 6.00 152 4 5.25 133 4
+24 600 17⁄8-8UN 6.50 165 20 6.25 159 20 6.25 159 4 6.00 152 4
+Page 14 Valve Flange Bolting Without Washers
+=== page 15 ===
+SERIES 4A - 4B BOLTING
+Without Washers Revision 11
+SERIES 4A CLASS 150 | DOUBLE FLANGE
+Valve Size
+Diameter/ Retainer Back Side Retainer Blind
+Thread Hex Head Bolts Hex Head Bolts Hex Head Bolts
+in mm in mm Qty in mm Qty in mm Qty
+3 80 5⁄8-11UNC 3.25 83 4 3.00 76 4 N/A N/A N/A
+4 100 5⁄8-11UNC 3.50 89 6 3.00 76 8 2.00 51 2
+5 125 3⁄4-10UNC 3.50 89 6 3.00 76 8 2.25 57 2
+6 150 3⁄4-10UNC 3.75 95 6 3.25 83 8
+AND
+2.25 57 2
+8 200 3⁄4-10UNC 4.00 102 6 3.50 89 8 2.50 64 2
+10 250 7⁄8-9UNC 4.25 108 10 3.75 95 12 2.75 70 2
+12 300 7⁄8-9UNC 4.50 114 8 3.75 95 12 2.75 70 4
+14 350 1-8UNC 5.00 127 8 4.25 108 12 3.00 76 4
+16 400 1-8UNC 5.00 127 12 4.25 108 16 3.00 76 4
+18 450 11⁄8-8UN 5.50 140 12 4.75 121 16 3.25 83 4
+20 500 11⁄8-8UN 5.75 146 16 5.00 127 20 3.50 89 4
+24 600 11⁄4-8UN 6.50 165 16 5.50 140 20 3.75 95 4
+30 750 11⁄4-8UN 9.25 235 24 7.50 191 28 5.00 127 4
+SERIES 4B CLASS 300 | DOUBLE FLANGE
+Valve Size
+Diameter/ Retainer Back Side Blind
+Thread Hex Head Bolts Hex Head Bolts Hex Head Bolts
+in mm in mm Qty in mm Qty in mm Qty
+3 80 3⁄4-10UNC 2.25 57 8 3.50 89 8 N/A N/A N/A
+4 100 3⁄4-10UNC 2.25 57 8 3.75 95 8 N/A N/A N/A
+5 125 3⁄4-10UNC 2.50 64 12 4.00 102 12 N/A N/A N/A
+6 150 3⁄4-10UNC 2.50 64 12 4.25 108 12 N/A N/A N/A
+8 200 7⁄8-9UNC 2.75 70 12 4.75 121 12 AND N/A N/A N/A
+10 250 1-8UNC 3.25 83 16 5.25 133 16 3.25 83 8
+12 300 11⁄8-8UN 3.50 89 16 5.75 146 16 3.50 89 8
+14 350 11⁄8-8UN 3.50 89 16 6.00 152 16 3.50 89 8
+16 400 11⁄4-8UN 3.75 95 16 6.25 159 16 3.75 95 8
+18 450 11⁄4-8UN 4.00 102 20 6.50 165 20 4.00 102 8
+20 500 11⁄4-8UN 4.00 102 20 6.75 171 20 4.00 102 8
+24 600 11⁄2-8UN 4.50 114 20 7.50 191 20 4.50 114 8
+30 750 13⁄4-8UN 6.00 152 24 9.75 248 24 6.00 152 8
+36 900 2-8UN 6.50 165 28 10.75 273 28 6.50 165 8
+PLEASE REFER TO APPROPRIATE BRAY DIMENSIONAL DRAWINGS FOR SPECIFIC VALVE DRILLING INFORMATION
+Assumptions Made in Calculations
+Lengths rounded to the nearest 1⁄4” for maximum thread engagement.
+Nut thickness as per ASME B18.2.2 Heavy Hex.
+Flange thickness as per ASME B16.5 or ASME B16.47 Series A.
+Gasket thickness .175“.
+Raised Face - .06”.
+Page 15 Valve Flange Bolting Without Washers
+=== page 16 ===
+SINCE 1986, BRAY HAS PROVIDED FLOW CONTROL SOLUTIONS
+FOR A VARIETY OF INDUSTRIES AROUND THE WORLD.
+VISIT BRAY.COM TO LEARN MORE ABOUT
+BRAY PRODUCTS AND LOCATIONS NEAR YOU.
+HEADQUARTERS
+Bray International, Inc.
+13333 Westland East Blvd.
+Houston, Texas 77041
+Tel: +1.281.894.5454
+All statements, technical information, and recommendations in this bulletin are for general
+use only. Consult Bray representatives or factory for the specific requirements and material
+selection for your intended application. The right to change or modify product design or
+product without prior notice is reserved. Patents issued and applied for worldwide.
+Bray® is a registered trademark of Bray International, Inc.
+© 2023 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM EN_TSM_Bolting Guide wo_Washers_Rev 11_06-20-2023
+THE HIGH PERFORMANCE COMPANY BRAY.COM

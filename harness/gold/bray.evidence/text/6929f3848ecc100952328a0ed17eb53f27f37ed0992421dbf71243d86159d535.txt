@@ -1,0 +1,105 @@
+=== page 1 ===
+TRIPLE OFFSET BUTTERFLY VALVE
+TRI LOK® SERIES
+OVERVIEW
+Tri Lok® is the premier isolation valve for operation in vacuum
+to high-pressure applications. The non-rubbing, metal-to-metal
+seal delivers zero-leakage bidirectional shutoff with minimal
+torque, and is certified fire-tested. Compared to gate, globe, or
+ball valves of the same size and pressure class, Tri Lok provides
+space and weight savings, while minimizing installation and
+maintenance costs.
+APPLICATIONS
+> Bulk Liquid Storage > Pulp and Paper Liquor
+> Carbon Black Processing > Refining (Downstream)
+> Chemical Processing > Shipbuilding
+> Cryogenic Services > Steam Distribution
+> Geothermal Steam > Sugar and Ethanol
+> LNG/Liquefaction > Upstream Oil and Gas
+> Power Generation > Water & Wastewater
+SPECIFICATIONS MATERIAL OPTIONS1
+Size Range1 NPS 3 to 48 | DN 80 to 1200 Body Carbon Steel
+Temperature Range2 -320°F to 842°F | -196°C to 450°C Stainless Steel
+Pressure Rating ASME Class 150, 300, 600, 900 Alloys (NiAB, Hastelloy C®, other alloys)
+PN10 to PN150 Disc Carbon Steel
+Body Style Lug | Double Flanged, Short | Double Flanged, Stainless Steel
+Long (Gate) | Buttweld
+Alloys (NiAB, Hastelloy C®, other alloys)
+Shutoff Rating3 Zero Leakage (Bidirectional)
+Seat 316 Stainless Steel (Hardened)
+NOTE:
+1 Larger sizes available upon request. Seal Ring 318 Stainless Steel/Graphite
+2 Higher temperatures available upon request. (Laminated)
+3 Resilient Seat Valves, requirement of API 598.
+Seal Ring 318 Stainless Steel
+(Solid Seal)
+XM-19
+Inconel® 625
+Stem 17-4PH Stainless Steel
+410 Stainless Steel
+XM-19 (Nitronic® 50)
+NOTE:
+1 Other materials available upon request.
+DESIGN STANDARDS CERTIFICATIONS & APPROVALS
+Valve Design API 609 | ASME B16.34 | ASME VIII | API 600 Certifications ATEX | EAC | PED | SIL | TSG
+Seat Tightness ISO 5208 | EN12266-1 | API 6D | API 598 | BS 6755 Fire Test API 607 | ISO 10497
+Face-to-Face API 609 | ASME B16.10 | ISO 5752 | EN 558 Fugitive Emissions API 641 | ISO 15848-1 | TA Luft
+Flange Drilling ASME B16.5 | ASME B16.47 | EN 1092-1 | Approvals ABS Type | CRN
+ISO 7005
+Top Flange ISO 5211 | MSS SP-101
+© 2022 BRAY INTERNATIONAL. ALL RIGHTS RESERVED. BRAY.COM EN_SDS_TRILOK_20220127 1 of 2
+=== page 2 ===
+TRIPLE OFFSET BUTTERFLY VALVE
+TRI LOK® SERIES
+FEATURES
+1 FIELD-REPLACEABLE SEAT & SEAL SYSTEM: The
+fully field-replaceable seat & seal extends overall life,
+minimizes downtime, and reduces the need for costly
+off-site repairs or total replacement.
+8
+2 ENHANCED SEAT HARDNESS: Eliminates risk of seat/
+seal galling, offering superior performance, durability,
+7
+and abrasion resistance compared to other materials.
+3 METAL-TO-METAL SEALING: Tri Lok’s non-rubbing,
+6
+metal-to-metal sealing system is inherently firesafe and
+fire-tested, while meeting zero-leakage requirements
+for many critical applications.
+4 SEAL RING: Offers a flexible design and wide range
+of materials to provide torque-loaded sealing with
+zero-leakage. (Optional solid seal ring available.)
+5 SPLINED DISC-TO-STEM CONNECTION: The strong and
+reliable connection allows for axial movement of the 11
+stem independent of the disc, to protect the disc/stem
+connection from temperature fluctuations and pressure 9
+effects. This connection prevents typical misalignment
+problems of rigidly attached discs and stems, minimizes
+hysteresis, eliminates external connections & associated
+3
+hardware, and allows for easy assembly & disassembly. 5
+1
+2
+10
+6 ADJUSTABLE STEM PACKING: Fully-adjustable,
+4
+field-replaceable stem seal system is certified to
+international fugitive emission standards.
+7
+7 ROBUST BLOWOUT-PROOF STEM: One-piece stem
+features blowout prevention ring located outside of
+the pressure boundary, as well as redundant blowout
+prevention mechanisms fully conforming to API 609
+and safety requirements.
+8 INDEXED STEM: Provides positive visual indication of
+disc/seal ring position after installation.
+9 ELONGATED STEM BEARINGS: Hardened bearings
+provide maximum stem support.
+10 INCREASED BODY WALL THICKNESS: In accordance
+with API 600, provides greater corrosion allowance.
+9
+11 SIL 3 CAPABLE: The Tri Lok valve is SIL 3 capable,
+while also offered as one of Bray’s many automated
+7
+packages that meet various SIL requirements.
+© 2022 BRAY INTERNATIONAL. ALL RIGHTS RESERVED. BRAY.COM EN_SDS_TRILOK_20220127 2 of 2

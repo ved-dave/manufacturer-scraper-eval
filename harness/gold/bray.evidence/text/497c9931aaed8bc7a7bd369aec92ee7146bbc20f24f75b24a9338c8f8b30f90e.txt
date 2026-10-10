@@ -1,0 +1,107 @@
+=== page 1 ===
+RITE® SERIES PVC
+SINGLE DOOR FLANGED TYPE SWING CHECK VALVE
+INTEGRAL SOFT SEAT
+OVERVIEW APPLICATIONS
+The Rite® Series PVC flanged combination swing check valves > Desalination > Saltwater
+are flow activated and Rite® Sized. The Rite® Series Check Valve > Marine life support
+inlet ports and disc have been shape optimized to achieve a
+fully open position at low flow rates (3 ft/s on average).
+MEDIA
+> Dry Chlorine (Gas or > Hydrogen
+SPECIFICATIONS
+Liquid) > Oxygen
+Size Range NPS 2” to 24” > Gases > Water
+Temperature Range 35:140 °F (1:60 °C)
+Operating Pressure ASME (125, 150) Equivalent
+Body Style One-Piece Flanged
+Leakage Rate Zero Leakage
+DESIGN FEATURES
+The Series PVC soft seated seated check valves offer:
+Figure 01: Integral Soft Seat Cutaway
+SINGLE DOOR DESIGN:
+Front View.
+Below numbered list can be referenced on various
+figures throughout document
+1 Combination design utilizing both gravity + spring
+makes the valve easy to open/close, reducing water
+hammer.
+1
+2 Limited movement of internal parts during operation
+2
+extends service life.
+3 Elliptical inlet shape designed to accelerate line media
+through the valve.
+4 Optimal diameter for high flow capacity.
+5 Short face to face reducing weight and space between 4
+3
+the flanges.
+6 Low cracking pressure design.
+7 Quick response time (ideal for process lines with
+varying flows & control valves). 5
+8 Cost & energy efficiency, requiring only one set of
+flange studs which span the valve, reducing in-service
+vibration.
+9 A mechanically dynamic seal, contained in a specially
+designed groove.
+10 Maintenance is simple as the o-ring is easily removed Figure 02: Integral Soft Seat Cutaway
+and replaced when worn. Rear View.
+11 As pressure is applied to the valve disc, the seal is
+compressed into the groove ensuring a consistent and
+uniform seal.
+12 The load on the seal is controlled, reducing wear for
+longer life.
+6
+© 2025 BRAY INTERNATIONAL. ALL RIGHTS RESERVED. BRAY.COM EN_SDS_SPVC211_ISS_20250311 1 of 2
+=== page 2 ===
+RITE® SERIES PVC
+SINGLE DOOR FLANGED TYPE SWING CHECK VALVE
+INTEGRAL SOFT SEAT
+DESIGN STANDARDS MATERIAL OPTIONS1
+Body Material determines whether design is integral type, or seat
+Valve Design Manufacturer’s standard ring type. See below chart:
+Accessories Available SA4A Body PVC (ASTM D 1784)
+Testing Standard ASME (125, 150) Equivalent Stainless Steel (ASTM A351 CF8M), Titanium
+Hinge
+optional
+Face-to-Face Manufacturer’s standard
+Seat (Integral) Matches body material
+Additional information is available in the Bray Rite® Ltd. Technical
+Sales Manual. Valve size: <12”: SS302/304, Stainless Steel
+(ASTM A313 316) standard duty
+Valve size: >14”+: Stainless Steel (ASTM A313
+Spring
+17-7 PH)
+For All Valve Sizes: Inconel (X750) on body
+materials higher grade than SS.
+Stainless Steel (ASTM A479 316), Titanium
+Spacer
+optional
+Stainless Steel (ASTM A479 316), Titanium
+Pin
+optional
+Plug Stainless Steel (SS 316) Titanium optional
+Lock Nut Steel Zinc Plated
+Eye Bolt Steel Zinc Plated
+Nameplate Stainless Steel (SS 316)
+Figure 03: Integral Soft Seat Stainless Steel (ASTM A351 CF8M), Titanium
+Disc
+optional
+Exploded View.
+Rivet Steel Zinc Plated
+BUNA-N, EPDM, FKM-A, HNBR, Neoprene
+O-Ring PTFE-virgin, Teflon encapsulated silicone,
+Viton
+Stainless Steel (ASTM F594 316) Titanium
+Disc Nut
+optional
+Rite® Series Check Valve seat ring type part number:
+V0215PBZ (For 2”, Class 150, PVC (ASTM D 1784) Body, BUNA-N
+Seat, SS Spacer, Series PVC)
+Note: 1 Dimensions available in ASME sizes.
+7
+Figure 04: Integral Soft Seat In-Pipe View. Figure 05: Integral Soft Seat Close-Up Cutaway Views.
+8
+9 11
+10 12
+© 2025 BRAY INTERNATIONAL. ALL RIGHTS RESERVED. BRAY.COM EN_SDS_SPVC211_ISS_20250311 2 of 2
