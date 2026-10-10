@@ -1,0 +1,10 @@
+# Harness / SPEC issues
+
+## sioux-chief (gold labelling, SPEC v1.1 relabel)
+
+Most issues from the first pass were adopted on `main` (robots override, `refines`, family-page provenance, multilingual `lang`, installation-photo exclusion, phash warning, `login_required` price coverage). Still open:
+
+1. **`.gitignore` does not ignore `harness/gold/*.evidence/files/`.** The pattern `*.evidence/files/` contains a slash, so git anchors it to the repo root and it only matches `<x>.evidence/files/` at the top level. `git check-ignore harness/gold/sioux-chief.evidence/files/<sha>.pdf` returns nothing. Suggested fix: `**/*.evidence/files/` (or `harness/gold/*.evidence/files/`). For this branch I excluded the folder via `.git/info/exclude` only; `.gitignore` is unchanged.
+2. **Family-level lists lose per-variant attribution.** SPEC 6 moves per-variant differences in list fields (`certifications`, `standards`, `applications`, `end_connections`) into one family list. For `certifications`/`standards` this reads as if every variant holds every listing (e.g. `643WG2`: NSF/ANSI 61 for the brass adapters and cUPC for the 645 PVC/CPVC transitions end up in one list). Suggest saying explicitly that a family list is the union over variants, or allowing overrides for certification/standard lists that apply to only some variants.
+3. **Parallel-translation documents and the ≥ 50% English rule.** Sioux Chief instruction sheets often carry the full text in EN/FR/ES. English comes first but is about a third of the text, so SPEC 2 excludes them, even though they are the main installation document for the product (3 excluded in this sample). If they should count, the rule could be "English first and a complete English version".
+4. **`refines` for terms that aren't strict narrowings.** "A.R.E." (acid-resistant enamel) on the page vs "enamel-coated cast iron" on the sheet: consistent, but neither contains the other, so SPEC 6a leaves it as `conflict`. A `consistent` / `complements` value, or guidance, would help scorers.
