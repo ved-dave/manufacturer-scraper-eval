@@ -48,7 +48,7 @@ Language is verified from content (page/PDF text), not only the URL.
 | Variant pages | Recorded as variants, not separate products |
 | Category / company / news / careers / contact / search pages | Exclude |
 | Locale duplicates | Exclude (kept as `alternates` metadata only) |
-| Images | Highest-quality version of each distinct image only; all smaller renditions dropped; min 300 px on the shortest side |
+| Images | Every distinct product view (photos, 3D renders, cutaways) as `product_photo`; dimensional drawings as `dimensional_drawing`. Highest-quality version of each only: smaller renditions, and crops or zooms of an image already kept, are dropped. Exclude graphics that are mostly text or callouts (feature infographics). Min 300 px on the shortest side (decided 2026-10-10) |
 | Installation / application / lifestyle photos (e.g. "rough-in", "finish installation", in-use scenes) | Exclude (decided 2026-10-09): only product photos and dimensional drawings |
 | Site chrome (logos, icons, social previews, assets on >~20% of pages) | Exclude |
 | PDFs | Include, labelled by `doc_type` (section 5) |

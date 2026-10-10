@@ -25,8 +25,12 @@ Per family-level spec value (129 values; no variant overrides):
 
 ## Sample and coverage
 
-5. **"≥ 3 families with more than one variant" cannot be met.** Under SPEC 3 only Single Door (8 models) and Series SA16 (3 models) list identifiers on the family page. Both are in the sample (SA16 swapped in for PEZ SA-4AX). Approved by Ved 2026-10-10.
-6. **SRH Series sheet lists "SRH Model # SRH1 SRH2 SRH3".** These look like identifiers in the family's spec sheet. Ved's Bray decision limits variants to Single Door and SA16, so SRH has no variants; the model numbers are recorded in `labelling_notes`. If sheet-only model lists should count, SRH gains 3 variants and the ≥3 requirement is met.
+5. **"≥ 3 families with more than one variant": met, 3 families.** Under SPEC 3 (identifiers listed on the page or in the spec sheet): Single Door (8 models, page), Series SA16 (3 models, page) and SRH Series (SRH1-3, sales data sheet model table). SA16 was swapped in for PEZ SA-4AX at the checkpoint.
+6. **SRH Series variants come from the sheet only.** The page lists no identifiers; the sales data sheet model table lists "SRH Model # SRH1 SRH2 SRH3" (handle lengths 10.47 / 13.38 / 19.125 in). Ved's 2026-10-10 follow-up: the SPEC 3 rule wins over the earlier Single Door/SA16-only list, so these are variants (request_quote, no overrides). Identifiers found on the other 14 families were re-checked against the rule and NOT made variants:
+   - **5A, 5B, 5B Resin bracket tables ("VSM / Actuator Std. Part No.", e.g. 5B0000-22600534):** these are mounting-bracket kits, a separate accessory product, not versions of the switch box.
+   - **"Part Numbering System" charts** (5A, 5B, 5B Resin, Tri Lok, Tri Lok-Cx, 746HP, 942 manuals; 5000/6000 selection guide): code templates such as "5A000X-126X X XXX / E X", not a list of orderable items.
+   - **Example part numbers on the per-model Single Door / SA16 sheets** (e.g. "V0215SMZ (For 2”, Class 150, ... Series 210)"): one illustration of the code per sheet; the models themselves are already variants.
+   - **70-HAZ "S70-130/180":** sizes named in an IP-rating exclusion, not a listed set of orderable items.
 7. **CAD coverage swap across categories.** All five CAD families (STEP zips) are Control Accessories, so Series F15/F30 (Ball Valves) was replaced by Series 5B to reach 3 CAD families (approved).
 8. **Not CAD:** Series 70 zip (PLC software installer), 5B/5B Resin DeviceNet zip (`.eds`, `.ico`) and Profibus zip (`.gsd`). Listed in `labelling_notes`, not in `cad`.
 
@@ -44,7 +48,7 @@ Per family-level spec value (129 values; no variant overrides):
 15. **Pressure depends on gate material and size (746HP).** The highest rating (232 psi, Duplex 2205 & 17-4PH gate, NPS 2-24) is the value with `conditions`; the full table is in `additional_specs.pressure_rating_by_gate`.
 16. **Applications mapping:** "Power" → `power generation`; "Water & Wastewater" → `wastewater`; "Steam Distribution" → `steam`; "Upstream Oil and Gas"/"oil & gas" → `oil and gas`; "Chemical Processing" → `chemical`; "Pulp and Paper Liquor" → `pulp and paper`. "Water" alone, "Geothermal Steam", "Refining", "Shipbuilding", "LNG", "Cryogenic Services", "Solids Handling" etc. kept verbatim in `applications_other` (no potable wording; geothermal steam is a sector, not the steam service).
 17. **Body styles:** "Gate" (Tri Lok) is the long double-flanged pattern → `flanged`; "RTJ" and 746HP "Solid Flange / Double Flange" body figures → `end_connections_other`.
-18. **Images:** labelled cutaway renders (lettered/numbered callouts) are feature diagrams, not product photos, and are excluded (changed after the blind re-label); the Series 942 "closer look" in-pipe scene is an in-use scene and excluded. Indicator-option graphics, site chrome and the Bootstrap `dummy.jpg` excluded. Renditions and crops of one render collapsed by filename stem / URL key / phash ≤ 2; the largest kept.
+18. **Images (SPEC 4 Images row, revised 2026-10-10):** every distinct product view (photos, 3D renders, cutaways) is a `product_photo`; no dimensional drawings appear on the Bray pages. Dropped: smaller renditions (filename stem / URL key / phash ≤ 2; largest kept), and crops/zooms of a kept view: 746HP `heroshot-05--copy` (zoom of the two-valve `--copy-2`) and the 5A 600x600 homehero (zoom of the 640x406 version). Excluded: the 5A/5B indicator-option chart (8 tiles with labels, an options infographic) and the Series 942 "closer look" in-pipe scene (in-use scene, SPEC 4). The lettered/numbered callouts on the cutaways are small, so the cutaways count as product views, not infographics. 39 images across the 15 families.
 19. **Document types:** Sales Data Sheet, Recommended Specs and Weights & Dimensions = `spec_sheet`. The switch boxes (5A, 5B, 5B Resin) have none of these, so their product Technical (Sales) Manual is the spec sheet (changed after the blind re-label). Other Technical Sales Manuals = `catalog`; SIL Safety Manuals and the 5B/5C CommPro protocol manual = `other_doc`; Reference/Selection guides, bulletins, bolting guides = `other_doc`. The 1B "HIPPS-Compliant Fast-Acting Valve Solutions" PDF stays `spec_sheet` per Bray's "Sales Data Sheet" label even though it covers Tri Lok and 1B together (blind: `brochure`); it carries no cited value.
 
 ## Conflicts (19)
@@ -79,25 +83,32 @@ SRH material_body (page "heavy duty stainless steel" → sheet "CF8M"); Series 5
 
 ## Blind re-label (6 families, separate session, never saw gold)
 
-Random(42) draw of 6 from the 15: Series 5A, Series 70-HAZ, SRH Series, Series 5B Resin, Series 5B, Series 1B. Agreement after fixes:
+Random(42) draw of 6 from the 15: Series 5A, Series 70-HAZ, SRH Series, Series 5B Resin, Series 5B, Series 1B. "Before fixes" = raw blind vs my first-pass gold (commit 51148a1); "after fixes" = current gold.
 
-| Row | Agree | % |
+| Row | Before fixes | After fixes |
 |---|---|---|
-| Variants (family SKU sets) | 5/6 | 83% |
-| Documents (found + doc_type) | 43/44 | 97% |
-| CAD (zip + formats) | 3/3 | 100% |
-| Images (matched either way) | 8/13 | 61% |
-| Family spec fields (value) | 29/32 | 90% |
-| Variant overrides | 6/6 (none on either side) | 100% |
-| cross_check values (fields in both) | 28/30 | 93% |
+| Variants (family SKU sets) | 5/6 (83%) | 6/6 (100%) |
+| Documents (found + doc_type) | 33/44 (75%) | 43/44 (97%) |
+| CAD (zip + formats) | 3/3 (100%) | 3/3 (100%) |
+| Images (matched either way) | 9/17 (52%) | 7/16 (43%) |
+| Family spec fields (value) | 28/32 (87%) | 29/32 (90%) |
+| Variant overrides | 6/6 (100%) | 6/6 (100%) |
+| cross_check values (fields in both) | 24/30 (80%) | 28/30 (93%) |
 
-Gold fixed where the blind pass was right: SRH material_body (page "stainless steel" missed → `refines`); 5A material_body (page "die-cast aluminum" missed → `agree`); 5B material_body (page "aluminum" → `refines`); 1B material_seals (page Graphite missed; was NBR/Viton only → `conflict`); switch-box Technical (Sales) Manuals → `spec_sheet`; Safety Manuals and CommPro → `other_doc`; labelled cutaways dropped from images (all 15 families); duplicate crops collapsed (5A, 5B Resin, 1B, 746HP).
+Images across the three rule states: first pass 9/17; after the blind fixes under the old rule (cutaways excluded) 8/13; under the revised SPEC 4 rule 7/16. The blind pass ran under the old rule, so the cutaways now kept (5A, 5B Resin) count as gold-only. Two more mismatches are the same render at a different crop (5A homehero: gold keeps the full 640x406, blind the 600x600 zoom; 1B banner: gold keeps the 4278x1416 full banner, blind the 2000x1302 crop), and phash doesn't match crops. Counting those two as matches gives 9/14. The rest are gold-only distinct photos (5B Resin bare box, 70-HAZ second angle, SRH second handle view), each checked visually.
+
+Gold fixed where the blind pass was right:
+- SRH material_body: page "stainless steel" missed → `refines`.
+- 5A material_body: page "die-cast aluminum" missed → `agree`.
+- 5B material_body: page "aluminum" → `refines`.
+- 1B material_seals: page Graphite missed; was NBR/Viton only → `conflict`.
+- Switch-box Technical (Sales) Manuals → `spec_sheet`; Safety Manuals and CommPro → `other_doc`.
+- Duplicate crops collapsed.
+- SRH variants SRH1-3 (after Ved's SPEC 3 ruling).
 
 Kept gold (blind differs):
-- **SRH variants SRH1-3:** blind followed "on the page or in the family's spec sheet"; gold follows Ved's Bray decision (only Single Door and SA16). See #6.
 - **70-HAZ certifications `agree`:** the Recommended Specs PDF says "Hazardous location enclosure shall be UL certified to:"; blind recorded page_only.
 - **1B material_trim `agree`:** the brochure BOM lists all four ball materials incl. "ASTM A182 Gr. F316 w/ENP"; blind recorded a conflict.
 - **1B pressure_rating / size_unit:** blind left class-only pressure and size_unit out; gold records "ASME CL150 ... 1500" (conflict with brochure 150-900) and `in` from the page's inch sizes.
 - **1B standards:** blind also listed ISO 15848-1 under standards; gold has it only in certifications, where the page puts it.
-- **Images:** gold has 3 distinct photos the blind pass dropped (5B Resin bare-box thumb, 70-HAZ second angle, SRH second handle view; all checked visually as different renders); 1B: same banner, gold keeps the larger 4278x1416 rendition, blind the 2000x1302 crop.
 - **1B HIPPS PDF doc_type:** see #19.

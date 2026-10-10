@@ -764,7 +764,68 @@
     "power_source": "Deadman Handle",
     "valve_compatibility": "¼” – 2” Ball Valves"
    },
-   "variants": [],
+   "variants": [
+    {
+     "sku": "SRH1",
+     "size": null,
+     "page_url": "https://www.bray.com/valves-actuators-controls/actuators/manual-operators/srh-series-manual-actuator",
+     "prices": [
+      {
+       "availability": "request_quote",
+       "source": {
+        "url": "https://www.bray.com/valves-actuators-controls/actuators/manual-operators/srh-series-manual-actuator",
+        "type": "page",
+        "page": null,
+        "section": "Product header",
+        "variant_sku": null,
+        "quote": "Request a Quote",
+        "snapshot_sha256": "149c1d3a147af68a94aca9f8401daf0236911db834a5e66d747da15b5b94c2a0",
+        "retrieved_at": "2026-10-10T20:43:27Z"
+       }
+      }
+     ]
+    },
+    {
+     "sku": "SRH2",
+     "size": null,
+     "page_url": "https://www.bray.com/valves-actuators-controls/actuators/manual-operators/srh-series-manual-actuator",
+     "prices": [
+      {
+       "availability": "request_quote",
+       "source": {
+        "url": "https://www.bray.com/valves-actuators-controls/actuators/manual-operators/srh-series-manual-actuator",
+        "type": "page",
+        "page": null,
+        "section": "Product header",
+        "variant_sku": null,
+        "quote": "Request a Quote",
+        "snapshot_sha256": "149c1d3a147af68a94aca9f8401daf0236911db834a5e66d747da15b5b94c2a0",
+        "retrieved_at": "2026-10-10T20:43:27Z"
+       }
+      }
+     ]
+    },
+    {
+     "sku": "SRH3",
+     "size": null,
+     "page_url": "https://www.bray.com/valves-actuators-controls/actuators/manual-operators/srh-series-manual-actuator",
+     "prices": [
+      {
+       "availability": "request_quote",
+       "source": {
+        "url": "https://www.bray.com/valves-actuators-controls/actuators/manual-operators/srh-series-manual-actuator",
+        "type": "page",
+        "page": null,
+        "section": "Product header",
+        "variant_sku": null,
+        "quote": "Request a Quote",
+        "snapshot_sha256": "149c1d3a147af68a94aca9f8401daf0236911db834a5e66d747da15b5b94c2a0",
+        "retrieved_at": "2026-10-10T20:43:27Z"
+       }
+      }
+     ]
+    }
+   ],
    "documents": [
     {
      "url": "https://www.bray.com/docs/default-source/specifications/datasheets/en_sds_spring-return-handle.pdf",
@@ -812,7 +873,7 @@
      "found_on": "https://www.bray.com/valves-actuators-controls/actuators/manual-operators/srh-series-manual-actuator"
     }
    ],
-   "labelling_notes": "No variants: page lists no identifiers. The sales data sheet model table lists SRH1 SRH2 SRH3 (sizes of the operator); per the Bray decision only Single Door and SA16 get variants, so these are logged as an ambiguity, not variants. Price: Request a Quote (request_quote). Handle body CF8M per sheet parts list; page states no materials.",
+   "labelling_notes": "Variants = the 3 operator models in the sales data sheet model table (SRH Model # SRH1 SRH2 SRH3; handle length 10.47 / 13.38 / 19.125 in), per SPEC section 3 (page or spec sheet). The page lists no identifiers. No spec overrides: handle length and weight are not scored fields. Price: Request a Quote (request_quote) on the family and each model. Variant identifiers quoted from: \"SRH Model # SRH1 SRH2 SRH3\".",
    "spec_source_summary": "both"
   },
   {
@@ -3445,6 +3506,14 @@
      "found_on": "https://www.bray.com/valves-actuators-controls/butterfly-valves/resilient-seated/series-20-21-resilient-seated-butterfly-valve"
     },
     {
+     "url": "https://www.bray.com/images/default-source/products/resilientseatedvalves/s20-21/20-21-min.webp?sfvrsn=75915f45_7",
+     "image_type": "product_photo",
+     "width": 1309,
+     "height": 1858,
+     "phash": "e467963c59c1859e",
+     "found_on": "https://www.bray.com/valves-actuators-controls/butterfly-valves/resilient-seated/series-20-21-resilient-seated-butterfly-valve"
+    },
+    {
      "url": "https://www.bray.com/images/default-source/products/resilientseatedvalves/s20-21/s20-21_homehero_040000-copy.webp",
      "image_type": "product_photo",
      "width": 1406,
@@ -4368,6 +4437,14 @@
      "found_on": "https://www.bray.com/valves-actuators-controls/butterfly-valves/triple-offset-butterfly-valves/tri-lok-triple-offset-butterfly-valve"
     },
     {
+     "url": "https://www.bray.com/images/default-source/products/trilok/tri-lok/web-trilok-cut-away-22-min.webp?sfvrsn=82023a58_3",
+     "image_type": "product_photo",
+     "width": 1145,
+     "height": 1625,
+     "phash": "f8c3c13c96c48ec7",
+     "found_on": "https://www.bray.com/valves-actuators-controls/butterfly-valves/triple-offset-butterfly-valves/tri-lok-triple-offset-butterfly-valve"
+    },
+    {
      "url": "https://www.bray.com/images/default-source/products/trilok/f0-trilok/f0-1000-110ez_thumbnail_-copy.webp",
      "image_type": "product_photo",
      "width": 1333,
@@ -5035,6 +5112,14 @@
      "width": 1333,
      "height": 1333,
      "phash": "f98cd062877d8e70",
+     "found_on": "https://www.bray.com/valves-actuators-controls/butterfly-valves/lined/series-22-23-resilient-seated-butterfly-valve"
+    },
+    {
+     "url": "https://www.bray.com/images/default-source/products/resilientseatedvalves/s22-23/22-23-2-min.webp?sfvrsn=a454d71_7",
+     "image_type": "product_photo",
+     "width": 982,
+     "height": 1394,
+     "phash": "905a43bec5e50e6b",
      "found_on": "https://www.bray.com/valves-actuators-controls/butterfly-valves/lined/series-22-23-resilient-seated-butterfly-valve"
     }
    ],
@@ -6711,11 +6796,19 @@
      "found_on": "https://www.bray.com/valves-actuators-controls/control-accessories/switch-boxes/series-5a-switch-box"
     },
     {
-     "url": "https://www.bray.com/images/default-source/products/controls/s5a/2025_s5a_92-93_mccannalok-s40_41_8in_homehero_0100-copy-600x600.webp",
+     "url": "https://www.bray.com/images/default-source/products/controls/s5a/series5a-cutaway-1-min.webp?sfvrsn=da02693b_5",
      "image_type": "product_photo",
-     "width": 600,
-     "height": 600,
-     "phash": "ff809c6970868bbc",
+     "width": 1145,
+     "height": 1625,
+     "phash": "fab4854b1f6c20b3",
+     "found_on": "https://www.bray.com/valves-actuators-controls/control-accessories/switch-boxes/series-5a-switch-box"
+    },
+    {
+     "url": "https://www.bray.com/images/default-source/products/controls/s5a/5a--mobile/2025_s5a_92-93_mccannalok-s40_41_8in_homehero_0100.webp?sfvrsn=b3b0f432_3",
+     "image_type": "product_photo",
+     "width": 640,
+     "height": 406,
+     "phash": "f7c39a8d89bc88c2",
      "found_on": "https://www.bray.com/valves-actuators-controls/control-accessories/switch-boxes/series-5a-switch-box"
     }
    ],
@@ -7123,6 +7216,14 @@
      "width": 1333,
      "height": 1333,
      "phash": "ffa4801e9e78b861",
+     "found_on": "https://www.bray.com/valves-actuators-controls/control-accessories/switch-boxes/series-5b-resin-switch-box"
+    },
+    {
+     "url": "https://www.bray.com/images/default-source/products/controls/s5b-resin/5b-lr-min.webp?sfvrsn=b530eb25_1",
+     "image_type": "product_photo",
+     "width": 640,
+     "height": 505,
+     "phash": "be39d0c8ccc4c9e3",
      "found_on": "https://www.bray.com/valves-actuators-controls/control-accessories/switch-boxes/series-5b-resin-switch-box"
     }
    ],
@@ -7986,6 +8087,14 @@
      "found_on": "https://www.bray.com/cx-line/tri-lok-cx-triple-offset-butterfly-valve"
     },
     {
+     "url": "https://www.bray.com/images/default-source/products/cx-line/trilok-cx/web-trilokcx-linecut-away6-min.webp?sfvrsn=1c50fe4e_4",
+     "image_type": "product_photo",
+     "width": 982,
+     "height": 1394,
+     "phash": "ab5fc778856d0861",
+     "found_on": "https://www.bray.com/cx-line/tri-lok-cx-triple-offset-butterfly-valve"
+    },
+    {
      "url": "https://www.bray.com/images/default-source/products/cx-line/trilok-cx/tri-lok-cx-mobile/tri-lok--cx-triple-offset-butterfly-valve.webp?sfvrsn=94fb4b51_1",
      "image_type": "product_photo",
      "width": 992,
@@ -8547,11 +8656,19 @@
    "cad": [],
    "images": [
     {
-     "url": "https://www.bray.com/images/default-source/products/knifegate/746hp/2025-746hp-heroshot-05--copy.webp",
+     "url": "https://www.bray.com/images/default-source/products/knifegate/746hp/2025-746hp-heroshot-05--copy-2.webp",
      "image_type": "product_photo",
-     "width": 1287,
-     "height": 1416,
-     "phash": "f83c8f6187789863",
+     "width": 1000,
+     "height": 1000,
+     "phash": "fc86c37293389b45",
+     "found_on": "https://www.bray.com/valves-actuators-controls/knife-gate-valves/bidirectional/series-746hp-knife-gate-valve"
+    },
+    {
+     "url": "https://www.bray.com/images/default-source/products/knifegate/746hp/746hp_cutaway_numbers4.webp?sfvrsn=e70e06e9_0",
+     "image_type": "product_photo",
+     "width": 524,
+     "height": 800,
+     "phash": "f8c6c718b6b19958",
      "found_on": "https://www.bray.com/valves-actuators-controls/knife-gate-valves/bidirectional/series-746hp-knife-gate-valve"
     }
    ],
@@ -9070,6 +9187,14 @@
    ],
    "cad": [],
    "images": [
+    {
+     "url": "https://www.bray.com/images/default-source/products/knifegate/knifegate-942/s942_cut_2025-copy.webp?sfvrsn=baf8d265_1",
+     "image_type": "product_photo",
+     "width": 800,
+     "height": 1312,
+     "phash": "e36699998699999c",
+     "found_on": "https://www.bray.com/valves-actuators-controls/knife-gate-valves/unidirectional/series-942-knife-gate-valve"
+    },
     {
      "url": "https://www.bray.com/images/default-source/products/knifegate/knifegate-942/s942-nps-8-homehero_yoke-ss_0020-(1)-copy_d.webp",
      "image_type": "product_photo",
