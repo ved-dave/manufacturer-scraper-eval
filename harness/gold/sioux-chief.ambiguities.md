@@ -19,6 +19,7 @@ Per spec value, family level plus variant overrides:
 | Before (old rules) | 78 | 0 | 28 | 95 | 79 | 280 | 178 |
 | After (SPEC v1.1) | 65 | 8 | 15 | 43 | 57 | 188 | 79 |
 | After blind v2 fixes | 76 | 8 | 15 | 32 | 57 | 188 | 79 |
+| After rule clarification (SPEC 6, 2026-10-10) | 53 | 9 | 9 | 20 | 29 | 120 | 6 |
 
 The total drops mostly because per-variant overrides of list fields (`end_connections`, `standards`, `certifications`, `applications`) were merged into family-level lists, and single-size `size_range` values were added. Of the 28 old conflicts: 7 became `refines`. 2 (`687-3PH/3PH2` end_connections) are now part of the family-level `end_connections`, which is `refines`. The 5 per-variant `643WG2` certification conflicts became 1 family-level conflict. The other 14 stay `conflict`.
 
@@ -145,7 +146,7 @@ Separate session ([01438a45](https://outpostai.devinenterprise.com/sessions/0143
 2. **`630-C2412` end_connections:** added `closed`. The page says `Connection 2 Type Closed` and the sheet says `Type L copper tubing with a spun-closed end`.
 3. **`525-02` brochure revision_date:** `2021-09`, from the footer date code `09-2021`.
 
-**Where gold was kept (the blind value is not better):**
+**Where gold was kept (the blind value is not better).** The override and `CTS` items below were superseded the same day by the SPEC 6 clarification; see the next section.
 - **Variant overrides (0/20).** The blind pass put per-variant materials into family-level lists, e.g. `821-200ANQ` material_body `["PVC","ABS"]`, and recorded no washer type for `230-2906101`. Gold keeps overrides for these text fields: `material_body` / `material_seals` are single-valued text kinds in the harness, so a list loses which variant is which. The `230` washer quotes (`Washer Type Hard` / `Washer Type Soft`) are verified in the evidence. Logged in HARNESS_ISSUES.
 - **`525-02` material_body.** Both passes say `conflict`: the sheet gives polypropylene for the standard strap and ABS for the glueable one, but every SKU page says ABS. Gold displays the sheet value, with an ABS override on `525-02G`.
 - **`525-02` size_unit `CTS` vs `in`.** SPEC 6 lists unit systems "NPS / DN / in", and CTS is not one of them, so gold keeps `in`. Logged in HARNESS_ISSUES.
@@ -153,3 +154,59 @@ Separate session ([01438a45](https://outpostai.devinenterprise.com/sessions/0143
 - **`525-02` applications / certifications.** The blind pass cited the page title "Cost-Effective Stub Out Bracket" for applications and `IAPMO PS - 42` (a product standard, already in `standards`) for certifications. Gold keeps the sheet-only `residential` / `commercial` and `IAPMO`, both `pdf_only`.
 - **`120-TM3F` certifications / material_trim.** The blind pass missed `compliant with NSF-61 Annex G` and `Stainless steel springs`. Both are verified in the evidence, so `refines` / `pdf_only` stay.
 - **Wording only, kept:** `821-200ANQ` / `120-TM3F` applications and end_connections (`2" Sch. 40 hub` vs `Sch. 40 hub`, `3/8" compression` vs `compression`), and `630-C2412` "Type L copper tube" vs "Type L copper".
+
+## SPEC 6 clarification: material lists and CTS/IPS (2026-10-10)
+
+Ved answered HARNESS_ISSUES #5 and #6, and both answers are now in SPEC.md section 6:
+- When variants differ only in a material field, the family value is a comma-separated list in order of first appearance, with no per-variant overrides.
+- `CTS` and `IPS` are valid `size_unit` values.
+
+**Overrides folded into family-level lists (73 of 79 removed):**
+
+| Family.field | Overrides removed | Family value now | cross_check |
+|---|---|---|---|
+| `821-200ANQ.material_body` | 7 (all variants) | `ABS, PVC` | agree |
+| `230-2906101.material_seals` | 12 (all variants) | `poly (hard) washers, soft washers` | page_only |
+| `525-02.material_body` | 1 (`525-02G`) | `high impact polypropylene, ABS` | refines (was conflict) |
+| `861-Q2286.material_trim` | 18 | `enamel-coated cast iron, nickel-bronze, stainless steel` | conflict (A.R.E. vs enamel-coated, unchanged) |
+| `865-12ECD.material_body` | 16 | `fiber-reinforced concrete, ductile iron` | agree |
+| `865-12ECD.material_trim` | 11 | `ductile iron` | pdf_only |
+| `643WG2.material_seals` | 8 | `EPDM` | pdf_only |
+
+- **`821-200ANQ` and `230-2906101`.** These were overridden on every variant only because the old rule treated material as single-valued per variant. Under the clarified rule they are family-level lists. All page/sheet quotes are kept as sources on the family value.
+- **`525-02` is now `refines`.** The sheet gives polypropylene for the standard strap and ABS for the glueable one, while every page says ABS. With family-level lists, the sheet list contains the page list plus more, which is SPEC 6a's definition of `refines`. The page value `ABS` stays in `alt_values`.
+- **Remaining 6 overrides: `643WG2.temperature_range`.** Only the six `645WGC*` CPVC adapters state `max 180 °F`, on their spec sheet. A rating that applies to some variants cannot be written as one family-level range, so these overrides stay (SPEC 6: "Overrides remain only for values that cannot be written as a family-level range or list").
+
+**size_unit → `CTS` in 2 families:**
+- `525-02`: page `Supports 1/2" or 3/4" CTS tube.`, sheet `SimpleStrap™ CTS tube straps` (agree). The blind pass was right.
+- `523-31`: page row `Size Dimension CTS` (page_only).
+
+The other families keep `in`. On their pages CTS appears only as tube compatibility or a connection type (e.g. `Connection 1 Type Push CTS`, `Works with all CTS tubing`), never as the size dimension, and their `Size` rows read `… IN`.
+
+**Images at phash distance 0–2 (`865-12ECD` and `861-Q2286`).** I re-downloaded all 10 files involved (sha256 matches the manifest) and compared them visually and pixel by pixel (mean abs difference 1.7–6.8 / 255 at 256×256). In every case they are different files of different products, not one photo reused across SKUs, so all are kept:
+- `865-M6CBDA` / `865-M6CBFA` / `865-M6CBF1A` and `865-M8CBDA` / `865-M8CBFA` / `865-M8CBF1A`: same catch-basin body rendered with different grates. The `F1A` grates are bolted (visible lock bolts), and the `DA` and `FA` slot patterns differ.
+- `865-M12PCBEA` / `865-M12PCBFA`: different grate slot patterns, and different heights (1296 vs 1288 px).
+- `861-Q2286N` / `861-Q2286S`: nickel-bronze vs stainless-steel strainer (different colours).
+
+No byte-identical or resized duplicates were found, so nothing was removed. The 8 validator warnings are these pairs.
+
+**Blind v2 agreement, re-scored under the clarified rule.** The blind pass is unchanged; the gold is the version after the fold.
+
+| Row | v1: 3 families, old rules | v2: 6 families, SPEC v1.1 | v2 after fixes | v2 after rule clarification |
+|---|---|---|---|---|
+| Variants | 20/20 | 37/37 | 37/37 | 37/37 |
+| Documents | 7/7 | 10/10 | 10/10 | 10/10 |
+| Doc type / lang / sha256 | 7/7 each | 10/10 each | 10/10 each | 10/10 each |
+| Doc revision_date | 4/7 | 9/10 | 10/10 | 10/10 |
+| CAD/BIM | 1/1 | 1/1 | 1/1 | 1/1 |
+| Images | 13/17 | 25/25 | 25/25 | 25/25 |
+| Family spec fields | 17/29 | 31/45 | 31/45 | 34/45 (76%) |
+| Variant overrides | 10/31 | 0/20 | 0/20 | 0/0 (neither has any) |
+| cross_check (field in both) | 15/17 | 35/42 | 39/42 | 39/43 (91%) |
+
+The 11 remaining family-field differences are all cases where the gold was checked and kept (see the blind v2 section):
+- Wording: `821-200ANQ` applications and end_connections, `120-TM3F` applications and end_connections, `630-C2412` end_connections and material_body.
+- Fields the blind pass missed, verified in the evidence: `230-2906101.material_seals`, `120-TM3F` certifications (NSF-61 Annex G) and material_trim.
+- `525-02`: applications (gold uses the sheet's residential/commercial) and temperature min (an impact rating, not an operating minimum).
+
+The 4 cross_check differences are `525-02` material_body (blind: conflict; gold: refines under the clarified list rule), `525-02` applications and certifications (blind: page_only; gold: pdf_only, from sheet quotes), and `120-TM3F` certifications (blind missed Annex G).

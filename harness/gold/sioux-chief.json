@@ -20033,6 +20033,33 @@
        "retrieved_at": "2026-10-09T22:09:26Z"
       }
      ]
+    },
+    "material_seals": {
+     "value": "EPDM",
+     "unit": null,
+     "raw_text": "O-Ring: EPDM; O-ring: EPDM",
+     "display_source": "pdf",
+     "cross_check": "pdf_only",
+     "sources": [
+      {
+       "url": "https://cdn.siouxchief.com/prodscmwebsite/SpecSheets/645 SERIES - PVC X F1960 TRANSITION FITTING - SPEC SHEET.PDF",
+       "type": "pdf",
+       "page": 1,
+       "section": "MATERIALS",
+       "quote": "O-Ring: EPDM",
+       "snapshot_sha256": "57a10eab3af9942be5358971f89c8a26173262401c54fd508d4cdf0d7b71c90f",
+       "retrieved_at": "2026-10-09T22:10:35Z"
+      },
+      {
+       "url": "https://cdn.siouxchief.com/prodscmwebsite/SpecSheets/645WGC SERIES - CPVC X F1960 TRANSITION FITTING - SPEC SHEET.PDF",
+       "type": "pdf",
+       "page": 1,
+       "section": "MATERIALS",
+       "quote": "O-ring: EPDM",
+       "snapshot_sha256": "4715b2b5f8ecb1d3d9ee648a6798b3f2024ab8c8916881f01debc20a738e23ec",
+       "retrieved_at": "2026-10-09T22:10:41Z"
+      }
+     ]
     }
    },
    "additional_specs": {
@@ -20437,26 +20464,7 @@
      "sku": "645WG3P",
      "size": "3/4",
      "page_url": "https://www.siouxchief.com/Products/645WG3P",
-     "spec_overrides": {
-      "material_seals": {
-       "value": "EPDM",
-       "unit": null,
-       "raw_text": "O-Ring: EPDM",
-       "display_source": "pdf",
-       "cross_check": "pdf_only",
-       "sources": [
-        {
-         "url": "https://cdn.siouxchief.com/prodscmwebsite/SpecSheets/645 SERIES - PVC X F1960 TRANSITION FITTING - SPEC SHEET.PDF",
-         "type": "pdf",
-         "page": 1,
-         "section": "MATERIALS",
-         "quote": "O-Ring: EPDM",
-         "snapshot_sha256": "57a10eab3af9942be5358971f89c8a26173262401c54fd508d4cdf0d7b71c90f",
-         "retrieved_at": "2026-10-09T22:10:35Z"
-        }
-       ]
-      }
-     },
+     "spec_overrides": {},
      "prices": [
       {
        "amount": null,
@@ -20480,26 +20488,7 @@
      "sku": "645WG4P",
      "size": "1",
      "page_url": "https://www.siouxchief.com/Products/645WG4P",
-     "spec_overrides": {
-      "material_seals": {
-       "value": "EPDM",
-       "unit": null,
-       "raw_text": "O-Ring: EPDM",
-       "display_source": "pdf",
-       "cross_check": "pdf_only",
-       "sources": [
-        {
-         "url": "https://cdn.siouxchief.com/prodscmwebsite/SpecSheets/645 SERIES - PVC X F1960 TRANSITION FITTING - SPEC SHEET.PDF",
-         "type": "pdf",
-         "page": 1,
-         "section": "MATERIALS",
-         "quote": "O-Ring: EPDM",
-         "snapshot_sha256": "57a10eab3af9942be5358971f89c8a26173262401c54fd508d4cdf0d7b71c90f",
-         "retrieved_at": "2026-10-09T22:10:35Z"
-        }
-       ]
-      }
-     },
+     "spec_overrides": {},
      "prices": [
       {
        "amount": null,
@@ -20524,24 +20513,6 @@
      "size": "1/2",
      "page_url": "https://www.siouxchief.com/Products/645WGC2",
      "spec_overrides": {
-      "material_seals": {
-       "value": "EPDM",
-       "unit": null,
-       "raw_text": "O-ring: EPDM",
-       "display_source": "pdf",
-       "cross_check": "pdf_only",
-       "sources": [
-        {
-         "url": "https://cdn.siouxchief.com/prodscmwebsite/SpecSheets/645WGC SERIES - CPVC X F1960 TRANSITION FITTING - SPEC SHEET.PDF",
-         "type": "pdf",
-         "page": 1,
-         "section": "MATERIALS",
-         "quote": "O-ring: EPDM",
-         "snapshot_sha256": "4715b2b5f8ecb1d3d9ee648a6798b3f2024ab8c8916881f01debc20a738e23ec",
-         "retrieved_at": "2026-10-09T22:10:41Z"
-        }
-       ]
-      },
       "temperature_range": {
        "value": {
         "min": null,
@@ -20588,24 +20559,6 @@
      "size": "3/4",
      "page_url": "https://www.siouxchief.com/Products/645WGC3",
      "spec_overrides": {
-      "material_seals": {
-       "value": "EPDM",
-       "unit": null,
-       "raw_text": "O-ring: EPDM",
-       "display_source": "pdf",
-       "cross_check": "pdf_only",
-       "sources": [
-        {
-         "url": "https://cdn.siouxchief.com/prodscmwebsite/SpecSheets/645WGC SERIES - CPVC X F1960 TRANSITION FITTING - SPEC SHEET.PDF",
-         "type": "pdf",
-         "page": 1,
-         "section": "MATERIALS",
-         "quote": "O-ring: EPDM",
-         "snapshot_sha256": "4715b2b5f8ecb1d3d9ee648a6798b3f2024ab8c8916881f01debc20a738e23ec",
-         "retrieved_at": "2026-10-09T22:10:41Z"
-        }
-       ]
-      },
       "temperature_range": {
        "value": {
         "min": null,
@@ -20652,24 +20605,6 @@
      "size": "1",
      "page_url": "https://www.siouxchief.com/Products/645WGC4",
      "spec_overrides": {
-      "material_seals": {
-       "value": "EPDM",
-       "unit": null,
-       "raw_text": "O-ring: EPDM",
-       "display_source": "pdf",
-       "cross_check": "pdf_only",
-       "sources": [
-        {
-         "url": "https://cdn.siouxchief.com/prodscmwebsite/SpecSheets/645WGC SERIES - CPVC X F1960 TRANSITION FITTING - SPEC SHEET.PDF",
-         "type": "pdf",
-         "page": 1,
-         "section": "MATERIALS",
-         "quote": "O-ring: EPDM",
-         "snapshot_sha256": "4715b2b5f8ecb1d3d9ee648a6798b3f2024ab8c8916881f01debc20a738e23ec",
-         "retrieved_at": "2026-10-09T22:10:41Z"
-        }
-       ]
-      },
       "temperature_range": {
        "value": {
         "min": null,
@@ -20716,24 +20651,6 @@
      "size": "1-1/4",
      "page_url": "https://www.siouxchief.com/Products/645WGC5",
      "spec_overrides": {
-      "material_seals": {
-       "value": "EPDM",
-       "unit": null,
-       "raw_text": "O-ring: EPDM",
-       "display_source": "pdf",
-       "cross_check": "pdf_only",
-       "sources": [
-        {
-         "url": "https://cdn.siouxchief.com/prodscmwebsite/SpecSheets/645WGC SERIES - CPVC X F1960 TRANSITION FITTING - SPEC SHEET.PDF",
-         "type": "pdf",
-         "page": 1,
-         "section": "MATERIALS",
-         "quote": "O-ring: EPDM",
-         "snapshot_sha256": "4715b2b5f8ecb1d3d9ee648a6798b3f2024ab8c8916881f01debc20a738e23ec",
-         "retrieved_at": "2026-10-09T22:10:41Z"
-        }
-       ]
-      },
       "temperature_range": {
        "value": {
         "min": null,
@@ -20780,24 +20697,6 @@
      "size": "1-1/2",
      "page_url": "https://www.siouxchief.com/Products/645WGC6",
      "spec_overrides": {
-      "material_seals": {
-       "value": "EPDM",
-       "unit": null,
-       "raw_text": "O-ring: EPDM",
-       "display_source": "pdf",
-       "cross_check": "pdf_only",
-       "sources": [
-        {
-         "url": "https://cdn.siouxchief.com/prodscmwebsite/SpecSheets/645WGC SERIES - CPVC X F1960 TRANSITION FITTING - SPEC SHEET.PDF",
-         "type": "pdf",
-         "page": 1,
-         "section": "MATERIALS",
-         "quote": "O-ring: EPDM",
-         "snapshot_sha256": "4715b2b5f8ecb1d3d9ee648a6798b3f2024ab8c8916881f01debc20a738e23ec",
-         "retrieved_at": "2026-10-09T22:10:41Z"
-        }
-       ]
-      },
       "temperature_range": {
        "value": {
         "min": null,
@@ -20844,24 +20743,6 @@
      "size": "2",
      "page_url": "https://www.siouxchief.com/Products/645WGC7",
      "spec_overrides": {
-      "material_seals": {
-       "value": "EPDM",
-       "unit": null,
-       "raw_text": "O-ring: EPDM",
-       "display_source": "pdf",
-       "cross_check": "pdf_only",
-       "sources": [
-        {
-         "url": "https://cdn.siouxchief.com/prodscmwebsite/SpecSheets/645WGC SERIES - CPVC X F1960 TRANSITION FITTING - SPEC SHEET.PDF",
-         "type": "pdf",
-         "page": 1,
-         "section": "MATERIALS",
-         "quote": "O-ring: EPDM",
-         "snapshot_sha256": "4715b2b5f8ecb1d3d9ee648a6798b3f2024ab8c8916881f01debc20a738e23ec",
-         "retrieved_at": "2026-10-09T22:10:41Z"
-        }
-       ]
-      },
       "temperature_range": {
        "value": {
         "min": null,
@@ -21737,9 +21618,9 @@
      ]
     },
     "size_unit": {
-     "value": "in",
+     "value": "CTS",
      "unit": null,
-     "raw_text": "Size 1/2 IN",
+     "raw_text": "Supports 1/2\" or 3/4\" CTS tube. / SimpleStrap™ CTS tube straps",
      "display_source": "pdf",
      "cross_check": "agree",
      "sources": [
@@ -21749,7 +21630,7 @@
        "page": null,
        "section": "Specifications tab",
        "variant_sku": null,
-       "quote": "Size 1/2 IN",
+       "quote": "Supports 1/2\" or 3/4\" CTS tube.",
        "snapshot_sha256": "ae49afb3a53136f6830da32a9cdae98e8080ebf6d8c125021bf4e003f4ea27f8",
        "retrieved_at": "2026-10-09T21:42:49Z"
       },
@@ -21759,19 +21640,19 @@
        "page": 1,
        "section": "Specifications",
        "variant_sku": null,
-       "quote": "to secure ½\" and ¾\" CTS tubing",
+       "quote": "SimpleStrap™ CTS tube straps",
        "snapshot_sha256": "479ce05ad6be2d5588e64dbc1233ca9a66693b628c2372755fc9a1e8fd58ac8a",
        "retrieved_at": "2026-10-09T22:11:46Z"
       }
      ]
     },
     "material_body": {
-     "value": "high impact polypropylene",
+     "value": "high impact polypropylene, ABS",
      "unit": null,
-     "raw_text": "Standard: High impact polypropylene (gray)",
+     "raw_text": "Standard: High impact polypropylene (gray); Glueable: ABS (natural)",
      "conditions": "standard (non-glueable) strap",
      "display_source": "pdf",
-     "cross_check": "conflict",
+     "cross_check": "refines",
      "sources": [
       {
        "url": "https://cdn.siouxchief.com/prodscmwebsite/SpecSheets/525 SERIES - SIMPLESTRAP - SPEC SHEET.PDF",
@@ -21781,6 +21662,25 @@
        "quote": "Standard: High impact polypropylene (gray)",
        "snapshot_sha256": "479ce05ad6be2d5588e64dbc1233ca9a66693b628c2372755fc9a1e8fd58ac8a",
        "retrieved_at": "2026-10-09T22:11:46Z"
+      },
+      {
+       "url": "https://cdn.siouxchief.com/prodscmwebsite/SpecSheets/525 SERIES - SIMPLESTRAP - SPEC SHEET.PDF",
+       "type": "pdf",
+       "page": 1,
+       "section": "MATERIALS",
+       "quote": "Glueable: ABS (natural)",
+       "snapshot_sha256": "479ce05ad6be2d5588e64dbc1233ca9a66693b628c2372755fc9a1e8fd58ac8a",
+       "retrieved_at": "2026-10-09T22:11:46Z"
+      },
+      {
+       "url": "https://www.siouxchief.com/Products/525-02G",
+       "type": "page",
+       "page": null,
+       "section": "Specifications tab",
+       "variant_sku": null,
+       "quote": "Material ABS",
+       "snapshot_sha256": "15da87e275e5357fefbe09de6ae1acb3dc41763fbabd8ab5e25b610186699d05",
+       "retrieved_at": "2026-10-09T22:09:53Z"
       }
      ],
      "alt_values": [
@@ -21921,36 +21821,7 @@
      "sku": "525-02G",
      "size": "1/2",
      "page_url": "https://www.siouxchief.com/Products/525-02G",
-     "spec_overrides": {
-      "material_body": {
-       "value": "ABS",
-       "unit": null,
-       "raw_text": "Glueable: ABS (natural)",
-       "display_source": "pdf",
-       "cross_check": "agree",
-       "sources": [
-        {
-         "url": "https://cdn.siouxchief.com/prodscmwebsite/SpecSheets/525 SERIES - SIMPLESTRAP - SPEC SHEET.PDF",
-         "type": "pdf",
-         "page": 1,
-         "section": "MATERIALS",
-         "quote": "Glueable: ABS (natural)",
-         "snapshot_sha256": "479ce05ad6be2d5588e64dbc1233ca9a66693b628c2372755fc9a1e8fd58ac8a",
-         "retrieved_at": "2026-10-09T22:11:46Z"
-        },
-        {
-         "url": "https://www.siouxchief.com/Products/525-02G",
-         "type": "page",
-         "page": null,
-         "section": "Specifications tab",
-         "variant_sku": null,
-         "quote": "Material ABS",
-         "snapshot_sha256": "15da87e275e5357fefbe09de6ae1acb3dc41763fbabd8ab5e25b610186699d05",
-         "retrieved_at": "2026-10-09T22:09:53Z"
-        }
-       ]
-      }
-     },
+     "spec_overrides": {},
      "prices": [
       {
        "amount": null,
@@ -22249,9 +22120,9 @@
      ]
     },
     "size_unit": {
-     "value": "in",
+     "value": "CTS",
      "unit": null,
-     "raw_text": "Size 3/8 IN",
+     "raw_text": "Size Dimension CTS",
      "display_source": "page",
      "cross_check": "page_only",
      "sources": [
@@ -22261,7 +22132,7 @@
        "page": null,
        "section": "Specifications tab",
        "variant_sku": null,
-       "quote": "Size 3/8 IN",
+       "quote": "Size Dimension CTS",
        "snapshot_sha256": "326197f34c68462ae63639d2d5655a46669272cf1a36a5e8d33302437d98afe3",
        "retrieved_at": "2026-10-09T21:43:00Z"
       }
@@ -24529,6 +24400,104 @@
        "retrieved_at": "2026-10-09T21:44:45Z"
       }
      ]
+    },
+    "material_body": {
+     "value": "ABS, PVC",
+     "unit": null,
+     "raw_text": "Drain Body Material ABS; Drain Body Material PVC",
+     "conditions": "drain body / hub",
+     "display_source": "pdf",
+     "cross_check": "agree",
+     "sources": [
+      {
+       "url": "https://cdn.siouxchief.com/prodscmwebsite/SpecSheets/821-200 SERIES - SHOWER PAN DRAIN - SPEC SHEET.PDF",
+       "type": "pdf",
+       "page": 1,
+       "section": "Create Item Number",
+       "quote": "200A = ABS Sch. 40 Hub",
+       "snapshot_sha256": "1f8bcddfb7c5c492ceb90a46471e3cd02acef612534e97e509b216ad97deed9f",
+       "retrieved_at": "2026-10-09T22:13:11Z"
+      },
+      {
+       "url": "https://www.siouxchief.com/Products/821-200ANQ",
+       "type": "page",
+       "page": null,
+       "section": "Specifications tab",
+       "variant_sku": null,
+       "quote": "Drain Body Material ABS",
+       "snapshot_sha256": "c0be9ca14964d8729cbe1191de21e7a08c5d9fcbdddd2dae1de632f1ea9c6c62",
+       "retrieved_at": "2026-10-09T21:44:45Z"
+      },
+      {
+       "url": "https://www.siouxchief.com/Products/821-200ANR",
+       "type": "page",
+       "page": null,
+       "section": "Specifications tab",
+       "variant_sku": null,
+       "quote": "Drain Body Material ABS",
+       "snapshot_sha256": "41f72de0540c0524cbef5f454a8e9fe97ad7b34cd4f299b955de6601a6516428",
+       "retrieved_at": "2026-10-09T22:10:20Z"
+      },
+      {
+       "url": "https://cdn.siouxchief.com/prodscmwebsite/SpecSheets/821-200 SERIES - SHOWER PAN DRAIN - SPEC SHEET.PDF",
+       "type": "pdf",
+       "page": 1,
+       "section": "Create Item Number",
+       "quote": "200P = PVC Sch. 40 Hub",
+       "snapshot_sha256": "1f8bcddfb7c5c492ceb90a46471e3cd02acef612534e97e509b216ad97deed9f",
+       "retrieved_at": "2026-10-09T22:13:11Z"
+      },
+      {
+       "url": "https://www.siouxchief.com/Products/821-200PNQ",
+       "type": "page",
+       "page": null,
+       "section": "Specifications tab",
+       "variant_sku": null,
+       "quote": "Drain Body Material PVC",
+       "snapshot_sha256": "6562c73eebe243035e4a24baaf93624692dafc259a134136e2e7d461b09aed3e",
+       "retrieved_at": "2026-10-09T22:10:21Z"
+      },
+      {
+       "url": "https://www.siouxchief.com/Products/821-200PNR",
+       "type": "page",
+       "page": null,
+       "section": "Specifications tab",
+       "variant_sku": null,
+       "quote": "Drain Body Material PVC",
+       "snapshot_sha256": "185f7d789ac5ea874dd22fc433e1f86588b6bb475d6eb1ebb5a1bbe78190d83c",
+       "retrieved_at": "2026-10-09T22:10:22Z"
+      },
+      {
+       "url": "https://www.siouxchief.com/Products/821-T200ANQ",
+       "type": "page",
+       "page": null,
+       "section": "Specifications tab",
+       "variant_sku": null,
+       "quote": "Drain Body Material ABS",
+       "snapshot_sha256": "a4aa1b0fcacd2cf9697c25502334c4b5c89e3559e3901b55f60b7dc8c3c7bef9",
+       "retrieved_at": "2026-10-09T22:10:23Z"
+      },
+      {
+       "url": "https://www.siouxchief.com/Products/821-T200ANR",
+       "type": "page",
+       "page": null,
+       "section": "Specifications tab",
+       "variant_sku": null,
+       "quote": "Drain Body Material ABS",
+       "snapshot_sha256": "dff1295d773717796c3063866dba177d472117ccc697a404e694d053c74b8cac",
+       "retrieved_at": "2026-10-09T22:10:24Z"
+      },
+      {
+       "url": "https://www.siouxchief.com/Products/821-T200PNQ",
+       "type": "page",
+       "page": null,
+       "section": "Specifications tab",
+       "variant_sku": null,
+       "quote": "Drain Body Material PVC",
+       "snapshot_sha256": "c186b33458c66595a2d7ff6fee9e8a3ed79dc97cb1eee08f8021075c0bd7cc2f",
+       "retrieved_at": "2026-10-09T22:10:25Z"
+      }
+     ]
     }
    },
    "additional_specs": {
@@ -24544,37 +24513,7 @@
      "sku": "821-200ANQ",
      "size": "2",
      "page_url": "https://www.siouxchief.com/Products/821-200ANQ",
-     "spec_overrides": {
-      "material_body": {
-       "value": "ABS",
-       "unit": null,
-       "raw_text": "Drain Body Material ABS",
-       "conditions": "drain body / hub",
-       "display_source": "pdf",
-       "cross_check": "agree",
-       "sources": [
-        {
-         "url": "https://cdn.siouxchief.com/prodscmwebsite/SpecSheets/821-200 SERIES - SHOWER PAN DRAIN - SPEC SHEET.PDF",
-         "type": "pdf",
-         "page": 1,
-         "section": "Create Item Number",
-         "quote": "200A = ABS Sch. 40 Hub",
-         "snapshot_sha256": "1f8bcddfb7c5c492ceb90a46471e3cd02acef612534e97e509b216ad97deed9f",
-         "retrieved_at": "2026-10-09T22:13:11Z"
-        },
-        {
-         "url": "https://www.siouxchief.com/Products/821-200ANQ",
-         "type": "page",
-         "page": null,
-         "section": "Specifications tab",
-         "variant_sku": null,
-         "quote": "Drain Body Material ABS",
-         "snapshot_sha256": "c0be9ca14964d8729cbe1191de21e7a08c5d9fcbdddd2dae1de632f1ea9c6c62",
-         "retrieved_at": "2026-10-09T21:44:45Z"
-        }
-       ]
-      }
-     },
+     "spec_overrides": {},
      "prices": [
       {
        "amount": null,
@@ -24598,37 +24537,7 @@
      "sku": "821-200ANR",
      "size": "2",
      "page_url": "https://www.siouxchief.com/Products/821-200ANR",
-     "spec_overrides": {
-      "material_body": {
-       "value": "ABS",
-       "unit": null,
-       "raw_text": "Drain Body Material ABS",
-       "conditions": "drain body / hub",
-       "display_source": "pdf",
-       "cross_check": "agree",
-       "sources": [
-        {
-         "url": "https://cdn.siouxchief.com/prodscmwebsite/SpecSheets/821-200 SERIES - SHOWER PAN DRAIN - SPEC SHEET.PDF",
-         "type": "pdf",
-         "page": 1,
-         "section": "Create Item Number",
-         "quote": "200A = ABS Sch. 40 Hub",
-         "snapshot_sha256": "1f8bcddfb7c5c492ceb90a46471e3cd02acef612534e97e509b216ad97deed9f",
-         "retrieved_at": "2026-10-09T22:13:11Z"
-        },
-        {
-         "url": "https://www.siouxchief.com/Products/821-200ANR",
-         "type": "page",
-         "page": null,
-         "section": "Specifications tab",
-         "variant_sku": null,
-         "quote": "Drain Body Material ABS",
-         "snapshot_sha256": "41f72de0540c0524cbef5f454a8e9fe97ad7b34cd4f299b955de6601a6516428",
-         "retrieved_at": "2026-10-09T22:10:20Z"
-        }
-       ]
-      }
-     },
+     "spec_overrides": {},
      "prices": [
       {
        "amount": null,
@@ -24652,37 +24561,7 @@
      "sku": "821-200PNQ",
      "size": "2",
      "page_url": "https://www.siouxchief.com/Products/821-200PNQ",
-     "spec_overrides": {
-      "material_body": {
-       "value": "PVC",
-       "unit": null,
-       "raw_text": "Drain Body Material PVC",
-       "conditions": "drain body / hub",
-       "display_source": "pdf",
-       "cross_check": "agree",
-       "sources": [
-        {
-         "url": "https://cdn.siouxchief.com/prodscmwebsite/SpecSheets/821-200 SERIES - SHOWER PAN DRAIN - SPEC SHEET.PDF",
-         "type": "pdf",
-         "page": 1,
-         "section": "Create Item Number",
-         "quote": "200P = PVC Sch. 40 Hub",
-         "snapshot_sha256": "1f8bcddfb7c5c492ceb90a46471e3cd02acef612534e97e509b216ad97deed9f",
-         "retrieved_at": "2026-10-09T22:13:11Z"
-        },
-        {
-         "url": "https://www.siouxchief.com/Products/821-200PNQ",
-         "type": "page",
-         "page": null,
-         "section": "Specifications tab",
-         "variant_sku": null,
-         "quote": "Drain Body Material PVC",
-         "snapshot_sha256": "6562c73eebe243035e4a24baaf93624692dafc259a134136e2e7d461b09aed3e",
-         "retrieved_at": "2026-10-09T22:10:21Z"
-        }
-       ]
-      }
-     },
+     "spec_overrides": {},
      "prices": [
       {
        "amount": null,
@@ -24706,37 +24585,7 @@
      "sku": "821-200PNR",
      "size": "2",
      "page_url": "https://www.siouxchief.com/Products/821-200PNR",
-     "spec_overrides": {
-      "material_body": {
-       "value": "PVC",
-       "unit": null,
-       "raw_text": "Drain Body Material PVC",
-       "conditions": "drain body / hub",
-       "display_source": "pdf",
-       "cross_check": "agree",
-       "sources": [
-        {
-         "url": "https://cdn.siouxchief.com/prodscmwebsite/SpecSheets/821-200 SERIES - SHOWER PAN DRAIN - SPEC SHEET.PDF",
-         "type": "pdf",
-         "page": 1,
-         "section": "Create Item Number",
-         "quote": "200P = PVC Sch. 40 Hub",
-         "snapshot_sha256": "1f8bcddfb7c5c492ceb90a46471e3cd02acef612534e97e509b216ad97deed9f",
-         "retrieved_at": "2026-10-09T22:13:11Z"
-        },
-        {
-         "url": "https://www.siouxchief.com/Products/821-200PNR",
-         "type": "page",
-         "page": null,
-         "section": "Specifications tab",
-         "variant_sku": null,
-         "quote": "Drain Body Material PVC",
-         "snapshot_sha256": "185f7d789ac5ea874dd22fc433e1f86588b6bb475d6eb1ebb5a1bbe78190d83c",
-         "retrieved_at": "2026-10-09T22:10:22Z"
-        }
-       ]
-      }
-     },
+     "spec_overrides": {},
      "prices": [
       {
        "amount": null,
@@ -24760,37 +24609,7 @@
      "sku": "821-T200ANQ",
      "size": "2",
      "page_url": "https://www.siouxchief.com/Products/821-T200ANQ",
-     "spec_overrides": {
-      "material_body": {
-       "value": "ABS",
-       "unit": null,
-       "raw_text": "Drain Body Material ABS",
-       "conditions": "drain body / hub",
-       "display_source": "pdf",
-       "cross_check": "agree",
-       "sources": [
-        {
-         "url": "https://cdn.siouxchief.com/prodscmwebsite/SpecSheets/821-200 SERIES - SHOWER PAN DRAIN - SPEC SHEET.PDF",
-         "type": "pdf",
-         "page": 1,
-         "section": "Create Item Number",
-         "quote": "200A = ABS Sch. 40 Hub",
-         "snapshot_sha256": "1f8bcddfb7c5c492ceb90a46471e3cd02acef612534e97e509b216ad97deed9f",
-         "retrieved_at": "2026-10-09T22:13:11Z"
-        },
-        {
-         "url": "https://www.siouxchief.com/Products/821-T200ANQ",
-         "type": "page",
-         "page": null,
-         "section": "Specifications tab",
-         "variant_sku": null,
-         "quote": "Drain Body Material ABS",
-         "snapshot_sha256": "a4aa1b0fcacd2cf9697c25502334c4b5c89e3559e3901b55f60b7dc8c3c7bef9",
-         "retrieved_at": "2026-10-09T22:10:23Z"
-        }
-       ]
-      }
-     },
+     "spec_overrides": {},
      "prices": [
       {
        "amount": null,
@@ -24814,37 +24633,7 @@
      "sku": "821-T200ANR",
      "size": "2",
      "page_url": "https://www.siouxchief.com/Products/821-T200ANR",
-     "spec_overrides": {
-      "material_body": {
-       "value": "ABS",
-       "unit": null,
-       "raw_text": "Drain Body Material ABS",
-       "conditions": "drain body / hub",
-       "display_source": "pdf",
-       "cross_check": "agree",
-       "sources": [
-        {
-         "url": "https://cdn.siouxchief.com/prodscmwebsite/SpecSheets/821-200 SERIES - SHOWER PAN DRAIN - SPEC SHEET.PDF",
-         "type": "pdf",
-         "page": 1,
-         "section": "Create Item Number",
-         "quote": "200A = ABS Sch. 40 Hub",
-         "snapshot_sha256": "1f8bcddfb7c5c492ceb90a46471e3cd02acef612534e97e509b216ad97deed9f",
-         "retrieved_at": "2026-10-09T22:13:11Z"
-        },
-        {
-         "url": "https://www.siouxchief.com/Products/821-T200ANR",
-         "type": "page",
-         "page": null,
-         "section": "Specifications tab",
-         "variant_sku": null,
-         "quote": "Drain Body Material ABS",
-         "snapshot_sha256": "dff1295d773717796c3063866dba177d472117ccc697a404e694d053c74b8cac",
-         "retrieved_at": "2026-10-09T22:10:24Z"
-        }
-       ]
-      }
-     },
+     "spec_overrides": {},
      "prices": [
       {
        "amount": null,
@@ -24868,37 +24657,7 @@
      "sku": "821-T200PNQ",
      "size": "2",
      "page_url": "https://www.siouxchief.com/Products/821-T200PNQ",
-     "spec_overrides": {
-      "material_body": {
-       "value": "PVC",
-       "unit": null,
-       "raw_text": "Drain Body Material PVC",
-       "conditions": "drain body / hub",
-       "display_source": "pdf",
-       "cross_check": "agree",
-       "sources": [
-        {
-         "url": "https://cdn.siouxchief.com/prodscmwebsite/SpecSheets/821-200 SERIES - SHOWER PAN DRAIN - SPEC SHEET.PDF",
-         "type": "pdf",
-         "page": 1,
-         "section": "Create Item Number",
-         "quote": "200P = PVC Sch. 40 Hub",
-         "snapshot_sha256": "1f8bcddfb7c5c492ceb90a46471e3cd02acef612534e97e509b216ad97deed9f",
-         "retrieved_at": "2026-10-09T22:13:11Z"
-        },
-        {
-         "url": "https://www.siouxchief.com/Products/821-T200PNQ",
-         "type": "page",
-         "page": null,
-         "section": "Specifications tab",
-         "variant_sku": null,
-         "quote": "Drain Body Material PVC",
-         "snapshot_sha256": "c186b33458c66595a2d7ff6fee9e8a3ed79dc97cb1eee08f8021075c0bd7cc2f",
-         "retrieved_at": "2026-10-09T22:10:25Z"
-        }
-       ]
-      }
-     },
+     "spec_overrides": {},
      "prices": [
       {
        "amount": null,
@@ -25644,6 +25403,294 @@
        "retrieved_at": "2026-10-09T22:13:38Z"
       }
      ]
+    },
+    "material_trim": {
+     "value": "enamel-coated cast iron, nickel-bronze, stainless steel",
+     "unit": null,
+     "raw_text": "A = enamel-coated cast iron grate; N = Nickel-bronze frame/grate; S = Stainless steel frame/grate",
+     "conditions": "grate/frame",
+     "display_source": "pdf",
+     "cross_check": "conflict",
+     "sources": [
+      {
+       "url": "https://cdn.siouxchief.com/prodscmwebsite/SpecSheets/861-Q SERIES - 8X8X6 FLOOR SINK - SPEC SHEET.PDF",
+       "type": "pdf",
+       "page": 1,
+       "section": "GRATE TYPE",
+       "quote": "A = enamel-coated cast iron grate",
+       "snapshot_sha256": "57570a939afbe60a00f9180d1183dd6f764db9b0ee6438f115ea4687db8dbf9c",
+       "retrieved_at": "2026-10-09T22:13:38Z"
+      },
+      {
+       "url": "https://cdn.siouxchief.com/prodscmwebsite/SpecSheets/861-Q SERIES - 8X8X6 FLOOR SINK - SPEC SHEET.PDF",
+       "type": "pdf",
+       "page": 1,
+       "section": "GRATE TYPE",
+       "quote": "N = Nickel-bronze frame/grate",
+       "snapshot_sha256": "57570a939afbe60a00f9180d1183dd6f764db9b0ee6438f115ea4687db8dbf9c",
+       "retrieved_at": "2026-10-09T22:13:38Z"
+      },
+      {
+       "url": "https://www.siouxchief.com/Products/861-Q2286N",
+       "type": "page",
+       "page": null,
+       "section": "Specifications tab",
+       "variant_sku": null,
+       "quote": "Grate Material Nickel-Bronze",
+       "snapshot_sha256": "10cfd563c5e409f6ebd4815d1a8fcf95f4824440cb2b6a86e82594e3e4ea166d",
+       "retrieved_at": "2026-10-09T22:10:30Z"
+      },
+      {
+       "url": "https://cdn.siouxchief.com/prodscmwebsite/SpecSheets/861-Q SERIES - 8X8X6 FLOOR SINK - SPEC SHEET.PDF",
+       "type": "pdf",
+       "page": 1,
+       "section": "GRATE TYPE",
+       "quote": "S = Stainless steel frame/grate",
+       "snapshot_sha256": "57570a939afbe60a00f9180d1183dd6f764db9b0ee6438f115ea4687db8dbf9c",
+       "retrieved_at": "2026-10-09T22:13:38Z"
+      },
+      {
+       "url": "https://www.siouxchief.com/Products/861-Q2286S",
+       "type": "page",
+       "page": null,
+       "section": "Specifications tab",
+       "variant_sku": null,
+       "quote": "Grate Material Stainless Steel",
+       "snapshot_sha256": "926d37ab924f641a4ea917b82612ed22abbe6bcb3384c30c269a0c683dfa8783",
+       "retrieved_at": "2026-10-09T22:10:31Z"
+      },
+      {
+       "url": "https://www.siouxchief.com/Products/861-Q2386N",
+       "type": "page",
+       "page": null,
+       "section": "Specifications tab",
+       "variant_sku": null,
+       "quote": "Grate Material Nickel-Bronze",
+       "snapshot_sha256": "6f23b3afa5bc62ed4820dbc55b71707d90212604d2ca73d6d82d4415f6a0163a",
+       "retrieved_at": "2026-10-09T22:10:34Z"
+      },
+      {
+       "url": "https://www.siouxchief.com/Products/861-Q2386S",
+       "type": "page",
+       "page": null,
+       "section": "Specifications tab",
+       "variant_sku": null,
+       "quote": "Grate Material Stainless Steel",
+       "snapshot_sha256": "a5a07c72cff934478fc74fa961d0ffeffceac798f5556d1c5ecad4893e0616b6",
+       "retrieved_at": "2026-10-09T22:10:35Z"
+      },
+      {
+       "url": "https://www.siouxchief.com/Products/861-Q2486N",
+       "type": "page",
+       "page": null,
+       "section": "Specifications tab",
+       "variant_sku": null,
+       "quote": "Grate Material Nickel-Bronze",
+       "snapshot_sha256": "69f317470ce67a0f128d80e425420dd38acadbeb9ef953c3731e460077321faf",
+       "retrieved_at": "2026-10-09T22:10:39Z"
+      },
+      {
+       "url": "https://www.siouxchief.com/Products/861-Q2486S",
+       "type": "page",
+       "page": null,
+       "section": "Specifications tab",
+       "variant_sku": null,
+       "quote": "Grate Material Stainless Steel",
+       "snapshot_sha256": "e45b4746186287a100d65fca648dca8f38dcc2799ed3dbdad042866f4a1d492c",
+       "retrieved_at": "2026-10-09T22:10:40Z"
+      },
+      {
+       "url": "https://cdn.siouxchief.com/prodscmwebsite/SpecSheets/861-QF SERIES - 8X8X6 FLOOR SINK - SPEC SHEET.PDF",
+       "type": "pdf",
+       "page": 1,
+       "section": "GRATE TYPE",
+       "quote": "A = enamel-coated cast iron grate",
+       "snapshot_sha256": "1eb8de6cb7cba8b4fe945effec30dbc661f465b91d836b348e1c73e953f3f210",
+       "retrieved_at": "2026-10-09T22:13:39Z"
+      },
+      {
+       "url": "https://cdn.siouxchief.com/prodscmwebsite/SpecSheets/861-QF SERIES - 8X8X6 FLOOR SINK - SPEC SHEET.PDF",
+       "type": "pdf",
+       "page": 1,
+       "section": "GRATE TYPE",
+       "quote": "N = Nickel-bronze frame/grate",
+       "snapshot_sha256": "1eb8de6cb7cba8b4fe945effec30dbc661f465b91d836b348e1c73e953f3f210",
+       "retrieved_at": "2026-10-09T22:13:39Z"
+      },
+      {
+       "url": "https://www.siouxchief.com/Products/861-QF2286N",
+       "type": "page",
+       "page": null,
+       "section": "Specifications tab",
+       "variant_sku": null,
+       "quote": "Grate Material Nickel-Bronze",
+       "snapshot_sha256": "92226c5e132bc692d46cbab02c1688bcab4e649307ae1f97d639913dc205e857",
+       "retrieved_at": "2026-10-09T22:10:43Z"
+      },
+      {
+       "url": "https://cdn.siouxchief.com/prodscmwebsite/SpecSheets/861-QF SERIES - 8X8X6 FLOOR SINK - SPEC SHEET.PDF",
+       "type": "pdf",
+       "page": 1,
+       "section": "GRATE TYPE",
+       "quote": "S = Stainless steel frame/grate",
+       "snapshot_sha256": "1eb8de6cb7cba8b4fe945effec30dbc661f465b91d836b348e1c73e953f3f210",
+       "retrieved_at": "2026-10-09T22:13:39Z"
+      },
+      {
+       "url": "https://www.siouxchief.com/Products/861-QF2286S",
+       "type": "page",
+       "page": null,
+       "section": "Specifications tab",
+       "variant_sku": null,
+       "quote": "Grate Material Stainless Steel",
+       "snapshot_sha256": "0d5b7f578051b7096806a1d16987aa97918c83d9b77aa3891accc7a44576af54",
+       "retrieved_at": "2026-10-09T22:10:44Z"
+      },
+      {
+       "url": "https://www.siouxchief.com/Products/861-QF2386N",
+       "type": "page",
+       "page": null,
+       "section": "Specifications tab",
+       "variant_sku": null,
+       "quote": "Grate Material Nickel-Bronze",
+       "snapshot_sha256": "724e6a79da9e974291a25d2e3beee379efefe261c56b070b47bad74647a855d9",
+       "retrieved_at": "2026-10-09T22:10:47Z"
+      },
+      {
+       "url": "https://www.siouxchief.com/Products/861-QF2386S",
+       "type": "page",
+       "page": null,
+       "section": "Specifications tab",
+       "variant_sku": null,
+       "quote": "Grate Material Stainless Steel",
+       "snapshot_sha256": "8d75324d7573aed8a5b2603c6dc918e59051d7a53e30c67f914ceba4d54468ac",
+       "retrieved_at": "2026-10-09T22:10:49Z"
+      },
+      {
+       "url": "https://www.siouxchief.com/Products/861-QF2486N",
+       "type": "page",
+       "page": null,
+       "section": "Specifications tab",
+       "variant_sku": null,
+       "quote": "Grate Material Nickel-Bronze",
+       "snapshot_sha256": "7eea1e2b765adf9b04cfaa601e4e849d74a1cd24cf9ebaac68cacfddad9646cc",
+       "retrieved_at": "2026-10-09T22:10:52Z"
+      },
+      {
+       "url": "https://www.siouxchief.com/Products/861-QF2486S",
+       "type": "page",
+       "page": null,
+       "section": "Specifications tab",
+       "variant_sku": null,
+       "quote": "Grate Material Stainless Steel",
+       "snapshot_sha256": "1cf23c4a2b15bba2ebce863617a1279096b54be100fcad3229337b510f700696",
+       "retrieved_at": "2026-10-09T22:10:53Z"
+      }
+     ],
+     "alt_values": [
+      {
+       "value": "A.R.E.",
+       "unit": null,
+       "raw_text": "Grate Material A.R.E.",
+       "sources": [
+        {
+         "url": "https://www.siouxchief.com/Products/861-Q2286A",
+         "type": "page",
+         "page": null,
+         "section": "Specifications tab",
+         "variant_sku": null,
+         "quote": "Grate Material A.R.E.",
+         "snapshot_sha256": "acaa5c5bbc1eb70d6a407816d4dfdcca3e956f785b2a9c538e05d784ce1d1a63",
+         "retrieved_at": "2026-10-09T22:10:29Z"
+        }
+       ]
+      },
+      {
+       "value": "A.R.E.",
+       "unit": null,
+       "raw_text": "Grate Material A.R.E.",
+       "sources": [
+        {
+         "url": "https://www.siouxchief.com/Products/861-Q2386A",
+         "type": "page",
+         "page": null,
+         "section": "Specifications tab",
+         "variant_sku": null,
+         "quote": "Grate Material A.R.E.",
+         "snapshot_sha256": "fea0fb1852f651da9cf913ed01eed39f3c9731435a46f7b90bdc82fdd5aed100",
+         "retrieved_at": "2026-10-09T22:10:33Z"
+        }
+       ]
+      },
+      {
+       "value": "A.R.E.",
+       "unit": null,
+       "raw_text": "Grate Material A.R.E.",
+       "sources": [
+        {
+         "url": "https://www.siouxchief.com/Products/861-Q2486A",
+         "type": "page",
+         "page": null,
+         "section": "Specifications tab",
+         "variant_sku": null,
+         "quote": "Grate Material A.R.E.",
+         "snapshot_sha256": "4b83473b00b0ccb98bb07f9e0bb9f7f2ddfe678d89521ec8e1fa24e08a80f1b5",
+         "retrieved_at": "2026-10-09T22:10:37Z"
+        }
+       ]
+      },
+      {
+       "value": "A.R.E.",
+       "unit": null,
+       "raw_text": "Grate Material A.R.E.",
+       "sources": [
+        {
+         "url": "https://www.siouxchief.com/Products/861-QF2286A",
+         "type": "page",
+         "page": null,
+         "section": "Specifications tab",
+         "variant_sku": null,
+         "quote": "Grate Material A.R.E.",
+         "snapshot_sha256": "d2b70b0dd01dc726bb0740d09c5749ca98bc0fb9f580925b529949c48eeefee4",
+         "retrieved_at": "2026-10-09T22:10:42Z"
+        }
+       ]
+      },
+      {
+       "value": "A.R.E.",
+       "unit": null,
+       "raw_text": "Grate Material A.R.E.",
+       "sources": [
+        {
+         "url": "https://www.siouxchief.com/Products/861-QF2386A",
+         "type": "page",
+         "page": null,
+         "section": "Specifications tab",
+         "variant_sku": null,
+         "quote": "Grate Material A.R.E.",
+         "snapshot_sha256": "c518e9a59874531f2ce9d19f038766892c5aa67a59d0536979fe1b5a50909167",
+         "retrieved_at": "2026-10-09T22:10:46Z"
+        }
+       ]
+      },
+      {
+       "value": "A.R.E.",
+       "unit": null,
+       "raw_text": "Grate Material A.R.E.",
+       "sources": [
+        {
+         "url": "https://www.siouxchief.com/Products/861-QF2486A",
+         "type": "page",
+         "page": null,
+         "section": "Specifications tab",
+         "variant_sku": null,
+         "quote": "Grate Material A.R.E.",
+         "snapshot_sha256": "061e934d6f830d6b5e76086ccfe8b785bd6ac08e3df8767ac0b99cb7b6120cf0",
+         "retrieved_at": "2026-10-09T22:10:51Z"
+        }
+       ]
+      }
+     ]
     }
    },
    "additional_specs": {
@@ -25682,46 +25729,7 @@
      "sku": "861-Q2286A",
      "size": "2",
      "page_url": "https://www.siouxchief.com/Products/861-Q2286A",
-     "spec_overrides": {
-      "material_trim": {
-       "value": "enamel-coated cast iron",
-       "unit": null,
-       "raw_text": "A = enamel-coated cast iron grate",
-       "conditions": "grate/frame",
-       "display_source": "pdf",
-       "cross_check": "conflict",
-       "sources": [
-        {
-         "url": "https://cdn.siouxchief.com/prodscmwebsite/SpecSheets/861-Q SERIES - 8X8X6 FLOOR SINK - SPEC SHEET.PDF",
-         "type": "pdf",
-         "page": 1,
-         "section": "GRATE TYPE",
-         "quote": "A = enamel-coated cast iron grate",
-         "snapshot_sha256": "57570a939afbe60a00f9180d1183dd6f764db9b0ee6438f115ea4687db8dbf9c",
-         "retrieved_at": "2026-10-09T22:13:38Z"
-        }
-       ],
-       "alt_values": [
-        {
-         "value": "A.R.E.",
-         "unit": null,
-         "raw_text": "Grate Material A.R.E.",
-         "sources": [
-          {
-           "url": "https://www.siouxchief.com/Products/861-Q2286A",
-           "type": "page",
-           "page": null,
-           "section": "Specifications tab",
-           "variant_sku": null,
-           "quote": "Grate Material A.R.E.",
-           "snapshot_sha256": "acaa5c5bbc1eb70d6a407816d4dfdcca3e956f785b2a9c538e05d784ce1d1a63",
-           "retrieved_at": "2026-10-09T22:10:29Z"
-          }
-         ]
-        }
-       ]
-      }
-     },
+     "spec_overrides": {},
      "prices": [
       {
        "amount": null,
@@ -25745,37 +25753,7 @@
      "sku": "861-Q2286N",
      "size": "2",
      "page_url": "https://www.siouxchief.com/Products/861-Q2286N",
-     "spec_overrides": {
-      "material_trim": {
-       "value": "nickel-bronze",
-       "unit": null,
-       "raw_text": "N = Nickel-bronze frame/grate",
-       "conditions": "grate/frame",
-       "display_source": "pdf",
-       "cross_check": "agree",
-       "sources": [
-        {
-         "url": "https://cdn.siouxchief.com/prodscmwebsite/SpecSheets/861-Q SERIES - 8X8X6 FLOOR SINK - SPEC SHEET.PDF",
-         "type": "pdf",
-         "page": 1,
-         "section": "GRATE TYPE",
-         "quote": "N = Nickel-bronze frame/grate",
-         "snapshot_sha256": "57570a939afbe60a00f9180d1183dd6f764db9b0ee6438f115ea4687db8dbf9c",
-         "retrieved_at": "2026-10-09T22:13:38Z"
-        },
-        {
-         "url": "https://www.siouxchief.com/Products/861-Q2286N",
-         "type": "page",
-         "page": null,
-         "section": "Specifications tab",
-         "variant_sku": null,
-         "quote": "Grate Material Nickel-Bronze",
-         "snapshot_sha256": "10cfd563c5e409f6ebd4815d1a8fcf95f4824440cb2b6a86e82594e3e4ea166d",
-         "retrieved_at": "2026-10-09T22:10:30Z"
-        }
-       ]
-      }
-     },
+     "spec_overrides": {},
      "prices": [
       {
        "amount": null,
@@ -25799,37 +25777,7 @@
      "sku": "861-Q2286S",
      "size": "2",
      "page_url": "https://www.siouxchief.com/Products/861-Q2286S",
-     "spec_overrides": {
-      "material_trim": {
-       "value": "stainless steel",
-       "unit": null,
-       "raw_text": "S = Stainless steel frame/grate",
-       "conditions": "grate/frame",
-       "display_source": "pdf",
-       "cross_check": "agree",
-       "sources": [
-        {
-         "url": "https://cdn.siouxchief.com/prodscmwebsite/SpecSheets/861-Q SERIES - 8X8X6 FLOOR SINK - SPEC SHEET.PDF",
-         "type": "pdf",
-         "page": 1,
-         "section": "GRATE TYPE",
-         "quote": "S = Stainless steel frame/grate",
-         "snapshot_sha256": "57570a939afbe60a00f9180d1183dd6f764db9b0ee6438f115ea4687db8dbf9c",
-         "retrieved_at": "2026-10-09T22:13:38Z"
-        },
-        {
-         "url": "https://www.siouxchief.com/Products/861-Q2286S",
-         "type": "page",
-         "page": null,
-         "section": "Specifications tab",
-         "variant_sku": null,
-         "quote": "Grate Material Stainless Steel",
-         "snapshot_sha256": "926d37ab924f641a4ea917b82612ed22abbe6bcb3384c30c269a0c683dfa8783",
-         "retrieved_at": "2026-10-09T22:10:31Z"
-        }
-       ]
-      }
-     },
+     "spec_overrides": {},
      "prices": [
       {
        "amount": null,
@@ -25876,46 +25824,7 @@
      "sku": "861-Q2386A",
      "size": "3",
      "page_url": "https://www.siouxchief.com/Products/861-Q2386A",
-     "spec_overrides": {
-      "material_trim": {
-       "value": "enamel-coated cast iron",
-       "unit": null,
-       "raw_text": "A = enamel-coated cast iron grate",
-       "conditions": "grate/frame",
-       "display_source": "pdf",
-       "cross_check": "conflict",
-       "sources": [
-        {
-         "url": "https://cdn.siouxchief.com/prodscmwebsite/SpecSheets/861-Q SERIES - 8X8X6 FLOOR SINK - SPEC SHEET.PDF",
-         "type": "pdf",
-         "page": 1,
-         "section": "GRATE TYPE",
-         "quote": "A = enamel-coated cast iron grate",
-         "snapshot_sha256": "57570a939afbe60a00f9180d1183dd6f764db9b0ee6438f115ea4687db8dbf9c",
-         "retrieved_at": "2026-10-09T22:13:38Z"
-        }
-       ],
-       "alt_values": [
-        {
-         "value": "A.R.E.",
-         "unit": null,
-         "raw_text": "Grate Material A.R.E.",
-         "sources": [
-          {
-           "url": "https://www.siouxchief.com/Products/861-Q2386A",
-           "type": "page",
-           "page": null,
-           "section": "Specifications tab",
-           "variant_sku": null,
-           "quote": "Grate Material A.R.E.",
-           "snapshot_sha256": "fea0fb1852f651da9cf913ed01eed39f3c9731435a46f7b90bdc82fdd5aed100",
-           "retrieved_at": "2026-10-09T22:10:33Z"
-          }
-         ]
-        }
-       ]
-      }
-     },
+     "spec_overrides": {},
      "prices": [
       {
        "amount": null,
@@ -25939,37 +25848,7 @@
      "sku": "861-Q2386N",
      "size": "3",
      "page_url": "https://www.siouxchief.com/Products/861-Q2386N",
-     "spec_overrides": {
-      "material_trim": {
-       "value": "nickel-bronze",
-       "unit": null,
-       "raw_text": "N = Nickel-bronze frame/grate",
-       "conditions": "grate/frame",
-       "display_source": "pdf",
-       "cross_check": "agree",
-       "sources": [
-        {
-         "url": "https://cdn.siouxchief.com/prodscmwebsite/SpecSheets/861-Q SERIES - 8X8X6 FLOOR SINK - SPEC SHEET.PDF",
-         "type": "pdf",
-         "page": 1,
-         "section": "GRATE TYPE",
-         "quote": "N = Nickel-bronze frame/grate",
-         "snapshot_sha256": "57570a939afbe60a00f9180d1183dd6f764db9b0ee6438f115ea4687db8dbf9c",
-         "retrieved_at": "2026-10-09T22:13:38Z"
-        },
-        {
-         "url": "https://www.siouxchief.com/Products/861-Q2386N",
-         "type": "page",
-         "page": null,
-         "section": "Specifications tab",
-         "variant_sku": null,
-         "quote": "Grate Material Nickel-Bronze",
-         "snapshot_sha256": "6f23b3afa5bc62ed4820dbc55b71707d90212604d2ca73d6d82d4415f6a0163a",
-         "retrieved_at": "2026-10-09T22:10:34Z"
-        }
-       ]
-      }
-     },
+     "spec_overrides": {},
      "prices": [
       {
        "amount": null,
@@ -25993,37 +25872,7 @@
      "sku": "861-Q2386S",
      "size": "3",
      "page_url": "https://www.siouxchief.com/Products/861-Q2386S",
-     "spec_overrides": {
-      "material_trim": {
-       "value": "stainless steel",
-       "unit": null,
-       "raw_text": "S = Stainless steel frame/grate",
-       "conditions": "grate/frame",
-       "display_source": "pdf",
-       "cross_check": "agree",
-       "sources": [
-        {
-         "url": "https://cdn.siouxchief.com/prodscmwebsite/SpecSheets/861-Q SERIES - 8X8X6 FLOOR SINK - SPEC SHEET.PDF",
-         "type": "pdf",
-         "page": 1,
-         "section": "GRATE TYPE",
-         "quote": "S = Stainless steel frame/grate",
-         "snapshot_sha256": "57570a939afbe60a00f9180d1183dd6f764db9b0ee6438f115ea4687db8dbf9c",
-         "retrieved_at": "2026-10-09T22:13:38Z"
-        },
-        {
-         "url": "https://www.siouxchief.com/Products/861-Q2386S",
-         "type": "page",
-         "page": null,
-         "section": "Specifications tab",
-         "variant_sku": null,
-         "quote": "Grate Material Stainless Steel",
-         "snapshot_sha256": "a5a07c72cff934478fc74fa961d0ffeffceac798f5556d1c5ecad4893e0616b6",
-         "retrieved_at": "2026-10-09T22:10:35Z"
-        }
-       ]
-      }
-     },
+     "spec_overrides": {},
      "prices": [
       {
        "amount": null,
@@ -26070,46 +25919,7 @@
      "sku": "861-Q2486A",
      "size": "4",
      "page_url": "https://www.siouxchief.com/Products/861-Q2486A",
-     "spec_overrides": {
-      "material_trim": {
-       "value": "enamel-coated cast iron",
-       "unit": null,
-       "raw_text": "A = enamel-coated cast iron grate",
-       "conditions": "grate/frame",
-       "display_source": "pdf",
-       "cross_check": "conflict",
-       "sources": [
-        {
-         "url": "https://cdn.siouxchief.com/prodscmwebsite/SpecSheets/861-Q SERIES - 8X8X6 FLOOR SINK - SPEC SHEET.PDF",
-         "type": "pdf",
-         "page": 1,
-         "section": "GRATE TYPE",
-         "quote": "A = enamel-coated cast iron grate",
-         "snapshot_sha256": "57570a939afbe60a00f9180d1183dd6f764db9b0ee6438f115ea4687db8dbf9c",
-         "retrieved_at": "2026-10-09T22:13:38Z"
-        }
-       ],
-       "alt_values": [
-        {
-         "value": "A.R.E.",
-         "unit": null,
-         "raw_text": "Grate Material A.R.E.",
-         "sources": [
-          {
-           "url": "https://www.siouxchief.com/Products/861-Q2486A",
-           "type": "page",
-           "page": null,
-           "section": "Specifications tab",
-           "variant_sku": null,
-           "quote": "Grate Material A.R.E.",
-           "snapshot_sha256": "4b83473b00b0ccb98bb07f9e0bb9f7f2ddfe678d89521ec8e1fa24e08a80f1b5",
-           "retrieved_at": "2026-10-09T22:10:37Z"
-          }
-         ]
-        }
-       ]
-      }
-     },
+     "spec_overrides": {},
      "prices": [
       {
        "amount": null,
@@ -26133,37 +25943,7 @@
      "sku": "861-Q2486N",
      "size": "4",
      "page_url": "https://www.siouxchief.com/Products/861-Q2486N",
-     "spec_overrides": {
-      "material_trim": {
-       "value": "nickel-bronze",
-       "unit": null,
-       "raw_text": "N = Nickel-bronze frame/grate",
-       "conditions": "grate/frame",
-       "display_source": "pdf",
-       "cross_check": "agree",
-       "sources": [
-        {
-         "url": "https://cdn.siouxchief.com/prodscmwebsite/SpecSheets/861-Q SERIES - 8X8X6 FLOOR SINK - SPEC SHEET.PDF",
-         "type": "pdf",
-         "page": 1,
-         "section": "GRATE TYPE",
-         "quote": "N = Nickel-bronze frame/grate",
-         "snapshot_sha256": "57570a939afbe60a00f9180d1183dd6f764db9b0ee6438f115ea4687db8dbf9c",
-         "retrieved_at": "2026-10-09T22:13:38Z"
-        },
-        {
-         "url": "https://www.siouxchief.com/Products/861-Q2486N",
-         "type": "page",
-         "page": null,
-         "section": "Specifications tab",
-         "variant_sku": null,
-         "quote": "Grate Material Nickel-Bronze",
-         "snapshot_sha256": "69f317470ce67a0f128d80e425420dd38acadbeb9ef953c3731e460077321faf",
-         "retrieved_at": "2026-10-09T22:10:39Z"
-        }
-       ]
-      }
-     },
+     "spec_overrides": {},
      "prices": [
       {
        "amount": null,
@@ -26187,37 +25967,7 @@
      "sku": "861-Q2486S",
      "size": "4",
      "page_url": "https://www.siouxchief.com/Products/861-Q2486S",
-     "spec_overrides": {
-      "material_trim": {
-       "value": "stainless steel",
-       "unit": null,
-       "raw_text": "S = Stainless steel frame/grate",
-       "conditions": "grate/frame",
-       "display_source": "pdf",
-       "cross_check": "agree",
-       "sources": [
-        {
-         "url": "https://cdn.siouxchief.com/prodscmwebsite/SpecSheets/861-Q SERIES - 8X8X6 FLOOR SINK - SPEC SHEET.PDF",
-         "type": "pdf",
-         "page": 1,
-         "section": "GRATE TYPE",
-         "quote": "S = Stainless steel frame/grate",
-         "snapshot_sha256": "57570a939afbe60a00f9180d1183dd6f764db9b0ee6438f115ea4687db8dbf9c",
-         "retrieved_at": "2026-10-09T22:13:38Z"
-        },
-        {
-         "url": "https://www.siouxchief.com/Products/861-Q2486S",
-         "type": "page",
-         "page": null,
-         "section": "Specifications tab",
-         "variant_sku": null,
-         "quote": "Grate Material Stainless Steel",
-         "snapshot_sha256": "e45b4746186287a100d65fca648dca8f38dcc2799ed3dbdad042866f4a1d492c",
-         "retrieved_at": "2026-10-09T22:10:40Z"
-        }
-       ]
-      }
-     },
+     "spec_overrides": {},
      "prices": [
       {
        "amount": null,
@@ -26264,46 +26014,7 @@
      "sku": "861-QF2286A",
      "size": "2",
      "page_url": "https://www.siouxchief.com/Products/861-QF2286A",
-     "spec_overrides": {
-      "material_trim": {
-       "value": "enamel-coated cast iron",
-       "unit": null,
-       "raw_text": "A = enamel-coated cast iron grate",
-       "conditions": "grate/frame",
-       "display_source": "pdf",
-       "cross_check": "conflict",
-       "sources": [
-        {
-         "url": "https://cdn.siouxchief.com/prodscmwebsite/SpecSheets/861-QF SERIES - 8X8X6 FLOOR SINK - SPEC SHEET.PDF",
-         "type": "pdf",
-         "page": 1,
-         "section": "GRATE TYPE",
-         "quote": "A = enamel-coated cast iron grate",
-         "snapshot_sha256": "1eb8de6cb7cba8b4fe945effec30dbc661f465b91d836b348e1c73e953f3f210",
-         "retrieved_at": "2026-10-09T22:13:39Z"
-        }
-       ],
-       "alt_values": [
-        {
-         "value": "A.R.E.",
-         "unit": null,
-         "raw_text": "Grate Material A.R.E.",
-         "sources": [
-          {
-           "url": "https://www.siouxchief.com/Products/861-QF2286A",
-           "type": "page",
-           "page": null,
-           "section": "Specifications tab",
-           "variant_sku": null,
-           "quote": "Grate Material A.R.E.",
-           "snapshot_sha256": "d2b70b0dd01dc726bb0740d09c5749ca98bc0fb9f580925b529949c48eeefee4",
-           "retrieved_at": "2026-10-09T22:10:42Z"
-          }
-         ]
-        }
-       ]
-      }
-     },
+     "spec_overrides": {},
      "prices": [
       {
        "amount": null,
@@ -26327,37 +26038,7 @@
      "sku": "861-QF2286N",
      "size": "2",
      "page_url": "https://www.siouxchief.com/Products/861-QF2286N",
-     "spec_overrides": {
-      "material_trim": {
-       "value": "nickel-bronze",
-       "unit": null,
-       "raw_text": "N = Nickel-bronze frame/grate",
-       "conditions": "grate/frame",
-       "display_source": "pdf",
-       "cross_check": "agree",
-       "sources": [
-        {
-         "url": "https://cdn.siouxchief.com/prodscmwebsite/SpecSheets/861-QF SERIES - 8X8X6 FLOOR SINK - SPEC SHEET.PDF",
-         "type": "pdf",
-         "page": 1,
-         "section": "GRATE TYPE",
-         "quote": "N = Nickel-bronze frame/grate",
-         "snapshot_sha256": "1eb8de6cb7cba8b4fe945effec30dbc661f465b91d836b348e1c73e953f3f210",
-         "retrieved_at": "2026-10-09T22:13:39Z"
-        },
-        {
-         "url": "https://www.siouxchief.com/Products/861-QF2286N",
-         "type": "page",
-         "page": null,
-         "section": "Specifications tab",
-         "variant_sku": null,
-         "quote": "Grate Material Nickel-Bronze",
-         "snapshot_sha256": "92226c5e132bc692d46cbab02c1688bcab4e649307ae1f97d639913dc205e857",
-         "retrieved_at": "2026-10-09T22:10:43Z"
-        }
-       ]
-      }
-     },
+     "spec_overrides": {},
      "prices": [
       {
        "amount": null,
@@ -26381,37 +26062,7 @@
      "sku": "861-QF2286S",
      "size": "2",
      "page_url": "https://www.siouxchief.com/Products/861-QF2286S",
-     "spec_overrides": {
-      "material_trim": {
-       "value": "stainless steel",
-       "unit": null,
-       "raw_text": "S = Stainless steel frame/grate",
-       "conditions": "grate/frame",
-       "display_source": "pdf",
-       "cross_check": "agree",
-       "sources": [
-        {
-         "url": "https://cdn.siouxchief.com/prodscmwebsite/SpecSheets/861-QF SERIES - 8X8X6 FLOOR SINK - SPEC SHEET.PDF",
-         "type": "pdf",
-         "page": 1,
-         "section": "GRATE TYPE",
-         "quote": "S = Stainless steel frame/grate",
-         "snapshot_sha256": "1eb8de6cb7cba8b4fe945effec30dbc661f465b91d836b348e1c73e953f3f210",
-         "retrieved_at": "2026-10-09T22:13:39Z"
-        },
-        {
-         "url": "https://www.siouxchief.com/Products/861-QF2286S",
-         "type": "page",
-         "page": null,
-         "section": "Specifications tab",
-         "variant_sku": null,
-         "quote": "Grate Material Stainless Steel",
-         "snapshot_sha256": "0d5b7f578051b7096806a1d16987aa97918c83d9b77aa3891accc7a44576af54",
-         "retrieved_at": "2026-10-09T22:10:44Z"
-        }
-       ]
-      }
-     },
+     "spec_overrides": {},
      "prices": [
       {
        "amount": null,
@@ -26458,46 +26109,7 @@
      "sku": "861-QF2386A",
      "size": "3",
      "page_url": "https://www.siouxchief.com/Products/861-QF2386A",
-     "spec_overrides": {
-      "material_trim": {
-       "value": "enamel-coated cast iron",
-       "unit": null,
-       "raw_text": "A = enamel-coated cast iron grate",
-       "conditions": "grate/frame",
-       "display_source": "pdf",
-       "cross_check": "conflict",
-       "sources": [
-        {
-         "url": "https://cdn.siouxchief.com/prodscmwebsite/SpecSheets/861-QF SERIES - 8X8X6 FLOOR SINK - SPEC SHEET.PDF",
-         "type": "pdf",
-         "page": 1,
-         "section": "GRATE TYPE",
-         "quote": "A = enamel-coated cast iron grate",
-         "snapshot_sha256": "1eb8de6cb7cba8b4fe945effec30dbc661f465b91d836b348e1c73e953f3f210",
-         "retrieved_at": "2026-10-09T22:13:39Z"
-        }
-       ],
-       "alt_values": [
-        {
-         "value": "A.R.E.",
-         "unit": null,
-         "raw_text": "Grate Material A.R.E.",
-         "sources": [
-          {
-           "url": "https://www.siouxchief.com/Products/861-QF2386A",
-           "type": "page",
-           "page": null,
-           "section": "Specifications tab",
-           "variant_sku": null,
-           "quote": "Grate Material A.R.E.",
-           "snapshot_sha256": "c518e9a59874531f2ce9d19f038766892c5aa67a59d0536979fe1b5a50909167",
-           "retrieved_at": "2026-10-09T22:10:46Z"
-          }
-         ]
-        }
-       ]
-      }
-     },
+     "spec_overrides": {},
      "prices": [
       {
        "amount": null,
@@ -26521,37 +26133,7 @@
      "sku": "861-QF2386N",
      "size": "3",
      "page_url": "https://www.siouxchief.com/Products/861-QF2386N",
-     "spec_overrides": {
-      "material_trim": {
-       "value": "nickel-bronze",
-       "unit": null,
-       "raw_text": "N = Nickel-bronze frame/grate",
-       "conditions": "grate/frame",
-       "display_source": "pdf",
-       "cross_check": "agree",
-       "sources": [
-        {
-         "url": "https://cdn.siouxchief.com/prodscmwebsite/SpecSheets/861-QF SERIES - 8X8X6 FLOOR SINK - SPEC SHEET.PDF",
-         "type": "pdf",
-         "page": 1,
-         "section": "GRATE TYPE",
-         "quote": "N = Nickel-bronze frame/grate",
-         "snapshot_sha256": "1eb8de6cb7cba8b4fe945effec30dbc661f465b91d836b348e1c73e953f3f210",
-         "retrieved_at": "2026-10-09T22:13:39Z"
-        },
-        {
-         "url": "https://www.siouxchief.com/Products/861-QF2386N",
-         "type": "page",
-         "page": null,
-         "section": "Specifications tab",
-         "variant_sku": null,
-         "quote": "Grate Material Nickel-Bronze",
-         "snapshot_sha256": "724e6a79da9e974291a25d2e3beee379efefe261c56b070b47bad74647a855d9",
-         "retrieved_at": "2026-10-09T22:10:47Z"
-        }
-       ]
-      }
-     },
+     "spec_overrides": {},
      "prices": [
       {
        "amount": null,
@@ -26575,37 +26157,7 @@
      "sku": "861-QF2386S",
      "size": "3",
      "page_url": "https://www.siouxchief.com/Products/861-QF2386S",
-     "spec_overrides": {
-      "material_trim": {
-       "value": "stainless steel",
-       "unit": null,
-       "raw_text": "S = Stainless steel frame/grate",
-       "conditions": "grate/frame",
-       "display_source": "pdf",
-       "cross_check": "agree",
-       "sources": [
-        {
-         "url": "https://cdn.siouxchief.com/prodscmwebsite/SpecSheets/861-QF SERIES - 8X8X6 FLOOR SINK - SPEC SHEET.PDF",
-         "type": "pdf",
-         "page": 1,
-         "section": "GRATE TYPE",
-         "quote": "S = Stainless steel frame/grate",
-         "snapshot_sha256": "1eb8de6cb7cba8b4fe945effec30dbc661f465b91d836b348e1c73e953f3f210",
-         "retrieved_at": "2026-10-09T22:13:39Z"
-        },
-        {
-         "url": "https://www.siouxchief.com/Products/861-QF2386S",
-         "type": "page",
-         "page": null,
-         "section": "Specifications tab",
-         "variant_sku": null,
-         "quote": "Grate Material Stainless Steel",
-         "snapshot_sha256": "8d75324d7573aed8a5b2603c6dc918e59051d7a53e30c67f914ceba4d54468ac",
-         "retrieved_at": "2026-10-09T22:10:49Z"
-        }
-       ]
-      }
-     },
+     "spec_overrides": {},
      "prices": [
       {
        "amount": null,
@@ -26652,46 +26204,7 @@
      "sku": "861-QF2486A",
      "size": "4",
      "page_url": "https://www.siouxchief.com/Products/861-QF2486A",
-     "spec_overrides": {
-      "material_trim": {
-       "value": "enamel-coated cast iron",
-       "unit": null,
-       "raw_text": "A = enamel-coated cast iron grate",
-       "conditions": "grate/frame",
-       "display_source": "pdf",
-       "cross_check": "conflict",
-       "sources": [
-        {
-         "url": "https://cdn.siouxchief.com/prodscmwebsite/SpecSheets/861-QF SERIES - 8X8X6 FLOOR SINK - SPEC SHEET.PDF",
-         "type": "pdf",
-         "page": 1,
-         "section": "GRATE TYPE",
-         "quote": "A = enamel-coated cast iron grate",
-         "snapshot_sha256": "1eb8de6cb7cba8b4fe945effec30dbc661f465b91d836b348e1c73e953f3f210",
-         "retrieved_at": "2026-10-09T22:13:39Z"
-        }
-       ],
-       "alt_values": [
-        {
-         "value": "A.R.E.",
-         "unit": null,
-         "raw_text": "Grate Material A.R.E.",
-         "sources": [
-          {
-           "url": "https://www.siouxchief.com/Products/861-QF2486A",
-           "type": "page",
-           "page": null,
-           "section": "Specifications tab",
-           "variant_sku": null,
-           "quote": "Grate Material A.R.E.",
-           "snapshot_sha256": "061e934d6f830d6b5e76086ccfe8b785bd6ac08e3df8767ac0b99cb7b6120cf0",
-           "retrieved_at": "2026-10-09T22:10:51Z"
-          }
-         ]
-        }
-       ]
-      }
-     },
+     "spec_overrides": {},
      "prices": [
       {
        "amount": null,
@@ -26715,37 +26228,7 @@
      "sku": "861-QF2486N",
      "size": "4",
      "page_url": "https://www.siouxchief.com/Products/861-QF2486N",
-     "spec_overrides": {
-      "material_trim": {
-       "value": "nickel-bronze",
-       "unit": null,
-       "raw_text": "N = Nickel-bronze frame/grate",
-       "conditions": "grate/frame",
-       "display_source": "pdf",
-       "cross_check": "agree",
-       "sources": [
-        {
-         "url": "https://cdn.siouxchief.com/prodscmwebsite/SpecSheets/861-QF SERIES - 8X8X6 FLOOR SINK - SPEC SHEET.PDF",
-         "type": "pdf",
-         "page": 1,
-         "section": "GRATE TYPE",
-         "quote": "N = Nickel-bronze frame/grate",
-         "snapshot_sha256": "1eb8de6cb7cba8b4fe945effec30dbc661f465b91d836b348e1c73e953f3f210",
-         "retrieved_at": "2026-10-09T22:13:39Z"
-        },
-        {
-         "url": "https://www.siouxchief.com/Products/861-QF2486N",
-         "type": "page",
-         "page": null,
-         "section": "Specifications tab",
-         "variant_sku": null,
-         "quote": "Grate Material Nickel-Bronze",
-         "snapshot_sha256": "7eea1e2b765adf9b04cfaa601e4e849d74a1cd24cf9ebaac68cacfddad9646cc",
-         "retrieved_at": "2026-10-09T22:10:52Z"
-        }
-       ]
-      }
-     },
+     "spec_overrides": {},
      "prices": [
       {
        "amount": null,
@@ -26769,37 +26252,7 @@
      "sku": "861-QF2486S",
      "size": "4",
      "page_url": "https://www.siouxchief.com/Products/861-QF2486S",
-     "spec_overrides": {
-      "material_trim": {
-       "value": "stainless steel",
-       "unit": null,
-       "raw_text": "S = Stainless steel frame/grate",
-       "conditions": "grate/frame",
-       "display_source": "pdf",
-       "cross_check": "agree",
-       "sources": [
-        {
-         "url": "https://cdn.siouxchief.com/prodscmwebsite/SpecSheets/861-QF SERIES - 8X8X6 FLOOR SINK - SPEC SHEET.PDF",
-         "type": "pdf",
-         "page": 1,
-         "section": "GRATE TYPE",
-         "quote": "S = Stainless steel frame/grate",
-         "snapshot_sha256": "1eb8de6cb7cba8b4fe945effec30dbc661f465b91d836b348e1c73e953f3f210",
-         "retrieved_at": "2026-10-09T22:13:39Z"
-        },
-        {
-         "url": "https://www.siouxchief.com/Products/861-QF2486S",
-         "type": "page",
-         "page": null,
-         "section": "Specifications tab",
-         "variant_sku": null,
-         "quote": "Grate Material Stainless Steel",
-         "snapshot_sha256": "1cf23c4a2b15bba2ebce863617a1279096b54be100fcad3229337b510f700696",
-         "retrieved_at": "2026-10-09T22:10:53Z"
-        }
-       ]
-      }
-     },
+     "spec_overrides": {},
      "prices": [
       {
        "amount": null,
@@ -27422,6 +26875,247 @@
        "retrieved_at": "2026-10-09T22:16:47Z"
       }
      ]
+    },
+    "material_body": {
+     "value": "fiber-reinforced concrete, ductile iron",
+     "unit": null,
+     "raw_text": "Basin Body: Fiber-reinforced concrete; Ductile iron (ASTM A536 70-50-05)",
+     "conditions": "catch basin body",
+     "display_source": "pdf",
+     "cross_check": "agree",
+     "sources": [
+      {
+       "url": "https://cdn.siouxchief.com/prodscmwebsite/SpecSheets/865 SERIES - HYDROTEC MAXI 300 CATCH BASIN - SPEC SHEET.PDF",
+       "type": "pdf",
+       "page": 1,
+       "section": "MATERIALS",
+       "quote": "Basin Body: Fiber-reinforced concrete",
+       "snapshot_sha256": "b3f32c8c07807f0c8fe5bb2230e8c9e9b59a4d73e75dc4bb9146d54752fa81d9",
+       "retrieved_at": "2026-10-09T22:16:35Z"
+      },
+      {
+       "url": "https://cdn.siouxchief.com/prodscmwebsite/SpecSheets/865 SERIES - HYDROTEC MAXI 400 CATCH BASIN - SPEC SHEET.PDF",
+       "type": "pdf",
+       "page": 1,
+       "section": "MATERIALS",
+       "quote": "Basin Body: Fiber-reinforced concrete",
+       "snapshot_sha256": "3ae801be514a35025f1a137a986e97b2f46d1a5aed130c2a8d8b79118ba96501",
+       "retrieved_at": "2026-10-09T22:16:36Z"
+      },
+      {
+       "url": "https://cdn.siouxchief.com/prodscmwebsite/SpecSheets/865 SERIES - HYDROTEC MAXI 100 CATCH BASIN - SPEC SHEET.PDF",
+       "type": "pdf",
+       "page": 1,
+       "section": "MATERIALS",
+       "quote": "Basin Body: Fiber-reinforced concrete",
+       "snapshot_sha256": "ea5b5383e11c9b46a642b405a758569cbc294ddb286b44fea44f784867e83068",
+       "retrieved_at": "2026-10-09T22:16:37Z"
+      },
+      {
+       "url": "https://cdn.siouxchief.com/prodscmwebsite/SpecSheets/865-M4DICH - HYDROTEC MAXI 100 GRATE CLASS C250 - SPEC SHEET.PDF",
+       "type": "pdf",
+       "page": 1,
+       "section": "MATERIALS",
+       "quote": "Ductile iron (ASTM A536 70-50-05)",
+       "snapshot_sha256": "ee71cadf1de2931c4850afd471b269596c086daf60842b4d65a104c692e296a3",
+       "retrieved_at": "2026-10-09T22:16:38Z"
+      },
+      {
+       "url": "https://www.siouxchief.com/Products/865-M4DICH",
+       "type": "page",
+       "page": null,
+       "section": "page header",
+       "variant_sku": null,
+       "quote": "Grates - Half-Meter, Class C, Ductile Iron, Heel Proof Slot",
+       "snapshot_sha256": "1a6685af804aeb8d4c858fa1e026781a34f2d19782e361e54de8308182d36a00",
+       "retrieved_at": "2026-10-09T22:11:25Z"
+      },
+      {
+       "url": "https://cdn.siouxchief.com/prodscmwebsite/SpecSheets/865-M4DICT - HYDROTEC MAXI 100 GRATE CLASS C250 - SPEC SHEET.PDF",
+       "type": "pdf",
+       "page": 1,
+       "section": "MATERIALS",
+       "quote": "Ductile iron (ASTM A536 70-50-05)",
+       "snapshot_sha256": "b561ca6d38ea1b5faa1fbb3f42f39729a6bae1977c96c6ec3266cf2b3feb1d04",
+       "retrieved_at": "2026-10-09T22:16:39Z"
+      },
+      {
+       "url": "https://www.siouxchief.com/Products/865-M4DICT",
+       "type": "page",
+       "page": null,
+       "section": "page header",
+       "variant_sku": null,
+       "quote": "Grates - Half-Meter, Class C, Ductile Iron, Transverse Slot",
+       "snapshot_sha256": "56f71cc6a61fcb111e1b98452c9fe1026d0fed220a47314442eabce01363bd90",
+       "retrieved_at": "2026-10-09T22:11:26Z"
+      },
+      {
+       "url": "https://cdn.siouxchief.com/prodscmwebsite/SpecSheets/865-M4DIDL - HYDROTEC MAXI 100 GRATE CLASS D400 - SPEC SHEET.PDF",
+       "type": "pdf",
+       "page": 1,
+       "section": "MATERIALS",
+       "quote": "Ductile iron (ASTM A536 70-50-05)",
+       "snapshot_sha256": "ca18f9fb6fb8c5ae835baf0e35800d40f3e6b7087e2739028aee49bb3cd8c183",
+       "retrieved_at": "2026-10-09T22:16:40Z"
+      },
+      {
+       "url": "https://www.siouxchief.com/Products/865-M4DIDL",
+       "type": "page",
+       "page": null,
+       "section": "page header",
+       "variant_sku": null,
+       "quote": "Grates - Half-Meter, Class D, Ductile Iron, Long Slot, ADA",
+       "snapshot_sha256": "6333f8e743773b7734345cd4e2443e259a61a945e4e92501e567eafa17a7f2b6",
+       "retrieved_at": "2026-10-09T22:11:27Z"
+      },
+      {
+       "url": "https://cdn.siouxchief.com/prodscmwebsite/SpecSheets/865-M4DIEM - HYDROTEC MAXI 100 GRATE CLASS E600 - SPEC SHEET.PDF",
+       "type": "pdf",
+       "page": 1,
+       "section": "MATERIALS",
+       "quote": "Ductile iron (ASTM A536 70-50-05)",
+       "snapshot_sha256": "17aee1556101cffafa4d91debca8681d06e6a98b1c0d910b3045e675244e66c2",
+       "retrieved_at": "2026-10-09T22:16:41Z"
+      },
+      {
+       "url": "https://www.siouxchief.com/Products/865-M4DIEM",
+       "type": "page",
+       "page": null,
+       "section": "page header",
+       "variant_sku": null,
+       "quote": "Grates - Half-Meter, Class E, Ductile Iron, Mesh",
+       "snapshot_sha256": "3b686b32c16dadf56df2670b3eab479bcc562c15f7f2163737dcac1cc6c296e5",
+       "retrieved_at": "2026-10-09T22:11:28Z"
+      },
+      {
+       "url": "https://cdn.siouxchief.com/prodscmwebsite/SpecSheets/865-M4DIFL - HYDROTEC MAXI 100 GRATE CLASS F900 - SPEC SHEET.PDF",
+       "type": "pdf",
+       "page": 1,
+       "section": "MATERIALS",
+       "quote": "Ductile iron (ASTM A536 70-50-05)",
+       "snapshot_sha256": "4fa85770c9c5b36a265f38ecda5c7ee35b8c0763a74af822cada28729e368af6",
+       "retrieved_at": "2026-10-09T22:16:42Z"
+      },
+      {
+       "url": "https://www.siouxchief.com/Products/865-M4DIFL",
+       "type": "page",
+       "page": null,
+       "section": "page header",
+       "variant_sku": null,
+       "quote": "Grates - Half-Meter, Class F, Ductile Iron, Long Slot, ADA",
+       "snapshot_sha256": "4aef2760e02d256451383c93a12f01006ba29ffb7c1102e252ae16be7864e631",
+       "retrieved_at": "2026-10-09T22:11:30Z"
+      },
+      {
+       "url": "https://cdn.siouxchief.com/prodscmwebsite/SpecSheets/865 SERIES - HYDROTEC MAXI 150 CLASS D400-F900 CATCH BASIN - SPEC SHEET.PDF",
+       "type": "pdf",
+       "page": 1,
+       "section": "MATERIALS",
+       "quote": "Basin Body: Fiber-reinforced concrete",
+       "snapshot_sha256": "ede9d90cae06a8b5a3ddc6cfe780c526381745314469dadf1f66c22598d7070c",
+       "retrieved_at": "2026-10-09T22:16:43Z"
+      },
+      {
+       "url": "https://cdn.siouxchief.com/prodscmwebsite/SpecSheets/865 SERIES - HYDROTEC MAXI 150 F1 CLASS F900 CATCH BASIN - SPEC SHEET.PDF",
+       "type": "pdf",
+       "page": 1,
+       "section": "MATERIALS",
+       "quote": "Basin Body: Fiber-reinforced concrete",
+       "snapshot_sha256": "630f34fd22646b7876935d2712c9800d9a895439f4892ab602faeea1d7adad98",
+       "retrieved_at": "2026-10-09T22:16:44Z"
+      },
+      {
+       "url": "https://cdn.siouxchief.com/prodscmwebsite/SpecSheets/865 SERIES - HYDROTEC MAXI 200 CATCH BASIN - SPEC SHEET.PDF",
+       "type": "pdf",
+       "page": 1,
+       "section": "MATERIALS",
+       "quote": "Basin Body: Fiber-reinforced concrete",
+       "snapshot_sha256": "db6c77c9a72a9390b249f923fb763f62a06ebf165e9ed72229237a9dfb2f6549",
+       "retrieved_at": "2026-10-09T22:16:46Z"
+      },
+      {
+       "url": "https://cdn.siouxchief.com/prodscmwebsite/SpecSheets/865 SERIES - HYDROTEC MAXI 200 F1 CATCH BASIN - SPEC SHEET.PDF",
+       "type": "pdf",
+       "page": 1,
+       "section": "MATERIALS",
+       "quote": "Basin Body: Fiber-reinforced concrete",
+       "snapshot_sha256": "46337c50490e02f52688927441f850fe6079c0701edd01a145d76e006d7572c4",
+       "retrieved_at": "2026-10-09T22:16:47Z"
+      }
+     ]
+    },
+    "material_trim": {
+     "value": "ductile iron",
+     "unit": null,
+     "raw_text": "Grating: Ductile iron (ASTM A536 70-50-05)",
+     "conditions": "grating and edge rails",
+     "display_source": "pdf",
+     "cross_check": "pdf_only",
+     "sources": [
+      {
+       "url": "https://cdn.siouxchief.com/prodscmwebsite/SpecSheets/865 SERIES - HYDROTEC MAXI 300 CATCH BASIN - SPEC SHEET.PDF",
+       "type": "pdf",
+       "page": 1,
+       "section": "MATERIALS",
+       "quote": "Grating: Ductile iron (ASTM A536 70-50-05)",
+       "snapshot_sha256": "b3f32c8c07807f0c8fe5bb2230e8c9e9b59a4d73e75dc4bb9146d54752fa81d9",
+       "retrieved_at": "2026-10-09T22:16:35Z"
+      },
+      {
+       "url": "https://cdn.siouxchief.com/prodscmwebsite/SpecSheets/865 SERIES - HYDROTEC MAXI 400 CATCH BASIN - SPEC SHEET.PDF",
+       "type": "pdf",
+       "page": 1,
+       "section": "MATERIALS",
+       "quote": "Grating: Ductile iron (ASTM A536 70-50-05)",
+       "snapshot_sha256": "3ae801be514a35025f1a137a986e97b2f46d1a5aed130c2a8d8b79118ba96501",
+       "retrieved_at": "2026-10-09T22:16:36Z"
+      },
+      {
+       "url": "https://cdn.siouxchief.com/prodscmwebsite/SpecSheets/865 SERIES - HYDROTEC MAXI 100 CATCH BASIN - SPEC SHEET.PDF",
+       "type": "pdf",
+       "page": 1,
+       "section": "MATERIALS",
+       "quote": "Grating: Ductile iron (ASTM A536 70-50-05)",
+       "snapshot_sha256": "ea5b5383e11c9b46a642b405a758569cbc294ddb286b44fea44f784867e83068",
+       "retrieved_at": "2026-10-09T22:16:37Z"
+      },
+      {
+       "url": "https://cdn.siouxchief.com/prodscmwebsite/SpecSheets/865 SERIES - HYDROTEC MAXI 150 CLASS D400-F900 CATCH BASIN - SPEC SHEET.PDF",
+       "type": "pdf",
+       "page": 1,
+       "section": "MATERIALS",
+       "quote": "Grating: Ductile iron (ASTM A536 70-50-05)",
+       "snapshot_sha256": "ede9d90cae06a8b5a3ddc6cfe780c526381745314469dadf1f66c22598d7070c",
+       "retrieved_at": "2026-10-09T22:16:43Z"
+      },
+      {
+       "url": "https://cdn.siouxchief.com/prodscmwebsite/SpecSheets/865 SERIES - HYDROTEC MAXI 150 F1 CLASS F900 CATCH BASIN - SPEC SHEET.PDF",
+       "type": "pdf",
+       "page": 1,
+       "section": "MATERIALS",
+       "quote": "Grating: Ductile iron (ASTM A536 70-50-05)",
+       "snapshot_sha256": "630f34fd22646b7876935d2712c9800d9a895439f4892ab602faeea1d7adad98",
+       "retrieved_at": "2026-10-09T22:16:44Z"
+      },
+      {
+       "url": "https://cdn.siouxchief.com/prodscmwebsite/SpecSheets/865 SERIES - HYDROTEC MAXI 200 CATCH BASIN - SPEC SHEET.PDF",
+       "type": "pdf",
+       "page": 1,
+       "section": "MATERIALS",
+       "quote": "Grating: Ductile iron (ASTM A536 70-50-05)",
+       "snapshot_sha256": "db6c77c9a72a9390b249f923fb763f62a06ebf165e9ed72229237a9dfb2f6549",
+       "retrieved_at": "2026-10-09T22:16:46Z"
+      },
+      {
+       "url": "https://cdn.siouxchief.com/prodscmwebsite/SpecSheets/865 SERIES - HYDROTEC MAXI 200 F1 CATCH BASIN - SPEC SHEET.PDF",
+       "type": "pdf",
+       "page": 1,
+       "section": "MATERIALS",
+       "quote": "Grating: Ductile iron (ASTM A536 70-50-05)",
+       "snapshot_sha256": "46337c50490e02f52688927441f850fe6079c0701edd01a145d76e006d7572c4",
+       "retrieved_at": "2026-10-09T22:16:47Z"
+      }
+     ]
     }
    },
    "additional_specs": {
@@ -27962,46 +27656,7 @@
      "sku": "865-M12PCBEA",
      "size": "12",
      "page_url": "https://www.siouxchief.com/Products/865-M12PCBEA",
-     "spec_overrides": {
-      "material_body": {
-       "value": "fiber-reinforced concrete",
-       "unit": null,
-       "raw_text": "Basin Body: Fiber-reinforced concrete",
-       "conditions": "catch basin body",
-       "display_source": "pdf",
-       "cross_check": "pdf_only",
-       "sources": [
-        {
-         "url": "https://cdn.siouxchief.com/prodscmwebsite/SpecSheets/865 SERIES - HYDROTEC MAXI 300 CATCH BASIN - SPEC SHEET.PDF",
-         "type": "pdf",
-         "page": 1,
-         "section": "MATERIALS",
-         "quote": "Basin Body: Fiber-reinforced concrete",
-         "snapshot_sha256": "b3f32c8c07807f0c8fe5bb2230e8c9e9b59a4d73e75dc4bb9146d54752fa81d9",
-         "retrieved_at": "2026-10-09T22:16:35Z"
-        }
-       ]
-      },
-      "material_trim": {
-       "value": "ductile iron",
-       "unit": null,
-       "raw_text": "Grating: Ductile iron (ASTM A536 70-50-05)",
-       "conditions": "grating and edge rails",
-       "display_source": "pdf",
-       "cross_check": "pdf_only",
-       "sources": [
-        {
-         "url": "https://cdn.siouxchief.com/prodscmwebsite/SpecSheets/865 SERIES - HYDROTEC MAXI 300 CATCH BASIN - SPEC SHEET.PDF",
-         "type": "pdf",
-         "page": 1,
-         "section": "MATERIALS",
-         "quote": "Grating: Ductile iron (ASTM A536 70-50-05)",
-         "snapshot_sha256": "b3f32c8c07807f0c8fe5bb2230e8c9e9b59a4d73e75dc4bb9146d54752fa81d9",
-         "retrieved_at": "2026-10-09T22:16:35Z"
-        }
-       ]
-      }
-     },
+     "spec_overrides": {},
      "prices": [
       {
        "amount": null,
@@ -28025,46 +27680,7 @@
      "sku": "865-M12PCBFA",
      "size": "12",
      "page_url": "https://www.siouxchief.com/Products/865-M12PCBFA",
-     "spec_overrides": {
-      "material_body": {
-       "value": "fiber-reinforced concrete",
-       "unit": null,
-       "raw_text": "Basin Body: Fiber-reinforced concrete",
-       "conditions": "catch basin body",
-       "display_source": "pdf",
-       "cross_check": "pdf_only",
-       "sources": [
-        {
-         "url": "https://cdn.siouxchief.com/prodscmwebsite/SpecSheets/865 SERIES - HYDROTEC MAXI 300 CATCH BASIN - SPEC SHEET.PDF",
-         "type": "pdf",
-         "page": 1,
-         "section": "MATERIALS",
-         "quote": "Basin Body: Fiber-reinforced concrete",
-         "snapshot_sha256": "b3f32c8c07807f0c8fe5bb2230e8c9e9b59a4d73e75dc4bb9146d54752fa81d9",
-         "retrieved_at": "2026-10-09T22:16:35Z"
-        }
-       ]
-      },
-      "material_trim": {
-       "value": "ductile iron",
-       "unit": null,
-       "raw_text": "Grating: Ductile iron (ASTM A536 70-50-05)",
-       "conditions": "grating and edge rails",
-       "display_source": "pdf",
-       "cross_check": "pdf_only",
-       "sources": [
-        {
-         "url": "https://cdn.siouxchief.com/prodscmwebsite/SpecSheets/865 SERIES - HYDROTEC MAXI 300 CATCH BASIN - SPEC SHEET.PDF",
-         "type": "pdf",
-         "page": 1,
-         "section": "MATERIALS",
-         "quote": "Grating: Ductile iron (ASTM A536 70-50-05)",
-         "snapshot_sha256": "b3f32c8c07807f0c8fe5bb2230e8c9e9b59a4d73e75dc4bb9146d54752fa81d9",
-         "retrieved_at": "2026-10-09T22:16:35Z"
-        }
-       ]
-      }
-     },
+     "spec_overrides": {},
      "prices": [
       {
        "amount": null,
@@ -28088,46 +27704,7 @@
      "sku": "865-M16PCBEA",
      "size": "16",
      "page_url": "https://www.siouxchief.com/Products/865-M16PCBEA",
-     "spec_overrides": {
-      "material_body": {
-       "value": "fiber-reinforced concrete",
-       "unit": null,
-       "raw_text": "Basin Body: Fiber-reinforced concrete",
-       "conditions": "catch basin body",
-       "display_source": "pdf",
-       "cross_check": "pdf_only",
-       "sources": [
-        {
-         "url": "https://cdn.siouxchief.com/prodscmwebsite/SpecSheets/865 SERIES - HYDROTEC MAXI 400 CATCH BASIN - SPEC SHEET.PDF",
-         "type": "pdf",
-         "page": 1,
-         "section": "MATERIALS",
-         "quote": "Basin Body: Fiber-reinforced concrete",
-         "snapshot_sha256": "3ae801be514a35025f1a137a986e97b2f46d1a5aed130c2a8d8b79118ba96501",
-         "retrieved_at": "2026-10-09T22:16:36Z"
-        }
-       ]
-      },
-      "material_trim": {
-       "value": "ductile iron",
-       "unit": null,
-       "raw_text": "Grating: Ductile iron (ASTM A536 70-50-05)",
-       "conditions": "grating and edge rails",
-       "display_source": "pdf",
-       "cross_check": "pdf_only",
-       "sources": [
-        {
-         "url": "https://cdn.siouxchief.com/prodscmwebsite/SpecSheets/865 SERIES - HYDROTEC MAXI 400 CATCH BASIN - SPEC SHEET.PDF",
-         "type": "pdf",
-         "page": 1,
-         "section": "MATERIALS",
-         "quote": "Grating: Ductile iron (ASTM A536 70-50-05)",
-         "snapshot_sha256": "3ae801be514a35025f1a137a986e97b2f46d1a5aed130c2a8d8b79118ba96501",
-         "retrieved_at": "2026-10-09T22:16:36Z"
-        }
-       ]
-      }
-     },
+     "spec_overrides": {},
      "prices": [
       {
        "amount": null,
@@ -28151,46 +27728,7 @@
      "sku": "865-M16PCBFA",
      "size": "16",
      "page_url": "https://www.siouxchief.com/Products/865-M16PCBFA",
-     "spec_overrides": {
-      "material_body": {
-       "value": "fiber-reinforced concrete",
-       "unit": null,
-       "raw_text": "Basin Body: Fiber-reinforced concrete",
-       "conditions": "catch basin body",
-       "display_source": "pdf",
-       "cross_check": "pdf_only",
-       "sources": [
-        {
-         "url": "https://cdn.siouxchief.com/prodscmwebsite/SpecSheets/865 SERIES - HYDROTEC MAXI 400 CATCH BASIN - SPEC SHEET.PDF",
-         "type": "pdf",
-         "page": 1,
-         "section": "MATERIALS",
-         "quote": "Basin Body: Fiber-reinforced concrete",
-         "snapshot_sha256": "3ae801be514a35025f1a137a986e97b2f46d1a5aed130c2a8d8b79118ba96501",
-         "retrieved_at": "2026-10-09T22:16:36Z"
-        }
-       ]
-      },
-      "material_trim": {
-       "value": "ductile iron",
-       "unit": null,
-       "raw_text": "Grating: Ductile iron (ASTM A536 70-50-05)",
-       "conditions": "grating and edge rails",
-       "display_source": "pdf",
-       "cross_check": "pdf_only",
-       "sources": [
-        {
-         "url": "https://cdn.siouxchief.com/prodscmwebsite/SpecSheets/865 SERIES - HYDROTEC MAXI 400 CATCH BASIN - SPEC SHEET.PDF",
-         "type": "pdf",
-         "page": 1,
-         "section": "MATERIALS",
-         "quote": "Grating: Ductile iron (ASTM A536 70-50-05)",
-         "snapshot_sha256": "3ae801be514a35025f1a137a986e97b2f46d1a5aed130c2a8d8b79118ba96501",
-         "retrieved_at": "2026-10-09T22:16:36Z"
-        }
-       ]
-      }
-     },
+     "spec_overrides": {},
      "prices": [
       {
        "amount": null,
@@ -28214,46 +27752,7 @@
      "sku": "865-M4CB",
      "size": "4",
      "page_url": "https://www.siouxchief.com/Products/865-M4CB",
-     "spec_overrides": {
-      "material_body": {
-       "value": "fiber-reinforced concrete",
-       "unit": null,
-       "raw_text": "Basin Body: Fiber-reinforced concrete",
-       "conditions": "catch basin body",
-       "display_source": "pdf",
-       "cross_check": "pdf_only",
-       "sources": [
-        {
-         "url": "https://cdn.siouxchief.com/prodscmwebsite/SpecSheets/865 SERIES - HYDROTEC MAXI 100 CATCH BASIN - SPEC SHEET.PDF",
-         "type": "pdf",
-         "page": 1,
-         "section": "MATERIALS",
-         "quote": "Basin Body: Fiber-reinforced concrete",
-         "snapshot_sha256": "ea5b5383e11c9b46a642b405a758569cbc294ddb286b44fea44f784867e83068",
-         "retrieved_at": "2026-10-09T22:16:37Z"
-        }
-       ]
-      },
-      "material_trim": {
-       "value": "ductile iron",
-       "unit": null,
-       "raw_text": "Grating: Ductile iron (ASTM A536 70-50-05)",
-       "conditions": "grating and edge rails",
-       "display_source": "pdf",
-       "cross_check": "pdf_only",
-       "sources": [
-        {
-         "url": "https://cdn.siouxchief.com/prodscmwebsite/SpecSheets/865 SERIES - HYDROTEC MAXI 100 CATCH BASIN - SPEC SHEET.PDF",
-         "type": "pdf",
-         "page": 1,
-         "section": "MATERIALS",
-         "quote": "Grating: Ductile iron (ASTM A536 70-50-05)",
-         "snapshot_sha256": "ea5b5383e11c9b46a642b405a758569cbc294ddb286b44fea44f784867e83068",
-         "retrieved_at": "2026-10-09T22:16:37Z"
-        }
-       ]
-      }
-     },
+     "spec_overrides": {},
      "prices": [
       {
        "amount": null,
@@ -28277,37 +27776,7 @@
      "sku": "865-M4DICH",
      "size": "4",
      "page_url": "https://www.siouxchief.com/Products/865-M4DICH",
-     "spec_overrides": {
-      "material_body": {
-       "value": "ductile iron",
-       "unit": null,
-       "raw_text": "Ductile iron (ASTM A536 70-50-05)",
-       "conditions": "grate",
-       "display_source": "pdf",
-       "cross_check": "agree",
-       "sources": [
-        {
-         "url": "https://cdn.siouxchief.com/prodscmwebsite/SpecSheets/865-M4DICH - HYDROTEC MAXI 100 GRATE CLASS C250 - SPEC SHEET.PDF",
-         "type": "pdf",
-         "page": 1,
-         "section": "MATERIALS",
-         "quote": "Ductile iron (ASTM A536 70-50-05)",
-         "snapshot_sha256": "ee71cadf1de2931c4850afd471b269596c086daf60842b4d65a104c692e296a3",
-         "retrieved_at": "2026-10-09T22:16:38Z"
-        },
-        {
-         "url": "https://www.siouxchief.com/Products/865-M4DICH",
-         "type": "page",
-         "page": null,
-         "section": "page header",
-         "variant_sku": null,
-         "quote": "Grates - Half-Meter, Class C, Ductile Iron, Heel Proof Slot",
-         "snapshot_sha256": "1a6685af804aeb8d4c858fa1e026781a34f2d19782e361e54de8308182d36a00",
-         "retrieved_at": "2026-10-09T22:11:25Z"
-        }
-       ]
-      }
-     },
+     "spec_overrides": {},
      "prices": [
       {
        "amount": null,
@@ -28331,37 +27800,7 @@
      "sku": "865-M4DICT",
      "size": "4",
      "page_url": "https://www.siouxchief.com/Products/865-M4DICT",
-     "spec_overrides": {
-      "material_body": {
-       "value": "ductile iron",
-       "unit": null,
-       "raw_text": "Ductile iron (ASTM A536 70-50-05)",
-       "conditions": "grate",
-       "display_source": "pdf",
-       "cross_check": "agree",
-       "sources": [
-        {
-         "url": "https://cdn.siouxchief.com/prodscmwebsite/SpecSheets/865-M4DICT - HYDROTEC MAXI 100 GRATE CLASS C250 - SPEC SHEET.PDF",
-         "type": "pdf",
-         "page": 1,
-         "section": "MATERIALS",
-         "quote": "Ductile iron (ASTM A536 70-50-05)",
-         "snapshot_sha256": "b561ca6d38ea1b5faa1fbb3f42f39729a6bae1977c96c6ec3266cf2b3feb1d04",
-         "retrieved_at": "2026-10-09T22:16:39Z"
-        },
-        {
-         "url": "https://www.siouxchief.com/Products/865-M4DICT",
-         "type": "page",
-         "page": null,
-         "section": "page header",
-         "variant_sku": null,
-         "quote": "Grates - Half-Meter, Class C, Ductile Iron, Transverse Slot",
-         "snapshot_sha256": "56f71cc6a61fcb111e1b98452c9fe1026d0fed220a47314442eabce01363bd90",
-         "retrieved_at": "2026-10-09T22:11:26Z"
-        }
-       ]
-      }
-     },
+     "spec_overrides": {},
      "prices": [
       {
        "amount": null,
@@ -28385,37 +27824,7 @@
      "sku": "865-M4DIDL",
      "size": "4",
      "page_url": "https://www.siouxchief.com/Products/865-M4DIDL",
-     "spec_overrides": {
-      "material_body": {
-       "value": "ductile iron",
-       "unit": null,
-       "raw_text": "Ductile iron (ASTM A536 70-50-05)",
-       "conditions": "grate",
-       "display_source": "pdf",
-       "cross_check": "agree",
-       "sources": [
-        {
-         "url": "https://cdn.siouxchief.com/prodscmwebsite/SpecSheets/865-M4DIDL - HYDROTEC MAXI 100 GRATE CLASS D400 - SPEC SHEET.PDF",
-         "type": "pdf",
-         "page": 1,
-         "section": "MATERIALS",
-         "quote": "Ductile iron (ASTM A536 70-50-05)",
-         "snapshot_sha256": "ca18f9fb6fb8c5ae835baf0e35800d40f3e6b7087e2739028aee49bb3cd8c183",
-         "retrieved_at": "2026-10-09T22:16:40Z"
-        },
-        {
-         "url": "https://www.siouxchief.com/Products/865-M4DIDL",
-         "type": "page",
-         "page": null,
-         "section": "page header",
-         "variant_sku": null,
-         "quote": "Grates - Half-Meter, Class D, Ductile Iron, Long Slot, ADA",
-         "snapshot_sha256": "6333f8e743773b7734345cd4e2443e259a61a945e4e92501e567eafa17a7f2b6",
-         "retrieved_at": "2026-10-09T22:11:27Z"
-        }
-       ]
-      }
-     },
+     "spec_overrides": {},
      "prices": [
       {
        "amount": null,
@@ -28439,37 +27848,7 @@
      "sku": "865-M4DIEM",
      "size": "4",
      "page_url": "https://www.siouxchief.com/Products/865-M4DIEM",
-     "spec_overrides": {
-      "material_body": {
-       "value": "ductile iron",
-       "unit": null,
-       "raw_text": "Ductile iron (ASTM A536 70-50-05)",
-       "conditions": "grate",
-       "display_source": "pdf",
-       "cross_check": "agree",
-       "sources": [
-        {
-         "url": "https://cdn.siouxchief.com/prodscmwebsite/SpecSheets/865-M4DIEM - HYDROTEC MAXI 100 GRATE CLASS E600 - SPEC SHEET.PDF",
-         "type": "pdf",
-         "page": 1,
-         "section": "MATERIALS",
-         "quote": "Ductile iron (ASTM A536 70-50-05)",
-         "snapshot_sha256": "17aee1556101cffafa4d91debca8681d06e6a98b1c0d910b3045e675244e66c2",
-         "retrieved_at": "2026-10-09T22:16:41Z"
-        },
-        {
-         "url": "https://www.siouxchief.com/Products/865-M4DIEM",
-         "type": "page",
-         "page": null,
-         "section": "page header",
-         "variant_sku": null,
-         "quote": "Grates - Half-Meter, Class E, Ductile Iron, Mesh",
-         "snapshot_sha256": "3b686b32c16dadf56df2670b3eab479bcc562c15f7f2163737dcac1cc6c296e5",
-         "retrieved_at": "2026-10-09T22:11:28Z"
-        }
-       ]
-      }
-     },
+     "spec_overrides": {},
      "prices": [
       {
        "amount": null,
@@ -28516,37 +27895,7 @@
      "sku": "865-M4DIFL",
      "size": "4",
      "page_url": "https://www.siouxchief.com/Products/865-M4DIFL",
-     "spec_overrides": {
-      "material_body": {
-       "value": "ductile iron",
-       "unit": null,
-       "raw_text": "Ductile iron (ASTM A536 70-50-05)",
-       "conditions": "grate",
-       "display_source": "pdf",
-       "cross_check": "agree",
-       "sources": [
-        {
-         "url": "https://cdn.siouxchief.com/prodscmwebsite/SpecSheets/865-M4DIFL - HYDROTEC MAXI 100 GRATE CLASS F900 - SPEC SHEET.PDF",
-         "type": "pdf",
-         "page": 1,
-         "section": "MATERIALS",
-         "quote": "Ductile iron (ASTM A536 70-50-05)",
-         "snapshot_sha256": "4fa85770c9c5b36a265f38ecda5c7ee35b8c0763a74af822cada28729e368af6",
-         "retrieved_at": "2026-10-09T22:16:42Z"
-        },
-        {
-         "url": "https://www.siouxchief.com/Products/865-M4DIFL",
-         "type": "page",
-         "page": null,
-         "section": "page header",
-         "variant_sku": null,
-         "quote": "Grates - Half-Meter, Class F, Ductile Iron, Long Slot, ADA",
-         "snapshot_sha256": "4aef2760e02d256451383c93a12f01006ba29ffb7c1102e252ae16be7864e631",
-         "retrieved_at": "2026-10-09T22:11:30Z"
-        }
-       ]
-      }
-     },
+     "spec_overrides": {},
      "prices": [
       {
        "amount": null,
@@ -28570,46 +27919,7 @@
      "sku": "865-M6CBDA",
      "size": "6",
      "page_url": "https://www.siouxchief.com/Products/865-M6CBDA",
-     "spec_overrides": {
-      "material_body": {
-       "value": "fiber-reinforced concrete",
-       "unit": null,
-       "raw_text": "Basin Body: Fiber-reinforced concrete",
-       "conditions": "catch basin body",
-       "display_source": "pdf",
-       "cross_check": "pdf_only",
-       "sources": [
-        {
-         "url": "https://cdn.siouxchief.com/prodscmwebsite/SpecSheets/865 SERIES - HYDROTEC MAXI 150 CLASS D400-F900 CATCH BASIN - SPEC SHEET.PDF",
-         "type": "pdf",
-         "page": 1,
-         "section": "MATERIALS",
-         "quote": "Basin Body: Fiber-reinforced concrete",
-         "snapshot_sha256": "ede9d90cae06a8b5a3ddc6cfe780c526381745314469dadf1f66c22598d7070c",
-         "retrieved_at": "2026-10-09T22:16:43Z"
-        }
-       ]
-      },
-      "material_trim": {
-       "value": "ductile iron",
-       "unit": null,
-       "raw_text": "Grating: Ductile iron (ASTM A536 70-50-05)",
-       "conditions": "grating and edge rails",
-       "display_source": "pdf",
-       "cross_check": "pdf_only",
-       "sources": [
-        {
-         "url": "https://cdn.siouxchief.com/prodscmwebsite/SpecSheets/865 SERIES - HYDROTEC MAXI 150 CLASS D400-F900 CATCH BASIN - SPEC SHEET.PDF",
-         "type": "pdf",
-         "page": 1,
-         "section": "MATERIALS",
-         "quote": "Grating: Ductile iron (ASTM A536 70-50-05)",
-         "snapshot_sha256": "ede9d90cae06a8b5a3ddc6cfe780c526381745314469dadf1f66c22598d7070c",
-         "retrieved_at": "2026-10-09T22:16:43Z"
-        }
-       ]
-      }
-     },
+     "spec_overrides": {},
      "prices": [
       {
        "amount": null,
@@ -28633,46 +27943,7 @@
      "sku": "865-M6CBF1A",
      "size": "6",
      "page_url": "https://www.siouxchief.com/Products/865-M6CBF1A",
-     "spec_overrides": {
-      "material_body": {
-       "value": "fiber-reinforced concrete",
-       "unit": null,
-       "raw_text": "Basin Body: Fiber-reinforced concrete",
-       "conditions": "catch basin body",
-       "display_source": "pdf",
-       "cross_check": "pdf_only",
-       "sources": [
-        {
-         "url": "https://cdn.siouxchief.com/prodscmwebsite/SpecSheets/865 SERIES - HYDROTEC MAXI 150 F1 CLASS F900 CATCH BASIN - SPEC SHEET.PDF",
-         "type": "pdf",
-         "page": 1,
-         "section": "MATERIALS",
-         "quote": "Basin Body: Fiber-reinforced concrete",
-         "snapshot_sha256": "630f34fd22646b7876935d2712c9800d9a895439f4892ab602faeea1d7adad98",
-         "retrieved_at": "2026-10-09T22:16:44Z"
-        }
-       ]
-      },
-      "material_trim": {
-       "value": "ductile iron",
-       "unit": null,
-       "raw_text": "Grating: Ductile iron (ASTM A536 70-50-05)",
-       "conditions": "grating and edge rails",
-       "display_source": "pdf",
-       "cross_check": "pdf_only",
-       "sources": [
-        {
-         "url": "https://cdn.siouxchief.com/prodscmwebsite/SpecSheets/865 SERIES - HYDROTEC MAXI 150 F1 CLASS F900 CATCH BASIN - SPEC SHEET.PDF",
-         "type": "pdf",
-         "page": 1,
-         "section": "MATERIALS",
-         "quote": "Grating: Ductile iron (ASTM A536 70-50-05)",
-         "snapshot_sha256": "630f34fd22646b7876935d2712c9800d9a895439f4892ab602faeea1d7adad98",
-         "retrieved_at": "2026-10-09T22:16:44Z"
-        }
-       ]
-      }
-     },
+     "spec_overrides": {},
      "prices": [
       {
        "amount": null,
@@ -28696,46 +27967,7 @@
      "sku": "865-M6CBFA",
      "size": "6",
      "page_url": "https://www.siouxchief.com/Products/865-M6CBFA",
-     "spec_overrides": {
-      "material_body": {
-       "value": "fiber-reinforced concrete",
-       "unit": null,
-       "raw_text": "Basin Body: Fiber-reinforced concrete",
-       "conditions": "catch basin body",
-       "display_source": "pdf",
-       "cross_check": "pdf_only",
-       "sources": [
-        {
-         "url": "https://cdn.siouxchief.com/prodscmwebsite/SpecSheets/865 SERIES - HYDROTEC MAXI 150 CLASS D400-F900 CATCH BASIN - SPEC SHEET.PDF",
-         "type": "pdf",
-         "page": 1,
-         "section": "MATERIALS",
-         "quote": "Basin Body: Fiber-reinforced concrete",
-         "snapshot_sha256": "ede9d90cae06a8b5a3ddc6cfe780c526381745314469dadf1f66c22598d7070c",
-         "retrieved_at": "2026-10-09T22:16:43Z"
-        }
-       ]
-      },
-      "material_trim": {
-       "value": "ductile iron",
-       "unit": null,
-       "raw_text": "Grating: Ductile iron (ASTM A536 70-50-05)",
-       "conditions": "grating and edge rails",
-       "display_source": "pdf",
-       "cross_check": "pdf_only",
-       "sources": [
-        {
-         "url": "https://cdn.siouxchief.com/prodscmwebsite/SpecSheets/865 SERIES - HYDROTEC MAXI 150 CLASS D400-F900 CATCH BASIN - SPEC SHEET.PDF",
-         "type": "pdf",
-         "page": 1,
-         "section": "MATERIALS",
-         "quote": "Grating: Ductile iron (ASTM A536 70-50-05)",
-         "snapshot_sha256": "ede9d90cae06a8b5a3ddc6cfe780c526381745314469dadf1f66c22598d7070c",
-         "retrieved_at": "2026-10-09T22:16:43Z"
-        }
-       ]
-      }
-     },
+     "spec_overrides": {},
      "prices": [
       {
        "amount": null,
@@ -28759,46 +27991,7 @@
      "sku": "865-M8CBDA",
      "size": "8",
      "page_url": "https://www.siouxchief.com/Products/865-M8CBDA",
-     "spec_overrides": {
-      "material_body": {
-       "value": "fiber-reinforced concrete",
-       "unit": null,
-       "raw_text": "Basin Body: Fiber-reinforced concrete",
-       "conditions": "catch basin body",
-       "display_source": "pdf",
-       "cross_check": "pdf_only",
-       "sources": [
-        {
-         "url": "https://cdn.siouxchief.com/prodscmwebsite/SpecSheets/865 SERIES - HYDROTEC MAXI 200 CATCH BASIN - SPEC SHEET.PDF",
-         "type": "pdf",
-         "page": 1,
-         "section": "MATERIALS",
-         "quote": "Basin Body: Fiber-reinforced concrete",
-         "snapshot_sha256": "db6c77c9a72a9390b249f923fb763f62a06ebf165e9ed72229237a9dfb2f6549",
-         "retrieved_at": "2026-10-09T22:16:46Z"
-        }
-       ]
-      },
-      "material_trim": {
-       "value": "ductile iron",
-       "unit": null,
-       "raw_text": "Grating: Ductile iron (ASTM A536 70-50-05)",
-       "conditions": "grating and edge rails",
-       "display_source": "pdf",
-       "cross_check": "pdf_only",
-       "sources": [
-        {
-         "url": "https://cdn.siouxchief.com/prodscmwebsite/SpecSheets/865 SERIES - HYDROTEC MAXI 200 CATCH BASIN - SPEC SHEET.PDF",
-         "type": "pdf",
-         "page": 1,
-         "section": "MATERIALS",
-         "quote": "Grating: Ductile iron (ASTM A536 70-50-05)",
-         "snapshot_sha256": "db6c77c9a72a9390b249f923fb763f62a06ebf165e9ed72229237a9dfb2f6549",
-         "retrieved_at": "2026-10-09T22:16:46Z"
-        }
-       ]
-      }
-     },
+     "spec_overrides": {},
      "prices": [
       {
        "amount": null,
@@ -28822,46 +28015,7 @@
      "sku": "865-M8CBF1A",
      "size": "8",
      "page_url": "https://www.siouxchief.com/Products/865-M8CBF1A",
-     "spec_overrides": {
-      "material_body": {
-       "value": "fiber-reinforced concrete",
-       "unit": null,
-       "raw_text": "Basin Body: Fiber-reinforced concrete",
-       "conditions": "catch basin body",
-       "display_source": "pdf",
-       "cross_check": "pdf_only",
-       "sources": [
-        {
-         "url": "https://cdn.siouxchief.com/prodscmwebsite/SpecSheets/865 SERIES - HYDROTEC MAXI 200 F1 CATCH BASIN - SPEC SHEET.PDF",
-         "type": "pdf",
-         "page": 1,
-         "section": "MATERIALS",
-         "quote": "Basin Body: Fiber-reinforced concrete",
-         "snapshot_sha256": "46337c50490e02f52688927441f850fe6079c0701edd01a145d76e006d7572c4",
-         "retrieved_at": "2026-10-09T22:16:47Z"
-        }
-       ]
-      },
-      "material_trim": {
-       "value": "ductile iron",
-       "unit": null,
-       "raw_text": "Grating: Ductile iron (ASTM A536 70-50-05)",
-       "conditions": "grating and edge rails",
-       "display_source": "pdf",
-       "cross_check": "pdf_only",
-       "sources": [
-        {
-         "url": "https://cdn.siouxchief.com/prodscmwebsite/SpecSheets/865 SERIES - HYDROTEC MAXI 200 F1 CATCH BASIN - SPEC SHEET.PDF",
-         "type": "pdf",
-         "page": 1,
-         "section": "MATERIALS",
-         "quote": "Grating: Ductile iron (ASTM A536 70-50-05)",
-         "snapshot_sha256": "46337c50490e02f52688927441f850fe6079c0701edd01a145d76e006d7572c4",
-         "retrieved_at": "2026-10-09T22:16:47Z"
-        }
-       ]
-      }
-     },
+     "spec_overrides": {},
      "prices": [
       {
        "amount": null,
@@ -28885,46 +28039,7 @@
      "sku": "865-M8CBFA",
      "size": "8",
      "page_url": "https://www.siouxchief.com/Products/865-M8CBFA",
-     "spec_overrides": {
-      "material_body": {
-       "value": "fiber-reinforced concrete",
-       "unit": null,
-       "raw_text": "Basin Body: Fiber-reinforced concrete",
-       "conditions": "catch basin body",
-       "display_source": "pdf",
-       "cross_check": "pdf_only",
-       "sources": [
-        {
-         "url": "https://cdn.siouxchief.com/prodscmwebsite/SpecSheets/865 SERIES - HYDROTEC MAXI 200 CATCH BASIN - SPEC SHEET.PDF",
-         "type": "pdf",
-         "page": 1,
-         "section": "MATERIALS",
-         "quote": "Basin Body: Fiber-reinforced concrete",
-         "snapshot_sha256": "db6c77c9a72a9390b249f923fb763f62a06ebf165e9ed72229237a9dfb2f6549",
-         "retrieved_at": "2026-10-09T22:16:46Z"
-        }
-       ]
-      },
-      "material_trim": {
-       "value": "ductile iron",
-       "unit": null,
-       "raw_text": "Grating: Ductile iron (ASTM A536 70-50-05)",
-       "conditions": "grating and edge rails",
-       "display_source": "pdf",
-       "cross_check": "pdf_only",
-       "sources": [
-        {
-         "url": "https://cdn.siouxchief.com/prodscmwebsite/SpecSheets/865 SERIES - HYDROTEC MAXI 200 CATCH BASIN - SPEC SHEET.PDF",
-         "type": "pdf",
-         "page": 1,
-         "section": "MATERIALS",
-         "quote": "Grating: Ductile iron (ASTM A536 70-50-05)",
-         "snapshot_sha256": "db6c77c9a72a9390b249f923fb763f62a06ebf165e9ed72229237a9dfb2f6549",
-         "retrieved_at": "2026-10-09T22:16:46Z"
-        }
-       ]
-      }
-     },
+     "spec_overrides": {},
      "prices": [
       {
        "amount": null,
@@ -30065,12 +29180,9 @@
      ]
     },
     "material_seals": {
-     "value": [
-      "poly (hard) washers",
-      "soft washers"
-     ],
+     "value": "poly (hard) washers, soft washers",
      "unit": null,
-     "raw_text": "Washer Type Hard / Washer Type Soft",
+     "raw_text": "Washer Type Hard / Washer Type Soft; Washer Type Hard; Washer Type Soft",
      "conditions": "per variant",
      "display_source": "page",
      "cross_check": "page_only",
@@ -30094,6 +29206,106 @@
        "quote": "Washer Type Soft",
        "snapshot_sha256": "ce78c638ea065a48e5338dcabd1abbe19b00b7affdf02226e62e817c1c679624",
        "retrieved_at": "2026-10-09T22:11:40Z"
+      },
+      {
+       "url": "https://www.siouxchief.com/Products/230-291616101",
+       "type": "page",
+       "page": null,
+       "section": "Specifications tab",
+       "variant_sku": null,
+       "quote": "Washer Type Hard",
+       "snapshot_sha256": "4c01690c0a0b880344195a5f56dd13c1dc5e2c4988b685c6d4ee7a7678fc0bac",
+       "retrieved_at": "2026-10-09T22:11:41Z"
+      },
+      {
+       "url": "https://www.siouxchief.com/Products/230-300616101",
+       "type": "page",
+       "page": null,
+       "section": "Specifications tab",
+       "variant_sku": null,
+       "quote": "Washer Type Hard",
+       "snapshot_sha256": "4d7e636992b68ae46fe735cd5eea6c9fafb17bc26298e0f928d4346f76cc399d",
+       "retrieved_at": "2026-10-09T22:11:42Z"
+      },
+      {
+       "url": "https://www.siouxchief.com/Products/230-300616201",
+       "type": "page",
+       "page": null,
+       "section": "Specifications tab",
+       "variant_sku": null,
+       "quote": "Washer Type Soft",
+       "snapshot_sha256": "32183a9b22d4826b77a7851f6046979a8fcdeca49d130aac947bc2c7ddc1ff88",
+       "retrieved_at": "2026-10-09T22:11:44Z"
+      },
+      {
+       "url": "https://www.siouxchief.com/Products/230-300625101",
+       "type": "page",
+       "page": null,
+       "section": "Specifications tab",
+       "variant_sku": null,
+       "quote": "Washer Type Hard",
+       "snapshot_sha256": "73ec6bdc0e4adabd31c4d5d031b01a5126e40f8ae2e1292685055ff528a7031c",
+       "retrieved_at": "2026-10-09T22:11:45Z"
+      },
+      {
+       "url": "https://www.siouxchief.com/Products/230-301616101",
+       "type": "page",
+       "page": null,
+       "section": "Specifications tab",
+       "variant_sku": null,
+       "quote": "Washer Type Hard",
+       "snapshot_sha256": "22f9ccc9bd4eac7c47833e5e4ae435fc45df4323c12aaa2b3ac77cf76ae911bf",
+       "retrieved_at": "2026-10-09T22:11:46Z"
+      },
+      {
+       "url": "https://www.siouxchief.com/Products/230-301621101",
+       "type": "page",
+       "page": null,
+       "section": "Specifications tab",
+       "variant_sku": null,
+       "quote": "Washer Type Hard",
+       "snapshot_sha256": "af1a365f69256b850e99bcb11ec23de7f73c3612b0ade7145caf038149cf30a2",
+       "retrieved_at": "2026-10-09T22:11:47Z"
+      },
+      {
+       "url": "https://www.siouxchief.com/Products/230-301625101",
+       "type": "page",
+       "page": null,
+       "section": "Specifications tab",
+       "variant_sku": null,
+       "quote": "Washer Type Hard",
+       "snapshot_sha256": "4f3c50af4efe4a1b3a527a7d231a35394c68260df8a0fdabb82ddf6f1a46b26c",
+       "retrieved_at": "2026-10-09T22:11:48Z"
+      },
+      {
+       "url": "https://www.siouxchief.com/Products/230-310616101",
+       "type": "page",
+       "page": null,
+       "section": "Specifications tab",
+       "variant_sku": null,
+       "quote": "Washer Type Hard",
+       "snapshot_sha256": "c0f07602b3c4ae2e570e53bf0f8329236011d1e63f7f75627076ff4fc76887ec",
+       "retrieved_at": "2026-10-09T22:11:49Z"
+      },
+      {
+       "url": "https://www.siouxchief.com/Products/230-310616201",
+       "type": "page",
+       "page": null,
+       "section": "Specifications tab",
+       "variant_sku": null,
+       "quote": "Washer Type Soft",
+       "snapshot_sha256": "b311ec417b29a774b4ed90a32930ac82eac5b5c95def3c9710dc7cd1c76ac079",
+       "retrieved_at": "2026-10-09T22:11:50Z"
+      },
+      {
+       "url": "https://www.siouxchief.com/Products/230-311616101",
+       "type": "page",
+       "page": null,
+       "section": "Specifications tab",
+       "variant_sku": null,
+       "quote": "Washer Type Hard",
+       "snapshot_sha256": "56fe8deddf9ea7bc2e4644f4ad344e740b245e115e5ed5799cca3f9fe1272546",
+       "retrieved_at": "2026-10-09T22:11:51Z"
       }
      ]
     },
@@ -30173,29 +29385,7 @@
      "sku": "230-2906101",
      "size": "1-1/2 x 16",
      "page_url": "https://www.siouxchief.com/Products/230-2906101",
-     "spec_overrides": {
-      "material_seals": {
-       "value": [
-        "poly (hard) washers"
-       ],
-       "unit": null,
-       "raw_text": "Washer Type Hard",
-       "display_source": "page",
-       "cross_check": "page_only",
-       "sources": [
-        {
-         "url": "https://www.siouxchief.com/Products/230-2906101",
-         "type": "page",
-         "page": null,
-         "section": "Specifications tab",
-         "variant_sku": null,
-         "quote": "Washer Type Hard",
-         "snapshot_sha256": "288ad5477c4fed42ec6e63b70bfcbd883e00d6412881c5a458ea24c6d851053c",
-         "retrieved_at": "2026-10-09T21:46:09Z"
-        }
-       ]
-      }
-     },
+     "spec_overrides": {},
      "prices": [
       {
        "amount": null,
@@ -30219,29 +29409,7 @@
      "sku": "230-290616201",
      "size": "1-1/2 x 16",
      "page_url": "https://www.siouxchief.com/Products/230-290616201",
-     "spec_overrides": {
-      "material_seals": {
-       "value": [
-        "soft washers"
-       ],
-       "unit": null,
-       "raw_text": "Washer Type Soft",
-       "display_source": "page",
-       "cross_check": "page_only",
-       "sources": [
-        {
-         "url": "https://www.siouxchief.com/Products/230-290616201",
-         "type": "page",
-         "page": null,
-         "section": "Specifications tab",
-         "variant_sku": null,
-         "quote": "Washer Type Soft",
-         "snapshot_sha256": "ce78c638ea065a48e5338dcabd1abbe19b00b7affdf02226e62e817c1c679624",
-         "retrieved_at": "2026-10-09T22:11:40Z"
-        }
-       ]
-      }
-     },
+     "spec_overrides": {},
      "prices": [
       {
        "amount": null,
@@ -30265,29 +29433,7 @@
      "sku": "230-291616101",
      "size": "1-1/2 x 16",
      "page_url": "https://www.siouxchief.com/Products/230-291616101",
-     "spec_overrides": {
-      "material_seals": {
-       "value": [
-        "poly (hard) washers"
-       ],
-       "unit": null,
-       "raw_text": "Washer Type Hard",
-       "display_source": "page",
-       "cross_check": "page_only",
-       "sources": [
-        {
-         "url": "https://www.siouxchief.com/Products/230-291616101",
-         "type": "page",
-         "page": null,
-         "section": "Specifications tab",
-         "variant_sku": null,
-         "quote": "Washer Type Hard",
-         "snapshot_sha256": "4c01690c0a0b880344195a5f56dd13c1dc5e2c4988b685c6d4ee7a7678fc0bac",
-         "retrieved_at": "2026-10-09T22:11:41Z"
-        }
-       ]
-      }
-     },
+     "spec_overrides": {},
      "prices": [
       {
        "amount": null,
@@ -30311,29 +29457,7 @@
      "sku": "230-300616101",
      "size": "1-1/2 x 16",
      "page_url": "https://www.siouxchief.com/Products/230-300616101",
-     "spec_overrides": {
-      "material_seals": {
-       "value": [
-        "poly (hard) washers"
-       ],
-       "unit": null,
-       "raw_text": "Washer Type Hard",
-       "display_source": "page",
-       "cross_check": "page_only",
-       "sources": [
-        {
-         "url": "https://www.siouxchief.com/Products/230-300616101",
-         "type": "page",
-         "page": null,
-         "section": "Specifications tab",
-         "variant_sku": null,
-         "quote": "Washer Type Hard",
-         "snapshot_sha256": "4d7e636992b68ae46fe735cd5eea6c9fafb17bc26298e0f928d4346f76cc399d",
-         "retrieved_at": "2026-10-09T22:11:42Z"
-        }
-       ]
-      }
-     },
+     "spec_overrides": {},
      "prices": [
       {
        "amount": null,
@@ -30357,29 +29481,7 @@
      "sku": "230-300616201",
      "size": "1-1/2 x 16",
      "page_url": "https://www.siouxchief.com/Products/230-300616201",
-     "spec_overrides": {
-      "material_seals": {
-       "value": [
-        "soft washers"
-       ],
-       "unit": null,
-       "raw_text": "Washer Type Soft",
-       "display_source": "page",
-       "cross_check": "page_only",
-       "sources": [
-        {
-         "url": "https://www.siouxchief.com/Products/230-300616201",
-         "type": "page",
-         "page": null,
-         "section": "Specifications tab",
-         "variant_sku": null,
-         "quote": "Washer Type Soft",
-         "snapshot_sha256": "32183a9b22d4826b77a7851f6046979a8fcdeca49d130aac947bc2c7ddc1ff88",
-         "retrieved_at": "2026-10-09T22:11:44Z"
-        }
-       ]
-      }
-     },
+     "spec_overrides": {},
      "prices": [
       {
        "amount": null,
@@ -30403,29 +29505,7 @@
      "sku": "230-300625101",
      "size": "1-1/2 x 25",
      "page_url": "https://www.siouxchief.com/Products/230-300625101",
-     "spec_overrides": {
-      "material_seals": {
-       "value": [
-        "poly (hard) washers"
-       ],
-       "unit": null,
-       "raw_text": "Washer Type Hard",
-       "display_source": "page",
-       "cross_check": "page_only",
-       "sources": [
-        {
-         "url": "https://www.siouxchief.com/Products/230-300625101",
-         "type": "page",
-         "page": null,
-         "section": "Specifications tab",
-         "variant_sku": null,
-         "quote": "Washer Type Hard",
-         "snapshot_sha256": "73ec6bdc0e4adabd31c4d5d031b01a5126e40f8ae2e1292685055ff528a7031c",
-         "retrieved_at": "2026-10-09T22:11:45Z"
-        }
-       ]
-      }
-     },
+     "spec_overrides": {},
      "prices": [
       {
        "amount": null,
@@ -30449,29 +29529,7 @@
      "sku": "230-301616101",
      "size": "1-1/2 x 16",
      "page_url": "https://www.siouxchief.com/Products/230-301616101",
-     "spec_overrides": {
-      "material_seals": {
-       "value": [
-        "poly (hard) washers"
-       ],
-       "unit": null,
-       "raw_text": "Washer Type Hard",
-       "display_source": "page",
-       "cross_check": "page_only",
-       "sources": [
-        {
-         "url": "https://www.siouxchief.com/Products/230-301616101",
-         "type": "page",
-         "page": null,
-         "section": "Specifications tab",
-         "variant_sku": null,
-         "quote": "Washer Type Hard",
-         "snapshot_sha256": "22f9ccc9bd4eac7c47833e5e4ae435fc45df4323c12aaa2b3ac77cf76ae911bf",
-         "retrieved_at": "2026-10-09T22:11:46Z"
-        }
-       ]
-      }
-     },
+     "spec_overrides": {},
      "prices": [
       {
        "amount": null,
@@ -30495,29 +29553,7 @@
      "sku": "230-301621101",
      "size": "1-1/2 x 21",
      "page_url": "https://www.siouxchief.com/Products/230-301621101",
-     "spec_overrides": {
-      "material_seals": {
-       "value": [
-        "poly (hard) washers"
-       ],
-       "unit": null,
-       "raw_text": "Washer Type Hard",
-       "display_source": "page",
-       "cross_check": "page_only",
-       "sources": [
-        {
-         "url": "https://www.siouxchief.com/Products/230-301621101",
-         "type": "page",
-         "page": null,
-         "section": "Specifications tab",
-         "variant_sku": null,
-         "quote": "Washer Type Hard",
-         "snapshot_sha256": "af1a365f69256b850e99bcb11ec23de7f73c3612b0ade7145caf038149cf30a2",
-         "retrieved_at": "2026-10-09T22:11:47Z"
-        }
-       ]
-      }
-     },
+     "spec_overrides": {},
      "prices": [
       {
        "amount": null,
@@ -30541,29 +29577,7 @@
      "sku": "230-301625101",
      "size": "1-1/2 x 25",
      "page_url": "https://www.siouxchief.com/Products/230-301625101",
-     "spec_overrides": {
-      "material_seals": {
-       "value": [
-        "poly (hard) washers"
-       ],
-       "unit": null,
-       "raw_text": "Washer Type Hard",
-       "display_source": "page",
-       "cross_check": "page_only",
-       "sources": [
-        {
-         "url": "https://www.siouxchief.com/Products/230-301625101",
-         "type": "page",
-         "page": null,
-         "section": "Specifications tab",
-         "variant_sku": null,
-         "quote": "Washer Type Hard",
-         "snapshot_sha256": "4f3c50af4efe4a1b3a527a7d231a35394c68260df8a0fdabb82ddf6f1a46b26c",
-         "retrieved_at": "2026-10-09T22:11:48Z"
-        }
-       ]
-      }
-     },
+     "spec_overrides": {},
      "prices": [
       {
        "amount": null,
@@ -30587,29 +29601,7 @@
      "sku": "230-310616101",
      "size": "1-1/2 x 16",
      "page_url": "https://www.siouxchief.com/Products/230-310616101",
-     "spec_overrides": {
-      "material_seals": {
-       "value": [
-        "poly (hard) washers"
-       ],
-       "unit": null,
-       "raw_text": "Washer Type Hard",
-       "display_source": "page",
-       "cross_check": "page_only",
-       "sources": [
-        {
-         "url": "https://www.siouxchief.com/Products/230-310616101",
-         "type": "page",
-         "page": null,
-         "section": "Specifications tab",
-         "variant_sku": null,
-         "quote": "Washer Type Hard",
-         "snapshot_sha256": "c0f07602b3c4ae2e570e53bf0f8329236011d1e63f7f75627076ff4fc76887ec",
-         "retrieved_at": "2026-10-09T22:11:49Z"
-        }
-       ]
-      }
-     },
+     "spec_overrides": {},
      "prices": [
       {
        "amount": null,
@@ -30633,29 +29625,7 @@
      "sku": "230-310616201",
      "size": "1-1/2 x 16",
      "page_url": "https://www.siouxchief.com/Products/230-310616201",
-     "spec_overrides": {
-      "material_seals": {
-       "value": [
-        "soft washers"
-       ],
-       "unit": null,
-       "raw_text": "Washer Type Soft",
-       "display_source": "page",
-       "cross_check": "page_only",
-       "sources": [
-        {
-         "url": "https://www.siouxchief.com/Products/230-310616201",
-         "type": "page",
-         "page": null,
-         "section": "Specifications tab",
-         "variant_sku": null,
-         "quote": "Washer Type Soft",
-         "snapshot_sha256": "b311ec417b29a774b4ed90a32930ac82eac5b5c95def3c9710dc7cd1c76ac079",
-         "retrieved_at": "2026-10-09T22:11:50Z"
-        }
-       ]
-      }
-     },
+     "spec_overrides": {},
      "prices": [
       {
        "amount": null,
@@ -30679,29 +29649,7 @@
      "sku": "230-311616101",
      "size": "1-1/2 x 16",
      "page_url": "https://www.siouxchief.com/Products/230-311616101",
-     "spec_overrides": {
-      "material_seals": {
-       "value": [
-        "poly (hard) washers"
-       ],
-       "unit": null,
-       "raw_text": "Washer Type Hard",
-       "display_source": "page",
-       "cross_check": "page_only",
-       "sources": [
-        {
-         "url": "https://www.siouxchief.com/Products/230-311616101",
-         "type": "page",
-         "page": null,
-         "section": "Specifications tab",
-         "variant_sku": null,
-         "quote": "Washer Type Hard",
-         "snapshot_sha256": "56fe8deddf9ea7bc2e4644f4ad344e740b245e115e5ed5799cca3f9fe1272546",
-         "retrieved_at": "2026-10-09T22:11:51Z"
-        }
-       ]
-      }
-     },
+     "spec_overrides": {},
      "prices": [
       {
        "amount": null,
