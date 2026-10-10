@@ -17667,8 +17667,8 @@
      "value": "in",
      "unit": null,
      "raw_text": "Connection 1 Size 1/2 IN",
-     "display_source": "page",
-     "cross_check": "page_only",
+     "display_source": "pdf",
+     "cross_check": "agree",
      "sources": [
       {
        "url": "https://www.siouxchief.com/Products/640WP02",
@@ -17679,6 +17679,16 @@
        "quote": "Connection 1 Size 1/2 IN",
        "snapshot_sha256": "3e2a10895ea6a073322a16f2576d62f832edad0ef1a30402132dde7617fcda68",
        "retrieved_at": "2026-10-09T21:41:48Z"
+      },
+      {
+       "url": "https://cdn.siouxchief.com/prodscmwebsite/SpecSheets/POWERPEX - F1960 POLY FITTING SYSTEM - SPEC SHEET.PDF",
+       "type": "pdf",
+       "page": 1,
+       "section": "Specifications",
+       "variant_sku": null,
+       "quote": "DIMENSIONS per ASTM F1960 ½\" ¾\" 1\"",
+       "snapshot_sha256": "5023b784d32a371c14273c15d3fa4d56c3a6ba95356ebe72e0053df501c39099",
+       "retrieved_at": "2026-10-09T22:09:24Z"
       }
      ]
     },
@@ -18216,8 +18226,8 @@
      "value": "in",
      "unit": null,
      "raw_text": "Connection 1 Size 1/2 IN",
-     "display_source": "page",
-     "cross_check": "page_only",
+     "display_source": "pdf",
+     "cross_check": "agree",
      "sources": [
       {
        "url": "https://www.siouxchief.com/Products/605QG2",
@@ -18228,6 +18238,16 @@
        "quote": "Connection 1 Size 1/2 IN",
        "snapshot_sha256": "9e4a67345777dcd84af0d9a354502d7797235c554ee3505b228479176cc85f71",
        "retrieved_at": "2026-10-09T21:41:46Z"
+      },
+      {
+       "url": "https://cdn.siouxchief.com/prodscmwebsite/SpecSheets/PDQ - BRASS PUSH FITTING SYSTEM - SPEC SHEET.PDF",
+       "type": "pdf",
+       "page": 1,
+       "section": "Specifications",
+       "variant_sku": null,
+       "quote": "Nominal Size 1/2\" 3/4\" 1\" 1-1/4\" 1-1/2\" 2\"",
+       "snapshot_sha256": "268a645b97b493aa1f3e1a166238f34d5d98bde4861d96e08b94a18e8a6bd56c",
+       "retrieved_at": "2026-10-09T22:09:41Z"
       }
      ]
     },
@@ -18761,8 +18781,8 @@
      "value": "in",
      "unit": null,
      "raw_text": "Connection 1 Size 1/2 IN",
-     "display_source": "page",
-     "cross_check": "page_only",
+     "display_source": "pdf",
+     "cross_check": "agree",
      "sources": [
       {
        "url": "https://www.siouxchief.com/Products/643WG2",
@@ -18773,6 +18793,16 @@
        "quote": "Connection 1 Size 1/2 IN",
        "snapshot_sha256": "a3930a790929beb5a845f6ae3067272585f614a29db5ebbec1a12858fd14a4f4",
        "retrieved_at": "2026-10-09T21:51:38Z"
+      },
+      {
+       "url": "https://cdn.siouxchief.com/prodscmwebsite/SpecSheets/POWERPEX - F1960 BRASS FITTING SYSTEM - SPEC SHEET.PDF",
+       "type": "pdf",
+       "page": 1,
+       "section": "Specifications",
+       "variant_sku": null,
+       "quote": "DIMENSIONS per ASTM F1960 ½\" ¾\" 1\"",
+       "snapshot_sha256": "f32d0dfe95277157ce70d3c1c054257dd2839688f5aa87864ce5203eb2c4837b",
+       "retrieved_at": "2026-10-09T22:09:56Z"
       }
      ]
     },
@@ -21710,8 +21740,8 @@
      "value": "in",
      "unit": null,
      "raw_text": "Size 1/2 IN",
-     "display_source": "page",
-     "cross_check": "page_only",
+     "display_source": "pdf",
+     "cross_check": "agree",
      "sources": [
       {
        "url": "https://www.siouxchief.com/Products/525-02",
@@ -21722,6 +21752,16 @@
        "quote": "Size 1/2 IN",
        "snapshot_sha256": "ae49afb3a53136f6830da32a9cdae98e8080ebf6d8c125021bf4e003f4ea27f8",
        "retrieved_at": "2026-10-09T21:42:49Z"
+      },
+      {
+       "url": "https://cdn.siouxchief.com/prodscmwebsite/SpecSheets/525 SERIES - SIMPLESTRAP - SPEC SHEET.PDF",
+       "type": "pdf",
+       "page": 1,
+       "section": "Specifications",
+       "variant_sku": null,
+       "quote": "to secure ½\" and ¾\" CTS tubing",
+       "snapshot_sha256": "479ce05ad6be2d5588e64dbc1233ca9a66693b628c2372755fc9a1e8fd58ac8a",
+       "retrieved_at": "2026-10-09T22:11:46Z"
       }
      ]
     },
@@ -22007,7 +22047,7 @@
      "priority": "secondary",
      "lang": "en",
      "title": "SimpleStrap stub out clamp brochure",
-     "revision_date": null,
+     "revision_date": "2021-09",
      "sha256": "2a999bd68e537827d90d9559954e2cf842f1fb4f8a377ce7603a45a0148b9f49",
      "bytes": 1171315,
      "http_status": 200,
@@ -22538,8 +22578,8 @@
      "value": "in",
      "unit": null,
      "raw_text": "Connection 1 Size 3/4 IN",
-     "display_source": "page",
-     "cross_check": "page_only",
+     "display_source": "pdf",
+     "cross_check": "agree",
      "sources": [
       {
        "url": "https://www.siouxchief.com/Products/687-3CH",
@@ -22550,6 +22590,16 @@
        "quote": "Connection 1 Size 3/4 IN",
        "snapshot_sha256": "00010c9197e96aa7f549c7006364eb1d0ec381651cc332f20640e15e5c6ae033",
        "retrieved_at": "2026-10-09T21:44:38Z"
+      },
+      {
+       "url": "https://cdn.siouxchief.com/prodscmwebsite/SpecSheets/687 SERIES - SERVICEBOX WATER HEATER (F) ACCESS BOX - SPEC SHEET.PDF",
+       "type": "pdf",
+       "page": 1,
+       "section": "Specifications",
+       "variant_sku": null,
+       "quote": "3/4\" CTS Push connection",
+       "snapshot_sha256": "402e473c510d1a5d2ba59092f80c7f8913a925ba71a2f1493f7be9c421250217",
+       "retrieved_at": "2026-10-09T22:12:12Z"
       }
      ]
     },
@@ -23566,8 +23616,8 @@
      "value": "in",
      "unit": null,
      "raw_text": "Connection 1 Size 1/2 IN",
-     "display_source": "page",
-     "cross_check": "page_only",
+     "display_source": "pdf",
+     "cross_check": "agree",
      "sources": [
       {
        "url": "https://www.siouxchief.com/Products/630-C2412",
@@ -23578,6 +23628,16 @@
        "quote": "Connection 1 Size 1/2 IN",
        "snapshot_sha256": "6068e0707b1bc1fff7e3d49d6cec4cb3e34083da3bed78884f3783bfbeb57501",
        "retrieved_at": "2026-10-09T21:42:05Z"
+      },
+      {
+       "url": "https://cdn.siouxchief.com/prodscmwebsite/SpecSheets/630-C SERIES - CPVC STUB OUT ELBOWS - SPEC SHEET.PDF",
+       "type": "pdf",
+       "page": 1,
+       "section": "Specifications",
+       "variant_sku": null,
+       "quote": "C2412 = 1/2\" CPVC, 3-5/8\" x 12\" stub out elbow",
+       "snapshot_sha256": "1465c83b4f2faf3b4c706659f48a30b3e7bacccc68b0174af90896f9b8f04e7d",
+       "retrieved_at": "2026-10-09T22:12:37Z"
       }
      ]
     },
@@ -23629,10 +23689,11 @@
     },
     "end_connections": {
      "value": [
-      "CPVC socket"
+      "CPVC socket",
+      "closed"
      ],
      "unit": null,
-     "raw_text": "Socket: CPVC",
+     "raw_text": "Socket: CPVC; Connection 2 Type Closed",
      "display_source": "pdf",
      "cross_check": "agree",
      "sources": [
@@ -23654,6 +23715,26 @@
        "quote": "Connection 1 Type CPVC",
        "snapshot_sha256": "6068e0707b1bc1fff7e3d49d6cec4cb3e34083da3bed78884f3783bfbeb57501",
        "retrieved_at": "2026-10-09T21:42:05Z"
+      },
+      {
+       "url": "https://www.siouxchief.com/Products/630-C2412",
+       "type": "page",
+       "page": null,
+       "section": "Specifications tab",
+       "variant_sku": null,
+       "quote": "Connection 2 Type Closed",
+       "snapshot_sha256": "6068e0707b1bc1fff7e3d49d6cec4cb3e34083da3bed78884f3783bfbeb57501",
+       "retrieved_at": "2026-10-09T21:42:05Z"
+      },
+      {
+       "url": "https://cdn.siouxchief.com/prodscmwebsite/SpecSheets/630-C SERIES - CPVC STUB OUT ELBOWS - SPEC SHEET.PDF",
+       "type": "pdf",
+       "page": 1,
+       "section": "Specifications",
+       "variant_sku": null,
+       "quote": "Type L copper tubing with a spun-closed end",
+       "snapshot_sha256": "1465c83b4f2faf3b4c706659f48a30b3e7bacccc68b0174af90896f9b8f04e7d",
+       "retrieved_at": "2026-10-09T22:12:37Z"
       }
      ]
     },
@@ -24273,8 +24354,8 @@
      "value": "in",
      "unit": null,
      "raw_text": "Connection 1 Size 2 IN",
-     "display_source": "page",
-     "cross_check": "page_only",
+     "display_source": "pdf",
+     "cross_check": "agree",
      "sources": [
       {
        "url": "https://www.siouxchief.com/Products/821-200ANQ",
@@ -24285,6 +24366,16 @@
        "quote": "Connection 1 Size 2 IN",
        "snapshot_sha256": "c0be9ca14964d8729cbe1191de21e7a08c5d9fcbdddd2dae1de632f1ea9c6c62",
        "retrieved_at": "2026-10-09T21:44:45Z"
+      },
+      {
+       "url": "https://cdn.siouxchief.com/prodscmwebsite/SpecSheets/821-200 SERIES - SHOWER PAN DRAIN - SPEC SHEET.PDF",
+       "type": "pdf",
+       "page": 1,
+       "section": "Specifications",
+       "variant_sku": null,
+       "quote": "Drain body shall have a 2\" Sch. 40 hub connection",
+       "snapshot_sha256": "1f8bcddfb7c5c492ceb90a46471e3cd02acef612534e97e509b216ad97deed9f",
+       "retrieved_at": "2026-10-09T22:13:11Z"
       }
      ]
     },
@@ -24991,8 +25082,8 @@
      "value": "in",
      "unit": null,
      "raw_text": "Sink Top Size 6-5/8 IN",
-     "display_source": "page",
-     "cross_check": "page_only",
+     "display_source": "pdf",
+     "cross_check": "agree",
      "sources": [
       {
        "url": "https://www.siouxchief.com/Products/864-WGP",
@@ -25003,6 +25094,16 @@
        "quote": "Sink Top Size 6-5/8 IN",
        "snapshot_sha256": "1ee28abd65544c629edbf97bf81a9dda287afb94807c92e70eeb3dae99597554",
        "retrieved_at": "2026-10-09T21:39:45Z"
+      },
+      {
+       "url": "https://cdn.siouxchief.com/prodscmwebsite/SpecSheets/864 SERIES - LITTLEMAX FLOOR SINK - SPEC SHEET.PDF",
+       "type": "pdf",
+       "page": 1,
+       "section": "Specifications",
+       "variant_sku": null,
+       "quote": "Connection 2\", 3\", 4\" Sch",
+       "snapshot_sha256": "9652ffe72d29e48aa60d55e79c467b9e8bf26b45472d9b64dc59dbf6bcb5f3cd",
+       "retrieved_at": "2026-10-09T22:13:30Z"
       }
      ]
     },
@@ -25376,8 +25477,8 @@
      "value": "in",
      "unit": null,
      "raw_text": "Connection 1 Size 2 IN",
-     "display_source": "page",
-     "cross_check": "page_only",
+     "display_source": "pdf",
+     "cross_check": "agree",
      "sources": [
       {
        "url": "https://www.siouxchief.com/Products/861-Q2286",
@@ -25388,6 +25489,16 @@
        "quote": "Connection 1 Size 2 IN",
        "snapshot_sha256": "f9348d62dc0023e0e59e458bfafff93d4e2348c8d8e4c39490eeaf47581eaaf6",
        "retrieved_at": "2026-10-09T21:39:36Z"
+      },
+      {
+       "url": "https://cdn.siouxchief.com/prodscmwebsite/SpecSheets/861-Q SERIES - 8X8X6 FLOOR SINK - SPEC SHEET.PDF",
+       "type": "pdf",
+       "page": 1,
+       "section": "Specifications",
+       "variant_sku": null,
+       "quote": "Q2286 = 2\" No-Hub",
+       "snapshot_sha256": "57570a939afbe60a00f9180d1183dd6f764db9b0ee6438f115ea4687db8dbf9c",
+       "retrieved_at": "2026-10-09T22:13:38Z"
       }
      ]
     },
@@ -27068,8 +27179,8 @@
      "value": "in",
      "unit": null,
      "raw_text": "Width 4 IN",
-     "display_source": "page",
-     "cross_check": "page_only",
+     "display_source": "pdf",
+     "cross_check": "agree",
      "sources": [
       {
        "url": "https://www.siouxchief.com/Products/865-4EC",
@@ -27080,6 +27191,16 @@
        "quote": "Width 4 IN",
        "snapshot_sha256": "8b68efc8464cfd53ea73d505554156c4f73a675e242f5091839a89cb37da5bbc",
        "retrieved_at": "2026-10-09T22:11:00Z"
+      },
+      {
+       "url": "https://cdn.siouxchief.com/prodscmwebsite/SpecSheets/865 SERIES - HYDROTEC MAXI 300 CATCH BASIN - SPEC SHEET.PDF",
+       "type": "pdf",
+       "page": 1,
+       "section": "Specifications",
+       "variant_sku": null,
+       "quote": "8\" Nom",
+       "snapshot_sha256": "b3f32c8c07807f0c8fe5bb2230e8c9e9b59a4d73e75dc4bb9146d54752fa81d9",
+       "retrieved_at": "2026-10-09T22:16:35Z"
       }
      ]
     },
@@ -30714,8 +30835,8 @@
      "value": "in",
      "unit": null,
      "raw_text": "Connection 1 Size 3/8 IN",
-     "display_source": "page",
-     "cross_check": "page_only",
+     "display_source": "pdf",
+     "cross_check": "agree",
      "sources": [
       {
        "url": "https://www.siouxchief.com/Products/120-TM3F",
@@ -30726,6 +30847,16 @@
        "quote": "Connection 1 Size 3/8 IN",
        "snapshot_sha256": "ceb73215c21091b41043cdeb7cf68327a5277909590e54745c74b86b72a68c98",
        "retrieved_at": "2026-10-09T21:48:32Z"
+      },
+      {
+       "url": "https://cdn.siouxchief.com/prodscmwebsite/SpecSheets/120-TM3F - THERMOSTATIC MIXING VALVE - SPEC SHEET.PDF",
+       "type": "pdf",
+       "page": 1,
+       "section": "Specifications",
+       "variant_sku": null,
+       "quote": "3/8\" Compression, 2\" O.C.",
+       "snapshot_sha256": "0be68f5636135fc9a281c78ed12ec3be5c62c9631651ca77063fc111d64702da",
+       "retrieved_at": "2026-10-09T22:17:16Z"
       }
      ]
     },

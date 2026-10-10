@@ -18,6 +18,7 @@ Per spec value, family level plus variant overrides:
 |---|---|---|---|---|---|---|---|
 | Before (old rules) | 78 | 0 | 28 | 95 | 79 | 280 | 178 |
 | After (SPEC v1.1) | 65 | 8 | 15 | 43 | 57 | 188 | 79 |
+| After blind v2 fixes | 76 | 8 | 15 | 32 | 57 | 188 | 79 |
 
 The total drops mostly because per-variant overrides of list fields (`end_connections`, `standards`, `certifications`, `applications`) were merged into family-level lists, and single-size `size_range` values were added. Of the 28 old conflicts: 7 became `refines`. 2 (`687-3PH/3PH2` end_connections) are now part of the family-level `end_connections`, which is `refines`. The 5 per-variant `643WG2` certification conflicts became 1 family-level conflict. The other 14 stay `conflict`.
 
@@ -121,3 +122,34 @@ Contradictions stay `conflict`: the page states something the sheet does not (or
 - Installation-tab photos (`RoughInPhotos/`, `FinishPhotos/`): the first pass never collected them. After this finding they were collected for all 15 families: 28 images (`image_type: other`) added across `640WP02`, `643WG2`, `525-02`, `523-31`, `687-3CH`, `630-C2412` and `821-200ANQ`.
 
 **Where the first pass was kept (at the time):** the phash ≤ 6 image dedup, NSF/ANSI 14 as a certification, and no `size_range` for single-size families. Under SPEC v1.1 the installation photos above were removed again, the 3 dropped sibling photos restored, and single-size ranges added. `230` `material_body` "plastic" and `applications` "Waste - Center Outlet" left out: the first comes from the category name "Plastic Tubular", the second is a product type, and neither is a spec row.
+
+
+## Blind re-label v2 (6 families, SPEC v1.1, 2026-10-10)
+
+Separate session ([01438a45](https://outpostai.devinenterprise.com/sessions/01438a4541944e989ce3659b3c5c6aa2)), working from `main` and the live site only, with no access to the gold branch, PR #1 or `sioux-chief.*` files. Families: the 3 from v1 (`821-200ANQ`, `230-2906101`, `120-TM3F`) plus 3 drawn with `Random(43).sample(sorted(ids), 3)` over the other 12 sampled family IDs: `304-06`, `630-C2412`, `525-02`. Agreement was measured against the gold **before** any v2 fix. Spec fields count as matching when the harness `compare_spec` score is 1.0 or the values are identical.
+
+| Row | v1: 3 families, old rules | v2: 6 families, SPEC v1.1 | v2 after fixes |
+|---|---|---|---|
+| Variants (SKU set) | 20/20 | 37/37 | 37/37 |
+| Documents (URL set) | 7/7 | 10/10 | 10/10 |
+| Doc type / lang / sha256 | 7/7 each | 10/10 each | 10/10 each |
+| Doc revision_date | 4/7 | 9/10 | 10/10 |
+| CAD/BIM | 1/1 | 1/1 | 1/1 |
+| Images | 13/17 (76%) | 25/25 (100%) | 25/25 |
+| Family spec fields | 17/29 (59%) | 31/45 (69%) | 31/45 |
+| Variant overrides | 10/31 | 0/20 | 0/20 |
+| cross_check (field in both) | 15/17 | 35/42 (83%) | 39/42 (93%) |
+
+**Gold corrections that came from blind v2 (the re-label was right):**
+1. **`size_unit` was `page_only` in 11 families, now `agree`.** The spec sheet also states the size in inches. Fixed for `640WP02`, `605QG2`, `643WG2`, `525-02`, `687-3CH`, `630-C2412`, `821-200ANQ`, `864-WGP`, `861-Q2286`, `865-12ECD` and `120-TM3F`, each with a verbatim sheet quote (e.g. `Drain body shall have a 2" Sch. 40 hub connection`). The blind pass flagged 4 of these; I applied the same check to all 15. `523-31` and `886-ER` stay `page_only`: their sheets show only dimensions, not the product size.
+2. **`630-C2412` end_connections:** added `closed`. The page says `Connection 2 Type Closed` and the sheet says `Type L copper tubing with a spun-closed end`.
+3. **`525-02` brochure revision_date:** `2021-09`, from the footer date code `09-2021`.
+
+**Where gold was kept (the blind value is not better):**
+- **Variant overrides (0/20).** The blind pass put per-variant materials into family-level lists, e.g. `821-200ANQ` material_body `["PVC","ABS"]`, and recorded no washer type for `230-2906101`. Gold keeps overrides for these text fields: `material_body` / `material_seals` are single-valued text kinds in the harness, so a list loses which variant is which. The `230` washer quotes (`Washer Type Hard` / `Washer Type Soft`) are verified in the evidence. Logged in HARNESS_ISSUES.
+- **`525-02` material_body.** Both passes say `conflict`: the sheet gives polypropylene for the standard strap and ABS for the glueable one, but every SKU page says ABS. Gold displays the sheet value, with an ABS override on `525-02G`.
+- **`525-02` size_unit `CTS` vs `in`.** SPEC 6 lists unit systems "NPS / DN / in", and CTS is not one of them, so gold keeps `in`. Logged in HARNESS_ISSUES.
+- **`525-02` temperature_range min 0.** `Impact resistant to 0ºF` is an impact rating, not an operating minimum, so gold keeps min null and max 140.
+- **`525-02` applications / certifications.** The blind pass cited the page title "Cost-Effective Stub Out Bracket" for applications and `IAPMO PS - 42` (a product standard, already in `standards`) for certifications. Gold keeps the sheet-only `residential` / `commercial` and `IAPMO`, both `pdf_only`.
+- **`120-TM3F` certifications / material_trim.** The blind pass missed `compliant with NSF-61 Annex G` and `Stainless steel springs`. Both are verified in the evidence, so `refines` / `pdf_only` stay.
+- **Wording only, kept:** `821-200ANQ` / `120-TM3F` applications and end_connections (`2" Sch. 40 hub` vs `Sch. 40 hub`, `3/8" compression` vs `compression`), and `630-C2412` "Type L copper tube" vs "Type L copper".
