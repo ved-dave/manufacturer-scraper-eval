@@ -105,3 +105,64 @@ Same checkpoint after steps 1–3. Deliver gold/bray.* back to my machine the sa
 3. **The conflicts list:** if there are many, verify one or two by hand.
 4. **`HARNESS_ISSUES.md`:** fix the harness before running Prompt 2.
 5. **Re-validate locally:** `cd harness && python3 -m mfr_harness.validate gold/sioux-chief.json --site sioux-chief --gold`
+
+---
+
+## Prompt 3: fix PR #1 (Sioux Chief) after the spec update (2026-10-09)
+
+```
+Follow-up on your Sioux Chief answer key (PR #1, branch gold/sioux-chief). The spec and harness changed
+based on your HARNESS_ISSUES.md and ambiguity log. Thank you; most of your suggestions were adopted.
+
+SETUP
+Re-copy SPEC.md and harness/ (everything except harness/gold/) from
+/Users/veddave/Desktop/url_csv_dataset into your VM, overwriting your copies. Then from harness/:
+  python -m unittest discover tests        # must pass, 16 tests, none skipped
+Read the changed parts of SPEC.md: 1a (crawling), 2 (multilingual lang), 4 (installation photos),
+6 (family vs variant level, single size), 6a (`refines`), 6b (provenance).
+
+WHAT CHANGED
+- robots.txt is no longer obeyed (SPEC 1a). Rate limits, the honest User-Agent, and no logins/forms still apply.
+- New cross_check value `refines`: the spec sheet is a more specific form of the page value
+  (page "Plastic" → sheet "PPSU"; the sheet's list contains the page's list and more). It counts as
+  agreement; display the sheet value and keep the page value in alt_values. Contradictions stay `conflict`.
+- Variant spec_overrides ONLY when a scored field differs and can't be expressed at family level
+  as a range or list. A single-size family has size_range min = max.
+- Installation / application / lifestyle photos (e.g. "Rough-in/Finish Installation" tabs) are EXCLUDED.
+- Image duplicates: only the same image at another size is an error. Photos of different sibling SKUs
+  are distinct images; phash ≤ 2 is now only a warning.
+- Provenance: a spec sheet linked from the family's own page is enough; a missing series code is no longer a warning.
+- Multilingual documents: lang lists languages in order, e.g. `en+fr+es` (English first and ≥ 50%).
+- login_required on every variant satisfies the price coverage requirement.
+
+TASKS
+1. Remove the binaries from the branch. harness/gold/sioux-chief.evidence/files/ must NOT be in the
+   branch history (it is now git-ignored). Keep files/ in your VM; keep text/ and manifest.csv in git.
+   Rewrite the branch history so no commit contains files/ (e.g. squash the branch into a single commit),
+   then force-push gold/sioux-chief. Confirm that `git ls-tree -r origin/gold/sioux-chief` lists no files/ paths.
+2. Relabel the 15 families against the new rules:
+   a. Every `conflict` where the sheet is a more specific form of the page value becomes `refines`.
+      The validator warns "should be refines" for each candidate; check each one by hand.
+   b. Remove variant spec_overrides that the new family-vs-variant rule doesn't require. Use min = max for single sizes.
+   c. Remove installation/application/lifestyle photos. Restore any sibling-SKU photos that were
+      dropped only because of the old phash ≤ 6 rule.
+   d. robots.txt: if any sampled family links documents under /downloads/ (previously skipped),
+      add them now with full document fields and evidence.
+   e. Use the new multilingual lang format where it applies.
+3. Blind re-label check, repeated with the new rules: a separate session, working only from the spec and
+   the site (not your gold), labels the same 3 families as before PLUS 3 more drawn with Random(43)
+   (6 total). Report agreement per row: variants, documents, CAD/BIM, images, family spec fields,
+   variant overrides, and cross_check values. Fix the gold where the re-label was right, and say which.
+4. Validate: `python -m mfr_harness.validate gold/sioux-chief.json --site sioux-chief --gold` → 0 errors,
+   and no "should be refines" warnings left unexplained.
+
+HARD RULES (unchanged)
+Don't modify harness code, schema or tests; report problems in HARNESS_ISSUES.md. Never infer values.
+Don't run score.py. Sioux Chief is the held-out test site: don't share gold contents outside the PR.
+
+DELIVER
+Force-push gold/sioux-chief and update the PR description with: the validator output; the before/after
+counts of conflict, refines and agree; the new 6-family agreement table next to the old 3-family one;
+the number of images removed and restored; any /downloads/ documents added; and the size of the PR
+(confirm there are no binary files).
+```

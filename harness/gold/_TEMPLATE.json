@@ -122,7 +122,7 @@
           "value": "lead-free brass",
           "raw_text": "Body: Lead Free Brass (C27453)",
           "display_source": "pdf",
-          "cross_check": "agree",
+          "cross_check": "refines",
           "sources": [
             {
               "url": "https://www.example.com/docs/100-spec.pdf",
@@ -132,16 +132,24 @@
               "quote": "Body: Lead Free Brass (C27453)",
               "snapshot_sha256": "1111111111111111111111111111111111111111111111111111111111111111",
               "retrieved_at": "2026-10-09T15:00:00Z"
-            },
+            }
+          ],
+          "alt_values": [
             {
-              "url": "https://www.example.com/products/series-100/",
-              "type": "page",
-              "page": null,
-              "section": "Specifications tab",
-              "variant_sku": null,
-              "quote": "Body Material: Lead Free Brass",
-              "snapshot_sha256": "3333333333333333333333333333333333333333333333333333333333333333",
-              "retrieved_at": "2026-10-09T15:00:00Z"
+              "value": "brass",
+              "raw_text": "Body Material: Brass",
+              "sources": [
+                {
+                  "url": "https://www.example.com/products/series-100/",
+                  "type": "page",
+                  "page": null,
+                  "section": "Specifications tab",
+                  "variant_sku": null,
+                  "quote": "Body Material: Brass",
+                  "snapshot_sha256": "3333333333333333333333333333333333333333333333333333333333333333",
+                  "retrieved_at": "2026-10-09T15:00:00Z"
+                }
+              ]
             }
           ]
         },

@@ -258,6 +258,7 @@
         "cross_check": {
           "enum": [
             "agree",
+            "refines",
             "conflict",
             "pdf_only",
             "page_only",
@@ -277,7 +278,7 @@
           "items": {
             "$ref": "#/$defs/alt_value"
           },
-          "description": "Disagreeing values (required when cross_check=conflict)."
+          "description": "Page value(s) that differ: required when cross_check is conflict (contradiction) or refines (more general page value)."
         }
       }
     },

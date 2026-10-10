@@ -27,7 +27,7 @@ EVIDENCE_TEXT = {
     '1' * 64: 'SERIES 100 SPECIFICATION SHEET  Sizes: 1/2" - 2"  Size (NPS) 1/2, 3/4, 1, 1-1/4,\n1-1/2, 2 '
               'Body: Lead Free Brass (C27453)  Pressure Rating: 600 WOG  Temperature: -20°F to 400°F '
               'Certified to NSF/ANSI 61 and NSF/ANSI 372; CSA listed. Conforms to MSS SP-110',
-    '3' * 64: 'Series 100 Ball Valve  Sizes 1/2" to 2"  Body Material: Lead Free Brass  Connections: NPT, Solder '
+    '3' * 64: 'Series 100 Ball Valve  Sizes 1/2" to 2"  Body Material: Brass  Connections: NPT, Solder '
               'Max Pressure: 400 WOG  Ideal for potable water and HVAC hydronic systems. '
               'Contact your local distributor for pricing',
     '4' * 64: '2026 List Price Book  Series 100  100-050 1/2" $42.18',
@@ -142,6 +142,37 @@ class TestValidate(unittest.TestCase):
                          'quote not found'):
             self.assertIn(expected, msgs)
 
+    def test_refines(self):
+        g = gold_fixture()
+        errors, rep = rule_errors(g)
+        self.assertEqual(errors, [])
+        self.assertFalse(any('refines' in m for s, _, m in rep.items if s == 'WARN'))
+        mb = g['families'][0]['specs']['material_body']
+        mb['cross_check'] = 'conflict'                               # a refinement mislabelled as conflict
+        _, rep = rule_errors(g)
+        self.assertTrue(any('should be refines' in m for s, _, m in rep.items if s == 'WARN'))
+        mb['cross_check'] = 'refines'
+        del mb['alt_values']
+        self.assertTrue(any('alt_values is empty' in m for _, _, m in rule_errors(g)[0]))
+
+    def test_near_duplicate_images_warn_not_error(self):
+        g = gold_fixture()
+        fam = g['families'][0]
+        img = fam['images'][0]
+        fam['images'].append(dict(img, url='https://www.bray.com/images/sibling-sku.jpg', phash='c3d1e0f0a0b0c0d1'))
+        errors, rep = rule_errors(g)
+        self.assertEqual(errors, [])
+        self.assertTrue(any('possibly the same image' in m for s, _, m in rep.items if s == 'WARN'))
+        fam['images'][-1]['phash'] = 'c3d1e0f0a0b0c0ff'          # distance 7: a different photo, no warning
+        _, rep = rule_errors(g)
+        self.assertFalse(any('possibly the same image' in m for _, _, m in rep.items))
+
+    def test_gold_sample_has_no_coverage_warning(self):
+        g = gold_fixture()
+        g['coverage']['sitemap_families'] = 700
+        _, rep = rule_errors(g)
+        self.assertFalse(any(w == 'coverage' for _, w, _ in rep.items))
+
     def test_pdf_provenance(self):
         g = gold_fixture()
         fam = g['families'][0]
@@ -153,8 +184,8 @@ class TestValidate(unittest.TestCase):
         g = gold_fixture()
         g['families'][0]['series_code'] = '999'
         g['families'][0]['name'] = 'Series 999 Gate Valve'
-        _, rep = rule_errors(g)
-        self.assertTrue(any('does not mention series' in m for s, _, m in rep.items if s == 'WARN'))
+        _, rep = rule_errors(g)          # linked from the family page: series-level sheet is fine
+        self.assertFalse(any('does not mention series' in m for _, _, m in rep.items))
 
 
 class TestScore(unittest.TestCase):

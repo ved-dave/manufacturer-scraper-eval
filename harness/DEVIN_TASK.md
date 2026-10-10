@@ -20,7 +20,8 @@ python -m unittest discover tests        # all tests must pass, including the sc
 ```
 
 ## Rules of engagement (apply to every request)
-- Respect `robots.txt`. At most 1 request per second per host. Use a descriptive User-Agent.
+- `robots.txt` is **not** obeyed (SPEC 1a): disallowed pages and files are in scope. At most 1 request per
+  second per host. Use a descriptive User-Agent.
 - No logins and no form submissions (this includes gated CAD download forms).
 - If a site blocks you (403/challenge page), use a normal browser session at a slow rate. Do not use
   techniques intended to get around bot protection. If it stays blocked, record it in `flags` and `site_profile.blocked`.
@@ -30,7 +31,8 @@ python -m unittest discover tests        # all tests must pass, including the sc
 1. `gold/<site>.json`: answer key in the SiteRun format.
 2. `gold/<site>.ambiguities.md`: every judgement call (see step 5).
 3. `gold/<site>.evidence/`: everything you cited:
-   - `files/`: downloaded PDFs and CAD zips, plus the HTML of every page you cited, each named `<sha256>.<ext>`
+   - `files/`: downloaded PDFs and CAD zips, plus the HTML of every page you cited, each named `<sha256>.<ext>`.
+     Keep these in your VM but **do not commit them** (they are git-ignored); commit `text/` and `manifest.csv`.
    - `text/<sha256>.txt`: extracted text of every cited PDF and page. This is what the validator checks quotes
      against. For pages, save the text **after** opening the tab or selecting the variant where the value appears.
    - `manifest.csv`: url, sha256, bytes, content_type, retrieved_at
@@ -62,7 +64,8 @@ you find more; never distributors or other companies). Note any change in `HARNE
   largest category and log the swap:
   - at least 3 families with CAD/BIM (if the site has any)
   - at least 3 families with more than one variant
-  - at least 1 family with price information or a price list (if the site has any)
+  - at least 1 family with price information or a price list (if the site has any). If prices sit behind a
+    login, `login_required` on every variant satisfies this.
 
 ### 4. Label each sampled family completely
 For every sampled family, record everything the spec includes:
@@ -76,14 +79,19 @@ For every sampled family, record everything the spec includes:
 - **images**: for each distinct image, find the **largest available version** by checking `srcset`, the
   un-resized original URL (remove `-300x212`, `/styles/.../`, `stencil/WxH` and similar), and the full-size
   link if one exists. Record `width`, `height` and `phash` (`str(imagehash.phash(img))`). Skip anything under
-  300 px on the shortest side, and site decoration (logos, icons, social preview images).
+  300 px on the shortest side, site decoration (logos, icons, social preview images), and installation,
+  application or lifestyle photos (SPEC section 4). Photos of different sibling SKUs are distinct images.
 - **specs**: check **both** the web page and every spec PDF for **every** field (SPEC 6a):
   - On the page, open every tab and accordion and step through every variant selector (select only, never submit).
     Where a value only appears with one variant selected, it is a variant `spec_overrides` entry with `variant_sku` set on its source.
-  - Set `cross_check` to `agree`, `conflict`, `pdf_only` or `page_only`.
+  - Set `cross_check` to `agree`, `refines`, `conflict`, `pdf_only` or `page_only`. `refines` = the spec sheet
+    is a more specific form of the page value (page "Plastic", sheet "PPSU"; the sheet's list contains the
+    page's list and more). A contradiction, or any different number, is `conflict`.
   - **Displayed `value` precedence:** spec sheet or submittal PDF, then the web page, then any other PDF. `display_source` records which.
-  - On a **conflict**, display the spec sheet value, put the other value(s) in `alt_values` with their own sources,
-    and log it in `ambiguities.md`.
+  - On a **conflict** or **refines**, display the spec sheet value and put the page value(s) in `alt_values` with
+    their own sources. Log conflicts in `ambiguities.md`.
+  - Variant `spec_overrides` only when a scored field differs and cannot be written as a family-level range
+    or list (SPEC section 6). A single-size family has `size_range` min = max.
   - Every source needs a short verbatim `quote` that appears in its evidence text, plus `snapshot_sha256`, `section` and
     `retrieved_at`. PDF sources also need the page number.
   - Leave out fields that neither source states. Do not infer them. Value formats are in the schema `specs`

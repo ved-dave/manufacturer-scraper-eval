@@ -19,7 +19,7 @@ from . import normalize as N
 from .config import SCHEMA_PATH, PRIMARY_DOC_TYPES, load_json, site_hosts
 
 MIN_IMAGE_SIDE = 300
-PHASH_DUP_DISTANCE = 6
+PHASH_DUP_DISTANCE = 2      # renditions of one image are 0-2 apart; photos of sibling SKUs are often 4-6 apart
 SITEMAP_GAP = 0.15
 SPEC_SHEET_TYPES = {'spec_sheet', 'submittal'}
 
@@ -159,16 +159,24 @@ def _check_spec(spec, where, ctx, rep, is_gold, ev):
     if cc == 'not_checked':
         rep.add('ERROR' if is_gold else 'WARN', where, 'cross_check not done (page and PDF must both be checked)')
     elif has_pdf and has_page:
-        if cc not in ('agree', 'conflict'):
+        if cc not in ('agree', 'refines', 'conflict'):
             rep.add('ERROR', where, f'page and PDF both cited but cross_check={cc}')
     elif has_pdf and cc != 'pdf_only':
         rep.add('ERROR', where, f'only PDF sources but cross_check={cc}')
     elif has_page and cc != 'page_only':
         rep.add('ERROR', where, f'only page sources but cross_check={cc}')
-    if cc == 'conflict' and not spec.get('alt_values'):
-        rep.add('ERROR', where, 'cross_check=conflict but alt_values is empty')
-    if cc != 'conflict' and spec.get('alt_values'):
+    if cc in ('conflict', 'refines') and not spec.get('alt_values'):
+        rep.add('ERROR', where, f'cross_check={cc} but alt_values is empty')
+    if cc not in ('conflict', 'refines') and spec.get('alt_values'):
         rep.add('ERROR', where, f'alt_values present but cross_check={cc}')
+    if cc == 'refines':
+        key = where.rsplit('.', 1)[-1]
+        if not all(N.refines(key, spec, alt) for alt in spec.get('alt_values') or []):
+            rep.add('WARN', where, 'cross_check=refines but the displayed value does not look like a narrower form of alt_values')
+    if cc == 'conflict' and spec.get('alt_values'):
+        key = where.rsplit('.', 1)[-1]
+        if all(N.refines(key, spec, alt) for alt in spec['alt_values']):
+            rep.add('WARN', where, 'cross_check=conflict but the displayed value refines the page value (should be refines)')
 
 
 def _check_pdf_provenance(ctx, rep, ev):
@@ -185,10 +193,11 @@ def _check_pdf_provenance(ctx, rep, ev):
         if doc is None:
             continue  # reported by _check_one_source
         where = f'{ctx.fid}:provenance:{doc["url"]}'
-        if not doc.get('found_on') or N.match_key(doc['found_on']) not in ctx.page_keys:
+        linked_from_family = bool(doc.get('found_on')) and N.match_key(doc['found_on']) in ctx.page_keys
+        if not linked_from_family:
             rep.add('ERROR', where, 'spec PDF is not linked from one of this family\'s pages (found_on)')
         text = ev.text(doc.get('sha256'))
-        if text is not None:
+        if text is not None and not linked_from_family:
             needles = [n for n in (series, ctx.fam.get('name')) if n]
             if needles and not any(norm_text(n) in text or norm_text(n).replace(' ', '') in text.replace(' ', '') for n in needles):
                 rep.add('WARN', where, f'PDF text does not mention series "{series}" or the family name')
@@ -247,7 +256,7 @@ def check_family(fam, allowed, viewer_hosts, rep, is_gold, ev):
         else:
             d = N.phash_distance(a.get('phash'), b.get('phash'))
             if d is not None and d <= PHASH_DUP_DISTANCE:
-                rep.add('ERROR', f'{fid}:images[{i}],[{j}]', f'visually duplicate (phash distance {d})')
+                rep.add('WARN', f'{fid}:images[{i}],[{j}]', f'possibly the same image (phash distance {d}); keep both only if they are different products')
 
     for k, v in (fam.get('specs') or {}).items():
         _check_spec(v, f'{fid}:specs.{k}', ctx, rep, is_gold, ev)
@@ -303,7 +312,7 @@ def validate(run, site=None, is_gold=False, evidence_dir=None):
             _check_url(e['url'], 'family_index', allowed, viewer_hosts, rep)
 
     cov = run.get('coverage') or {}
-    if cov.get('sitemap_families'):
+    if cov.get('sitemap_families') and not is_gold:      # gold labels a sample by design
         n = len(run.get('families', []))
         gap = abs(cov['sitemap_families'] - n) / cov['sitemap_families']
         if gap > SITEMAP_GAP:

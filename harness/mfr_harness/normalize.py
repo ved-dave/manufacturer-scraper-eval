@@ -219,3 +219,66 @@ def compare_spec(key, gold, pred):
         return set_f1(g, p)
     except (TypeError, ValueError, KeyError, AttributeError):
         return 0.0
+
+
+# ---------------------------------------------------------------- refinement (SPEC 6a)
+
+# General term -> words that make a value a more specific member of it.
+MATERIAL_FAMILIES = {
+    'plastic': ['pvc', 'cpvc', 'abs', 'ppsu', 'psu', 'pex', 'pp', 'pe', 'hdpe', 'ldpe', 'pvdf', 'ptfe', 'nylon',
+                'polypropylene', 'polyethylene', 'polysulfone', 'polyphenylsulfone', 'acetal', 'delrin', 'pps',
+                'polymer', 'thermoplastic', 'peek', 'rptfe', 'tfm'],
+    'polymer': ['pvc', 'cpvc', 'abs', 'ppsu', 'pex', 'pp', 'pe', 'nylon', 'ptfe', 'peek'],
+    'steel': ['carbon', 'stainless', 'galvanized', 'galvanised', 'alloy', 'duplex', 'chrome', '304', '316', '416',
+              'a105', 'wcb'],
+    'iron': ['cast', 'ductile', 'malleable', 'grey', 'gray'],
+    'brass': ['dzr', 'lead', 'no-lead', 'forged', 'c27453', 'c46500', 'c69300', 'eco'],
+    'bronze': ['aluminum', 'aluminium', 'silicon', 'cast', 'lead', 'no-lead', 'c84400', 'c89833'],
+    'rubber': ['epdm', 'nbr', 'buna', 'fkm', 'viton', 'neoprene', 'silicone', 'hnbr', 'sbr', 'elastomer'],
+    'elastomer': ['epdm', 'nbr', 'buna', 'fkm', 'viton', 'neoprene', 'silicone', 'hnbr'],
+    'metal': ['steel', 'iron', 'brass', 'bronze', 'copper', 'aluminum', 'aluminium', 'stainless'],
+    'threaded': ['npt', 'bspt', 'bsp', 'fnpt', 'mnpt', 'fip', 'mip', 'nptf'],
+    'thread': ['npt', 'bspt', 'bsp', 'fnpt', 'mnpt', 'fip', 'mip', 'nptf'],
+}
+
+
+def _words(s):
+    return set(re.findall(r'[a-z0-9]+(?:-[a-z0-9]+)?', str(s).lower()))
+
+
+def _text_refines(specific, general):
+    """True when `specific` narrows `general`: same words plus qualifiers, or a member of a material family."""
+    ws, wg = _words(specific), _words(general)
+    if not ws or not wg or ws == wg:
+        return False
+    if wg < ws:                      # "brass" -> "no-lead brass"
+        return True
+    for g in wg & set(MATERIAL_FAMILIES):
+        if ws & set(MATERIAL_FAMILIES[g]) or any(w.startswith(tuple(MATERIAL_FAMILIES[g])) for w in ws):
+            rest = wg - {g}
+            if not rest or rest <= ws:
+                return True
+    return False
+
+
+def refines(key, specific, general):
+    """SPEC 6a: is spec-sheet value `specific` a more specific form of page value `general`?
+    Both are spec_value-like dicts. Numbers never refine."""
+    kind = SPEC_KINDS.get(key, 'text')
+    sv, gv = specific.get('value'), general.get('value')
+    if kind in ('set', 'cert_set', 'size_set'):
+        if kind == 'cert_set':
+            s_set, g_set = cert_tokens(_as_list(sv)), cert_tokens(_as_list(gv))
+        elif kind == 'size_set':
+            s_set = {round(x, 4) for x in (parse_size(v) for v in _as_list(sv)) if x is not None}
+            g_set = {round(x, 4) for x in (parse_size(v) for v in _as_list(gv)) if x is not None}
+        else:
+            s_set, g_set = {norm_token(x) for x in _as_list(sv)}, {norm_token(x) for x in _as_list(gv)}
+        if g_set and g_set < s_set:
+            return True
+        # every general item is narrowed by some specific item ("threaded" -> "NPT")
+        return bool(g_set) and all(any(x == y or _text_refines(y, x) for y in _as_list(sv)) for x in _as_list(gv)) \
+            and s_set != g_set
+    if kind == 'text':
+        return _text_refines(sv, gv)
+    return False

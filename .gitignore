@@ -2,3 +2,14 @@
 __pycache__/
 *.pyc
 .venv/
+# scraper working data (re-creatable; may contain third-party files)
+scraper/cache/
+scraper/runs-dev/
+scraper/devdata/
+# downloaded PDFs/CAD/HTML are large; keep extracted text + manifest only
+*.evidence/files/
+# generated run outputs and score reports
+harness/runs/*
+!harness/runs/.gitkeep
+harness/reports/*
+!harness/reports/.gitkeep

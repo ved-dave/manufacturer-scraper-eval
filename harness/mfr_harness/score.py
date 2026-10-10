@@ -117,6 +117,7 @@ def score_labelled(gold, pred_fams):
     spec_scores, spec_missing, spec_extra = {}, {}, 0
     spec_by_source = {'pdf': [], 'page': []}
     conflict = {'tp': 0, 'fn': 0, 'fp': 0}
+    refines_seen = [0, 0]   # gold refines, of which pred also said refines
     cited = cite_n = cross_checked = 0
     price = {'variants_with_gold_price': 0, 'availability_correct': 0,
              'amount_checked': 0, 'amount_correct': 0, 'currency_correct': 0, 'price_type_correct': 0}
@@ -173,6 +174,8 @@ def score_labelled(gold, pred_fams):
                 spec_missing[k] = spec_missing.get(k, 0) + 1
             spec_scores.setdefault(k, []).append(score)
             spec_by_source.setdefault(g.get('display_source') or 'unknown', []).append(score)
+            refines_seen[0] += g.get('cross_check') == 'refines'
+            refines_seen[1] += g.get('cross_check') == 'refines' and (pspecs.get(k) or {}).get('cross_check') == 'refines'
             g_conf = g.get('cross_check') == 'conflict'
             p_conf = (pspecs.get(k) or {}).get('cross_check') == 'conflict'
             conflict['tp'] += g_conf and p_conf
@@ -222,6 +225,8 @@ def score_labelled(gold, pred_fams):
         'specs_extra_unverified': spec_extra,
         'spec_citation_rate': ratio(cited, cite_n),
         'spec_cross_check_rate': ratio(cross_checked, cite_n),
+        'refines_detection': {'gold': refines_seen[0], 'pred_agrees': refines_seen[1],
+                              'recall': ratio(refines_seen[1], refines_seen[0])},
         'conflict_detection': {**conflict,
                                'recall': ratio(conflict['tp'], conflict['tp'] + conflict['fn']),
                                'precision': ratio(conflict['tp'], conflict['tp'] + conflict['fp'])},
