@@ -64,7 +64,7 @@ CAD (`cad_type`):
 Images (`image_type`): `product_photo`, `dimensional_drawing`, `other`.
 
 ## 6. Spec fields (family level; variant overrides where they differ)
-- Size: range, unit system (NPS / DN / in), list of available sizes
+- Size: range, unit system (NPS / DN / in / mm / CTS / IPS; CTS = copper tube size, IPS = iron pipe size), list of available sizes
 - Materials: body, trim/disc/ball, seat, seals
 - End connection: NPT, solder, press, PEX, grooved, flanged (+ class), ...
 - Ratings: pressure (with units and conditions, e.g. 600 WOG), temperature range
@@ -76,6 +76,11 @@ Images (`image_type`): `product_photo`, `dimensional_drawing`, `other`.
 `spec_overrides` entry **only** when its value for a scored field differs from the family value and
 the difference cannot be expressed at family level (as a range, e.g. `size_range`, or a list, e.g.
 `sizes_available`, `end_connections`). Size alone never needs an override (it is `variant.size`).
+
+**Materials that differ by variant (decided 2026-10-10).** When variants differ only in a material
+field, record the family-level value as a comma-separated list in order of first appearance
+(e.g. `material_body: "PVC, ABS"`) and do **not** add per-variant overrides. Overrides remain only for
+values that cannot be written as a family-level range or list (e.g. a pressure rating that differs by size).
 
 **Single size.** A family available in one size records `size_range` with `min` = `max`.
 
