@@ -1,0 +1,145 @@
+Sioux Chief Manufacturing Company    |    P: 1.800.821.3944    |    F: 1.800.758.5950    |    www.siouxchief.com 
+07-23
+687 SERIES
+WATER HEATER ACCESS BOX
+FLOW-THROUGH DESIGN
+ITEM # SUBMITTED_________________________________________
+JOB NAME_______________________________________________
+LOCATION_______________________________________________
+ENGINEER_______________________________________________
+CONTRACTOR____________________________________________
+PO#_ _______________________ TAG________________________
+SPECIFICATION
+Sioux Chief 687 Series water heater access box shall be used where 
+accessible, valved connection for water heaters is required. Two-box design 
+shall include one box for cold-side MIP outlet with ball valve and flow-through 
+bypass behind the valve; and second box for hot-side MIP elbow inlet with 
+test cap. Ball valve shall be replaceable, 600 WOG with T-handle and 
+quarter-turn operation.
+Elbow and tailpiece connections shall comply with ASTM standards.
+INSTALLATION
+See www.siouxchief.com for full installation instructions.
+Install in a location that allows for operation, service, maintenance, etc. 
+Make all connections per ASTM standards with compliant materials and 
+processes. Test with water and inspect all connections for leaks before use.
+MATERIALS
+Valve body: No-lead brass2
+Tailpiece/Elbow: No-lead brass1
+Valve handle: Annodized aluminum
+Test cap: Nylon (hot-side)
+FIP swivel gaskets: EPDM
+MainBlock tube anchors: ABS
+Access box: Fire-rated ABS
+CERTIFICATIONS/APPROVALS
+ Tested/Certified/Approved for use in fire-rated applications – See back for ratings 
+IAPMO Listed, Complies with ANSI/NSF 372, Meets ASME A112.18.1 and ASME A112.4.14
+•	 End connections are manufactured to specifications called out in their respective ASTM standards.
+•	 Standards for Fittings and tube options include: CPVC D2846, PEX tube F876/F877, PEX fittings  
+	 ASTM F1807 & F1960, PERT tube ASTM 2769, PE tube ASTM D2737, PVC pipe ASTM D1785, CTS  
+	 push fittings (ASSE 1061) compatible with CTS tube, IPS push fittings compatible with IPS pipe
+VALVE MAX PRESSURE
+600 psig WOG
+DIMENSIONS
+A: Overall height
+CPVC Socket
+MSWT/Press/Push
+Push (CTS)
+PEX F1960
+PEX F1807
+     3/4" Nom
+8-5/8"
+10"
+8-5/8"
+8-5/8"
+9-3/8"
+ Create Item Number
+687-A
+e.g. 687-3QH: Flow-through-style water heater access box with 600 WOG full-port ball valve - 3/4" CTS Push connection
+Accessories - Available Separately:
+687-1F: Finish frame - fits all ServiceBox access boxes
+696-EX: Frame extension - for multiple layers of drywall
+648-3SM: 600 WOG Brass Ball Valve - 3/4" FIPS x 3/4" MIP
+687-3SFMH: Cross Adapter - 3/4'' FIP Swivel X 3/4'' FIP X 3/4'' MIP X 3/4'' MHT w/ Cap
+687-3SMFH: Cross Adapter - 3/4'' FIP Swivel X 3/4'' MIP X 3/4'' FIP X 3/4'' MHT w/ Cap
+687-3SMMH: Cross Adapter - 3/4'' FIP Swivel X 3/4'' MIP X 3/4'' MIP X 3/4'' MHT w/ Cap
+687-3SMKIT: Cross Adapter Kit - Includes 648-3SM / 687-3SMFH / 687-3SMMH
+598-023: TankBracket™ Expansion tank support bracket
+ServiceBox™
+	
+CONNECTION SIZE/TYPE A
+	 3CH = 3/4" CPVC socket 
+	 3PH = 3/4" MSWT/Press/Push 
+	 3QH = 3/4" Push socket 
+	 3WH = 3/4" PEX F1960 Expansion 
+	 3XH = 3/4" PEX F1807 Crimp
+687-3QH
+4"
+5-1/2"
+3-7/8"
+5-7/8"
+O/C
+A
+1	 Tailpiece material is C693 on PEX F1807/F1960, and MSWT models, 
+	 and is otherwise C46500. Materials are dezincification and SCC 	resistant, 
+	 and compliant with NSF-61 Annex G (California No Lead Plumbing Law)
+2	 Valve material is C69300. Dezincification and SCC resistant, and 
+	 compliant with NSF-61 Annex G (California No Lead Plumbing Law)
+
+1 Box
+2 Boxes 
+Stacked
+2 Boxes 
+Side x Side BETWEEN Studs
+1 Hr = 1 layer 5/8" each face | 2 Hr = 2 layers 5/8" each face
+Wood or Steel Studs | No back-to-back installations
+NO penetrations in adjacent stud cavity
+Interlocked metal fire-shield with intumescent pad 
+must be installed on all boxes in fire-rated walls
+	
+1 Hr Walls:	
+2 Hr Walls: 
+	
+F: 60 min	
+F: 120 min 
+	
+T: 34.5 min	
+T: 58.5 min 
+	
+H: 
+H:
+Sioux Chief Manufacturing Company    |    P: 1.800.821.3944    |    F: 1.800.758.5950    |    www.siouxchief.com 
+A
+A
+B
+B
+ASTM E814
+A
+A
+Frames sold seperately
+No. 
+687-1F
+ASTM E814
+2 Boxes 
+Side x Side OVER Studs
+1 Hr = 1 layer 5/8" each face | 2 Hr = 2 layers 5/8" each face
+Wood or Steel Studs | No back-to-back installations
+NO penetrations in adjacent stud cavity
+Interlocked metal fire-shield with intumescent pad 
+must be installed on all boxes in fire-rated walls
+	
+1 Hr Walls:	
+2 Hr Walls: 
+	
+F: 60 min	
+F: 120 min 
+	
+T: 27.5 min	
+T: 60 min 
+	
+H: 
+H:
+ASTM E814
+B
+B
+A
+B

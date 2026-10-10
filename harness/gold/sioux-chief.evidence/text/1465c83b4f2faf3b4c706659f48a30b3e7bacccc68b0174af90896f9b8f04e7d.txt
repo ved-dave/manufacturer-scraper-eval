@@ -1,0 +1,117 @@
+A
+Optional
+Bracket
+F
+Sioux Chief Manufacturing Company    |    P: 1.800.821.3944    |    F: 1.800.758.5950    |    www.siouxchief.com 
+08-24
+630-C SERIES
+STUB OUT ELBOW for CPVC
+ITEM # SUBMITTED_________________________________________
+JOB NAME_______________________________________________
+LOCATION_______________________________________________
+ENGINEER_______________________________________________
+CONTRACTOR____________________________________________
+PO#_ _______________________ TAG________________________
+SPECIFICATION
+Sioux Chief 630 series stub out elbows shall be used where necessary 
+in hot and cold water supply systems. Elbows shall be formed from Type L 
+copper tubing with a spun-closed end and provide full flow to valve or fixture. 
+Tube and elbow inlet connections shall conform to appropriate standards 
+including ASTM fitting end specifications.
+MATERIALS
+Elbow: Type L copper tube
+Socket: CPVC
+O-ring: EPDM
+Optional Mounting Bracket: copper-plated steel
+INSTALLATION NOTES
+Do not expose the CPVC transition area to heat in excess of 180°F. Excessive 
+heat will damage the CPVC insert and internal o-ring seal. Perform any/all 
+solder joints on at the indicated minimum distance along the copper tube (see 
+installation instructions provided). Do not solder or braze in close proximity to CPVC 
+transition area unless it is protected with a heat-blocker to protect/keep the 
+transition area under 180°F. Cool the transition area of fitting immediately after 
+soldering is complete. Pressure test all joints before use.
+DIMENSIONS
+Model:
+C2412
+C248(E)
+C287
+C348
+A: Inlet
+1/2"
+1/2"
+1/2"
+3/4"
+B: Height (Leg)
+3-5/8"
+3-5/8"
+8"
+6"
+C: Length
+12"
+8"
+7"
+8"
+D: Tube OD
+0.625"
+0.625"
+0.625"
+0.875"
+E: Leg-to-bracket
+n/a
+1-3/4"
+n/a
+n/a
+F: Radius
+1-1/4"
+1-1/4"
+1-1/4"
+1-3/4"
+Model:
+C3612
+C41016
+C41110(E)
+A: Inlet
+3/4"
+1"
+1"
+B: Height (Leg)
+6"
+10"
+11"
+C: Length
+12"
+16"
+10"
+D: Tube OD
+0.875"
+1.125"
+1.125"
+E: Leg-to-bracket
+n/a
+n/a
+2-1/4"
+F: Radius
+1-3/4"
+2"
+2"
+	
+STUB OUT ELBOW A
+	 C2412 = 1/2" CPVC, 3-5/8" x 12" stub out elbow	
+	 C248 = 1/2" CPVC, 3-5/8" x 8" stub out elbow
+	 C248E = 1/2" CPVC, 3-5/8" x 8" stub out elbow with bracket	
+	 C287 = 1/2" CPVC, 8" x 7" stub out elbow
+	 C348 = 3/4" CPVC, 6" x 8" stub out elbow	
+	 C3612 = 3/4" CPVC, 6" x 12" stub out elbow
+	 C41016 = 1" CPVC, 10" x 16" stub out elbow	
+	 C41110 = 1" CPVC, 11" x 10" stub out elbow
+	 C41110E = 1" CPVC, 11" x 10" stub out elbow with bracket
+ Create Item Number
+C
+D
+B
+630-C248
+630-C248E
+E
+630-A
+e.g. 630-C248E: 1/2" CPVC, 3-5/8" x 8" stub out elbow with bracket

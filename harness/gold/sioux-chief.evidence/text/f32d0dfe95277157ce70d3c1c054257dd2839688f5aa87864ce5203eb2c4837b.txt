@@ -1,0 +1,96 @@
+SPECIFICATION
+Sioux Chief ASTM F1960 Grip™ brass PEX fitting system shall be used in 
+hot and cold water distribution systems. Fittings are approved for use with 
+ASTM F876 PEX tubing with cold-expansion rings. Please contact Sioux Chief 
+representative for specific product information within the Sioux Chief ASTM 
+F1960 product offering.
+MATERIALS
+No-Lead Brass*
+INSTALLATION NOTES 
+Full installation instructions can be found at www.siouxchief.com. ASTM F1960 
+connections with PowerPEX® type B tubing must be made with a self-rotating, 
+power expansion tool. ASTM F1960 connections made in temperatures below 
+35 ºF with either Sioux Chief PowerPEX® type A or type B tubing should be 
+conditioned per Sioux Chief installation instructions to allow the tube and ring 
+to annularly constrict around the sealing barb of the fitting thereby achieving an 
+air-tight pressure seal. Pressure test all joints before use.
+DIMENSIONS per ASTM F1960
+½"
+¾"
+1"
+A: Ftg Inside diameter
+0.378" min
+0.595" min
+0.795" min
+B: Ftg Upper barb diameter
+0.618" min
+0.610" max
+0.874" min
+0.866" max
+1.110" min
+1.102" max
+C: Ftg Lower barb diameter
+0.579" min
+0.571" max
+0.795" min
+0.787" max
+1.032" min
+1.024" max
+D: Fitting end length
+0.689" min
+0.729" max
+0.925" min
+0.965" max
+1.161" min
+1.201" max
+E: Ring inside diameter
+0.633"
++/- 0.003
+0.882"
++/- 0.004
+1.134"
++/- 0.004
+F: Ring wall thickness
+0.123"
++/- 0.005
+0.123"
++/- 0.005
+0.143"
++/- 0.006
+G: Ring overall height
+0.630"
++/- 0.020
+0.866"
++/- 0.020
+1.102"
++/- 0.030
+* Material is C69300 dezincification and SCC resistant, and is compliant with NSF-61 Annex G and California No Lead Plumbing Law
+Sioux Chief Manufacturing Company    |    P: 1.800.821.3944    |    F: 1.800.758.5950    |    www.siouxchief.com 
+6-20
+6_WG SERIES
+ Item Number Series
+ASTM F1960 PEX BRASS FITTING SYSTEM
+ITEM # SUBMITTED_________________________________________
+JOB NAME_______________________________________________
+LOCATION_______________________________________________
+ENGINEER_______________________________________________
+CONTRACTOR____________________________________________
+PO#_ _______________________ TAG________________________
+C
+A
+D
+Grip™
+B
+E
+F
+G
+ 632WG_ = Brass MIP Elbow Adapters
+ 640WG_ = Brass Plugs
+ 641WG_ = Brass Tees
+ 642WG_ = Brass Elbows
+ 643WG_ = Brass MSWT Adapters
+ 644WG_ = Brass FSWT Adapters
+ 645WG_ = Brass Couplings
+ 646WG_ = Brass MIP Adapters
+ 647WG_ = Brass FIP Adapters
+ 672WG_ = Brass Multi-port Tees

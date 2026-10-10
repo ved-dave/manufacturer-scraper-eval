@@ -1,0 +1,305 @@
+INSTALLATION TIPS
+Sediment/Heat Trap: Install a heat trap loop or sediment trap 
+upstream of the device. This will keep the internal screens and 
+working chamber as clean as possible for continued service. 
+Supply Valves: Access box models (696 Series) include in-line 
+isolation valves. It is possible to throttle the hot and cold water 
+using this isolation valve to achieve the exact desired outlet 
+temperature of the mixing outlet. The outlet mix temperature 
+should always be checked to be set at the desired temperature 
+with all working conditions set. 
+For 120-TM3F models, stop valves should be used for service 
+and repair applications.
+Thermostatic Mixing Valve
+with Cold Bypass
+Model:	120-TM3F
+	
+Mixing valve with mounting block
+Model:	696-T2001CR, 696-T2001PR,
+	
+	 	
+	
+696-T2001WR, 696-T2001XR
+	
+Mixing valve with in-line isolation valves and access box1
+Application:
+For faucet or sink water supply to prevent scalding when 
+faucet is activated. Final water temperature must be set by 
+installation professional. Each unit includes integral stainless 
+steel screens with micro-mesh to catch all fouling debris and 
+protect the valve. Each unit includes integral stainless steel 
+spring, EPDM o-rings, no-lead brass plugs/body/caps and 
+assemblies. Each unit includes integral check valves to inhibit 
+cross-flow. Each unit includes a mounting/positioning block, 
+nylon test cap, and brass bypass cap.
+Specs:
+Operating Pressure: 30 psi – 125 psi
+Max Test Pressure: 150 psi
+Cold Inlet Temperature: 39º – 85º F
+Hot Inlet Temperature: 120º – 180º F
+Flow Rate: 0.25 gpm – 4 gpm
+Differential (hot to cold) Pressure: 25% max
+Features:
+	
+Ensures proper thermostatic mixing for tempered water to 
+	
+satisfy plumbing codes and eliminate scalding. 
+	
+ASSE 1070 approved
+	
+Hot water temperature can safely be set high enough to 
+	
+control Legionella (usually around 140º F)
+	
+Reduce hot water use. Using tempered water means less 
+	
+hot water demand and less energy consumption. 
+	
+Top-quality materials – No Lead brass valve body1 is 
+	
+dezincification and SCC resistant. EPDM o-rings. Stainless 
+	
+steel and engineered polymer internal components
+1 Finish frame (696-1F) and accessories available separately
+2 Material is C69300 and C46500. Brass is dezincification and SCC resistant,
+and is compliant with NSF-61 Annex G and California No Lead Plumbing Law
+WARNING
+Water Temperatures of 110º and Above Will Scald!
+Ensure water is maintained in a safe temperature range.
+Failure to follow warnings and instructions can cause harm 
+to the device, the installer, and/or the operator. To ensure 
+the product is being operated properly for the lifetime of 
+the device, follow instructions.
+WARNING
+Maintenance: Periodic maintenance of the device should 
+be performed - minimally once a year. Valve inlet screens 
+should be cleaned and checked for debris or water scale, 
+and cleaned or replaced as necessary. Overall valve 
+performance should be monitored. Use inspection log 
+and keep in facilities maintenance. Routine inspections 
+and maintenance can help avoid problems before they 
+start and should be used to ensure valve is working 
+properly (supplying safe temperature) and has not been 
+set by an unauthorized individual. 
+Water Quality: Water quality can affect the time between 
+inspections and needed cleaning. Seasonal checks are 
+recommended.
+!! AT START UP, FLUSH THE WATER SUPPLY LINES 
+THOROUGHLY DOWNSTREAM OF THE DEVICE !!
+For access box models, the isolation valves are shipped 
+in the OFF position. They should remain off until after 
+lines are flushed. Once the lines have been flushed and 
+cleaned of any fouling debris, the included valve handle or 
+a flat-head screwdriver can operate the valve. 
+!! CHECK FOR LEAKS !!
+!! CHECK OUTLET TEMPERATURE !!
+WARNING
+System Design: Water supply to the device should be 
+designed to limit fluctuations in water pressure and water 
+temperature. 
+Preset: Each valve is preset to limit ‘MIX’ water 
+temperature to 105º F. 
+The ‘MIX’ water temperature should be checked before 
+putting the valve into service and monitored afterwards. 
+Follow adjustment diagram to ensure 105º F is maintained
+Hot
+Side
+Heat/Sediment
+Trap
+Sediment
+Trap
+696 Series
+Access Box Model
+Isolation
+Valve
+Stop
+Valves
+Model 120-TM3F
+Operate/throttle valve 
+with key or screwdriver
+Cold
+Side
+AVAILABLE ACCESSORIES
+(for Access Box Models – Sold Separately)
+696-1F
+Finish Frame
+696-EX
+Finish Frame Extension
+696-BC
+Box Clip for Stud Mount
+525-6917
+Mounting Bracket
+
+INSTALLATION
+Install in accordance with applicable plumbing codes and local 
+jurisdictional requirements, using accepted plumbing practices.
+!! DO NOT over tighten compression fittings !!
+!! DO NOT use pipe dope/sealant – use pipe thread tape only !!
+696 Series Access Box Models:
+1	 Secure access box in place under fixture to be served. Box clips 
+(696-BC) and brackets (525-6917) sold separately.  Models include a 
+mounting block to hold valve in position within Access box.
+2	 Ensure in-line isolation valves are OFF. Keep valve handle/key with 
+valve on provided loop or in facilities maintenance office. Isolation 
+valves can be operated with a flat-head screwdriver if necessary.
+3	 Connect Hot/Cold water supply to mixing valve using appropriate 
+procedures for the system/connection type. Test for leaks.
+3	 Protect box with debris cover, taping cover in place.
+4	 IMPORTANT: Flush water lines thoroughly before proceeding.
+5	 After drywall installation, remove debris cover. Install finish frame if 
+desired. Remove nylon test cap from ‘MIX’ outlet and connect supply 
+line. If cold bypass supply will be run to the fixture, remove brass cap 
+and connect supply line to fixture. (See figure below)
+6	 Open isolation valves. Inspect valve and all connections for leaks.
+Tighten any loose connections. Check water temperature (see below).
+120-TM3F Model:
+1	 Secure valve with mounting block to the wall, under and as close as 
+possible to fixture to be served. Install #9 screws through mounting 
+holes on either side of the ‘MIX’ outlet. Screws should drive into a 
+stud, framing member, or drywall anchor. Protect the valve from any 
+paint or spray that may be part of cabinet or bathroom finishing.
+2	 Ensure stop valves supplying the mixing valve are OFF.
+3	 IMPORTANT: Flush water lines thoroughly before proceeding.
+4	 Remove nylon test cap from ‘MIX’ outlet and connect supply line. If 
+cold bypass supply will be run to the fixture, remove brass cap and 
+connect supply line to fixture. (See figure below)
+5	 Open stop valves. Inspect valve and all connections for leaks. 
+Tighten any loose connections. Check water temperature (see below).
+TROUBLESHOOTING
+Problem: Desired ‘MIX’ temperature can not be achieved.
+Possible Causes: 1) Valve may be fouled; 2) Hot water supply may not 
+be sufficiently hot; 3) Valve was not hooked up properly. 
+Solutions: 1) Check for fouling and clean screens; 2) Check water 
+supply temperature; 3) Ensure the ‘MIX’ outlet is supplying the faucet.
+Problem: Flow stops or no Flow
+Possible Causes: 1) Water supply too hot - valve does not allow water 
+flow above 120º F.; 2) Supply pressures are not high enough (loss 
+of pressure from fixture activation; 3) Supply line failure; 4) Improper 
+installation; 5) Sediment/debris has clogged or fouled the valve
+Solutions: 1) Ensure nothing is impeding hot and cold water supply of 
+hot or cold - look for kinks in the supply lines; 2) Check incoming water 
+pressures of hot and cold lines and ensure they meet specifications; 
+3) Ensure the difference in temperature between incoming hot and 
+cold water is within the range specified for the valve; 4) Ensure 
+isolation valves or stop valves are open; 5) Check for clogs and clean 
+debris screens.
+Problem: Hot water too cold
+Possible Cause: Internal check valves are fouled 
+Solution: Replace internal check valves. See repair kits below.
+Repair Kits:
+120-TM3F-1: Debris screens (2)
+120-TM3F-2: Debris screens (2), Valve spring, Piston assembly,
+and EPDM gaskets* (2)
+120-TM3F-3: Check valves (2), EPDM gaskets* (2)
+ *EPDM gaskets if needed for swivel nuts (see #9 in diagram)
+ADJUSTMENT AND MAINTENANCE OPERATION
+Adjusting Temperature:  See 3/8" hex stem on top of mixing valve. 
+This stem operates the internal piston, which allows cold water to 
+enter and reduces hot water simultaneously. Minimal adjustments 
+can affect outlet water temperature significantly. Using a 3/8" wrench, 
+turn the stem toward the ‘C’ (see markings on face of mixing valve) to 
+make the ‘MIX’ colder - Do Not turn too far. Adjust toward the ‘H’ to 
+make the ‘MIX’ hotter - Do Not turn too far. Let the hot water or mix 
+flow for a full 2 minutes and take the temperature of the ‘MIX’ in the 
+receptacle/sink. Adjust as necessary.
+Cleaning/Replacing Debris Screens: Close the in-line isolation valves 
+or stop valves supplying the mixing valve. Disconnect water supply 
+lines to (120 Series only) and from mixing valve. Remove the mixing 
+valve from the access box or its location under the fixture. Using a 
+7/32" hex wrench, unscrew and remove the two screen plugs (see #5 
+in diagram) and inspect/clean as needed. Using an o-ring pick, remove 
+stainless steel debris screens (see #3 in diagram). Clean and reinstall 
+or replace screens, being sure they are seated completely in the valve 
+body.
+NOTE: Do Not operate valve without screens in place as this will allow 
+sediment and debris to enter the valve, which causes fouling and will 
+void the warranty.
+Replace screen plugs and tighten. Reinstall valve into access box or 
+to location under fixture. Reconnect water supply lines to (120 Series 
+only) and from the mixing valve. Open isolation valves or stop valves 
+and check for leaks. Check ‘MIX’ temperature at the fixture to confirm 
+valve operation.
+Replacing Internal Check Valves: Close the in-line isolation valves 
+or stop valves supplying the mixing valve. Disconnect water supply 
+lines to (120 Series only) and from mixing valve. Remove the mixing 
+valve from the access box or its location under the fixture. Holding 
+the mixing valve carefully but securely in a vice, unscrew the valve 
+cap. Wrap the valve cap to protect the surface from teeth of pliers. 
+The valve cap is sealed with o-rings, so slow/constant pressure will 
+loosen. Remove the valve cap and inspect/clean as needed. Remove 
+the screen plugs and debris screens (follow screen access/removal 
+instructions under ‘Cleaning/Replacing Debris Screens’ above). From 
+the open inside cavity of the mixing valve, push the check valves (see 
+#6 in diagram) outwards toward the screen plug opening and remove.
+Note: Be careful not to scratch/scar the internal surfaces of the valve.
+Install new check valves by pushing through the side opening, and 
+against the stops in the valve body (see position in diagram). Reinstall 
+debris screens, screen plugs, and valve cap. Reinstall valve into 
+access box or to location under fixture. Reconnect water supply lines 
+to (120 Series only) and from the mixing valve. Open isolation valves 
+or stop valves and check for leaks. Check ‘MIX’ temperature at the 
+fixture to confirm valve operation.
+Protection from Tampering: The temperature adjustment stem can
+be concealed as necessary to protect from any
+unwanted or unauthorized adjustments.
+Check Temperature at Fixture! Valve is preset to 105º F. Ensure all 
+system variables are set for desired flow pressure and temperature 
+and confirm ‘MIX’ outlet is providing safe/desired temperature. For 
+adjustments, see Adjustment and Maintenance Operation.
+Single Supply
+Faucet
+Hot/Cold
+Supply Faucet
+Hot
+Supply
+Hot
+Supply
+Cold
+Supply
+‘MIX’ to
+Fixture
+‘MIX’ to
+Fixture
+Cold Bypass
+to Fixture
+Cold
+Supply
+1 Model 120-TM3F only
+2 696 Series models only
+www.siouxchief.com
+1
+5
+9
+10
+5
+11
+3
+3
+4
+6
+6
+7
+8
+12
+2
+Mixing Valve Diagram:
+1	 Temperature adjustment stem
+2	 Valve cap
+3	 Stainless steel
+	
+debris screen
+4	 Valve spring
+5	 Screen plug
+6	 Check valve
+7	 Piston Assembly
+8	 5/8" Female
+	
+Comp. swivel nut
+9	 5/8" x 3/8"
+	
+Comp. adapter1
+10	 Brass in-line
+	
+isolation valve2
+11	Box clip2
+12	Brass connection shank2

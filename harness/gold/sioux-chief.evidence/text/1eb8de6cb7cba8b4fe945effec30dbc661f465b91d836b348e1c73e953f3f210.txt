@@ -1,0 +1,56 @@
+Sioux Chief Manufacturing Company    |    P: 1.800.821.3944    |    F: 1.800.758.5950    |    www.siouxchief.com 
+02-25
+861 SERIES
+CAST IRON SQUARE FLOOR SINK - ARE
+ITEM # SUBMITTED_________________________________________
+JOB NAME_______________________________________________
+LOCATION_______________________________________________
+ENGINEER_______________________________________________
+CONTRACTOR____________________________________________
+PO#_ _______________________ TAG________________________
+	
+CONNECTION SIZE A
+	 QF2286 = 2" No-Hub
+	 QF2386 = 3" No-Hub
+	 QF2486 = 4" No-Hub
+	
+OPTIONS C
+	 2 = Open-half grate
+	 3 = Open-quarter grate
+	 B = Aluminum Debris bucket
+	 C = Clamping collar
+	 T = Trap primer adapter
+ Create Item Number
+861-A B C
+e.g. 861-QF2386A2C: 3" No-Hub floor sink with open-half enamel-coated cast iron grate and clamping collar
+	
+GRATE TYPE B
+	
+No grate (standard)
+	 A = enamel-coated cast iron grate
+	 N = Nickel-bronze frame/grate
+	 S = Stainless steel frame/grate
+ * Add 1/2" for nickel-bronze ring/grate
+SPECIFICATION
+Sioux Chief 861 Series 8" x 8" x 6" deep floor sink. Cast iron body and 
+anchor flange with white acid-resisting enamel coated interior and top, 
+includes aluminum dome strainer.
+Designed in accordance with ASME A112.6.7
+Used in kitchens, restaurants, grocery stores, hospitals, schools and 
+other areas that require a sanitary drain.
+MATERIALS
+Grate: Enamel-coated cast iron, nickel-bronze, 304 stainless steel
+Sink: Enamel-coated cast iron
+DIMENSIONS
+A: Connection (No-Hub)
+2"
+3"
+4"
+ 10.22" SQ 
+ 8.22" SQ 
+*6.00"
+ A
+No-Hub
+*2.00"
+*8.69"
+861-QF2386

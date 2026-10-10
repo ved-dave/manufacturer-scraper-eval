@@ -1,0 +1,2239 @@
+Supply
+Drainage
+Support
+Specialties
+Installation Manual
+Tubing
+Fitting Systems
+Tools & Accessories
+Installation Guidelines
+Certifications & Listings
+Warranty
+
+Installation Manual
+Introduction
+This manual covers the specifications and installation 
+guidelines for Sioux Chief's full line of PowerPEX® tube 
+and PEX fitting systems. The manual describes all of 
+the various ASTM PEX product standards, and how 
+Sioux Chief's PowerPEX products are installed per those 
+standards.
+All product or system installations shall adhere to the 
+procedures and guidelines within. Nothing within is 
+intended to establish a warranty beyond Sioux Chief's 
+expressed warranty. Check with all local codes prior to 
+installation.
+
+www.siouxchief.com     2
+www.siouxchief.com     2
+TABLE OF CONTENTS
+Tubing
+1
+2.3 PEX Tubing Product Standards & Code Compliance pg 7-8
+2.1 Sioux Chief PowerPEX Tube Types, 
+      Availability & System Compliance pg 5
+1.1 Explaining PEX Tube pg 4
+2.2 PowerPEX Markings / Print Stream pg 6
+2.4 Material Benefits & Properties pg 9
+PowerPEX Tubing
+2
+3.3 Special Considerations for Polymer Fittings pg 16
+3.1 ASTM F1807 | F2159 Crimp Installations pg 13-14
+3.2 ASTM F1960 Expansion Ring Installations pg 15
+Fitting Systems
+3
+4.3 ASTM F1960 Expansion Tools pg 19
+4.1 PEX Accessories, Tools, Gauging & Tips pg 17
+4.2 ASTM F1807 | F2159 Crimp Tool
+      Repair & Calibration pg 18
+Tools & Accessories
+4
+5.3 Manifold Plumbing pg 23-24
+5.5 Avoiding Common Problems pg 33-34
+5.1 Hybrid Systems/Combination Install pg 20-21
+5.2 System Installation Options pg 22
+5.4 Tubing Installation Requirements & Limitations pg 25-31
+Installation Guidelines
+5
+Certifications & Listings
+6
+What is PowerPEX?
+Sioux Chief offers the industry's leading PEX systems. Sioux Chief's PEX offering is the most complete in the plumbing 
+industry. All fitting and tube solutions carry a 25-year warranty, mixed or matched. Sioux Chief does not limit its warranty 
+on tube or fittings based on matching system connections like some other PEX tubing suppliers. 
+PowerPEX gives contractors the ability to choose the right tube or fitting connection for each application, layout or contractor 
+comfort level. We call this Fitting Freedom™.
+6.0 PowerPEX Certifications pg 36
+7.0 Sioux Chief Warranty pg 38
+Warranty & Terms of Use
+7
+
+•	PEX tubing is economical and cost-effective. 
+Manufacturing PEX tubing consumes less energy 
+than manufacturing metal tubing. It is lighter 
+weight, which helps to lower transportation costs 
+and is easier to handle for the installer. PEX can be 
+coiled, which reduces overall storage space.
+•	PEX is flexible, so it can be installed in ways that 
+reduce the total number of fittings needed, which 
+minimizes the potential for leaks. It can help 
+reduce system noise by eliminating sharp bends 
+and reduces hot water wait times when used in 
+manifold systems.
+
+www.siouxchief.com     4
+www.siouxchief.com     4
+1
+PEX Tubing
+PEX is cross-linked polyethylene. Through one of several 
+processes, links between polyethylene molecules are 
+formed to create bridges (thus the term “cross-linked"). 
+This resulting material is more durable under temperature 
+extremes, chemical attack, and better resists creep 
+deformation, making PEX an excellent material for 
+potable water and other applications. The physical 
+properties of PEX tubing make it ideal for use with 
+various mechanical connection systems.
+There are three primary methods for producing PEX tubing:
+PEX-A    “Engel” or Peroxide Method. 
+Peroxide is added to the base resin. As the tubing is 
+produced, cross-linking takes place due to pressure
+and high temperature.
+PEX-B    “Silane” Method. 
+Silane is grafted to the backbone of the polyethylene. 
+The grafted compound is combined with a catalyst 
+through the Sioplas or Monosil methods. Extruded 
+tube is exposed to steam or hot water to complete 
+the cross-linking reaction. The resultant link is three-
+dimensional in nature whereby the bunch-like bond 
+is not unlike a trellis. 
+PEX-C    Electron Beam Method. 
+Very high-energy radiation is used to initiate molecular 
+cross-linking in specialty high-density polyethylene. 
+Tube is extruded (generally as HDPE), routed through 
+an E-Beam facility and rotated under a beam in the 
+accelerator where it is dosed with a specific amount 
+of radiation to release the hydrogen atoms and cause 
+polymer chains to link to the open carbon sites. 
+The resultant link is planar in nature and a carbon to 
+carbon bond.
+PEX Tubing Applications
+PEX tubing is ideally suited for potable water plumbing 
+applications. It is flexible, making it easy to install 
+and service. It is also able to withstand the high and 
+low temperatures found in plumbing and heating 
+applications and is highly resistant to chemicals found 
+in the plumbing environment.
+Special system component consideration and elimination 
+of ferrous components must be made for radiant or snow 
+melt systems when using non-barrier tubing.
+Check with local codes and applicable requirements.
+PEX Tubing      
+ General Information
+Common Application Types:
+Water service
+Potable water plumbing
+Hydronic / radiant cooling
+Hydronic / radiant heating*
+Snow / ice melting systems*
+Turf conditioning systems
+Permafrost systems
+Water reclamation 
+Fire suppression** 
+Mixed (plumbing + fire suppression, etc.)
+No Lead systems
+Geothermal
+Dezincification resistant systems 
+
+5     www.siouxchief.com
+2
+Sioux Chief PowerPEX - PEX-B
+Sioux Chief PEX-B tube is made using the Sioplas method 
+described earlier. This involves a 2 component extrusion 
+with the base material comprising 95% of the end 
+product and the catalyst to start the reaction accounting 
+for the remaining 5%. The reaction begins at extrusion 
+and is accelerated by curing at elevated temperatures 
+and with moisture exposure.
+Sioux Chief PowerPEX - PEX-A
+Sioux Chief PEX-A tube is made using the Engel process 
+described earlier where heated extrusion of a special PE 
+resin containing a high concentration of organic peroxide 
+creates PEX. As the peroxide decomposes, bonds on the 
+polyethylene chains are formed. 
+NOM.
+TUBE 
+SIZE
+STANDARD
+DESIGNATION CODE 
+& TUBE TYPE
+Non-Barrier Tube
+1/8"
+ASTM F876/F877
+5306 (PEX-B)
+n/a
+1/4"
+ASTM F876/F877
+5306 (PEX-B)
+n/a
+3/8"
+ASTM F876/F877
+5306 (PEX-B)
+n/a
+1/2"
+ASTM F876/F877
+5306 (PEX-B)
+5106 (PEX-A)
+3/4"
+ASTM F876/F877
+5306 (PEX-B)
+5106 (PEX-A)
+1"
+ASTM F876/F877
+5306 (PEX-B)
+5106 (PEX-A)
+1-1/4"
+ASTM F876/F877
+5306 (PEX-B)
+5106 (PEX-A)
+1-1/2"
+ASTM F876/F877
+5306 (PEX-B)
+5106 (PEX-A)
+2"
+ASTM F876/F877
+5306 (PEX-B)
+5106 (PEX-A)
+Oxygen Barrier Tube
+1/2"
+ASTM F876/F877
+5006 (PEX-B)
+3106 (PEX-A)
+5/8"
+ASTM F876/F877
+5006 (PEX-B)
+3106 (PEX-A)
+3/4"
+ASTM F876/F877
+5006 (PEX-B)
+3106 (PEX-A)
+1"
+ASTM F876/F877
+5006 (PEX-B)
+3106 (PEX-A)
+PowerPEX Tubing
+PowerPEX Tube & Fitting System Compatibility
+3∕8"
+½"
+¾"
+1"
+1¼"
+1½"
+2"
+ASTM F1807
+ASTM F2159
+ASTM F1960
+ASTM F3347
+ASSE 1061
+PowerPEX Fitting Size Availability
+PowerPEX® Tubing      
+ Flexible, Durable, Quality Tubing – Made in America
+PEX-B
+TUBING
+PEX-A
+TUBING
+BARRIER
+PEX-B
+BARRIER
+PEX-A
+PE-RT
+TUBING
+ASTM F1807
+Crimp™ PEX
+ASTM F2159
+Crimp™ PEX
+ASTM F1960
+Grip™ PEX
+ASSE 1061
+PDQ™ Push Fit
+ASTM F3347 / F3348
+Compression Sleeve PEX
+
+www.siouxchief.com     6
+PRINTED MARKINGS ON TUBING
+1
+Company Name
+2
+Product Name
+3
+Standard Dimensional Ratio For Fitting Size Acceptance
+4
+Tubing Size
+5
+National Sanitation Foundation Mark for Toxicity and/or Performance Certification
+6
+IAPMO Listing (Model Plumbing Code Body)
+7
+CSA Listing & Canadian Certification
+8
+Applicable Standard Certifications for Performance & Manufacturers
+9
+Compatible Fitting Systems Standards
+10
+Chlorine & UV Resistance Per Standard
+11
+Oxygen Barrier Specification (if applicable)
+12
+Pressure & Temperature Rating
+13
+Country of Origin
+14
+Date, Time, & Manufacturer’s Line Tracking Number
+Sioux Chief PowerPEX Tube Markings
+1
+3
+2
+4
+5
+6
+7
+9
+10
+11
+12
+8
+PowerPEX Identification & Testing       2.2
+13
+14
+
+7     www.siouxchief.com
+PEX          5          3          0          6
+Material
+Chlorine Resistance
+5 = (100% use at 140°F)
+Minimum UV Resistance
+3 = (6 months)
+Hydrostatic Design Stress (HDS) at 23°C
+06 = (06 x 100 psi or 630 psi) 
+PEX Tube Designation Code Example: 5306 
+Sioux Chief PowerPEX Production Tests and Continuous Compliance Tests
+TEST
+STANDARD
+FREQUENCY
+  Density
+  ASTM D1505
+  Each Tubing Run
+  Hydrostatic Sustained Pressure
+  ASTM D1598
+  Random Continuous Samples
+  Hydrostatic Burst Pressure
+  ASTM D1599
+  Each Tubing Run
+  Environmental Stress Cracking
+  ASTM F876
+  Annually
+  UV Inhibition
+  ASTM F2657
+  During Certification
+  Degree of Cross-linking
+  ASTM D2765
+  Each Tubing Run
+  Stabilizer Functionality
+  ASTM D1598
+  During Certification
+  Oxidative Stability
+  ASTM F2023
+  During Certification
+  Bent Tube Sustained Pressure
+  ASTM D1598
+  Annually
+  Excessive Temp + Pressure Capability
+  ASTM D1598
+  Each Random Continuous Samples
+  Melt Flow Index
+  ASTM D1238
+  Each Receipt
+  Ongoing Dimensional Checks (OD, ID, Wall Thickness, Homogeneity, Etc.)
+  ASTM F876/877
+  Continuous
+  Ongoing Dimensional Checks - Fittings (Copper, Brass, Plastic)
+  ASTM FITTING STANDARD
+  Each Run
+  Rockwell Tests for Copper Crimp Rings
+  ASTM F1807
+  Each Run
+  Alloy Material Test (X-Ray Florescence Analyzer)
+  ASTM FITTING STANDARD
+  Each Receipt
+  Certificate of Resin Compliance
+  PER MSDS SHEET
+  Each Receipt
+  Crush Test (for PPSU Fittings)
+  ASTM F2159
+  Random Continuous Samples
+Integer 1: (chlorine resistance) PER 
+ASTM F2023
+0 = Not tested for Chlorine resistance
+1 = 25% use @ 140ºF 
+& 75% use @ 73ºF
+3 = 50% use @ 140ºF 
+& 50% use @ 73ºF
+5 = 100% use @ 140ºF
+Integer 2: (min. UV resistance) PER 
+ASTM F2657
+0 = Not tested for UV exposure
+1 = Max. exposure of 1 month
+2 = Max. exposure of 3 months
+3 = Max. exposure of 6 months
+Integer 3&4: 
+(HDS @ 73ºF) × 100 psi.
+06 = 630 psi.
+PEX Tube: Chlorine Resistance and UV Inhibition
+2.3       PEX Tubing Product Standards & Code Compliance        
+
+Tubing Product Standards
+ASTM F876: Standard Specification for Cross-linked 
+Polyethylene (PEX) Tubing
+ASTM F877: Standard Specification for Cross-linked 
+Polyethylene (PEX) Hot & Cold-Water Distribution Systems
+CSA B137.5: Cross-linked Polyethylene (PEX) Tubing 
+Systems for Pressure Applications
+ASTM F2623: Standard Specification for Polyethylene of 
+Raised Temperature (PE-RT) SDR9 Tubing
+ASTM F2769: Standard Specification for Polyethylene of 
+Raised Temperature (PE-RT) Plastic Hot and Cold Water 
+Tubing and Distribution Systems
+ASTM E84 & CAN/ULC S102: Standard Test Method for 
+Surface Burning Characteristics of Building Materials
+ASTM E119 & CAN/ULC S101: Standard Test Methods 
+for Fire Tests of Building Construction and Materials
+ANSI/AWWA C904: Cross-Linked Polyethylene (PEX) 
+Pressure Tubing, ½ In. (13 mm) Through 3 In. (76 mm), 
+for Water Service
+Code Acceptance
+Tubing Code Compliance Below is a list of commonly 
+referenced and recognized plumbing model codes, which 
+recognize PEX tubing installation and reference standards 
+for application and installation compliance. Individual 
+standards can be referenced in section 6.
+Area / Region Many cities, states, counties or other 
+jurisdictions may employ and determine what standards, 
+specifications, and plumbing/heating practices are 
+satisfactory. Check with all local and state codes prior to 
+any installation.
+International 
+Plumbing Code
+International 
+Residential Code
+Tubing Product Standards & Code Compliance       2.3
+Sioux Chief utilizes the most state-of-the-art 
+extrusion equipment and facilities to manufacture, 
+inspect, stock, ship and service PEX tubing to the 
+plumbing and radiant heating industries.
+Uniform
+Plumbing Code
+National Sanitation
+Foundation
+
+9     www.siouxchief.com
+Secondary Manifolds
+Primary Manifolds
+Material Benefits of PEX Tubing
+Corrosion Resistant
+Smooth inner walls inhibit mineral build up and scaling. 
+Resists pitting or stress-corrosion more than other types 
+of tube. PEX is also more resistant to the harmful effects 
+of chemicals such as chlorine.
+Quiet
+Flow characteristics are increased and system noise is 
+decreased when compared to metal tubing systems. 
+Freeze Resistant
+While it is always recommended to follow code 
+requirements and common practices to protect from 
+freezing, PEX tubing can expand and contract more easily 
+(often without damage) than copper and CPVC tubing.
+Reduced Turbulence / Increased Flow
+The smooth interior wall of the tube reduces turbulence 
+during water demand thereby increasing the overall flow 
+characteristics to the fixture being supplied.
+Thermal Conductivity
+Lower heat transfer compared to metal tube, saving 
+energy and money.
+Installation Flexibility
+PEX tube bends easily and can be plumbed around 
+building members or through floors/walls. Using flexible 
+tubing means fewer fittings, fewer brackets, fewer joints 
+behind the wall, fewer hours on the job, and fewer 
+potential leaks.
+Installation Tips
+When servicing a line, Sioux 
+Chief recommends using valved 
+manifolds whenever possible. 
+Primary manifolds should always 
+be valved.
+Manifolds can always be coupled 
+together with other manifolds 
+and PEX tube to achieve the 
+desired number of branches.
+2.4       Material Benefits & Properties        
+Do NOT recirculate back through 
+the manifold branch. Doing so will 
+void the manifold warranty.
+IMPORTANT
+
+www.siouxchief.com     10
+Material Properties of PEX Tubing
+Water Temperature + Water Pressure
+PEX tubing shall not be used in applications where 
+temperature and pressure ratings are not regulated or 
+are known to evidence exposures beyond the tested and 
+certified limit of the tube.
+TEMPERATURE
+HYDROSTATIC 
+PSI (MAX)
+OPERATING 
+PSI WATER
+73.4° F / 23° C
+630
+160
+180° F / 82.2° C
+400
+100
+200° F / 93.3° C
+315
+80
+Tube Operating Pressure / Temperatures
+Flow Characteristics
+GPM
+1/2" PRESSURE 
+DROP @ 60ºF 
+(PSI/100FT)
+VELOCITY
+(FT/SEC)
+3/4" PRESSURE 
+DROP @ 60ºF 
+(PSI/ ) 100FT
+VELOCITY
+(FT/SEC)
+1" PRESSURE 
+DROP @ 60ºF 
+(PSI/100FT)
+VELOCITY 
+(FT/SEC)
+1
+1.8
+1.7
+1.2
+0.9
+.4
+0.5
+2
+5.9
+3.5
+2.4
+1.8
+.7
+1.0
+3
+12.1
+5.2
+4.0
+2.7
+1.2
+1.6
+4
+20.1
+7
+5.7
+3.5
+1.8
+2.1
+5
+8.1
+4.4
+2.5
+2.7
+6
+10.7
+5.3
+3.2
+3.2
+7
+13.5
+6.2
+4.1
+3.7
+8
+7.1
+5.0
+4.3
+9
+6.0
+4.8
+*See Section 5.4 for Tubing Installation Requirements & Limitations.
+Or, specific manufacturer's instructions for continuous pipe support 
+systems for large diameter horizontal arterial water mains.
+*Without bend support. See Section 5.4 for additional information.
+Minimum Bend Radius*
+TUBE SIZE (CTS)
+MIN. BEND RADIUS
+1/2"
+3.75"
+3/4"
+5.25"
+1"
+6.75"
+1-1/4"
+8.25"
+1-1/2"
+9.75"
+2"
+12.75"
+Support + Spacing
+TUBE SIZE
+HORIZONTAL 
+SUPPORT SPACING
+VERTICAL 
+SUPPORT SPACING
+1/2"
+32"
+Once per floor penetration 
+at floor level.
+Once at midpoint of floor 
+expanse or every 48"
+3/4"
+32"
+1"
+32"
+1-1/4"
+32"*
+1-1/2"
+32"*
+2"
+32"*
+Material Benefits & Properties       2.4
+Bending Stress on Polymer Fittings
+Polymer fitting joints should be properly supported 
+to avoid undue stress on fittings and connections. A 
+minimum distance of 2x the tubing O.D. should be 
+allowed before changing the direction of the tube. Sioux 
+Chief recommends always using a manufactured bend 
+support. 
+Thermal Expansion & Contraction
+PEX has a thermal expansion rate of 1.10"per 10°F ΔT 
+per 100 ft. (27.94mm per 5.56°C ΔT per 30.48m).
+2x Tube OD
+Min Bend
+Radius
+TUBE
+SIZE
+2X
+TUBE O.D.
+1/2"
+1.25"
+3/4"
+1.75"
+1"
+2.25"
+
+11     www.siouxchief.com
+ASTM F1807 | F2159 Crimp
+™
+	
+Standard Specification for Metal1 or Plastic2 Insert Fittings Utilizing a Copper Crimp Ring, or 
+	
+Alternate Stainless Steel Clamps, for SDR9 Cross-linked Polyethylene (PEX) Tubing and SDR9 
+	
+Polyethylene of Raised Temperature (PE-RT) Tubing
+	
+1 = ASTM F1807  2 = ASTM F2159
+ASTM F1960 Grip
+™
+	
+Standard Specification for Cold Expansion Fittings with PEX Reinforcing Rings for Use with
+	
+Cross-linked Polyethylene (PEX) and Polyethylene of Raised Temperature (PE-RT) Tubing
+ASTM F3347 | ASTM F3348
+	
+Standard Specification for Metal1 or Plastic2 Press Insert Fittings with Factory Assembled Stainless 
+	
+Steel Press Sleeve for SDR9 Cross-linked Polyethylene (PEX) Tubing and SDR9 Polyethylene of 
+	
+Raised Temperature (PE-RT) Tubing
+	
+1 = ASTM F3347  2 = ASTM F3348
+ASSE 1061
+	
+Performance Requirements For Push-Fit Fittings
+PowerPEX = The Power to Choose
+The ability to choose the right tube or fitting connection for each application, 
+layout or contractor comfort level. We call this Fitting Freedom™. Sioux 
+Chief understands smart plumbing systems may incorporate “hybrid” PEX 
+offerings to maximize each connection system's benefit. The Power to 
+Choose puts the plumber back at the heart of smart plumbing.
+PEX tubing can be used with a variety of fitting systems, each defined by their respective ASTM Standards:
+3
+Fitting Systems      
+ Making the Connection
+
+www.siouxchief.com     12
+Fitting Systems
+
+13     www.siouxchief.com
+4. Compress tool perpendicular to tube. Compress only 
+once. Remove defective connections. Use a gauge to 
+assure a proper joint. Test all completed joints.
+1. Cut tube at 90-degrees. Do not crush OD of tubing 
+with cutters. Hint: Slightly rotate cutter during blade 
+engagement.
+3. Position ring over sealing barbs of the fitting. The ring 
+should be positioned 3/16" (± 1/16") from the end
+of the tube.
+2. Install PEX Crimp Ring onto OD of tubing. Install PEX 
+fitting fully into tube end. 
+Installation Notes: Take care to avoid the below issues when making joints with copper crimp rings
+Tube not cut squarely – ring 
+not compressing tube for a 
+secure seal. 
+Improperly calibrated tool - not 
+enough compression. Rings 
+compressed multiple times
+may develop a leak path.
+Fitting not inserted completely 
+into tube end.
+Ring placed too far forward or 
+too far back & not positioned 
+over sealing barbs of fitting.
+Crimp Tool did not engage the 
+Crimp Ring over the entire 
+surface of the ring.
+3.1       ASTM F1807| F2159 Crimp Installations
+ASTM F1807 or
+F2159 Fitting
+PowerPEX® ASTM F1807 | F2159      
+ Copper Crimp Ring Installation
+3/16"
+
+www.siouxchief.com     14
+Bad Sleeve
+Good Sleeve
+2. Compress tool perpendicular to 
+tube - Compress only once. Remove 
+any defective connections. Use a 
+gauge to assure a proper joint.
+Test all completed joints.
+Note:
+Be sure to use a properly calibrated 
+compression tool designed 
+SPECIFICALLY to make V-Sleeve 
+or F3347 metal press sleeve 
+connections.
+Always check sleeves before use. 
+Creased or bent sleeves should never 
+be installed. 
+1. Cut tube at 90-degrees. Install 
+V-Sleeve onto OD of tube with notched 
+side towards tube end. Install fitting 
+fully into tube. Visually confirm tube is 
+fully inserted through notches.
+ASTM F1807 or
+F2159 Fitting
+ASTM F1807 | F2159 Crimp Installations       3.1
+ V-Sleeve™ Compression Sleeve Installation
+ Stainless Steel Cinch Clamp Installation - ASTM F2098
+Full Ear Closure
+1. Cut tube at 90-degrees. Load clamp 
+over tube end. Insert fitting fully into 
+tubing. Position clamp between 1/8" 
+and 1/4" from tube end to ensure 
+coverage of both sealing barbs.
+Note:
+Full ear closure is required for proper 
+installation. Always visually inspect 
+clamp for correct closed-ear form.
+Check ratchet pincer tool calibration 
+with a GO/NO-GO gauge daily. Refer 
+to tool manufacturer's instructions for 
+calibration procedures.
+2. Close clamp ear with ratchet pincer 
+tool. Tool will not release until clamp 
+is fully closed. Remove any defective 
+connections.
+Test all completed joints.
+1/8" - 1/4"
+Installation Notes:
+In high-chloride water conditions, use only plastic (ASTM F2159) fittings.
+Do Not install in contact with concrete. Avoid contact with soldering flux.
+Use ONLY with ASTM F1807 or F1259 insert fittings.
+V-Sleeve perfectly positions 
+itself over sealing barbs
+
+15     www.siouxchief.com
+1. Cut tube at 90-degrees. Do not crush 
+OD of tubing with cutters. Hint: Slightly 
+rotate cutter during blade engagement.
+Be sure tubing is cut squarely, tube is 
+inserted into sleeve completely and 
+fitting is inserted fully into tube/sleeve.
+After
+Proper
+expansion
+Cut-away view of PEX tubing
+2. Install an approved PEX expansion 
+sleeve onto OD of tubing.
+3. Using expander tool, expand sleeve 
+fully. If using a manual tool, expand 
+slowly and repeat expansions, rotating 
+expander 1/8-turn between 
+expansions. Forcing the tube onto the 
+expansion head and/or expanding too 
+quickly can damage the tubing and 
+sleeve, and require rework.
+Important: Sioux Chief strongly recommends 
+all ASTM F1960 expansion joints with PowerPEX® 
+Type-B tubing be made with a self-rotating,
+power expansion tool. Self-rotating,
+power expansion tools are
+designed to expand the tubing at
+the proper rate, while rotating
+a set distance per activation.
+This ensures the connection achieves
+the necessary tube ID and overall
+connection geometry to allow the
+tube and fittings to be used together. 
+4. Insert fitting into expanded tube 
+and sleeve. Hold fitting in place until 
+tube/sleeve constricts annularly 
+around the fitting.
+5. The installation is complete with a 
+visibly secure connection. Remove 
+defective connections. Test all 
+completed joints.
+Improperly
+inserted fitting
+No rotation between expansions, or 
+defective expansion head leaving a 
+groove as a potential leak path. 
+Damaged, cut or grooved barb on 
+fitting.
+Failure to rotate tool inside tubing may 
+cause unequal expansion. Remove any 
+rings with unequal expansion. 
+After
+Improper
+expansion
+Damaged 
+sealing barb 
+will not seal 
+properly
+Installation Problems: Take care to avoid the below issues when making joints with PEX expansion rings
+3.2       ASTM F1960 Expansion Ring Installations
+PowerPEX® ASTM F1960   
+ Expansion Ring Installation
+When expanding large diameter tubing or in temperatures below 55ºF, Do Not force the tubing onto the expansion head. Expand slowly and evenly at the prescribed 
+rate of expansion. When using a manual tool, always rotate the tool. Keep tube/sleeves warm (Tip: store sleeves in pockets) to ensure uniform expansion and 
+decrease the time needed to fully constrict around fitting. In colder temperatures, fewer expansions are needed. Use only enough tool expansions/rotations to allow 
+full insertion of the fitting. Both lower temperatures and over-expansion of the tube/sleeve will increase the time needed to fully constrict and complete the joint.
+Do Not make connections in temperatures below 5°F.  Do Not apply heat with a heat gun - Excessive heat may damage tube/sleeves/fittings.
+Special Considerations for Making Large-Diameter, or Low-Temperature F1960 PEX Expansion Joints:
+
+www.siouxchief.com     16
+U.V. / Sunlight:
+Polymer fittings should be protected from UV exposure. 
+UV radiation can significantly decrease 
+ductility, strength, and impact 
+resistance. Fittings that have been 
+exposed to harmful UV radiation should 
+be removed from use.
+Temperature / Radiant Heating:
+The maximum short-term working temperature (30 days) 
+of fittings: 210 ºF (99 ºC) @ 150 PSI. Constant Working 
+Temperature: 140 ºF (60 ºC) @ 55 PSI. PPSU fittings 
+are suitable for radiant heating and cooling applications 
+under the following conditions:
+1.	Use only propylene glycol - Max: 60% by volume
+2.	DO NOT USE ETHYLENE GLYCOL WITH PPSU FITTINGS
+3.	Maximum temp: 194°F (90°C) at 44 PSI
+4.	Recommended Corrosion Inhibitors: Metal Guard™
+	
+H50 (6% by volume), H60 (4% by volume), H80 (4% by volume)
+Mechanical Stress:
+Fittings should be kept free of mechanical stress. Do 
+not subject polymer fittings to excessive impact. Do not 
+subject fittings to torque exceeding 100 lbs. of force. 
+Each joint should be properly supported. To avoid undue 
+stress on polymer fittings and connections, a minimum 
+distance of 2x the tubing O.D. should be allowed 
+before changing the direction of the tube. Sioux Chief 
+recommends always using a manufactured bend support.
+Chemical Resistance:
+Some chemicals can cause damage and should not come 
+in contact with polymer fittings. These chemicals include 
+(but are not limited to): Adhesives, 
+petroleum based substances, paints, 
+solvents, oxidizing agents, disinfectants, 
+PVC primers/solvents/cements, leak 
+detection liquids, oil/lubricants, pipe 
+dopes, ethylene glycol, or other volatile compounds. It 
+is the responsibility of the installing contractor to verify 
+compatibility of any chemicals that come into contact 
+with the PPSU fittings.
+Special Considerations for Polymer Fittings       3.3
+Polymer Fittings
+ Special Considerations for Use
+Spray-Foam Compatibility 
+Some spray-foam insulation products are approved for 
+use with PEX tube and fittings. It is the responsibility of 
+the installing contractor to refer to information provided 
+by the insulation manufacturer and verify compatibility of 
+any foam or chemical foaming agents that will come into 
+contact with PowerPEX tube and fittings, including polymer 
+PowerPEX fittings. If insulation manufacturer recommends 
+wrapping PEX tube joints before application, see Section 
+5.5 for Requirements for Wrapping a PowerPEX joint. 
+Heat / Flame:
+Do not subject polymer fittings to open
+flame. Do not solder within 18" of 
+polymer fittings. Flame or heating
+sources beyond material tolerances
+must be avoided.
+Polymer fittings that have been damaged by
+chemicals MUST be removed from service.
+TUBE 
+SIZE
+2X
+O.D.
+MIN BEND 
+RADIUS*
+1/2"
+1.25"
+3.75"
+3/4"
+1.75"
+5.25"
+1"
+2.25"
+6.75"
+*Without bend support.
+2x Tube OD
+Min Bend
+Radius
+
+17     www.siouxchief.com
+PEX Accessories
+PEX Tube Cutter
+USE: Hold cutter perpendicular to tubing. When cutter 
+is set at a right angle to tube length, squeeze handle 
+and cut tube flush. Slightly rotate tube cutter when blade 
+engages tubing OD to prevent "ovaling" the tube.
+REPAIR: Remove screw and replace cutting blade with 
+replacement blade. Reassemble and replace the screw.
+4
+Tools & Accessories
+ Usage Guidelines
+Go/No-Go Gauges
+Gauges are available for both crimp
+and compression sleeve systems.
+All Sioux Chief PowerPEX tools
+include Go/No-Go gauges
+Coil Unwinder
+USE: The unwinder remains in place on three stable legs 
+with adjustable feet while the coil swivels freely, making 
+it easy for users to pull tubing
+as needed.
+Crimp Ring Removal Tool
+USE: Cut the tube close to the fitting. Place ring removal 
+tool into the fitting end and make two cuts approximately 
+3/8" apart. Remove ring sections with pliers. Twist 
+off tube. Inspect fitting for reuse. Be sure barbs are 
+undamaged and fitting has not been compromised.
+NOTE: Not for use with PPSU or
+other polymer fittings
+Compression Insert (Tube Stiffener)
+	
+Stainless Steel or PPSU PEX inserts 
+	
+must be used when a supply fixture 
+	
+valve will be pushed or compressed 
+	
+onto PEX tube. ASSE 1061 push-fit 
+	
+fittings for use on plastic tubing must 
+	
+   use an insert sized appropriately to
+	
+   the tube type ID. 
+Push Fit Disconnect Tools
+USE: Load the properly-sized tool over the tube and 
+against the push fitting. Squeeze/push the tool against 
+the fitting socket to engage the release mechanism.
+Pull tube/fitting apart using a
+twisting motion. 
+
+www.siouxchief.com     18
+Crimp/Compression Tool Calibration
+Check tool calibration regularly. It is recommended that at 
+least the first and last crimp of the day/project is tested.
+All tools include a Go/No-Go gauge - use the gauge to 
+determine if the tool needs calibration:
+ITEM NO.
+DESCRIPTION
+305-82TX
+Old style - 1/2" sleeve compression tool 
+305-84TX
+Old style - 1" sleeve compression tool
+305-802
+1/2" SS sleeve compression tool
+305-803
+3/4" SS sleeve compression tool
+305-804
+1" SS sleeve compression tool
+Standard Sleeve Compression Tools
+ITEM NO.
+DESCRIPTION
+305-7023
+1/2" & 3/4" Crimp tool with straight handle
+305-7040
+1" Crimp tool with straight handle
+305-7050
+1-1/4" Crimp tool with straight handle
+305-7095
+Crimp tool kit for 3/8", 1/2", 5/8", 3/4", 1"
+Standard Crimp Tools
+ITEM NO.
+DESCRIPTION
+305-7110
+3/8" Compact crimp tool with case
+305-7120
+1/2" Compact crimp tool with case
+305-7123
+1/2" & 3/4" Compact crimp tool with case
+305-7130
+3/4" Compact crimp tool with case
+Compact Crimp Tools
+ITEM NO.
+DESCRIPTION
+305-92TX
+1/2"
+Compact Sleeve Compression Tools
+Tool Repair & Calibration       4.2
+ASTM F1807/F2159 Crimp & Compression Tools
+All tools include an instruction sheet. READ THE INSTRUCTION SHEET CAREFULLY AND UNDERSTAND IT.
+1. If the crimped ring slides into the slot and stops in 
+the 'GO' area of the gauge, the crimp is GOOD
+  No calibration is needed.
+2. If the crimped ring is too large to pass into the slot of 
+the gauge, the crimp is NO GOOD
+  Adjust tool by increasing number on calibration dial.
+3. If the crimped ring slides into the 'NO GO' area of the 
+gauge, the crimp is NO GOOD
+  Adjust tool by decreasing number on calibration dial.
+To Calibrate Standard Tools
+- Open jaws and loosen LH or RH nuts on back of tool.
+- Turn LH or RH calibration dial one increment at a time.
+- Retighten nuts on back of tool.
+- Perform a crimp and check with gauge.
+To Calibrate Compact Tools
+- Remove C-clip on back of tool with screwdriver.
+- Push/rotate calibration dial one increment at a time.
+- Replace C-clip with pliers.
+- Perform a crimp and check with gauge.
+Note:
+- If you are not able to obtain good crimps after 
+  calibration, the tool is likely worn and should be 
+  replaced.
+- Lubricate linkages regularly to maximize tool life.
+- Do not remove Date Code sticker. Removal voids tool 
+  warranty.
+- Always place tools in a durable case or secure box
+  to protect the tool head from damage.
+Note: Do Not gauge where jaw marks show on ring
+
+19     www.siouxchief.com
+Expansion Tool Verification and Use
+1. Attach appropriately sized expansion head to an 
+ASTM F1960 expansion tool. 
+2. Ensure assembly is wholly intact and the male 
+threads of the tool or female threads of the jaw set are 
+not compromised.
+3. Ensure the retention spring on the OD of the tool 
+jaw is in place and not compromised. If a jaw section is 
+missing or damaged, replace the expansion jaw. 
+4. Keep the expansion jaw and the tool driver 
+properly lubricated.
+5. Place tool jaw into tube end/ring assembly and 
+compress handles to expand for fitting install.
+4.3       ASTM F1960 Expansion Tools
+Damaged Head
+Worn springs can lead to 
+misaligned jaws and improper 
+expansion of tube.
+ASTM F1960 Expansion Tools
+All tools include an instruction sheet. READ THE INSTRUCTION SHEET CAREFULLY.
+Fitting Spacing
+When installing F1960 fittings, it is important to keep 
+the minimum distance between expansions shown in
+the table below:
+TUBE SIZE
+MINIMUM CUT
+LENGTH OF TUBE (A)
+3/8"
+2.00"
+1/2"
+2.50"
+3/4"
+3.50"
+1"
+4.50"
+1-1/4"
+5.50"
+1-1/2"
+6.50"
+2"
+7.50"
+ITEM NO.
+DESCRIPTION
+MANUAL EXPANSION TOOLS & HEADS
+305-W23KIT
+Manual Expansion Tool Kit for 1/2" & 3/4" F1960
+305-WT
+Manual Expansion Tool for F1960
+305-W2H
+1/2" Expansion Head for Manual Exp. Tool
+305-W3H
+3/4" Expansion Head for Manual Exp. Tool
+305-W4H
+1" Expansion Head for Manual Exp. Tool
+HEADS for POWER ROTATING EXPANSION TOOLS
+305-W2PTEH
+1/2" Expansion Head for Power Rotating Exp. Tool
+305-W3PTEH
+3/4" Expansion Head for Power Rotating Exp. Tool
+305-W4PTEH
+1" Expansion Head for Power Rotating Exp. Tool
+F1960 Expansion Tools
+Expand Evenly
+When expanding PEX tubing, especially large diameter 
+tubing or in low temperatures (below 55ºF), Do Not force 
+the tubing onto the expansion head in an attempt to 
+reduce the number of expansions. Expand slowly and 
+evenly at the prescribed rate of expansion. When using a 
+manual tool, expand slowly and rotate the tool.
+See pg. 15 for 'Special Considerations for Making Large-Diameter, or
+Low-Temperature F1960 PEX Expansion Joints'
+A
+Note: Heads for Power Rotating Expansion tools 
+are designed to be used ONLY with DeWalt® and 
+Milwaukee® brand power rotating expansion tools.
+NEVER Use mismatched tools and heads. Use only 
+power expansion heads with power rotating expansion 
+tools. Do Not use heads designed for manual tools with 
+power rotating expansion tools.
+Using PEX-B with ASTM F1960 Systems
+PowerPEX Type-B tubing is approved for use with ASTM 
+F1960 fittings and expansion joints. If using a manual 
+tool, expand slowly and repeat expansions, rotating 
+expander 1/8-turn between expansions. 
+SIOUX CHIEF STRONGLY RECOMMENDS ALL ASTM F1960 
+EXPANSION JOINTS WITH POWERPEX® TYPE-B TUBING BE 
+MADE WITH A SELF-ROTATING, POWER EXPANSION TOOL.
+Self-rotating, power expansion tools are designed to 
+automatically expand the tubing at the proper rate, while 
+                   rotating a set distance per activation. These 
+                             features assure the connection 
+                                   achieves the necessary tube ID
+                                     and overall connection geometry 
+                                    which allow the tube and fittings 
+                       to be used together. When making ASTM
+                 F1960 connections, proper tool installation
+               protocols must be maintained according to the
+         manufacturer’s instructions for installation
+         and operation.
+
+www.siouxchief.com     20
+www.siouxchief.com     20
+5
+CPVC Trunk Connection
+F1960 Grip Branches
+Hybrid/Combination System Installations
+Hybrid Systems
+WHAT: Hybrid systems combine multiple plumbing 
+connection types within one system. Example: A branch 
+run may be plumbed in F1807 PEX whereas an arterial 
+water main may be plumbed in copper or CPVC.
+HOW: PowerPEX offers quality tube and quality fittings. 
+Each is independently warranted regardless of system 
+installation as long as they are in a compliant tube & 
+fitting mix.
+WHEN: Hybrid applications work perfectly (as depicted on 
+pgs 21-22) in applications where a header is plumbed in 
+a more thermally stable tubing offering while branching 
+off to a more flexible and cost-effective connection 
+system solution.
+WHY: A plumber or building owner should not be 
+restricted from choosing the strongest connection system 
+that an application may require, or a connection system 
+they are not comfortable with, or that does not allow 
+them to compete.
+PowerPEX = The Power to Choose
+The ability to choose the right tube or fitting connection for each application, 
+layout or contractor comfort level. We call this Fitting Freedom™. Sioux 
+Chief understands smart plumbing systems may incorporate “hybrid” PEX 
+offerings to maximize each connection system's benefit. The Power to 
+Choose puts the plumber back at the heart of smart plumbing.
+General Installation Guidelines      
+ Layouts, Manifold Systems, and Common Problems to Avoid 
+
+21     www.siouxchief.com
+Combination: 16 fittings 
+Trunk & Branch: 96 fittings
+CPVC riser connects 
+directly to manifold
+ASTM F1960 Grip 
+branches supply fixtures
+Combination: 637ft of tube 
+Home Run: 1,515ft of tube
+Combination: 59 connections 
+Trunk & Branch: 165 connections
+Combination Systems
+Combine the best features of a home run plumbing 
+system with the best features of a trunk and branch 
+plumbing system.
+Hybrid/Combination System Installations
+Continued
+5.1       Hybrid Systems - Combination Installation
+The Smarter Choice: 
+Saves materials, especially in No Lead
+compliant systems. 	
+Requires half the installation time of
+traditional systems. 
+Requires fewer connections, which translates to fewer 
+leak possibilities, fewer callbacks and fewer claims.
+Exhibits increased flow characteristics, decreased hot 
+water wait times and a decrease in system noise.
+
+www.siouxchief.com     22
+System Installation Options
+System Installation Options       5.2 
+Home Run
+Fixtures are supplied from a central manifold. These manifolds are often referred to as primary manifolds, and when used 
+in this manner, can isolate a fixture for repair or service, and ensure proper flow at the fixture by providing an individual 
+supply line. Primary manifolds for home run plumbing typically incorporate valves for proper line segregation and service.
+Hybrid/Combination
+Fixtures are supplied from a manifold with a line being directly plumbed from a primary manifold or a secondary manifold. 
+Secondary manifolds are either valved or non-valved and can be installed in-line. Valved manifolds typically require access, 
+so non-valved manifolds are more often used as secondary manifolds and can be hidden in walls. The manifold can be 
+marked with the fixture it supplies and a layout schematic marks the manifold location as well as the fixture it provides.
+Sioux Chief recommends this plumbing system approach.
+Standard Trunk & Branch
+A network of supply tube and fittings service fixtures and are put together like conventional copper or CPVC systems. For 
+every change in direction within the system, an elbow or tee is used (directionals). There is typically more volume of water 
+within a system of this nature and stagnant water must be purged before hot water is realized.
+
+23     www.siouxchief.com
+IMPORTANT
+            Do NOT recirculate back through the manifold  
+            branch. Doing so will void the manifold warranty.
+Sizing
+Using manifolds can be accomplished with one of the 
+previously mentioned plumbing layouts. Typically, the 
+size of the manifold is dependent on the amount 
+of fixtures it will be supplying. Sioux Chief offers 
+manifolds with different trunk sizes and in varying 
+outlet connections and sizes. All outside hydrants 
+and/or auxiliary fixtures fed from their own supply line 
+would total the branch quantity needed. Some manifold 
+applications purposefully oversize the manifold by 2 
+branches for possible future additions. These ‘extra 
+branches’ are typically sealed off with a plug. If two 
+fixtures within a bathroom or kitchen application can 
+legally be supplied with a single supply line, the manifold 
+would reflect one less branch.
+ 
+Location / Accessibility
+Typical home run applications should dictate that 
+a manifold is located near the water conditioning 
+equipment, utility room, or water heater. This area is 
+chosen so that the heated water is fed as quickly as 
+possible to the distribution point for efficient transfer 
+of conditioned water. In any case, the location chosen 
+should be readily accessible for service situations. 
+Manifolds should not be located closer than 3" from a 
+water heater hot line outlet.
+The home run layout has half of the connections at the 
+manifold itself with the other half located at the stub out 
+and/or supply stop. 
+Combination systems allow the cold water distribution 
+manifold (no valve) to be located in a convenient area 
+within the structure (no access panels are required for 
+manifolds without valves).
+Manifold Plumbing
+Hose Hydrant
+Kitchen
+Ice Maker
+Shower
+Toilet
+Extra Branch
+Extra Branch
+5.3       Manifold Plumbing
+Note
+For hot water distribution, branches (B) that are closer to 
+the incoming hot line (A) will have faster hot water supply 
+rates to fixtures downstream. 
+A
+B
+
+www.siouxchief.com     24
+Radiant Manifolds 
+Allow for fine-tuning of supplied 
+water volume to radiators or tubing 
+loops (not shown in illustration)
+Manifolds, Flow-Through 
+Often in-line without valves
+Manifolds with Valve 
+Often located in service rooms 
+or behind access panels
+Manifold Plumbing       5.3
+Multiport Tees 
+Compact, 'H' pattern design, can be 
+used for smaller projects or to isolate 
+individual rooms or groups of fixtures.
+
+25     www.siouxchief.com
+Tube Protection
+Protect tube with properly regulated and certified 
+stud guards and metal plating where tube penetrates 
+through building members. See tubing insulation 
+requirements below.
+When undue stress will be placed on a connection joint, 
+use an appropriate fitting with strapping means (drop ear 
+elbow, eared stub out) and make connection to secured 
+fitting. E.g. Shower arm or hydrant installations.
+Tube Support
+Reference mandated support length intervals through 
+local code regulations. Typically horizontal spacing shall 
+be every 32" and vertical spacing shall be 48" and at 
+each floor penetration.
+Tube supports should be used to support a long tubing 
+length/run in addition to regular tube support intervals.
+Tube supports should be used to secure any expansion 
+loop or tubing offset. 
+PEX bend supports can be used when minimum bend 
+radius requirements cannot be met and to prevent tube 
+from kinking when installed per installation instructions.
+Tube Insulators
+In general, using insulators protects the tube from:
+1. Potential damage (from metal stud edges)
+2. Thermal Dissipation: Do not bundle hot and cold
+tubing together.
+3. Noise Transmission: Noise/acoustic transmission 
+is less likely with PEX than some other types of tube. 
+Insulators further guard against this phenomenon.
+Tube insulators are not required for tube runs through 
+wood studs if holes are at least 1/8" larger than the tube 
+O.D. and tube movement is not restricted. Tube insulators 
+must be used when tube runs through metal studs.
+PEX Design Factor
+The Design Factor (DF) for PEX tubing per AWWA C904 is 
+0.50. Pressure ratings are based on a typical Hydrostatic 
+Design Basis (HDB) for PEX of 1,250 psi and the Design 
+Factor of 0.50 resulting in the Hydrostatic Design Stress 
+(HDS) of 630 psi
+This is the “06” in the PEX Material Designation Code
+ 
+Thermal Expansion & Contraction.
+PEX has a thermal expansion rate of 1.10"per 10°F ΔT 
+per 100 ft. (27.94mm per 5.56°C ΔT per 30.48m).
+Slab Installation
+Do Not make any fitting joints
+under the slab. Use a tube sleeve
+material when penetrating a slab
+or concrete floor. 
+Note: Sioux Chief recommends a
+rigid tube support/sleeve when
+penetrating a concrete slab for
+protection during construction
+and placement of tubing.
+Spray-Foam Compatibility 
+Some spray-foam insulation products are approved for 
+use with PEX tube and fittings. It is the responsibility of 
+the installing contractor to refer to information provided 
+by the insulation manufacturer and verify compatibility of 
+any foam or chemical foaming agents that will come into 
+contact with PowerPEX tube and fittings, including PPSU 
+or other polymer material. If insulation manufacturer 
+recommends wrapping PEX tube joints before application, 
+use linerless black rubber tape.
+(See Section 5.5, Requirements for Wrapping a PowerPEX Joint)
+In general, ICYNENE closed-cell, polyurethane spray 
+foams are compatible with Sioux Chief PowerPEX tubing. 
+Information provided on MD-R-210, LD-C-50, and MC-C-
+200 has been reviewed and found that there should be 
+no compatibility issues with PowerPEX tubing.
+During application of spray-applied polyurethane foam 
+insulation, all installation instructions provided by 
+the manufacturer must be followed. During the curing 
+process, conditions should not exceed the temperature 
+and pressure limitations of the tube.
+Fire-Suppression Materials 
+It is the responsibility of the installing contractor to 
+refer to information provided by the fire-protection 
+material manufacturer and verify compatibility of any 
+fire-protection material that will come into contact with 
+PowerPEX tube and fittings, including PPSU or other 
+polymer material.
+Tubing Installation Requirements & Limitations*
+5.4       Tubing Installation Requirements & Limitations
+* For more information on tubing installation requirements and limitations, refer to the
+current edition of the PE Pipe Handbook, published (online) by the Plastics Pipe Institute
+
+www.siouxchief.com     26
+Horizontal Support 
+Every 32"
+(556-3 depicted)
+Stud Guard or Metal Plates
+Protect tube from possible nail penetration 
+(530-3 depicted)
+Joint/Valve Support
+Proper support enables a rigid installation
+(525-33C depicted)
+Vertical Support 
+Every 48" 
+(556-3 depicted)
+Thermal Expansion Loops/Coils
+Can be installed for hot tubing
+Tube Insulators or 
+Acoustical Insulators 
+Protect tube as it goes 
+through the stud
+(557-3Q depicted)
+Tubing Installation Requirements & Limitations       5.4
+
+27     www.siouxchief.com
+Inspection & Pressure Test
+Ensure all tube is free of defects and harm. 
+Inspect all connections to assure they are leak-free and 
+properly supported. Proper tube anchors and fasteners 
+must be used. Test the system as code dictates. Where 
+the code is absent, test to 100 psi for no less than 
+12 hours before covering any connection or tubing 
+underground or behind walls. If testing with water, 
+protect from freezing. If more than 10% pressure is lost 
+during hydrostatic or air tests, add more and test for 
+another 12 hours.
+Sleeving Service Main
+Where PowerPEX tubing enters foundation walls, rigid 
+tubing shall be used to protect tube from shearing due 
+to ground settlement or other earth movement. The 
+rigid sleeve shall protrude into the earth minimally 12" 
+and pass through to the interior of the building. Backer 
+rod (closed-cell foam rod or mineral wool) can be used 
+to seal the gap around the tube and capped with water 
+based caulking as filler.
+Where PowerPEX tubing enters concrete floors, follow 
+referenced slab penetration sleeve recommendations
+Expansion Joint Protection (Concrete)
+When PowerPEX tubing is being run below an eventual 
+radiant-type expansion joint, tubing shall be protected 
+from the possibility of being cut using a metal sleeve 
+material and/or by assuring that the tubing is suitably set 
+below the eventual cut.
+Repairs in Service Work
+If damage occurs to tubing while in the service stage, 
+it is recommended that the area be replaced (if at all 
+possible) without the use of a fitting below grade. When 
+a fitting must be installed below grade, use a fitting 
+made from C69300 brass for maximum dezincification 
+resistance and stress corrosion cracking resistance. 
+Sleeve and insulate the entire connection for protection 
+from possible corrosion and from any mechanical stress 
+that may occur. Test the assembly. Assure proper slack 
+has been left in the line and proper backfill compaction 
+has been obtained to limit movement on the connection.
+Tubing Installation Requirements & Limitations
+Continued
+Water System Disinfection
+AWWA C651-14 shall be referenced when disinfecting 
+PowerPEX tube installations and/or practices outlined by 
+local codes.
+	▪Do not allow solutions to remain in tubing for more 
+than 24 hours
+	▪Upon disinfection completion, flush all systems with 
+potable water.
+	▪Cover tube ends whenever not in use, preventing 
+debris from entering tube.
+	▪Only use disinfecting agents appropriate for PEX water 
+service as well as possible use of PPSU PEX fittings.
+Pressure Testing Water Mains
+Water service tubing should have pressure applied 
+throughout the installation. Air should be bled off the 
+line prior to pressurizing fully hydrostatically. Sioux 
+Chief recommends continuous pressure throughout the 
+installation process to evidence any leaks or damage 
+that may cause tube/connection failure. Testing water 
+pressures should be set higher than the expected 
+service pressure within the system. Do not test beyond 
+225 PSI for extended periods of time. 150 PSI water 
+testing pressure is recommended for service mains 
+throughout the construction phase.
+Pressure Testing Water Tubing
+Water: (recommended). When using water to test 
+distribution tubing, it is important to follow local codes. 
+It is important not to exceed the pressure limit of the 
+tubing. Reference the continuous use pressures and 
+hydrostatic pressure limitations in section 2.4. 
+Air: When using air to test pipe, there may be a need 
+to condition the pipe especially when testing in hotter 
+weather. PEX-B tubing does not need to be conditioned 
+to the extent that PEX-A tubing should due to physical 
+characteristics of the two tubing types. 
+Conditioning: 
+Conditioning the pipe is a process used to slightly 
+expand the tubing ID beyond what the test will effectively 
+expand it to in an effort to maintain the desired test 
+pressure without a 'false negative' of decreased 
+pressure due to normal tubing expansion. Expanding the 
+tube by using 40 psi beyond the testing pressure would 
+5.4       Tubing Installation Requirements & Limitations
+
+www.siouxchief.com     28
+Tubing Installation Requirements & Limitations
+Continued
+be recommended. Sioux Chief would suggest testing 
+with air up to 80 psi. 
+Procedure:
+1) Fill system with air or water.
+2) Remove all plumbing fixtures or appurtenances that 
+may harm a pressure test and/or should not be exposed 
+to excessive pressures. 
+3) Increase pressure over desired testing pressure for a 
+period of about 30 minutes while maintaining the higher 
+PSI.  EG: 100 PSI if testing pressure will be 60 PSI. 
+4) After the 30-min conditioning time, relieve pressure 
+down to 60 PSI. The PSI may climb slightly above 60 
+as the pipe shrinks due to relieved pressure. After 
+witnessing the final pressure (which may take about five 
+minutes depending on ambient temperature and may 
+increase to around 63-65 PSI), determine if the system 
+is air tight over the necessary code mandated testing 
+time. 
+Water Service Installation & Limitations
+Getting Started. Local codes should be referenced for 
+acceptable pressures as well as special precautions 
+on use of PEX, system fittings, layout and installation 
+requirements for service piping. Typical water service 
+pressure requirements often mandate that the service 
+is capable of withstanding 1.5x the operating pressure 
+of the system it is supplying. See listed PEX pressure 
+ratings. Ensure the fittings and tubing being installed 
+are acceptable for potential pressures, stresses, and 
+application requirements.
+Preparation. Check all tubing and fittings for proper 
+listings. Check all tubing and fittings for structural and 
+manufacturing integrity as well as issues that may have 
+arisen from transport or initial installation. Remove any 
+fitting or tube section that has been subjected to cuts, 
+gouges or other excessive installation hazards. Make 
+sure proper analysis of soil and soil chemistry has been 
+completed. Make sure trench is prepared according 
+to guidelines.
+Soil Analysis. Do not install PEX tube or fittings in areas 
+where known chemical spills have occurred or where a 
+likely chemical spill can occur. Do not install PowerPEX 
+tubing in soils contaminated with solvents, fuels, organic 
+solvents, pesticides or other harmful materials for 
+plastic tubing or its fitting systems. Local plumbing code 
+authorities and Sioux Chief should be contacted if there 
+is a question on the installation or area of installation.  
+Note 1: Do not allow backfill weight to cause tube to 
+become out-of-round beyond 5%. Do not over compact 
+backfill. 
+Note 2: Sioux Chief recommends using a sleeve material 
+for the entire length of the buried service main.
+Trench Layout Guidelines. If the soil has been graded 
+and deemed acceptable, the next step is to gauge the 
+type of soil so that proper installation can proceed. 
+Installations shall be made in an acceptable soil 
+condition or prepared soil condition that supports the 
+tube against future settlement. ASTM D2774 and 
+Chapter 7 of PE Pipe Handbook (see bottom of page 25) 
+shall be additionally referenced for plastic tube used for 
+service work.
+Installation In Different Soil Types
+Good Soils. Tube may be directly installed on the trench 
+bottom. Code should be referenced for embedment 
+practices and necessary spacing requirements of the 
+tube in the ground. Tube should be laid into trench with 
+slack. Trench bottom is to be clear of any pits or humps 
+as well as sharp objects. Test tube. Compact initial 
+backfill to prevent settlement. Test after backfill.
+Rocky Soils + Solid Rock. Tube shall have an additional 
+6" of trench dug below desired level of service tubing. 
+Prepared trench bottom shall have a 6" layer of pea gravel or 
+other non-sharp substrate trench base installed (pea gravel 
+suggested). Prevent humps or pits where tubing will be laid. 
+Test tube. Compact initial backfill to prevent settlement. 
+Backfill with 6" of the substrate used for the base. Test 
+after backfill.
+Unstable Soils. Tube shall have an additional 4" of 
+trench dug below the desired level of the service tubing. 
+Prepared trench bottom shall have a 4" layer of pea 
+gravel or other non-sharp substrate trench base installed 
+(pea gravel suggested). Prevent humps or pits where 
+tubing will be laid. Test tube. Compact initial backfill to 
+prevent settlement. Backfill with 6" of the substrate 
+used for the base.
+Tubing Installation Requirements & Limitations       5.4
+
+29     www.siouxchief.com
+External Temperature	
+Soldering. Soldering shall be performed minimally 18" 
+from installed PowerPEX tubing unless a heat-trapping 
+device is employed. Make all sweat connections and 
+allow cooling prior to making PEX connections to 
+PowerPEX tubing.
+Duct Work - Heating. Tubing shall be insulated from 
+direct contact with heat transmission ductwork that 
+has a possibility to exceed the maximum tubing working 
+temperature of 150°F. Tubing shall be kept 6" from 
+gas appliance vents except those vents with a thermal 
+protection approved for installation near plastic (PEX) 
+tubing as explicitly called out by the manufacturer. In 
+horizontal tube installations, keep tube 6" away from 
+heat source.
+Water Heater Connections. Connections to tubing shall 
+be made minimally 18" from the water heater hot and 
+cold connections on water heaters. Connections to 
+tubing shall be made with metal transition fittings. See 
+Sioux Chief Water Heater Connections section.
+(www.siouxchief.com)
+Heat Lamp + Lighting. Tubing shall be kept minimally 
+12" from heat source and proper protection shall be 
+used to avoid overheating tubing. Keep tube protected 
+and 12" from recessed lighting when installed in vertical 
+alignment to heat source. If 12" distance is not available, 
+proper insulation should be used to protect tubing where 
+insulation maintains the necessary heating certifications 
+for the application. PEX must be protected from any UV 
+light-producing device.
+Frozen Tubing. PEX tubing should not intentionally be 
+frozen. The frozen section of tubing and the general 
+area should be protected from further exposure to 
+unadvisable installations. Heat the affected area or the 
+blockage assuring that tubing does not overheat. Use a 
+hand to test surface. Space heaters, warm towels, 
+or warm water submersion are acceptable means to 
+thaw tube.
+Welding. Do not attempt to weld or fuse tubing.
+Kinked Tube. Remove Kinked sections or sections of 
+pipe that have exceeded maximum out-of-roundness.  
+18"
+Tubing Installation Requirements & Limitations
+Continued
+5.4       Tubing Installation Requirements & Limitations
+
+www.siouxchief.com     30
+Vermin Protection
+Protect tube from exposure to rodents or other 
+nuisances that may damage the tubing.
+Water Hammer Exposure
+Water Hammer is generally defined as the damaging 
+pressure surge and banging noise caused by the 
+quick stoppage of the water column when a valve or 
+faucet is turned off abruptly. PEX tubing, like all other 
+materials, needs to be protected from water hammer 
+by the installation of certified water hammer arresters. 
+If left uncontrolled, the water hammer pressure surge 
+can exceed the pressure ratings for the tube, causing 
+damage to the system and/or system components. Both 
+the UPC and IPC model codes require the installation 
+of ASSE 1010 water hammer arresters, regardless of 
+tubing material. (See Sioux Chief's website for a full line 
+of water hammer arresters for any application.)
+Bend Radius
+If coiled tubing is being used and the bend direction is 
+against the coil direction, multiply noted bend radius 
+by a factor of 3. Warmer tubing bends more easily. 
+Generally a bend radius of 8x tube diameter should 
+be sufficient. To avoid undue stress on polymer fittings 
+and connections, a minimum distance of 2x the tubing 
+O.D. should be allowed before changing the direction 
+of the tube. Sioux Chief recommends ALWAYS using a 
+manufactured bend support to ensure the proper bend 
+radius.
+TUBE
+MINIMUM 
+BEND RADIUS
+BETTER
+BEND RADIUS 
+COUNTER-COIL-SET
+BEND RADIUS 
+1/2"
+3.75"
+5"
+11.25"
+3/4"
+5.25"
+7"
+15.75"
+1"
+6.75"
+9"
+20.25"
+Tubing Installation Requirements & Limitations
+Continued
+Tubing Installation Requirements & Limitations       5.4
+TUBE 
+SIZE
+2X
+O.D.
+MIN BEND 
+RADIUS*
+1/2"
+1.25"
+3.75"
+3/4"
+1.75"
+5.25"
+1"
+2.25"
+6.75"
+*Without bend support.
+2x Tube OD
+Min Bend
+Radius
+
+31     www.siouxchief.com
+Tubing Installation Requirements & Limitations
+Continued
+5.4       Tubing Installation Requirements & Limitations
+Domestic Hot Water Design Parameters
+Max Velocity
+2 ft/sec.
+Max Operating Temperature
+140 ºF
+Max Operating Pressure
+80 psig
+Max Oxidative Reduction Potential
+825 mV.
+Thermal Expansion
+Linear expansion of PowerPEX tubing is approximately 
+1.10"per 10°F ΔT per 100 ft.
+Do not install tube supports or hangers too tightly. Allow 
+for expansion of tube when bracketing and supporting 
+PEX by allowing 1/8" slack for every 1 foot of linear 
+installation. 
+For large tubing runs, a tube loop can be installed to 
+allow for proper expansion and contraction.
+Domestic Hot Water Recirculation Systems
+Domestic hot water recirculation systems using 
+PowerPEX tube should be sized according to the 
+American Society of Plumbing Engineers (ASPE) method 
+described under “Hot Water Circulation Systems” in 
+Plumbing Engineering Design Handbook – Volume 2, 
+Chapter 6 –Domestic Water Heating Systems. 
+Service conditions, such as surge pressures, water 
+quality, installation methods, use patterns, etc. can 
+affect the service life of PEX tubing. Depending on the 
+service conditions for a particular application, it may 
+be necessary to reduce pressure, reduce temperature, 
+condition the water, or some combination of these to 
+below the maximum allowable level. 
+PowerPEX tube is approved for continuous domestic 
+hot water recirculation. Sioux Chief recommends 
+recirculation system designs that utilize the minimum 
+duty cycle to meet the demand requirements of the 
+system. All domestic hot water recirculation systems 
+using PowerPEX tube must be designed at the lowest 
+possible operating pressure and temperature, installed 
+properly, and never exceed the maximum recirculation 
+recommendations.
+ 
+1/8" Slack per foot. Approx 0.33" 
+of slack for every 32" between 
+horizontal tube support
+1¼" PEX
+
+www.siouxchief.com     32
+
+33     www.siouxchief.com
+Electrical
+Tube and tube/fitting system shall not be used as an 
+electric ground.
+Gas Use
+Only use PowerPEX tube in a manner consistent with the 
+tubing identification marking and certifications. Only use 
+PowerPEX in applications presented within this manual 
+and accepted through local and jurisdictional codes. 
+Contact Sioux Chief with questions.
+Ultraviolet (UV) Exposure
+Do not store PEX tubing unprotected
+outdoors. Keep  PEX tubing in the original
+packaging or under protective cover until
+time of installation. Ensure that exposure to sunlight 
+during installation does not exceed the maximum 
+recommended UV exposure time for the tube being 
+installed. See Section 2.2 for a tube's identification 
+marking.
+Leak Testing Solutions
+All leak-testing agents must be approved for PEX tubing. 
+Some chemicals found in leak-detecting formulations 
+can cause premature PEX tubing failure by developing 
+micro-fracturing of the tube wall.
+Polymer (PPSU/PSU) Fitting Limitations
+Special considerations should be made when using 
+polymer fittings in PEX systems. See section 3.3. 
+Brass Fitting Limitations
+Sioux Chief’s PowerPEX fittings, valves and connectors/
+adapters are made from multiple materials. These fittings 
+should be installed where allowed by code for hot/cold 
+plumbing applications. For aggressive water jurisdictions 
+prone to dezincification or for areas requiring no-lead 
+fittings, Sioux Chief carries a line of dezincification 
+resistant brass and copper fittings.
+Do not allow PEX fitting barbs and fitting ends to be 
+deformed or damaged. A fitting that exhibits a damaged 
+sealing barb or sealing surface should be removed 
+from service.
+Mechanical
+PowerPEX tubing should not be
+scratched, gouged or cut along
+tube length. Handle with care.
+Metal tubing hangers with sharp edges and corners should 
+be avoided. Metal, vinyl-coated tubing hangers specifically 
+designed for uses with PEX tube are acceptable. A better 
+option would be to use an approved plastic hanger from 
+Sioux Chief's extensive line of CTS hanging options.
+Note: Acceptable Metal hangers may include PEX 
+bend supports and straight-thru floor sleeves. Plastic 
+PEX bend supports should be used when size and 
+offering permit.
+Tube hangers that can easily pinch the tube should not 
+be used. Limit the 'ovaling' of the tube a hanger may 
+cause. Tubing must not be crushed or bent beyond the 
+materials min. bend radius and/or beyond 5% out-of 
+round by tubing hangers.
+Chemical 
+PowerPEX tubing is a durable, safe and 
+chemical-resistant material that has 
+exceeded the requirements of potable 
+drinking water systems with the highest 
+chlorine testing certifications possible. Tubing that 
+exhibits damage caused by contact with the following 
+should not be used: grease, tar, adhesive tapes, 
+thinners, fuels, sealants, tube cements, fluxes, 
+bleaches, other oxidizing agents and/or petroleum 
+products.
+Do Not allow adhesives to continuously contact tubing. 
+Remove any residue left by temporary or unintentional 
+exposing tube and fittings.
+Do Not use solvent-based paints or petroleum 
+products on or in PowerPEX tubing.
+For compatibility of fire-protection materials that may 
+contact PowerPEX tubing, refer to fire-protection
+material manufacturer's instructions and 
+recommendations. 
+Do Not allow contact with acids or strong bases. 
+Keep pesticides, fungicides, and other organic
+chemicals away from tube.
+Do Not attempt to glue or fuse to PowerPEX tubing.
+Avoiding Common Problems
+5.5       Avoiding Common Problems
+
+www.siouxchief.com     34
+Copper Fitting Limitations
+Sioux Chief’s capability as a world leading engineered 
+copper-fitting provider allows Sioux Chief the option of 
+offering naturally no-lead and dezincification-resistant 
+copper fittings for F1807 PEX applications. 
+Copper fittings are:
+Economical
+Accepted
+Listed
+Historically proven
+Do Not install copper fittings in areas prone to copper 
+deterioration. Do Not allow PEX fitting barbs and fitting 
+ends to be deformed or damaged. A fitting that exhibits 
+a damaged sealing barb or sealing surface should be 
+removed from service.
+Stainless Steel Fitting Limitations
+Sioux Chief sells some PEX fittings in stainless steel 
+alloys or as an assembly with stainless steel alloys. Be 
+sure these fittings are used as potable water fittings for 
+the referenced applications within this manual. Stainless 
+steel products should generally be protected from caustic 
+environments that are known to degrade stainless 
+materials including, but not limited to, high chlorine or 
+bromine environments and/or other environments that 
+produce halogens.
+Buried or Concealed Joints
+Sioux Chief permits PowerPEX joints (polymer, brass, 
+and copper) to be buried or concealed. Sioux Chief 
+recommends threaded connections never be buried 
+or concealed as they must be accessible for periodic 
+inspection, per building codes.
+The requirement to wrap a PowerPEX joint can depend 
+on many factors including location and the presence of 
+other materials that contact or can come in contact with 
+the joint.
+Concealed in Inaccessible Locations:
+When PowerPEX joints are concealed but are still in open 
+air space (e.g. behind drywall), it is not necessary to wrap 
+the joint. However, the installer should ensure the fittings 
+do not come in contact with chemicals (e.g. PVC glues, 
+Avoiding Common Problems
+Continued
+Avoiding Common Problems       5.5
+solvents, cements) that could damage the fitting material. 
+If it is determined that the joint should be protected, see 
+below requirements for wrapping a PowerPEX joint.
+Buried in a Concrete Slab or in
+The Sub-Base Underneath the Slab:
+All efforts to maintain a continuous run of tubing in any 
+buried location is the ideal method. Sioux Chief does 
+not recommend burying PowerPEX joints in slabs. Sioux 
+Chief PowerPEX PPSU, copper, and brass fittings can be 
+direct buried if in concrete. Some concrete mixtures use 
+chemicals known to negatively affect plastics, and in 
+those instances, the tube and fitting should be protected 
+with appropriate wrapping and sleeves (see requirements 
+below). In addition, the location of any joint below grade 
+should be marked and indicated on building drawings.
+Buried in soil:
+When burying PowerPEX joints in soil, protect joints 
+from corrosion and freezing. Metallic fittings, including 
+crimp rings, must be wrapped when buried in soil (see 
+requirements below). PPSU fittings are allowed to be 
+direct buried in soil without wrapping the joint. PEX 
+material can be direct buried.
+Requirements for Wrapping a PowerPEX joint
+- Use linerless black rubber tape.
+- Ensure a minimum of 50% overlap of the tape.
+- Avoid wrinkles or kinks in the tape.
+- Ensure the joint is completely covered, extending onto 
+the pipe as necessary. 
+- Indicate the location of each joint as required on
+the 'as-built' drawings
+Note: Linerless black rubber tape (e.g. Scotch® 2242) is recommended 
+for wrapping PEX joints. Do not use other types of tapes (e.g. duct tape, 
+standard electrical tape) to wrap the joint, as chemicals in the adhesive 
+may not be compatible with the polymer fitting material or the PEX tube
+If linerless black rubber tape is not available, the following tapes have also 
+been approved for protecting PowerPEX joints:
+• 3M™ Temflex™ Rubber Splicing Tape 2155 or Temflex™ Cotton Friction
+Tape 1755
+• Scotch® Rubber Splicing Tape 23 or Linerless Rubber Splicing Tape 130C
+Use CAUTION when using heat-shrink tubing, as high temperatures 
+produced by a heat gun can cause damage to PEX tubing and may cause it 
+to pull away from the fitting.
+
+•	PowerPEX is 3rd party listed and approved and has 
+undergone extensive testing to assure the process, 
+facility, ongoing testing and procedure exceed 
+industry standards for PEX tube extrusion.
+•	ASTM tube standards call out the wall thickness, 
+O.D., cross-linking, out-of-round, etc. Sioux Chief 
+continuously monitors all of these parameters to 
+assure tube is 100% compliant.
+
+www.siouxchief.com     36
+www.siouxchief.com     36
+CSA B137.5
+Thermoplastic pressure piping compendium 
+ANSI / NSF 14
+Plastics Piping System Components and Related Materials
+ANSI / NSF 61
+Drinking Water System Components - Health Effects. 
+ASTM F876
+Standard Specification for Crosslinked
+Polyethylene (PEX) Tubing
+ASTM F877
+Standard Specification for Crosslinked Polyethylene
+(PEX) Hot- and Cold-Water Distribution Systems
+UL
+Cross-linked Polyethylene Sprinkler Pipe and Fittings
+ULC
+Cross-linked Polyethylene Sprinkler Pipe and Fittings for Canada
+Sioux Chief PowerPEX tubing and various PEX fitting 
+systems have been certified and listed to the below. 
+The following third party testing and listing agencies 
+assure product is made to national standards and 
+adhere to certain requirements set forth by those 
+standards. 
+The installation instructions (section 3) should be 
+referenced for each system type. Sioux Chief offers 
+PowerPEX tubing and various PEX fitting systems that 
+conform to one or more of the following referenced 
+PEX Standards: 
+Certifications & Listings      
+ PowerPEX – Tested, Listed, and Trusted
+6
+Standards
+IAPMO (UPC)
+Sioux Chief File Number: 8214, N-8215
+Cross-linked Polyethylene (PEX)
+UL / ULC
+Docs. (VIXR.EX15656) / (VIXR7.EX15656)
+Fire Suppression
+Listing Agencies
+ASTM E84 & CAN/ULC S102
+Standard Test Method for Surface Burning 
+Characteristics of Building Materials
+ASTM E119 & CAN/ULC S101
+Standard Test Methods for Fire Tests of Building 
+Construction and Materials
+ASTM F2023
+American Society for Testing and Materials Standard 
+Test Method for Evaluating the Oxidative Resistance of 
+Cross-linked Polyethylene (PEX) Tubing and Systems to 
+Hot Chlorinated Water
+ANSI/AWWA C904
+American Water Works Association Standard for 
+Cross-Linked Polyethylene (PEX) Pressure Tubing, ½ In. 
+(13 mm) Through 3 In. (76 mm), for Water Service
+NSF
+Cross-linked Polyethylene (PEX)
+INTERTEK
+Sioux Chief Design Numbers: SCMC/DWP 120-01, 
+SCMC/DWP 60-01, SCMC/DWP 60-02
+Cross-linked Polyethylene (PEX)
+Note: Individual fitting standards (ASTM F1807, F2159, F1960, F3347, F3348, F877, ASSE 1061) are used in conjunction with PowerPEX 
+tubing (either Type-A or Type-B) and should be referenced for specifics on fitting dimensions and materials per each standard.
+
+Sioux Chief is proud to be an American 
+manufacturer and to support the American worker. 
+Our goal is to provide better value to the plumbing contractor 
+by offering quality products with superior customer service. 
+From our headquarters in Kansas City, Missouri, Sioux Chief 
+products are sold through qualified wholesale and retail 
+distributors worldwide.
+•	Sioux Chief is proud to be an American 
+manufacturer and to support the American worker. 
+•	Our goal is to provide better value to the plumbing 
+contractor by offering quality products with superior 
+customer service.
+•	From our headquarters in Kansas City, Missouri, 
+Sioux Chief products are sold through qualified 
+wholesale and retail distributors worldwide.
+
+www.siouxchief.com     38
+www.siouxchief.com     38
+7
+Warranty & Terms of Use
+World-Class Products – World-Class Warranty
+Warranty Procedure - Product & Property
+All claims for property or other damage are subject to the 
+following additional terms and procedure:
+If there is a warranty claim on a part that involves property or 
+other damage, Seller should be contacted by phone or in writing 
+directly following the loss, and in no case later than 15 days of 
+the date of alleged claim or failure and before any remediation 
+or alteration of the loss site has been started; any notice 
+beyond this time frame or after work has taken place to repair or 
+change the loss site will materially affect the Seller's ability to 
+adjudicate the claim and will void the warranty.
+The product in claim and/or its installation should not be 
+modified before review by Seller; alteration of the alleged 
+product or installation materially affects the Seller's ability to 
+establish fault and voids the warranty.
+Request a claim form. Submit the completed form to the Seller. 
+Claimant will receive an INC (incident) number from Seller.
+With the INC number, claimant should submit the claim form, 
+including the date of the installation, description of problem, 
+damage, pictures of the product, and repair invoices. This 
+information should be sent to the above address at claimant's 
+expense. Seller will not receive or process a claim without an 
+INC number.
+Seller will contact claimant with next steps, which may include 
+a visit from a site investigator or other representatives of Seller, 
+as Seller reserves the right to investigate all alleged loss sites.
+Processing of Orders
+All orders are processed immediately upon receipt and 
+acceptance by Seller. Seller reserves the right to charge back to 
+Buyer costs incurred from order cancellations or changes, and 
+to consider additions as separate orders.
+Unless provided in writing by Seller, any dates and/or 
+times quoted by Seller for the delivery of any goods or the 
+performance of any services are estimates and Seller will not 
+be held responsible for any delay. Buyer's receipt of goods or 
+acceptance of services shall constitute a waiver of any claim 
+for delay.
+If Buyer requires expedited shipment of “in stock” goods prior to 
+stated lead times on said order, Buyer will be charged $100.00 
+(USD) for any ‘expedited’ shipping on items up to $1,000.00 
+(USD) net, and $100.00 (USD) + 2% of net for any ‘expedited’ 
+shipping on items over $1,000.00 (USD) net.
+Price Changes
+All prices quoted from time to time by Seller are subject to 
+change without notice up to time of shipment. Invoice totals and 
+discounts will be calculated out to the sixth decimal digit.
+If Buyer fails to give written notice of objection to Sioux Chief's 
+order confirmation within ten (10) days after Buyer's receipt 
+of Sioux Chief's confirmation of the purchase order, the order 
+confirmation pricing becomes binding.
+Minimum Order Quantities
+A 20% surcharge will be applied to any item not purchased in 
+multiples of the stated Minimum Quantity, except on drop-ship 
+orders.
+Items with bold Minimum Quantities in the Numerical Index 
+(back of catalog) can never be broken.
+PEX tube bundles (sticks) may only be included on orders of 
+$40,000 Net or more. In addition, PEX tube bundles (sticks) 
+must also be ordered in a minimum quantity of ten (10) or a 
+$100 surcharge will apply to the line item. Coils may be ordered 
+in any quantity, and on orders of any amount.
+Terms & Conditions
+All sales are subject to the Standard Terms and Conditions set 
+forth on Sioux Chief's website at www.siouxchief.com. These 
+terms include the following:
+Return Merchandise
+No merchandise can be returned without Seller's prior written 
+authorization. All returns must comply with the guidelines 
+established below.
+Return Merchandise & Warranty Service
+To return product/merchandise or receive warranty service, 
+Buyer must first obtain a Return Merchandise Authorization 
+("RMA") by contacting Seller using the following information:
+	
+MAIL: Customer Service Manager
+	
+Sioux Chief Manufacturing Company, Inc.
+	
+14940 Thunderbird Road
+	
+Kansas City, Missouri 64147
+	
+PHONE: 816-425-9900 / 1-800-821-3944
+	
+FAX: 816-348-7502 / 1-800-758-5950
+	
+EMAIL: info@siouxchief.com
+Return Merchandise Procedure
+All merchandise returns and warranty claims are subject to the 
+following general terms and conditions:
+RMA requests must reference Seller's order number, invoice 
+number or the customer's P.O. number.
+Minimum return amount must be $250 net value per purchase 
+order.
+Product returns can only be made within twelve (12) months of 
+the original invoice date of the product to Buyer.
+Seller reserves the right, at its sole and absolute discretion, to 
+reject an RMA request for any reason at any time.
+In order to be received and accepted by Seller, all returned 
+product must be in whole multiples of the Minimum Quantity 
+listed in the current Price Index and material must be in its 
+original packaging with manufacturer’s seal intact.
+Products which are being phased-out, are obsolete, or were 
+special-order (custom) are not considered normal stock. These 
+items are non-returnable and non-refundable, except in the 
+case of a manufacturer’s defect.
+Buyer will be charged 25% of the applicable return price for 
+product restocking. For Drainage items having one or more 
+listed option, Buyer will be charged 33% of the applicable return 
+price for product restocking, and will apply to canceled orders 
+that have been entered but not shipped.
+An RMA is invalid 90 days after its date of issue.
+Seller will only supply product credit for a product return or 
+warranty claim. Issuance of an RMA does not authorize the 
+Buyer to deduct the value of the returned item; once product is 
+received and accepted by Seller, Seller will issue a credit memo 
+for the returned product when applicable.
+All product returns are subject to inspection and acceptance by 
+Seller at its discretion.
+Seller reserves the right to deny, nullify or cancel an RMA at its 
+discretion.
+Product returned without a Return Merchandise Authorization 
+number will be destroyed without credit.
+Seller shall not be responsible for shipping errors and shortages 
+reported 5 days after receipt of material.
+Seller shall not be responsible for shipment shortages that are 
+signed for as clear. Any shipment that appears to be damaged 
+in shipping must be noted when signing for receipt of delivery.
+Full Freight Allowance
+Sioux Chief will pay freight on all orders to single destinations 
+totaling at least $4,000 Net to locations within the 48 
+contiguous states (United States of America), at least $7,500 
+Net to locations within Hawaii, Alaska, and Puerto Rico, and 
+at least $3,500 CAD Net to locations within Canada. Sioux 
+Chief will pay freight on HydroTec™ and HydroBlock™ trench 
+drain orders of at least $5,000 Net to locations with the 48 
+contiguous states.
+Warranty
+Sioux Chief Mfg. Co., Inc. ("Seller" or "the Seller") warrants its 
+products to be free from defects in material and workmanship 
+under normal usage for the lifetime of the plumbing system in 
+which they were originally incorporated. In the event of such 
+defects within the warranty period, the Company will, at its 
+option, replace or recondition the product without charge. This 
+remedy shall be effective only if the product was installed in 
+accordance with supplied instructions, common installation or 
+use practices and existing building and plumbing codes and 
+legal requirements; has not been subjected to misuse or abuse; 
+was at all times used in a manner consistent with its intended 
+use; was at all times used in installations and environments 
+acceptable to its material and design specifications; or any 
+express conditions or requirements laid out in company 
+installation instructions, manuals, tech bulletins, special 
+labeling, precautions, as well as other instructional documents 
+and product limitations of use; was never modified, altered or 
+repaired by anyone other than the Seller; was properly subjected 
+to and passed common testing methods (including pressure 
+testing for potable water and drainage systems) immediately 
+after the product’s installation and before the product is put 
+into service, was not damaged by freezing temperatures or 
+excessive heats outside normal working or any express working 
+range of the product; was not subjected to or exposed to direct 
+or indirect chemical exposures; was not subjected to corrosion 
+from atmospheric or environmental degradation (including UV 
+exposure, brackish water, acidic water (pH <6.5), alkaline water 
+(pH >8), contaminated soils, etc.), and was protected from 
+natural causes; was never subjected to improper protection 
+during installation and was handled with all precautions 
+expressly written within company limitation documents or 
+known to the industry; was not subjected to water pressures 
+and flow conditions outside the working limits of the product; 
+was not subject to adverse or aggressive water conditions 
+(during testing, through stagnation or within service life (where 
+service-life is defined by this warranty)) and where any express 
+water condition included within company documents is avoided; 
+and all handling was performed in a manner consistent and 
+known to the industry or taught through company documents, 
+labels, websites, manuals, etc. In addition, Seller shall not 
+be responsible for any incidental, special or consequential 
+damages, including without limitation, lost profits or the cost 
+of repairing or replacing other property which is damaged, 
+other costs resulting from labor charges, delays, vandalism, 
+negligence, fouling caused by foreign material, chemical or any 
+other circumstances over which the Seller has no control. This 
+warranty excludes all costs arising from routine maintenance, 
+including the replacement of any parts required by such 
+maintenance and the replacement of parts required by normal 
+wear and tear. The Seller also reserves the right to modify, alter 
+or improve its product, or parts thereof, at any time without 
+incurring an obligation to notify or modify, alter, improve or 
+replace any product, or parts thereof, previously sold. If, on any 
+occasion, Seller waives any term or condition, this waiver is not 
+to be construed as a continuing waiver. For the purposes of this 
+warranty, the lifetime of the original plumbing system is defined 
+as the lesser of 25 years or the time before the plumbing 
+system was replaced or materially changed; all products with 
+automatically or manually moving parts are excluded from the 
+limited lifetime warranty and carry a 3-year limited warranty, 
+subject to the remaining terms, conditions and limitations of the 
+warranty. Some States do not allow or have other parameters 
+governing limitations on how long an implied warranty lasts, 
+and some States do not allow the exclusion or limitation of 
+incidental or consequential damages. This Limited Warranty 
+gives you specific legal rights, and you may have other rights 
+that vary from State to State. You should consult applicable 
+state laws to determine your rights. THE WARRANTY SET FORTH 
+HEREIN ABOVE AND BELOW IS GIVEN EXPRESSLY AND IS THE 
+ONLY WARRANTY GIVEN BY THE COMPANY WITH RESPECT TO 
+THE PRODUCT. THE COMPANY MAKES NO OTHER WARRANTIES, 
+EXPRESS OR IMPLIED. THE COMPANY HEREBY SPECIFICALLY 
+DISCLAIMS ALL OTHER WARRANTIES, EXPRESS OR IMPLIED, 
+INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF 
+MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+
+v02.25
