@@ -316,6 +316,20 @@ class TestTemperatureUnitInLabel(unittest.TestCase):
             self.assertIsNone(T(line), line)
 
 
+
+class TestApplicationsFromSheetProse(unittest.TestCase):
+    """Round 10: applications stated in spec-sheet prose ("WRAS Approved for use with potable water")."""
+    def test_prose(self):
+        from mfr_scraper.specs import applications_from_text as A
+        self.assertEqual(A('Features\n• WRAS Approved for use with potable water up to 85°C\nMaterials'),
+                         (['potable water'], '• WRAS Approved for use with potable water up to 85°C'))
+        self.assertEqual(A('Suitable for steam and condensate applications')[0], ['steam', 'condensate'])
+
+    def test_no_use_stated(self):
+        from mfr_scraper.specs import applications_from_text as A
+        self.assertIsNone(A('Body: steam-tested ductile iron\nOffers zone, terminal bypass and end of line applications'))
+
+
 if __name__ == '__main__':
     unittest.main()
 
