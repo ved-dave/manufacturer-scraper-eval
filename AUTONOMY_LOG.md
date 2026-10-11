@@ -380,3 +380,7 @@ first-pass session compares (before/after agreement) and fixes; < 80% before-fix
 |---|---|---|---|---|---|---|
 | spec accuracy | 66.3 | 67.1 | 42.2 | 44.4 | 54.3 | 55.8 |
 - All other key metrics identical; validation 0 errors (220 / 23 warnings); 0 crashes. Macro +1.5 >= 1 point.
+
+## 2026-10-11 05:24 · Phase 2 · Round 8 Bray result
+- Bray r8 (heading identifier lists): identical key metrics to r7, as predicted offline (no Bray heading opens with an
+  identifier list; "Series 20/21"-style names give nothing). 0 errors / 23 warnings, 0 crashes. Crane pending.
