@@ -526,3 +526,4 @@ Measured on bray, crane, cimberio (Sioux Chief re-processed from cache at the en
 - `mfr_scraper.process.simulate_l1` builds an L1 file from the old agent's CSV plus our fetch cache (only URLs in the
   agent's inventory; html_snapshot, page facts, link context, file facts, image width/height). L1 runs use
   snapshots, skip dead links, and skip image downloads when L1 gives the largest version's size (`83b857e`).
+- Regression fix (`b2b4242`): crane had 6 wrong merges (DA931+DA941, DM900+DM921+DM931, FM469+FM492...) because `core_of` read "931" as a size suffix. Now only codes with a digit before the trailing letters lose a trailing number (640WP02 -> 640WP). Crane families 208 -> 218 (key: 217); scores unchanged (macro 74.60 -> 74.60, no drops).
