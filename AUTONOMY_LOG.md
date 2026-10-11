@@ -246,3 +246,9 @@ first-pass session compares (before/after agreement) and fixes; < 80% before-fix
   identifiers, and comma/semicolon separators on the same line. Prose or short numbers after the label are rejected
   by the existing identifier test. Tests: `TestVariantHeadingLists` (3). Snapshots: round/2 a8db6a8, round/3 6dc9739
   (worktrees ~/wt-r2, ~/wt-r3) so each round is scored on both dev sites separately.
+
+## 2026-10-11 03:53 · Phase 2 · Round 1 baseline on Crane (pre-candidate code, worktree ~/wt-r1)
+- Full-site run, 218 families, 0 crashes, validation 0 errors / 220 warnings.
+- Crane r1: family R/P 100/100, primary docs R/P 100/100, images 78.0, specs 42.2, completeness 64.2, variants 0,
+  price availability 0, conflict precision 0. Macro (bray+crane) r1: fam R 98.5, fam P 91.0, docs R 80.5,
+  images 79.3, specs 53.9, completeness 74.3, variants 0, price 0, conflict 5.4.
