@@ -416,3 +416,7 @@ first-pass session compares (before/after agreement) and fixes; < 80% before-fix
 | variant recall | 100 | 100 | 22.2 | 74.1 | 61.1 | 87.1 |
 | price availability | 95.8 | 95.8 | 43.2 | 81.1 | 69.5 | 88.5 |
 - All other key metrics identical; validation 0 errors (23 / 220 warnings); 0 crashes.
+
+## 2026-10-11 05:53 · Phase 2 · Round 10 Bray result
+- Bray r10 (applications from sheet prose): spec accuracy 67.1 -> 66.6, completeness 85.2 -> 85.9, conflict precision
+  12.9 -> 12.5; all within the 2-point rule. 0 errors / 23 warnings, 0 crashes. Crane r9 then r10 pending.
