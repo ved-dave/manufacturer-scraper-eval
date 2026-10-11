@@ -237,3 +237,12 @@ first-pass session compares (before/after agreement) and fixes; < 80% before-fix
   `pdf_cap_reached` no longer fires. doc_type accuracy 76 → 79.
 - Still missing: single-door check-valve variants (8 gold identifiers) are not extracted even though its datasheets are
   now fetched → next variant hypothesis.
+
+## 2026-10-11 03:38 · Phase 2 · Round 4 hypothesis (stacked on r3, pending r2/r3 decisions)
+- Gap: Bray single-door check valve has 8 gold variants (201, 203, …, 312) but r3 extracts none. The page's spec block
+  renders as a label line `Models` followed by a value line `201, 203, 205, 210, 211, 212, 260, 312`; r2's line
+  pattern only matched label and identifiers on one whitespace-separated line.
+- Change (general): `variants.from_lines` also accepts an identifier label line followed by a line of ≥2
+  identifiers, and comma/semicolon separators on the same line. Prose or short numbers after the label are rejected
+  by the existing identifier test. Tests: `TestVariantHeadingLists` (3). Snapshots: round/2 a8db6a8, round/3 6dc9739
+  (worktrees ~/wt-r2, ~/wt-r3) so each round is scored on both dev sites separately.
