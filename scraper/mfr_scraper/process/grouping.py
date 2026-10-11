@@ -2,8 +2,9 @@
 
 Only pages that each stand for ONE identifier (a part-number page) are candidates for merging; a page that already
 lists several models (a whole-family page) stays its own family. Rules, each recorded as evidence:
-  R1  same breadcrumb leaf + same identifier stem + same base name (size and identifiers removed)
-  R2  the same spec sheet/submittal linked from a small set of pages that share breadcrumb leaf and identifier stem
+  R1  same breadcrumb leaf + same model code (identifiers differ only in a trailing size/option number) + same base name
+  R2  the same spec sheet/submittal linked from a small set of pages that share breadcrumb leaf and model code
+      (a series-wide sheet such as "778 series" does not merge 778V with 778VS: different model codes)
   R3  an "other sizes" / variant block linking the pages to each other (same breadcrumb leaf)
 Pages that share leaf and stem but no other evidence are reported as unsure (family_grouping).
 """
@@ -41,6 +42,13 @@ def identifier_of(rec):
     return tail if is_identifier(tail) else None
 
 
+def core_of(ident):
+    """Model code without a trailing size / option number: AB100-02 -> AB100, 640WP02 -> 640WP; 778VS stays 778VS."""
+    ident = ident or ''
+    m = re.match(r'^(.+?)[-_. ](\d{1,3}[A-Z]?)$', ident) or re.match(r'^(.*[A-Z])(\d{1,3})$', ident)
+    return m.group(1) if m and re.search(r'\d|[A-Z]{2}', m.group(1)) else (ident or None)
+
+
 def stem_of(ident):
     m = STEM.match(ident or '')
     return m.group(0) if m else None
@@ -64,7 +72,7 @@ def is_whole_family(rec):
 
 def page_info(rec):
     ident = identifier_of(rec)
-    return {'identifier': ident, 'stem': stem_of(ident), 'leaf': leaf_of(rec), 'name_key': name_key(rec),
+    return {'identifier': ident, 'stem': stem_of(ident), 'core': core_of(ident), 'leaf': leaf_of(rec), 'name_key': name_key(rec),
             'single': bool(ident) and not is_whole_family(rec)}
 
 
@@ -92,11 +100,11 @@ def group_pages(recs, ctx_of=lambda r: {}):
     # R1
     buckets = collections.defaultdict(list)
     for i, inf in enumerate(info):
-        if inf['single'] and inf['stem'] and inf['name_key']:
-            buckets[(inf['leaf'], inf['stem'], inf['name_key'])].append(i)
-    for (leaf, stem, nk), idx in buckets.items():
+        if inf['single'] and inf['stem'] and inf['name_key'] and inf['core'] != inf['identifier']:
+            buckets[(inf['leaf'], inf['core'], inf['name_key'])].append(i)
+    for (leaf, core, nk), idx in buckets.items():
         for j in idx[1:]:
-            union(idx[0], j, f'R1 same breadcrumb leaf "{leaf}" + identifier stem "{stem}" + base name "{nk}"')
+            union(idx[0], j, f'R1 same breadcrumb leaf "{leaf}" + model code "{core}" (identifiers differ only in a size/option number) + base name "{nk}"')
     # R2
     sheet_pages = collections.defaultdict(set)
     sheet_url = {}
@@ -114,10 +122,10 @@ def group_pages(recs, ctx_of=lambda r: {}):
         sub = collections.defaultdict(list)
         for i in sorted(idx):
             if info[i]['stem']:
-                sub[(info[i]['leaf'], info[i]['stem'])].append(i)
-        for (leaf, stem), lst in sub.items():
+                sub[(info[i]['leaf'], info[i]['core'])].append(i)
+        for (leaf, core), lst in sub.items():
             for j in lst[1:]:
-                union(lst[0], j, f'R2 shared spec sheet {sheet_url[k]} + breadcrumb leaf "{leaf}" + identifier stem "{stem}"')
+                union(lst[0], j, f'R2 shared spec sheet {sheet_url[k]} + breadcrumb leaf "{leaf}" + model code "{core}"')
     # R3
     by_url = {N.match_key(r.url): i for i, r in enumerate(recs)}
     for i, r in enumerate(recs):

@@ -161,6 +161,23 @@ class TestProcessL1(unittest.TestCase):
         self.assertTrue(all(d['decision'] in ('keep', 'drop', 'unsure') and d['reason'] for d in self.dec))
 
 
+class TestCodeMatching(unittest.TestCase):
+    def test_codes_match_whole_tokens_only(self):
+        self.assertFalse(ProcessRun._code_in('778v', 'cimberio-778vws-valve.png'))   # cimberio round 1 regression
+        self.assertTrue(ProcessRun._code_in('778v', '778v_new.png'))
+        self.assertTrue(ProcessRun._code_in('ab10002', 'ab100-02-spec.pdf'))
+        self.assertFalse(ProcessRun._code_in('113', 'p2113.jpg'))
+
+
+class TestImageRules(unittest.TestCase):
+    def test_charts_are_not_product_views(self):   # cimberio round 3
+        from mfr_scraper.process.run import CHART_IMAGE, DIMENSION_WORDS
+        for n in ('778Temperature_Pressure_Diagram.jpg', '747PRSNL_Pressure_Chart.JPG', 'flow-curve.png'):
+            self.assertTrue(CHART_IMAGE.search(n), n)
+        self.assertFalse(CHART_IMAGE.search('1220NL_side.jpg'))
+        self.assertTrue(DIMENSION_WORDS.search('dimension diagram'))
+
+
 class TestGrouping(unittest.TestCase):
     def rec(self, url, name, crumbs, docs=(), tables=()):
         from mfr_scraper.pipeline import PageRec
@@ -177,6 +194,15 @@ class TestGrouping(unittest.TestCase):
         groups, ev, unsure = G.group_pages(recs)
         self.assertEqual(sorted(len(g) for g in groups), [1, 1, 2])
         self.assertEqual(len(unsure), 1)   # 117-03 vs 117-12: same leaf + stem, different names
+
+    def test_series_sheet_does_not_merge_different_models(self):
+        sheet = ('https://x.example/TechDataSheet-778.pdf', 'Tech Data Sheet')   # cimberio round 2 regression
+        recs = [self.rec('https://x.example/778V', 'Balancing Valve 778V', ['Valves', 'Balancing'], [sheet]),
+                self.rec('https://x.example/778VS', 'Balancing Valve with Strainer 778VS', ['Valves', 'Balancing'], [sheet])]
+        groups, _, _ = G.group_pages(recs)
+        self.assertEqual(len(groups), 2)
+        self.assertEqual([G.core_of(x) for x in ('AB100-02', '640WP02', '778VS', '113-32', '1220NL')],
+                         ['AB100', '640WP', '778VS', '113', '1220NL'])
 
     def test_whole_family_pages_stay_separate(self):
         table = [['Model', 'Size'], ['S30-02', '2"'], ['S30-03', '3"']]

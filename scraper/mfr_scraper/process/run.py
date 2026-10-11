@@ -29,6 +29,8 @@ from .readers import read_links
 
 RELATED_SECTION = re.compile(r'related|similar|you may also|also like|accessor|recommended|other products|compare|'
                              r'popular|recently viewed|customers also', re.I)
+CHART_IMAGE = re.compile(r'chart|graph|curve|(pressure|temp\w*|flow|loss|performance)[\s_-]*diagram', re.I)
+DIMENSION_WORDS = re.compile(r'dimension|drawing|\bdims?\b', re.I)
 DOC_SHARED_LIMIT = 10     # a document on more families than this that names none of them is not product-specific
 IMAGE_SHARED_LIMIT = 2
 PROGRESS_EVERY = 200
@@ -105,11 +107,15 @@ class ProcessRun(SiteRun):
         return {'family_id': slug(P.path_tail(main.url) or main.name), 'name': name, 'series_code': series,
                 'canonical_url': main.url, 'identifiers': idents[:50], '_codes': codes, '_words': words}
 
-    @staticmethod
-    def _code_in(code, text_low, flat):
-        if code.isdigit():   # bare numbers must stand alone ("113" in "113 series", not in "2113" or "1130")
-            return bool(re.search(r'(?<![0-9])' + code + r'(?![0-9])', text_low))
-        return code in flat
+    _code_res = {}
+
+    @classmethod
+    def _code_in(cls, code, text_low, flat=None):
+        """The code appears as a whole token run ("778v" in "778v-valve", not in "778vws"; "ab10002" in "AB100-02")."""
+        rx = cls._code_res.get(code)
+        if rx is None:
+            rx = cls._code_res[code] = re.compile(r'(?<![a-z0-9])' + r'[\s\-_./]?'.join(map(re.escape, code)) + r'(?![a-z0-9])')
+        return bool(rx.search(text_low))
 
     def names_family(self, *texts, ref=None):
         ref = ref or self._cur
@@ -119,10 +125,23 @@ class ProcessRun(SiteRun):
         flat = _flat(low)
         for c in sorted(ref['_codes'], key=len, reverse=True):
             if self._code_in(c, low, flat):
-                return f'names "{c}"'
+                return (f'names "{c}"', c)
         if len(ref['_words']) >= 2 and all(w in low for w in ref['_words']):
-            return f'names the family ("{" ".join(ref["_words"])}")'
+            return (f'names the family ("{" ".join(ref["_words"])}")', '')
         return None
+
+    def names_other(self, *texts):
+        """(family_id, code) of the longest code of ANOTHER family named in the texts, if any."""
+        if not self._cur or not getattr(self, 'code_index', None):
+            return None
+        low = unquote(' '.join(t or '' for t in texts)).lower()
+        best = None
+        for c, fids in self.code_index:
+            if self._cur['family_id'] in fids or (best and len(c) <= len(best[1])):
+                continue
+            if len(c) >= 4 and self._code_in(c, low):
+                best = (sorted(fids)[0], c)
+        return best
 
     # -------------------------------------------------- pages
     def url_reject(self, u):
@@ -247,6 +266,10 @@ class ProcessRun(SiteRun):
         link_text = c.get('link_text') or text or None
         cand = {'url': url, 'link_text': link_text, 'section': section, 'type': kind, 'found_on': found_on}
         named = self.names_family(_filename(url), text, c.get('link_text'))
+        other = self.names_other(_filename(url), text, c.get('link_text'))
+        if other and (not named or len(other[1]) > len(named[1])):
+            return self.decide('asset', 'drop', f'names another family ({other[0]}: "{other[1]}")', url=url, candidate=cand)
+        named = named and named[0]
         loc = N.locale_of_url(url)
         host = urlsplit(url).hostname or ''
         if not N.is_english(loc):
@@ -401,9 +424,12 @@ class ProcessRun(SiteRun):
             url, alt = g['first'], g['alt'] or ''
             name = _filename(url)
             if A.CHROME_IMAGE.search(name) or A.CHROME_IMAGE.search(alt):
-                if not self.names_family(name, alt):
+                if not self.names_family(name, alt) or self.names_other(name, alt):
                     self.decide('asset', 'drop', 'logo/icon/banner-like image name or alt text', url=url)
                     continue
+            if (CHART_IMAGE.search(name) or CHART_IMAGE.search(alt)) and not DIMENSION_WORDS.search(name + ' ' + alt):
+                self.decide('asset', 'drop', 'chart / graph image (performance data), not a product view (SPEC 4)', url=url)
+                continue
             if A.NON_PRODUCT_PHOTO.search(name) or A.NON_PRODUCT_PHOTO.search(alt):
                 self.decide('asset', 'drop', 'installation / lifestyle photo (SPEC 4)', url=url)
                 continue
@@ -637,6 +663,11 @@ class ProcessRun(SiteRun):
             self.doc_fam_counts.update({N.match_key(u, drop_asset_params=True) for r in g for u, _ in r.doc_links})
             family_counts.update({N.image_key(c[0]) for r in g for c in r.image_cands})
         refs = [self.make_ref(g) for g in groups]
+        idx = collections.defaultdict(set)
+        for r in refs:
+            for c in r['_codes']:
+                idx[c].add(r['family_id'])
+        self.code_index = sorted(idx.items(), key=lambda x: -len(x[0]))
         merges = []
         for gi, ev in evidence.items():
             merges.append({'family_id': refs[gi]['family_id'], 'pages': [r.url for r in groups[gi]], 'evidence': ev})
