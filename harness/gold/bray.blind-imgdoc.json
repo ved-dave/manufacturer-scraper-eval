@@ -1,0 +1,861 @@
+{
+  "schema_version": "1.0",
+  "site": "bray",
+  "input_url": "https://www.bray.com/",
+  "run_at": "2026-10-11T02:31:00Z",
+  "agent": {
+    "name": "gold-blind-imgdoc",
+    "version": "1"
+  },
+  "gold_meta": {
+    "labeller": "devin (blind)",
+    "labelled_at": "2026-10-11",
+    "notes": "Blind image-only and doc_type-only re-label of 6 families under SPEC 4/5. specs/variants intentionally empty. family_index lists only these 6 families (needed by validate --gold); it is NOT the complete site index."
+  },
+  "family_index": [
+    {
+      "url": "https://www.bray.com/valves-actuators-controls/control-accessories/switch-boxes/series-5a-switch-box",
+      "name": "Series 5A",
+      "aliases": []
+    },
+    {
+      "url": "https://www.bray.com/valves-actuators-controls/actuators/electric-actuator/series-70-hazardous-location",
+      "name": "Series 70-HAZ",
+      "aliases": []
+    },
+    {
+      "url": "https://www.bray.com/valves-actuators-controls/actuators/manual-operators/srh-series-manual-actuator",
+      "name": "SRH Series",
+      "aliases": []
+    },
+    {
+      "url": "https://www.bray.com/valves-actuators-controls/control-accessories/switch-boxes/series-5b-resin-switch-box",
+      "name": "Series 5B Resin",
+      "aliases": []
+    },
+    {
+      "url": "https://www.bray.com/valves-actuators-controls/control-accessories/switch-boxes/series-5b-switch-box",
+      "name": "Series 5B",
+      "aliases": []
+    },
+    {
+      "url": "https://www.bray.com/valves-actuators-controls/ball-valves/trunnion-mounted-valves/trunnion-mounted-ball-valve",
+      "name": "Series 1B",
+      "aliases": []
+    }
+  ],
+  "families": [
+    {
+      "family_id": "series-5a",
+      "name": "Series 5A",
+      "canonical_url": "https://www.bray.com/valves-actuators-controls/control-accessories/switch-boxes/series-5a-switch-box",
+      "specs": {},
+      "variants": [],
+      "documents": [
+        {
+          "url": "https://www.bray.com/docs/default-source/manuals-guides/technical-manuals/tm-1090_5a_aluminum.pdf",
+          "doc_type": "spec_sheet",
+          "priority": "primary",
+          "lang": "en",
+          "title": "Series 5A Aluminum Switch Box",
+          "revision_date": "2022-10-14",
+          "sha256": "647c8649338d18fdbbd4e8fcf8e100b2f11c8ab189544f64bd5255d635048526",
+          "bytes": 395819,
+          "http_status": 200,
+          "mime_verified": true,
+          "found_on": "https://www.bray.com/valves-actuators-controls/control-accessories/switch-boxes/series-5a-switch-box",
+          "variant_skus": []
+        },
+        {
+          "url": "https://www.bray.com/docs/default-source/brochures/product-brochures/switchbox-series-5a-b-c/b-1068-s5a-5b-5c-vsm-rev_compressed.pdf",
+          "doc_type": "brochure",
+          "priority": "secondary",
+          "lang": "en",
+          "title": "Series 5A, 5B and 5C Switchbox",
+          "revision_date": "2022-04-11",
+          "sha256": "abd019ee39349151b544b4c489849039e8d245347190baf24001ea1106064ce6",
+          "bytes": 6414418,
+          "http_status": 200,
+          "mime_verified": true,
+          "found_on": "https://www.bray.com/valves-actuators-controls/control-accessories/switch-boxes/series-5a-switch-box",
+          "variant_skus": []
+        },
+        {
+          "url": "https://www.bray.com/docs/default-source/brochures/product-brochures/en_vac_broc.pdf",
+          "doc_type": "brochure",
+          "priority": "secondary",
+          "lang": "en",
+          "title": "Valve Automation Centre (VAC)",
+          "revision_date": "2024-08-13",
+          "sha256": "580ecba3789ab1b0c5984b2d6a2dbd515e57b56f346ca7714513ac91ffe79df8",
+          "bytes": 2301552,
+          "http_status": 200,
+          "mime_verified": true,
+          "found_on": "https://www.bray.com/valves-actuators-controls/control-accessories/switch-boxes/series-5a-switch-box",
+          "variant_skus": []
+        },
+        {
+          "url": "https://www.bray.com/docs/default-source/manuals-guides/iom-manuals/valve-status-monitors-series-5ab-om-en-us.pdf",
+          "doc_type": "iom_manual",
+          "priority": "secondary",
+          "lang": "en",
+          "title": "Series 5A/5B Switchbox",
+          "revision_date": "2022",
+          "sha256": "ef385b58783a37b135e6f84269578df096b25b3d440ec856f5dbd98b0e02d190",
+          "bytes": 2747350,
+          "http_status": 200,
+          "mime_verified": true,
+          "found_on": "https://www.bray.com/valves-actuators-controls/control-accessories/switch-boxes/series-5a-switch-box",
+          "variant_skus": []
+        },
+        {
+          "url": "https://www.bray.com/docs/default-source/manuals-guides/iom-manuals/en_br_iom_ct_s5a_5b-is_halfsize.pdf",
+          "doc_type": "iom_manual",
+          "priority": "secondary",
+          "lang": "en",
+          "title": "Series 5A/5B Intrinsically Safe Switchbox",
+          "revision_date": "2022-12-22",
+          "sha256": "26023dda6404f9b4982243799115f00179d85265d7e860b45a54484da9ac84f5",
+          "bytes": 3063458,
+          "http_status": 200,
+          "mime_verified": true,
+          "found_on": "https://www.bray.com/valves-actuators-controls/control-accessories/switch-boxes/series-5a-switch-box",
+          "variant_skus": []
+        },
+        {
+          "url": "https://www.bray.com/docs/default-source/manuals-guides/selection-guides/hazardous-location-products.pdf",
+          "doc_type": "other_doc",
+          "priority": "secondary",
+          "lang": "en",
+          "title": "Hazardous Location Products",
+          "revision_date": "2020-03",
+          "sha256": "a29e2520aa8a9142673eaa6c01e6ea367ce7fb0144983c8d0d2f54fce1d0fd6c",
+          "bytes": 1852871,
+          "http_status": 200,
+          "mime_verified": true,
+          "found_on": "https://www.bray.com/valves-actuators-controls/control-accessories/switch-boxes/series-5a-switch-box",
+          "variant_skus": []
+        },
+        {
+          "url": "https://www.bray.com/docs/default-source/manuals-guides/selection-guides/intriniscally-safe-product-selection.pdf",
+          "doc_type": "catalog",
+          "priority": "secondary",
+          "lang": "en",
+          "title": "Intriniscally Safe Reference Guide",
+          "revision_date": "2020-06",
+          "sha256": "7e3caea47519ab134b4ae75e837fb22bb91662a0ab9720423cf42e1f229d4563",
+          "bytes": 894657,
+          "http_status": 200,
+          "mime_verified": true,
+          "found_on": "https://www.bray.com/valves-actuators-controls/control-accessories/switch-boxes/series-5a-switch-box",
+          "variant_skus": []
+        },
+        {
+          "url": "https://www.bray.com/docs/default-source/manuals-guides/safety-manuals/en_sm_1007_5-abc-vsm_safety-manual.pdf",
+          "doc_type": "iom_manual",
+          "priority": "secondary",
+          "lang": "en",
+          "title": "Series 5A, 5B and 5C Switch Boxes",
+          "revision_date": "2025-04-23",
+          "sha256": "832c5906e219425ae9470f1576596191ba3ab9bb2927de11fea203720942dfee",
+          "bytes": 398130,
+          "http_status": 200,
+          "mime_verified": true,
+          "found_on": "https://www.bray.com/valves-actuators-controls/control-accessories/switch-boxes/series-5a-switch-box",
+          "variant_skus": []
+        },
+        {
+          "url": "https://www.bray.com/docs/default-source/brochures/product-brochures/s5a/series-5a-valve-status-monitor-technical-manual.pdf",
+          "doc_type": "spec_sheet",
+          "priority": "primary",
+          "lang": "en",
+          "title": "Series 5A Switch Box",
+          "revision_date": "2022-10-14",
+          "sha256": "17c841abe194ee70cf1ae8f8b3058175d48b043110a779e43313a95381c69b0c",
+          "bytes": 395821,
+          "http_status": 200,
+          "mime_verified": true,
+          "found_on": "https://www.bray.com/valves-actuators-controls/control-accessories/switch-boxes/series-5a-switch-box",
+          "variant_skus": []
+        }
+      ],
+      "images": [
+        {
+          "url": "https://www.bray.com/images/default-source/products/controls/s5a/2025_s5a_92-93_mccannalok-s40_41_8in_homehero_0100.webp",
+          "image_type": "product_photo",
+          "width": 2000,
+          "height": 1269,
+          "phash": "f7c39a8d89b8d882",
+          "found_on": "https://www.bray.com/valves-actuators-controls/control-accessories/switch-boxes/series-5a-switch-box"
+        },
+        {
+          "url": "https://www.bray.com/images/default-source/products/controls/s5a/2025_s5a_exp_02-copy.webp",
+          "image_type": "product_photo",
+          "width": 2000,
+          "height": 2000,
+          "phash": "e9a1865e9a617987",
+          "found_on": "https://www.bray.com/valves-actuators-controls/control-accessories/switch-boxes/series-5a-switch-box"
+        },
+        {
+          "url": "https://www.bray.com/images/default-source/products/controls/s5a/series5a-cutaway-1-min.webp",
+          "image_type": "product_photo",
+          "width": 1145,
+          "height": 1625,
+          "phash": "fab4854b1f6c20b3",
+          "found_on": "https://www.bray.com/valves-actuators-controls/control-accessories/switch-boxes/series-5a-switch-box"
+        }
+      ]
+    },
+    {
+      "family_id": "series-70-haz",
+      "name": "Series 70-HAZ",
+      "canonical_url": "https://www.bray.com/valves-actuators-controls/actuators/electric-actuator/series-70-hazardous-location",
+      "specs": {},
+      "variants": [],
+      "documents": [
+        {
+          "url": "https://www.bray.com/docs/default-source/brochures/product-brochures/en_vac_broc.pdf",
+          "doc_type": "brochure",
+          "priority": "secondary",
+          "lang": "en",
+          "title": "Valve Automation Centre (VAC)",
+          "revision_date": "2024-08-13",
+          "sha256": "580ecba3789ab1b0c5984b2d6a2dbd515e57b56f346ca7714513ac91ffe79df8",
+          "bytes": 2301552,
+          "http_status": 200,
+          "mime_verified": true,
+          "found_on": "https://www.bray.com/valves-actuators-controls/actuators/electric-actuator/series-70-hazardous-location",
+          "variant_skus": []
+        },
+        {
+          "url": "https://www.bray.com/docs/default-source/brochures/product-brochures/en_b-1100_actuators-controls_web.pdf",
+          "doc_type": "catalog",
+          "priority": "secondary",
+          "lang": "en",
+          "title": "Actuators & Controls",
+          "revision_date": "2024-08-19",
+          "sha256": "3e069e7f8fa9c09c877ed7efba8178a18f3c0836e78df4841ad06b316277e860",
+          "bytes": 810760,
+          "http_status": 200,
+          "mime_verified": true,
+          "found_on": "https://www.bray.com/valves-actuators-controls/actuators/electric-actuator/series-70-hazardous-location",
+          "variant_skus": []
+        },
+        {
+          "url": "https://www.bray.com/docs/default-source/manuals-guides/quick-start-guide/b_1103_s70-quickstart-guide.pdf",
+          "doc_type": "iom_manual",
+          "priority": "secondary",
+          "lang": "en",
+          "title": "Series 70 Electric Actuator",
+          "revision_date": "2024-08-16",
+          "sha256": "03bee4b2f9422991f18ed7590d16f14c6a490dd4a970d63f8cd397e7ae064e73",
+          "bytes": 589202,
+          "http_status": 200,
+          "mime_verified": true,
+          "found_on": "https://www.bray.com/valves-actuators-controls/actuators/electric-actuator/series-70-hazardous-location",
+          "variant_skus": []
+        },
+        {
+          "url": "https://www.bray.com/docs/default-source/specifications/recommended-specifications/en_rss_s70_actuator.pdf",
+          "doc_type": "spec_sheet",
+          "priority": "primary",
+          "lang": "en",
+          "title": "Series 70 Electric Actuator",
+          "revision_date": "2023-09-15",
+          "sha256": "d39dc847486070e55a7b5d1ccc795d978d5f690b8ae6ddd1f1bb13ec44894bf7",
+          "bytes": 107361,
+          "http_status": 200,
+          "mime_verified": true,
+          "found_on": "https://www.bray.com/valves-actuators-controls/actuators/electric-actuator/series-70-hazardous-location",
+          "variant_skus": []
+        }
+      ],
+      "images": [
+        {
+          "url": "https://www.bray.com/images/default-source/products/controls/s70-haz/s70_haz_s43-12in-_homehero_1-copy.webp",
+          "image_type": "product_photo",
+          "width": 2000,
+          "height": 1311,
+          "phash": "fe97c08ac18d8d9c",
+          "found_on": "https://www.bray.com/valves-actuators-controls/actuators/electric-actuator/series-70-hazardous-location"
+        },
+        {
+          "url": "https://www.bray.com/images/default-source/products/controls/s70-haz/s70_haz_thumbnail_2-copy.webp",
+          "image_type": "product_photo",
+          "width": 2000,
+          "height": 2000,
+          "phash": "f9bc86402f67709c",
+          "found_on": "https://www.bray.com/valves-actuators-controls/actuators/electric-actuator/series-70-hazardous-location"
+        }
+      ]
+    },
+    {
+      "family_id": "srh-series",
+      "name": "SRH Series",
+      "canonical_url": "https://www.bray.com/valves-actuators-controls/actuators/manual-operators/srh-series-manual-actuator",
+      "specs": {},
+      "variants": [],
+      "documents": [
+        {
+          "url": "https://www.bray.com/docs/default-source/specifications/datasheets/en_sds_spring-return-handle.pdf",
+          "doc_type": "spec_sheet",
+          "priority": "primary",
+          "lang": "en",
+          "title": "Spring Return Handle (Deadman Handle) - SRH Series",
+          "revision_date": "2024-04-04",
+          "sha256": "52c1bd203e1acac411c3dd5e1dab1090d06ed17f17211cef81cd9c94adb38801",
+          "bytes": 958982,
+          "http_status": 200,
+          "mime_verified": true,
+          "found_on": "https://www.bray.com/valves-actuators-controls/actuators/manual-operators/srh-series-manual-actuator",
+          "variant_skus": []
+        },
+        {
+          "url": "https://www.bray.com/docs/default-source/brochures/product-brochures/manual-operators-srh-series-pb-en-us.pdf",
+          "doc_type": "spec_sheet",
+          "priority": "primary",
+          "lang": "en",
+          "title": "Manual Operators SRH Series",
+          "revision_date": "2015-11",
+          "sha256": "87ee17b787d075a55b9210746f53aa640f2c435844d9f0e774ff387776b06f60",
+          "bytes": 1428519,
+          "http_status": 200,
+          "mime_verified": true,
+          "found_on": "https://www.bray.com/valves-actuators-controls/actuators/manual-operators/srh-series-manual-actuator",
+          "variant_skus": []
+        }
+      ],
+      "images": [
+        {
+          "url": "https://www.bray.com/images/default-source/products/controls/srh/srh_ontriad_homehero_6-0070-copy600x600.webp",
+          "image_type": "product_photo",
+          "width": 600,
+          "height": 600,
+          "phash": "ec3386c9e2f0391e",
+          "found_on": "https://www.bray.com/valves-actuators-controls/actuators/manual-operators/srh-series-manual-actuator"
+        },
+        {
+          "url": "https://www.bray.com/images/default-source/products/controls/srh/srh_3_thumbnail_3-copy-600x600.webp",
+          "image_type": "product_photo",
+          "width": 600,
+          "height": 600,
+          "phash": "dfc092b6a62da961",
+          "found_on": "https://www.bray.com/valves-actuators-controls/actuators/manual-operators/srh-series-manual-actuator"
+        }
+      ]
+    },
+    {
+      "family_id": "series-5b-resin",
+      "name": "Series 5B Resin",
+      "canonical_url": "https://www.bray.com/valves-actuators-controls/control-accessories/switch-boxes/series-5b-resin-switch-box",
+      "specs": {},
+      "variants": [],
+      "documents": [
+        {
+          "url": "https://www.bray.com/docs/default-source/manuals-guides/technical-manuals/tm-1095_5b_resin.pdf",
+          "doc_type": "spec_sheet",
+          "priority": "primary",
+          "lang": "en",
+          "title": "Switchbox Series 5B Resin",
+          "revision_date": "2022-11-21",
+          "sha256": "c5d5b88f667dc47f3649b37fd55703605cace97785204daf3727b7cfec260113",
+          "bytes": 1652094,
+          "http_status": 200,
+          "mime_verified": true,
+          "found_on": "https://www.bray.com/valves-actuators-controls/control-accessories/switch-boxes/series-5b-resin-switch-box",
+          "variant_skus": []
+        },
+        {
+          "url": "https://www.bray.com/docs/default-source/brochures/product-brochures/switchbox-series-5a-b-c/b-1068-s5a-5b-5c-vsm-rev_compressed.pdf",
+          "doc_type": "brochure",
+          "priority": "secondary",
+          "lang": "en",
+          "title": "Series 5A, 5B and 5C Switchbox",
+          "revision_date": "2022-04-11",
+          "sha256": "abd019ee39349151b544b4c489849039e8d245347190baf24001ea1106064ce6",
+          "bytes": 6414418,
+          "http_status": 200,
+          "mime_verified": true,
+          "found_on": "https://www.bray.com/valves-actuators-controls/control-accessories/switch-boxes/series-5b-resin-switch-box",
+          "variant_skus": []
+        },
+        {
+          "url": "https://www.bray.com/docs/default-source/brochures/product-brochures/en_vac_broc.pdf",
+          "doc_type": "brochure",
+          "priority": "secondary",
+          "lang": "en",
+          "title": "Valve Automation Centre (VAC)",
+          "revision_date": "2024-08-13",
+          "sha256": "580ecba3789ab1b0c5984b2d6a2dbd515e57b56f346ca7714513ac91ffe79df8",
+          "bytes": 2301552,
+          "http_status": 200,
+          "mime_verified": true,
+          "found_on": "https://www.bray.com/valves-actuators-controls/control-accessories/switch-boxes/series-5b-resin-switch-box",
+          "variant_skus": []
+        },
+        {
+          "url": "https://www.bray.com/docs/default-source/manuals-guides/iom-manuals/valve-status-monitors-series-5ab-om-en-us.pdf",
+          "doc_type": "iom_manual",
+          "priority": "secondary",
+          "lang": "en",
+          "title": "Series 5A/5B Switchbox",
+          "revision_date": "2022",
+          "sha256": "ef385b58783a37b135e6f84269578df096b25b3d440ec856f5dbd98b0e02d190",
+          "bytes": 2747350,
+          "http_status": 200,
+          "mime_verified": true,
+          "found_on": "https://www.bray.com/valves-actuators-controls/control-accessories/switch-boxes/series-5b-resin-switch-box",
+          "variant_skus": []
+        },
+        {
+          "url": "https://www.bray.com/docs/default-source/manuals-guides/iom-manuals/series-5b_c-vsm-devicenet_halfsize-compressed.pdf",
+          "doc_type": "iom_manual",
+          "priority": "secondary",
+          "lang": "en",
+          "title": "Series 5B/5C DeviceNet",
+          "revision_date": "2019-03-21",
+          "sha256": "ef26ab12e9e97455c176d6d1cc5765d138d479738f05ba8c98808750e6a5e3f8",
+          "bytes": 901628,
+          "http_status": 200,
+          "mime_verified": true,
+          "found_on": "https://www.bray.com/valves-actuators-controls/control-accessories/switch-boxes/series-5b-resin-switch-box",
+          "variant_skus": []
+        },
+        {
+          "url": "https://www.bray.com/docs/default-source/manuals-guides/iom-manuals/series-5b_c-vsm-profibus_halfsize.pdf",
+          "doc_type": "iom_manual",
+          "priority": "secondary",
+          "lang": "en",
+          "title": "Series 5B/5C Profibus DP",
+          "revision_date": "2019-03-21",
+          "sha256": "157f5ae08c13a7e5be846ac06567498c200e93e1157574ff4924e26aa33bc24d",
+          "bytes": 1214907,
+          "http_status": 200,
+          "mime_verified": true,
+          "found_on": "https://www.bray.com/valves-actuators-controls/control-accessories/switch-boxes/series-5b-resin-switch-box",
+          "variant_skus": []
+        },
+        {
+          "url": "https://www.bray.com/docs/default-source/manuals-guides/iom-manuals/en_br_iom_ct_s5a_5b-is_halfsize.pdf",
+          "doc_type": "iom_manual",
+          "priority": "secondary",
+          "lang": "en",
+          "title": "Series 5A/5B Intrinsically Safe Switchbox",
+          "revision_date": "2022-12-22",
+          "sha256": "26023dda6404f9b4982243799115f00179d85265d7e860b45a54484da9ac84f5",
+          "bytes": 3063458,
+          "http_status": 200,
+          "mime_verified": true,
+          "found_on": "https://www.bray.com/valves-actuators-controls/control-accessories/switch-boxes/series-5b-resin-switch-box",
+          "variant_skus": []
+        },
+        {
+          "url": "https://www.bray.com/docs/default-source/manuals-guides/iom-manuals/series-5b_c-vsm-as-iconnect_halfsize.pdf",
+          "doc_type": "iom_manual",
+          "priority": "secondary",
+          "lang": "en",
+          "title": "Series 5B/5C AS-i",
+          "revision_date": "2019-03-14",
+          "sha256": "8c7e416b72546faea8bcf8fe8bca7354277ca2a1bc36f0283812d349cd1e5b66",
+          "bytes": 1204860,
+          "http_status": 200,
+          "mime_verified": true,
+          "found_on": "https://www.bray.com/valves-actuators-controls/control-accessories/switch-boxes/series-5b-resin-switch-box",
+          "variant_skus": []
+        },
+        {
+          "url": "https://www.bray.com/docs/default-source/manuals-guides/selection-guides/hazardous-location-products.pdf",
+          "doc_type": "other_doc",
+          "priority": "secondary",
+          "lang": "en",
+          "title": "Hazardous Location Products",
+          "revision_date": "2020-03",
+          "sha256": "a29e2520aa8a9142673eaa6c01e6ea367ce7fb0144983c8d0d2f54fce1d0fd6c",
+          "bytes": 1852871,
+          "http_status": 200,
+          "mime_verified": true,
+          "found_on": "https://www.bray.com/valves-actuators-controls/control-accessories/switch-boxes/series-5b-resin-switch-box",
+          "variant_skus": []
+        },
+        {
+          "url": "https://www.bray.com/docs/default-source/manuals-guides/selection-guides/intriniscally-safe-product-selection.pdf",
+          "doc_type": "catalog",
+          "priority": "secondary",
+          "lang": "en",
+          "title": "Intriniscally Safe Reference Guide",
+          "revision_date": "2020-06",
+          "sha256": "7e3caea47519ab134b4ae75e837fb22bb91662a0ab9720423cf42e1f229d4563",
+          "bytes": 894657,
+          "http_status": 200,
+          "mime_verified": true,
+          "found_on": "https://www.bray.com/valves-actuators-controls/control-accessories/switch-boxes/series-5b-resin-switch-box",
+          "variant_skus": []
+        },
+        {
+          "url": "https://www.bray.com/docs/default-source/manuals-guides/safety-manuals/en_sm_1007_5-abc-vsm_safety-manual.pdf",
+          "doc_type": "iom_manual",
+          "priority": "secondary",
+          "lang": "en",
+          "title": "Series 5A, 5B and 5C Switch Boxes",
+          "revision_date": "2025-04-23",
+          "sha256": "832c5906e219425ae9470f1576596191ba3ab9bb2927de11fea203720942dfee",
+          "bytes": 398130,
+          "http_status": 200,
+          "mime_verified": true,
+          "found_on": "https://www.bray.com/valves-actuators-controls/control-accessories/switch-boxes/series-5b-resin-switch-box",
+          "variant_skus": []
+        },
+        {
+          "url": "https://www.bray.com/docs/default-source/manuals-guides/technical-manuals/tm-1093_5bc_vsm_commpro.pdf",
+          "doc_type": "spec_sheet",
+          "priority": "primary",
+          "lang": "en",
+          "title": "Series 5B/5C CommPro",
+          "revision_date": "2020-10",
+          "sha256": "fa9510b0c014f7a2fffbe4f17f9263eae2f29fe34037a3672a7451939e6e16ee",
+          "bytes": 611761,
+          "http_status": 200,
+          "mime_verified": true,
+          "found_on": "https://www.bray.com/valves-actuators-controls/control-accessories/switch-boxes/series-5b-resin-switch-box",
+          "variant_skus": []
+        }
+      ],
+      "images": [
+        {
+          "url": "https://www.bray.com/images/default-source/products/controls/s5b-resin/s5b-resin_hero2-copy.webp",
+          "image_type": "product_photo",
+          "width": 1800,
+          "height": 1109,
+          "phash": "f6c08bbd98615327",
+          "found_on": "https://www.bray.com/valves-actuators-controls/control-accessories/switch-boxes/series-5b-resin-switch-box"
+        },
+        {
+          "url": "https://www.bray.com/images/default-source/products/controls/s5b-resin/s5b-resinthumb-copy.webp",
+          "image_type": "product_photo",
+          "width": 1333,
+          "height": 1333,
+          "phash": "ffa4801e9e78b861",
+          "found_on": "https://www.bray.com/valves-actuators-controls/control-accessories/switch-boxes/series-5b-resin-switch-box"
+        },
+        {
+          "url": "https://www.bray.com/images/default-source/products/controls/s5b-resin/5b-lr-min.webp",
+          "image_type": "product_photo",
+          "width": 640,
+          "height": 505,
+          "phash": "be39d0c8ccc4c9e3",
+          "found_on": "https://www.bray.com/valves-actuators-controls/control-accessories/switch-boxes/series-5b-resin-switch-box"
+        },
+        {
+          "url": "https://www.bray.com/images/default-source/products/controls/s5a-resin/s5a-s5b-indicators-min.png",
+          "image_type": "product_photo",
+          "width": 1920,
+          "height": 960,
+          "phash": "aa6c751a55f78a0a",
+          "found_on": "https://www.bray.com/valves-actuators-controls/control-accessories/switch-boxes/series-5b-resin-switch-box"
+        }
+      ]
+    },
+    {
+      "family_id": "series-5b",
+      "name": "Series 5B",
+      "canonical_url": "https://www.bray.com/valves-actuators-controls/control-accessories/switch-boxes/series-5b-switch-box",
+      "specs": {},
+      "variants": [],
+      "documents": [
+        {
+          "url": "https://www.bray.com/docs/default-source/brochures/product-brochures/switchbox-series-5a-b-c/b-1068-s5a-5b-5c-vsm-rev_compressed.pdf",
+          "doc_type": "brochure",
+          "priority": "secondary",
+          "lang": "en",
+          "title": "Series 5A, 5B and 5C Switchbox",
+          "revision_date": "2022-04-11",
+          "sha256": "abd019ee39349151b544b4c489849039e8d245347190baf24001ea1106064ce6",
+          "bytes": 6414418,
+          "http_status": 200,
+          "mime_verified": true,
+          "found_on": "https://www.bray.com/valves-actuators-controls/control-accessories/switch-boxes/series-5b-switch-box",
+          "variant_skus": []
+        },
+        {
+          "url": "https://www.bray.com/docs/default-source/brochures/product-brochures/en_vac_broc.pdf",
+          "doc_type": "brochure",
+          "priority": "secondary",
+          "lang": "en",
+          "title": "Valve Automation Centre (VAC)",
+          "revision_date": "2024-08-13",
+          "sha256": "580ecba3789ab1b0c5984b2d6a2dbd515e57b56f346ca7714513ac91ffe79df8",
+          "bytes": 2301552,
+          "http_status": 200,
+          "mime_verified": true,
+          "found_on": "https://www.bray.com/valves-actuators-controls/control-accessories/switch-boxes/series-5b-switch-box",
+          "variant_skus": []
+        },
+        {
+          "url": "https://www.bray.com/docs/default-source/manuals-guides/iom-manuals/valve-status-monitors-series-5ab-om-en-us.pdf",
+          "doc_type": "iom_manual",
+          "priority": "secondary",
+          "lang": "en",
+          "title": "Series 5A/5B Switchbox",
+          "revision_date": "2022",
+          "sha256": "ef385b58783a37b135e6f84269578df096b25b3d440ec856f5dbd98b0e02d190",
+          "bytes": 2747350,
+          "http_status": 200,
+          "mime_verified": true,
+          "found_on": "https://www.bray.com/valves-actuators-controls/control-accessories/switch-boxes/series-5b-switch-box",
+          "variant_skus": []
+        },
+        {
+          "url": "https://www.bray.com/docs/default-source/manuals-guides/iom-manuals/series-5b_c-vsm-devicenet_halfsize-compressed.pdf",
+          "doc_type": "iom_manual",
+          "priority": "secondary",
+          "lang": "en",
+          "title": "Series 5B/5C DeviceNet",
+          "revision_date": "2019-03-21",
+          "sha256": "ef26ab12e9e97455c176d6d1cc5765d138d479738f05ba8c98808750e6a5e3f8",
+          "bytes": 901628,
+          "http_status": 200,
+          "mime_verified": true,
+          "found_on": "https://www.bray.com/valves-actuators-controls/control-accessories/switch-boxes/series-5b-switch-box",
+          "variant_skus": []
+        },
+        {
+          "url": "https://www.bray.com/docs/default-source/manuals-guides/iom-manuals/series-5b_c-vsm-profibus_halfsize.pdf",
+          "doc_type": "iom_manual",
+          "priority": "secondary",
+          "lang": "en",
+          "title": "Series 5B/5C Profibus DP",
+          "revision_date": "2019-03-21",
+          "sha256": "157f5ae08c13a7e5be846ac06567498c200e93e1157574ff4924e26aa33bc24d",
+          "bytes": 1214907,
+          "http_status": 200,
+          "mime_verified": true,
+          "found_on": "https://www.bray.com/valves-actuators-controls/control-accessories/switch-boxes/series-5b-switch-box",
+          "variant_skus": []
+        },
+        {
+          "url": "https://www.bray.com/docs/default-source/manuals-guides/iom-manuals/en_br_iom_ct_s5a_5b-is_halfsize.pdf",
+          "doc_type": "iom_manual",
+          "priority": "secondary",
+          "lang": "en",
+          "title": "Series 5A/5B Intrinsically Safe Switchbox",
+          "revision_date": "2022-12-22",
+          "sha256": "26023dda6404f9b4982243799115f00179d85265d7e860b45a54484da9ac84f5",
+          "bytes": 3063458,
+          "http_status": 200,
+          "mime_verified": true,
+          "found_on": "https://www.bray.com/valves-actuators-controls/control-accessories/switch-boxes/series-5b-switch-box",
+          "variant_skus": []
+        },
+        {
+          "url": "https://www.bray.com/docs/default-source/manuals-guides/iom-manuals/series-5b_c-vsm-as-iconnect_halfsize.pdf",
+          "doc_type": "iom_manual",
+          "priority": "secondary",
+          "lang": "en",
+          "title": "Series 5B/5C AS-i",
+          "revision_date": "2019-03-14",
+          "sha256": "8c7e416b72546faea8bcf8fe8bca7354277ca2a1bc36f0283812d349cd1e5b66",
+          "bytes": 1204860,
+          "http_status": 200,
+          "mime_verified": true,
+          "found_on": "https://www.bray.com/valves-actuators-controls/control-accessories/switch-boxes/series-5b-switch-box",
+          "variant_skus": []
+        },
+        {
+          "url": "https://www.bray.com/docs/default-source/manuals-guides/selection-guides/hazardous-location-products.pdf",
+          "doc_type": "other_doc",
+          "priority": "secondary",
+          "lang": "en",
+          "title": "Hazardous Location Products",
+          "revision_date": "2020-03",
+          "sha256": "a29e2520aa8a9142673eaa6c01e6ea367ce7fb0144983c8d0d2f54fce1d0fd6c",
+          "bytes": 1852871,
+          "http_status": 200,
+          "mime_verified": true,
+          "found_on": "https://www.bray.com/valves-actuators-controls/control-accessories/switch-boxes/series-5b-switch-box",
+          "variant_skus": []
+        },
+        {
+          "url": "https://www.bray.com/docs/default-source/manuals-guides/selection-guides/intriniscally-safe-product-selection.pdf",
+          "doc_type": "catalog",
+          "priority": "secondary",
+          "lang": "en",
+          "title": "Intriniscally Safe Reference Guide",
+          "revision_date": "2020-06",
+          "sha256": "7e3caea47519ab134b4ae75e837fb22bb91662a0ab9720423cf42e1f229d4563",
+          "bytes": 894657,
+          "http_status": 200,
+          "mime_verified": true,
+          "found_on": "https://www.bray.com/valves-actuators-controls/control-accessories/switch-boxes/series-5b-switch-box",
+          "variant_skus": []
+        },
+        {
+          "url": "https://www.bray.com/docs/default-source/manuals-guides/safety-manuals/en_sm_1007_5-abc-vsm_safety-manual.pdf",
+          "doc_type": "iom_manual",
+          "priority": "secondary",
+          "lang": "en",
+          "title": "Series 5A, 5B and 5C Switch Boxes",
+          "revision_date": "2025-04-23",
+          "sha256": "832c5906e219425ae9470f1576596191ba3ab9bb2927de11fea203720942dfee",
+          "bytes": 398130,
+          "http_status": 200,
+          "mime_verified": true,
+          "found_on": "https://www.bray.com/valves-actuators-controls/control-accessories/switch-boxes/series-5b-switch-box",
+          "variant_skus": []
+        },
+        {
+          "url": "https://www.bray.com/docs/default-source/manuals-guides/technical-manuals/tm-1093_5bc_vsm_commpro.pdf",
+          "doc_type": "spec_sheet",
+          "priority": "primary",
+          "lang": "en",
+          "title": "Series 5B/5C CommPro",
+          "revision_date": "2020-10",
+          "sha256": "fa9510b0c014f7a2fffbe4f17f9263eae2f29fe34037a3672a7451939e6e16ee",
+          "bytes": 611761,
+          "http_status": 200,
+          "mime_verified": true,
+          "found_on": "https://www.bray.com/valves-actuators-controls/control-accessories/switch-boxes/series-5b-switch-box",
+          "variant_skus": []
+        },
+        {
+          "url": "https://www.bray.com/docs/default-source/manuals-guides/technical-manuals/tm-1091_5b_aluminum.pdf",
+          "doc_type": "spec_sheet",
+          "priority": "primary",
+          "lang": "en",
+          "title": "Switchbox Series 5B",
+          "revision_date": "2022-10-14",
+          "sha256": "ef649280351e3f6ef520fc3ed68ba820e2ce0ad45082f2b91a764106317adb3f",
+          "bytes": 521404,
+          "http_status": 200,
+          "mime_verified": true,
+          "found_on": "https://www.bray.com/valves-actuators-controls/control-accessories/switch-boxes/series-5b-switch-box",
+          "variant_skus": []
+        }
+      ],
+      "images": [
+        {
+          "url": "https://www.bray.com/images/default-source/products/controls/s5b/2025_s5b_92-93_mccannalok-s40_41_8in_homehero_.webp",
+          "image_type": "product_photo",
+          "width": 1809,
+          "height": 1416,
+          "phash": "f0e79e82a7989887",
+          "found_on": "https://www.bray.com/valves-actuators-controls/control-accessories/switch-boxes/series-5b-switch-box"
+        },
+        {
+          "url": "https://www.bray.com/images/default-source/products/controls/s5b/2025_s5b_exp_01-copy.webp",
+          "image_type": "product_photo",
+          "width": 2000,
+          "height": 2000,
+          "phash": "ffa4805e8e70b163",
+          "found_on": "https://www.bray.com/valves-actuators-controls/control-accessories/switch-boxes/series-5b-switch-box"
+        },
+        {
+          "url": "https://www.bray.com/images/default-source/products/controls/s5b/2025_s5b-topstemsea1cut180logo2.webp",
+          "image_type": "product_photo",
+          "width": 2000,
+          "height": 1600,
+          "phash": "f1318e4e3cac66b2",
+          "found_on": "https://www.bray.com/valves-actuators-controls/control-accessories/switch-boxes/series-5b-switch-box"
+        }
+      ]
+    },
+    {
+      "family_id": "series-1b",
+      "name": "Series 1B",
+      "canonical_url": "https://www.bray.com/valves-actuators-controls/ball-valves/trunnion-mounted-valves/trunnion-mounted-ball-valve",
+      "specs": {},
+      "variants": [],
+      "documents": [
+        {
+          "url": "https://www.bray.com/docs/default-source/specifications/datasheets/en_sds_hipps_trilok_trunnion.pdf",
+          "doc_type": "brochure",
+          "priority": "secondary",
+          "lang": "en",
+          "title": "HIPPS-Compliant Fast-Acting Valve Solutions",
+          "revision_date": "2026-05-27",
+          "sha256": "f87cf5c41384a724e5375a80a12662020b893304f900b03c878324eef78e9823",
+          "bytes": 2547394,
+          "http_status": 200,
+          "mime_verified": true,
+          "found_on": "https://www.bray.com/valves-actuators-controls/ball-valves/trunnion-mounted-valves/trunnion-mounted-ball-valve",
+          "variant_skus": []
+        },
+        {
+          "url": "https://www.bray.com/docs/default-source/brochures/product-brochures/en_f-2811_trunnion-mbvalve_web.pdf",
+          "doc_type": "brochure",
+          "priority": "secondary",
+          "lang": "en",
+          "title": "Trunnion Mounted Ball Valve Series 1B",
+          "revision_date": "2026-07-10",
+          "sha256": "fa37b01d95331586a1e8c16d16bc2eb7c024e0adfeccb2e694ec14328aa441aa",
+          "bytes": 2315650,
+          "http_status": 200,
+          "mime_verified": true,
+          "found_on": "https://www.bray.com/valves-actuators-controls/ball-valves/trunnion-mounted-valves/trunnion-mounted-ball-valve",
+          "variant_skus": []
+        },
+        {
+          "url": "https://www.bray.com/docs/default-source/manuals-guides/iom-manuals/en-iom-trunnion.pdf",
+          "doc_type": "iom_manual",
+          "priority": "secondary",
+          "lang": "en",
+          "title": "Trunnion Mounted Ball Valve",
+          "revision_date": "2026-01-28",
+          "sha256": "789eb0783f22263c26cd8a5ea905ebe1c946117e204c38357376d0c482a2828e",
+          "bytes": 487157,
+          "http_status": 200,
+          "mime_verified": true,
+          "found_on": "https://www.bray.com/valves-actuators-controls/ball-valves/trunnion-mounted-valves/trunnion-mounted-ball-valve",
+          "variant_skus": []
+        },
+        {
+          "url": "https://www.bray.com/docs/default-source/manuals-guides/iom-manuals/iom_tmbv_cast-steel.pdf",
+          "doc_type": "iom_manual",
+          "priority": "secondary",
+          "lang": "en",
+          "title": "Trunnion Mounted Ball Valve Cast Steel",
+          "revision_date": "2026-01-28",
+          "sha256": "8b431d25b93eaf2d74b51dd60cee0f5542d08a8ba34c57ff4eaf42a8ef062748",
+          "bytes": 852111,
+          "http_status": 200,
+          "mime_verified": true,
+          "found_on": "https://www.bray.com/valves-actuators-controls/ball-valves/trunnion-mounted-valves/trunnion-mounted-ball-valve",
+          "variant_skus": []
+        },
+        {
+          "url": "https://www.bray.com/docs/default-source/manuals-guides/safety-manuals/en_sm_series-1b-tmbv.pdf",
+          "doc_type": "iom_manual",
+          "priority": "secondary",
+          "lang": "en",
+          "title": "Series 1B Trunnion Mounted Ball Valve",
+          "revision_date": "2023-08-03",
+          "sha256": "701f741482b9a776dcef3e2debb489b3e8bd96278391045d1e1c8f213b81bb91",
+          "bytes": 241180,
+          "http_status": 200,
+          "mime_verified": true,
+          "found_on": "https://www.bray.com/valves-actuators-controls/ball-valves/trunnion-mounted-valves/trunnion-mounted-ball-valve",
+          "variant_skus": []
+        }
+      ],
+      "images": [
+        {
+          "url": "https://www.bray.com/images/default-source/products/flow-tek/trunnion/trunnion_12in_with_s98-2_homehero_2.webp",
+          "image_type": "product_photo",
+          "width": 4278,
+          "height": 1416,
+          "phash": "c9256d6d2d549696",
+          "found_on": "https://www.bray.com/valves-actuators-controls/ball-valves/trunnion-mounted-valves/trunnion-mounted-ball-valve"
+        },
+        {
+          "url": "https://www.bray.com/images/default-source/products/flow-tek/trunnion/trunnion-6in_01-copy.webp",
+          "image_type": "product_photo",
+          "width": 2000,
+          "height": 2000,
+          "phash": "faa1855c9a789c63",
+          "found_on": "https://www.bray.com/valves-actuators-controls/ball-valves/trunnion-mounted-valves/trunnion-mounted-ball-valve"
+        }
+      ]
+    }
+  ],
+  "unlinked": [],
+  "flags": []
+}

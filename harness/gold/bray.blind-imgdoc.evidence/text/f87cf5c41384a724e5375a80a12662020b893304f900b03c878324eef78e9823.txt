@@ -1,0 +1,167 @@
+--- page 1 ---
+1 of 2
+© 2026 BRAY INTERNATIONAL. ALL RIGHTS RESERVED. BRAY.COM
+EN_SDS_HIPPS_TriLok_Trunnion_20260527_
+HIPPS-COMPLIANT FAST-ACTING VALVE SOLUTIONS
+Engineered Protection 
+for High Integrity 
+Pressure Protection 
+Systems
+VALVE OPERATING CHALLENGES
+	
+>
+Fast Valve Closure Times
+	
+–
+Closure performance must meet defined requirements, 
+often in the sub-second to low-second range.
+	
+>
+Functional Safety & SIL Compliance
+	
+–
+Valve, actuator, and accessories must support SIL 2 
+and SIL 3 verification through validated failure data, 
+architectural constraints, and proof test strategies.
+	
+>
+High Differential Pressure & Torque
+	
+–
+Isolation valves must maintain stable, predictable 
+operation under full differential pressure with 
+adequate torque margin.
+	
+>
+Reliability & Spurious Trip Avoidance
+	
+–
+Components must be proven-in-use or certified to 
+minimize nuisance trips while maintaining demand 
+reliability.
+	
+>
+Severe Service Environments
+	
+–
+HIPPS valves are frequently installed in hazardous, 
+outdoor, or corrosive environments requiring robust 
+materials and global certification.
+Continue to next page for Bray solution.
+APPLICATION 
+High Integrity Pressure Protection Systems (HIPPS) 
+are independent protection layers designed to prevent 
+overpressure events in upstream, midstream, and 
+downstream oil & gas facilities. As part of a Safety 
+Instrumented Function (SIF), HIPPS isolation valves must 
+provide rapid, repeatable closure with a high probability 
+of successful demand while conforming to IEC 61508 / IEC 
+61511 functional safety lifecycle requirements.
+Bray’s HIPPS-compliant solutions utilize Tri Lok® triple-offset 
+butterfly valves and Series 1B trunnion-mounted ball valves, 
+engineered with high-speed pneumatic actuation and 
+SIL-capable safety accessories, to support SIL 2 and SIL 3 
+architectures with documented failure data, traceability, and 
+validation support suitable for TÜV-reviewed applications.
+
+--- page 2 ---
+2 of 2
+© 2026 BRAY INTERNATIONAL. ALL RIGHTS RESERVED. BRAY.COM
+EN_SDS_HIPPS_TriLok_Trunnion_20260527_
+HIPPS-COMPLIANT FAST-ACTING VALVE SOLUTIONS
+For more information about solutions for the Oil & Gas industry, 
+contact your local representative or visit Bray.com.
+HIGH-SPEED PNEUMATIC ACTUATION
+	
+>
+Fail-Safe Spring-Return or Double-Acting Designs
+	
+>
+High-Capacity Air Flow & Exhaust
+	
+>
+Oversized Torque Margins
+	
+>
+Severe Service & Low-Temperature Options
+	
+>
+Integrated Dampener for Improved Repeatability
+FUNCTIONAL SAFETY ACCESSORIES
+	
+>
+SIL-Capable Single or Redundant Solenoid Valves
+	
+>
+Quick Exhaust Valves
+	
+>
+Partial Stroke Testing (PST) Devices
+KEY BENEFITS
+	
+>
+Technology Flexibility: Butterfly and trunnion 
+ball valve options to align with SIF and process 
+requirements
+	
+>
+Validated Fast-Acting Performance: Engineered to 
+meet defined HIPPS response times
+	
+>
+SIL-Oriented Design Support: Failure data, 
+documentation, and architectural guidance available
+	
+>
+Reduced Spurious Trips: Proven components and 
+optional redundancy
+	
+>
+Global Bray Support: Engineering, manufacturing, 
+testing, and lifecycle support
+1
+TRI LOK TRIPLE-OFFSET BUTTERFLY VALVE
+	
+>
+Metal-Seated, Zero-Leakage Design: Triple-offset 
+geometry provides repeatable tight shutoff without 
+seat friction or galling during high-speed operation.
+	
+>
+Optimized for Large Line Sizes: Favored for larger 
+diameters where fast stroking and manageable 
+actuator sizing are critical.
+	
+>
+Fire-Safe & Fugitive Emissions Qualified: Supports 
+HIPPS fire-case and environmental requirements, API 
+607, ISO 15848-1 certified.
+	
+>
+Wafer, Lug, and Double-Flanged Configurations:  
+Flexible integration into new and retrofit systems.
+2
+SERIES 1B TRUNNION-MOUNTED BALL VALVE
+	
+>
+API 6D Platform: Proven isolation valve design 
+widely accepted in safety and pipeline services.
+	
+>
+Soft- or Metal-Seated Options: Configurable based 
+on leakage class, media, and HIPPS service severity.
+	
+>
+High Differential Pressure Capability: Trunnion 
+support and seat design ensure stable closure 
+under full ΔP.
+	
+>
+Fire-Safe & Fugitive Emissions Qualified: Suitable 
+for hydrocarbon safety applications. API 6FA, ISO 
+15848-1 certified.
+Closing profiles illustrating adjustable damping impact
+BRAY HIPPS PRODUCT SOLUTIONS
+Working closely with EPCs, end users, and functional safety specialists, Bray delivers engineered HIPPS valve assemblies 
+designed to meet fast-closing, high-integrity safety requirements. Each solution integrates the valve, actuator, and safety 
+accessories into a coordinated package supported by application engineering, documentation, and lifecycle services.
