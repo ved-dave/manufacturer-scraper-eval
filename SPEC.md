@@ -37,6 +37,12 @@ Language is verified from content (page/PDF text), not only the URL.
   number) (decided 2026-10-10). Sizes or options listed without an identifier are NOT variants: they go
   in family-level fields (`sizes_available`, `end_connections`, material lists). A family whose site lists
   no identifiers has an empty `variants` list.
+- **Option codes are not variants (decided 2026-10-11).** Variants are the identifiers that the page heading,
+  a variant selector, or the spec sheet's own selection/dimension/part-number tables assign to this family.
+  Codes named only in notes or option lines (suffixes such as `AT` = American thread or `.PF` = press-fit,
+  "bare shaft available, Fig No ...", "please add suffix ...") are options: list them in
+  `additional_specs.options`, not as variants. Identifiers on a shared sheet that have their own family page on
+  the site belong to that family, not this one.
 - SKU-level sites are grouped into families via series code, breadcrumbs, or a shared spec sheet.
 - Every document, CAD file, image, and price links to a family or variant. Unlinkable items go to
   `unlinked[]` and are reported, never silently dropped.
@@ -106,8 +112,8 @@ them is kept verbatim in `additional_specs` under `end_connections_other` / `app
 | Term | Covers (source wording) |
 |---|---|
 | `NPT` | NPT, FNPT, MNPT, FIP, MIP, NPTF, "taper pipe thread (US)" |
-| `BSPT` | BSPT, BSP, R/Rc, ISO 7-1, BS EN 10226, BS 21 |
-| `threaded` | threaded, with no thread standard stated |
+| `BSPT` | BSPT, BSP (no parallel qualifier), R/Rc, ISO 7-1, BS EN 10226, BS 21 (taper threads) |
+| `threaded` | threaded, with no thread standard stated; also parallel pipe threads (BSP parallel, G, ISO 228, BS 2779), with the verbatim wording in `end_connections_other` (decided 2026-10-11) |
 | `solder` | solder, sweat, C, CxC, "copper tube end" |
 | `press` | press, press-fit, ProPress, MegaPress |
 | `PEX crimp` | ASTM F1807, F2159, crimp ring, clamp ring |
@@ -153,6 +159,17 @@ field from `specs` and keep the wording only in `*_other`; a source whose wordin
 no longer a source for the field, and `cross_check` follows the remaining sources.
 
 **Single size.** A family available in one size records `size_range` with `min` = `max`.
+
+**Standards scope (decided 2026-10-11).** `standards` lists every standard the source says the product conforms to
+or is designed, tested, threaded, drilled or flanged to (e.g. BS EN 593, BS 7350, BS EN 10226-2, ISO 7-1, ISO 228,
+BS EN 1092-2, ANSI B16.1), one entry per standard number as written (year and part suffixes as given). Standards
+named only as "formerly ..." and test standards of other products are not listed. Thread or flange standards are
+recorded here in addition to the `end_connections` term.
+
+**PN and class designations (decided 2026-10-11).** A PN designation (PN16, PN25) is recorded as
+`pressure_rating` value = the PN number, unit `bar`, `raw_text` the designation. When a source gives only a class
+(e.g. ANSI 125) and the same sheet has a pressure/temperature table in bar or psi, the value is the table's maximum
+pressure; the class stays in `raw_text`. Page and sheet are cross-checked on the designation they state.
 
 Every value stores: `value`, `unit` (normalized), `raw_text`, `sources[]` (each: url, type page|pdf, PDF page number, section, verbatim quote, snapshot hash, retrieval time).
 

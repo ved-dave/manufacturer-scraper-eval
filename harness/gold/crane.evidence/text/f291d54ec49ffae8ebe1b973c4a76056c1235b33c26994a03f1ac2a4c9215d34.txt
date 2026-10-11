@@ -1,0 +1,595 @@
+D934-D984P
+Size 1/2 (DN15)
+TECHNICAL HELPLINE: +44 (0)1473 277400 
+E: enquiries@cranefs.com  W: www.cranefs.com
+01
+Fixed orifice devices for standard applications
+CFS_FMG_D934_0215
+Flowrate (l/s)
+0.1
+0.05
+0.04
+0.03
+0.02
+0.01
+0.005
+Signal (mm H20)
+(kPa)
+50
+100
+200
+300
+400
+500
+1000
+0.5
+1
+2
+3
+4
+5
+10
+Kvs = 0.58
+Head / Pressure Loss
+The loss resulting from the insertion of the device in the 
+pipeline may be calculated by multiplying the signal by 
+the appropriate factor.
+Fig No.           	
+Factor
+D934 (fully open)  	
+1.03
+D984P	
+1.00
+Note: Performance line shown dotted is outside Crane 
+recommended range for this product see D933 curve.
+D934
+FLOWRATE
+Q = Kvs  √∆p
+      36
+WHERE
+Q	 =	Flow rate (l/s)
+∆p	=	Signal (kPa)
+Kvs	=	Signal Coefficient
+FLOW MEASUREMENT GRAPHS 
+FODRV SIZES ½” - 2” (DN15-DN50)
+
+
+Flowrate (l/s)
+0.2
+0.1
+0.05
+0.04
+0.03
+0.02
+0.01
+Signal (mm H20)
+(kPa)
+50
+100
+200
+300
+400
+500
+1000
+0.5
+1
+2
+3
+4
+5
+10
+Kvs = 1.1
+TECHNICAL HELPLINE: +44 (0)1473 277400   
+E: enquiries@cranefs.com  W: www.cranefs.com
+02
+CFS_FMG_D933_0215
+D933-D983P
+Size 1/2 (DN15)
+Fixed orifice devices for standard applications
+Head / Pressure Loss
+The loss resulting from the insertion of the device in the 
+pipeline may be calculated by multiplying the signal by 
+the appropriate factor.
+Fig No.           	
+Factor
+D933 (fully open)	
+1.07
+D983P	
+2.72
+Note: Performance line shown dotted is outside Crane 
+recommended range for this product see D931 curve.
+D933
+FLOW MEASUREMENT GRAPHS 
+FODRV SIZES ½” - 2” (DN15-DN50)
+FLOWRATE
+Q = Kvs  √∆p
+      36
+WHERE
+Q	 =	Flow rate (l/s)
+∆p	=	Signal (kPa)
+Kvs	=	Signal Coefficient
+
+
+Signal (mm H20)
+(kPa)
+50
+100
+200
+300
+400
+500
+1000
+2000
+0.5
+1
+2
+3
+4
+5
+10
+20
+Flowrate (l/s)
+0.2
+0.1
+0.05
+0.04
+0.03
+0.02
+0.01
+Kvs = 0.54
+D902
+Size 1/2 (DN15)
+Head / Pressure Loss
+The loss resulting from the insertion 
+of the device in the pipeline may be 
+calculated by multiplying the signal by 
+the appropriate factor.
+Fig No.  	
+Factor
+D902             	
+0.90
+Fixed orifice devices for standard applications
+CFS_FMG_D902_0215
+D902
+TECHNICAL HELPLINE: +44 (0)1473 277400 
+E: enquiries@cranefs.com  W: www.cranefs.com
+05
+FLOWRATE
+Q = Kvs  √∆p
+      36
+WHERE
+Q	 =	Flow rate (l/s)
+∆p	=	Signal (kPa)
+Kvs	=	Signal Coefficient
+FLOW MEASUREMENT GRAPHS 
+FODRV SIZES ½” - 2” (DN15-DN50)
+
+
+D901-D931-D981P
+Size 1/2 (DN15)
+Signal (mm H20)
+(kPa)
+Flowrate (l/s)
+2
+1
+0.5
+0.4
+0.3
+0.2
+0.1
+0.05
+70
+100
+200
+300
+400
+500
+1000
+2000
+3000
+4000
+5000
+6000
+0.7
+1
+2
+3
+4
+5
+10
+20
+30
+40
+50
+60
+Head / Pressure Loss
+The loss resulting from the insertion 
+of the device in the pipeline may be 
+calculated by multiplying the signal by 
+the appropriate factor.
+Fig No.	
+Factor
+D901           	
+0.62
+D931 (Fully open) 	
+1.38
+D981P	
+3.12
+D901
+D931
+Fixed orifice devices for standard applications
+Kvs = 2.2
+CFS_FMG_D901_0215
+TECHNICAL HELPLINE: +44 (0)1473 277400   
+E: enquiries@cranefs.com  W: www.cranefs.com
+04
+FLOWRATE
+Q = Kvs  √∆p
+      36
+WHERE
+Q	 =	Flow rate (l/s)
+∆p	=	Signal (kPa)
+Kvs	=	Signal Coefficient
+FLOW MEASUREMENT GRAPHS 
+FODRV SIZES ½” - 2” (DN15-DN50)
+
+
+D901-D931-DM900-D981P
+Size 3/4 (DN20)
+Fixed orifice devices for standard applications
+Signal (mm H20)
+(kPa)
+70
+100
+200
+300
+400
+500
+1000
+2000
+3000
+4000
+5000
+6000
+0.7
+1
+2
+3
+4
+5
+10
+20
+30
+40
+50
+60
+Flowrate (l/s)
+2
+1
+0.5
+0.4
+0.3
+0.2
+0.1
+0.05
+Head / Pressure Loss
+The loss resulting from the insertion 
+of the device in the pipeline may be 
+calculated by multiplying the signal by 
+the appropriate factor.
+Fig No.	
+Factor
+D901             	
+0.59
+D931 (Fully open) 	
+2.24
+DM900	
+0.61
+D981	
+4.18
+D901
+DM900
+D931
+Kvs = 4.7
+CFS_FMG_D901_0215
+BROCHURE 1
+FLOW MEASUREMENT GRAPHS SIZES ½” - 2” (DN15-DN50) FODRV (RIGHT ALIGNED)
+TECHNICAL HELPLINE: +44 (0)1473 277400 
+E: enquiries@cranefs.com  W: www.cranefs.com
+05
+FLOWRATE
+Q = Kvs  √∆p
+      36
+WHERE
+Q	 =	Flow rate (l/s)
+∆p	=	Signal (kPa)
+Kvs	=	Signal Coefficient
+FLOW MEASUREMENT GRAPHS 
+FODRV SIZES ½” - 2” (DN15-DN50)
+
+
+D901-D931-DM900
+Size 1 (DN25)
+Head / Pressure Loss
+The loss resulting from the insertion of
+the device in the pipeline may be
+calculated by multiplying the signal by
+the appropriate factor.
+Fig No.	
+Factor
+D901	
+0.52
+D931 (Fully open)	
+2.37
+DM900	
+0.55
+Fixed orifice devices for standard applications
+Flowrate (l/s)
+2
+1
+0.5
+0.4
+0.3
+0.2
+0.1
+0.05
+Signal (mm H20)
+(kPa)
+70
+100
+200
+300
+400
+500
+1000
+2000
+3000
+4000
+5000
+6000
+0.7
+1
+2
+3
+4
+5
+10
+20
+30
+40
+50
+60
+D901
+DM900
+D931
+Kvs = 8.6
+CFS_FMG_D901_0215
+TECHNICAL HELPLINE: +44 (0)1473 277400   
+E: enquiries@cranefs.com  W: www.cranefs.com
+06
+FLOWRATE
+Q = Kvs  √∆p
+      36
+WHERE
+Q	 =	Flow rate (l/s)
+∆p	=	Signal (kPa)
+Kvs	=	Signal Coefficient
+FLOW MEASUREMENT GRAPHS 
+FODRV SIZES ½” - 2” (DN15-DN50)
+
+
+D901-D931-DM900
+Size 11/4 (DN32)
+Fixed orifice devices for standard applications
+Head / Pressure Loss
+The loss resulting from the insertion 
+of the device in the pipeline may be 
+calculated by multiplying the signal by 
+the appropriate factor.
+Fig No.            	
+Factor
+D901                 	
+0.50
+D931 (Fully open) 	
+2.37
+DM900	
+0.52
+Signal (mm H20)
+(kPa)
+70
+100
+200
+300
+400
+500
+1000
+2000
+3000
+4000
+5000
+6000
+1
+2
+3
+4
+5
+10
+20
+30
+40
+50
+60
+Flowrate (l/s)
+8
+4
+5
+3
+2
+1
+0.4
+0.5
+0.3
+0.2
+Kvs = 16.6
+D901
+DM900
+D931
+CFS_FMG_D901_0215
+BROCHURE 1
+FLOW MEASUREMENT GRAPHS SIZES ½” - 2” (DN15-DN50) FODRV (RIGHT ALIGNED)
+TECHNICAL HELPLINE: +44 (0)1473 277400 
+E: enquiries@cranefs.com  W: www.cranefs.com
+07
+FLOWRATE
+Q = Kvs  √∆p
+      36
+WHERE
+Q	 =	Flow rate (l/s)
+∆p	=	Signal (kPa)
+Kvs	=	Signal Coefficient
+FLOW MEASUREMENT GRAPHS 
+FODRV SIZES ½” - 2” (DN15-DN50)
+
+
+D901-D931-DM900
+Size 11/2 (DN40)
+Head / Pressure Loss
+The loss resulting from the insertion 
+of the device in the pipeline may be 
+calculated by multiplying the signal by 
+the appropriate factor.
+Fig No.  	
+Factor
+D901             	
+0.46
+D931 (Fully open)	
+1.83
+DM900	
+0.49
+Fixed orifice devices for standard applications
+Signal (mm H20)
+(kPa)
+Flowrate (l/s)
+20
+10
+5
+4
+3
+2
+1
+0.5
+70
+100
+200
+300
+400
+500
+1000
+2000
+3000
+4000
+5000
+6000
+0.7
+1
+2
+3
+4
+5
+10
+20
+30
+40
+50
+60
+Kvs = 24.5
+D901
+DM900
+D931
+CFS_FMG_D901_0215
+TECHNICAL HELPLINE: +44 (0)1473 277400   
+E: enquiries@cranefs.com  W: www.cranefs.com
+08
+FLOWRATE
+Q = Kvs  √∆p
+      36
+WHERE
+Q	 =	Flow rate (l/s)
+∆p	=	Signal (kPa)
+Kvs	=	Signal Coefficient
+FLOW MEASUREMENT GRAPHS 
+FODRV SIZES ½” - 2” (DN15-DN50)
+
+
+D901-D931-DM900-DM950G
+Size 2 (DN50)
+Fixed orifice devices for standard applications
+Head / Pressure Loss
+The loss resulting from the insertion 
+of the device in the pipeline may be 
+calculated by multiplying the signal by 
+the appropriate factor.
+Fig No.         	
+Factor
+D901          	
+0.41
+D931 (Fully open) 	
+2.50
+DM900	
+0.41
+DM950	
+0.57
+Flowrate (l/s)
+20
+10
+5
+4
+3
+2
+1
+0.5
+Signal (mm H20)
+(kPa)
+70
+100
+200
+300
+400
+500
+1000
+2000
+3000
+4000
+5000
+6000
+0.7
+1
+2
+3
+4
+5
+10
+20
+30
+40
+50
+60
+Kvs = 46.1
+D901
+DM900
+D931
+CFS_FMG_D901_0215
+TECHNICAL HELPLINE: +44 (0)1473 277400 
+E: enquiries@cranefs.com  W: www.cranefs.com
+09
+BROCHURE 1
+FLOW MEASUREMENT GRAPHS SIZES ½” - 2” (DN15-DN50) FODRV (RIGHT ALIGNED)
+FLOWRATE
+Q = Kvs  √∆p
+      36
+WHERE
+Q	 =	Flow rate (l/s)
+∆p	=	Signal (kPa)
+Kvs	=	Signal Coefficient
+FLOW MEASUREMENT GRAPHS 
+FODRV SIZES ½” - 2” (DN15-DN50)

@@ -1,0 +1,171 @@
+BALL VALVES
+18
+TECHNICAL HELPLINE: +44 (0)1473 277400 
+E: enquiries@cranefs.com  W: www.cranefs.com
+Every effort has been made to ensure that the information contained in this publication is accurate at the time of publishing. Crane Ltd assumes no responsibility or liability for typographical errors or  
+omissions or for any misinterpretation of the information within the publication and reserves the right to change without notice.
+ BALANCING VALVES
+FIXED ORIFICE DOUBLE REGULATING VALVE
+Dimensions, Coefficients & Weights 
+FIG. NO. 	
+SIZE 	
+ 	
+	
+FLOW 	HEAD LOSS 	 KVS	
+WEIGHT 
+	
+	
+A  	
+B 	
+(Kv)	
+ (K) 	
+	
+(kg) 
+D931 	
+1/2"/DN15 	
+87  	
+105 	
+1.87 	
+30.27 	
+2.2 	
+0.61 
+ 	
+3/4"/DN20	
+96  	
+106 	
+3.14 	
+34.55 	
+4.7 	
+0.65 
+ 	
+1"/DN25 	
+100  	
+127 	
+5.59 	
+27.85 	
+8.6 	
+0.95 
+ 	
+11/4"/DN32 	
+114  	
+128 	
+10.80 	
+22.60 	
+16.6 	
+1.13 
+ 	
+11/2"/DN40 	
+125  	
+143 	
+18.10 	
+14.76 	
+24.5 	
+1.52 
+ 	
+2"/DN50 	
+146  	
+144 	
+29.10 	
+14.62 	
+46.1 	
+1.98 
+D933 	
+1/2"/DN15 	
+87  	
+105 	
+1.06 	
+94.20 	
+1.1 	
+0.61 
+D934 	
+1/2"/DN15 	
+87  	
+105 	
+0.57 	
+325.80 	
+0.58 	
+0.61
+FULLY OPEN
+DIMENSIONS (mm)
+Materials 
+PART 	
+MATERIAL 	
+SPECIFICATION 
+Body	
+Bronze	
+BS EN 1982 CC491K 
+Bonnet 	
+DZR Copper Alloy 	
+BS EN 12165 CW602N
+Stem 	
+DZR Copper Alloy 	
+BS EN 12164 CW602N
+Disc 	
+DZR Copper Alloy 	
+BS EN 12164/5 CW602N
+O-Ring Seal 	
+EPDM Rubber 
+Orifice Insert 	
+DZR Copper Alloy 	
+BS EN 12164 CW602N 
+P84 Test Valve 	
+DZR Copper Alloy 	
+BS EN 12164 CW602N 
+Handwheel 	
+Plastic
+Fixed Orifice Double Regulating Valve 
+(FODRV) 
+Features & Benefits
+•	 D933 size 1/2" low flow FODRV combines the functions of regulation  
+and flow measurement in a unit of high authority making it particularly 
+suitable for low flow applications in the range of 0.03 to 0.07 I/s
+•	 D934 size 1/2" ultra-low flow FODRV combines the functions of regulation 
+and flow measurement in a unit of high authority making it particularly 
+suitable for ultra-low flow applications in the range of 0.016 to 0.04 I/s.
+•	 The Double regulating valve, with its integral fixed orifice design offers  
+an accuracy of ± 5% on all settings, for precise flow regulation and 
+measurement
+•	 The Double Regulating feature allows the valve to be used for isolation and 
+to be reopened to its pre-set position to maintain required flow rate
+•	 Y-Pattern globe valves having characterised throttling disc tending towards 
+equal percentage performance
+•	 Integral square edged entrance orifice plate and P84 insertion test points fitted 
+Double regulating feature allows valve opening to be set with an Allen key
+•	 Operation of the valve is by means of the Microset handwheel
+D931 / D933 / D934 
+D931
+Pressure/Temperature Ratings
+Dimensional Drawing
+SPECIFICATION: Conforms to BS 7350*:1990 
+END CONNECTIONS: Sizes 1" to 2" taper threaded to BS EN 10226-2 (ISO 7-1) formerly BS 21. 
+Sizes 1/2" & 3/4" DN15 & DN20 BS 2779 (ISO 228) parallel.  
+Also available threaded to ANSI B1.20.1AT. 
+Order code D931AT/D933AT/D934AT. 
+TEMPERATURE (°C) 	
+-10 to 100 	
+110 	
+120 
+PRESSURE (BAR) 	
+25 	
+23.4 	
+21.8 
+Threaded
+TEMPERATURE (°C) 	
+-10 to 30 	
+65 	
+120 
+PRESSURE (BAR) 	
+16 	
+10 	
+5 
+Compression
+Intermediate pressure ratings shall be determined by 
+interpolation.
+Maximum temperature 120°C.
+Note: In line with BS EN 1254/2, the maximum pressure must 
+not exceed 16 bar when using compression adaptors.
+B
+A
+Vaild as of 260822
+WRAS approved -10 to 85˚C. 
+PN25

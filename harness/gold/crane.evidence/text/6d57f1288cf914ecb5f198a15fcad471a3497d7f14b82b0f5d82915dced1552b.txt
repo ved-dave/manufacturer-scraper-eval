@@ -1,0 +1,146 @@
+CFS_BV_0712
+IOM_OA_O3775B_REV 2
+INSTALLATION, OPERATING
+AND MAINTENANCE INSTRUCTIONS
+www.cranefs.com
+• Designed and manufactured under quality management 
+systems in accordance with BS EN ISO 9001-2008
+Every effort has been made to ensure that the information contained in
+this publication is accurate at the time of publishing. Crane Ltd assumes
+no responsibility or liability for typographical errors or omissions or for
+any misinterpretation of the information within the publication and
+reserves the right to change without notice.
+www.cranebsu.com
+CRANE HOUSE, EPSILON TERRACE
+WEST ROAD, IPSWICH 
+SUFFOLK IP3 9FJ
+TELEPHONE: +44 (0)1473 277300
+FAX: +44 (0)1473 277301
+EMAIL: enquiries@cranefs.com
+BALANCING VALVES
+D921/D921.PF/D923/D923.PF - D931/D931.PF/D933/D933.PF/D934/D934.PF 
+- DPF931/DPF933/DPF934
+• These are Y-pattern globe valves having characterised
+throttling disk tending towards equal percentage performance.
+• The double regulating feature allows valve opening to be set
+with a 3mm Allen key.
+• Operation of the valve is by means of the hand wheel with
+position indicator or with recordable set position
+• The D921/D923 DRV and D931/D933/D934 FODRV are
+WRAS approved
+• The DPF931/DPF933/DPF934 FODRV are designed as
+‘companion valves’ for the differential pressure control valve.
+INSTALLATION
+D921/D923
+The valve should be installed in a run of pipe of the same
+nominal size, and where possible with flow in the preferred
+direction.
+D931/D933/D934
+The valve must be installed in a run of pipe of the same
+nominal size. D931/D933/D934 must be fitted as shown.
+The minimum requirements of the ‘Installation Layout’ must
+also be observed.
+Installation layout (D931/D933/D934 only)
+Note: To ensure flow measurement accuracy it is essential that the piping on the inlet and outlet
+sides is straight and has a minimum length equivalent to
+5 diameters at inlet and 2 diameters at outlet as shown:-
+If the D931, D933 or D934 is located on the outlet from a
+pump then it is essential that the straight pipe length
+between pump outlet and valve inlet is a minimum of 10
+diameters.
+FLOW
+FLOW
+FLOW
+5D
+2D
+D931 FODRV
+FM311 ISO 9001
+
+
+02
+CRANE FLUID SYSTEMS BALANCING VALVES
+03
+CRANE FLUID SYSTEMS BALANCING VALVES
+Pressure temperature rating
+Threaded
+Compression
+Intermediate pressure ratings shall be determined by interpolation.
+Press-Fit
+End connections
+BS 21 (ISO 7) parallel
+Suitable for connection to threaded steel pipe, or copper tube conforming to BS EN 1057 (half hard).
+Note: In line with BS EN 1254/2 the maximum pressure must not exceed 16 Bar when using
+compression adaptors.
+Compression joints must be tightened hand tight and then further tightened as per the following
+recommendation:
+Pressure test valves
+(D931/D931.PF/D933/D933.PF/D934/D934.PF)
+Crane P84 insertion test points.
+Flow direction
+An arrow is cast on the side of the valve body to indicate direction of flow.
+JOINTING
+No thread jointing materials must be allowed to protrude inside the bore. For compression
+connections to copper tube the tightening torque on the compression nut should not be so great as
+to cause crushing of the tube wall.
+For Press-Fit, please refer to the Geberit website (www.geberit.co.uk) where installation instructions
+for Press-Fit can be found.
+TUBE CUTTING
+On steel tube after cutting and threading, the end must be deburred or reamed before fitting to the
+flow measurement device. 
+On copper tube, especially when cutting is carried out by roller cutters, the end must be deburred
+and reamed to tube bore dimension before fitting to the flow measurement device.
+Failure to carry out this procedure may lead to errors in flow measurement.
+VALVE SETTING INDICATOR
+D921/D921.PF/D923/D923.PF and
+D931/D931.PF/D933/D933.PF/D934/D934.PF valves operate from closed 
+to fully open with 4 complete turns of the handwheel.
+The ‘Microset’ handwheel indicates the valve setting by means of digits appearing
+in outer (black) and inner (red) windows. The digit in the outer window
+indicates tenths of a turn. The example shows a valve setting of 3.15 turns.
+REGULATION (D921/D921.PF/D923/D923.PF)
+Flow regulation is achieved by adjusting the valve setting until the required flowrate is obtained. The
+‘Microset’ handwheel will indicate the final valve setting.
+REGULATION & FLOW MEASUREMENT
+(D931/D931.PF/D933/D933.PF/D934/D934.PF)
+Flow regulation is achieved by adjusting the valve setting until the required flowrate, as derived from
+the ‘signal’ measured across the pressure test valves, is obtained. The ‘Microset’ handwheel will
+indicate the final valve setting. (Flow charts are available on request for all valve sizes.)
+SETTING FACILITY
+The valve setting at which the required flowrate is achieved may be retained as follows:
+1.Remove cap in centre of handwheel.
+2.Using Allen key provided tighten the centre screw until it stops. Do not over-wrench.
+3.Replace centre cap in handwheel.
+The valve is now set and may be closed and re-opened to the set point.
+SERVICE APPLICATIONS
+For use on non hazardous liquids only - Group 2 - as defined by the Pressure Equipment Directive
+97/23/EC
+INSTALLATION, OPERATING
+AND MAINTENANCE INSTRUCTIONS
+15mm
+22mm
+28mm
+35mm
+42mm
+54mm
+1 turn
+1 turn
+1 turn
+3⁄4 turn
+3⁄4 turn
+3⁄4 turn
+TEMPERATURE ˚C -10 to 100
+110
+120
+PRESSURE (BAR)
+25
+23.4
+21.8
+TEMPERATURE ˚C -10 to 100
+120
+PRESSURE (BAR)
+16
+13.5
+TEMPERATURE ˚C
+-10 to 100
+PRESSURE (BAR)
+16

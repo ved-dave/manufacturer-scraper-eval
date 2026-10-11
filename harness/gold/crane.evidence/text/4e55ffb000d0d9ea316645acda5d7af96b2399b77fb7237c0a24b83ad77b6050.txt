@@ -1,0 +1,466 @@
+BALL VALVES
+44
+TECHNICAL HELPLINE: +44 (0)1473 277400 
+E: enquiries@cranefs.com  W: www.cranefs.com
+GENERAL VALVES
+Every effort has been made to ensure that the information contained in this publication is accurate at the time of publishing. Crane Ltd assumes no responsibility or liability for typographical errors or  
+omissions or for any misinterpretation of the information within the publication and reserves the right to change without notice.
+B
+A
+H
+a°
+N-M
+8
+4
+3
+1
+6
+5
+9
+2
+7
+ØD
+C
+L
+11
+10
+12
+04
+PN25
+DI
+DNXX
+XXXX
+L1
+B
+A
+L
+ØDD
+L2
+a°
+N-M
+8
+4
+3
+1
+6
+5
+9
+2
+7
+10
+12
+ØD
+C
+04
+XXXX
+DI
+PN25
+DNXX
+FM639
+FM639
+Fully Lugged Butterfly Valve
+Features & Benefits
+•	WRAS Approved for potable water 
+applications -10°C to 80°C for sizes 
+DN50 - 400
+•	Robust, ductile Iron valve bodies
+	 for long service life
+•	Stainless steel disc for improved
+	 strength and a wide range of
+	 applications
+•	Suitable for wide temperature
+	 range -10°C to 120°C
+•	Extended size range for application
+	 requirements
+•	Fully lugged for secure installation
+•	Rated PN25 for higher pressure
+	 applications
+•	Lever (FM638) and Gearbox
+	 (FM639) options available
+•	Dead End Service: Suitable for  
+Bi-directional end-of-line service 
+at 25 Bar without the need of 
+downstream backing flanges.
+FM638 & FM639
+Materials
+NO. PART
+MATERIAL
+SPECIFICATION
+SIZE
+1
+Body
+DI (EN-GJS-400-15) ASTM A536 65-45-12 DN50 - DN300
+1
+Body
+Ductile Iron
+EN-GJS-450-10
+DN350 - DN600
+2
+Disc
+Stainless Steel 304
+ASTM A351 CF8
+3
+Shaft
+Stainless Steel 431
+ASTM A564 630
+DN50 - DN300
+3
+Shaft
+Stainless Steel 630
+ASTM A276 431
+DN350 - DN600
+4
+Short Bushing
+Aluminum Bronze 
+ASTM B148-952A
+5
+Seat
+EPDM
+-
+6
+Long Bushing
+Aluminum Bronze
+ASTM B148-952A
+7
+Long Bushing
+Aluminum Bronze
+ASTM B148-952A
+8
+‘O’ Ring
+NBR
+-
+9
+Pin
+Stainless Steel 431
+ASTM A276 431
+DN50 - DN300
+9
+Pin
+Stainless Steel 630
+ASTM A564 630
+DN350 - DN600
+10
+Top Cap (FM638)
+Carbon Steel
+ASTM A194 Gr. 2H
+10
+Hand Wheel (FM639)
+-
+-
+11
+Bolt
+Carbon Steel
+ASTM A194 Gr. 2H
+12
+Lever (FM638)
+Malleable Iron
+ASTM Gr. 32510
+12
+Gear Box (FM639)
+Cast Iron
+EN-GJL-250
+DN50 - DN300
+12
+Gear Box (FM639)
+Cast Iron
+EN-GJS-450-10
+DN350 - DN600
+FM638 Lever Butterfly Valve
+SIZE 
+(DN)
+WEIGHT 
+(KG)
+A 
+(mm)
+B 
+(mm)
+C 
+(mm)
+ØD 
+(mm)
+N-M 
+(mm)
+H 
+(mm)
+L 
+(mm)
+a°
+Kv*
+50
+6.5
+138
+65
+43
+125
+4-M16
+32
+216
+45°
+91
+65
+7
+153
+83
+46
+145
+8-M16
+32
+216
+22.5°
+141
+80
+7
+155
+88
+46
+160
+8-M16
+32
+216
+22.5°
+247
+100
+10
+178
+105.5
+52
+190
+8-M20
+32
+265
+22.5°
+586
+125
+13
+193
+123
+56
+220
+8-M24
+32
+265
+22.5°
+861
+150
+15
+210
+135
+56
+250
+8-M24
+32
+265
+22.5°
+1839
+FM639 Geared Butterfly Valve  
+SIZE 
+(DN)
+WEIGHT 
+(KG)
+A 
+(mm)
+B 
+(mm)
+C 
+(mm)
+ØD 
+(mm)
+N-M 
+(mm)
+ØDD
+(mm)
+L1
+L2
+a°
+Kv*
+50
+10
+138
+65
+43
+125
+4-M16
+150
+173.5
+249
+45°
+91
+65
+10.34
+153
+83
+46
+145
+8-M16
+150
+173.5
+264
+22.5°
+141
+80
+10.18
+155
+88
+46
+160
+8-M16
+150
+173.5
+266
+22.5°
+247
+100
+13.6
+178
+105.5
+52
+190
+8-M20
+150
+173.5
+289
+22.5°
+586
+125
+17
+193
+123
+56
+220
+8-M24
+150
+173.5
+304
+22.5°
+861
+150
+18.2
+210
+135
+56
+250
+8-M24
+150
+173.5
+321
+22.5°
+1839
+200
+35.6
+240
+172
+60
+310
+12-M24
+300
+237
+436
+15°
+2688
+250
+45
+285.4
+202
+68
+370
+12-M27
+300
+237
+481.5
+15°
+4576
+300
+80
+315
+234.5
+78
+430
+16-M27
+300
+229.5
+524
+11.25°
+7070
+350
+108
+350
+300
+78
+490
+16-M30
+300
+254
+610
+11.25°
+9404
+400
+151
+385
+330
+102
+550
+16-M33
+300
+254
+645
+11.25° 11840
+**450
+212
+410
+360
+114
+600
+16-M33
+400
+301
+738
+9°
+15217
+**500
+277
+435
+400
+127
+660
+16-M33
+400
+355
+792
+9°
+18928
+**600
+397
+505
+455
+154
+770
+16-M26
+400
+355
+862
+9°
+27545
+PRESSURE/TEMPERATURE RATING: 25 Bar From -10˚C to 120˚C  WRAS approved -10 to 80°C
+MEDIUM: Group 2 Liquids only as defined by the Pressure Equipment Directive 2014/68/EU* 
+FLANGES: Fully Lugged to BS EN1092-2
+FACE TO FACE: BS EN 558
+DESIGN STANDARD: BS EN 593: 2009
+TEST AND INSPECTION STANDARD: BS EN 12266-1
+MOUNTING FLANGE: ISO 5211-2001
+PN25
+Vaild as of 09/07/26
+*Kv data denotes valves at fully open position ** WRAS Approved sizes DN50 - 400
+Dimensional Drawing
+FM638 Lever Butterfly Valve
+FM639 Gearbox Butterfly Valve
+Dimensions & Weights 
+SPECIFICATION:  
+Butterfly Valve, as per BS EN 593 / ASTM 609A, Fully Lugged 
+as per BS EN 558, Concentric design, EPDM liner, Fusion 
+Bonded Epoxy paint, Gear operated. Ductile Iron Body, SS 
+disc and shaft, PN25 rated, suitable to mount between EN 
+1092-2 PN16 flanges. WRAS Approved for potable water 
+applications for sizes DN50 - DN400.  Dead End Service: 
+Suitable for Bi-directional end-of-line service at 25 Bar 
+without the need of downstream backing flanges.
+BUTTERFLY VALVES

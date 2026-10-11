@@ -1,0 +1,181 @@
+PART 
+NO
+KVS 
+DIRECT 
+WAY 
+(m3/h)
+KVS 
+ANGLE  
+WAY 
+(m3/h)
+CLOSE 
+OFF 
+(kPa)
+L
+d
+a
+c
+e
+Weight
+(kg)
+0JG93620L
+6.3
+5.5
+900
+85
+3/4"
+54
+67.5
+58
+1.1
+0JG93621M
+10
+9
+550
+95
+1"
+62
+72.5
+63
+1.5
+0JG93622N
+14
+11
+350
+108
+1 1/4"
+70
+78.5
+67
+2
+0JG93623P
+18
+12
+250
+120
+1 1/2"
+81
+85.5
+75
+2.7
+0JG93624Q
+25
+17
+190
+142
+2"
+97
+97
+78
+4
+Materials
+DESCRIPTION
+MATERIAL
+Body
+Cast Iron
+Plug
+Brass
+Stem
+CrNi steel
+O-rings
+EPDM
+BALL VALVES
+TECHNICAL HELPLINE: +44 (0)1473 277400 
+E: enquiries@cranefs.com  W: www.cranefs.com
+Every effort has been made to ensure that the information contained in this publication is accurate at the time of publishing. Crane Ltd assumes no responsibility or liability for typographical errors or 
+omissions or for any misinterpretation of the information within the publication and reserves the right to change without notice.
+Features & Benefits 
+•	 Offers zone, terminal bypass and end of line applications
+•	 Simple integration into the BMS using the Crane FS Modulating (ACT993M), 
+3 Point (ACT993TP) and Failsafe (ACT993FS) actuators
+•	 Easy mounting to pipework or terminal units in confined spaces due to the compact 
+and lightweight design
+•	 Isolation function with Class IV leakage up to 225kPa
+•	 PN16 rated product, suitable for building services applications and services with up 
+to 30% Glycol
+ZONE VALVES
+Dimensions
+D102B
+Pressure/Temperature Ratings
+TEMPERATURE (°C) 	
+PRESSURE (BAR) 	
+5°C to 95°C
+16 Bar
+Vaild as of 240124
+D102B & D103B
+DN20/DN50
+PN16
+2 & 3 Port Valve
+PRESSURE RATING: PN16  
+MEDIUM: Group 2 Liquids
+END CONNECTIONS: BSP Female Parallel ISO-228
+SPECIFICATION: The control valve shall consist of a two / three port 
+characterised control valve. Shall provide Class IV leakage during isolation function.
+Valve position to be controlled through a compatible actuator of the same 
+manufacturer as the control valve typically by a M30x1.5 threaded connection. 
+Shall be manufactured from Cast Iron, with Brass plug and NiCR stem. Shall be 
+rated to PN16 and operate at temperatures to 95°C. As per Crane FS D102B / 
+D103B.
+Dimensional Drawings
+D102B 3/4 - 2”
+PART 
+NO
+KVS 
+(m3/h)
+CLOSE OFF 
+(kPa)
+L
+d
+a
+b
+e
+Weight
+(kg)
+0JG93607P
+6.3
+900
+85
+3/4"
+54
+79
+58
+1.1
+0JG93608Q
+10
+550
+95
+1"
+62
+83
+63
+1.5
+0JG93609R
+14
+350
+108
+1 1/4"
+70
+90
+67
+2
+0JG93610J
+18
+250
+120
+1 1/2"
+81
+98
+75
+2.7
+0JG93611K
+25
+190
+142
+2"
+97
+111
+78
+4
+D103B 3/4 - 2”
+D102B 
+3/4 - 2”
