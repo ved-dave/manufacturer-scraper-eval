@@ -208,6 +208,17 @@ def _summary_of(fam):
     return 'both' if kinds >= {'pdf', 'page'} else 'pdf' if 'pdf' in kinds else 'page' if 'page' in kinds else 'none'
 
 
+def _check_price(p, w, ctx, rep, is_gold, ev):
+    _check_one_source(p.get('source') or {}, w, ctx, rep, is_gold, ev,
+                      require_quote=p.get('availability') == 'price_shown')
+    if p.get('availability') == 'price_shown' and p.get('amount') is None:
+        rep.add('ERROR', w, 'availability=price_shown but amount is null')
+    if p.get('availability') != 'price_shown' and p.get('amount') is not None:
+        rep.add('ERROR', w, f'amount set but availability={p.get("availability")}')
+    if p.get('amount') is not None and not p.get('currency'):
+        rep.add('ERROR', w, 'amount without currency')
+
+
 def check_family(fam, allowed, viewer_hosts, rep, is_gold, ev):
     ctx = FamilyContext(fam)
     fid = ctx.fid
@@ -268,15 +279,11 @@ def check_family(fam, allowed, viewer_hosts, rep, is_gold, ev):
         for k, v in (var.get('spec_overrides') or {}).items():
             _check_spec(v, f'{fid}:variants[{vi}].spec_overrides.{k}', ctx, rep, is_gold, ev)
         for pi, p in enumerate(var.get('prices', [])):
-            w = f'{fid}:variants[{vi}].prices[{pi}]'
-            _check_one_source(p.get('source') or {}, w, ctx, rep, is_gold, ev,
-                              require_quote=p.get('availability') == 'price_shown')
-            if p.get('availability') == 'price_shown' and p.get('amount') is None:
-                rep.add('ERROR', w, 'availability=price_shown but amount is null')
-            if p.get('availability') != 'price_shown' and p.get('amount') is not None:
-                rep.add('ERROR', w, f'amount set but availability={p.get("availability")}')
-            if p.get('amount') is not None and not p.get('currency'):
-                rep.add('ERROR', w, 'amount without currency')
+            _check_price(p, f'{fid}:variants[{vi}].prices[{pi}]', ctx, rep, is_gold, ev)
+    if fam.get('family_prices') and fam.get('variants'):
+        rep.add('ERROR', f'{fid}:family_prices', 'family_prices is only for families without variants; put prices on the variants')
+    for pi, p in enumerate(fam.get('family_prices') or []):
+        _check_price(p, f'{fid}:family_prices[{pi}]', ctx, rep, is_gold, ev)
 
     # Families with no listed identifiers legitimately have no variants (SPEC 3), so no warning.
 

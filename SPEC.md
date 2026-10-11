@@ -182,6 +182,11 @@ Every cited source (page or PDF) has a snapshot. Its extracted text is saved as 
 | `notes` | e.g. "subject to distributor multiplier" |
 | source | URL (+ page number if PDF) |
 
+**Families without variants (decided 2026-10-11).** A family that lists no identifiers (SPEC 3) has no variants to
+hold a price, so its price status goes in the family field `family_prices` (same `price` object, `availability`
+always filled, e.g. `request_quote` for a "Request a Quote" page). `family_prices` is used **only** when `variants`
+is empty; families with variants keep prices on the variants. Its `availability` is scored with the variant prices.
+
 ## 8. Output schema
 ```
 ProductFamily
