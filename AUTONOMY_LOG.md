@@ -409,3 +409,10 @@ first-pass session compares (before/after agreement) and fixes; < 80% before-fix
 ## 2026-10-11 05:38 · Phase 2 · Round 9 Bray result
 - Bray r9 (temperature rows with the unit in the label): identical key metrics to r8, as the offline check predicted.
   0 errors / 23 warnings, 0 crashes. Crane r8 running, r9/r10 queued.
+
+## 2026-10-11 05:49 · Phase 2 · Round 8 decision: KEPT
+| metric | bray r7 | bray r8 | crane r7 | crane r8 | macro r7 | macro r8 |
+|---|---|---|---|---|---|---|
+| variant recall | 100 | 100 | 22.2 | 74.1 | 61.1 | 87.1 |
+| price availability | 95.8 | 95.8 | 43.2 | 81.1 | 69.5 | 88.5 |
+- All other key metrics identical; validation 0 errors (23 / 220 warnings); 0 crashes.
