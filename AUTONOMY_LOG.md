@@ -358,3 +358,11 @@ first-pass session compares (before/after agreement) and fixes; < 80% before-fix
 - Merged round/5 (contains round 4) into auto/integration.
 - Bray r7 (sizes from SIZE columns): identical key metrics to r6 (no Bray sheet has a size-column dimension table
   that wasn't already covered). Validation 0 errors / 23 warnings, 0 crashes. Crane r6/r7 pending.
+
+## 2026-10-11 05:10 · Problem: uncommitted r6/r7 edits dropped from the main working tree during a merge
+- After `git stash; git merge round/5; git stash pop` (pop conflicted on tests) and resolving, the main tree lacked
+  the r6/r7 hunks (specs.py temperature/size-table code, its tests and the pipeline call). The dropped stash
+  (6e72bcb) was identical to round/7, so nothing was lost; restored with `git checkout round/7 -- scraper` and
+  verified `git diff round/7 -- scraper` is empty and tests pass. No run used the damaged tree (bray r7 had
+  finished before the merge). Procedure changed: candidates live only on round/N branches/worktrees; after each merge
+  the main tree is re-synced from the newest round branch and diffed against it.
