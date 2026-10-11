@@ -63,7 +63,9 @@ def validate_l1_lines(lines):
         else:
             links.append((n, rec))
     for n, rec in links:
-        if rec['found_on'] not in pages:
+        if rec['found_on'] is None:
+            warnings.append(f'line {n}: link with no found_on (inventory-only entry): {rec["url"]}')
+        elif rec['found_on'] not in pages:
             errors.append(f'line {n}: found_on has no page record in this file: {rec["found_on"]}')
     return errors, warnings, {'pages': len(pages), 'links': len(links)}
 

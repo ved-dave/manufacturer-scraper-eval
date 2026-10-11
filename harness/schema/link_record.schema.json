@@ -188,7 +188,8 @@
           ]
         },
         "found_on": {
-          "$ref": "#/$defs/url"
+          "$ref": "#/$defs/nullable_url",
+          "description": "page the link was found on; null only for an inventory entry with no known source page (e.g. sitemap-only asset)"
         },
         "link_text": {
           "$ref": "#/$defs/nullable_string"

@@ -365,7 +365,14 @@ class ProcessRun(SiteRun):
                 docs.append(d)
         return docs, cads
 
+    def l1_dead(self, url):
+        l = getattr(self, 'l1_assets', {}).get(url)
+        return l.status if l and l.status >= 400 else None
+
     def process_doc(self, url, text, found_on):
+        if self.l1_dead(url):
+            self.decide('asset', 'drop', f'dead link (L1 status {self.l1_dead(url)}); not downloaded', url=url)
+            return None
         r = self.fetcher.get(url, kind='pdf', purpose='pdf')
         c = (self.ctx.get(found_on) or {}).get(url) or {}
         if self.fetcher.response_blocked(r):
@@ -410,6 +417,8 @@ class ProcessRun(SiteRun):
 
     def measure_image(self, tries):
         for u in tries[:4]:
+            if self.l1_dead(u):
+                continue
             resp = self.fetcher.get(u, kind='image', purpose='image')
             if self.fetcher.response_blocked(resp):
                 self.decide('asset', 'drop', f'image download blocked ({resp.status or resp.error})', url=u, blocked=True)
@@ -590,6 +599,7 @@ class ProcessRun(SiteRun):
         t0, started = time.monotonic(), now_iso()
         ls = self.links
         self.l1_links = ls.links_on()
+        self.l1_assets = {l.url: l for l in ls.links if l.url_type != 'page' and l.status is not None}
         self._img_seen = collections.Counter()
         for row, why in ls.skipped:
             self.decide('input', 'drop', why, row=row)
