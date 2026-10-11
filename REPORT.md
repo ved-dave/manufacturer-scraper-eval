@@ -230,3 +230,27 @@ the scraper missed, its own crawl had already seen. (Sioux Chief not included in
 The owner has also started discussing a link table in Postgres, where the old agent writes links and a worker service
 categorises, extracts and health-checks them. Items 1-3 and 6 map onto that design. It is not decided and not built
 in this run.
+
+## 10. Change made after the final test (owner request)
+The owner asked for the repeated-PDF-parsing fix (§4 bug 5, §9 item 3) to be added to this PR. It was made **after**
+the final test, so every held-out score above belongs to tag `pre-final-test`, not to this commit.
+
+- `scraper/mfr_scraper/pdfcache.py`: `ParsedPdfCache.get(sha256, body)` wraps `assets.pdf_text`. Each PDF is parsed
+  once, keyed by content hash. Only the extracted result is cached (text, page texts, title, revision date, table
+  rows), never the PDF body or pdfplumber objects. Results live on disk in `scraper/cache/parsed-pdf/v<PARSER_VERSION>-p<pages>/`
+  (gitignored), so re-runs skip parsing. A byte-capped in-memory LRU serves repeats within a run
+  (`PDF_PARSE_MEM_BYTES`, 64 MB). Unreadable entries are parsed again, and failed writes are ignored.
+- The run now prints the cache stats and peak memory at the end.
+- Tests: `TestParsedPdfCache` covers parse-once and reuse across runs, the memory cap with eviction, and corrupt
+  entries.
+- End-to-end check: full Bray run with the fetch cache warm, before vs after.
+
+| Bray run | Wall time | Peak RSS | PDFs parsed | Output |
+|---|---|---|---|---|
+| Before (tag code) | 13 min 08 s | 1,087 MB | 566 parses | — |
+| After, cold parse cache | 7 min 10 s | 1,106 MB | 317 parsed, 249 repeats served from memory | identical |
+| After, warm parse cache | 1 min 40 s | 285 MB | 0 parsed (317 from disk, 249 from memory) | identical |
+
+"Identical" means `bray.json` is byte-identical once timestamps are masked, and all 439 evidence text files have the
+same hashes. The parsed cache for Bray takes 18 MB on disk. Peak memory comes from pdfplumber while it parses, not
+from the cache: with nothing left to parse, the warm run peaks at 285 MB.

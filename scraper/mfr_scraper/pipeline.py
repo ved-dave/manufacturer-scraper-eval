@@ -16,6 +16,7 @@ from . import hosts as H
 from . import specs as S
 from . import variants as V
 from .fetch import Fetcher
+from .pdfcache import ParsedPdfCache
 from .settings import (AGENT_NAME, AGENT_VERSION, CHROME_MIN_PAGES, CHROME_SHARE, MAX_IMAGES_PER_FAMILY,
                        MAX_PDFS_PER_FAMILY, N, PHASH_SAME_IMAGE, RUNS_DIR, site_config)
 
@@ -382,6 +383,7 @@ class SiteRun:
         self.fetcher = Fetcher(site, refresh=refresh, log=log)
         self.out_dir = Path(out_dir or RUNS_DIR)
         self.evidence = Evidence(self.out_dir / f'{site}.evidence')
+        self.pdf_cache = ParsedPdfCache()
         self.flags = collections.Counter()
         self.flag_examples = {}
 
@@ -531,7 +533,7 @@ class SiteRun:
                 d['doc_type'] = A.classify_doc(url, link_text)
                 d['lang'], _ = A.detect_lang('', url)
             else:
-                text, pages, title, rev, table_rows = A.pdf_text(r.body)
+                text, pages, title, rev, table_rows = self.pdf_cache.get(r.sha256, r.body)
                 d.update(sha256=r.sha256, mime_verified=True, title=title or link_text or None, revision_date=rev)
                 d['lang'], assumed = A.detect_lang(text, url)
                 if assumed:

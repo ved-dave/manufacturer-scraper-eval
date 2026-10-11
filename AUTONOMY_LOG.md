@@ -481,3 +481,11 @@ first-pass session compares (before/after agreement) and fixes; < 80% before-fix
 - REPORT.md completed (plain-language summary first). Tests: scraper 46 OK (1 skipped: reportlab not installed),
   harness 21 OK, 0 tracked symlinks. Run outputs and reports stay gitignored; numbers are in the report.
 - One PR auto/integration → main, not merged.
+
+## 2026-10-11 · Post-final-test · Parsed-PDF cache (owner request, in PR #4)
+- What: the owner asked to add the repeated-PDF-parsing fix to PR #4. Added `ParsedPdfCache`: each PDF is parsed once
+  per content hash; results are stored on disk, with a 64 MB in-memory LRU. Added 3 unit tests.
+- Why: py-spy showed ~28% of the Sioux Chief run was PDF parsing, much of it the same shared PDFs again.
+- Bray end-to-end, fetch cache warm: 13:08 → 7:10 wall time (cold parse cache). Output identical with timestamps
+  masked. Peak RSS 1,087 → 1,106 MB. Warm parse cache: 1:40 and 285 MB, also identical. Held-out scores stay tied to `pre-final-test`; no held-out site was re-run.
+- Kept.

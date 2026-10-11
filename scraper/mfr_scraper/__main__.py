@@ -16,6 +16,11 @@ from .pipeline import SiteRun, write_outputs
 from .settings import HOLDOUT_SPLITS, RUNS_DIR, site_config
 
 
+def peak_rss_mb():
+    import resource
+    return resource.getrusage(resource.RUSAGE_SELF).ru_maxrss / 1024   # Linux reports KiB
+
+
 def main(argv=None):
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument('command', choices=['run', 'discover'])
@@ -51,6 +56,8 @@ def main(argv=None):
     print(json.dumps(run['coverage'], indent=2))
     for f in run['flags']:
         print('  flag:', f)
+    print('parsed-pdf cache:', json.dumps(runner.pdf_cache.stats))
+    print(f'peak memory: {peak_rss_mb():.0f} MB')
     return 0
 
 

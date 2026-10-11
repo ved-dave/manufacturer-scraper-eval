@@ -35,6 +35,7 @@ MAX_PDFS_PER_FAMILY = 30
 MAX_IMAGES_PER_FAMILY = 12
 PHASH_SAME_IMAGE = 2           # renditions of one image; sibling-SKU photos are usually 4+ apart
 PDF_TEXT_PAGES = 8
+PDF_PARSE_MEM_BYTES = 64_000_000   # in-memory cap for parsed PDF results (the rest stays on disk)
 CHROME_SHARE = 0.20               # asset on more than this share of product pages = site chrome
 CHROME_MIN_PAGES = 5
 

@@ -470,3 +470,47 @@ class TestSizeColumnTables(unittest.TestCase):
                          (['1/2', '1-1/4'], 'in'))
         self.assertIsNone(sizes_from_tables([(1, ['Size', 'A']), (1, ['Small', '3'])]))
         self.assertIsNone(sizes_from_tables([(1, ['Size range', 'DN15 to DN50'])]))
+
+
+class TestParsedPdfCache(unittest.TestCase):
+    """Shared PDFs were re-parsed for every family that linked them (~28% of the Sioux Chief run)."""
+    def setUp(self):
+        import tempfile
+        self.tmp = tempfile.TemporaryDirectory()
+        self.calls = []
+
+    def tearDown(self):
+        self.tmp.cleanup()
+
+    def parse(self, body, pages=8):
+        self.calls.append(body)
+        return body.decode(), [body.decode()], 'T', None, [(1, ['DN', body.decode()])]
+
+    def cache(self, cap=10_000):
+        from pathlib import Path
+        from mfr_scraper.pdfcache import ParsedPdfCache
+        return ParsedPdfCache(root=Path(self.tmp.name), mem_cap=cap, parse=self.parse)
+
+    def test_parsed_once_per_content_and_reused_across_runs(self):
+        c = self.cache()
+        first = c.get('aa11', b'sheet')
+        self.assertEqual(c.get('aa11', b'sheet'), first)
+        self.assertEqual(self.cache().get('aa11', b'sheet'), first)   # a new run reads the disk entry
+        self.assertEqual(len(self.calls), 1)
+        self.assertEqual(first, ('sheet', ['sheet'], 'T', None, [(1, ['DN', 'sheet'])]))
+
+    def test_memory_stays_under_cap(self):
+        c = self.cache(cap=100)
+        for i in range(50):
+            c.get(f'{i:04x}', b'x' * 20)
+        self.assertLessEqual(c.mem_bytes, 100)
+        self.assertGreater(c.stats['evicted'], 0)
+        c.get('0000', b'x' * 20)   # evicted from memory, still on disk
+        self.assertEqual(len(self.calls), 50)
+
+    def test_unreadable_entry_is_parsed_again(self):
+        c = self.cache()
+        c.get('bb22', b'sheet')
+        (c.dir / 'bb' / 'bb22.json').write_text('{broken')
+        self.assertEqual(self.cache().get('bb22', b'sheet')[0], 'sheet')
+        self.assertEqual(len(self.calls), 2)
