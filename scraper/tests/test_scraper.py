@@ -306,6 +306,8 @@ class TestTemperatureUnitInLabel(unittest.TestCase):
         self.assertEqual(T('TEMPERATURE (°C) -10 to 120 -10 to 82')[:2], ({'min': -10.0, 'max': 120.0}, 'C'))
         self.assertEqual(T('5" CL125 MAX TEMPERATURE (°C) -10 to 90 -10 to 130')[:2], ({'min': -10.0, 'max': 90.0}, 'C'))
         self.assertEqual(T('MAX TEMPERATURE (°F) 250')[:2], ({'min': None, 'max': 250.0}, 'F'))
+        self.assertEqual(T('TEMPERATURE (°C) -10 to 130 500 13804 0.525')[:2], ({'min': -10.0, 'max': 130.0}, 'C'))
+        self.assertEqual(T('TEMPERATURE (°C) -10 to 100 110 120 186')[:2], ({'min': -10.0, 'max': 186.0}, 'C'))
 
     def test_rejects(self):
         from mfr_scraper.specs import temperature_from_unit_label as T

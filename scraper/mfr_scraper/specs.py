@@ -210,9 +210,10 @@ def temperature_from_unit_label(line):
     lo = float(first.group(1))
     hi = float(first.group(2)) if first.group(2) else lo
     for r in readings[1:]:
-        if r.group(2):
-            break
-        hi = max(hi, float(r.group(1)))
+        step = float(r.group(1))
+        if r.group(2) or not hi < step <= hi + 100:
+            break           # a new range, or a value from another column (weights, Kv, ...)
+        hi = step
     if lo > hi:
         return None
     if not first.group(2) and len(readings) == 1:
