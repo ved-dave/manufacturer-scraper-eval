@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "site": "caleffi",
   "input_url": "https://www.caleffi.com/",
-  "run_at": "2026-10-11T18:13:11Z",
+  "run_at": "2026-10-11T18:27:13Z",
   "agent": {
     "name": "gold",
     "version": "1"
@@ -3646,6 +3646,139 @@
               "retrieved_at": "2026-10-11T17:50:32Z"
             }
           ]
+        },
+        "sizes_available": {
+          "value": [
+            "1/4"
+          ],
+          "unit": "in",
+          "display_source": "page",
+          "cross_check": "agree",
+          "sources": [
+            {
+              "url": "https://www.caleffi.com/en-us/automatic-air-vent-1%E2%81%844-straight-thread-5024-caleffi-502420",
+              "type": "page",
+              "page": null,
+              "section": "Drawings and specifications",
+              "quote": "1/4\" G (ISO 228-1A) M",
+              "snapshot_sha256": "69bf041da7e4bdb95cd54085efe971239f3304383ca67b0f155bf18dda5e6655",
+              "retrieved_at": "2026-10-11T17:14:20Z",
+              "variant_sku": null
+            },
+            {
+              "url": "https://www.caleffi.com/sites/default/files/media/external-file/01090_NA.pdf",
+              "type": "pdf",
+              "page": 5,
+              "section": null,
+              "quote": "1/4” M threaded connections",
+              "snapshot_sha256": "c1fd9358e8081f5697ea46fad4bd60ec2dd39da25a99e23d3ce2744bb11c485f",
+              "retrieved_at": "2026-10-11T17:50:32Z"
+            }
+          ]
+        },
+        "size_range": {
+          "value": {
+            "min": "1/4",
+            "max": "1/4"
+          },
+          "unit": "in",
+          "display_source": "page",
+          "cross_check": "agree",
+          "sources": [
+            {
+              "url": "https://www.caleffi.com/en-us/automatic-air-vent-1%E2%81%844-straight-thread-5024-caleffi-502420",
+              "type": "page",
+              "page": null,
+              "section": "Drawings and specifications",
+              "quote": "1/4\" G (ISO 228-1A) M",
+              "snapshot_sha256": "69bf041da7e4bdb95cd54085efe971239f3304383ca67b0f155bf18dda5e6655",
+              "retrieved_at": "2026-10-11T17:14:20Z",
+              "variant_sku": null
+            },
+            {
+              "url": "https://www.caleffi.com/sites/default/files/media/external-file/01090_NA.pdf",
+              "type": "pdf",
+              "page": 5,
+              "section": null,
+              "quote": "1/4” M threaded connections",
+              "snapshot_sha256": "c1fd9358e8081f5697ea46fad4bd60ec2dd39da25a99e23d3ce2744bb11c485f",
+              "retrieved_at": "2026-10-11T17:50:32Z"
+            }
+          ]
+        },
+        "size_unit": {
+          "value": "in",
+          "display_source": "page",
+          "cross_check": "agree",
+          "sources": [
+            {
+              "url": "https://www.caleffi.com/en-us/automatic-air-vent-1%E2%81%844-straight-thread-5024-caleffi-502420",
+              "type": "page",
+              "page": null,
+              "section": "Drawings and specifications",
+              "quote": "1/4\" G (ISO 228-1A) M",
+              "snapshot_sha256": "69bf041da7e4bdb95cd54085efe971239f3304383ca67b0f155bf18dda5e6655",
+              "retrieved_at": "2026-10-11T17:14:20Z",
+              "variant_sku": null
+            },
+            {
+              "url": "https://www.caleffi.com/sites/default/files/media/external-file/01090_NA.pdf",
+              "type": "pdf",
+              "page": 5,
+              "section": null,
+              "quote": "1/4” M threaded connections",
+              "snapshot_sha256": "c1fd9358e8081f5697ea46fad4bd60ec2dd39da25a99e23d3ce2744bb11c485f",
+              "retrieved_at": "2026-10-11T17:50:32Z"
+            }
+          ]
+        },
+        "end_connections": {
+          "value": [
+            "threaded"
+          ],
+          "raw_text": "1/4\" G (ISO 228-1A) M",
+          "display_source": "page",
+          "cross_check": "agree",
+          "sources": [
+            {
+              "url": "https://www.caleffi.com/en-us/automatic-air-vent-1%E2%81%844-straight-thread-5024-caleffi-502420",
+              "type": "page",
+              "page": null,
+              "section": "Drawings and specifications",
+              "quote": "1/4\" G (ISO 228-1A) M",
+              "snapshot_sha256": "69bf041da7e4bdb95cd54085efe971239f3304383ca67b0f155bf18dda5e6655",
+              "retrieved_at": "2026-10-11T17:14:20Z",
+              "variant_sku": null
+            },
+            {
+              "url": "https://www.caleffi.com/sites/default/files/media/external-file/01090_NA.pdf",
+              "type": "pdf",
+              "page": 5,
+              "section": null,
+              "quote": "1/4” M threaded connections",
+              "snapshot_sha256": "c1fd9358e8081f5697ea46fad4bd60ec2dd39da25a99e23d3ce2744bb11c485f",
+              "retrieved_at": "2026-10-11T17:50:32Z"
+            }
+          ]
+        },
+        "standards": {
+          "value": [
+            "ISO 228-1A"
+          ],
+          "display_source": "page",
+          "cross_check": "page_only",
+          "sources": [
+            {
+              "url": "https://www.caleffi.com/en-us/automatic-air-vent-1%E2%81%844-straight-thread-5024-caleffi-502420",
+              "type": "page",
+              "page": null,
+              "section": "Drawings and specifications",
+              "quote": "1/4\" G (ISO 228-1A) M",
+              "snapshot_sha256": "69bf041da7e4bdb95cd54085efe971239f3304383ca67b0f155bf18dda5e6655",
+              "retrieved_at": "2026-10-11T17:14:20Z",
+              "variant_sku": null
+            }
+          ]
         }
       },
       "additional_specs": {},
@@ -4149,6 +4282,133 @@
               "retrieved_at": "2026-10-11T17:51:53Z"
             }
           ]
+        },
+        "sizes_available": {
+          "value": [
+            "1"
+          ],
+          "unit": "in",
+          "display_source": "page",
+          "cross_check": "page_only",
+          "sources": [
+            {
+              "url": "https://www.caleffi.com/en-us/automatic-filling-valve-commercial-applications-5350-caleffi-535950a",
+              "type": "page",
+              "page": null,
+              "section": "Drawings and specifications",
+              "quote": "1\" G (ISO 228-1A) M",
+              "snapshot_sha256": "7c30c27d57691dcc2726a7422c40dfcaaab13761391af78f133579773034fc93",
+              "retrieved_at": "2026-10-11T17:16:04Z",
+              "variant_sku": null
+            }
+          ]
+        },
+        "size_range": {
+          "value": {
+            "min": "1",
+            "max": "1"
+          },
+          "unit": "in",
+          "display_source": "page",
+          "cross_check": "page_only",
+          "sources": [
+            {
+              "url": "https://www.caleffi.com/en-us/automatic-filling-valve-commercial-applications-5350-caleffi-535950a",
+              "type": "page",
+              "page": null,
+              "section": "Drawings and specifications",
+              "quote": "1\" G (ISO 228-1A) M",
+              "snapshot_sha256": "7c30c27d57691dcc2726a7422c40dfcaaab13761391af78f133579773034fc93",
+              "retrieved_at": "2026-10-11T17:16:04Z",
+              "variant_sku": null
+            }
+          ]
+        },
+        "size_unit": {
+          "value": "in",
+          "display_source": "page",
+          "cross_check": "page_only",
+          "sources": [
+            {
+              "url": "https://www.caleffi.com/en-us/automatic-filling-valve-commercial-applications-5350-caleffi-535950a",
+              "type": "page",
+              "page": null,
+              "section": "Drawings and specifications",
+              "quote": "1\" G (ISO 228-1A) M",
+              "snapshot_sha256": "7c30c27d57691dcc2726a7422c40dfcaaab13761391af78f133579773034fc93",
+              "retrieved_at": "2026-10-11T17:16:04Z",
+              "variant_sku": null
+            }
+          ]
+        },
+        "end_connections": {
+          "value": [
+            "threaded",
+            "union"
+          ],
+          "raw_text": "1\" G (ISO 228-1A) M; 1\" straight thread M, union",
+          "display_source": "page",
+          "cross_check": "page_only",
+          "sources": [
+            {
+              "url": "https://www.caleffi.com/en-us/automatic-filling-valve-commercial-applications-5350-caleffi-535950a",
+              "type": "page",
+              "page": null,
+              "section": "Drawings and specifications",
+              "quote": "1\" G (ISO 228-1A) M",
+              "snapshot_sha256": "7c30c27d57691dcc2726a7422c40dfcaaab13761391af78f133579773034fc93",
+              "retrieved_at": "2026-10-11T17:16:04Z",
+              "variant_sku": null
+            },
+            {
+              "url": "https://www.caleffi.com/en-us/automatic-filling-valve-commercial-applications-5350-caleffi-535950a",
+              "type": "page",
+              "page": null,
+              "section": "Product description",
+              "quote": "connection: 1\" straight thread M, union.",
+              "snapshot_sha256": "7c30c27d57691dcc2726a7422c40dfcaaab13761391af78f133579773034fc93",
+              "retrieved_at": "2026-10-11T17:16:04Z",
+              "variant_sku": null
+            }
+          ]
+        },
+        "standards": {
+          "value": [
+            "ISO 228-1A"
+          ],
+          "display_source": "page",
+          "cross_check": "page_only",
+          "sources": [
+            {
+              "url": "https://www.caleffi.com/en-us/automatic-filling-valve-commercial-applications-5350-caleffi-535950a",
+              "type": "page",
+              "page": null,
+              "section": "Drawings and specifications",
+              "quote": "1\" G (ISO 228-1A) M",
+              "snapshot_sha256": "7c30c27d57691dcc2726a7422c40dfcaaab13761391af78f133579773034fc93",
+              "retrieved_at": "2026-10-11T17:16:04Z",
+              "variant_sku": null
+            }
+          ]
+        },
+        "applications": {
+          "value": [
+            "commercial"
+          ],
+          "display_source": "page",
+          "cross_check": "page_only",
+          "sources": [
+            {
+              "url": "https://www.caleffi.com/en-us/automatic-filling-valve-commercial-applications-5350-caleffi-535950a",
+              "type": "page",
+              "page": null,
+              "section": "Product description",
+              "quote": "Automatic filling valve (commercial applications)",
+              "snapshot_sha256": "7c30c27d57691dcc2726a7422c40dfcaaab13761391af78f133579773034fc93",
+              "retrieved_at": "2026-10-11T17:16:04Z",
+              "variant_sku": null
+            }
+          ]
         }
       },
       "additional_specs": {},
@@ -4238,7 +4498,7 @@
         }
       ],
       "labelling_notes": "",
-      "spec_source_summary": "pdf"
+      "spec_source_summary": "both"
     },
     {
       "family_id": "caleffi-f19346",
@@ -4521,9 +4781,7 @@
         "certifications": {
           "value": [
             "ASSE 1024",
-            "CSA 64.5",
-            "NSF/ANSI/CAN 61",
-            "NSF/ANSI/CAN 372"
+            "CSA 64.5"
           ],
           "display_source": "pdf",
           "cross_check": "pdf_only",
@@ -4534,24 +4792,6 @@
               "page": 1,
               "section": null,
               "quote": "certified to ASSE 1024 and CSA 64.5 by ICC-ES",
-              "snapshot_sha256": "246b1fca285e0dc69000919b3ef8bd66b7bf23131bf3934f432568938ace038d",
-              "retrieved_at": "2026-10-11T17:52:29Z"
-            },
-            {
-              "url": "https://www.caleffi.com/sites/default/files/media/external-file/01403_NA.pdf",
-              "type": "pdf",
-              "page": 1,
-              "section": null,
-              "quote": "NSF/ANSI/CAN 61",
-              "snapshot_sha256": "246b1fca285e0dc69000919b3ef8bd66b7bf23131bf3934f432568938ace038d",
-              "retrieved_at": "2026-10-11T17:52:29Z"
-            },
-            {
-              "url": "https://www.caleffi.com/sites/default/files/media/external-file/01403_NA.pdf",
-              "type": "pdf",
-              "page": 1,
-              "section": null,
-              "quote": "NSF/ANSI/CAN 372",
               "snapshot_sha256": "246b1fca285e0dc69000919b3ef8bd66b7bf23131bf3934f432568938ace038d",
               "retrieved_at": "2026-10-11T17:52:29Z"
             }
@@ -4720,6 +4960,121 @@
               "snapshot_sha256": "ee1d6bc766b836a1fce927c1a83053e57b14ed87ec946857030ee65e4024a611",
               "retrieved_at": "2026-10-11T17:21:51Z",
               "variant_sku": null
+            }
+          ]
+        },
+        "size_unit": {
+          "value": "in",
+          "display_source": "pdf",
+          "cross_check": "agree",
+          "sources": [
+            {
+              "url": "https://www.caleffi.com/sites/default/files/media/external-file/01403_NA.pdf",
+              "type": "pdf",
+              "page": 1,
+              "section": "Technical specifications",
+              "quote": "Main inlet/outlet: 1/2”, 3/4”, 1” NPT male, sweat, press,",
+              "snapshot_sha256": "246b1fca285e0dc69000919b3ef8bd66b7bf23131bf3934f432568938ace038d",
+              "retrieved_at": "2026-10-11T17:52:29Z"
+            },
+            {
+              "url": "https://www.caleffi.com/en-us/dual-check-backflow-preventer-fnpt-3048-304843a",
+              "type": "page",
+              "page": null,
+              "section": "Drawings and specifications",
+              "quote": "3/4\" NPT female union",
+              "snapshot_sha256": "bf6b1a701f2243a2a41da91edc02852b505964b290b44c8973f85e984cc786f5",
+              "retrieved_at": "2026-10-11T17:21:53Z",
+              "variant_sku": null
+            },
+            {
+              "url": "https://www.caleffi.com/en-us/dual-check-backflow-preventer-mnpt-3048-304840a",
+              "type": "page",
+              "page": null,
+              "section": "Drawings and specifications",
+              "quote": "1\" NPT male union",
+              "snapshot_sha256": "ee1d6bc766b836a1fce927c1a83053e57b14ed87ec946857030ee65e4024a611",
+              "retrieved_at": "2026-10-11T17:21:51Z",
+              "variant_sku": null
+            }
+          ]
+        },
+        "standards": {
+          "value": [
+            "ASSE 1024",
+            "CSA 64.5",
+            "NSF/ANSI/CAN 61",
+            "NSF/ANSI/CAN 372",
+            "ASTM F1807",
+            "ASTM F1960"
+          ],
+          "display_source": "pdf",
+          "cross_check": "pdf_only",
+          "sources": [
+            {
+              "url": "https://www.caleffi.com/sites/default/files/media/external-file/01403_NA.pdf",
+              "type": "pdf",
+              "page": 1,
+              "section": null,
+              "quote": "certified to ASSE 1024 and CSA 64.5",
+              "snapshot_sha256": "246b1fca285e0dc69000919b3ef8bd66b7bf23131bf3934f432568938ace038d",
+              "retrieved_at": "2026-10-11T17:52:29Z"
+            },
+            {
+              "url": "https://www.caleffi.com/sites/default/files/media/external-file/01403_NA.pdf",
+              "type": "pdf",
+              "page": 1,
+              "section": null,
+              "quote": "with NSF/ANSI/CAN 372, low lead laws, and NSF/ANSI/CAN 61",
+              "snapshot_sha256": "246b1fca285e0dc69000919b3ef8bd66b7bf23131bf3934f432568938ace038d",
+              "retrieved_at": "2026-10-11T17:52:29Z"
+            },
+            {
+              "url": "https://www.caleffi.com/sites/default/files/media/external-file/01403_NA.pdf",
+              "type": "pdf",
+              "page": 1,
+              "section": null,
+              "quote": "PEX crimp (ASTM F1807)",
+              "snapshot_sha256": "246b1fca285e0dc69000919b3ef8bd66b7bf23131bf3934f432568938ace038d",
+              "retrieved_at": "2026-10-11T17:52:29Z"
+            },
+            {
+              "url": "https://www.caleffi.com/sites/default/files/media/external-file/01403_NA.pdf",
+              "type": "pdf",
+              "page": 1,
+              "section": null,
+              "quote": "ASTM F1960",
+              "snapshot_sha256": "246b1fca285e0dc69000919b3ef8bd66b7bf23131bf3934f432568938ace038d",
+              "retrieved_at": "2026-10-11T17:52:29Z"
+            }
+          ]
+        },
+        "applications": {
+          "value": [
+            "potable water",
+            "residential",
+            "commercial"
+          ],
+          "display_source": "pdf",
+          "cross_check": "pdf_only",
+          "sources": [
+            {
+              "url": "https://www.caleffi.com/sites/default/files/media/external-file/01403_NA.pdf",
+              "type": "pdf",
+              "page": 1,
+              "section": null,
+              "quote": "for residential domestic water supply lines or commercial",
+              "snapshot_sha256": "246b1fca285e0dc69000919b3ef8bd66b7bf23131bf3934f432568938ace038d",
+              "retrieved_at": "2026-10-11T17:52:29Z"
+            },
+            {
+              "url": "https://www.caleffi.com/sites/default/files/media/external-file/01403_NA.pdf",
+              "type": "pdf",
+              "page": 2,
+              "section": null,
+              "quote": "distribution piping of potable water",
+              "snapshot_sha256": "246b1fca285e0dc69000919b3ef8bd66b7bf23131bf3934f432568938ace038d",
+              "retrieved_at": "2026-10-11T17:52:29Z"
             }
           ]
         }
@@ -5421,6 +5776,106 @@
               "variant_sku": null
             }
           ]
+        },
+        "size_unit": {
+          "value": "in",
+          "display_source": "page",
+          "cross_check": "page_only",
+          "sources": [
+            {
+              "url": "https://www.caleffi.com/en-us/long-copper-press-tail-piece-with-1-brass-union-nut-na162-caleffi-na16265l",
+              "type": "page",
+              "page": null,
+              "section": "Drawings and specifications",
+              "quote": "3/4\" Press Long Press with 1\" union slip nut and check valve",
+              "snapshot_sha256": "ce9581e4182d229f9ddcccbd01361996171c199c8f833f1984c772f0c5df06d3",
+              "retrieved_at": "2026-10-11T17:21:17Z",
+              "variant_sku": null
+            },
+            {
+              "url": "https://www.caleffi.com/en-us/long-copper-press-tail-piece-with-1-brass-union-nut-na162-caleffi-na16265l",
+              "type": "page",
+              "page": null,
+              "section": "Drawings and specifications",
+              "quote": "1\" Press Long Press with 1\" union slip nut",
+              "snapshot_sha256": "ce9581e4182d229f9ddcccbd01361996171c199c8f833f1984c772f0c5df06d3",
+              "retrieved_at": "2026-10-11T17:21:17Z",
+              "variant_sku": null
+            }
+          ]
+        },
+        "material_body": {
+          "value": "copper",
+          "display_source": "page",
+          "cross_check": "page_only",
+          "sources": [
+            {
+              "url": "https://www.caleffi.com/en-us/long-copper-press-tail-piece-with-1-brass-union-nut-na162-caleffi-na16265l",
+              "type": "page",
+              "page": null,
+              "section": "Product description",
+              "quote": "Long copper press tail piece with 1\" brass union nut",
+              "snapshot_sha256": "ce9581e4182d229f9ddcccbd01361996171c199c8f833f1984c772f0c5df06d3",
+              "retrieved_at": "2026-10-11T17:21:17Z",
+              "variant_sku": null
+            }
+          ]
+        },
+        "pressure_rating": {
+          "value": 200,
+          "unit": "psi",
+          "raw_text": "MAX. WORKING PRESSURE 200 psi (14 bar)",
+          "display_source": "pdf",
+          "cross_check": "pdf_only",
+          "sources": [
+            {
+              "url": "https://www.caleffi.com/sites/default/files/media/external-file/03511_NA.pdf",
+              "type": "pdf",
+              "page": 4,
+              "section": null,
+              "quote": "MAX. WORKING PRESSuRE 200 psi (14 bar)",
+              "snapshot_sha256": "9a3bf1cb2ab22b10fd6ce0ce1cabd4d82b81f8a5e7edc605dd8f49a3047c5dfe",
+              "retrieved_at": "2026-10-11T17:39:59Z"
+            }
+          ]
+        },
+        "temperature_range": {
+          "value": {
+            "min": 0,
+            "max": 250
+          },
+          "unit": "F",
+          "display_source": "pdf",
+          "cross_check": "pdf_only",
+          "sources": [
+            {
+              "url": "https://www.caleffi.com/sites/default/files/media/external-file/03511_NA.pdf",
+              "type": "pdf",
+              "page": 1,
+              "section": null,
+              "quote": "Temperature range of 0°F—250°F",
+              "snapshot_sha256": "9a3bf1cb2ab22b10fd6ce0ce1cabd4d82b81f8a5e7edc605dd8f49a3047c5dfe",
+              "retrieved_at": "2026-10-11T17:39:59Z"
+            }
+          ]
+        },
+        "certifications": {
+          "value": [
+            "NSF/ANSI 372"
+          ],
+          "display_source": "pdf",
+          "cross_check": "pdf_only",
+          "sources": [
+            {
+              "url": "https://www.caleffi.com/sites/default/files/media/external-file/03511_NA.pdf",
+              "type": "pdf",
+              "page": 4,
+              "section": null,
+              "quote": "Low-lead are certified to NSF/ANSI 372.",
+              "snapshot_sha256": "9a3bf1cb2ab22b10fd6ce0ce1cabd4d82b81f8a5e7edc605dd8f49a3047c5dfe",
+              "retrieved_at": "2026-10-11T17:39:59Z"
+            }
+          ]
         }
       },
       "additional_specs": {},
@@ -5503,6 +5958,34 @@
               }
             }
           ]
+        },
+        {
+          "sku": "NA16265L",
+          "size": "3/4",
+          "page_url": "https://www.caleffi.com/en-us/long-copper-press-tail-piece-with-1-brass-union-nut-na162-caleffi-na16265l",
+          "prices": [
+            {
+              "amount": 54.2,
+              "currency": "USD",
+              "price_type": "list",
+              "unit_of_measure": "each",
+              "pack_qty": null,
+              "min_order_qty": null,
+              "availability": "price_shown",
+              "effective_date": "2026-06-01",
+              "price_list_id": "June 1, 2026 List Price sheet",
+              "notes": null,
+              "source": {
+                "url": "https://www.caleffi.com/sites/default/files/media/file/June%201%2C%202026%20List%20Price%20sheet.xlsx",
+                "type": "pdf",
+                "page": 1,
+                "section": "Sheet1",
+                "quote": "NA16265L\t3/4\" Press adapter kit with 1\" union nut\t54.2\t8016615550573\tUS\t8481909085\t0.88 lbs",
+                "snapshot_sha256": "1152e0ee694d10bf390a7570b1189e98da8fe6c51f713471f1b2eb336f6e1a56",
+                "retrieved_at": "2026-10-11T17:30:12Z"
+              }
+            }
+          ]
         }
       ],
       "documents": [
@@ -5561,7 +6044,7 @@
         }
       ],
       "labelling_notes": "",
-      "spec_source_summary": "page"
+      "spec_source_summary": "both"
     },
     {
       "family_id": "caleffi-172",
@@ -5626,6 +6109,119 @@
               "snapshot_sha256": "109449b60b97fc1e764b96207f33809df502d7f7c075daf4032f2a54a83127a6",
               "retrieved_at": "2026-10-11T17:15:47Z",
               "variant_sku": null
+            }
+          ]
+        },
+        "sizes_available": {
+          "value": [
+            "3/4"
+          ],
+          "unit": "in",
+          "display_source": "pdf",
+          "cross_check": "agree",
+          "sources": [
+            {
+              "url": "https://www.caleffi.com/en-us/low-temperature-manifold-mixing-station-with-high-efficiency-pump-172-caleffi-1725c1ahe",
+              "type": "page",
+              "page": null,
+              "section": "Product description",
+              "quote": "Connection: 3/4\" NPT male.",
+              "snapshot_sha256": "109449b60b97fc1e764b96207f33809df502d7f7c075daf4032f2a54a83127a6",
+              "retrieved_at": "2026-10-11T17:15:47Z",
+              "variant_sku": null
+            },
+            {
+              "url": "https://www.caleffi.com/sites/default/files/media/external-file/01155_NA.pdf",
+              "type": "pdf",
+              "page": 1,
+              "section": null,
+              "quote": "primary circuit: 3/4” NPT Male",
+              "snapshot_sha256": "ffa988c6b2bc74ed6580287742599acba96573f08412f433730a6727b6a16976",
+              "retrieved_at": "2026-10-11T17:38:38Z"
+            }
+          ]
+        },
+        "size_range": {
+          "value": {
+            "min": "3/4",
+            "max": "3/4"
+          },
+          "unit": "in",
+          "display_source": "pdf",
+          "cross_check": "agree",
+          "sources": [
+            {
+              "url": "https://www.caleffi.com/en-us/low-temperature-manifold-mixing-station-with-high-efficiency-pump-172-caleffi-1725c1ahe",
+              "type": "page",
+              "page": null,
+              "section": "Product description",
+              "quote": "Connection: 3/4\" NPT male.",
+              "snapshot_sha256": "109449b60b97fc1e764b96207f33809df502d7f7c075daf4032f2a54a83127a6",
+              "retrieved_at": "2026-10-11T17:15:47Z",
+              "variant_sku": null
+            },
+            {
+              "url": "https://www.caleffi.com/sites/default/files/media/external-file/01155_NA.pdf",
+              "type": "pdf",
+              "page": 1,
+              "section": null,
+              "quote": "primary circuit: 3/4” NPT Male",
+              "snapshot_sha256": "ffa988c6b2bc74ed6580287742599acba96573f08412f433730a6727b6a16976",
+              "retrieved_at": "2026-10-11T17:38:38Z"
+            }
+          ]
+        },
+        "size_unit": {
+          "value": "in",
+          "display_source": "pdf",
+          "cross_check": "agree",
+          "sources": [
+            {
+              "url": "https://www.caleffi.com/en-us/low-temperature-manifold-mixing-station-with-high-efficiency-pump-172-caleffi-1725c1ahe",
+              "type": "page",
+              "page": null,
+              "section": "Product description",
+              "quote": "Connection: 3/4\" NPT male.",
+              "snapshot_sha256": "109449b60b97fc1e764b96207f33809df502d7f7c075daf4032f2a54a83127a6",
+              "retrieved_at": "2026-10-11T17:15:47Z",
+              "variant_sku": null
+            },
+            {
+              "url": "https://www.caleffi.com/sites/default/files/media/external-file/01155_NA.pdf",
+              "type": "pdf",
+              "page": 1,
+              "section": null,
+              "quote": "primary circuit: 3/4” NPT Male",
+              "snapshot_sha256": "ffa988c6b2bc74ed6580287742599acba96573f08412f433730a6727b6a16976",
+              "retrieved_at": "2026-10-11T17:38:38Z"
+            }
+          ]
+        },
+        "end_connections": {
+          "value": [
+            "NPT"
+          ],
+          "display_source": "pdf",
+          "cross_check": "agree",
+          "sources": [
+            {
+              "url": "https://www.caleffi.com/en-us/low-temperature-manifold-mixing-station-with-high-efficiency-pump-172-caleffi-1725c1ahe",
+              "type": "page",
+              "page": null,
+              "section": "Product description",
+              "quote": "Connection: 3/4\" NPT male.",
+              "snapshot_sha256": "109449b60b97fc1e764b96207f33809df502d7f7c075daf4032f2a54a83127a6",
+              "retrieved_at": "2026-10-11T17:15:47Z",
+              "variant_sku": null
+            },
+            {
+              "url": "https://www.caleffi.com/sites/default/files/media/external-file/01155_NA.pdf",
+              "type": "pdf",
+              "page": 1,
+              "section": null,
+              "quote": "primary circuit: 3/4” NPT Male",
+              "snapshot_sha256": "ffa988c6b2bc74ed6580287742599acba96573f08412f433730a6727b6a16976",
+              "retrieved_at": "2026-10-11T17:38:38Z"
             }
           ]
         }
@@ -6816,6 +7412,23 @@
               "page": null,
               "section": "Product description",
               "quote": "Connection Type: NPT Female",
+              "snapshot_sha256": "a54acbca8e8ecef5cccc11684470866335eee6435fb40541d1f733a09217c689",
+              "retrieved_at": "2026-10-11T17:22:36Z",
+              "variant_sku": null
+            }
+          ]
+        },
+        "size_unit": {
+          "value": "in",
+          "display_source": "page",
+          "cross_check": "page_only",
+          "sources": [
+            {
+              "url": "https://www.caleffi.com/en-us/replacement-drain-ball-valve--caleffi-na39753",
+              "type": "page",
+              "page": null,
+              "section": "Product description",
+              "quote": "Size: 1”, 1-¼”, 2”",
               "snapshot_sha256": "a54acbca8e8ecef5cccc11684470866335eee6435fb40541d1f733a09217c689",
               "retrieved_at": "2026-10-11T17:22:36Z",
               "variant_sku": null

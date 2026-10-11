@@ -2,7 +2,7 @@
 
 Labelled 2026-10-11 against SPEC on main. Locale `en-us`. Independent of any scraper output (no scraper code, runs, reports or PRs opened).
 
-Spec source share (15 families, family-level fields): agree 18, refines 3, conflict 1, pdf_only 10, page_only 9 (41 fields). Variant overrides: 6 (all agree).
+Spec source share (15 families, family-level fields, after blind fixes): agree 27, refines 3, conflict 1, pdf_only 15, page_only 19 (65 fields). Variant overrides: 6 (all agree). Variants: 77.
 
 ## Conflicts
 - **3048 FlowShield DuC pressure_rating** | technical brochure 01403_NA p.1 and submittal 03506_NA p.1 "Max. working pressure: 160 psi (11 bar)"; all five product pages "Maximum working pressure : 175 psi" and sell sheet 03667_NA p.2 "MAX. WORKING PRESSURE 175 psi (12 bar)" -> 160 psi displayed (spec sheet + submittal), 175 psi in alt_values, cross_check conflict. The manufacturer's own sheets disagree with each other; the submittal is treated as decisive | SPEC 6a precedence
@@ -31,10 +31,40 @@ Spec source share (15 families, family-level fields): agree 18, refines 3, confl
 - **3048 end_connections** | sheet adds PEX expansion (ASTM F1960) to the pages' NPT/PEX crimp/press/sweat; union ends on every page -> ["NPT","solder","press","PEX crimp","PEX expansion","union"], refines
 - **ZSR** | "ETL certified to CSA and UL standards" -> certifications [ETL]; "Certified to CSA C22-2 No.24", "Conforms to UL Standard 873" -> standards | SPEC 6 standards scope
 - **Parts without scored specs** | F19346 (stem; its documents describe the 132 QuickSetter valve, so no valve specs are copied), NA10979 alarm station (only 24 V AC), F69591 sensor, R0001458 washer: no scored spec fields
-- **NA162** | the Presscon selector 03511 gives range-wide values, not NA162 values -> page_only sizes/connections ("union slip nut" -> union)
+- **NA162** | sizes/connections from the page ("union slip nut" -> union, page_only). Pressure 200 psi, 0-250°F and NSF/ANSI 372 come from the Presscon range block of selector 03511, which lists NA16265L by code (pdf_only). This reverses the pre-blind decision; see Blind re-label
 
 ## Blind re-label
-BLIND_PLACEHOLDER
+Six families drawn with `random.Random(42)` from the 15 (172, 3048, 5024, 5350 body, NA162, NA39753) were re-labelled by a separate session (https://outpostai.devinenterprise.com/sessions/9b0cbd24772341ca827bfcd4bab3fb61) from an evidence-text packet only, with no access to this file or caleffi.json. Its output is `caleffi.blind.json`, its notes are in `caleffi.blind.md`, and `caleffi.blind.compare.py` produces the table.
+
+| dimension | before (raw) | before (normalised) | after fixes |
+|---|---|---|---|
+| variants | 47/48 98% | 47/48 98% | 48/48 100% |
+| documents | 13/26 50% | 17/18 94% | 17/18 94% |
+| doc_type | 13/13 100% | 15/16 94% | 15/16 94% |
+| CAD | 5/14 36% | 9/10 90% | 9/10 90% |
+| images | 13/15 87% | 13/15 87% | 13/15 87% |
+| family spec fields | 19/47 40% | 20/47 43% | 42/47 89% |
+| variant overrides | 6/6 100% | 6/6 100% | 6/6 100% |
+| cross_check | 17/21 81% | 17/21 81% | 33/45 73% |
+
+"Raw" was the comparator's first run. It had three bugs: the blind side's percent-encoded filenames, reading the gold CAD scope from the wrong key, and `1 1/4` vs `1-1/4` spelling. Also, the price workbook was not in the blind packet, so `price_list` documents are left out of the comparison. "Normalised" is the same labels with those comparator fixes; nothing in the labels changed between the two columns. Cross_check is compared only for fields both labellers recorded, so the denominator grows once gold adds fields.
+
+**Gold fixes (blind was right; each value re-checked against saved evidence):**
+- `size_unit` was missing wherever sizes were recorded: 3048, NA162, NA39753.
+- 172: `sizes_available` 3/4, `size_range` 3/4-3/4, `end_connections` NPT (`agree`: page "Connection: 3/4" NPT male", 01155 "primary circuit: 3/4” NPT Male").
+- 5024: size 1/4, `end_connections` `threaded` (G/ISO 228 parallel thread, SPEC vocabulary; the verbatim wording is in `raw_text`), `standards` ISO 228-1A (`page_only`).
+- 5350 body: size 1, `threaded` + `union`, ISO 228-1A, `applications` commercial (from the page title "(commercial applications)").
+- 3048: `certifications` now holds only what the sheet says is "certified" (ASSE 1024, CSA 64.5). Every standard the product conforms to now goes in `standards`, including NSF/ANSI/CAN 61/372 ("complies") and the ASTM F1807/F1960 PEX joints, per the SPEC standards scope. `applications` potable water, residential, commercial (01403).
+- NA162: added variant NA16265L. It is the page's own code (URL, heading), the June 2026 price sheet lists it ($54.20, "3/4" Press adapter kit with 1" union nut"), and 03511 lists it. `material_body` copper (from the product name, `page_only`). The Presscon range block of 03511 lists NA16265L, so its range-wide ratings apply: 200 psi, 0-250°F, NSF/ANSI 372 (`pdf_only`). This reverses my earlier decision not to use the selector.
+
+**Disagreements kept (gold unchanged):**
+- **5024 cross_check against catalog 01090 (7 fields, most of the remaining cross_check gap).** Blind: `page_only`, because 01090 is a catalog, not a spec sheet. Gold: `agree`. Every field is checked against every PDF that states it, following the crane precedent (140/257 were cross-checked against a multi-product catalog). The catalog never supplies `value` while the page states the field. Proposed wording is in HARNESS_ISSUES.md.
+- **5350 body sizes/connections.** Blind: from sheet 01085 (3/4"-1" NPT/sweat/press), giving a conflict. Gold: `page_only`. The sheet's "Main connections" are the fitting kits of the complete AutoFill valves, and 535951A is "AutoFill body only no fittings" (price sheet), so those lines do not describe this code. The sheet's body ratings (365 psi, 140°F, brass) still apply.
+- **172 `material_body`.** Blind: brass, from 01155 "Three-way mixing valve unit: Body: brass". Gold: omitted, because that line is one component of the station, not the product's body.
+- **3048 `end_connections` `refines`** (blind `agree`): the sheet adds PEX expansion (ASTM F1960) to the page's list.
+- **03194 "Water treatment in heating and cooling systems"** stays `other_doc` (blind `catalog`): it is an educational guide with no product order or spec blocks.
+- **"502420 (pdf).pdf"** stays a CAD file (blind: document). It is served from the per-code CAD download set (`/external-drawing/`) next to the dwg/dxf/igs/stp files.
+- **502420_sez image** stays `other` (blind `product_photo`): it is a cross-section, not a photo.
 
 ## Top 5 ambiguities
 1. 3048 pressure: two Caleffi sheets disagree (160 vs 175 psi).
