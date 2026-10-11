@@ -20,12 +20,13 @@ Per spec value, family level plus variant overrides:
 | After (SPEC v1.1) | 65 | 8 | 15 | 43 | 57 | 188 | 79 |
 | After blind v2 fixes | 76 | 8 | 15 | 32 | 57 | 188 | 79 |
 | After rule clarification (SPEC 6, 2026-10-10) | 53 | 9 | 9 | 20 | 29 | 120 | 6 |
+| After vocabulary pass (SPEC 6, 2026-10-11) | 50 | 8 | 8 | 21 | 26 | 113 | 6 |
 
 The total drops mostly because per-variant overrides of list fields (`end_connections`, `standards`, `certifications`, `applications`) were merged into family-level lists, and single-size `size_range` values were added. Of the 28 old conflicts: 7 became `refines`. 2 (`687-3PH/3PH2` end_connections) are now part of the family-level `end_connections`, which is `refines`. The 5 per-variant `643WG2` certification conflicts became 1 family-level conflict. The other 14 stay `conflict`.
 
 Coverage: 13 of 15 families have a spec-sheet PDF, 4 have BIM (`.rfa`), and 0 have 2D CAD or hosted CAD viewers (CAD/BIM = 4). 15 of 15 have `login_required` prices on every variant (SPEC: this satisfies price coverage).
 
-## Refines (8)
+## Refines (7)
 
 The spec sheet value is a more specific form of the page value (SPEC 6a). Checked by hand; all 7 validator "should be refines" candidates are here, plus `687-3CH` end_connections (see below).
 
@@ -35,12 +36,11 @@ The spec sheet value is a more specific form of the page value (SPEC 6a). Checke
 | 605qg2 | family | material_body | "no-lead brass (C46500)" | PDQ - BRASS PUSH FITTING SYSTEM - SPEC SHEET.PDF p1 "Fitting Body: No-Lead Brass*" | "brass" |
 | 523-31 | family | material_body | "galvanized steel" | 523 SERIES - VINYL-COATED STEEL CLAMPS - SPEC SHEET.PDF p1 "Clamp: galvanized steel" | "steel" |
 | 687-3ch | family | material_body | "fire-rated ABS" | 687 SERIES - SERVICEBOX WATER HEATER (F) ACCESS BOX - SPEC SHEET.PDF p1 "Access box: Fire-rated ABS" | "ABS" |
-| 687-3ch | family | end_connections | ["MIP", "CPVC socket", "MSWT/Press/Push", "push socket (CTS)", "PEX ASTM F1960 expansion", "PEX ASTM F1807 crimp"] | 687 SERIES - SERVICEBOX WATER HEATER (F) ACCESS BOX - SPEC SHEET.PDF p1 "cold-side MIP outlet with ball valve"; 687 SERIES - SERVICEBOX WATER HEATER (F) ACCESS BOX - SPEC SHEET.PDF p1 "3CH = 3/4" CPVC socket" | ["push (CTS)", "MIP"] |
-| 687-3ch | family | applications | ["water heater connections", "fire-rated walls"] | 687 SERIES - SERVICEBOX WATER HEATER (F) ACCESS BOX - SPEC SHEET.PDF p1 "valved connection for water heaters is required"; 687 SERIES - SERVICEBOX WATER HEATER (F) ACCESS BOX - SPEC SHEET.PDF p1 "Tested/Certified/Approved for use in fire-rated applications" | ["fire-rated walls"] |
+| 687-3ch | family | end_connections | ["NPT", "solvent weld", "solder", "press", "push-fit", "PEX expansion", "PEX crimp"] | 687 SERIES - SERVICEBOX WATER HEATER (F) ACCESS BOX - SPEC SHEET.PDF p1 "cold-side MIP outlet with ball valve"; 687 SERIES - SERVICEBOX WATER HEATER (F) ACCESS BOX - SPEC SHEET.PDF p1 "3CH = 3/4" CPVC socket" | ["push-fit", "NPT"] |
 | 861-q2286 | family | material_body | "enamel-coated cast iron" | 861-Q SERIES - 8X8X6 FLOOR SINK - SPEC SHEET.PDF p1 "Sink: Enamel-coated cast iron" | "cast iron" |
 | 120-tm3f | family | certifications | ["ASSE 1070", "NSF/ANSI 61 Annex G"] | 120-TM3F - THERMOSTATIC MIXING VALVE - SPEC SHEET.PDF p1 "Listed to ASSE 1070"; 120-TM3F - THERMOSTATIC MIXING VALVE - SPEC SHEET.PDF p1 "compliant with NSF-61 Annex G" | ["ASSE 1070"] |
 
-## Conflicts (15)
+## Conflicts (14)
 
 Contradictions stay `conflict`: the page states something the sheet does not (or a different value). The sheet value is displayed and the page value kept in `alt_values`.
 
@@ -52,7 +52,6 @@ Contradictions stay `conflict`: the page states something the sheet does not (or
 | 643wg2 | family | standards | ["ASTM F1960", "ASTM F1970", "ASTM D2846", "CSA B137.6", "ASTM F438"] | POWERPEX - F1960 BRASS FITTING SYSTEM - SPEC SHEET.PDF p1 "DIMENSIONS per ASTM F1960"; 645 SERIES - PVC X F1960 TRANSITION FITTING - SPEC SHEET.PDF p1 "conforms to the ASTM F1960 standard" | ["ASTM F1960", "CSA B137.5"] | page lists CSA B137.5, which no sheet lists |
 | 643wg2 | family | certifications | ["NSF/ANSI 61", "cUPC", "NSF/ANSI 14"] | POWERPEX - F1960 BRASS FITTING SYSTEM - SPEC SHEET.PDF p1 "compliant with NSF-61 Annex G"; 645 SERIES - PVC X F1960 TRANSITION FITTING - SPEC SHEET.PDF p1 "CERTIFICATIONS cUPC NSF 14 = PEX end" | ["NSF/ANSI/CAN 372"] | 645/645WGC pages list NSF/ANSI/CAN 372; the sheets list cUPC (+ NSF 14) instead |
 | 525-02 | family | material_body | "high impact polypropylene" | 525 SERIES - SIMPLESTRAP - SPEC SHEET.PDF p1 "Standard: High impact polypropylene (gray)" | "ABS" | different materials (polypropylene vs ABS) |
-| 523-31 | family | applications | ["PEX tube", "copper tube", "gas pipe", "conduit"] | 523 SERIES - VINYL-COATED STEEL CLAMPS - SPEC SHEET.PDF p1 "PEX tube, copper tube, gas pipe or other conduit" | ["hydronic heating"] | page says hydronic heating; the sheet lists tube types, not hydronic heating |
 | 687-3ch | family | standards | ["ASME A112.18.1", "ASME A112.4.14", "ASTM E814"] | 687 SERIES - SERVICEBOX WATER HEATER (F) ACCESS BOX - SPEC SHEET.PDF p1 "Meets ASME A112.18.1 and ASME A112.4.14"; 687 SERIES - SERVICEBOX WATER HEATER (F) ACCESS BOX - SPEC SHEET.PDF p2 "ASTM E814" | ["IAPMO PS 54", "ASTM E814", "CAN/ULC S115"] | page lists IAPMO PS 54 and CAN/ULC S115, which the sheet does not |
 | 861-q2286 | family | standards | ["ASME A112.6.7"] | 861-Q SERIES - 8X8X6 FLOOR SINK - SPEC SHEET.PDF p1 "Designed in accordance with ASME A112.6.7" | ["ASME A112.6.7", "CSA B79.7"] | page lists CSA B79.7, which the sheet does not |
 | 861-q2286 | 861-Q2286A | material_trim | "enamel-coated cast iron" | 861-Q SERIES - 8X8X6 FLOOR SINK - SPEC SHEET.PDF p1 "A = enamel-coated cast iron grate" | "A.R.E." | "A.R.E." (acid-resistant enamel) vs "enamel-coated cast iron": neither contains the other (the sheet does not say acid-resistant), so not a refinement |
@@ -210,3 +209,83 @@ The 11 remaining family-field differences are all cases where the gold was check
 - `525-02`: applications (gold uses the sheet's residential/commercial) and temperature min (an impact rating, not an operating minimum).
 
 The 4 cross_check differences are `525-02` material_body (blind: conflict; gold: refines under the clarified list rule), `525-02` applications and certifications (blind: page_only; gold: pdf_only, from sheet quotes), and `120-TM3F` certifications (blind missed Annex G).
+
+## Vocabulary pass (SPEC 6 controlled vocabularies, 2026-10-11)
+
+Mechanical pass: every `end_connections` and `applications` value (family specs, alt_values; no variant
+overrides of these fields exist) mapped to the SPEC 6 terms, exact spelling. Wording that maps to no term
+is kept verbatim (checked against the saved evidence text) in the family's `additional_specs` under
+`end_connections_other` / `applications_other`. Sources, quotes, raw_text and cross_check are unchanged
+except where listed below. No new crawling: every quote needed was already in the evidence.
+**No blind re-label was done for this pass:** it changes no observation, only how observed wording is
+written, so a second labeller would add nothing.
+
+### Mapping table (count = families)
+
+| Source wording | → Term or `*_other` | Families |
+|---|---|---|
+| `F1960`, `ASTM F1960 Grip™ … PEX fitting system`, `PEX F1960 Expansion` | `PEX expansion` | 3 (640wp02, 643wg2, 687-3ch) |
+| `F1807`, `PEX F1807 Crimp` | `PEX crimp` | 1 (687-3ch) |
+| `Push CTS`, `push fitting`, `Push socket`, `Push (CTS) Socket` | `push-fit` | 2 (605qg2, 687-3ch) |
+| `MSWT`, `FSWT` | `solder` | 1 (643wg2) |
+| `MSWT/Press/Push` | `solder` + `press` + `push-fit` | 1 (687-3ch) |
+| `F1970` / `ASTM F1970 PVC end`, `CPVC`, `CPVC socket`, `F438`, `Socket: CPVC` | `solvent weld` | 3 (643wg2, 687-3ch, 630-c2412) |
+| `MIP`, `FIP`, `FIP-Swvl.` | `NPT` | 3 (643wg2, 687-3ch, 230-2906101) |
+| `Hub`, `2" Sch. 40 hub connection` | `hub` | 1 (821-200anq) |
+| `No-Hub` | `no-hub` | 1 (861-q2286) |
+| `Comp.`, `3/8" Compression` | `compression` | 1 (120-tm3f) |
+| `Closed`, `spun-closed end` | `closed` (already a term) | 1 (630-c2412) |
+| `Slip Joint` | `end_connections_other` | 1 (230-2906101) |
+| `Direct Connect` | `end_connections_other` | 1 (230-2906101) |
+| `Perfect for hydronic heating.` | `hydronic heating` | 1 (523-31) |
+| `other areas that require a sanitary drain` | `sanitary drainage` | 1 (861-q2286) |
+| `residential` / `Residential` | `residential` (already a term) | 2 (525-02, 886-er) |
+| `commercial` | `commercial` (already a term) | 1 (525-02) |
+| `hot and cold water distribution systems` | `applications_other` | 3 (640wp02, 605qg2, 643wg2) |
+| `hot and cold water supply systems` | `applications_other` | 1 (630-c2412) |
+| `cold water supply service`, `Cold water applications only` | `applications_other` | 1 (643wg2) |
+| `radiant heating and cooling` | `applications_other` | 1 (640wp02) |
+| `PEX tube`, `copper tube`, `gas pipe`, `other conduit` | `applications_other` | 1 (523-31) |
+| `valved connection for water heaters` | `applications_other` | 1 (687-3ch) |
+| `fire-rated applications`, `fire-rated walls` | `applications_other` | 1 (687-3ch) |
+| `installations in shower areas`, `tile-floor showers with a waterproofing membrane` | `applications_other` | 1 (821-200anq) |
+| `kitchens`, `restaurants`, `grocery stores`, `hospitals`, `schools` | `applications_other` | 1 (861-q2286) |
+| `safe/tempered water temperatures at the lavatory or other fixture`, `maintain safe water temp and prevent scalding` | `applications_other` | 1 (120-tm3f) |
+
+### cross_check and field changes
+
+| Family.field | Before | After | Why |
+|---|---|---|---|
+| `523-31.applications` | conflict: sheet tube list displayed, page `hydronic heating` in alt_values | `["hydronic heating"]`, page_only, display page | The sheet wording maps to no term (tube/pipe types, not a service), so it is no longer a source for the term; it moves to `applications_other`. The page value is the only term. raw_text changed to the page's `Perfect for hydronic heating.` |
+| `687-3ch.applications` | refines | field removed | No wording maps (water heater connection, fire-rated walls). All three quotes kept in `applications_other`. |
+| `640wp02`, `605qg2`, `630-c2412` `.applications` | pdf_only | field removed | Only "hot and cold water …" / "radiant heating and cooling": no potable/drinking/domestic or hydronic wording. |
+| `643wg2.applications` | agree | field removed | Same: hot/cold and cold water service only. |
+| `821-200anq.applications` | agree | field removed | Shower areas is a location, not `sanitary drainage` or `DWV` wording. |
+| `120-tm3f.applications` | agree | field removed | Tempered water at a fixture names no term. |
+
+Unchanged after re-check: `643wg2.end_connections` stays `agree` (the brass sheet's product list names `MSWT`, `FSWT`, `MIP` and `FIP` adapters, so it covers every page connection); `687-3ch.end_connections` stays `refines` (displayed terms contain the page terms `push-fit`, `NPT`); all other `end_connections` were already `agree` / `page_only` and stay so. No pair of formerly different wordings that now map to the same term was a `conflict`, so no conflict became `agree`.
+Per-value totals: agree 53→50, refines 9→8, conflict 9→8, page_only 20→21, pdf_only 29→26 (120→113 values).
+
+### Judgement calls
+
+| Case | Decision | Proposed SPEC wording |
+|---|---|---|
+| "hot and cold water distribution/supply systems" (4 families) | `applications_other`. Not `potable water` (no potable/drinking) and not `domestic hot water` (no "domestic"). | SPEC 6 "Water alone" rule, plus mapping strictness (added) |
+| `640wp02` "radiant heating and cooling" | `applications_other`. The sheet never says hydronic; mapping it would be inferred from context (glycol note). | Mapping strictness (added) |
+| `523-31` "gas pipe" | `applications_other`: a pipe the clamp holds, not a fuel named (`natural gas` / `propane`). | Mapping strictness (added) |
+| `687-3ch` "fire-rated applications/walls" | `applications_other`: a wall rating, not the `fire protection` service. | Mapping strictness (added) |
+| `821-200anq` hub joined by solvent weld | `hub` only: the connection named is a hub; "connect to DWV pipe via solvent weld joint" is how that same end is joined. | Mapping strictness (added) |
+| `687-3ch` `MSWT/Press/Push` | `solder`, `press` and `push-fit`: the source lists three alternative joining methods for one end. | Mapping strictness (added) |
+| `230-2906101` `Slip Joint`, `Direct Connect` | `end_connections_other`: neither is a listed wording (slip joints are not called compression on the page). | none |
+| Fields whose wording all maps to `*_other` | Field removed from `specs`; wording kept only in `additional_specs`. | Mapping strictness (added) |
+| Terms the evidence supports but no current value carries (e.g. `821-200anq` sheet "connect to DWV pipe") | Not added: this pass maps existing values only; candidate for the next relabel. | none |
+
+### Other SPEC v1.1 checks
+
+- **SPEC 7 `family_prices`:** all 15 families have variants with `login_required` prices, so no family needs `family_prices`. No change.
+- **Single size, material lists, CTS/IPS, overrides:** already applied in the 2026-10-10 relabel; re-checked, no change (6 `643WG2.temperature_range` overrides remain).
+- Variants, images and documents were not re-opened in this pass.
+
+## SPEC changes made
+
+- 2026-10-11, SPEC 6 "Mapping strictness" (own `spec:` commit): map only wording that names a term or its listed wording; no context-derived terms; the named end connection counts, not the joining method described for it in prose; alternatives listed for one end each count; a field with no mappable wording is omitted and its source drops out of `cross_check`.
