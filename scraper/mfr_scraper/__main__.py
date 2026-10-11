@@ -4,6 +4,7 @@
     python -m mfr_scraper run --site <site>                   # full site
     python -m mfr_scraper run --site <site> --url <product-url> # specific pages
     python -m mfr_scraper discover --site <site>              # templates + product URL count only
+    python -m mfr_scraper process --site <site> --links <file> # Approach B: link file (L0 csv / L1 jsonl) -> SiteRun
 
 Sites in the test/challenge splits are held out: running on them requires --allow-holdout,
 which should only be used for final evaluation, never while tuning the scraper.
@@ -23,7 +24,7 @@ def peak_rss_mb():
 
 def main(argv=None):
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
-    ap.add_argument('command', choices=['run', 'discover'])
+    ap.add_argument('command', choices=['run', 'discover', 'process'])
     ap.add_argument('--site', required=True, help='name for outputs; an evaluation site, or any name with --input-url')
     ap.add_argument('--input-url', help="manufacturer homepage (needed for sites not in harness/config/sites.json)")
     ap.add_argument('--use-config-hosts', action='store_true', help='use configured allowed hosts instead of auto-detection')
@@ -31,6 +32,9 @@ def main(argv=None):
     ap.add_argument('--url', action='append', dest='urls', help='process only these product URLs')
     ap.add_argument('--refresh', action='store_true', help='ignore the fetch cache')
     ap.add_argument('--out', default=str(RUNS_DIR))
+    ap.add_argument('--links', help='process: link file, L0 (url,url_type CSV) or L1 (JSONL)')
+    ap.add_argument('--level', choices=['L0', 'L1'], help='process: link file level (default: by extension)')
+    ap.add_argument('--offline', action='store_true', help='process: never request; use only cached responses')
     ap.add_argument('--allow-holdout', action='store_true', help='permit test/challenge sites (final eval only)')
     args = ap.parse_args(argv)
 
@@ -38,6 +42,22 @@ def main(argv=None):
     if split in HOLDOUT_SPLITS and not args.allow_holdout:
         print(f"'{args.site}' is in the {split} split (held out). Use --allow-holdout only for final evaluation.")
         return 2
+
+    if args.command == 'process':
+        if not args.links:
+            ap.error('process needs --links <file>')
+        from .process.run import ProcessRun, write_process_outputs
+        runner = ProcessRun(args.site, args.links, level=args.level, out_dir=args.out, input_url=args.input_url,
+                            refresh=args.refresh, offline=args.offline)
+        run = runner.run()
+        path = write_process_outputs(run, runner.decisions, args.out)
+        print(f'\nwrote {path} and {args.site}.decisions.jsonl')
+        print(json.dumps(run['coverage'], indent=2))
+        print(json.dumps({k: run['run_stats'][k] for k in ('requests', 'cache_hits', 'wall_seconds', 'requests_by_purpose',
+                                                            'blocked_requests', 'unsure_by_kind')}, indent=2))
+        print('parsed-pdf cache:', json.dumps(runner.pdf_cache.stats))
+        print(f'peak memory: {peak_rss_mb():.0f} MB')
+        return 0
 
     runner = SiteRun(args.site, limit=args.limit, only_urls=args.urls, refresh=args.refresh, out_dir=args.out,
                      input_url=args.input_url, use_config_hosts=args.use_config_hosts)

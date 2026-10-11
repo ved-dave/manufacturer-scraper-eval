@@ -105,19 +105,27 @@ def fetch_page(fetcher, url, log):
         soup = P.soup_of(r.text())
         lang = P.html_lang(soup)
         alts = P.hreflang_alternates(soup, r.final_url)
+    return page_rec_from_soup(soup, r.final_url, r.sha256, r.body, lang, alts), None
+
+
+def page_rec_from_soup(soup, final_url, sha, body, lang=None, alts=None):
+    """PageRec from parsed HTML (a fetched page, or an L1 html_snapshot)."""
+    lang = lang if lang is not None else P.html_lang(soup)
+    alts = alts if alts is not None else P.hreflang_alternates(soup, final_url)
+
     text = P.visible_text(soup)
     rec = PageRec(
-        url=r.final_url, name=P.product_name(soup), crumbs=P.breadcrumbs(soup), lang=lang or 'en', alternates=alts,
+        url=final_url, name=P.product_name(soup), crumbs=P.breadcrumbs(soup), lang=lang or 'en', alternates=alts,
         pairs=P.label_value_pairs(soup),
-        doc_links=[(u, t) for u, t in P.links(soup, r.final_url)
+        doc_links=[(u, t) for u, t in P.links(soup, final_url)
                    if A.DOC_EXT.search(u) or A.cad_from_url(u) or re.search(r'\.zip(\?|$)', u, re.I)],
-        image_cands=P.image_candidates(soup, r.final_url), iframes=P.iframes(soup, r.final_url),
-        price=P.price_signals(soup, text), skus=P.product_skus(soup), sha=r.sha256, tables=P.table_rows(soup), text=text,
+        image_cands=P.image_candidates(soup, final_url), iframes=P.iframes(soup, final_url),
+        price=P.price_signals(soup, text), skus=P.product_skus(soup), sha=sha, tables=P.table_rows(soup), text=text,
         retrieved_at=now_iso())
-    rec._body = r.body  # kept for evidence
-    rec._final_host = urlsplit(r.final_url).hostname or ''
-    rec._viewer_links = [u for u, _ in P.links(soup, r.final_url)]
-    return rec, None
+    rec._body = body  # kept for evidence
+    rec._final_host = urlsplit(final_url).hostname or ''
+    rec._viewer_links = [u for u, _ in P.links(soup, final_url)]
+    return rec
 
 
 # ------------------------------------------------------------------ families
@@ -632,7 +640,7 @@ class SiteRun:
                     cands[f] += lst
         specs = {}
         for f in N.SPEC_KINDS:
-            m = merge_field(f, cands.get(f, []))
+            m = self.merge_spec(f, cands.get(f, []))
             if m:
                 if m.pop('_pdf_disagreement', False):
                     self.flag('pdf_vs_pdf_disagreement_kept_spec_sheet', f'{main.url} [{f}]')
@@ -671,6 +679,9 @@ class SiteRun:
         for r in pages:   # page snapshots for evidence (quotes are checked against these)
             self.evidence.save(r.url, r.sha, 'html', r._body, r.text, 'text/html', r.retrieved_at)
         return fam
+
+    def merge_spec(self, fname, cands):
+        return merge_field(fname, cands)
 
     def page_price(self, r):
         pr = dict(r.price)
