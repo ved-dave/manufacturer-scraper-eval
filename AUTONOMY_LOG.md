@@ -393,3 +393,15 @@ first-pass session compares (before/after agreement) and fixes; < 80% before-fix
   water up to 85°C"). Change (general): `specs.applications_from_text` — sheet lines that state a use ("approved
   for", "suitable for", "for use with", "designed for", "applications") mapped to the SPEC 6 vocabulary; only when
   the sheet has no labelled applications value. Tests: `TestApplicationsFromSheetProse` (2).
+
+## 2026-10-11 05:35 · Phase 2 · Round 7 decision: KEPT (merged round/7 = 026d230)
+| metric | bray r6 | bray r7 | crane r6 | crane r7 | macro r6 | macro r7 |
+|---|---|---|---|---|---|---|
+| spec accuracy | 67.1 | 67.1 | 44.4 | 56.2 | 55.8 | 61.7 |
+| completeness | 85.2 | 85.2 | 64.2 | 76.5 | 74.7 | 80.9 |
+| conflict precision | 12.9 | 12.9 | 0 | 20.0 | 6.5 | 16.5 |
+- All other key metrics identical; validation 0 errors; 0 crashes.
+- r10 offline check on cached sheets: Crane 3 labelled families gain the gold value (potable water), 2 get a wrong
+  one ("approved for use in fire protection" on a fittings brochure whose gold lists media); Bray single-door check
+  valve gets "wastewater" (gold: chemical, power, HVAC, marine) and triple-offset sees "vacuum" from "vacuum to
+  high-pressure applications". To be measured, not assumed.
