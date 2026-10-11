@@ -119,6 +119,10 @@ Checked, no change (`case | decision | proposed SPEC wording`):
 - Standards scope, thread/flange standards | 746 already lists "ANSI B1.20.1" (TDS + page "FNPT (ANSI B1.20.1)"); 747nl keeps the page's "complies with ANSI B1.20.1 standards" in alt_values (still a conflict: the TDS does not state it). 778 "Threads: NPT - ANSI B1.20.1" is only in TDS-778, now a `catalog`, which ranks below the page (SPEC 6a), so 778 standards stay the page value. No "formerly" standards. Material designations (ASTM C37700, EN 12165-CW617N, ASTM D 2000/2002, EN 1982-CC7525) are material specs, not product standards, and stay in the material fields | —
 - PN and class: 3739C page "Connection: Drilled Flange PN 16" next to "Max. Static Pressure: 232 PSI" (TDS "Max. static working pressure: 232 PSI") | the PN qualifies the flange drilling, so pressure_rating stays 232 psi (agree) and "Drilled Flange PN 16" stays the end_connections raw_text. TDS-778 "Nominal Pressure: 360 PSI (PN 25)" is in the catalog, which is not a display/cross-check source. No ANSI class designations | written into SPEC 6 (see below)
 
+Second consistency pass (SPEC commit cb6232e, 2026-10-11): 0 changes.
+- SPEC 3 accessory pages | none of the 15 labelled families is an accessory (all are valves/strainers with their own Part Numbers); "Optional Accessories: Temperature Gauge and/or Binder Points" on the 778-series pages names no model identifiers and has no labelled family page, so variants and prices stay as they are and no `family_prices` is added | —
+- SPEC 6 several PNs / class+PN rows | the saved evidence has only two PN designations, each alone in its source: 3739C page "Drilled Flange PN 16" (a flange-only PN, still 232 psi) and TDS-778 "Nominal Pressure: 360 PSI (PN 25)" (catalog, not a display/cross-check source). No source lists several PNs or classes, so no pressure_rating change | —
+
 ## Top 5 ambiguities
 
 1. Lead-free statements "Based on NSF/ANSI 61-2008 Annex G…": `standards` (gold) or additional_specs (blind). SPEC should say whether a "based on / in compliance with" statement counts as a standard.
