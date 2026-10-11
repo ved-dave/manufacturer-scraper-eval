@@ -147,6 +147,29 @@ def product_type_of(name, crumbs, url=''):
     return crumbs[-2].lower() if len(crumbs) >= 2 else None
 
 
+def family_price_page(pages):
+    """The page whose price status a variant-less family reports: the first with a published status, else the main page."""
+    return next((r for r in pages if r.price['availability'] != 'not_published'), pages[0])
+
+
+def accessory_families(families):
+    """SPEC 3: models listed on an accessory page that are variants of another family are not its variants.
+
+    A family whose identifiers are a strict subset of another family's identifiers loses them; its price status
+    moves to family_prices (SPEC 7). Returns the families changed."""
+    sets = [{N.norm_token(v['sku']) for v in f.get('variants') or []} for f in families]
+    changed = []
+    for f, mine in zip(families, sets):
+        if mine and any(mine < other for other in sets):
+            prices = [p for v in f['variants'] for p in v.get('prices') or []]
+            status = next((p for p in prices if p['availability'] != 'not_published'), prices[0] if prices else None)
+            f['variants'] = []
+            if status:
+                f['family_prices'] = [status]
+            changed.append(f)
+    return changed
+
+
 def group_families(recs):
     """Pages that differ only by size tokens under the same parent category form one family."""
     groups = collections.OrderedDict()
@@ -595,18 +618,19 @@ class SiteRun:
         # variants + prices
         variants = []
         for r in pages:
-            skus = r.skus or ([P.path_tail(r.url).upper()] if len(pages) > 1 else [])
+            tail = P.path_tail(r.url).upper()
+            skus = r.skus or ([tail] if len(pages) > 1 and V._is_id(tail) else [])
             for sku in skus:
+                if any(N.norm_token(v['sku']) == N.norm_token(sku) for v in variants):
+                    continue
                 m = SIZE_TOKEN.search(r.name)
                 v = {'sku': sku, 'size': m.group(0).strip() if m else None, 'page_url': r.url, 'prices': [self.page_price(r)]}
                 variants.append(v)
         if not variants:
             variants = self.table_variants(pages, family_docs)
         fam['variants'] = variants
-        if not variants:
-            status = next((r for r in pages if r.price['availability'] != 'not_published'), None)
-            if status:   # SPEC 7: a family without identifiers carries its price status itself
-                fam['family_prices'] = [self.page_price(status)]
+        if not variants:   # SPEC 7: a family without identifiers carries its price status itself, always filled
+            fam['family_prices'] = [self.page_price(family_price_page(pages))]
 
         fam['documents'] = [{k: v for k, v in d.items() if not k.startswith('_')} for d in docs]
         fam['cad'] = cads
@@ -702,6 +726,8 @@ class SiteRun:
             families.append(fam)
             self.log(f'  family {i}/{len(fam_groups)} {fam["family_id"]}: specs={len(fam["specs"])} '
                      f'docs={len(fam["documents"])} cad={len(fam["cad"])} images={len(fam["images"])}')
+        for fam in accessory_families(families):
+            self.flag('accessory_models_not_variants', fam['canonical_url'])
         self.evidence.write_manifest()
 
         def pct(pred):

@@ -374,3 +374,9 @@ first-pass session compares (before/after agreement) and fixes; < 80% before-fix
 - Change (general): `specs.temperature_from_unit_label` — unit from the label, value = the row's leading reading
   extended by bare readings that follow it up to the next range; used on sheets that yielded no other temperature.
   Tests: `TestTemperatureUnitInLabel` (2).
+
+## 2026-10-11 05:21 · Phase 2 · Round 6 decision: KEPT (merged round/6 = 7d3f2d1)
+| metric | bray r5 | bray r6 | crane r5 | crane r6 | macro r5 | macro r6 |
+|---|---|---|---|---|---|---|
+| spec accuracy | 66.3 | 67.1 | 42.2 | 44.4 | 54.3 | 55.8 |
+- All other key metrics identical; validation 0 errors (220 / 23 warnings); 0 crashes. Macro +1.5 >= 1 point.

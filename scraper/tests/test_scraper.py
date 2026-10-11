@@ -342,3 +342,65 @@ class TestPdfCap(unittest.TestCase):
     def test_cap_keeps_multi_datasheet_families(self):
         from mfr_scraper.settings import MAX_PDFS_PER_FAMILY
         self.assertGreaterEqual(MAX_PDFS_PER_FAMILY, 25)
+
+
+class TestVariantHeadingLists(unittest.TestCase):
+    """Round 4: a 'Models' spec label with the identifiers on the next line, comma-separated."""
+    def test_heading_then_list(self):
+        from mfr_scraper import variants as V
+        got = V.from_lines('Size Range\n2" - 24"\nModels\n201, 203, 205, 210\nMaterials')
+        self.assertEqual([s for s, _, _ in got], ['201', '203', '205', '210'])
+
+    def test_same_line_commas(self):
+        from mfr_scraper import variants as V
+        self.assertEqual([s for s, _, _ in V.from_lines('Models: A-10, A-20, A-30')], ['A-10', 'A-20', 'A-30'])
+
+    def test_heading_then_prose_rejected(self):
+        from mfr_scraper import variants as V
+        self.assertEqual(V.from_lines('Models\nSeries 70 and Series 71 actuators'), [])
+        self.assertEqual(V.from_lines('Models\n2, 4'), [])
+
+
+class TestVariantPlaceholders(unittest.TestCase):
+    """Round 4: URL slugs are not identifiers; accessory pages listing another family's models get no variants."""
+    def test_accessory_subset_moved(self):
+        from mfr_scraper.pipeline import accessory_families
+        pr = [{'availability': 'request_quote'}]
+        valve = {'canonical_url': 'v', 'variants': [{'sku': s, 'prices': pr} for s in ('201', '205', '211', '212')]}
+        acc = {'canonical_url': 'a', 'variants': [{'sku': s, 'prices': pr} for s in ('205', '211')]}
+        other = {'canonical_url': 'o', 'variants': [{'sku': 'X-1', 'prices': pr}]}
+        changed = accessory_families([valve, acc, other])
+        self.assertEqual(changed, [acc])
+        self.assertEqual(acc['variants'], [])
+        self.assertEqual(acc['family_prices'], pr)
+        self.assertEqual(len(valve['variants']), 4)
+        self.assertEqual(len(other['variants']), 1)
+
+    def test_slug_is_not_identifier(self):
+        from mfr_scraper import variants as V
+        self.assertFalse(V._is_id('SINGLE-DOOR-CHECK-VALVE'))
+        self.assertFalse(V._is_id('SERIES-752-752HP-KNIFE-GATE-VALVE'))
+        self.assertTrue(V._is_id('FM638'))
+
+
+class TestFamilyPriceAlwaysFilled(unittest.TestCase):
+    """Round 5: SPEC 7 family_prices availability is always filled, including not_published."""
+    def test_not_published_main_page(self):
+        from types import SimpleNamespace as NS
+        from mfr_scraper.pipeline import family_price_page
+        a, b = NS(price={'availability': 'not_published'}), NS(price={'availability': 'not_published'})
+        self.assertIs(family_price_page([a, b]), a)
+        c = NS(price={'availability': 'request_quote'})
+        self.assertIs(family_price_page([a, c]), c)
+
+
+class TestTemperatureRangeUnitOnce(unittest.TestCase):
+    """Round 6: '-10 - 120°C' parsed as max -120 because only the upper bound carries the unit."""
+    def test_ranges(self):
+        from mfr_scraper.specs import parse_temperature as T
+        self.assertEqual(T('-10 - 120°C'), ({'min': -10.0, 'max': 120.0}, 'C'))
+        self.assertEqual(T('-10 to 120°C'), ({'min': -10.0, 'max': 120.0}, 'C'))
+        self.assertEqual(T('10 - 120°C'), ({'min': 10.0, 'max': 120.0}, 'C'))
+        self.assertEqual(T('-20°F to 400°F'), ({'min': -20.0, 'max': 400.0}, 'F'))
+        self.assertEqual(T('5°C to 95°C'), ({'min': 5.0, 'max': 95.0}, 'C'))
+        self.assertEqual(T('Maximum temperature 120°C'), ({'min': None, 'max': 120.0}, 'C'))
