@@ -221,3 +221,12 @@ first-pass session compares (before/after agreement) and fixes; < 80% before-fix
 ## 2026-10-11 03:27 · Consistency pass · cb6232e on Crane and Cimberio
 - `gold/crane-consistency2` (2d171f5) and `gold/cimberio-consistency2` (d356fd9) merged: cb6232e changes nothing
   in either key (log entries only). Validators unchanged (crane 0/15 warnings, cimberio 0/8). Sioux Chief pending.
+
+## 2026-10-11 03:28 · Consistency pass · Sioux Chief merged — Phase 1 + consistency pass complete
+- `gold/sioux-chief-consistency` 068fc93 merged (33c639c); validator 0 errors / 8 warnings (pre-existing sibling-SKU
+  photo pairs); tests OK. Orchestrator did not open the key (held-out). 20 changes: SPEC 3 option suffix lists 2,
+  SPEC 5 classify by content 10 (brochures with ordering tables → catalog), standards spelling 8; others 0; no `spec:`.
+- State of keys: bray (dev/train, 15 labelled), crane (15), cimberio (held-out, 15 labelled of 32), sioux-chief
+  (held-out); apollo and dixon blocked (no keys); milwaukee and caleffi have no keys in this repo (no labeller task for
+  them in AUTONOMOUS_RUN Phase 1), so the Phase 4 final test covers sioux-chief and cimberio.
+- Every gold file now follows every SPEC paragraph added in this run.
