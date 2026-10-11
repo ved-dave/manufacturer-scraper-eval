@@ -326,6 +326,18 @@ def pdf_candidates(doc, kind):
                 out[fld].append({'kind': kind, 'value': v, 'unit': unit, 'conditions': cond, 'raw': cells[1],
                                  'source': _spec_source(kind, doc['url'], line, doc['sha256'], doc['_retrieved_at'],
                                                         page=pg, section=cells[0])})
+    if kind == 'sheet' and 'sizes_available' not in out:
+        found = S.sizes_from_tables(doc.get('_tables', []))
+        if found:
+            sizes, unit, pg, quote = found
+            src = _spec_source(kind, doc['url'], quote, doc['sha256'], doc['_retrieved_at'], page=pg, section='size table')
+            vals = sorted(sizes, key=N.parse_size)
+            rng = {'min': vals[0], 'max': vals[-1]}
+            out['sizes_available'].append({'kind': kind, 'value': sizes, 'unit': unit, 'conditions': None, 'raw': quote, 'source': src})
+            if 'size_range' not in out:
+                out['size_range'].append({'kind': kind, 'value': rng, 'unit': unit, 'conditions': None, 'raw': quote, 'source': src})
+                if unit:
+                    out['size_unit'].append({'kind': kind, 'value': unit, 'unit': None, 'conditions': None, 'raw': quote, 'source': src})
     if kind == 'sheet':
         for f, hits in S.scan_text_for_lists(doc['_text']).items():
             if f in out:
