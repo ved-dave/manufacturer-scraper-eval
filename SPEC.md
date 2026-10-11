@@ -160,6 +160,12 @@ no longer a source for the field, and `cross_check` follows the remaining source
 
 **Single size.** A family available in one size records `size_range` with `min` = `max`.
 
+**Standards scope (decided 2026-10-11).** `standards` lists every standard the source says the product conforms to
+or is designed, tested, threaded, drilled or flanged to (e.g. BS EN 593, BS 7350, BS EN 10226-2, ISO 7-1, ISO 228,
+BS EN 1092-2, ANSI B16.1), one entry per standard number as written (year and part suffixes as given). Standards
+named only as "formerly ..." and test standards of other products are not listed. Thread or flange standards are
+recorded here in addition to the `end_connections` term.
+
 **PN and class designations (decided 2026-10-11).** A PN designation (PN16, PN25) is recorded as
 `pressure_rating` value = the PN number, unit `bar`, `raw_text` the designation. When a source gives only a class
 (e.g. ANSI 125) and the same sheet has a pressure/temperature table in bar or psi, the value is the table's maximum
