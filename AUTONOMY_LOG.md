@@ -309,3 +309,8 @@ first-pass session compares (before/after agreement) and fixes; < 80% before-fix
 - Change (general): `specs.sizes_from_tables` reads the first table on a sheet whose first header cell is a size
   heading, collecting each size token of the first column until a non-size row; unit from the heading. Emitted as a
   sheet candidate for sizes_available (and size_range/size_unit if absent). Tests: `TestSizeColumnTables` (2).
+
+## 2026-10-11 04:39 · Phase 2 · Round 5 Bray result (cold cache)
+- Bray r5 (r3+r4+r5, pages re-fetched after the cache incident): identical key metrics to r4b — so the re-fetch did
+  not shift Bray scores, and r5 has no effect on Bray (its not_published family statuses are already scored via
+  variants/family_prices). Validation 0 errors / 23 warnings, 0 crashes.
