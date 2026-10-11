@@ -203,3 +203,8 @@ first-pass session compares (before/after agreement) and fixes; < 80% before-fix
 - Problem: my earlier HARNESS_ISSUES.md conflict resolution (apollo merge) left diff3 base-marker lines
   `||||||| e34e4bf`; my sed removed only <<<<<<< / ======= / >>>>>>>. Removed them now; future conflict resolutions
   also strip `|||||||` lines.
+
+## 2026-10-11 03:24 · Consistency pass · Crane merged
+- `gold/crane-consistency` 6848b24 merged; validator 0 errors / 15 warnings (unchanged); tests OK. Standards spelling
+  (878f517): 8 changes in 7 families (e.g. `ISO 228` → `ISO-228` as printed), no cross_check change; flange-only PN
+  (aecaeb9): 0. The large crane.json line diff is re-serialisation; the parsed JSON differs only in the logged values.
