@@ -381,3 +381,14 @@ class TestVariantPlaceholders(unittest.TestCase):
         self.assertFalse(V._is_id('SINGLE-DOOR-CHECK-VALVE'))
         self.assertFalse(V._is_id('SERIES-752-752HP-KNIFE-GATE-VALVE'))
         self.assertTrue(V._is_id('FM638'))
+
+
+class TestFamilyPriceAlwaysFilled(unittest.TestCase):
+    """Round 5: SPEC 7 family_prices availability is always filled, including not_published."""
+    def test_not_published_main_page(self):
+        from types import SimpleNamespace as NS
+        from mfr_scraper.pipeline import family_price_page
+        a, b = NS(price={'availability': 'not_published'}), NS(price={'availability': 'not_published'})
+        self.assertIs(family_price_page([a, b]), a)
+        c = NS(price={'availability': 'request_quote'})
+        self.assertIs(family_price_page([a, c]), c)

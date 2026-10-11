@@ -147,6 +147,11 @@ def product_type_of(name, crumbs, url=''):
     return crumbs[-2].lower() if len(crumbs) >= 2 else None
 
 
+def family_price_page(pages):
+    """The page whose price status a variant-less family reports: the first with a published status, else the main page."""
+    return next((r for r in pages if r.price['availability'] != 'not_published'), pages[0])
+
+
 def accessory_families(families):
     """SPEC 3: models listed on an accessory page that are variants of another family are not its variants.
 
@@ -156,7 +161,8 @@ def accessory_families(families):
     changed = []
     for f, mine in zip(families, sets):
         if mine and any(mine < other for other in sets):
-            status = next((p for v in f['variants'] for p in v.get('prices') or [] if p['availability'] != 'not_published'), None)
+            prices = [p for v in f['variants'] for p in v.get('prices') or []]
+            status = next((p for p in prices if p['availability'] != 'not_published'), prices[0] if prices else None)
             f['variants'] = []
             if status:
                 f['family_prices'] = [status]
@@ -623,10 +629,8 @@ class SiteRun:
         if not variants:
             variants = self.table_variants(pages, family_docs)
         fam['variants'] = variants
-        if not variants:
-            status = next((r for r in pages if r.price['availability'] != 'not_published'), None)
-            if status:   # SPEC 7: a family without identifiers carries its price status itself
-                fam['family_prices'] = [self.page_price(status)]
+        if not variants:   # SPEC 7: a family without identifiers carries its price status itself, always filled
+            fam['family_prices'] = [self.page_price(family_price_page(pages))]
 
         fam['documents'] = [{k: v for k, v in d.items() if not k.startswith('_')} for d in docs]
         fam['cad'] = cads
