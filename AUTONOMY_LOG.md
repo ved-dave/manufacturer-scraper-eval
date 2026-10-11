@@ -366,3 +366,11 @@ first-pass session compares (before/after agreement) and fixes; < 80% before-fix
   verified `git diff round/7 -- scraper` is empty and tests pass. No run used the damaged tree (bray r7 had
   finished before the merge). Procedure changed: candidates live only on round/N branches/worktrees; after each merge
   the main tree is re-synced from the newest round branch and diffed against it.
+
+## 2026-10-11 05:11 · Phase 2 · Round 9 hypothesis (round/9 in ~/wt-r9, stacked on r8)
+- Gap: crane temperature_range accuracy 15%; 6 of 13 labelled families have no prediction. Their sheets give the
+  rating only as a pressure/temperature row whose unit is in the label ("TEMPERATURE (°C) -10 to 120 -10 to 82",
+  "MAX TEMPERATURE (°C) -10 to 100"), which the label:value parser can't parse (no unit on the value).
+- Change (general): `specs.temperature_from_unit_label` — unit from the label, value = the row's leading reading
+  extended by bare readings that follow it up to the next range; used on sheets that yielded no other temperature.
+  Tests: `TestTemperatureUnitInLabel` (2).
