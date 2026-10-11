@@ -30,6 +30,7 @@ Most issues from the first pass were adopted on `main` (robots override, `refine
 4. **Variant prices come from a price-list PDF, not the product page.** Product pages show only "Request a Quote". Exact Cim No. rows in the linked List Price Book give a public `list` price (`availability=price_shown`, source = PDF page quote). SPEC 7 does not say which wins when the product page says request-a-quote but a public list price book prices the same SKU. Gold uses the price book, because it is a published price with an exact identifier match.
 5. **SPEC 5 page-count rule vs one-family technical data sheets.** TechDataSheet-778_v5 is titled "Technical Data Sheet" but is 8 pages and covers 14 models, so rule 2 makes it a `catalog`. That moves it below the product page in SPEC 6a precedence, and its values no longer take part in the cross-check.
 
+6. **Consistency pass (2026-10-11).** Two SPEC 6 clarifications added (`spec:` commits): standards spelling-only differences, and flange-only PN designations vs a stated working pressure. No harness or allowed_hosts change. Note: this file contains a stray merge-base marker line `||||||| e34e4bf` after the crane blind re-label section (left as is).
 
 ## crane (gold labelling, 2026-10-11)
 
