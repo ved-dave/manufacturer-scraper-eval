@@ -17781,9 +17781,9 @@
      "alt_values": [
       {
        "value": [
-        "ASTM F1960",
-        "ASTM F877",
-        "CSA B137.5"
+        "ASTM - F1960",
+        "ASTM - F877",
+        "CSA - B137.5"
        ],
        "unit": null,
        "raw_text": "ASTM - F1960, CSA - B137.5, ASTM - F877",
@@ -19756,8 +19756,8 @@
      "value": [
       "ASTM F1960",
       "ASTM F1970",
-      "ASTM D2846",
-      "CSA B137.6",
+      "ASTM - D2846",
+      "CSA - B137.6",
       "ASTM F438"
      ],
      "unit": null,
@@ -19856,8 +19856,8 @@
      "alt_values": [
       {
        "value": [
-        "ASTM F1960",
-        "CSA B137.5"
+        "ASTM - F1960",
+        "CSA - B137.5"
        ],
        "unit": null,
        "raw_text": "ASTM - F1960, CSA - B137.5",
@@ -21654,7 +21654,7 @@
     },
     "standards": {
      "value": [
-      "IAPMO PS 42"
+      "IAPMO PS - 42"
      ],
      "unit": null,
      "raw_text": "IAPMO PS - 42",
@@ -21822,7 +21822,7 @@
    "documents": [
     {
      "url": "https://cdn.siouxchief.com/prodscmwebsite/Brochures/SIMPLESTRAP - STUB OUT CLAMP - BROCHURE.PDF",
-     "doc_type": "brochure",
+     "doc_type": "catalog",
      "priority": "secondary",
      "lang": "en",
      "title": "SimpleStrap stub out clamp brochure",
@@ -22778,9 +22778,9 @@
      "alt_values": [
       {
        "value": [
-        "IAPMO PS 54",
-        "ASTM E814",
-        "CAN/ULC S115"
+        "IAPMO PS - 54",
+        "ASTM - E814",
+        "CAN/ULC - S115"
        ],
        "unit": null,
        "raw_text": "IAPMO PS - 54, ASTM - E814, CAN/ULC - S115",
@@ -23080,7 +23080,7 @@
    "documents": [
     {
      "url": "https://cdn.siouxchief.com/prodscmwebsite/Brochures/SERVICE BOX - WATER SERVICE SYSTEM - BROCHURE.PDF",
-     "doc_type": "brochure",
+     "doc_type": "catalog",
      "priority": "secondary",
      "lang": "en",
      "title": "ServiceBox water service system brochure",
@@ -23457,8 +23457,8 @@
     },
     "standards": {
      "value": [
-      "ASTM D2846",
-      "CSA B137.6"
+      "ASTM - D2846",
+      "CSA - B137.6"
      ],
      "unit": null,
      "raw_text": "ASTM - D2846, CSA - B137.6",
@@ -23957,7 +23957,7 @@
    "documents": [
     {
      "url": "https://cdn.siouxchief.com/prodscmwebsite/Brochures/CLOSET FLANGES - BROCHURE.PDF",
-     "doc_type": "brochure",
+     "doc_type": "catalog",
      "priority": "secondary",
      "lang": "en",
      "title": "Closet flanges brochure",
@@ -24484,7 +24484,7 @@
    "documents": [
     {
      "url": "https://cdn.siouxchief.com/prodscmwebsite/Brochures/SHOWER DRAINS - BROCHURE.PDF",
-     "doc_type": "brochure",
+     "doc_type": "catalog",
      "priority": "secondary",
      "lang": "en",
      "title": "Shower drains brochure",
@@ -24785,7 +24785,16 @@
    "additional_specs": {
     "strainer_load_rating": "2,000 lbs. (full strainer)",
     "strainer_free_area": "16.91 in2 (full strainer)",
-    "shape": "Round"
+    "shape": "Round",
+    "options": [
+     "V = Vandal-Resistant Strainer",
+     "T = Tapped Trap Primer Connection - 1/2\" FIP",
+     "S = Sand Bucket",
+     "U = Stainless Steel Debris Basket for Sump Area",
+     "2 = Open-Half Strainer",
+     "3 = Open-Quarter Strainer",
+     "X = Less Strainer"
+    ]
    },
    "spec_source_summary": "both",
    "variants": [
@@ -25153,8 +25162,8 @@
      "alt_values": [
       {
        "value": [
-        "ASME A112.6.7",
-        "CSA B79.7"
+        "ASME - A112.6.7",
+        "CSA - B79.7"
        ],
        "unit": null,
        "raw_text": "ASME - A112.6.7, CSA - B79.7",
@@ -25503,6 +25512,14 @@
      "grocery stores",
      "hospitals",
      "schools"
+    ],
+    "options": [
+     "2 = Open-Half Grate (1)",
+     "3 = Open-Quarter Grate (1)",
+     "B = Aluminum Bucket",
+     "C = Clamping Collar (2)",
+     "T = 1/2\" Trap Primer Connection",
+     "1 : For sinks with grates only. 2 : For sinks with anchor flange."
     ]
    },
    "spec_source_summary": "both",
@@ -27914,7 +27931,7 @@
    "documents": [
     {
      "url": "https://cdn.siouxchief.com/prodscmwebsite/Brochures/TRENCH DRAIN OVERVIEW - CATCH BASINS.PDF",
-     "doc_type": "brochure",
+     "doc_type": "catalog",
      "priority": "secondary",
      "lang": "en",
      "title": "Trench Drain Overview - Catch Basins",
@@ -27928,7 +27945,7 @@
     },
     {
      "url": "https://cdn.siouxchief.com/prodscmwebsite/Brochures/TRENCH DRAIN OVERVIEW - MAXI SYSTEM.PDF",
-     "doc_type": "brochure",
+     "doc_type": "catalog",
      "priority": "secondary",
      "lang": "en",
      "title": "Trench Drain Overview - Maxi System",
@@ -27942,7 +27959,7 @@
     },
     {
      "url": "https://cdn.siouxchief.com/prodscmwebsite/Brochures/HYDROTEC - MAXI SYSTEM - BROCHURE.PDF",
-     "doc_type": "brochure",
+     "doc_type": "catalog",
      "priority": "secondary",
      "lang": "en",
      "title": "Hydrotec - Maxi System - Brochure",
@@ -27956,7 +27973,7 @@
     },
     {
      "url": "https://cdn.siouxchief.com/prodscmwebsite/Brochures/TRENCH DRAINS BROCHURE.PDF",
-     "doc_type": "brochure",
+     "doc_type": "catalog",
      "priority": "secondary",
      "lang": "en",
      "title": "Trench Drains Brochure",
@@ -28124,7 +28141,7 @@
     },
     {
      "url": "https://cdn.siouxchief.com/prodscmwebsite/Brochures/HYDROTEC - MAXI INSTALLATION BRACKET.PDF",
-     "doc_type": "brochure",
+     "doc_type": "catalog",
      "priority": "secondary",
      "lang": "en",
      "title": "Hydrotec - Maxi Installation Bracket",
@@ -29114,7 +29131,7 @@
     },
     "standards": {
      "value": [
-      "ASTM F409"
+      "ASTM - F409"
      ],
      "unit": null,
      "raw_text": "ASTM - F409",
@@ -29928,7 +29945,7 @@
    "documents": [
     {
      "url": "https://cdn.siouxchief.com/prodscmwebsite/Brochures/THERMOSTATIC MIXING VALVE - BROCHURE.PDF",
-     "doc_type": "brochure",
+     "doc_type": "catalog",
      "priority": "secondary",
      "lang": "en",
      "title": "Thermostatic mixing valve brochure",
