@@ -153,3 +153,32 @@ first-pass session compares (before/after agreement) and fixes; < 80% before-fix
   (punctuation/word order only; gold copies sheet wording); standards 1/6 (Annex G statement).
 - Spec-field agreement ≥ 80%, so no SPEC clarification round. Labeller's top ambiguity "price-list PDF price vs
   Request a Quote on the page" is recorded for REPORT.md.
+
+## 2026-10-11 03:19 · Phase 1 · Apollo blocked — no answer key
+- Labeller 1501569f… (02:31–03:15 UTC, ≤ 1 req/s): every URL on aalberts-ips.us incl. robots.txt and sitemap.xml returns
+  a LiteSpeed reCAPTCHA "Bot Verification" page, for the descriptive-UA client and the VM's normal Chrome alike;
+  aalberts.compano.com root redirects to a Compano login. No challenge solved, no archives/distributor copies (rule).
+- Decision: no apollo.json (an empty key fails `validate --gold` and would make Apollo look scorable). Treated like
+  Dixon. Branch `gold/apollo-auto` merged for the record (block evidence text, brand rule, sample script,
+  HARNESS_ISSUES; conflict in HARNESS_ISSUES.md resolved by keeping both sections).
+- Consequence: the dev sites with keys for Phase 2 are Bray and Crane.
+
+## 2026-10-11 03:19 · Phase 1 · Crane key final (blind compared) — merged
+- `gold/crane-auto` ad64c1f merged (26084e5); validator 0 errors / 15 warnings (UK `market_flag`); tests OK.
+- Blind agreement (BEFORE blind vs e78609d → AFTER vs ad64c1f): family spec fields 50/64 (78%) → 60/63 (95%);
+  documents found 20/29 → 29/29; images 1/33 → 17/17; doc_type 100%; variants 10/10; cross_check 82% → 92%.
+- Below 80% before fixes; root cause `standards` (0/6: conformance-only vs incl. thread/flange standards) → SPEC
+  clarified (48ccaa4), `standards` re-labelled in all 15 families, re-measured once (95%).
+- SPEC changes: SPEC 3 option codes are not variants; parallel BSP threads (G, ISO 228, BS 2779) → `threaded`;
+  standards scope; PN/class designations. Images were 1/33 because the first pass used unlinked originals — fixed by
+  the SPEC 4 "use only image URLs the page links" rule. bimstore.co(.uk) added as CAD-viewer hosts (account-gated BIM).
+
+## 2026-10-11 03:19 · Consistency pass launched (every gold file follows every SPEC change)
+- Three labeller sessions — bray 9a49e8a2…, sioux-chief 6e24e99f…, cimberio c47e5409… — branches
+  `gold/<site>-consistency`: apply SPEC 3 option codes, SPEC 4 image edge cases, SPEC 5 classify by content, SPEC 6
+  strictness/threads/standards/PN, SPEC 7 family_prices, logging every change. Crane already follows all of them.
+
+## 2026-10-11 03:19 · Phase 2 · Round 2 Bray result; Crane being added
+- Bray r1 → r2: variant recall 0 → 21.4, price availability 0 → 53.8; every other key metric unchanged; validation
+  0 errors; 0 crashes. Crane baseline (r1 code, separate worktree, shared cache) running, then r2 code on Crane,
+  before the keep/revert decision (the rule needs every dev site with a key).
