@@ -178,6 +178,14 @@ class TestImageRules(unittest.TestCase):
         self.assertTrue(DIMENSION_WORDS.search('dimension diagram'))
 
 
+class TestDocRules(unittest.TestCase):
+    def test_recommended_specs_is_not_a_related_section(self):   # bray round 4
+        from mfr_scraper.process.run import RELATED_SECTION
+        self.assertFalse(RELATED_SECTION.search('Recommended Specs'))
+        self.assertTrue(RELATED_SECTION.search('Recommended Products'))
+        self.assertTrue(RELATED_SECTION.search('Related Products'))
+
+
 class TestGrouping(unittest.TestCase):
     def rec(self, url, name, crumbs, docs=(), tables=()):
         from mfr_scraper.pipeline import PageRec

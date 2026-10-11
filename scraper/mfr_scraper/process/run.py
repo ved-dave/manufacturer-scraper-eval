@@ -27,7 +27,7 @@ from .context import canonical_of, link_context
 from .fetching import AssetPrefetcher, HostQueueFetcher
 from .readers import read_links
 
-RELATED_SECTION = re.compile(r'related|similar|you may also|also like|accessor|recommended|other products|compare|'
+RELATED_SECTION = re.compile(r'related|similar|you may also|also like|accessor|recommended (?:products|items|for)|other products|compare|'
                              r'popular|recently viewed|customers also', re.I)
 CHART_IMAGE = re.compile(r'chart|graph|curve|(pressure|temp\w*|flow|loss|performance)[\s_-]*diagram', re.I)
 DIMENSION_WORDS = re.compile(r'dimension|drawing|\bdims?\b', re.I)
@@ -297,6 +297,9 @@ class ProcessRun(SiteRun):
                                 {'quote': 'file name and link text do not name the family', 'source': url}],
                                'link is in a related-products section; it may describe another product', 'drop')
         if fam_count >= 2 and not named:
+            if kind == 'document' and fam_count > shared_limit:
+                return self.decide('asset', 'keep', f'shared by {fam_count} families but linked from this family\'s page content'
+                                   + (f' (section "{section}")' if section else ''), url=url, candidate=cand)
             if fam_count > shared_limit:
                 return self.decide('asset', 'drop', f'shared by {fam_count} families and names none of them', url=url, candidate=cand)
             return self.unsure('asset_to_family', f'Does this {kind} belong to {self._cur["name"]}?', cand,
@@ -425,7 +428,7 @@ class ProcessRun(SiteRun):
             name = _filename(url)
             if A.CHROME_IMAGE.search(name) or A.CHROME_IMAGE.search(alt):
                 if not self.names_family(name, alt) or self.names_other(name, alt):
-                    self.decide('asset', 'drop', 'logo/icon/banner-like image name or alt text', url=url)
+                    self.decide('asset', 'drop', 'logo/icon/banner-like image name or alt text', url=url, alt=alt)
                     continue
             if (CHART_IMAGE.search(name) or CHART_IMAGE.search(alt)) and not DIMENSION_WORDS.search(name + ' ' + alt):
                 self.decide('asset', 'drop', 'chart / graph image (performance data), not a product view (SPEC 4)', url=url)
