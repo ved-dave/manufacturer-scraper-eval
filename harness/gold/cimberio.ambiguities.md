@@ -94,6 +94,31 @@ Per disagreement (source re-checked each time):
 - **SPEC 6 Mapping strictness.** 747nl and 747prsnl `applications` removed ("heating (LPHW)" / "heating" / "cooling" go to applications_other). These stay as they are because the source names the term: 30xlc/80prs `commercial` ("commercial plumbing"), `compressed air`; 74prsnl `residential`, `industrial`; 746/3739c `HVAC`; 778 series `domestic hot water`; 746 end_connections `NPT`, `solder`, `press` (alternatives "FNPT / CC (SWT) / Press"). 1220nl already had no applications.
 - **SPEC 4 Image edge cases.** No change. Every image URL is a `/stencil/original/` link that the family page itself references (gallery anchors). No annotated/clean pairs or option collages. Charts stay excluded because their meaning is carried by axis labels and legends.
 
+## Consistency pass (SPEC changes of 2026-10-11)
+
+Checked all 15 labelled families against the saved evidence text (pages, TDS, SpecificationsV2, TDS-778 catalog, price book) for SPEC 3 option codes, SPEC 6 BSPT/threaded, Standards scope and PN/class. The live site was not needed (every value is in the saved evidence). SPEC 4, 5, 6 "Mapping strictness" and 7 were already applied (see the section above). Re-checked here with no change: all images are `/stencil/original/` URLs the pages link; doc_types unchanged; all 15 families have variants, so no `family_prices`.
+
+Changes (`family | field | before -> after | paragraph`):
+- 30xlc | standards value (TDS) | "MSS SP-110" -> "MSS-SP-110" | SPEC 6 Standards scope ("as written"; TDS: "MSS-SP-110")
+- 30xlc | standards alt_values (page) | "MSS SP-110", "PS117-2004" -> "MSS-SP-110", "PS1172004" | SPEC 6 Standards scope (page: "MSS-SP-110, PS1172004")
+- 80prs | standards value (TDS) | "MSS SP-110" -> "MSS-SP-110" | SPEC 6 Standards scope
+- 80prs | standards alt_values (page) | "MSS SP-110", "PS117-2004" -> "MSS-SP-110", "PS1172004" | SPEC 6 Standards scope (page: "MSS-SP-110, PS1172004")
+- 747prsnl | standards value (TDS) | "MSS SP-110" -> "MSS-SP-110" | SPEC 6 Standards scope
+- 747nl | standards value (TDS) | "MSS SP-110" -> "MSS-SP-110" | SPEC 6 Standards scope
+- 1220nl | standards value (TDS) | "MSS SP-110" -> "MSS-SP-110" | SPEC 6 Standards scope
+- 1220nl | standards alt_values (page) | "MSS SP-110" -> "MSS-SP-110" | SPEC 6 Standards scope (page: "Conforms to MSS-SP-110")
+- 74prsnl | standards value (TDS) | "MSS SP-110" -> "MSS-SP-110" | SPEC 6 Standards scope
+- 74prsnl | standards alt_values (page) | "MSS SP-110" -> "MSS-SP-110" | SPEC 6 Standards scope
+
+cross_check values are unchanged (spelling-only differences are the same standard; `spec:` commit below).
+
+Checked, no change (`case | decision | proposed SPEC wording`):
+- SPEC 3 option codes: TDS-778 (catalog) "Model Selection" chart builds Cim Nos. from 778/778P + V / S / C / W + size | every combination it names (778P, 778PV, 778PVC, 778PVW, 778PVS, 778PVWS, 778PVCS, 778V, 778VC, 778VW, 778VS, 778VCS, 778VWS) has its own product page in the sitemap, so these identifiers belong to those families (SPEC 3 last sentence) and the letters are not options of 778; no `additional_specs.options` added. All 15 families' variants are the page "Part Numbers" identifiers (also in their own TDS tables); no suffix/option codes found in any page or sheet. "CIM 30XLC.1" appears once in 30XLC page prose, in no table or selector: not a variant, not an option code | —
+- 3739C "available with ANSI or DIN flanges" (page + TDS) | no codes, so it stays in `additional_specs.flange_options`; no standard number is given, so nothing is added to `standards` | —
+- SPEC 6 BSPT vs threaded | no Cimberio source names BSP, G, ISO 228, BS 2779, R/Rc or ISO 7-1; NPT families stay `NPT` | —
+- Standards scope, thread/flange standards | 746 already lists "ANSI B1.20.1" (TDS + page "FNPT (ANSI B1.20.1)"); 747nl keeps the page's "complies with ANSI B1.20.1 standards" in alt_values (still a conflict: the TDS does not state it). 778 "Threads: NPT - ANSI B1.20.1" is only in TDS-778, now a `catalog`, which ranks below the page (SPEC 6a), so 778 standards stay the page value. No "formerly" standards. Material designations (ASTM C37700, EN 12165-CW617N, ASTM D 2000/2002, EN 1982-CC7525) are material specs, not product standards, and stay in the material fields | —
+- PN and class: 3739C page "Connection: Drilled Flange PN 16" next to "Max. Static Pressure: 232 PSI" (TDS "Max. static working pressure: 232 PSI") | the PN qualifies the flange drilling, so pressure_rating stays 232 psi (agree) and "Drilled Flange PN 16" stays the end_connections raw_text. TDS-778 "Nominal Pressure: 360 PSI (PN 25)" is in the catalog, which is not a display/cross-check source. No ANSI class designations | written into SPEC 6 (see below)
+
 ## Top 5 ambiguities
 
 1. Lead-free statements "Based on NSF/ANSI 61-2008 Annex G…": `standards` (gold) or additional_specs (blind). SPEC should say whether a "based on / in compliance with" statement counts as a standard.
@@ -105,3 +130,7 @@ Per disagreement (source re-checked each time):
 ## SPEC changes made
 
 None by this labeller. (Applied the orchestrator's 2026-10-11 SPEC 4/5/6 paragraphs; see above.)
+
+Consistency pass (2026-10-11):
+- `spec:` SPEC 6 Standards scope: spelling-only differences (spaces, hyphens: `MSS SP-110` / `MSS-SP-110`, `PS117-2004` / `PS1172004`) are the same standard; each source's list keeps its own spelling and `cross_check` compares them as equal. Reason: "as written" would otherwise turn a dropped hyphen on a page into a `conflict`.
+- `spec:` SPEC 6 PN and class: a PN that only qualifies a connection ("Drilled Flange PN 16") is a flange-drilling detail kept in the `end_connections` raw_text; when the same source states a working/maximum pressure, that pressure is the `pressure_rating`. Reason: the stated working pressure is what a builder compares, and both labellers find the same line. Other sites' gold files: the orchestrator should check flange-only PN designations.

@@ -928,7 +928,7 @@
     },
     "standards": {
      "value": [
-      "MSS SP-110",
+      "MSS-SP-110",
       "PS117-2004",
       "EN ISO 9001",
       "ISO 5208",
@@ -968,8 +968,8 @@
      "alt_values": [
       {
        "value": [
-        "MSS SP-110",
-        "PS117-2004",
+        "MSS-SP-110",
+        "PS1172004",
         "EN ISO 9001",
         "ISO 5208"
        ],
@@ -3726,7 +3726,7 @@
     },
     "standards": {
      "value": [
-      "MSS SP-110",
+      "MSS-SP-110",
       "PS117-2004",
       "EN ISO 9001",
       "ISO 5208",
@@ -3766,8 +3766,8 @@
      "alt_values": [
       {
        "value": [
-        "MSS SP-110",
-        "PS117-2004",
+        "MSS-SP-110",
+        "PS1172004",
         "EN ISO 9001",
         "ISO 5208"
        ],
@@ -4274,7 +4274,7 @@
     },
     "standards": {
      "value": [
-      "MSS SP-110",
+      "MSS-SP-110",
       "PS117-2004",
       "EN ISO 9001",
       "ISO 5208",
@@ -5629,7 +5629,7 @@
     },
     "standards": {
      "value": [
-      "MSS SP-110",
+      "MSS-SP-110",
       "PS117-2004",
       "EN ISO 9001",
       "ISO 5208",
@@ -6171,7 +6171,7 @@
     },
     "standards": {
      "value": [
-      "MSS SP-110",
+      "MSS-SP-110",
       "PS117-2004",
       "EN ISO 9001",
       "ISO 5208",
@@ -6211,7 +6211,7 @@
      "alt_values": [
       {
        "value": [
-        "MSS SP-110",
+        "MSS-SP-110",
         "NSF/ANSI 61-2008 Annex G"
        ],
        "sources": [
@@ -7289,7 +7289,7 @@
     },
     "standards": {
      "value": [
-      "MSS SP-110",
+      "MSS-SP-110",
       "PS117-2004",
       "EN ISO 9001",
       "ISO 5208",
@@ -7329,7 +7329,7 @@
      "alt_values": [
       {
        "value": [
-        "MSS SP-110",
+        "MSS-SP-110",
         "PS117-2004",
         "EN ISO 9001",
         "ISO 5208"
