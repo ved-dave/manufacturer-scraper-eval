@@ -230,3 +230,10 @@ first-pass session compares (before/after agreement) and fixes; < 80% before-fix
   (held-out); apollo and dixon blocked (no keys); milwaukee and caleffi have no keys in this repo (no labeller task for
   them in AUTONOMOUS_RUN Phase 1), so the Phase 4 final test covers sioux-chief and cimberio.
 - Every gold file now follows every SPEC paragraph added in this run.
+
+## 2026-10-11 03:37 · Phase 2 · Round 3 Bray result (Crane pending)
+- Bray r2 → r3 (cap 10 → 30): primary doc recall 61.0 → 92.7 (precision 100), specs 65.6 → 66.3, completeness
+  84.4 → 85.2, conflict precision 10.7 → 12.9; other metrics unchanged; validation 0 errors; 0 crashes;
+  `pdf_cap_reached` no longer fires. doc_type accuracy 76 → 79.
+- Still missing: single-door check-valve variants (8 gold identifiers) are not extracted even though its datasheets are
+  now fetched → next variant hypothesis.
