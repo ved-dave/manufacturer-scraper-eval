@@ -262,3 +262,16 @@ first-pass session compares (before/after agreement) and fixes; < 80% before-fix
   chars), duplicates within a family are dropped; post-pass `accessory_families`: a family whose identifiers are a
   strict subset of another family's loses them and keeps its price status in `family_prices`. Tests:
   `TestVariantPlaceholders` (2). Re-running Bray as r4b.
+
+## 2026-10-11 04:08 · Phase 2 · Round 2 decision: KEPT (merged round/2 → a0ecc22)
+| metric | bray r1 | bray r2 | crane r1 | crane r2 | macro r1 | macro r2 |
+|---|---|---|---|---|---|---|
+| variant recall | 0 | 27.3 | 0 | 22.2 | 0 | 24.7 |
+| price availability | 0 | 62.5 | 0 | 16.2 | 0 | 39.4 |
+| all other key metrics | = | = | = | = | = | = |
+- Macro gain ≫ 1 point, no metric dropped on either site, validation 0 errors (crane 220 warnings, bray 23),
+  0 crashes, 36 tests OK incl. generality. Crane r2 variant precision 46% (D103B tables over-collect codes of the
+  sibling cast-iron family) and crane variant-less families have no `family_prices` (gold: `not_published`) —
+  logged as next gaps. Apollo: no key (blocked), so dev = bray + crane.
+- Bray r4b (r3 + reworked r4): variant recall 27.3 → 100 (precision 100), price availability 62.5 → 95.8, others
+  unchanged. Awaiting crane r3/r4b before deciding r3 and r4.
