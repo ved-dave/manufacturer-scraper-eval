@@ -245,13 +245,13 @@
      "cross_check": "agree",
      "sources": [
       {
-       "url": "https://cimberiovalve.us/content/TechDataSheet-778_v5.pdf",
+       "url": "https://cimberiovalve.us/content/Cim%20778%20SpecificationsV2.pdf",
        "type": "pdf",
-       "page": 4,
-       "section": "Popular Models",
-       "quote": "1/2\" 778V-04 with Ball Valves (2) 3/4\" 778V-06 with Ball Valves (2) 1\" 778V-07",
-       "snapshot_sha256": "3f9f77ae024fc4174d3fa1142ba5b788961b57046204316760d86e0d8dc2773a",
-       "retrieved_at": "2026-10-11T02:35:04Z"
+       "page": 1,
+       "section": "I.A.3",
+       "quote": "The valve shall be offered in ½ inch NPT, ¾ inch NPT, or 1-inch NPT sizes",
+       "snapshot_sha256": "43f0910421266195ef03a6f6b04375b5fad92110fbe7bd86ec5e0a4dfeddeec8",
+       "retrieved_at": "2026-10-11T02:34:45Z"
       },
       {
        "url": "https://cimberiovalve.us/778V",
@@ -276,13 +276,13 @@
      "cross_check": "agree",
      "sources": [
       {
-       "url": "https://cimberiovalve.us/content/TechDataSheet-778_v5.pdf",
+       "url": "https://cimberiovalve.us/content/Cim%20778%20SpecificationsV2.pdf",
        "type": "pdf",
-       "page": 4,
-       "section": "Popular Models",
-       "quote": "1/2\" 778V-04 with Ball Valves (2) 3/4\" 778V-06 with Ball Valves (2) 1\" 778V-07",
-       "snapshot_sha256": "3f9f77ae024fc4174d3fa1142ba5b788961b57046204316760d86e0d8dc2773a",
-       "retrieved_at": "2026-10-11T02:35:04Z"
+       "page": 1,
+       "section": "I.A.3",
+       "quote": "The valve shall be offered in ½ inch NPT, ¾ inch NPT, or 1-inch NPT sizes",
+       "snapshot_sha256": "43f0910421266195ef03a6f6b04375b5fad92110fbe7bd86ec5e0a4dfeddeec8",
+       "retrieved_at": "2026-10-11T02:34:45Z"
       },
       {
        "url": "https://cimberiovalve.us/778V",
@@ -302,13 +302,13 @@
      "cross_check": "agree",
      "sources": [
       {
-       "url": "https://cimberiovalve.us/content/TechDataSheet-778_v5.pdf",
+       "url": "https://cimberiovalve.us/content/Cim%20778%20SpecificationsV2.pdf",
        "type": "pdf",
-       "page": 4,
-       "section": "Popular Models",
-       "quote": "1/2\" 778V-04 with Ball Valves (2) 3/4\" 778V-06 with Ball Valves (2) 1\" 778V-07",
-       "snapshot_sha256": "3f9f77ae024fc4174d3fa1142ba5b788961b57046204316760d86e0d8dc2773a",
-       "retrieved_at": "2026-10-11T02:35:04Z"
+       "page": 1,
+       "section": "I.A.3",
+       "quote": "The valve shall be offered in ½ inch NPT, ¾ inch NPT, or 1-inch NPT sizes",
+       "snapshot_sha256": "43f0910421266195ef03a6f6b04375b5fad92110fbe7bd86ec5e0a4dfeddeec8",
+       "retrieved_at": "2026-10-11T02:34:45Z"
       },
       {
        "url": "https://cimberiovalve.us/778V",
@@ -462,15 +462,6 @@
        "retrieved_at": "2026-10-11T02:34:45Z"
       },
       {
-       "url": "https://cimberiovalve.us/content/TechDataSheet-778_v5.pdf",
-       "type": "pdf",
-       "page": 2,
-       "section": "Advantages",
-       "quote": "No-Lead & NSF/ANSI 61 Certified",
-       "snapshot_sha256": "3f9f77ae024fc4174d3fa1142ba5b788961b57046204316760d86e0d8dc2773a",
-       "retrieved_at": "2026-10-11T02:35:04Z"
-      },
-      {
        "url": "https://cimberiovalve.us/778V",
        "type": "page",
        "page": null,
@@ -486,18 +477,9 @@
      "value": [
       "NSF/ANSI 61-2008 Annex G"
      ],
-     "display_source": "pdf",
-     "cross_check": "agree",
+     "display_source": "page",
+     "cross_check": "page_only",
      "sources": [
-      {
-       "url": "https://cimberiovalve.us/content/TechDataSheet-778_v5.pdf",
-       "type": "pdf",
-       "page": 2,
-       "section": null,
-       "quote": "Based on NSF/ANSI 61-2008 Annex G",
-       "snapshot_sha256": "3f9f77ae024fc4174d3fa1142ba5b788961b57046204316760d86e0d8dc2773a",
-       "retrieved_at": "2026-10-11T02:35:04Z"
-      },
       {
        "url": "https://cimberiovalve.us/778V",
        "type": "page",
@@ -517,15 +499,6 @@
      "display_source": "pdf",
      "cross_check": "agree",
      "sources": [
-      {
-       "url": "https://cimberiovalve.us/content/TechDataSheet-778_v5.pdf",
-       "type": "pdf",
-       "page": 1,
-       "section": null,
-       "quote": "FOR DOMESTIC HOT WATER SYSTEMS",
-       "snapshot_sha256": "3f9f77ae024fc4174d3fa1142ba5b788961b57046204316760d86e0d8dc2773a",
-       "retrieved_at": "2026-10-11T02:35:04Z"
-      },
       {
        "url": "https://cimberiovalve.us/content/Cim%20778%20SpecificationsV2.pdf",
        "type": "pdf",
@@ -640,8 +613,8 @@
    "documents": [
     {
      "url": "https://cimberiovalve.us/content/TechDataSheet-778_v5.pdf",
-     "doc_type": "spec_sheet",
-     "priority": "primary",
+     "doc_type": "catalog",
+     "priority": "secondary",
      "lang": "en",
      "title": "TDS-778_v5 Cim 778 Adjustable Automatic Thermostatic Balancing Valve for Domestic Hot Water Systems",
      "revision_date": null,
@@ -1216,13 +1189,13 @@
      "cross_check": "agree",
      "sources": [
       {
-       "url": "https://cimberiovalve.us/content/TechDataSheet-778_v5.pdf",
+       "url": "https://cimberiovalve.us/content/Cim%20778%20SpecificationsV2.pdf",
        "type": "pdf",
-       "page": 4,
-       "section": "Popular Models",
-       "quote": "1/2\" 778VW-04 with Ball Valves (2) and Swing Check Valve 3/4\" 778VW-06 with Ball Valves (2) and Swing Check Valve 1\" 778VW-07",
-       "snapshot_sha256": "3f9f77ae024fc4174d3fa1142ba5b788961b57046204316760d86e0d8dc2773a",
-       "retrieved_at": "2026-10-11T02:35:04Z"
+       "page": 1,
+       "section": "I.A.3",
+       "quote": "The valve shall be offered in ½ inch NPT, ¾ inch NPT, or 1-inch NPT sizes",
+       "snapshot_sha256": "43f0910421266195ef03a6f6b04375b5fad92110fbe7bd86ec5e0a4dfeddeec8",
+       "retrieved_at": "2026-10-11T02:34:45Z"
       },
       {
        "url": "https://cimberiovalve.us/778vw",
@@ -1247,13 +1220,13 @@
      "cross_check": "agree",
      "sources": [
       {
-       "url": "https://cimberiovalve.us/content/TechDataSheet-778_v5.pdf",
+       "url": "https://cimberiovalve.us/content/Cim%20778%20SpecificationsV2.pdf",
        "type": "pdf",
-       "page": 4,
-       "section": "Popular Models",
-       "quote": "1/2\" 778VW-04 with Ball Valves (2) and Swing Check Valve 3/4\" 778VW-06 with Ball Valves (2) and Swing Check Valve 1\" 778VW-07",
-       "snapshot_sha256": "3f9f77ae024fc4174d3fa1142ba5b788961b57046204316760d86e0d8dc2773a",
-       "retrieved_at": "2026-10-11T02:35:04Z"
+       "page": 1,
+       "section": "I.A.3",
+       "quote": "The valve shall be offered in ½ inch NPT, ¾ inch NPT, or 1-inch NPT sizes",
+       "snapshot_sha256": "43f0910421266195ef03a6f6b04375b5fad92110fbe7bd86ec5e0a4dfeddeec8",
+       "retrieved_at": "2026-10-11T02:34:45Z"
       },
       {
        "url": "https://cimberiovalve.us/778vw",
@@ -1273,13 +1246,13 @@
      "cross_check": "agree",
      "sources": [
       {
-       "url": "https://cimberiovalve.us/content/TechDataSheet-778_v5.pdf",
+       "url": "https://cimberiovalve.us/content/Cim%20778%20SpecificationsV2.pdf",
        "type": "pdf",
-       "page": 4,
-       "section": "Popular Models",
-       "quote": "1/2\" 778VW-04 with Ball Valves (2) and Swing Check Valve 3/4\" 778VW-06 with Ball Valves (2) and Swing Check Valve 1\" 778VW-07",
-       "snapshot_sha256": "3f9f77ae024fc4174d3fa1142ba5b788961b57046204316760d86e0d8dc2773a",
-       "retrieved_at": "2026-10-11T02:35:04Z"
+       "page": 1,
+       "section": "I.A.3",
+       "quote": "The valve shall be offered in ½ inch NPT, ¾ inch NPT, or 1-inch NPT sizes",
+       "snapshot_sha256": "43f0910421266195ef03a6f6b04375b5fad92110fbe7bd86ec5e0a4dfeddeec8",
+       "retrieved_at": "2026-10-11T02:34:45Z"
       },
       {
        "url": "https://cimberiovalve.us/778vw",
@@ -1433,15 +1406,6 @@
        "retrieved_at": "2026-10-11T02:34:45Z"
       },
       {
-       "url": "https://cimberiovalve.us/content/TechDataSheet-778_v5.pdf",
-       "type": "pdf",
-       "page": 2,
-       "section": "Advantages",
-       "quote": "No-Lead & NSF/ANSI 61 Certified",
-       "snapshot_sha256": "3f9f77ae024fc4174d3fa1142ba5b788961b57046204316760d86e0d8dc2773a",
-       "retrieved_at": "2026-10-11T02:35:04Z"
-      },
-      {
        "url": "https://cimberiovalve.us/778vw",
        "type": "page",
        "page": null,
@@ -1457,18 +1421,9 @@
      "value": [
       "NSF/ANSI 61-2008 Annex G"
      ],
-     "display_source": "pdf",
-     "cross_check": "agree",
+     "display_source": "page",
+     "cross_check": "page_only",
      "sources": [
-      {
-       "url": "https://cimberiovalve.us/content/TechDataSheet-778_v5.pdf",
-       "type": "pdf",
-       "page": 2,
-       "section": null,
-       "quote": "Based on NSF/ANSI 61-2008 Annex G",
-       "snapshot_sha256": "3f9f77ae024fc4174d3fa1142ba5b788961b57046204316760d86e0d8dc2773a",
-       "retrieved_at": "2026-10-11T02:35:04Z"
-      },
       {
        "url": "https://cimberiovalve.us/778vw",
        "type": "page",
@@ -1488,15 +1443,6 @@
      "display_source": "pdf",
      "cross_check": "agree",
      "sources": [
-      {
-       "url": "https://cimberiovalve.us/content/TechDataSheet-778_v5.pdf",
-       "type": "pdf",
-       "page": 1,
-       "section": null,
-       "quote": "FOR DOMESTIC HOT WATER SYSTEMS",
-       "snapshot_sha256": "3f9f77ae024fc4174d3fa1142ba5b788961b57046204316760d86e0d8dc2773a",
-       "retrieved_at": "2026-10-11T02:35:04Z"
-      },
       {
        "url": "https://cimberiovalve.us/content/Cim%20778%20SpecificationsV2.pdf",
        "type": "pdf",
@@ -1611,8 +1557,8 @@
    "documents": [
     {
      "url": "https://cimberiovalve.us/content/TechDataSheet-778_v5.pdf",
-     "doc_type": "spec_sheet",
-     "priority": "primary",
+     "doc_type": "catalog",
+     "priority": "secondary",
      "lang": "en",
      "title": "TDS-778_v5 Cim 778 Adjustable Automatic Thermostatic Balancing Valve for Domestic Hot Water Systems",
      "revision_date": null,
@@ -1672,18 +1618,9 @@
       "max": "1"
      },
      "unit": "in",
-     "display_source": "pdf",
-     "cross_check": "agree",
+     "display_source": "page",
+     "cross_check": "page_only",
      "sources": [
-      {
-       "url": "https://cimberiovalve.us/content/TechDataSheet-778_v5.pdf",
-       "type": "pdf",
-       "page": 4,
-       "section": "Popular Models",
-       "quote": "1/2\" 778PVWS-04 with Ball Valves (2), Swing Check Valve, and Strainer 3/4\" 778PVWS-06 with Ball Valves (2), Swing Check Valve, and Strainer 1\" 778PVWS-07",
-       "snapshot_sha256": "3f9f77ae024fc4174d3fa1142ba5b788961b57046204316760d86e0d8dc2773a",
-       "retrieved_at": "2026-10-11T02:35:04Z"
-      },
       {
        "url": "https://cimberiovalve.us/778pvws",
        "type": "page",
@@ -1703,18 +1640,9 @@
       "1"
      ],
      "unit": "in",
-     "display_source": "pdf",
-     "cross_check": "agree",
+     "display_source": "page",
+     "cross_check": "page_only",
      "sources": [
-      {
-       "url": "https://cimberiovalve.us/content/TechDataSheet-778_v5.pdf",
-       "type": "pdf",
-       "page": 4,
-       "section": "Popular Models",
-       "quote": "1/2\" 778PVWS-04 with Ball Valves (2), Swing Check Valve, and Strainer 3/4\" 778PVWS-06 with Ball Valves (2), Swing Check Valve, and Strainer 1\" 778PVWS-07",
-       "snapshot_sha256": "3f9f77ae024fc4174d3fa1142ba5b788961b57046204316760d86e0d8dc2773a",
-       "retrieved_at": "2026-10-11T02:35:04Z"
-      },
       {
        "url": "https://cimberiovalve.us/778pvws",
        "type": "page",
@@ -1729,18 +1657,9 @@
     },
     "size_unit": {
      "value": "in",
-     "display_source": "pdf",
-     "cross_check": "agree",
+     "display_source": "page",
+     "cross_check": "page_only",
      "sources": [
-      {
-       "url": "https://cimberiovalve.us/content/TechDataSheet-778_v5.pdf",
-       "type": "pdf",
-       "page": 4,
-       "section": "Popular Models",
-       "quote": "1/2\" 778PVWS-04 with Ball Valves (2), Swing Check Valve, and Strainer 3/4\" 778PVWS-06 with Ball Valves (2), Swing Check Valve, and Strainer 1\" 778PVWS-07",
-       "snapshot_sha256": "3f9f77ae024fc4174d3fa1142ba5b788961b57046204316760d86e0d8dc2773a",
-       "retrieved_at": "2026-10-11T02:35:04Z"
-      },
       {
        "url": "https://cimberiovalve.us/778pvws",
        "type": "page",
@@ -1893,15 +1812,6 @@
        "retrieved_at": "2026-10-11T02:34:45Z"
       },
       {
-       "url": "https://cimberiovalve.us/content/TechDataSheet-778_v5.pdf",
-       "type": "pdf",
-       "page": 2,
-       "section": "Advantages",
-       "quote": "No-Lead & NSF/ANSI 61 Certified",
-       "snapshot_sha256": "3f9f77ae024fc4174d3fa1142ba5b788961b57046204316760d86e0d8dc2773a",
-       "retrieved_at": "2026-10-11T02:35:04Z"
-      },
-      {
        "url": "https://cimberiovalve.us/778pvws",
        "type": "page",
        "page": null,
@@ -1917,18 +1827,9 @@
      "value": [
       "NSF/ANSI 61-2008 Annex G"
      ],
-     "display_source": "pdf",
-     "cross_check": "agree",
+     "display_source": "page",
+     "cross_check": "page_only",
      "sources": [
-      {
-       "url": "https://cimberiovalve.us/content/TechDataSheet-778_v5.pdf",
-       "type": "pdf",
-       "page": 2,
-       "section": null,
-       "quote": "Based on NSF/ANSI 61-2008 Annex G",
-       "snapshot_sha256": "3f9f77ae024fc4174d3fa1142ba5b788961b57046204316760d86e0d8dc2773a",
-       "retrieved_at": "2026-10-11T02:35:04Z"
-      },
       {
        "url": "https://cimberiovalve.us/778pvws",
        "type": "page",
@@ -1948,15 +1849,6 @@
      "display_source": "pdf",
      "cross_check": "agree",
      "sources": [
-      {
-       "url": "https://cimberiovalve.us/content/TechDataSheet-778_v5.pdf",
-       "type": "pdf",
-       "page": 1,
-       "section": null,
-       "quote": "FOR DOMESTIC HOT WATER SYSTEMS",
-       "snapshot_sha256": "3f9f77ae024fc4174d3fa1142ba5b788961b57046204316760d86e0d8dc2773a",
-       "retrieved_at": "2026-10-11T02:35:04Z"
-      },
       {
        "url": "https://cimberiovalve.us/content/Cim%20778%20SpecificationsV2.pdf",
        "type": "pdf",
@@ -2071,8 +1963,8 @@
    "documents": [
     {
      "url": "https://cimberiovalve.us/content/TechDataSheet-778_v5.pdf",
-     "doc_type": "spec_sheet",
-     "priority": "primary",
+     "doc_type": "catalog",
+     "priority": "secondary",
      "lang": "en",
      "title": "TDS-778_v5 Cim 778 Adjustable Automatic Thermostatic Balancing Valve for Domestic Hot Water Systems",
      "revision_date": null,
@@ -2157,18 +2049,9 @@
       "max": "1"
      },
      "unit": "in",
-     "display_source": "pdf",
-     "cross_check": "agree",
+     "display_source": "page",
+     "cross_check": "page_only",
      "sources": [
-      {
-       "url": "https://cimberiovalve.us/content/TechDataSheet-778_v5.pdf",
-       "type": "pdf",
-       "page": 4,
-       "section": "Popular Models",
-       "quote": "1/2\" 778PVC-04 with Ball Valves (2) and Inline Check Valve 3/4\" 778PVC-06 with Ball Valves (2) and Inline Check Valve 1\" 778PVC-07",
-       "snapshot_sha256": "3f9f77ae024fc4174d3fa1142ba5b788961b57046204316760d86e0d8dc2773a",
-       "retrieved_at": "2026-10-11T02:35:04Z"
-      },
       {
        "url": "https://cimberiovalve.us/778pvc",
        "type": "page",
@@ -2188,18 +2071,9 @@
       "1"
      ],
      "unit": "in",
-     "display_source": "pdf",
-     "cross_check": "agree",
+     "display_source": "page",
+     "cross_check": "page_only",
      "sources": [
-      {
-       "url": "https://cimberiovalve.us/content/TechDataSheet-778_v5.pdf",
-       "type": "pdf",
-       "page": 4,
-       "section": "Popular Models",
-       "quote": "1/2\" 778PVC-04 with Ball Valves (2) and Inline Check Valve 3/4\" 778PVC-06 with Ball Valves (2) and Inline Check Valve 1\" 778PVC-07",
-       "snapshot_sha256": "3f9f77ae024fc4174d3fa1142ba5b788961b57046204316760d86e0d8dc2773a",
-       "retrieved_at": "2026-10-11T02:35:04Z"
-      },
       {
        "url": "https://cimberiovalve.us/778pvc",
        "type": "page",
@@ -2214,18 +2088,9 @@
     },
     "size_unit": {
      "value": "in",
-     "display_source": "pdf",
-     "cross_check": "agree",
+     "display_source": "page",
+     "cross_check": "page_only",
      "sources": [
-      {
-       "url": "https://cimberiovalve.us/content/TechDataSheet-778_v5.pdf",
-       "type": "pdf",
-       "page": 4,
-       "section": "Popular Models",
-       "quote": "1/2\" 778PVC-04 with Ball Valves (2) and Inline Check Valve 3/4\" 778PVC-06 with Ball Valves (2) and Inline Check Valve 1\" 778PVC-07",
-       "snapshot_sha256": "3f9f77ae024fc4174d3fa1142ba5b788961b57046204316760d86e0d8dc2773a",
-       "retrieved_at": "2026-10-11T02:35:04Z"
-      },
       {
        "url": "https://cimberiovalve.us/778pvc",
        "type": "page",
@@ -2378,15 +2243,6 @@
        "retrieved_at": "2026-10-11T02:34:45Z"
       },
       {
-       "url": "https://cimberiovalve.us/content/TechDataSheet-778_v5.pdf",
-       "type": "pdf",
-       "page": 2,
-       "section": "Advantages",
-       "quote": "No-Lead & NSF/ANSI 61 Certified",
-       "snapshot_sha256": "3f9f77ae024fc4174d3fa1142ba5b788961b57046204316760d86e0d8dc2773a",
-       "retrieved_at": "2026-10-11T02:35:04Z"
-      },
-      {
        "url": "https://cimberiovalve.us/778pvc",
        "type": "page",
        "page": null,
@@ -2402,18 +2258,9 @@
      "value": [
       "NSF/ANSI 61-2008 Annex G"
      ],
-     "display_source": "pdf",
-     "cross_check": "agree",
+     "display_source": "page",
+     "cross_check": "page_only",
      "sources": [
-      {
-       "url": "https://cimberiovalve.us/content/TechDataSheet-778_v5.pdf",
-       "type": "pdf",
-       "page": 2,
-       "section": null,
-       "quote": "Based on NSF/ANSI 61-2008 Annex G",
-       "snapshot_sha256": "3f9f77ae024fc4174d3fa1142ba5b788961b57046204316760d86e0d8dc2773a",
-       "retrieved_at": "2026-10-11T02:35:04Z"
-      },
       {
        "url": "https://cimberiovalve.us/778pvc",
        "type": "page",
@@ -2433,15 +2280,6 @@
      "display_source": "pdf",
      "cross_check": "agree",
      "sources": [
-      {
-       "url": "https://cimberiovalve.us/content/TechDataSheet-778_v5.pdf",
-       "type": "pdf",
-       "page": 1,
-       "section": null,
-       "quote": "FOR DOMESTIC HOT WATER SYSTEMS",
-       "snapshot_sha256": "3f9f77ae024fc4174d3fa1142ba5b788961b57046204316760d86e0d8dc2773a",
-       "retrieved_at": "2026-10-11T02:35:04Z"
-      },
       {
        "url": "https://cimberiovalve.us/content/Cim%20778%20SpecificationsV2.pdf",
        "type": "pdf",
@@ -2556,8 +2394,8 @@
    "documents": [
     {
      "url": "https://cimberiovalve.us/content/TechDataSheet-778_v5.pdf",
-     "doc_type": "spec_sheet",
-     "priority": "primary",
+     "doc_type": "catalog",
+     "priority": "secondary",
      "lang": "en",
      "title": "TDS-778_v5 Cim 778 Adjustable Automatic Thermostatic Balancing Valve for Domestic Hot Water Systems",
      "revision_date": null,
@@ -4514,28 +4352,11 @@
        ]
       }
      ]
-    },
-    "applications": {
-     "value": [
-      "hydronic heating"
-     ],
-     "display_source": "pdf",
-     "cross_check": "pdf_only",
-     "sources": [
-      {
-       "url": "https://cimberiovalve.us/content/TechDataSheet-747PRSNL.pdf",
-       "type": "pdf",
-       "page": 1,
-       "section": null,
-       "quote": "Suitable for both heating (LPHW) and cooling applications.",
-       "snapshot_sha256": "ff7f8e84c16c6b0f62ec10983978ea6c0ffdec875e5457a5eda91bb31ab506e5",
-       "retrieved_at": "2026-10-11T02:35:01Z"
-      }
-     ]
     }
    },
    "additional_specs": {
     "applications_other": [
+     "heating (LPHW)",
      "cooling",
      "heating"
     ],
@@ -4779,18 +4600,9 @@
       "max": "1"
      },
      "unit": "in",
-     "display_source": "pdf",
-     "cross_check": "agree",
+     "display_source": "page",
+     "cross_check": "page_only",
      "sources": [
-      {
-       "url": "https://cimberiovalve.us/content/TechDataSheet-778_v5.pdf",
-       "type": "pdf",
-       "page": 4,
-       "section": "Popular Models",
-       "quote": "1/2\" 778PVW-04 with Ball Valves (2) and Swing Check Valve 3/4\" 778PVW-06 with Ball Valves (2) and Swing Check Valve 1\" 778PVW-07",
-       "snapshot_sha256": "3f9f77ae024fc4174d3fa1142ba5b788961b57046204316760d86e0d8dc2773a",
-       "retrieved_at": "2026-10-11T02:35:04Z"
-      },
       {
        "url": "https://cimberiovalve.us/778pvw",
        "type": "page",
@@ -4810,18 +4622,9 @@
       "1"
      ],
      "unit": "in",
-     "display_source": "pdf",
-     "cross_check": "agree",
+     "display_source": "page",
+     "cross_check": "page_only",
      "sources": [
-      {
-       "url": "https://cimberiovalve.us/content/TechDataSheet-778_v5.pdf",
-       "type": "pdf",
-       "page": 4,
-       "section": "Popular Models",
-       "quote": "1/2\" 778PVW-04 with Ball Valves (2) and Swing Check Valve 3/4\" 778PVW-06 with Ball Valves (2) and Swing Check Valve 1\" 778PVW-07",
-       "snapshot_sha256": "3f9f77ae024fc4174d3fa1142ba5b788961b57046204316760d86e0d8dc2773a",
-       "retrieved_at": "2026-10-11T02:35:04Z"
-      },
       {
        "url": "https://cimberiovalve.us/778pvw",
        "type": "page",
@@ -4836,18 +4639,9 @@
     },
     "size_unit": {
      "value": "in",
-     "display_source": "pdf",
-     "cross_check": "agree",
+     "display_source": "page",
+     "cross_check": "page_only",
      "sources": [
-      {
-       "url": "https://cimberiovalve.us/content/TechDataSheet-778_v5.pdf",
-       "type": "pdf",
-       "page": 4,
-       "section": "Popular Models",
-       "quote": "1/2\" 778PVW-04 with Ball Valves (2) and Swing Check Valve 3/4\" 778PVW-06 with Ball Valves (2) and Swing Check Valve 1\" 778PVW-07",
-       "snapshot_sha256": "3f9f77ae024fc4174d3fa1142ba5b788961b57046204316760d86e0d8dc2773a",
-       "retrieved_at": "2026-10-11T02:35:04Z"
-      },
       {
        "url": "https://cimberiovalve.us/778pvw",
        "type": "page",
@@ -5000,15 +4794,6 @@
        "retrieved_at": "2026-10-11T02:34:45Z"
       },
       {
-       "url": "https://cimberiovalve.us/content/TechDataSheet-778_v5.pdf",
-       "type": "pdf",
-       "page": 2,
-       "section": "Advantages",
-       "quote": "No-Lead & NSF/ANSI 61 Certified",
-       "snapshot_sha256": "3f9f77ae024fc4174d3fa1142ba5b788961b57046204316760d86e0d8dc2773a",
-       "retrieved_at": "2026-10-11T02:35:04Z"
-      },
-      {
        "url": "https://cimberiovalve.us/778pvw",
        "type": "page",
        "page": null,
@@ -5024,18 +4809,9 @@
      "value": [
       "NSF/ANSI 61-2008 Annex G"
      ],
-     "display_source": "pdf",
-     "cross_check": "agree",
+     "display_source": "page",
+     "cross_check": "page_only",
      "sources": [
-      {
-       "url": "https://cimberiovalve.us/content/TechDataSheet-778_v5.pdf",
-       "type": "pdf",
-       "page": 2,
-       "section": null,
-       "quote": "Based on NSF/ANSI 61-2008 Annex G",
-       "snapshot_sha256": "3f9f77ae024fc4174d3fa1142ba5b788961b57046204316760d86e0d8dc2773a",
-       "retrieved_at": "2026-10-11T02:35:04Z"
-      },
       {
        "url": "https://cimberiovalve.us/778pvw",
        "type": "page",
@@ -5055,15 +4831,6 @@
      "display_source": "pdf",
      "cross_check": "agree",
      "sources": [
-      {
-       "url": "https://cimberiovalve.us/content/TechDataSheet-778_v5.pdf",
-       "type": "pdf",
-       "page": 1,
-       "section": null,
-       "quote": "FOR DOMESTIC HOT WATER SYSTEMS",
-       "snapshot_sha256": "3f9f77ae024fc4174d3fa1142ba5b788961b57046204316760d86e0d8dc2773a",
-       "retrieved_at": "2026-10-11T02:35:04Z"
-      },
       {
        "url": "https://cimberiovalve.us/content/Cim%20778%20SpecificationsV2.pdf",
        "type": "pdf",
@@ -5178,8 +4945,8 @@
    "documents": [
     {
      "url": "https://cimberiovalve.us/content/TechDataSheet-778_v5.pdf",
-     "doc_type": "spec_sheet",
-     "priority": "primary",
+     "doc_type": "catalog",
+     "priority": "secondary",
      "lang": "en",
      "title": "TDS-778_v5 Cim 778 Adjustable Automatic Thermostatic Balancing Valve for Domestic Hot Water Systems",
      "revision_date": null,
@@ -5239,18 +5006,9 @@
       "max": "1"
      },
      "unit": "in",
-     "display_source": "pdf",
-     "cross_check": "agree",
+     "display_source": "page",
+     "cross_check": "page_only",
      "sources": [
-      {
-       "url": "https://cimberiovalve.us/content/TechDataSheet-778_v5.pdf",
-       "type": "pdf",
-       "page": 4,
-       "section": "Popular Models",
-       "quote": "1/2\" 778P-04 Adjustable Thermostatic Balancing Valve 3/4\" 778P-06 Adjustable Thermostatic Balancing Valve 1\" 778P-07",
-       "snapshot_sha256": "3f9f77ae024fc4174d3fa1142ba5b788961b57046204316760d86e0d8dc2773a",
-       "retrieved_at": "2026-10-11T02:35:04Z"
-      },
       {
        "url": "https://cimberiovalve.us/778p",
        "type": "page",
@@ -5270,18 +5028,9 @@
       "1"
      ],
      "unit": "in",
-     "display_source": "pdf",
-     "cross_check": "agree",
+     "display_source": "page",
+     "cross_check": "page_only",
      "sources": [
-      {
-       "url": "https://cimberiovalve.us/content/TechDataSheet-778_v5.pdf",
-       "type": "pdf",
-       "page": 4,
-       "section": "Popular Models",
-       "quote": "1/2\" 778P-04 Adjustable Thermostatic Balancing Valve 3/4\" 778P-06 Adjustable Thermostatic Balancing Valve 1\" 778P-07",
-       "snapshot_sha256": "3f9f77ae024fc4174d3fa1142ba5b788961b57046204316760d86e0d8dc2773a",
-       "retrieved_at": "2026-10-11T02:35:04Z"
-      },
       {
        "url": "https://cimberiovalve.us/778p",
        "type": "page",
@@ -5296,18 +5045,9 @@
     },
     "size_unit": {
      "value": "in",
-     "display_source": "pdf",
-     "cross_check": "agree",
+     "display_source": "page",
+     "cross_check": "page_only",
      "sources": [
-      {
-       "url": "https://cimberiovalve.us/content/TechDataSheet-778_v5.pdf",
-       "type": "pdf",
-       "page": 4,
-       "section": "Popular Models",
-       "quote": "1/2\" 778P-04 Adjustable Thermostatic Balancing Valve 3/4\" 778P-06 Adjustable Thermostatic Balancing Valve 1\" 778P-07",
-       "snapshot_sha256": "3f9f77ae024fc4174d3fa1142ba5b788961b57046204316760d86e0d8dc2773a",
-       "retrieved_at": "2026-10-11T02:35:04Z"
-      },
       {
        "url": "https://cimberiovalve.us/778p",
        "type": "page",
@@ -5460,15 +5200,6 @@
        "retrieved_at": "2026-10-11T02:34:45Z"
       },
       {
-       "url": "https://cimberiovalve.us/content/TechDataSheet-778_v5.pdf",
-       "type": "pdf",
-       "page": 2,
-       "section": "Advantages",
-       "quote": "No-Lead & NSF/ANSI 61 Certified",
-       "snapshot_sha256": "3f9f77ae024fc4174d3fa1142ba5b788961b57046204316760d86e0d8dc2773a",
-       "retrieved_at": "2026-10-11T02:35:04Z"
-      },
-      {
        "url": "https://cimberiovalve.us/778p",
        "type": "page",
        "page": null,
@@ -5484,18 +5215,9 @@
      "value": [
       "NSF/ANSI 61-2008 Annex G"
      ],
-     "display_source": "pdf",
-     "cross_check": "agree",
+     "display_source": "page",
+     "cross_check": "page_only",
      "sources": [
-      {
-       "url": "https://cimberiovalve.us/content/TechDataSheet-778_v5.pdf",
-       "type": "pdf",
-       "page": 2,
-       "section": null,
-       "quote": "Based on NSF/ANSI 61-2008 Annex G",
-       "snapshot_sha256": "3f9f77ae024fc4174d3fa1142ba5b788961b57046204316760d86e0d8dc2773a",
-       "retrieved_at": "2026-10-11T02:35:04Z"
-      },
       {
        "url": "https://cimberiovalve.us/778p",
        "type": "page",
@@ -5515,15 +5237,6 @@
      "display_source": "pdf",
      "cross_check": "agree",
      "sources": [
-      {
-       "url": "https://cimberiovalve.us/content/TechDataSheet-778_v5.pdf",
-       "type": "pdf",
-       "page": 1,
-       "section": null,
-       "quote": "FOR DOMESTIC HOT WATER SYSTEMS",
-       "snapshot_sha256": "3f9f77ae024fc4174d3fa1142ba5b788961b57046204316760d86e0d8dc2773a",
-       "retrieved_at": "2026-10-11T02:35:04Z"
-      },
       {
        "url": "https://cimberiovalve.us/content/Cim%20778%20SpecificationsV2.pdf",
        "type": "pdf",
@@ -5638,8 +5351,8 @@
    "documents": [
     {
      "url": "https://cimberiovalve.us/content/TechDataSheet-778_v5.pdf",
-     "doc_type": "spec_sheet",
-     "priority": "primary",
+     "doc_type": "catalog",
+     "priority": "secondary",
      "lang": "en",
      "title": "TDS-778_v5 Cim 778 Adjustable Automatic Thermostatic Balancing Valve for Domestic Hot Water Systems",
      "revision_date": null,
@@ -6005,28 +5718,11 @@
        ]
       }
      ]
-    },
-    "applications": {
-     "value": [
-      "hydronic heating"
-     ],
-     "display_source": "pdf",
-     "cross_check": "pdf_only",
-     "sources": [
-      {
-       "url": "https://cimberiovalve.us/content/TechDataSheet-747NL.pdf",
-       "type": "pdf",
-       "page": 1,
-       "section": null,
-       "quote": "Suitable for both heating (LPHW) and cooling applications.",
-       "snapshot_sha256": "ef04bc0e63ae50d9f5d54b63dfb033728318d663083a49d08c590568f2db3487",
-       "retrieved_at": "2026-10-11T02:35:00Z"
-      }
-     ]
     }
    },
    "additional_specs": {
     "applications_other": [
+     "heating (LPHW)",
      "cooling",
      "heating"
     ],
@@ -6821,7 +6517,7 @@
      "priority": "secondary",
      "lang": "en",
      "title": "CIM 1220CRNL No Lead Ball Valve - Instructions for Installation and Maintenance",
-     "revision_date": null,
+     "revision_date": "2019-06-17",
      "sha256": "7f6782dbf97b178ce615fa58a644925c680d2e52367cd8f1324fa20a0f28698a",
      "bytes": 728168,
      "http_status": 200,
@@ -6885,13 +6581,13 @@
      "cross_check": "agree",
      "sources": [
       {
-       "url": "https://cimberiovalve.us/content/TechDataSheet-778_v5.pdf",
+       "url": "https://cimberiovalve.us/content/Cim%20778%20SpecificationsV2.pdf",
        "type": "pdf",
-       "page": 4,
-       "section": "Popular Models",
-       "quote": "1/2\" 778-04 Adjustable Thermostatic Balancing Valve 3/4\" 778-06 Adjustable Thermostatic Balancing Valve 1\" 778-07",
-       "snapshot_sha256": "3f9f77ae024fc4174d3fa1142ba5b788961b57046204316760d86e0d8dc2773a",
-       "retrieved_at": "2026-10-11T02:35:04Z"
+       "page": 1,
+       "section": "I.A.3",
+       "quote": "The valve shall be offered in ½ inch NPT, ¾ inch NPT, or 1-inch NPT sizes",
+       "snapshot_sha256": "43f0910421266195ef03a6f6b04375b5fad92110fbe7bd86ec5e0a4dfeddeec8",
+       "retrieved_at": "2026-10-11T02:34:45Z"
       },
       {
        "url": "https://cimberiovalve.us/778-threaded",
@@ -6916,13 +6612,13 @@
      "cross_check": "agree",
      "sources": [
       {
-       "url": "https://cimberiovalve.us/content/TechDataSheet-778_v5.pdf",
+       "url": "https://cimberiovalve.us/content/Cim%20778%20SpecificationsV2.pdf",
        "type": "pdf",
-       "page": 4,
-       "section": "Popular Models",
-       "quote": "1/2\" 778-04 Adjustable Thermostatic Balancing Valve 3/4\" 778-06 Adjustable Thermostatic Balancing Valve 1\" 778-07",
-       "snapshot_sha256": "3f9f77ae024fc4174d3fa1142ba5b788961b57046204316760d86e0d8dc2773a",
-       "retrieved_at": "2026-10-11T02:35:04Z"
+       "page": 1,
+       "section": "I.A.3",
+       "quote": "The valve shall be offered in ½ inch NPT, ¾ inch NPT, or 1-inch NPT sizes",
+       "snapshot_sha256": "43f0910421266195ef03a6f6b04375b5fad92110fbe7bd86ec5e0a4dfeddeec8",
+       "retrieved_at": "2026-10-11T02:34:45Z"
       },
       {
        "url": "https://cimberiovalve.us/778-threaded",
@@ -6942,13 +6638,13 @@
      "cross_check": "agree",
      "sources": [
       {
-       "url": "https://cimberiovalve.us/content/TechDataSheet-778_v5.pdf",
+       "url": "https://cimberiovalve.us/content/Cim%20778%20SpecificationsV2.pdf",
        "type": "pdf",
-       "page": 4,
-       "section": "Popular Models",
-       "quote": "1/2\" 778-04 Adjustable Thermostatic Balancing Valve 3/4\" 778-06 Adjustable Thermostatic Balancing Valve 1\" 778-07",
-       "snapshot_sha256": "3f9f77ae024fc4174d3fa1142ba5b788961b57046204316760d86e0d8dc2773a",
-       "retrieved_at": "2026-10-11T02:35:04Z"
+       "page": 1,
+       "section": "I.A.3",
+       "quote": "The valve shall be offered in ½ inch NPT, ¾ inch NPT, or 1-inch NPT sizes",
+       "snapshot_sha256": "43f0910421266195ef03a6f6b04375b5fad92110fbe7bd86ec5e0a4dfeddeec8",
+       "retrieved_at": "2026-10-11T02:34:45Z"
       },
       {
        "url": "https://cimberiovalve.us/778-threaded",
@@ -6976,15 +6672,6 @@
        "quote": "Cim 778 shall be a DZR Brass ANSI C27453 or EN 12165 CW511L body",
        "snapshot_sha256": "43f0910421266195ef03a6f6b04375b5fad92110fbe7bd86ec5e0a4dfeddeec8",
        "retrieved_at": "2026-10-11T02:34:45Z"
-      },
-      {
-       "url": "https://cimberiovalve.us/content/TechDataSheet-778_v5.pdf",
-       "type": "pdf",
-       "page": 5,
-       "section": "Technical Characteristics",
-       "quote": "Body Material: EN 12165-CW511L \"NL\" Brass",
-       "snapshot_sha256": "3f9f77ae024fc4174d3fa1142ba5b788961b57046204316760d86e0d8dc2773a",
-       "retrieved_at": "2026-10-11T02:35:04Z"
       }
      ],
      "alt_values": [
@@ -7052,15 +6739,6 @@
        "retrieved_at": "2026-10-11T02:34:45Z"
       },
       {
-       "url": "https://cimberiovalve.us/content/TechDataSheet-778_v5.pdf",
-       "type": "pdf",
-       "page": 5,
-       "section": "Technical Characteristics",
-       "quote": "Nominal Pressure: 360 PSI (PN 25)",
-       "snapshot_sha256": "3f9f77ae024fc4174d3fa1142ba5b788961b57046204316760d86e0d8dc2773a",
-       "retrieved_at": "2026-10-11T02:35:04Z"
-      },
-      {
        "url": "https://cimberiovalve.us/778-threaded",
        "type": "page",
        "page": null,
@@ -7092,15 +6770,6 @@
        "retrieved_at": "2026-10-11T02:34:45Z"
       },
       {
-       "url": "https://cimberiovalve.us/content/TechDataSheet-778_v5.pdf",
-       "type": "pdf",
-       "page": 5,
-       "section": "Technical Characteristics",
-       "quote": "Temperature: 15°F to 200°F",
-       "snapshot_sha256": "3f9f77ae024fc4174d3fa1142ba5b788961b57046204316760d86e0d8dc2773a",
-       "retrieved_at": "2026-10-11T02:35:04Z"
-      },
-      {
        "url": "https://cimberiovalve.us/778-threaded",
        "type": "page",
        "page": null,
@@ -7129,15 +6798,6 @@
        "retrieved_at": "2026-10-11T02:34:45Z"
       },
       {
-       "url": "https://cimberiovalve.us/content/TechDataSheet-778_v5.pdf",
-       "type": "pdf",
-       "page": 2,
-       "section": "Advantages",
-       "quote": "No-Lead & NSF/ANSI 61 Certified",
-       "snapshot_sha256": "3f9f77ae024fc4174d3fa1142ba5b788961b57046204316760d86e0d8dc2773a",
-       "retrieved_at": "2026-10-11T02:35:04Z"
-      },
-      {
        "url": "https://cimberiovalve.us/778-threaded",
        "type": "page",
        "page": null,
@@ -7151,48 +6811,20 @@
     },
     "standards": {
      "value": [
-      "NSF/ANSI 61-2008 Annex G",
-      "ANSI B1.20.1"
+      "NSF/ANSI 61-2008 Annex G"
      ],
-     "display_source": "pdf",
-     "cross_check": "refines",
+     "display_source": "page",
+     "cross_check": "page_only",
      "sources": [
       {
-       "url": "https://cimberiovalve.us/content/TechDataSheet-778_v5.pdf",
-       "type": "pdf",
-       "page": 2,
-       "section": null,
+       "url": "https://cimberiovalve.us/778-threaded",
+       "type": "page",
+       "page": null,
+       "variant_sku": null,
+       "section": "Product Description",
        "quote": "Based on NSF/ANSI 61-2008 Annex G",
-       "snapshot_sha256": "3f9f77ae024fc4174d3fa1142ba5b788961b57046204316760d86e0d8dc2773a",
-       "retrieved_at": "2026-10-11T02:35:04Z"
-      },
-      {
-       "url": "https://cimberiovalve.us/content/TechDataSheet-778_v5.pdf",
-       "type": "pdf",
-       "page": 5,
-       "section": "Technical Characteristics",
-       "quote": "Threads: NPT - ANSI B1.20.1",
-       "snapshot_sha256": "3f9f77ae024fc4174d3fa1142ba5b788961b57046204316760d86e0d8dc2773a",
-       "retrieved_at": "2026-10-11T02:35:04Z"
-      }
-     ],
-     "alt_values": [
-      {
-       "value": [
-        "NSF/ANSI 61-2008 Annex G"
-       ],
-       "sources": [
-        {
-         "url": "https://cimberiovalve.us/778-threaded",
-         "type": "page",
-         "page": null,
-         "variant_sku": null,
-         "section": "Product Description",
-         "quote": "Based on NSF/ANSI 61-2008 Annex G",
-         "snapshot_sha256": "e95940c03d36aa1eb2c7cb2bb5c5da6baf5765c7e3eee54599e7c8f612f2e40f",
-         "retrieved_at": "2026-10-11T02:33:24Z"
-        }
-       ]
+       "snapshot_sha256": "e95940c03d36aa1eb2c7cb2bb5c5da6baf5765c7e3eee54599e7c8f612f2e40f",
+       "retrieved_at": "2026-10-11T02:33:24Z"
       }
      ]
     },
@@ -7203,15 +6835,6 @@
      "display_source": "pdf",
      "cross_check": "agree",
      "sources": [
-      {
-       "url": "https://cimberiovalve.us/content/TechDataSheet-778_v5.pdf",
-       "type": "pdf",
-       "page": 1,
-       "section": null,
-       "quote": "FOR DOMESTIC HOT WATER SYSTEMS",
-       "snapshot_sha256": "3f9f77ae024fc4174d3fa1142ba5b788961b57046204316760d86e0d8dc2773a",
-       "retrieved_at": "2026-10-11T02:35:04Z"
-      },
       {
        "url": "https://cimberiovalve.us/content/Cim%20778%20SpecificationsV2.pdf",
        "type": "pdf",
@@ -7326,8 +6949,8 @@
    "documents": [
     {
      "url": "https://cimberiovalve.us/content/TechDataSheet-778_v5.pdf",
-     "doc_type": "spec_sheet",
-     "priority": "primary",
+     "doc_type": "catalog",
+     "priority": "secondary",
      "lang": "en",
      "title": "TDS-778_v5 Cim 778 Adjustable Automatic Thermostatic Balancing Valve for Domestic Hot Water Systems",
      "revision_date": null,

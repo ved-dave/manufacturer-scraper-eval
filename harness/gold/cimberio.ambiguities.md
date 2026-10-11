@@ -1,6 +1,6 @@
 # cimberio — ambiguity log (gold, first pass 2026-10-11)
 
-Spec-field sources (149 family spec fields over 15 families): **both page and PDF 142 (95.3%)** (agree 117, refines 18, conflict 7), **page only 3 (2.0%)**, **PDF only 4 (2.7%)**.
+Spec-field sources after stage 2 (147 family spec fields, 15 families): **both page and PDF 123 (83.7%)** (agree 99, refines 17, conflict 7), **page only 22 (15.0%)**, **PDF only 2 (1.4%)**. (First pass: 149 fields, both 142, page only 3, PDF only 4.)
 
 ## Conflicts (spec sheet displayed, page value in alt_values)
 
@@ -47,6 +47,61 @@ Spec-field sources (149 family spec fields over 15 families): **both page and PD
 - 1220NL Instructions.pdf is titled "CIM 1220CRNL" | listed as `iom_manual` for 1220nl (linked from that page) but not used as a spec source | —
 - Price-list document | listed on each family with ≥ 1 priced variant, found_on = Resources page, revision_date 2023-01 (footer "PL-CIM_V0016.02 · 1/23") | —
 
+
+## Blind re-label (6 families)
+
+Blind branch `blind/cimberio` @ c08c7db (778pvw, 30xlc, 1220nl, 778pvws, 747nl, 746). BEFORE = raw blind vs first-pass commit 75b1ffd. AFTER = blind vs final gold. Spec values are compared exactly after lowercasing and removing spaces and quote marks.
+
+| row | BEFORE | AFTER |
+|---|---|---|
+| documents found | 9/14 (64%) | 9/14 (64%) |
+| doc_type | 9/9 (100%) | 7/9 (78%) |
+| images | 9/9 (100%) | 9/9 (100%) |
+| variants (SKUs) | 27/27 (100%) | 27/27 (100%) |
+| variant price availability | 6/27 (22%) | 6/27 (22%) |
+| CAD | 2/2 (100%) | 2/2 (100%) |
+| size_range | 6/6 | 6/6 |
+| sizes_available | 6/6 | 6/6 |
+| size_unit | 6/6 | 6/6 |
+| material_body | 1/6 | 1/6 |
+| material_trim | 1/1 | 1/1 |
+| material_seals | 2/2 | 2/2 |
+| end_connections | 6/6 | 6/6 |
+| pressure_rating | 6/6 | 6/6 |
+| temperature_range | 6/6 | 6/6 |
+| certifications | 2/2 | 2/2 |
+| standards | 1/6 | 1/6 |
+| applications | 4/5 | 4/4 |
+| cross_check | 50/55 (91%) | 44/55 (80%) |
+| **family spec fields overall** | **47/58 (81%)** | **47/57 (82%)** |
+
+BEFORE agreement on family spec fields is 81% (at least 80%), so no SPEC clarification round was needed.
+
+Per disagreement (source re-checked each time):
+- **747nl applications** (gold `hydronic heating` from TDS "heating (LPHW)"; blind omitted it) | **blind right** under the new SPEC 6 "Mapping strictness": "heating (LPHW)" does not name `hydronic heating`. The field was removed and the wording moved to applications_other. Same fix in 747prsnl.
+- **1220nl Instructions revision_date** (gold null; blind 2019-06-17) | **blind right**: the footer says "QA1210 - rev. 11 17/06/2019". Fixed.
+- **Price list document + 21 variant prices** (gold: `price_shown` list prices from "List Price Book PL-CIM_V0016.02", linked on https://cimberiovalve.us/resources/; blind: all request_quote) | **gold kept**. The blind pass did not find the price book. It is a public manufacturer price list (own store host), and the Cim Nos. match exactly. The 6 matching rows are the request_quote variants (1220NL-11/12/14 and 746-04/06/07).
+- **standards, 5 families** (gold includes "NSF/ANSI 61-2008 Annex G" because sources say "Based on NSF/ANSI 61-2008 Annex G in compliance with Section 116875…"; blind put it in additional_specs.lead_free_compliance) | **gold kept**: it is a named standard that the product is stated to conform to. "PS117-2004" (gold) vs "PS 117-2004" (blind): gold keeps the source spelling. → top ambiguity #1.
+- **material_body, 5 families** (wording only: comma or word order, e.g. "corrosion-resistant DZR brass" vs "DZR corrosion-resistant brass"; for the 778 series the blind pass also adds the page's "corrosion-resistant") | **gold kept**: gold copies the spec-sheet wording. Same material in every case.
+- **778pvw/778pvws pressure_rating / temperature_range cross_check** (gold agree; blind conflict with 250 PSI / -4..248 °F from the TDS-778 p5 legend) | **gold kept**. The legend is the CV/CM/CS/MT ball-valve torque legend copied from a ball-valve template, next to "Nominal Pressure: 360 PSI". TDS-778 is now a `catalog` (see below), so it does not take part in the spec-sheet cross-check. Logged here, not hidden. → top ambiguity #2.
+- **778pvw/778pvws size fields cross_check** (after: page_only; blind agree via the TDS table) | changed by the SPEC 5 reclassification of TDS-778. SpecificationsV2 gives sizes only for NPT ("½ inch NPT, ¾ inch NPT, or 1-inch NPT sizes"), so the press families are page_only.
+- **TechDataSheet-778_v5 doc_type** (after: catalog; blind spec_sheet) | changed by the new SPEC 5 "Classify by content": it is 8 pages and covers 14 models, and rule 2 makes a technical manual over 4 pages a `catalog`. The blind pass predates this SPEC paragraph.
+- 778pvw/778pvws standards (gold [Annex G] page_only; blind none) | see the standards item above.
+
+## New SPEC paragraphs applied (auto/integration, 2026-10-11) to all 15 labelled families
+
+- **SPEC 5 Classify by content.** I checked every document: TechDataSheet-778_v5 (8 pages) `spec_sheet` → **`catalog`** (secondary) in all 7 778-series families. In each of the 7, every TDS-778 spec source was removed: size fields now come from SpecificationsV2 for NPT models (778, 778V, 778VW) and are page_only for press models (778P, 778PVC, 778PVW, 778PVWS); material/pressure/temperature/certifications/applications come from SpecificationsV2 + page; standards = page value [NSF/ANSI 61-2008 Annex G], page_only. For family 778, "ANSI B1.20.1" (only in the catalog) is dropped because the page outranks a catalog. Unchanged: Cim 778 SpecificationsV2 (2 pages, guide specification, `spec_sheet`), all other TechDataSheets (1–2 pages, `spec_sheet`), the price book (`price_list`), 1220NL Instructions (`iom_manual`).
+- **SPEC 6 Mapping strictness.** 747nl and 747prsnl `applications` removed ("heating (LPHW)" / "heating" / "cooling" go to applications_other). These stay as they are because the source names the term: 30xlc/80prs `commercial` ("commercial plumbing"), `compressed air`; 74prsnl `residential`, `industrial`; 746/3739c `HVAC`; 778 series `domestic hot water`; 746 end_connections `NPT`, `solder`, `press` (alternatives "FNPT / CC (SWT) / Press"). 1220nl already had no applications.
+- **SPEC 4 Image edge cases.** No change. Every image URL is a `/stencil/original/` link that the family page itself references (gallery anchors). No annotated/clean pairs or option collages. Charts stay excluded because their meaning is carried by axis labels and legends.
+
+## Top 5 ambiguities
+
+1. Lead-free statements "Based on NSF/ANSI 61-2008 Annex G…": `standards` (gold) or additional_specs (blind). SPEC should say whether a "based on / in compliance with" statement counts as a standard.
+2. Template legend in TDS-778 (250 PSI, -4..248 °F) that contradicts the sheet's own 360 PSI / 15–200 °F: conflict or ignore. Gold ignores it (and the sheet is now a catalog).
+3. Price-list PDF prices vs "Request a Quote" on the product page (HARNESS_ISSUES cimberio #4).
+4. Series sheets covering versions sold on separate pages (746 FNPT/CC/Press; 3739C/G): SPEC 6a makes the sheet value (and refines/conflict) display even when the page is one version.
+5. Self-contradicting page tables vs prose/TDS on check-valve materials (30XLC/80PRS body "Hot Forged Brass ASTM C37700" vs "DZR CR brass"; seals ASTM D 2000 vs D 2002).
+
 ## SPEC changes made
 
-None in the first pass.
+None by this labeller. (Applied the orchestrator's 2026-10-11 SPEC 4/5/6 paragraphs; see above.)
