@@ -45,8 +45,11 @@ def identifier_of(rec):
 def core_of(ident):
     """Model code without a trailing size / option number: AB100-02 -> AB100, 640WP02 -> 640WP; 778VS stays 778VS."""
     ident = ident or ''
-    m = re.match(r'^(.+?)[-_. ](\d{1,3}[A-Z]?)$', ident) or re.match(r'^(.*[A-Z])(\d{1,3})$', ident)
-    return m.group(1) if m and re.search(r'\d|[A-Z]{2}', m.group(1)) else (ident or None)
+    m = re.match(r'^(.+?)[-_. ](\d{1,3}[A-Z]?)$', ident)
+    if m and re.search(r'\d|[A-Z]{2}', m.group(1)):
+        return m.group(1)
+    m = re.match(r'^(.*\d.*[A-Z])(\d{1,3})$', ident)   # 640WP02 -> 640WP; DA931 is a model number, not DA + size
+    return m.group(1) if m else (ident or None)
 
 
 def stem_of(ident):
