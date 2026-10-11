@@ -392,3 +392,15 @@ class TestFamilyPriceAlwaysFilled(unittest.TestCase):
         self.assertIs(family_price_page([a, b]), a)
         c = NS(price={'availability': 'request_quote'})
         self.assertIs(family_price_page([a, c]), c)
+
+
+class TestTemperatureRangeUnitOnce(unittest.TestCase):
+    """Round 6: '-10 - 120°C' parsed as max -120 because only the upper bound carries the unit."""
+    def test_ranges(self):
+        from mfr_scraper.specs import parse_temperature as T
+        self.assertEqual(T('-10 - 120°C'), ({'min': -10.0, 'max': 120.0}, 'C'))
+        self.assertEqual(T('-10 to 120°C'), ({'min': -10.0, 'max': 120.0}, 'C'))
+        self.assertEqual(T('10 - 120°C'), ({'min': 10.0, 'max': 120.0}, 'C'))
+        self.assertEqual(T('-20°F to 400°F'), ({'min': -20.0, 'max': 400.0}, 'F'))
+        self.assertEqual(T('5°C to 95°C'), ({'min': 5.0, 'max': 95.0}, 'C'))
+        self.assertEqual(T('Maximum temperature 120°C'), ({'min': None, 'max': 120.0}, 'C'))

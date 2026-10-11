@@ -130,8 +130,15 @@ def parse_pressure(raw):
 
 
 def parse_temperature(raw):
-    t = raw.replace('º', '°').replace('−', '-').replace('–', '-')
+    t = raw.replace('º', '°').replace('−', '-').replace('–', '-').replace('˚', '°')
     for unit in ('F', 'C'):
+        # "-10 - 120°C", "-10 to 120 °C": only the upper bound carries the unit.
+        m = re.search(r'(?<![\d.])(-?)\s?(\d+(?:\.\d+)?)\s*(?:-|to)\s*(-?)\s?(\d+(?:\.\d+)?)\s*°?\s*' + unit + r'\b', t)
+        if m:
+            lo = -float(m.group(2)) if m.group(1) else float(m.group(2))
+            hi = -float(m.group(4)) if m.group(3) else float(m.group(4))
+            if lo <= hi:
+                return {'min': lo, 'max': hi}, unit
         ms = list(re.finditer(r'(-?)\s?(\d+(?:\.\d+)?)\s*°?\s*' + unit + r'\b', t))
         vals = []
         for i, m in enumerate(ms):
