@@ -171,7 +171,10 @@ the same entry (decided 2026-10-11).
 **PN and class designations (decided 2026-10-11).** A PN designation (PN16, PN25) is recorded as
 `pressure_rating` value = the PN number, unit `bar`, `raw_text` the designation. When a source gives only a class
 (e.g. ANSI 125) and the same sheet has a pressure/temperature table in bar or psi, the value is the table's maximum
-pressure; the class stays in `raw_text`. Page and sheet are cross-checked on the designation they state.
+pressure; the class stays in `raw_text`. Page and sheet are cross-checked on the designation they state. A PN
+that only qualifies a connection (e.g. "Drilled Flange PN 16", "flanges to EN 1092-2 PN16") describes the flange drilling:
+it stays in the `end_connections` `raw_text`, and when the same source states a working or maximum pressure, that
+pressure is the `pressure_rating` (decided 2026-10-11).
 
 Every value stores: `value`, `unit` (normalized), `raw_text`, `sources[]` (each: url, type page|pdf, PDF page number, section, verbatim quote, snapshot hash, retrieval time).
 
