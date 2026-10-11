@@ -301,3 +301,11 @@ first-pass session compares (before/after agreement) and fixes; < 80% before-fix
   old per-reading logic. Test: `TestTemperatureRangeUnitOnce` (6 cases incl. the unchanged formats).
 - Queued next gaps (crane): `sizes_available` never filled from size columns of dimension tables (15/15 missing);
   PDF row "TEMPERATURE (°C) -10 to 120" not read; applications from "potable water"/"chilled water" prose.
+
+## 2026-10-11 04:26 · Phase 2 · Round 7 hypothesis (stacked on r6: round/6 = 7d3f2d1 in ~/wt-r6)
+- Gap: crane `sizes_available` 0% (15/15 missing), size_range/size_unit missing on 8 families: spec sheets give sizes
+  only as the first column of a dimension table headed "SIZE (mm)" / "SIZE (inch)" / "SIZE (DN)"; pdfplumber merges
+  some rows ("65 80").
+- Change (general): `specs.sizes_from_tables` reads the first table on a sheet whose first header cell is a size
+  heading, collecting each size token of the first column until a non-size row; unit from the heading. Emitted as a
+  sheet candidate for sizes_available (and size_range/size_unit if absent). Tests: `TestSizeColumnTables` (2).
