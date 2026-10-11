@@ -182,3 +182,13 @@ first-pass session compares (before/after agreement) and fixes; < 80% before-fix
 - Bray r1 → r2: variant recall 0 → 21.4, price availability 0 → 53.8; every other key metric unchanged; validation
   0 errors; 0 crashes. Crane baseline (r1 code, separate worktree, shared cache) running, then r2 code on Crane,
   before the keep/revert decision (the rule needs every dev site with a key).
+
+## 2026-10-11 03:20 · Phase 2 · Round 3 hypothesis — per-family PDF cap drops primary documents
+- What fails: Bray primary-document recall 61% (25/41). Of 16 missed primary docs, 13 were never fetched; 11 belong to
+  families whose pages link more than 10 PDFs (e.g. one datasheet per model on single-door check valves, 10 of ≥ 18
+  fetched). `MAX_PDFS_PER_FAMILY = 10` stops after 10 even with primary-looking links sorted first; run flag
+  `pdf_cap_reached` fired on 32 families. The same cap hides the datasheets that list variant identifiers.
+- General fix: raise the cap to 30 (still bounded; it only costs crawl time at 1 req/s). Test: TestPdfCap.
+- Bookkeeping: round 2 candidate committed on local branch `round/2` (a8db6a8, worktree ~/wt-r2) so Crane can be
+  scored with exactly the round 2 code while the round 3 Bray run (r2 + cap) uses a different host in parallel.
+  Rounds are still judged one at a time against the previous kept state.
