@@ -304,3 +304,16 @@ class TestScore(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
+
+
+class TestRepoHygiene(unittest.TestCase):
+    """A worktree's cache symlink was once committed; merging it replaced the real cache with a self-loop."""
+    def test_no_tracked_cache_or_symlinks(self):
+        import subprocess
+        root = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+        try:
+            out = subprocess.run(['git', 'ls-files', '-s'], cwd=root, capture_output=True, text=True, check=True).stdout
+        except (OSError, subprocess.CalledProcessError):
+            self.skipTest('git not available')
+        self.assertEqual([l for l in out.splitlines() if l.startswith('120000 ')], [], 'symlinks are tracked')
+        self.assertEqual([l for l in out.splitlines() if l.split('\t')[-1].startswith('scraper/cache')], [])

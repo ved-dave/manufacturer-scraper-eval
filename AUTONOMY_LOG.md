@@ -275,3 +275,13 @@ first-pass session compares (before/after agreement) and fixes; < 80% before-fix
   logged as next gaps. Apollo: no key (blocked), so dev = bray + crane.
 - Bray r4b (r3 + reworked r4): variant recall 27.3 → 100 (precision 100), price availability 62.5 → 95.8, others
   unchanged. Awaiting crane r3/r4b before deciding r3 and r4.
+
+## 2026-10-11 04:09 · Problem · committed cache symlink wiped the scraper cache (self-healed)
+- Root cause: worktrees got `scraper/cache` as a symlink to the main cache; `.gitignore` had `scraper/cache/`
+  (trailing slash matches directories only), so `git add scraper` in ~/wt-r2 committed the symlink. Merging round/2
+  replaced the main (ignored) cache directory with that symlink — a self-loop — so the HTTP cache was lost and
+  crane r3 crashed on every page (crash isolation kept the run alive; run discarded).
+- Results already harvested (bray r1–r4b, crane r1–r2) finished before the merge and are unaffected.
+- Fix: symlink untracked, `.gitignore` → `scraper/cache`, real cache dir recreated; test
+  `TestRepoHygiene` fails if any symlink or anything under scraper/cache is tracked. Later runs re-fetch at
+  1 req/s (live pages may differ slightly from the earlier rounds' fetches; noted as a comparability risk).
