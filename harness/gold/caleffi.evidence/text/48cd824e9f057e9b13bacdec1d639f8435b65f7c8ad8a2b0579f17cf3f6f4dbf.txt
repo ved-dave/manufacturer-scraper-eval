@@ -1,0 +1,102 @@
+=== page 1 ===
+Z-one™ Relay
+single zone switching relay
+CALEFFI
+ZSR101
+01284/14 NA
+Function
+The ZSR101 single zone switching relay is operated by low voltage
+thermostats. The ZSR101 single zone switching relay incorporates
+Power In, Relay 1 and Relay 2 connection terminals to provide a
+convenient and cost effective way to control a circulator and a boiler
+operating control in a single zone hydronic heating system. The ZSR101
+single zone switching relay saves hours in installation time and provides
+a clean and professional installation.
+Features
+• Compatible with 2, 3 and 4-wire thermostats or other low voltage
+controllers with switching action
+• 120 VAC input
+• Heavy duty, sealed, DPDT, fuse protected relay (with spare fuse)
+• Two outputs (Relay 1 and Relay 2) for operating 120 VAC pump
+with boiler enable, or two devices without boiler enable
+• 5 A capacity each relay - 10 A total
+• Convenient R,W,C and T,T,COM dual labeling at thermostat
+terminals
+• Rear knock-outs for mounting onto 4” x 4” junction box
+Certified to CSA C22-2 No.24 • High capacity 6 VA transformer
+Conforms to UL Standard 873
+4009064 • Automatic resettable fuse on 24 V circuit
+• Simplified wiring with pre-installed jumper
+• Large screw terminals. On-board ground terminals
+• Front panel LED indicator light for functional status
+• 100% factory tested with 3 year warranty
+• ETL certified to CSA and UL standards
+Product range
+Code ZSR101 Z-one™ Relay switching relay ..............................................................................................................................................single zone
+Technical specifications Dimensions
+Materials
+Housing plastic: ABS
+Front display lights: LED
+Electrical knockouts (6) 1/2" size
+Performance
+P Tr o a w n e sf r o s rm up e p r ly v : o ltage: 120 VAC, 50 2 / 4 6 0 V A H C z S CI Z N Z S i P n AU g S iT l Un e P S D TOg R P WIO D lEe RT 1 RN r P e DR: 0 l a IRO 1y IPRS 1 - K T I D n OO 0p FS u T EE t: LR 1 E V 1 rCI 2 CeT 0 IRN V lIGCa A S C yH 5 O 0 C / K 6 0 - H D I z S C 1 O 0A NN M E A CT X ALL Z P O W N R E A
+Maximum transformer load: 6 VA 4009064Ctoo nUfLo r8m7s3 Milwaukee, WI 53208 USA
+Temperature limits for:
+Shipping and storage max: 110°F (43°C)
+Maximum operating: 110°F (43°C)
+B C
+Maximum humidity: 90% non-condensing
+Electrical switch rating: 10A Max combined
+Replaceable fuses: Type 2AG, 5A slow blow
+Approvals: ETL Certifi ed to CSA C22-2 No.24, Conforms to UL873 C
+Code Zones A B C Wgt. (lbs)
+ZSR101 1 5 3/8" 4 5/8" 2 5/8" 1.1
+=== page 2 ===
+Operating principles(illustrative example)
+When a zone has a demand from a thermostat (T T or R W) the relay will R, W, C and T, T, COM dual labeling at
+close sending 120 VAC to Relay 1 NO terminal switching ON the pump, thermostat terminals. Compatible with
+Relay 2 closes C to NO dry contact, signaling the boiler of a heating low voltage 2, 3, or 4 wire thermostats
+R W C
+demand. Refer to Z-one™ Relay Wiring Guide for more system wiring or any other low voltage devices
+diagrams. R W C haTving aT swiCtcOhiMng action.
+T T COM
+P
+PWR
+ZSR101
+TRANSFORMER
+thermostat
+ZONE
+ZSR101 1 Zone
+TRANSFORMER Large screw terminal connections makes wiring easy. Power IN 120V AC
+to N and L screw terminals with a factory installZedO juNmpEer from L terminal
+to the C terminal 1of RZelayo 1 nfore simplifi ed pump connection.
+R W C POWERIN RELAY #1 RELAY #2
+T T com
+N L C NO NC C NO NC
+power
+zone POWERIN RELAY #1 RELAY #2
+outdoor
+transformer
+single zone relay temperatuNre L C NO NC C NO NC
+sensor
+N LL RELAY 1 RELAY 2
+C N/ON/C C N/ON/C
+space
+heating
+demand R W C
+T T COM
+GG N LL T T
+PWR
+ZSR101
+TRANSFORMER
+ZONE
+1 Zone
+POWERIN RELAY #1 RELAY #2
+N L C NO NC C NO NC
+We reserve the right to change our products and their relevant technical data, contained in this publication, at any time and without prior notice.
+Caleffi North America, Inc.
+3883 W. Milwaukee Road
+Milwaukee, WI 53208
+Tel: 414-238-2360 · Fax: 414-238-2366
+sales@caleffi.com · www.caleffi.com/usa/en-us
+© Copyright 2014 Caleffi North America, Inc.

@@ -1,0 +1,180 @@
+=== page 1 ===
+NA11011
+www.caleffi.com
+Manifold Mixing Station
+172 Series
+© Copyright 2022 Caleffi
+Revit Content Instructions Guide
+Manufacturer & Product: Caleffi 172 Manifold Mixing Station
+Manifold_Mixing_Station-3_Outlet-Caleffi-172_Series.rfa
+Manifold_Mixing_Station-3_Outlet-Caleffi-172_Series-ByPass.rfa
+Manifold_Mixing_Station-4_Outlet-Caleffi-172_Series.rfa
+Manifold_Mixing_Station-4_Outlet-Caleffi-172_Series-ByPass.rfa
+Manifold_Mixing_Station-5_Outlet-Caleffi-172_Series.rfa
+Manifold_Mixing_Station-5_Outlet-Caleffi-172_Series-ByPass.rfa
+Manifold_Mixing_Station-6_Outlet-Caleffi-172_Series.rfa
+Manifold_Mixing_Station-6_Outlet-Caleffi-172_Series-ByPass.rfa
+Manifold_Mixing_Station-7_Outlet-Caleffi-172_Series.rfa
+Manifold_Mixing_Station-7_Outlet-Caleffi-172_Series-ByPass.rfa
+Manifold_Mixing_Station-8_Outlet-Caleffi-172_Series.rfa
+Files:
+Manifold_Mixing_Station-8_Outlet-Caleffi-172_Series-ByPass.rfa
+Manifold_Mixing_Station-9_Outlet-Caleffi-172_Series.rfa
+Manifold_Mixing_Station-9_Outlet-Caleffi-172_Series-ByPass.rfa
+Manifold_Mixing_Station-10_Outlet-Caleffi-172_Series.rfa
+Manifold_Mixing_Station-10_Outlet-Caleffi-172_Series-ByPass.rfa
+Manifold_Mixing_Station-11_Outlet-Caleffi-172_Series.rfa
+Manifold_Mixing_Station-11_Outlet-Caleffi-172_Series-ByPass.rfa
+Manifold_Mixing_Station-12_Outlet-Caleffi-172_Series.rfa
+Manifold_Mixing_Station-12_Outlet-Caleffi-172_Series-ByPass.rfa
+Manifold_Mixing_Station-13_Outlet-Caleffi-172_Series.rfa
+Manifold_Mixing_Station-13_Outlet-Caleffi-172_Series-ByPass.rfa
+Type Catalog: Not Applicable
+Rendering file: Not Applicable
+Schedule file: Not Applicable
+These families contain the following main variations or types:
+• 3 Speed Pump with and without ByPass (example: 1725C1A)
+• 3 Speed Pump Inverted with and without ByPass (example: 1725C1A IN)
+• High Efficiency Pump with and without ByPass (example: 1725C1AHE)
+• High Efficiency Pump Inverted with and without ByPass (example: 1725C1AHE IN)
+Manifolds with and without bypass have separate families and applicable family should be selected from
+the list of files provided above.
+Instance Properties
+Here is a curated list of notable parameters for the Revit user within the 3-port Caleffi 172 Manifold Mixing Station families.
+Construction
+Vertical Offset (default) This controls placement of the family.
+Offset from Mounting Surface (default) This controls placement of the family.
+▼ Manifold Port Connection Options (default)
+⓿ MPT_3/4in. (default)
+❶ Universal PEX_5/16in. (default)
+❷ Universal PEX_3/8in. (default)
+❸ Universal PEX_1/2in. (default)
+Select one of the connection options per loop.
+❹ Universal PEX_5/8in. (default)
+❺ Universal PEX_3/4in. (default)
+❻ PEX-AL-PEX_3/8in. (default)
+❼ PEX-AL-PEX_1/2in. (default)
+❽ PEX-AL-PEX_5/8in. (default)
+Caleffi North America
+=== page 2 ===
+❾ PEX-AL-PEX_3/4in. (default)
+▼ Loop Return Port Manifold Operator Options (default)
+❶ Manual Knob (default)
+❷ 6563 - Actuator (default)
+Select one of the return port options per loop.
+❸ 6563 - Actuator w/Micro-Switch (default)
+❹ 6564 - Actuator (default)
+❺ 6564 - Actuator w/Switch (default)
+Mechanical
+This tells you if the flow you specified for any of the loops below exceeds the
+Manifold Flow Status (default)
+maximum allowable for the manifold.
+This tells you the total flow on the manifold without Recirculation Flow Rate
+Manifold Actual Supply Flow (default)
+considered.
+Radiant Port 01 Flow (default) Specify a flow for this loop.
+Radiant Port 02 Flow (default) Specify a flow for this loop.
+Radiant Port 03 Flow (default) Specify a flow for this loop.
+Recirculation Flow Rate (default) Specify a flow for recirculation.
+This shows the total flow from everything you’ve specified on each port along with
+Total Radiant Port Flow (default)
+the Recirculation Flow Rate.
+Mechanical - Loads
+This tells you the pressure drop of the manifold and the critical radiant port
+Manifold Actual Pressure Drop (default)
+pressure drop
+Radiant Port 01 Pressure Drop (default) Specify a pressure drop for this loop.
+Radiant Port 02 Pressure Drop (default) Specify a pressure drop for this loop.
+Radiant Port 03 Pressure Drop (default) Specify a pressure drop for this loop.
+Manifold Pressure Drop (default) Specify a pressure drop for the manifold.
+System Pressure Drop (default) This takes into account the Pressure Drop Feet of Water.
+Pressure Drop Feet of Water (default) Specify the pressure drop in feed of water.
+Water Heater Pressure Drop (default) Specify the water heater pressure drop.
+Type Properties
+Here is a curated list of notable parameters for the Revit user within the Caleffi 172 Manifold Mixing Station families.
+Materials
+Body Material Metal - Caleffi - Brass
+Handle Material Metal - Caleffi - Aluminum - Blue
+Handle Material Metal - Caleffi - Aluminum - Red
+Motor Housing Material Metal - Grundfos - Cast Iron - Red
+Volute Material Metal - Grundfos - Cast Iron - Red
+Identity Data
+Assembly Code D3040
+Contact URL* http://www.caleffi.com/usa/en-us/contacts/contact-us
+Copyright* ©Caleffi North America
+Cost
+Description 3 Outlet Manifold Mixing Station (with 3 Speed pump)
+Family Version* 1
+Keynote
+Manufacturer Caleffi North America, Inc.
+Model 1725C1A
+Product Page URL* https://www.caleffi.com/usa/en-us/catalogue/manifold-mixing-station-3-speed-
+pump-1725c1a
+Type Comments
+Type Image
+Series* 172 Series
+URL https://www.caleffi.com/usa/en-us
+Halftone text in the property tables indicates that the value is locked from editing.
+*Indicates Shared Parameter and can be scheduled
+Rendering
+2 Caleffi North America
+=== page 3 ===
+Note: Standard Caleffi materials are imported. These may be modified, but please ensure that the modification selection matches an actual
+manufacturer supplied option.
+Loading and Placing into the Project
+To work with the Caleffi 172 Manifold Mixing Station in Revit, multiple families for different loop configurations and variations are provided.
+Navigate to the Insert Tab > Load Family button on the Revit ribbon to load the family.
+Please ensure that the visibility settings within the project are modified to have the Mechanical category visible.
+Figure 1 - Insert Tab > Load Family Figure 2 - Visibility/Graphic Overrides
+A. Manifold with 3 Speed Pump
+B. Manifold with High Efficiency Pump
+• With ByPass
+C. Manifold with High Efficiency Pump
+• With ByPass
+• With 6563 Actuator on return port 1,
+6563 Actuator with micro-switch on
+return port 2, 6564 Actuator on return
+port 3
+D. Inverted Manifold with 3 Speed Pump
+• With ByPass
+E. Inverted Manifold with High Efficiency Pump
+F. Inverted Manifold with High Efficiency Pump
+• With 3/8” Universal PEX port 1, 3/4"
+Universal PEX port 2, and 5/8” PEX-AL-
+PEX port 3
+Figure 3 - Caleffi 172 Manifold Mixing Station
+3 Caleffi North America
+=== page 4 ===
+Project Behavior
+One way to place a Caleffi 172 Manifold Mixing Station is to go to the Systems Tab on the Revit ribbon and navigate to the Component button with
+Place a Component fly-out selected. The Caleffi 172 Manifold Mixing Station family can be placed on a face, such as on a wall in Revit.
+Figure 4 - Systems Tab > Component > Place a Component
+Figure 5 - Place on a Wall
+The Caleffi 172 Manifold Mixing Station family is work plane based and includes multiple instance options for configuration once placed.
+• Vertical Offset
+• Offset From Mounting Surface
+• Manifold Port Connection Options (per loop customization)
+o MPT
+o Universal PEX
+o PEX-AL-PEX
+• Loop Return Port Manifold Options (per loop customization)
+o Manual Knob
+o 6563 - Actuator
+o 6563 - Actuator w/ Micro-Switch
+o 6564 - Actuator
+o 6564 - Actuator w/ Switch
+• Individual Radiant Port Flows per loop
+• Individual Pressure Drop per loop
+4 Caleffi North America
+=== page 5 ===
+Figure 6 - A desired connection option of “0” (MPT) and Loop Return Port Manifold Operator “2” (6563 – Actuator) were selected. Individual Radiant
+Port Flows were specified. The manifold itself functions as a terminal unit, so the supply/return piping near the valves would be the only required
+pipes to integrate the Caleffi 172 Manifold Mixing Station into your system. The pipe connecting to individual loops would be optional. Pipe can be
+drawn from any connection point via right click > draw pipe.
+Schedule Creation
+Within the type and instance properties dialogues, the Revit user will find useful information for scheduling purposes such as Type, Part
+Description, Part Number/Model, Family Version, Manufacturer, Series, & Product Page URL. The resulting Mechanical Equipment schedule in your
+project will show counts/quantities of the Caleffi 172 Manifold Mixing Station as well as separate quantities/counts of any separately purchased
+accessory products that do not come in box with the Caleffi 172 Manifold Mixing Station.
+5
+3-1-22

@@ -1,0 +1,3006 @@
+=== page 1 ===
+
+=== page 2 ===
+Caleffi North America, Inc.
+3C 988 a85 le30 f f SWi o N.u oMt r h ti hl5w 4 Aath mu Ske t rer i e cee a Rt , Idnc.
+MFrialwnkaluink, eWeI, 5W31is3c2o nsin 53208
+TT:: 441144..242318..12030600 F F: :4 41144.4.2213.82.827386 6
+Dear Hydronic and Plumbing Professional,
+Dear Hydronic Professional,
+Twelve years after Caleffi North America was established, air issues, dirt issues and
+hydWraeulclico mseep taor athtieo n2 ndis esdueitsio nc oonft iinduroen tioc sb –e C fareleqfufieʼsn ts etompii-casn ninu atlh dee tseigchnn jiocuarl nsaul pfopro rt
+callhsy wdreo nreicc epivroe.f eSsosmioen aolsf .t h ese calls are from contractors trying to correct problems
+in existing systems. Others are from designers looking for the best way to apply our
+proTdhuec t1s s t i ne dai tnioenw osfy isdtreomn.i cSso wmaes c raellleearss esdim inp lyJ aansuka: r“yC 2a0n0 y7o aun edx dpilsatinri bhuotwed t htois odveevri ce
+wo8rk0s,?00”0 people in North America. It focused on the topic hydraulic separation. From
+the feedback received, itʼs evident we attained our goal of explaining the benefits
+and proper application of this modern design technique for hydronic systems.
+A Technical Journal These calls confirm that an understanding of air & dirt separation, as well as hydraulic
+separation, is critically important to those who design, install or maintain hydronic
+from sys I t f e y m o s u . h T a h v o e s n e ʼ t w y h e o t r c e o c m ei p v r e e d h e a n c d o p th y e o se f i t d o r p o i n c i s c s w # e 1 ll , a y r o e u m c o a r n e d c o a p s a o b b le y o s f e n c d re in at g in i g n a th n e d
+attached reader response card, or by registering online at www.caleffi.us. The
+Caleffi Hydronic Solutions mapinutabilnicinagti othne w milol dbeer mn, aeinleedrg tyo- eyfofiuc ifernete s oyfs ctehmarsg teo.d Yaoyu’s cmaanr kaelstpol adcoew dnelomaadn tdhse.
+complete journal as a PDF file from our Web site.
+This 15th edition of idronics combines the topics discussed in our 1st and 2nd issues
+CALEFFI NORTH AMERICA, INC fromTh 2is0 0s7e,c aonndd uepdditaiotens athdodsrees tsoepsic asi rto a nredfl edcirtt sienv heyradlr noenwic psryosdtuecmtss .n Tohwo auvgahil anbolte a f rnoemw
+Calteofpfi.i cS toom oeu ro ifn tdhuesster yn, ethwe pursoed uocf tms ocdoemrnb ihnieg hth-eef ffiucniecnticoyn se qpureipvmioeunslty d peemrfaonrdmse ad by
+3883 W. Milwaukee Rd singthleo rcooumgpho unnendtesr.s Otatnhedrisn ge xopfa tnhde thhaer mrafnugle e offfe acptsp loicfa atiior na nfrdo mdi rrte,s aidse wnteialll ajosb ksn tohwroluegdhg e
+Milwaukee, Wisconsin 53208 USA largoen c hoomwm teor ceilaiml sinysatteem thse tmha. tD poroinvgid seo h heealtpinsg e annsdu rceo othlien gs.ystems you design will
+operate at peak efficiency and provide long trouble-free service.
+Tel: 414-238-2360 From time to time, we receive photos showing installations of Caleffi products. We
+FAX: 414-238-2366
+sincWeere tlryu aspt pyroeuc iwatiell fthineds eth sisu bismsiuttea los.f iTdhreoyn ihcesl pa uuss esfhuol wed auncda teioxnpalal into tohle a nbdes at hwaanyd tyo
+apprelyf earnedn icnes tfaolrl sypoeucri ffiuc tpurroed huycdtsr.o Tnhicis s isyssuteem in cdleusdiegsn sse. vWeera al lssuoc he npchooutorasg. We yeo suin tcoe rseelyn d
+E-mail: idronics@caleffi.com thau e n - sk m fae a lle i l td in hbo g as c u ek s w o a hn t o i d t hh r i o asv n ie i s c ss s ue @ ne c t o a uf l s e i d f t f hr i o . e c ns o iec m sp . huostionsg athnde aetntcaochureadg ere yaodue rt ore csopnotninsuee c sahradr ionrg b y
+them with us.
+Website: www.caleffi.us
+We hope you enjoy this issue and encourage you to send us any feedback about idronics
+To receive future idronics issues Sincerely,
+by e-mailing us at idronics@caleffi.com.
+FREE, register online www.caleffi.us
+For prior issues, please visit us at www.caleffi.us and click on the icon. There
+© Copyright 2011 youM caarnk Odolswonnlo ad the PDF files. You can also register to receive hard copies of future
+Caleffi North America, Inc. issuGeesn.eral Manager,
+Caleffi North America, Inc.
+Printed: Milwaukee, Wisconsin USA Mark Olson
+General Manager & CEO
+INDEX
+1. INTRODUCTION
+2. AIR SEPARATION
+3. DIRT SEPARATION
+4. COMBINED AIR & DIRT SEPARATION
+5. PRINCIPLES OF HYDRAULIC SEPARATION
+6. MODERN METHODS OF HYDRAULIC SEPARATION
+7: PRODUCTS WITH INTEGRATED HYDRAULIC SEPARATION
+8: EXAMPLE SYSTEMS
+SUMMARY
+APPENDIX A: PIPING SYMBOL LEGEND
+Disclaimer: Caleffi makes no warranty that the information presented in idronics meets the mechanical, electrical or other code requirements applicable within a 10%
+given jurisdiction. The diagrams presented in idronics are conceptual, and do not represent complete schematics for any specific installation. Local codes may
+require differences in design, or safety devices relative to those shown in idronics. It is the responsibility of those adapting any information presented in idronics to Cert no. XXX-XXX-XXXX
+verify that such adaptations meet or exceed local code requirements.
+=== page 3 ===
+Separation in Hydronic Systems
+1. INTRODUCTION little dirt. What dirt the system does contain should
+be captured and removed. The state-of-the-art dirt
+To “separate” means to disconnect or segregate. The separators discussed in this issue of idronics can remove
+word separate has several meanings in the context particles as small as 5 microns in diameter.
+of hydronic heating or cooling systems. This issue of
+idronics examines three distinctly different forms of HYDRAULIC SEPARATION:
+separation within such systems. They are: Many hydronic systems contain multiple circulators,
+some of which need to operate at the same time. Ideally,
+1. Air separation the operation of any one of these circulators will not
+2. Dirt separation create any change in the flow or head produced by any
+3. Hydraulic separation other circulator in the system that also happens to be
+operating. When this is achieved, the circulators are said
+All of these are desirable characteristics that exist in well- to be hydraulically separated from each other.
+planned hydronic systems.
+There are several methods by which hydraulic separation
+AIR SEPARATION: can be achieved. This issue of idronics discusses each of
+The ideal fluid in a hydronic heating or cooling system them, along with their strengths and limitations.
+is water without any impurities, air bubbles or dissolved
+gases such as oxygen and nitrogen. However, every For many applications, it makes sense to combine the
+hydronic system starts out with air in all of its components. three fundamental forms of separation into a single
+A well-planned system will quickly enable this air to be device. In other applications, or for retrofit situations, this
+gathered and removed from the system. It will also reduce may not be possible or practical.
+the dissolved air gases in the water to levels where they
+are of no concern. The system should then maintain the A thorough understanding of the principles involved in
+water at a very low level of dissolved air content over each type of separation equips designers to select the
+its entire life. Any small amounts of air that may enter best products and installation locations for the system at
+the system during component maintenance should be hand. This issue of idronics was written to provide this
+quickly captured and ejected. understanding.
+DIRT SEPARATION:
+A newly assembled hydronic system usually contains 2. AIR SEPARATION
+dirt or remnants of oils used during manufacturing,
+transportation or installation. It may also contain pieces Air control within hydronic systems has always presented
+of joint sealing tape, rubber particles or ferrous metal challenges. It began with the earliest hydronic systems
+particles. The latter is common when cast iron or steel that did not have circulators. Water flow was created by
+components such as circulators, panel radiators or cast the buoyancy difference between hot water in the boiler
+iron sectional boilers are used in the system. and cooler water returning from the heat emitters. These
+systems used large-diameter piping and operated at very
+Dirt or metal particles are undesirable in hydronic systems. low flow velocities. Air removal was mostly a matter of
+Fine particles of dirt can interfere with the operation of waiting for air pockets to form and then releasing this air
+moving parts within valves or circulators. They can also through manually operated valves located at high points
+coat the internal surfaces of both heat sources and heat in the system where the air accumulated.
+emitters, decreasing rates of heat transfer. Metal particles
+such as iron oxides can collect in circulators due to the Most of these early systems were “open-loop” rather
+magnetic fields they create. All well-planned and properly than closed-loop systems. An expansion tank vented
+commissioned hydronic systems should contain very to the atmosphere was located at the high point of the
+3
+=== page 4 ===
+system—usually in the attic or upper floor, as seen in
+Figure 2-1, which appeared in a heating design manual
+"open" expansion tank at top of system
+published in 1906.
+Although air could leave this tank as the water in
+the system was heated and expanded, it could also
+reenter the tank as the water cooled. This allowed a
+constant presence of dissolved oxygen molecules
+within the water, which often sustained oxygen-
+based corrosion within these systems constructed
+of iron and steel piping.
+Occupants in buildings got used to “bleeding” the air
+from the system when its presence caused a drop in
+heat output or an annoying noises in the system.
+During the 1940s, engineers began designing closed-
+loop hydronic systems. They created devices to help
+capture air and separate it from the circulating water.
+A system of this vintage typically used a standard
+expansion tank that was supported above the boiler,
+as shown in Figure 2-2.
+To!
+expansion!
+tank
+4
+ebut
+pid
+water!
+to!
+system
+boiler!
+fitting
+from!
+boiler
+air bubbles
+metsys
+ot
+retaw
+Figure 2-1
+Figure 2-2
+Courtesy of Bell & Gossett
+=== page 5 ===
+Air bubbles rising from the boiler were captured by a Figure 2-3
+special “boiler fitting,” and directed through a pipe to the
+expansion tank. Another special “tank fitting” was used
+to minimize the absorption of air within the expansion
+tank into the system water. The overall process is best
+described as air control rather than air elimination.
+Although some of these systems are still in operation,
+they do not represent modern technology. Very few
+systems are now installed using this approach.
+Even when closed-loop hydronic systems became
+standard, industry veterans can attest that air elimination,
+especially during system commissioning, often remained a
+challenge. Significant time went into ridding systems of air,
+especially in large, complex piping systems. Keeping the
+air out of those systems also required frequent attention.
+This is partially because closed-loop hydronic systems
+are not 100% sealed against air entry. Although such
+systems appear to hold pressure reasonably well for
+months, and seldom have visible water leaks, they are
+not perfectly sealed. Small amounts of the gases that • Accelerated corrosion due to oxygen in contact with
+make up air can enter closed-loop hydronic systems ferrous metals
+in a variety of ways, especially if those systems are • Improper lubrication of circulator bushings due to air
+poorly designed. Examples include air weepage at in flow
+valve packings and circulator flange gaskets, as well as • Improper performance of balancing valves
+molecular oxygen diffusion directly through the walls of • Complete loss of flow and heat output due to large
+non-barrier PEX or other types of polymer tubing. Air can air pockets
+even be sucked into hydronic circuits through devices
+intended to expel it. This occurs when improper design, Noise: One benefit provided by a properly designed and
+improper component placement or maintenance allow installed hydronic system is the near-silent conveyance
+the pressure in the piping where the devices are located of heat. Building occupants should not hear water as
+to drop below atmospheric pressure. it travels through tubing and heat emitters. Properly
+deaerated water traveling through piping at velocities
+AIR-RELATED PROBLEMS: of 4 feet per second or less produces sound levels that
+Problems due to air in hydronic systems can be frustrating are virtually undetectable by human ears. However, a
+to occupants as well as heating professionals. If these mixture of water and air is much more acoustically active.
+problems are not fully understood, the attempted solution
+often produces only temporary correction. Eventually,
+Figure 2-4
+those trying to remedy the situation may give up, thinking
+that the system is incapable of operating air-free. This is
+unfortunate and unnecessary, because every properly
+designed modern hydronic system can quickly rid itself
+of air and maintain itself essentially air-free for years.
+The following problems can arise due to air in hydronic
+systems:
+• Noises in the piping and heat emitters that annoy
+occupants
+• Inadequate flows due to a mixture of water and air in
+circulators
+• Poor heat transfer by heat emitters when all heat
+transfer surfaces are not wetted
+5
+=== page 6 ===
+Entrapped air sounds often become noticeable as flow hydronic systems that experience chronic air problems
+begins to disturb stationary air pockets. Air-filled cavities are constantly allowing air to enter the system. This
+within piping and radiators act as acoustic amplifying resupplies oxygen that furthers the corrosion reaction.
+chambers, especially if water enters a component which Poorly deaerated hydronic systems can fail prematurely
+has trapped a large pocket of air. Noise is also generated due to such corrosion. Corrosion of internal surfaces
+when dissolved gases within water are released due can lead to leakage in thin steel components such as
+to a sudden drop in pressure. This is called gaseous panel radiators or expansion tank shells. Corrosion on
+cavitation, and it often occurs at the orifice of valves or other surfaces can eventually break off as ferrous oxide
+the inlet of circulators. particles that can be carried throughout the system
+and possibly become trapped in components such as
+Inadequate Flow: Circulator impellers are designed to circulators or heat exchangers.
+transfer mechanical energy called “head” to incompressible
+liquids. A mixture of water and air is not an incompressible The following chemical reactions can occur in hydronic
+liquid. Although most circulators can maintain flow when systems containing ferrous (iron-containing) components.
+the liquid passing through contains some entrained air,
+mechanical energy transfer is not as efficient as when
+the liquid is fully deaerated. This decreases circulator O + Fe+ 2H O ! Fe(OH) + H
+2 2 2 2
+efficiency and reduces the rate of heat conveyance by the
+FERROUS!
+system. Noise is also present as a mixture of liquid and air OXYGEN IRON IONS WATER HYDROXIDE HYDROGEN
+bubbles pass through a circulator.
+3Fe(OH) ! Fe O + H + H O
+2 3 4 2 2
+Poor Heat Transfer: Air has much lower heat transfer FERROUS!
+HYDROXIDE MAGNETITE HYDROGEN WATER
+properties than water. A given volume of water can
+absorb almost 3500 times more heat than the same
+volume of air. When air displaces water away from heat The compound Fe O is called magnetite and appears
+3 4
+transfer surfaces within heat sources or heat emitters, the as a dark gray sludge within the system. Magnetite is
+rate of heat transfer can be significantly reduced. “Cool also attracted to magnetic fields created by circulators,
+spots” on radiators usually indicate entrapped air, as especially those containing powerful permanent magnets.
+shown in Figure 2-5. Circulator manufacturers have developed improved
+methods of forestalling magnetite or other ferrous metal
+Figure 2-5 particles from reaching the rotating inner parts of their
+circulators, but the potential for some magnetite entry
+into such parts still exists.
+Figure 2-6
+Accelerated Corrosion: Air is about 23% oxygen, and If oxygen continues to be present in the system, magnetite
+oxygen in contact with ferrous metals such as steel and will be converted to hematite (Fe O ), which can cause
+2 3
+cast iron causes corrosion. Many improperly deaerated pitting corrosion throughout the system.
+6
+=== page 7 ===
+Figure 2-7 shows a pipe and circulator with accumulated
+iron oxide sludge. Consider the effect such accumulation Figure 2-8
+would have on flow rate.
+Figure 2-7a
+spring-loaded!
+internal check!
+valve traps!
+rising air!
+in volute
+Courtesy of Tony Hillard
+Figure 2-7b
+Figure 2-9
+Courtesy of Heatboy
+Circulator Damage: Modern wet-rotor circulators have
+ceramic bushings that depend on system water for
+lubrication. Due to its lower density, air tends to accumulate
+near the pump shaft and these bushings. The presence of
+air bubbles or air pockets can displace lubricating water
+and hence create premature bushing failure. The likely
+result is replacement of the entire circulator.
+Circulators installed in vertical piping with upward
+dissolved gases released from solution!
+flow and having spring-loaded check valves near their
+create gaseous cavitation within circulator
+discharge are especially susceptible to large pockets
+7
+=== page 8 ===
+of air. If a sufficient volume of air enters the volute and
+displaces water in the impeller, the circulator may be Figure 2-10
+air pocket
+unable to clear itself and will quickly be running without
+lubrication. Failure is almost certain.
+Gaseous cavitation occurs within circulators when the
+pressure at the eye of the impeller drops below the
+saturation pressure of gases such as oxygen or nitrogen
+in solution with the water. The dissolved gas molecules
+instantly form bubbles that interfere with circulator
+performance, as depicted in Figure 2-9.
+Sediments formed by oxidation within the system can
+be deposited on the impeller and volute of circulators,
+lowering their performance or causing total blockage
+(see Figure 2-6).
+Improper Performance of Balancing Valves: Hydronic
+can form at the top of heat emitters, boiler sections,
+balancing valves are precision devices designed to perform
+unvented tanks, inverted diaphragm-type expansion
+within tight specifications when conveying liquids. The
+tanks or heat exchangers. Air pockets can also form
+presence of air in the water changes the pressure drop
+in horizontal piping that eventually turns downward or
+versus flow rate characteristics of the valves, allowing
+piping that is routed above obstacles in its path, as
+flow rates to drift away from desired settings. This in turn
+shown in Figure 2-10.
+can lead to improper heat delivery in various portions
+of the system. Highly throttled balancing valves can
+As water enters the system, these locations can trap air,
+also experience gaseous cavitation when water with a
+especially if water approaches them from both directions.
+high dissolved air content passes through them. Such
+Slow water movement during the filling process also
+cavitation can lead to annoying noises, especially in valves
+enhances air pocket formation.
+located within or near occupied spaces.
+Stationary air pockets can also reform when air bubbles
+Complete Loss of Flow: If a stationary air pocket is
+merge and migrate toward high points. This is especially
+large enough, and the piping system is tall enough,
+likely in components with low flow velocities, where
+the system’s circulator cannot generate sufficient lift
+slow-moving fluid is unable to push or drag the air along
+to force water over the top of the system. Under such
+with it. Examples of such components include large heat
+circumstances, there will be complete loss of flow in the
+emitters, large diameter piping and storage tanks.
+circuit. Even if the circulator can establish some flow over
+the top of the system, that flow may not be sufficient to
+ENTRAINED AIR BUBBLES:
+entrain air and help dislodge the air pocket.
+A moving fluid may be able to carry air bubbles along
+with the flow (e.g., entrain them). This is desirable from
+FORMS OF ENTRAPPED AIR the standpoint of moving air bubbles from remote parts of
+Air exists in three distinct forms within hydronic systems: the system back to a central air-separating device, where
+they can be captured and expelled. However, if the fluid’s
+• Stationary air pockets at high points flow velocity through the air-separating device is too high,
+• Entrained air bubbles the entrained air cannot be efficiently separated and could
+• Gases dissolved within water end up passing through the separator many times.
+Every hydronic system is completely filled with air at the The ability of a fluid to entrain air can be judged by its
+start of its commissioning. As water enters the lower ability to move bubbles vertically downward, against their
+portions of the system, air rises upward. However, some natural tendency to rise. If the fluid moves downward
+components or improper piping configurations may not faster than a bubble can rise, it will pull the bubble along.
+allow all the air initially contained in the system to rise A minimum flow velocity of 2 feet per second is needed
+to the top where an air venting device may be present. to entrain air bubbles within downward-flowing pipes.
+This results in trapped air pockets. These pockets
+8
+=== page 9 ===
+MICROBUBBLES: DISSOLVED AIR:
+Air can also exist in hydronic systems as microbubbles. Molecules of the gases that make up air (nitrogen,
+Individually, most microbubbles are too small to be oxygen, carbon dioxide and some other compounds) can
+seen by the human eye. However, dense collections of exist “in solution” with water molecules. Since molecules
+microbubbles can make otherwise clear water appear are too small to be seen, water that appears perfectly
+cloudy. A common place to see temporary clouds of clear and free of bubbles can still contain a significant
+microbubbles is in a drinking glass just filled with water amount of dissolved gases that ultimately need to be
+from a faucet having an aerator device. Figure 2-11 shows removed from the system.
+a visually enhanced microscopic view of microbubbles.
+The amount of dissolved gases that water can hold
+depends on the water’s temperature and pressure. At
+higher temperatures, the ability of water to contain
+dissolved gases decreases, and vice versa. As the
+pressure of the water increases, so does its ability to
+hold dissolved gases in solution.
+The contours in Figure 2-12 show the maximum amount
+of dissolved air gases contained in water over a range of
+temperatures and pressures (expressed as a percentage
+of total volume). For example, at 15 psi gauge pressure
+and a temperature of 65ºF, up to 3.6% of the molecules
+in a container of water can be dissolved gases (oxygen,
+nitrogen and other trace gases). However, if the water’s
+temperature is raised to 170ºF while maintaining the
+same pressure, its ability to hold dissolved gas is
+reduced to 1.8% of its volume, half the previous level.
+Such a change in temperature would be typical of
+cold water heated within a boiler and illustrates the
+“degassing” effect of increased temperature.
+Source: www.urmc.rochester.edu
+In hydronic systems, microbubbles form when water with
+dissolved gases such as oxygen and nitrogen is heated
+in a boiler or other heat source. In chilled-water cooling
+systems, it is possible for microbubbles to form within
+terminal units as the water absorbs heat under low water
+pressure conditions. They can also form when water
+passes through a component that creates a sudden and
+significant pressure drop, such as a valve that is almost
+closed.
+Microbubbles have extremely low rise velocities and are
+easily entrained by moving fluids. This characteristic
+makes them more difficult to capture compared to
+larger bubbles. Some hydronic systems, especially older
+systems, have air-separating devices that do not provide
+sufficiently low flow velocities or suitable internal detailing
+to allow efficient microbubble separation. While larger
+bubbles are more easily captured due to their greater rise
+velocities, microbubbles are often swept through older
+style air-separating devices without being captured. The
+result can be a system that takes days, or sometimes
+weeks, to reduce its air content to acceptable levels.
+9
+retaw
+fo
+snollag
+001
+rep
+ria
+devlossid
+fo
+snollag
+ni
+tnuoma
+xaM
+Figure 2-11
+Figure 2-12
+Gauge pressure
+5.5
+30 psi 45 psi 60 psi 75 psi 90 psi 105 psi
+5.0
+4.5
+4.0
+15 psi
+3.5
+3.0
+2.5
+0 psi
+2.0
+1.5
+1.0
+0.5
+0
+32 65 100 135 170 205 240 275 310 345
+Water temperature ((cid:1)F)
+=== page 10 ===
+As the pressure of the water is lowered, so is its ability For example, the ability of water to absorb air as it
+to hold dissolved gases in solution. Figure 2-12 shows cools helps reduce the volume of stationary pockets in
+that reducing the pressure of 170ºF water from 15 to 0 areas of the system where flow is slow. This absorbed
+psi gauge pressure reduces the amount of dissolved air can be carried back to a high-efficiency separating
+gas it can contain from 1.8% to about 0.6% of its device where it is then captured and ejected from the
+volume. This explains why air bubbles are more likely system. The ability of water to absorb air can also cause
+to form in the upper portions of a multi-story hydronic an undesirable condition called “water logging” in older
+system. Lower static pressure in the upper portions of style expansion tanks without diaphragms or bladders.
+the building makes it easier for dissolved air to come
+out of solution. Higher static pressure near the bottom It’s always desirable to minimize the dissolved air
+of the system tends to keep gases in solution. content of the system’s water. This is accomplished by
+establishing conditions that encourage dissolved gases
+Temperature also affects the solubility of dissolved gases to come out of solution (e.g., high temperatures and low
+in water. Figure 2-13 shows a simple piping system with pressures), and placing an effective air separating device
+representative temperatures and gauge pressures at four at a location where such conditions occur.
+locations.
+AIR REMOVAL DEVICES:
+The graph to the right of the piping schematic shows Most air removal devices used in hydronic systems can
+the combination of temperature and gauge pressures be classified as either:
+at these four locations. Notice that point A is the lowest
+of the four points, and thus represents the lowest 1. High-point vents
+solubility of air in water of the four locations. The lower 2. Central air separators
+the solubility, the more likely microbubbles are present;
+thus point A is the preferred location for the Caleffi High-point vents release air from one or more high points
+Discal air separator. in the system where it tends to accumulate. Typical
+locations for high-point vents are the top of each heat
+Water can repeatedly absorb and release gases as its emitter, the top of distribution risers, the top of tanks or
+temperature and/or pressure changes. This can affect hydraulic separators, or wherever piping turns downward
+hydronic systems in several ways—some good and following an upward or horizontal run. Figure 2-14 shows
+some not so good. some examples.
+10
+retaw
+fo
+snollag
+001
+rep
+ria
+devlossid
+fo
+snollag
+ni
+tnuoma
+xaM
+Figure 2-13 Gauge pressure
+143ºF
+5.5
+30 psi 45 psi 60 psi 75 psi 90 psi 105 psi
+C18 psi 5.0 B
+32 psi 169.9ºF 4.5
+NOTE: pressures shown on!
+4.0
+piping are gauge pressures
+15 psi
+ON
+Discal air! 3.5
+separator
+B
+170ºF 3.0 D
+C
+2.5
+0 psi
+A 20 psi 135ºF 2.0
+A
+1.5
+19.8 psi
+D VENT 1.0
+0.5
+low head loss boiler
+0
+32 65 100 135 170 205 240 275 310 345
+location of lowest air Water temperature ((cid:1)F)
+solubility in water
+=== page 11 ===
+float-type!
+air vent
+TRV
+hydraulic!
+separator
+TRV
+manifold!
+buffer
+station
+tank
+A central air separator is used to remove entrained air from a
+flowing fluid, as well as to maintain the system at the lowest
+possible air content.
+MANUAL AIR VENTS:
+The simplest type of high-point venting device is a manual air vent.
+These components are essentially small valves that thread into 1/8-
+inch or 1/4-inch FPT tappings, and are operated with a screwdriver or
+square head key. When opened, air moves through the valve seat and
+exits through a small side opening.
+Manual air vents are commonly installed at the top of each heat
+emitter. An example of a manual air vent installed at the top of a panel
+radiator is shown in Figure 2-15. Such vents are opened to release
+air that rises to the high point as fluid enters lower in the system.
+When the fluid level reaches the manual air vent, a small stream of
+water will flow out the side of the vent. A small piece of flexible tubing
+can be used to guide this stream into a can or pail. It’s important
+to capture this water and not allow it to stain carpets or otherwise
+damage surrounding materials. When a steady stream of water has
+been flowing from the vent for several seconds, it should be closed.
+After air has been removed from the system, be sure to check that the
+system has adequate static water pressure.
+Manual air vents can also be mounted on a special fitting called a
+baseboard tee, an example of which is shown in Figure 2-16a. These
+11
+sresir
+gnipip
+Figure 2-14
+float-type! float-type!
+manual air vent
+air vent air vent
+y
+a
+arr
+or
+ct
+e
+oll
+c
+ar
+ol
+manual air vent s
+float-type!
+air vent
+float-type! manual!
+air vent air vent
+flow
+Figure 2-15a
+Figure 2-15b
+=== page 12 ===
+fittings resemble a 90º elbow, but with
+Figure 2-16a Figure 2-16b an extra port having either 1/8” or 1/4”
+air vent FPT threads. They are typically installed
+at high points where piping changes
+baseboard tee
+from vertical to horizontal. Their name
+comes from a common application in
+which they are mounted on the outlet of
+a fin-tube element within a baseboard
+convector, as seen in Figure 2-16b.
+HYGROSCOPIC AIR VENTS:
+Another type of small high-point venting
+device is called a hygroscopic air vent.
+flow
+An example of such a device is shown
+finned-tube
+baseboard element in Figure 2-17a. Figure 2-17b shows
+this device installed at the top of a cast
+iron radiator.
+Figure 2-17a Figure 2-17b Hygroscopic air vents contain a special
+cellulose fiber disc that, when dry,
+allows air to pass through it and exit the
+vent. When moisture reaches the disc,
+it expands very quickly to stop further
+flow from the device. The location and
+thickness of the fiber disc is illustrated
+in Figure 2-18.
+Hygroscopic air vents can be used
+in either automatic or manual mode.
+When the knob is opened one turn
+from its fully closed position, as shown
+in Figure 2-19a, it operates the same
+as a manual air vent. Any pressurized
+air at the base of the vent exits through
+a small hole at the side of the vent’s
+brass body.
+Figure 2-18
+When the knob is fully closed, an internal O-ring seals off the side port.
+However, if air is present at the vent, the fiber discs will dry and allow air
+to pass through them. This air is discharged under the vent’s knob, as
+shown in Figure 2-19b. Once the air has been vented and water reaches
+internal
+hygroscopic! disc the fiber discs, they swell very quickly to seal off any further discharge.
+air vent
+(DRY)
+Minerals or sediment in the system water can interfere with the operation
+of the internal hygroscopic disc. It is generally recommended that these
+discs be replaced every three years. Caleffi hygroscopic air vents
+contain an internal spring-loaded check valve that closes whenever the
+upper portion of the vent body is removed, such as when changing the
+fiber discs. This is illustrated in Figure 2-19c.
+internal
+disc Although hygroscopic air vents are automatic, they can be manually
+(WET)
+opened and are therefore not recommended in locations where
+tampering is possible. A float-type air vent is a preferred choice in such
+locations.
+12
+=== page 13 ===
+Figure 2-19a Figure 2-19b Figure 2-19c
+FLOAT-TYPE AIR VENTS: that this cap is loosened when the vent is put into
+A float-type air vent provides fully automatic air release operation. If the cap is fully closed, the vent cannot
+and instantaneous response to the presence of water. An operate. Caleffi vents can be equipped with Caleffi-
+example of such a device is shown in Figure 2-20. specific “anti-siphon” caps that prevent airflow into the
+vent if the pressure at the vent location drops below
+atmospheric pressure.
+Figure 2-20a Figure 2-20b
+cap, (sealed when closed) Float-type air vents are available in different sizes and
+air outlet ports shapes. Compact designs allow mounting within the
+spring-loaded stem
+enclosures of heat emitters, such as fin-tube convectors
+valve seat & O-ring
+or fan-coils. Larger “high-capacity” vents are available for
+linkage
+air use at the top of central air separators, storage tanks, or
+other locations where high-volume air venting is needed.
+It’s important to remember that some float-type air vents can
+float
+also allow air to enter the system if the system pressure at
+their installed location drops below atmospheric pressure.
+This can happen as a result of improper placement of the
+expansion tank relative to the circulator. It can also be
+caused by low static pressure in the system. Caleffi anti-
+water siphon vent caps are designed to prevent this intake of air.
+inlet It’s good practice to design and commission all closed-
+loop hydronic systems so there is at least 5 psi of
+It contains an air chamber, a float assembly and an air positive static pressure at the top of the system. This
+valve. As air accumulates within the chamber, the float ensures that float-type vents will always be able to expel
+descends. A linkage attached to the float eventually any air that accumulates.
+opens the valve mechanism at the top of the unit. As air is
+released, water flows into the chamber and lifts the float to It’s also important to verify that the pressure rating of
+close the valve. Some Caleffi float-type vents are equipped float-type air vents is suitable for the conditions and
+with hygroscopic caps that seal the vent from water locations where they will be located in the system.
+leakage, and thus provide secondary leak protection if the Hydronic systems that have piping installed over several
+vent’s internal valve mechanism does not operate properly. building stories can generate high static pressure in the
+lower portions of the system, where such vents may be
+Most float-type air vents are equipped with a cap that located at the top of tanks, heat exchangers, hydraulic
+protects the valve mechanism from debris. It’s important separators, boilers or other devices.
+13
+=== page 14 ===
+!
+Figure 2-21a Figure 2-21b float-type air vent
+vanes deflect bubbles!
+into upper chamber
+microbubbles are!
+not efficiently
+removed!
+by air purgers
+flow velocity!
+not more than !
+4 feet/second microbubbles often remain!
+connection for! entrained in water flow!
+expansion tank
+CENTRAL AIR SEPARATORS: the air removal efficiency of these devices, albeit at the cost
+The ability to maintain very low air levels within a closed- of larger and more expensive hardware. Air purgers are not
+loop hydronic system is vital to quiet, efficient and reliable designed to capture microbubbles, and as such, cannot
+operation. The key component in providing this function is lower the dissolved air content of the system as well as
+a central air separator. Such devices can be categorized separators specifically designed for this purpose. A cutaway
+as either air purgers or microbubble air separators. illustration of a typical air purger is shown in Figure 2-21b.
+Figure 2-21a shows an example of a cast iron air purger. MICROBUBBLE AIR SEPARATORS:
+These relatively simple devices encourage well-formed air Due to their small size and low buoyancy, microbubbles
+bubbles to rise into a collection chamber and then pass are more difficult to capture relative to well-formed
+out through a float-type air vent at the top of that chamber. bubbles or large air pockets. Doing so requires surfaces
+They rely heavily on the buoyancy of well-formed bubbles upon which microbubbles can cling and eventually merge
+as the means of separation. To achieve proper operation, into larger bubbles. This process is called coalescence
+the velocity of the flow stream entering the separator must and is critically important to attaining and maintaining
+be kept below 4 feet per second. Lower velocities increase minimum air levels in hydronic systems.
+Figure 2-22a Figure 2-22b
+cap
+air discharge valve
+float linkage
+float
+float guide
+air collection chamber
+coalescing media
+flow with entrained air deareated flow
+14
+=== page 15 ===
+The surface on which microbubbles coalesce
+is called the “coalescing media.” Some
+microbubble air separators use metal meshes
+for this media, while others use special
+polymers. In either case, the coalescing media
+must provide high surface contact area,
+enhancement of vertical bubble movement
+chiller
+and a relatively low pressure drop.
+!
+PLACEMENT OF CENTRAL AIR
+microbubble!
+! air separator! SEPARATORS
+microbubble! (vertical)
+air separator! Central air separators work best when
+(horizontal) located where the solubility of dissolved
+gases within the system water is lowest. In
+heating systems, they should be mounted
+near the outlet of the heat source (see Figure
+VENT VENT 2-23). In cooling systems, they should be
+mounted on the inlet side of the chiller (e.g.,
+where water temperatures are warmer).
+In some situations, it is convenient to use
+a central air separator that can mount in a
+As microbubbles coalesce together, they form larger
+vertical pipe. Figure 2-24 shows an example of such
+bubbles. Eventually, the bubbles attain a volume large
+an application. Notice how the air separator placement
+enough that buoyancy forces overcome the adhesion
+allows flow through it during space-heating as well as
+forces holding them to the coalescing surface. The
+domestic water-heating operating modes. The greater
+bubbles then rise along the coalescing surfaces to a
+the number of times system water passes through the
+chamber above the main flow stream where they can
+heat source and central air separator, the better the
+be collected and expelled through a float-type air vent.
+latter device can “scrub” dissolved gases from the water
+The concept of coalescence inside such a separator is
+and expel them.
+illustrated in Figure 2-22b.
+The ability of a microbubble air separator
+to lower the water’s dissolved gas content
+allows that water to absorb air back into
+solution as it cools. A common example of
+this is water cooling within piping and heat
+emitters during an off-cycle. Think of this
+cooling water as a “sponge” that soaks
+up molecules of air gases with which it
+! comes in contact. Since these molecules
+microbubble! are pulled into and held in solution under
+air separator!
+these conditions, they will eventually be
+(vertical mount)
+carried back to the heat source when
+flow resumes. Upon heating, they will be
+released from solution as microbubbles
+and captured by the microbubble air
+separator. This process is ongoing and
+can eventually bring the dissolved air
+content of the water to approximately
+0.4% of system volume. In this state, the
+water can provide efficient and virtually
+silent conveyance of heat, and its very low
+oxygen content discourages corrosion.
+15
+!WHD
+rotalucric
+!gnitaeh rotalucric
+Figure 2-23
+Figure 2-24 boiler
+to / from
+space heating!
+system
+VENT
+Indirect domestic!
+water heater
+=== page 16 ===
+AIR MANAGEMENT
+There are some situations in which it is not desirable to eject Air management maintains the internal air volume in its
+air from a closed-loop hydronic system. Instead, the air in proper location within the system. In the system shown in
+the system needs to be maintained in part of the system. Figure 2-25, any air that is captured by the microbubble
+air separator is returned to the air-filled portion of the
+A closed-loop solar thermal system using drainback system rather than being ejected from the system. This
+freeze protection is one such situation. Consider the allows the pressurized closed-loop system to maintain
+closed-loop, drainback protection solar combisystem its initial pressurization, since air is not being expelled
+shown in Figure 2-25. from it. Likewise, when the collector circulator turns off,
+air from the top of the tank moves back through the air
+For drainback freeze protection to work, there must be return tube, and then up into the collector array. At the
+air in the collectors and any exposed piping whenever same time, water within the collector array and exposed
+the collector circulator is off. Total air elimination, as piping flows back down to the tank. No air is ejected
+previously discussed, would defeat the purpose of from the system.
+drainback freeze protection. However, the air in the
+collectors and upper portion of the storage tank should Notice that there is no automatic makeup water assembly
+not be allowed to find its way into the distribution system on this system. Such an assembly, if present, would
+where it could potentially cause problems such as noise, eventually allow the system to fill with water should there
+poor circulator performance or trapped air pockets. be an air leak at any point.
+Thus, the air in the system must be “managed.”
+Also note that there is no expansion
+tank in this system. The captive air
+volume at the top of the storage
+tank, if properly sized, provides the
+volume needed to accommodate
+the expansion volume of the
+system’s water and serve as the
+drainback space.
+ThermoCon tank
+16
+ssalgthgis
+Figure 2-25
+Starmax V
+collectors
+auxiliary boiler
+air
+pressure
+adjust
+air return tube
+microbubble
+air separator
+air space
+to / from!
+distribution
+=== page 17 ===
+Figure 3-1 3. DIRT SEPARATION
+There are many ways dirt can enter a hydronic system.
+Perhaps the most common is through repeated handling of
+piping and system components from manufacturing through
+transportation and installation. Piping and components stored
+on-site can accumulate wind-blown dust or even larger dirt
+particles if dragged over the ground or dirty floor surfaces.
+Insects can nest in piping stored in warehouses or on jobsites.
+Sediment can also be present in hydronic systems, especially older
+systems containing steel or iron piping and cast iron radiators. This
+is especially true for systems that originally operated with steam
+and are being converted to hot water circulation.
+Figure 3-2
+Even new cast iron boilers or radiators can contain residue
+associated with their manufacturing. Metal chips from reaming
+copper or iron piping often lodge inside pipes during installation.
+Access solder often forms small pellets inside piping. Welding
+slag grains are also common in systems using steel pipe.
+DIRT-RELATED PROBLEMS:
+The ideal hydronic heating or cooling system would be dirt-free.
+The presence of dirt can have serious consequences, including:
+• Damage to rotating components in circulators, especially
+impeller and bushing surfaces. Figures 3-1 and 3-2 show two
+examples of circulators with clogged impellers caused by
+debris and iron oxides within hydronic systems.
+• Reduced heat transfer due to “fouled” surfaces in heat
+sources, such as the cast iron boiler section seen in Figure
+Figure 3-3
+3-3. Fouling due to dirt accumulation is especially problematic
+in boilers or other heat sources with compact heat exchangers.
+Fouling due to dirt accumulation can also drastically affect the
+thermal and hydraulic performance of heat exchangers. Figure
+3-4 shows an example of a heavily fouled plate from a plate &
+frame heat exchanger.
+Figure 3-4
+Photo courtesy of Ken Shockley
+17
+=== page 18 ===
+Similar fouling can occur with chillers and heat exchangers Figure 3-7
+in chilled-water cooling systems.
+Dirt in the flow stream can also exasperate internal
+erosion of copper tubing, as shown in Figure 3-5. The
+higher the flow velocity, the more aggressive the erosion.
+Figure 3-5
+Figure 3-8
+Courtesy of Illinois State Water Survey
+Dirt in systems, especially very fine particles, can
+eventually collect on transparent surfaces such as those
+used in sightglasses, rotameter flow meters or flow
+meters built into manifold stations. This can make
+it difficult or impossible to read the flow level in the
+sightglass or the flow rate through the meter. Figures 3-6
+and 3-7 show two examples.
+Figure 3-6
+Figure 3-9
+With sufficient accumulation, dirt buildup can cause the
+moveable parts in the flow meter to jam, rendering the
+meter useless.
+Dirt can also cause erosion and/or clogging of relief
+valves, balancing valves, check valves, venting valves
+and thermostatic radiator valves, as depicted in Figures
+3-8 and 3-9.
+18
+=== page 19 ===
+DIRT SEPARATION METHODS: Figure 3-11
+There are three common methods for capturing and
+expelling dirt from hydronic systems:
+1. Use of chemical “flocculants” to wash the inside of the
+system.
+2. Use of basket strainers.
+3. Use of low-velocity-zone particle separators.
+Chemical flocculants act as detergents within piping
+systems. They provide the chemical reactions necessary
+to dislodge certain types of accumulated sediments and
+assist in bonding fine particles together so that they
+can be entrained in a flowing stream. A typical system
+cleaning procedure involves adding the flocculants to the
+system, then operating it at elevated temperatures for
+several hours so that accumulated sediment or corrosion
+residuals can be dislodged and carried along by the flow.
+The system is then drained and flushed with clean water to As debris collects inside the strainer’s basket, it impedes
+expel as much of the sediment as possible. This procedure flow. This results in increased pressure drop and hence higher
+can be done when the system is first commissioned or head loss. If the strainer basket is not properly maintained,
+as a remedial measure for systems in which sediment such head loss can be excessive. Figure 3-12 shows an
+or corrosion scale has decreased performance. Some example of a heavily loaded basket from a Y-strainer.
+flocculants also coat the inside of piping and components
+with a residual film to protect against corrosion.
+Figure 3-12
+Basket strainers, also known as Y-strainers, entrap dirt
+within a “basket” made of stainless steel or brass mesh.
+The cross section of a typical Y-strainer is shown in
+Figure 3-10.
+Figure 3-10
+Flow reductions due to dirt accumulation in Y-strainers will
+reduce heat conveyance by the system. When restricted
+strainers are present near the inlet of circulators, they can
+induce vapor cavitation due to significant pressure drop.
+This can severely damage a circulator if not corrected.
+Y-strainers work similarly to the strainer inside the neck
+of a funnel. All system flow passes through the strainer Experimental testing of Y-strainers in which 70% of the free
+and particles larger than the mesh size of the basket are area of the basket screen is covered with debris have shown
+trapped. Particles smaller than the mesh size may pass a pressure drop 450% higher than the same Y-strainer with
+through the basket, as shown in Figure 3-11. a clean basket screen. Figure 3-13 compares the pressure
+19
+=== page 20 ===
+6
+5
+4
+3
+2
+1
+0
+0 2 4 6 8 10 12 14 16
+is reduced, often by a factor of 9 or more. The reduced
+velocity makes it difficult for the flow stream to continue
+entraining the dirt particles. A specially designed media
+within the low-velocity-zone dirt separator further impedes
+dirt entrainment. The dirt particles drop out of the active
+flow region of the separator and collect in the bowl at the
+bottom of the separator. When a valve at the bottom of this
+bowl is opened, the accumulated dirt is “blown down” (e.g.,
+expelled) to a hose or bucket. An example of a Caleffi Dirtcal
+low-velocity-zone dirt separator is shown in Figure 3-15.
+A low-velocity-zone dirt separator has much lower head
+loss and pressure drop compared to the same size
+Y-strainer with a clean screen. Figure 3-16 compares the
+pressure drop of a 1” pipe size Caleffi Dirtcal separator to
+that of a 1” pipe size Y-strainer with a clean basket, as well
+drop of two 1” pipe size Y-strainers: one with a clean basket,
+and the other with the basket 70% plugged with debris.
+In most systems, the pressure drop across a basket
+strainer is monitored to determine when cleaning is
+necessary. A pressure drop of 5% or more of the
+differential pressure across the circulator is a reasonable
+indication that the strainer should be cleaned. Ball valves
+are installed to isolate the strainer so its basket can be
+removed without significant fluid loss, as shown in Figure
+3-14. Flow through the system must be stopped during
+this cleaning procedure.
+LOW-VELOCITY-ZONE DIRT SEPARATORS
+Low-velocity-zone dirt separators allow gravity and
+deflection to separate dirt particles from the flow stream.
+The velocity of the flow stream entering such a separator
+20
+)isp(
+pord
+erusserp
+1" Y-strainer !
+(70% plugged)
+1" Y-strainer !
+(clean basket)
+flow rate (gpm)
+∆P across strainer is"
+monitored to determine"
+when cleaning is necessary
+basket strainer
+ball valves isolate "
+strainer during cleaning
+6
+5
+4
+3
+2
+1
+0
+0 2 4 6 8 10 12 14 16
+)isp(
+pord
+erusserp
+Figure 3-13 Figure 3-15
+Figure 3-14
+Figure 3-16
+1" Y-strainer !
+(70% plugged)
+1" Y-strainer !
+(clean basket)
+1" Dirtcal!
+flow rate (gpm)
+=== page 21 ===
+as the same Y-strainer with a basket that
+is 70% plugged.
+Lower head loss and pressure drop
+reduces the circulator power required
+for a given flow rate. This reduces long-
+term system operating cost.
+Because sediment accumulates below
+the flow stream, low-velocity-zone dirt
+separators can operate for relatively
+long periods between blowdowns.
+Furthermore, flow through the system
+does not need to stop during the
+blowdown procedure.
+As with air separation, flow velocity
+through a low-velocity-zone dirt
+separator affects performance. The
+maximum flow velocity through such a
+device is 4 feet per second.
+EFFICIENCY OF DIRT SEPARATION
+No dirt separator or Y-strainer can
+capture 100% of the dirt in a flow stream
+during a single pass through the device.
+This is especially true of very small
+particles, such as iron oxide, which are
+easily entrained with flow. The smaller
+the particles, the greater the number of
+cycles required to remove them. Figure
+3-17 shows the results of a particle
+separation test performed on a Caleffi
+iron oxides are a common type of debris that could be
+low-velocity-zone dirt separator. Results reflect particle
+present in many hydronic systems.
+size, flow velocity and the number of passes (e.g.,
+number of times the entire system volume has passed
+Iron oxide particles are attracted
+through the separator).
+to magnetic fields. The most
+common location of such
+Testing has shown that Caleffi low-velocity-zone
+fields within hydronic systems
+separators can remove nearly 100% of small sand particles
+is near a circulator’s motor.
+in sizes greater than 100 micrometers (approximately
+Manufacturers of wet-rotor
+0.004 inches) when operating with flow rates up to 4
+circulators have continually
+feet per second. Eventually these separators can remove
+improved the ability of their
+particles as small as 5 micrometers (approximately 0.0002
+circulators to isolate such
+inch). This dimension is less than 1/10th the diameter of a
+particles from the fluid-filled
+human hair, and much smaller than the particle size that
+space between the rotor and
+can be captured by a typical Y-strainer.
+stator poles. Still, circulators
+installed in systems with high
+MAGNETIC DIRT SEPARATORS
+iron oxide content are more
+Many hydronic systems contain cast iron or steel
+likely to experience eventual
+components. The presence of these ferrous metals
+accumulation of these particles
+creates the opportunity for iron oxides to form. The
+within the rotor can. In severe
+greater the presence of oxygen, and the more conductive
+cases, this accumulation
+the water, the faster these oxides form. It follows that
+can jam the rotor within the
+21
+0001
+Efficiency
+50 passages ( 2 f/s)
+01 02 05
+Efficiency (%)
+Efficiency
+50 passages ( 4 f/s)
+100
+80
+60
+40
+20
+0
+orciM
+ezis
+elcitrap )mµ( 0 5 61 53 36 501 051 012 052 005
+Figure 3-17
+(Separated quantity. )
+100%
+Initial quantity
+WORKING ZONE
+DIRTCAL
+CARTRIDGE FILTERS
+SPECIAL STRAINERS
+Y-STRAINERS
+Figure 3-18
+=== page 22 ===
+Figure 3-19 rotor can, preventing the powerful rare-earth magnets on or within the separator.
+circulator from operating. Iron oxide particles are attracted to these magnets,
+improving the capture efficiency of the separator. When
+The high-efficiency wet- the magnetic portion of the separator is removed, the iron
+rotor circulators that oxide particles along with other debris can be flushed out
+are increasingly used in from the lower bowl of the separator.
+hydronic systems contain
+very strong rare earth Figures 3-20 and 3-21 show external and internal views
+magnets within their of a Caleffi DirtMag magnetic dirt separator. Notice the
+rotors, as demonstrated black collar near the bottom of the separator’s bowl. This
+in Figure 3-18. They may collar contains powerful rare earth magnets that attract
+also use closer spacing ferrous metal particles and hold them against the side of
+between the rotor can and the brass body, which is nonmagnetic.
+rotor to improve magnetic
+coupling between the The permanent magnets used in this collar maintain
+rotor and stator, which their full strength over time, allowing the separator to
+improves motor efficiency. constantly attract and capture ferrous particles as they
+form in the system.
+Evidence suggests that
+the long-term wire-to- Figure 3-22 Figure 3-23
+water efficiency of these circulators can decrease by
+20% or more due to accumulation of iron-based particles
+within the circulator, as seen in Figure 3-19. Although
+the circulator may still operate, it does so at reduced
+flow and head relative to when first installed. In other
+cases, the circulator can be completely stalled by the
+accumulation of such particles.
+One way to help ensure that high-efficiency circulators
+maintain good performance is to trap iron oxide particles,
+as well as other debris, before they can accumulate
+within the circulator. This is possible using magnetically
+enhanced, low-velocity-zone dirt separators.
+The ability of a low-velocity-zone dirt separator to
+capture iron oxide particles is enhanced by installing
+Figures 3-22 and 3-23 shows another variation on a
+magnetic dirt separator. In this case, the separator’s
+Figure 3-20 Figure 3-21
+body is made of engineered polymer. The body connects
+to a rotatable brass base fixture that allows the body to
+remain vertical regardless of the orientation of the pipe
+to which it is attached. This separator also contains a
+media that helps separate dirt from the flow stream. The
+magnetic collar can be seen at the lower end of the body.
+Figure 3-24 shows a DirtMag separator being drained.
+Notice that the magnetic collar has been removed during
+the drainage process. This allows the captured ferrous
+metal particles to drop into the lower bowl and be flushed
+out with other debris.
+Figure 3-25 shows how a magnet attracts iron containing
+dirt particles that have been captured in the effluent
+flushed from the DirtMag separator.
+22
+=== page 23 ===
+Figure 3-24
+Figure 3-26
+distribution
+piping
+dirt
+system
+separator
+VENT
+Figure 3-27
+Figure 3-25
+old cast iron!
+radiator system
+air! system!
+separator circulator
+purge!
+valve
+magnetic!
+dirt!
+separator
+as shown in Figure 3-26. This is especially important in
+PLACEMENT OF DIRT SEPARATORS: systems using boilers or other heat sources with compact
+Because most dirt particles have a density greater than heat exchangers. It’s also very important in systems where
+water, they tend to migrate toward the lower portions of a new boiler is installed in a system containing older piping
+the system. Thus, it makes sense to separate and capture and/or cast iron radiators, as shown in Figure 3-27.
+them in this area. It also makes sense to continually route
+system flow through a dirt separator to increase the The dirt separator is placed on the return side of
+number of passes the system volume makes through the the distribution system to capture particles that might
+device in a given amount of time. otherwise flow through the new boiler. A magnetic dirt
+separator is especially appropriate for such systems
+Dirt separators are commonly placed on the inlet side given the higher potential of iron oxide particles in the
+of boilers, heat exchangers and other heat sources, flow stream.
+23
+=== page 24 ===
+Notice that purging valves have been located just
+Figure 3-29
+upstream of the dirt separator. This allows some of the
+dirt in the system to be flushed out during initial filling brazed !
+and purging. This, in turn, decreases the amount of dirt -plate!
+the separator will eventually have to capture. heat ! dirt!
+exchanger separator
+When possible, it’s also desirable to place the dirt
+separator upstream of circulators. This helps extract dirt
+before flow passes through the circulator. When doing so,
+allow at least 12 pipe diameters of straight pipe between dirt!
+the outlet of the air separator and inlet of the circulator.
+separator
+Some systems use multiple circulators to push flow
+from different circuits into the boiler. In this case, the
+compromise is to place the dirt separator upstream of the
+boiler, as shown in Figure 3-28.
+In systems with a main mixing valve, it’s best to place dirt
+Figure 3-28 separators in the return line from the distribution system
+boiler
+ahead of the valve. This increases flow through the
+separator and better protects the mixing valve from dirt.
+With all installations, be sure to plan sufficient space to
+connect a drain hose or place a bucket under the dirt
+separator to capture the expelled fluid and dirt.
+Low-velocity-zone dirt separators are also well-suited
+to protect the small fluid passageways within plate-type
+heat exchangers from dirt accumulation. Separators
+should be installed near the inlets of both the primary
+DirtMag dirt! Discal air! and secondary sides of the heat exchanger, as shown in
+separator separator Figure 3-29.
+DHW DHW
+heating heating
+24
+=== page 25 ===
+Figure 4-1 Figure 4-2 Figure 4-3
+combined
+air & dirt
+VENT
+separator
+Combined air & dirt separators use the same
+principles of microbubble air separation in the
+upper portion of the separator body, combined
+with low-velocity-zone dirt separation in the lower
+portion of the separator body. They have a float-type
+4. COMBINED AIR & DIRT SEPARATION
+automatic air vent at the top of the body and a drainage
+valve at the bottom, as seen in Figure 4-1.
+Some designers prefer to combine the function of air
+separation and dirt separation into a single device. This
+Caleffi also offers combined air & dirt separators with
+approach saves space, especially in tight mechanical
+magnetically enhanced separation of ferrous particles. A
+rooms. It also reduces cost relative to installing two
+cross section of one such separator is shown in Figure 4-2.
+individual separators.
+Figure 4-4 chilled-water!
+air handlers
+air vent
+Combined air &
+dirt separator variable-speed!
+pressure-regulated!
+circulator
+flow-!
+balancing!
+valves
+temperature! air vent
+sensor
+chiller
+ThermoCon buffer tank
+25
+=== page 26 ===
+PLACEMENT OF COMBINED SIZING AIR & DIRT SEPARATORS:
+AIR & DIRT SEPARATORS The ability of an air separator, dirt separator or a
+The preferred placement of a combination air & dirt separator combined air & dirt separator to remove the undesired
+depends on the application and system piping. In heating materials from a stream of water depends on the flow
+systems, preference should be given to air separation. The velocity of that stream. Slower flow velocities improve
+preferred placement of the combined air & dirt separator is separation efficiency. For optimum performance, the
+near the outlet of the heat source, as shown in Figure 4-3. pipe size for any of these separators should limit flow
+This creates conditions favorable to air separation (e.g., velocity to 4 feet per second. Higher flow velocities of
+higher fluid temperature and lower pressure). up to 10 feet per second are possible but will decrease
+the efficiency of air and dirt separation. Separation will
+In cooling systems, the preferred placement of the air still occur, but over a longer time. Figure 4-5 lists the
+& dirt separator is near the return to the chiller plant, as nominal pipe size of separators along with the flow rates
+shown in Figure 4-4. Water at this location has a slightly corresponding to flow velocities of 4 feet per second and
+higher temperature compared to water leaving the chiller. 10 feet per second.
+This improves the conditions under which microbubbles
+can form. It also places the dirt separating function on the
+inlet to the chiller plant, which reduces the potential of dirt
+accumulation within the chiller.
+Figure 4-5
+BRASS STEEL
+size 3/4" 1" 1.25" 2" 2.5" 3" 4" 5" 6" 8" 10" 12"
+flowrate!
+4 ft/sec 8.0 9.3 10.0 37.3 63 95 149 259 380 625 980 1410
+GPM
+flowrate!
+10 ft/sec 19.0 22.1 25.0 88.8 150 227 355 616 904 1570 2450 3530
+GPM
+26
+=== page 27 ===
+5. PRINCIPLES OF HYDRAULIC SEPARATION
+Many hydronic systems contain multiple independently
+controlled circulators. These circulators can vary widely in
+their flow and head characteristics. Some may operate at
+fixed speeds, while others will operate at variable speeds.
+When two or more circulators operate simultaneously in the
+same system, they each attempt to establish differential
+pressures based on their own pump curves. Ideally, each
+circulator in a system will establish a differential pressure
+and flow rate that is unaffected by the presence of another
+operating circulator within the system. When this desirable
+condition is achieved, the circulators are said to be
+hydraulically separated from each other.
+Conversely, the lack of hydraulic separation can create
+very undesirable operating conditions in which circulators flow rate
+interfere with each other. The resulting flows and rates of
+heat transport within the system can be greatly affected
+by such interference, often to the detriment of proper
+heat delivery.
+Next, assume circulator 2 is turned on, while circulator
+1 remains on. The flow rate through the common piping
+Very little head loss occurs! increases, and so does the head loss across it. However,
+in this portion of the circuits. because of its spacious geometry, the increase in head loss
+circulator 2
+across the common piping is very small. The system head
+circuit 2 loss curve that is now “seen” by circulator 1 will steepen,
+but very slightly. It is shown as the green curve in Figure 5-3.
+circuit 1
+circulator 1
+common piping
+The degree to which two or more operating circulators
+interact with each other depends on the head loss within
+the piping path they have in common. This piping path
+is called the common piping, since it is shared by both
+circuits. The lower the head loss of the common piping,
+the less the circulators will interfere with each other.
+Consider the system shown in Figure 5-1. In this system,
+both circuits share common piping. The “spacious”
+geometry of this common piping creates very low flow
+velocity through it. As a result, very little head loss can
+occur across it.
+Assume that circulator 1 is operating, and circulator 2 is
+off. The blue circuit head loss curve shown in Figure 5-2
+applies to this situation. The point where the blue circuit
+head loss curve crosses the orange pump curve for
+circulator 1 establishes the flow rate in circuit 1.
+27
+)daeh
+fo
+teef(
+)ssol
+ro
+niag(
+daeh
+circuit 1 head loss curve including !
+common piping (circulator #1 on)
+pump curve!
+(circulator #1)
+0
+0
+flow rate in circuit 1
+when it is the only
+circuit operating
+circuit 1 head loss curve including !
+common piping (both circulators on)
+circuit 1 head loss curve including !
+common piping (circulator #1 on)
+very small change in!
+pump curve!
+head loss across!
+(circulator 1)
+common piping!
+when both circuits
+are on
+0
+0
+VERY small decrease in!
+circuit 1 flow rate!
+when circuit 2 is on
+flow rate in circuit 1 flow rate in circuit 1
+when BOTH circuits! when it is the only
+are operating circuit operating
+)daeh
+fo
+teef(
+)ssol
+ro
+niag(
+daeh
+Figure 5-2
+Figure 5-1
+Figure 5-3
+flow rate
+=== page 28 ===
+circulator 2
+Very little head loss occurs!
+in this portion of the circuits. circuit 2
+circulator 2
+circuit 2
+common piping
+circuit 1
+circulator 1
+common piping
+circulator 1
+common piping circuit 1
+The operating point of circuit 1 has moved very slightly LACK OF HYDRAULIC SEPARATION:
+to the left and slightly upward. This implies that the flow Having stressed that hydraulic separation is desirable, it
+rate through circuit 1 has decreased very slightly. This very is worthwhile to consider a situation in which hydraulic
+small change in flow rate is indicated in Figure 5-3. Such separation is NOT present and observe the consequences.
+a small change in circuit flow rate will have virtually no
+effect on the ability of circuit 1 to deliver heat. Thus, the Consider the horizontal piping system shown in Figure 5-5.
+interference created when circulator 2 was turned on is of no The larger circulator is sized to move sufficient flow through
+consequence. Therefore, this situation provides acceptable the higher flow-resistance circuit including the high-flow-
+hydraulic separation between the two circulators. resistance heat source. When operating, the flow created by
+the large circulator creates a pressure drop of 5 psi between
+One could imagine a hypothetical situation in which the head the supply and return headers connected to the heat source.
+loss across the common piping was zero, even with both
+circuits operating. Because no head loss occurs across the
+common piping, it would be impossible for either circulator
+to have any effect on the other circulator. Such a condition small circulator
+would represent “perfect” hydraulic separation and would P=22 psi
+large circulator
+be ideal. Fortunately, perfect hydraulic separation is not
+P=17psi
+required to ensure that the flow rates through independently
+operated circuits, each with their own circulator, and each
+backseated!
+sharing the same low-head-loss common piping, remain check valve
+reasonably stable, and thus capable of delivering consistent ON OFF
+heat transfer. In animated terms, the two simultaneously
+operating circulators cannot “sense” each other’s presence ∆P = 5 psi
+within the system, and thus operate as if they were each in
+an independent circuit.
+P=12 psi
+One can think of (and design) circuits that are known to
+have a high degree of hydraulic separation, as if they
+were completely independent of each other, as illustrated
+in Figure 5-4.
+P=17 psi
+The required hydraulic performance of each circuit can be no flow
+determined as if it were a standalone circuit, unaffected
+by the other circuits in the system. This is a very powerful
+concept that simplifies design and troubleshooting.
+28
+isp
+01
+=P∆
+Figure 5-4
+Figure 5-5
+heat source!
+with high!
+flow resistance
+P=13 psi
+P=16 psi
+=== page 29 ===
+Figure 5-6 shows the pump curve for the
+smaller circulator. Notice that the maximum
+possible differential pressure this circulator
+can create is 4 psi.
+Because the reverse differential pressure of
+5 psi is greater than the maximum forward
+differential pressure of 4 psi, the circulator
+cannot create flow, even though its impeller
+is spinning at normal speed. Its internal check
+valve remains closed. Under this condition,
+the circulator is said to be “deadheaded.” It
+will dissipate its full input power as heat. This
+heat will be absorbed by the water in the
+circulator’s volute, as well as be dissipated
+by the circulator’s body. Although this is not a
+The pressures shown in Figure 5-5 are those established
+condition that should be allowed by proper design, small
+when the large circulator is operating and the small
+wet-rotor circulators can usually withstand such operation
+circulator is off. Because there is no flow in the circuit
+for several hours. Such situations can be avoided by
+containing the small circulator, the 17 psi pressure at the
+creating hydraulic separation between the circuits.
+return end of this circuit is present around the circuit.
+Hence, there is a 17 psi pressure at the discharge port
+EVOLUTION OF HYDRAULIC SEPARATION:
+of the smaller circulator. This creates a reverse pressure
+Although the term hydraulic separation is relatively new
+differential of (17-12) = 5 psi across the small circulator,
+to the North American hydronics industry, the principle
+which forces its internal check valve closed.
+of avoiding interaction between simultaneously operating
+circulators in the same system is
+not. During the 1950s, the concept
+of primary/secondary piping was
+introduced in North America. It
+was promoted as a way to provide
+stable on/off flow control in multiple
+independently controlled circuits, each
+with its own circulator. It is based on the
+use of two very closely spaced tees, as
+shown in Figure 5-7.
+Because the tees are very close
+together, the pressure drop between
+them due to head loss is almost zero.
+Hence, the pressure at the side port of
+each tee is almost exactly the same.
+Since there is virtually no pressure
+differential between the tees, there is
+very little tendency for flow to develop
+in the secondary circuit, even though
+flow is passing through the tees in
+the primary circuit. However, it is
+still good practice to install a spring-
+loaded check valve on the supply
+side of every secondary circuit to
+prevent buoyancy-driven flow from
+developing. The intended flow rate in
+the secondary circuit is achieved when
+29
+⎞ ⎟
+D
+⎛ ⎜)daeH(=PΔ
+⎠441⎝
+15
+10
+5
+0
+)teef(
+dedda
+daeh
+Figure 5-6
+6
+4 psi ∆P at 0 flow
+4
+2
+pump curve!
+for small circulator
+0 0
+2 4 6 8 10
+flow rate (gpm)
+Figure 5-7
+spring-loaded!
+check valve
+secondary circuit
+secondary!
+circulator
+purging!
+valve
+primary!
+closely!
+circulator
+spaced!
+tees
+another
+primary loop secondary
+circuit
+heat source
+=== page 30 ===
+whenever two or more of the
+Figure 5-8 secondary circuits are operating
+simultaneously. Although there
+are situations in which this
+temperature drop doesn’t
+present a problem, it does add
+complications that designers
+must assess and compensate for.
+vertical air separator
+One way to overcome the
+secondary circuits series temperature drop effect
+associated with series primary
+loops is to create a parallel
+primary loop, as shown in Figure
+5-9.
+boiler!
+A parallel primary loop is divided
+circulator
+into two or more “crossover
+bridges.” A pair of closely spaced
+tees within each crossover bridge
+provides hydraulic isolation
+VENT between each secondary circuit
+and the parallel primary loop.
+closely closely closely closely
+spaced primary! spaced spaced spaced
+tees circulator tees tees tees Unlike a system with a series
+primary loop, a system with a
+series primary loop
+parallel primary loop provides
+magnetic! essentially the same supply water
+dirt separator temperature to each secondary
+circuit, regardless of which
+secondary circuits are operating.
+This benefit is achieved through
+the secondary circulator operates. Because the flow more complicated and costly
+created by the primary circulator does not induce flow piping. Notice that each crossover bridge contains a
+in the secondary circuit, nor does it have any significant flow-balancing valve. These valves are needed to set
+effect on the flow in the secondary circuit when its the flow through each crossover bridge in proportion
+secondary circulator is operating, these two circuits are to the thermal load served by the secondary circuit
+hydraulically separated from each other. supplied from that bridge. If these valves are not present
+and properly adjusted, there may be problems such as
+This concept can be extended to multiple secondary inadequate flows through the crossover bridges located
+circuits served by a common primary loop, as shown farther away from the primary circulator.
+in Figure 5-8. Each secondary circuit, including the
+secondary circuit through the boiler, is joined to the Another important consideration is that both series and
+primary circuit using a pair of closely spaced tees to parallel primary/secondary systems require a primary
+provide hydraulic separation. circulator. This circulator adds to the installed cost of
+the system. More importantly, it adds to the system’s
+The configuration shown in Figure 5-8 is more precisely operating cost over its entire life. Even one small primary
+called a series primary/secondary system. With this loop circulator in a system can have operating costs that
+approach, all secondary circuits are arranged in a total more than $1,000 over a typical 20-year design
+sequence around the common primary loop. life. Larger primary loop circulators can have life-cycle
+operating costs of several thousand dollars.
+Although hydraulic separation exists between all circuits,
+so does an often-undesirable effect—a drop in supply For example: Consider a primary loop circulator that must
+produce a flow rate of 50 gpm, with a corresponding
+water temperature from one secondary circuit to the next
+30
+=== page 31 ===
+head of 15 feet (which is evidenced by a pressure gain Furthermore, if the cost of electricity were to inflate at 4%
+of 6.35 psi across the circulator). Assume the circulator each year, the total operating cost of this circulator over a
+is a typical wet-rotor design and has a wire-to-water 20-year period would be:
+efficiency of 25% at these operating conditions. The
+estimated input power to operate this circulator is:
+This cost is only for operation of the primary loop
+circulator. It does not include purchase, installation or
+If this primary loop circulator were to operate for 3000 maintenance of that circulator over time.
+hours each year, and the local cost of electrical energy
+was $0.10/kWhr, the annual operating cost would be: Imagine a situation in which the hydraulic separation
+benefits of primary/secondary piping, as well as the equal
+supply water temperatures provided by a parallel primary
+loop, could be provided without having to construct a
+primary loop or use a dedicated primary loop circulator.
+There are now several modern
+methods for achieving these
+benefits without need of
+Figure 5-9
+constructing primary/secondary
+piping systems. They are
+discussed in the next section.
+boiler!
+circulator
+primary!
+circulator
+VENT
+closely
+spaced closely
+tees spaced
+tees
+balancing!
+valves
+parallel primary loop
+magnetic!
+dirt separator
+31
+=== page 32 ===
+6. MODERN METHODS OF Nearly all cast iron sectional boilers have large chambers
+HYDRAULIC SEPARATION through which water moves very slowly as it passes
+from the boiler’s inlet to its outlet. These slow internal
+Any component or combination of components with very velocities create very low head loss through the boiler,
+low head loss, and common to two or more hydronic even when all the zone circulators are operating. If this
+circuits, can provide hydraulic separation between those type of boiler is combined with low-head-loss header
+circuits. piping, as discussed in the previous section, the resulting
+combination creates low-head-loss common piping for
+One way to create low head loss is to keep the flow path the zone circuits. This, along with a very simple piping
+through the common piping very short. Another way to arrangement, provides the necessary conditions for
+create low head loss is to significantly reduce the flow hydraulic separation.
+velocity through the common piping.
+When modulating/condensing boilers were first introduced
+Examples of devices that use these principles include: to North America, many of them used compact internal
+heat exchangers that created much higher head loss in
+1. A heat source that has very low head loss comparison to traditional cast iron boilers. Some of these
+2. A pair of closely spaced tees boilers were installed using the same piping arrangement
+3. A buffer tank with specific piping arrangement that was common practice with cast iron boilers, as
+4. A hydraulic separator shown in Figure 6-2.
+5. Specialty components such as a Caleffi HydroLink
+Figure 6-2
+Each of these methods can provide hydraulic separation
+between simultaneously operating circulators, as well as high-head-loss boiler
+equal supply water temperature to each load circuit.
+LOW-HEAD-LOSS HEAT SOURCE:
+Figure 6-1 shows an example of a system with a single
+cast iron sectional boiler supplying 4 zone circulators.
+Many North American hydronic systems were once piped
+similar to this. Although the term hydraulic separation was
+not used at that time to describe the inherent advantage of
+this approach, these systems performed well with minimal
+interference between simultaneously operating circulators.
+Figure 6-1
+VENT
+low-head-loss!
+common piping
+low-head-loss !
+headers The high head loss of the mod/con boiler significantly
+increased the overall head loss of the common piping and
+largely negated the hydraulic separating characteristic
+attained in systems using the older style, low-head-
+VENT loss boilers. This created many problem installations,
+since installers and manufacturers did not immediately
+recognize the source of the resulting flow problems.
+low-head-loss boiler
+Eventually, the source of the flow problems was traced
+back to the high head loss of the new style boilers with
+32
+=== page 33 ===
+their compact heat exchangers.
+Piping methods were modified
+to correct this problem. These
+methods will be discussed shortly.
+Today, there are modulating/
+condensing boilers available with
+low-head-loss characteristics. When
+combined with low-temperature
+manifold station
+distribution systems, they provide
+serving!
+the benefit of high thermal efficiency,
+low-temperature!
+heat emitters as well as the benefit of simple
+gas! low-head-loss!
+piping that provides excellent
+burner common piping
+hydraulic separation between the
+circulators. Figure 6-3 shows an
+example of such a system.
+HYDRAULIC SEPARATION
+USING CLOSELY SPACED TEES:
+Heat sources such as mod/con
+boilers with compact internal heat
+exchangers or water-to-water heat
+VENT
+pumps tend to have high-head-
+loss characteristics. Because of
+modulating/condensing ! this, they should not be part of a
+heat source with low- ! common piping assembly that is
+head-loss characteristic
+supposed to have low head loss.
+One solution is to couple such heat
+sources to a generously sized header
+system using a pair of closely spaced
+tees, as shown in Figure 6-4.
+Because they are positioned as
+close to each other as possible,
+there is virtually no head loss
+between the tees. They form
+the common piping between the
+boiler circuit and the headers, and
+thus provide hydraulic separation
+between the boiler circulator and
+any of the circulators on the supply
+header. The headers have also
+closely been sized for low head loss.
+spaced As such, they provide hydraulic
+tees low-head-loss! separation between any two or
+boiler
+common piping more of the circulators connected
+circulator
+to the headers.
+A suggested guideline is to size
+headers for a flow velocity in the
+range of 2 to 4 feet per second
+when all the circulators supplied
+by the header are operating. Low
+33
+TNEV
+Figure 6-3
+Figure 6-4
+boiler with high-
+head-loss
+characteristic
+=== page 34 ===
+flow velocity creates minimum head loss, while also allowing
+for air bubble entrainment. The latter is useful when air bubbles
+Tube/pipe size Flow rate at Flow rate at
+need to be forced downward in a vertical header during
+2 ft/sec 4 ft/sec
+system commissioning.
+1” M copper 5.5 gpm 10.9 gpm
+Figure 6-5 lists the flow rates corresponding to flow velocities
+1.25” M copper 8.2 gpm 16.3 gpm of 2 feet per second and 4 feet per second for type M copper
+tubing in sizes from 1-inch to 5-inch, and in schedule 40
+1.5” M copper 11.4 gpm 22.9 gpm steel for larger pipe sizes. For other piping materials or sizes,
+the flow rate corresponding to a given flow velocity can be
+2” M copper 19.8 gpm 39.6 gpm calculated using Formula 6-1.
+2.5” M copper 30.5 gpm 61.1 gpm
+Formula 6-1:
+3” M copper 43.6 gpm 87.1 gpm
+4” M copper 75.9 gpm 152 gpm
+Where:
+v = average flow velocity (ft/sec)
+5” M copper 118 gpm 236 gpm
+f = flow rate (gpm)
+6” schd. 40 steel 180 gpm 361 gpm di = exact inside diameter of pipe (inches)
+8” schd. 40 steel 312 gpm 624 gpm With proper hydraulic separation, such as shown in Figure 6-4,
+it is possible to combine circulators with significantly different
+10” schd. 40 steel 492 gpm 984 gpm pump curves on the same header system. It is also possible to combine fixed-speed and variable-speed circulators on the
+12” schd. 40 steel 699 gpm 1397 gpm
+same low-head-loss headers.
+HYDRAULIC SEPARATION
+USING A BUFFER TANK:
+Figure 6-6 shows a buffer tank
+and generously sized headers
+serving as the low-head-loss
+common piping that provides
+hydraulic separation between the
+heat source circulator and each
+of the distribution circulators.
+This demonstrates that hydraulic
+separation can sometimes be
+accomplished as an ancillary
+function to the main purpose of the
+device (e.g., hydraulic separation
+is not the main function of the
+buffer tank).
+Figure 6-7 shows an example
+buffer!
+tank of a Caleffi ThermoCon tank
+low-head-loss! serving as both a buffer tank
+common piping and hydraulic separator between
+a water-to-water geothermal heat
+pump, a modulating/condensing
+auxiliary boiler and the associated
+distribution system.
+34
+TNEV
+Figure 6-5
+! d2 $
+f =v# i &
+"0.408%
+!( f ' f ) T +( f ) T $
+T = 4 1 4 1 1
+2 " # f % &
+4
+!( f ' f ) T +( f ) T $ !( 25'10 ) 120+( 10 ) 160$ T 2 = " # 4 1 f 4 1 1 % & = " # 25 % & =136ºF
+4
+!( f ' f ) T +( f ) T $
+Figure 6-6 T = 1 2 1 4 4 3 " # f % &
+boiler with high- 1
+head-loss
+characteristic
+!( f ' f ) T +( f ) T $ !( 15'10 ) 170+( 10 ) 100$
+T 3 = " # 1 2 f 1 4 4 % & = " # 15 % & =123.3ºF
+1
+boiler
+circulator
+=== page 35 ===
+Figure 6-9 shows the external appearance of several
+Caleffi hydraulic separators. The front portion of the
+insulation shell has been removed from the two smaller
+separators. The large, self-supporting hydraulic separator
+is awaiting site-installed insulation.
+Hydraulic separators are sometimes also called low
+loss headers or “decouplers.” They create a zone of
+low flow velocity within their vertical body. The diameter
+of the body is typically three times the diameter of the
+connected piping. This causes the vertical flow velocity
+th
+in the vertical body to be approximately 1/9 that of the
+connecting piping, as shown in Figure 6-10. Such low
+velocity creates very little head loss and very little dynamic
+Courtesy of Harvey Youker and Danny Gough pressure drop between the upper and lower connections.
+Thus, a hydraulic separator provides hydraulic separation
+HYDRAULIC SEPARATION USING
+in a manner similar to a buffer tank, only smaller.
+A HYDRAULIC SEPARATOR:
+Another method of providing hydraulic separation is
+The reduced flow velocity within a hydraulic separator
+by installing a device appropriately called a hydraulic
+allows it to perform two additional functions. First,
+separator. Although relatively new in North America,
+air bubbles can easily
+hydraulic separators have been used in Europe for many
+rise upward within
+years. Figure 6-8 shows a hydraulic separator installed in
+the vertical body and
+place of the buffer tank in Figure 6-6. Note the similarity
+be captured in the
+of the piping connections between the systems.
+upper chamber. When
+boiler with high-
+head-loss
+characteristic
+boiler
+circulator
+hydraulic!
+separator
+35
+TNEV
+low-head-loss common piping
+TNEV
+Figure 6-7
+Figure 6-9
+Figure 6-8
+Installed separator photo courtesy of Rathe Associates
+=== page 36 ===
+sufficient air collects at the top of the
+body, the float-type air vent allows it to be
+ejected from the system. Thus, a hydraulic
+separator can provide air separation.
+Second, the reduced flow velocity
+inside the hydraulic separator allows dirt
+particles to drop into a collection chamber
+at the bottom of the body. A valve at the
+bottom can be periodically opened to
+flush out any accumulated dirt. Thus, the
+hydraulic separator also serves as a dirt
+removal device.
+The efficiency of both air and dirt separation
+is enhanced through use of a coalescing
+media in the active flow zones, which are
+in line with the side ports of the separator.
+These are shown in Figure 6-11.
+High-performance hydraulic separators,
+such as the Caleffi HydroCal, provide
+three functions:
+1. Hydraulic separation
+2. High-performance air
+separation (equivalent to a
+Caleffi Discal air separator)
+3. High-performance dirt
+separation (equivalent
+to a Caleffi Dirtcal dirt
+separator)
+This multifunctional ability
+allows a single high-
+performance hydraulic
+separator to provide
+hydraulic separation, as
+well as replace a high-
+performance air separator
+and high-performance dirt
+separator, as illustrated in
+Figure 6-12.
+36
+"2
+=
+retemaid
+Figure 6-10
+air vent
+air bubbles can rise faster
+than the downward water flow
+area = A
+diameter = 6"
+flow velocity = 4 ft/sec
+area = 9A flow rate = 40 gpm
+almost zero
+pressure drop b/w!
+flow velocity = 0.44 ft/sec upper and lower
+flow rate = 40 gpm connections
+dirt particle drop
+into lower bowl
+drain valve
+Figure 6-11
+HIGH
+PERFORMANCE
+hydraulic separator!
+"STANDARD"! (air & dirt removal
+hydraulic ! enhanced by
+separator coalescing media)!
+upper coalescing
+media encourages!
+air bubbles to form
+air bubbles "ride" up
+the vertical filaments
+of the coalescing media
+- out of the active flow
+zone
+lower coalescing coalescing media
+media encourages!
+dirt particle to drop!
+out of active flow
+zone
+=== page 37 ===
+Figure 6-12
+Caleffi!
+HydroCal
+distribution
+boiler circuit heating!
+system
+load(s)
+air!
+separator
+distribution
+system
+boiler
+closely!
+circuit heating!
+spaced!
+load(s)
+tees
+dirt!
+separator
+MAGNETICALLY ENHANCED Figure 6-13a Figure 6-13b
+PARTICLE SEPARATION:
+The latest enhancement for high-performance hydraulic
+separators is the addition of magnetic particle separation.
+Figure 6-13 shows the Caleffi SEP4 separator, which
+uses a collar containing strong rare earth magnets in
+combination with a brass sediment bowl to add the fourth
+function (e.g., magnetic particle separation) to the product.
+The addition of magnetic particle separation makes
+the SEP4 hydraulic separator especially useful for
+applications in which an older distribution system—
+one that may have some accumulated ferrous metal
+sludge—is connected to a new heat source. Figure 6-14
+shows a concept for how a SEP4 hydraulic separator
+is used to interface the new boiler and high-efficiency
+circulator to an older distribution system serving cast
+iron radiators. Notice that each radiator has been
+equipped with a thermostatic valve that allows for
+individual heat output control.
+37
+=== page 38 ===
+Figure 6-16
+Figure 6-14
+existing cast iron radiators
+mod/con boiler! (converted from steam)
+w/ compact heat exchanger
+vent
+ECM!
+pressure-!
+thermostatic!
+regulated!
+radiator!
+circulator
+valve!
+(each rad.)
+Courtesy of Tweet / Garot Mechanical, Inc.,
+Greenbay, Wisconsin
+supply temperature!
+sensor (in well)
+Given the surface area of their bodies,
+existing piping
+hydraulic separators should always
+be insulated to minimize heat loss to
+TNEV their surroundings. This is especially
+Caleffi SEP4!
+true of larger hydraulic separators,
+hydraulic!
+separator which may have more surface area
+than a modestly sized radiator, and
+without insulation, would needlessly
+overheat the mechanical room.
+Figure 6-15 shows the insulation
+shell supplied with a Caleffi SEP4
+separator installed on the device.
+Figure 6-15 shows another example of a SEP4 circulator
+Figure 6-16 shows onsite fabricated insulation covering a
+providing magnetically enhanced dirt separation in a system
+large hydraulic separator in an industrial heating system.
+using a high-efficiency permanent magnet circulator.
+Figure 6-15 Figure 6-17 Hydraulic separators
+should also be
+properly supported.
+Small units can
+typically be supported
+by channel strut, as
+seen in Figure 6-17,
+or by using clevis
+hangers. Large
+hydraulic separators
+are designed to be
+self-supported at
+their base.
+Hydraulic separators
+are available in pipe
+sizes from 1-inch to
+over 12-inch. The
+“size” of a hydraulic
+Courtesy of Osborne Company
+Courtesy of Dan Schlicher
+38
+=== page 39 ===
+Figure 6-18
+union connections
+flange connections
+pipe size 1" 1.25" 1.5" 2" 2.5" 3" 4" 5" 6" 8" 10" 12"
+max flow!
+11 18 26 37(union)! 80 124 247 300 484 792 1330 1850
+rate (gpm) 40(flange)
+separator refers to the nominal pipe size of the 4 side-
+wall connections. Figure 6-19
+air vent
+Selecting an appropriate-size hydraulic separator is easy.
+It is based on choosing a size that allows the maximum port 1! port 2!
+anticipated flow rate into either side of the separator, ( supply from boiler) (supply to!
+distribution !
+without exceeding a preferred flow velocity of 4 feet per
+system)
+second. Limiting the flow velocity to this value maintains
+highly efficient air and dirt separation. The table in Figure
+6-18 can be used as a reference.
+port 3! port 4!
+(return to boiler) (return from!
+For example, if the maximum flow rate on the primary
+distribution!
+side of the hydraulic separator was 290 gpm, and system)
+the maximum flow rate on the secondary side of the
+sediment
+separator was 400 gpm, the higher flow rate would be
+drain
+the limiting case. Figure 6-16 indicates that a 6” size
+separator can handle flow rates up to 484 gpm, and thus
+would be an appropriate selection for this situation.
+Figure 6-20
+MIXING AT THE POINT OF HYDRAULIC SEPARATION:
+Mixing can occur within any component or group of
+components that provides hydraulic separation. The
+results of the mixing can be predicted by considering the
+principles of: f f
+1 2
+T T
+1. Conservation of mass 1 2
+2. Conservation of thermal energy
+In essence, the first of these principles states that NOTE: NOTE:
+f = f f = f
+the total flow rate of an incompressible fluid such as 1 3 2 4
+(always!) (always!)
+water entering the separator has to equal the total flow
+rate exiting the separator. The second principal implies
+that, under steady-state operating conditions, the total
+f f
+thermal energy entering the separator has to equal the 3 4
+total thermal energy leaving the separator. T T
+3 4
+The temperatures at the two outlet ports of a hydraulic
+In this case only:!
+separator (e.g., ports 2 and 3 in Figure 6-19) depend on
+T = T
+the temperatures at the two inlet ports (e.g., ports 1 and 4 1 2
+in Figure 6-19), as well as the flow rates in both the boiler T = T
+3 4
+circuit and distribution system.
+39
+=== page 40 ===
+There are three possible cases: returning to the heat source from port 3 equals the
+temperature returning from the distribution system into
+1. Flow in the distribution system is equal to flow in the port 4. Again, very little mixing takes place within the
+boiler circuit separator. Dirt particles carried into the separator at port
+2. Flow in the distribution system is greater than flow in 4 will settle to the bottom of its body, where they can be
+the boiler circuit periodically flushed out through the drain valve.
+3. Flow in the distribution system is less than flow in the
+boiler circuit If a conventional boiler (e.g., one that is not intended to
+operate with sustained flue gas condensation) is used, the
+Case #1. Distribution flow equals boiler flow: This designer should verify that the water temperature on the
+situation tends to be the exception rather than the norm. return side of the distribution system is high enough to
+It is illustrated in Figure 6-20. prevent sustained flue gas condensation within the boiler.
+The use of a hydraulic separator in itself does not guarantee
+The flow and temperature leaving port 2 of the hydraulic that the water temperature entering the boiler will be high
+separator is the same as the temperature of the hot water enough to prevent sustained flue gas condensation.
+entering port 1. Very little internal mixing occurs because
+the flows are balanced. Because of its buoyancy, the Case #2. Distribution system flow is greater than
+hot water entering port 1 remains near the top of the boiler flow: Since the flow rates in the boiler circuit and
+hydraulic separator. Most of the air bubbles carried into distribution system are not the same, mixing occurs within
+port 1, or that form within the hydraulic separator, rise to the hydraulic separator. In this case, a portion of the cooler
+the top of the unit and are ejected through the air vent. water returning from the distribution system moves upward
+through the separator and mixes with the hot water
+A similar situation exists at the lower ports of the separator. entering from the boiler, as shown in Figure 6-21.
+Since the flows are balanced, the outlet temperature
+This mixing reduces the water temperature supplied to
+the distribution system. This is not necessarily a bad
+Figure 6-21
+thing, but the designer needs to realize it can occur and
+plan accordingly.
+Formula 6-2 can be used to calculate the mixed
+! d2 $
+temperature (T 2f) =suvp
+#
+pliedi to
+&
+the distribution system under
+these conditions. "0.408%
+f f
+1 2 Formula 6-2
+T 1 T 2 !( f ' f ) T +( f ) T $
+T = 4 1 4 1 1
+2 " # f % &
+4
+NOTE: NOTE: Where:
+f ( 1 alw = ays f !) 3 f ( 2 alw = ays f !) 4 f f 4 1 = = f f l l o o w w r r a a t t e e r e T e n t 2t u e = r r n in ! " # in g ( g f f 4 r fr o o' m m f 1 b d ) o Ti f s il 4 e tr r +i b (g ( u p tfi 1 o m ) nT ) 1 s$ % & ys = te! " # m( 2(g5p'm1)0 ) 12 2 0 5 +( 10 ) 160$ % & =136ºF
+T = temperature of fluid re4turning from distribution
+4
+system (ºF)
+T = temperature of fluid entering from boiler (ºF)
+f f 1 !( f ' f ) T +( f ) T $
+3 4 T = 1 2 1 4 4
+T T Formula 1 is val3id fo" #r both wat
+f
+er and othe% &r system fluids,
+3 4 provided all fluid entering an1d leaving the hydraulic
+separator is the same. It can also be used with any
+consistent set of un
+!
+it(s
+f
+fo
+'
+r f
+f
+lo)w
+T
+a
++
+nd( t
+f
+em)
+T
+pe
+$
+ratu
+!
+re
+(
+.
+15'10 ) 170+( 10 ) 100$
+Suppose, for ex T a3m = p" # le, t 1 hat a 2 disft 1 ributi 4 on s 4 y% & st = em" # containing 15 % & =123.3ºF
+1
+several operating circulators has 25 gallons per minute of
+total flow. Water returns from the distribution system at
+120ºF and enters port 4 of the hydraulic separator. At the
+40
+=== page 41 ===
+! d2 $
+sa f m = e v " #ti0m.4e i 0, 8t% &he boiler flow rate is 10 gallons per minute, Case #3: Distribution system flow is less than boiler
+and the water temperature supplied to port 1 is 160ºF. flow: Again, since the flow rates on opposite sides of the
+Determine the mixed water temperature leaving port 3. hydraulic separator are not equal, mixing will occur inside
+Also, !w ( hfat' isf t ) hTe +w ( afte ) rT te$mperature returning to the boiler? the separator. In this case, a portion of the hot water
+T 2 = " # 4 1 f 4 1 1 % & entering from the boiler circuit moves downward through
+4
+The mixed water temperature is found using Formula 6-2: the separator and mixes with cool water entering from the
+distribution system, as shown in Figure 6-23.
+!( f ' f ) T +( f ) T $ !( 25'10 ) 120+( 10 ) 160$
+T 2 = " # 4 1 f 4 1 1 % & = " # 25 % & =136ºF
+4 Figure 6-23
+Notice that the water temperature supplied to the
+!( f ' f ) T +( f ) T $
+d
+w T
+i
+a
+s
+3 t
+t
+e
+=ri
+r
+b
+" # s
+u
+u
+ti1
+p
+o
+p
+n
+l i
+s2
+e
+y
+d
+s
+f
+1t
+fr
+e
+o
+m
+m
+4( 1
+th
+3
+e
+46
+% &
+º
+b
+F
+o
+)
+i l
+i
+e
+s
+r
+s
+(
+u
+1
+b
+60
+st
+º
+a
+F
+n
+).
+t i
+T
+a
+h
+ll
+i
+y
+s
+l
+i
+o
+s
+w
+th
+e
+e
+r t
+r
+h
+e
+a
+s
+n
+u lt
+t h
+o
+e
+f
+1
+mixing within the hydraulic separator.
+S se Tin p 3 c= a e r ! " # a ( t n o f o1 r, ' m t f h 2i e ) x T i f n1 w 1 g + a ( t o e f 4c r ) c T t u e 4r m $ % & s= p i e ! " # n r ( a 1 t t 5 h u ' e re 1 0 b r ) o e 1 t t 7 1u to 0 5r m n + in ( 1 g p 0 o ) t 1 r o t 0 i o 0 th n $ % & e = o 1 b f 2 o 3 t i h l . e 3 e r º F T f 1 f 2 T
+is the same as that returning from the distribution system 1 2
+(e.g., 120ºF).
+If the boiler firing rate is to be modulated based on the supply NOTE: NOTE:
+f = f f = f
+temperature to the distribution system, the temperature 1 3 2 4
+sensor providing supply temperature information to the (always!) (always!)
+modulating controller should be located within a sensor
+well in the upper portion of the hydraulic separator, or
+downstream of the distribution system outlet port (port f
+3 f
+2) of the hydraulic separator, as shown in Figure 6-22. If 4
+T T
+the sensor is strapped to the outer surface of the pipe, it 3 4
+should be firmly secured, then wrapped with insulation to
+minimize error due to surrounding air temperature.
+Figure 6-22
+boiler
+This condition occurs when the boiler heat output rate is
+! d2 $
+(temporarily) higfh=er vt
+#
+han tihe
+&
+current system load. Under
+this condition, heat " is0 .4b0ei8n % g injected into the system
+faster than the load is removing heat. This produces
+supply! a relatively fast increase in boiler return temperature.
+temperature! If a modulating boil!er ( fis 'befin ) gT u+se ( df, ) tThis$ will lead to a
+T = 4 1 4 1 1
+sensor relatively fast de2cre
+"
+#ase in firin
+f
+g rate, wh
+%
+&ich usually will
+strapped! result in a reduction in boiler-sid4e flow rate.
+to pipe!
+(& insulated) Under this scenario, the temperature returning to the
+!( f ' f ) T +( f ) T $ !( 25'10 ) 120+( 10 ) 160$
+hydraulic! boiler (T 3 ) can b T e 2 c=a " # lcula4ted 1us f in4g Fo1rmu1l % & a =6- " # 3: 25 % & =136ºF
+4
+separator Formula 6-3
+supply! !( f ' f ) T +( f ) T $
+T = 1 2 1 4 4
+temperature! 3 " # f % &
+sensor in well 1
+!( f ' f ) T +( f ) T $ !( 15'10 ) 170+( 10 ) 100$
+T 3 = " # 1 2 f 1 4 4 % & = " # 15 % & =123.3ºF
+1 41
+=== page 42 ===
+Where: If the system uses a conventional (non-condensing) boiler,
+T = temperature of fluid returned to the boiler(s) (ºF) one might consider the boost in boiler return temperature
+3
+f = flow rate entering from boiler(s) (gpm) beneficial because it moves the boiler operating condition
+1 ! d2 $
+ff 2 ,= f 4 v " # = 0 f . l 4 oi 0 w 8 % & rate of the distribution system (gpm) away from potential flue gas condensation. However, this
+T = temperature of fluid entering from boiler(s) (ºF) temperature boost effect can quickly diminish if flow through
+1
+T = temperature of fluid returning from distribution the distribution system increases (i.e., more load circuits
+4
+syste!m( f (º ' F f ) ) T +( f ) T $ turn on), or if the return temperature of the distribution
+T 2 = " # 4 1 f 4 1 1 % & system drops. Use of a hydraulic separator alone does not
+Assume the b4oiler supply temperature is 170ºF, and that prevent flue gas condensation under all circumstances.
+boiler flow rate into port 1 of the hydraulic separator is
+15 g!a(llofn's fp)eTr m+i(nfu)tTe.$ Wa!t(e 2 r 5 re't 1 u 0 r)n 1 s 2 0 fr+om(10 t)h 1 e 6 0 d$istribution EXPANSION TANK PLACEMENT RELATIVE
+sTy2s = te " #m 4 and 1 e f 4 nters 1 p 1 o % &r = t 4 " # of the h 2 y 5 draulic se % &p = ar1a3t6oºrF at TO THE HYDRAULIC SEPARATOR:
+100ºF and 104 gallons per minute flow rate. What is the Because there is very little head loss across a hydraulic
+water temperature returned to the boiler? separator, vertically or horizontally, the system’s expansion
+!( f ' f ) T +( f ) T $ tank can be teed into the piping near any of the separator’s
+S T 3u = bs" #tit 1 utin 2 g f 1 thes 4 e o 4 p% &erating conditions into Formula 4 main ports. The lower ports are preferred because they
+1
+6-2 yields: expose the expansion tank to lower temperature fluids
+compared to the upper ports. Figure 6-24 shows both of
+T 3 = ! " # ( f 1 ' f 2 ) T f 1 +( f 4 ) T 4 $ % & = ! " # (15'10)17 1 0 5 +(10)100$ % & =123.3ºF these options.
+1
+The system’s expansion tank should not be connected to
+Notice that the boiler inlet temperature is about 23ºF the bottom of the hydraulic separator. This would allow
+higher than the return temperature of the distribution dirt to migrate from the bottom of the separator into the
+system. This is caused by mixing within the hydraulic expansion tank, where it will accumulate on top of the
+separator. tank’s diaphragm.
+Figure 6-24
+OK OK NOT OK
+boiler boiler boiler
+hydraulic! hydraulic! hydraulic!
+separator separator separator
+makeup!
+makeup!VENT VENT makeup! VENT water!
+water! water! subsystem
+subsystem subsystem
+expansion!
+tank expansion! expansion!
+tank tank
+42
+=== page 43 ===
+HYDRAULIC SEPARATION WITH
+outdoor!
+Figure 6-25 temperature! MULTIPLE BOILERS OR CHILLERS:
+sensor Hydraulic separators are ideal for use with multiple boiler
+boiler systems. Figure 6-25 shows an example.
+multiple
+system
+boiler
+controller
+system The headers supplying the boilers should be sized
+for minimal head loss. A suggested sizing criteria is a
+flow velocity of 2 to 4 feet per second when all boiler
+circulators are operating.
+to loads
+The hydraulic separator allows the boiler side flow rate
+to be significantly different from the distribution side flow
+Figure 6-26
+hydraulic!
+separator
+TNEV
+Courtesy of Coffey Plumbing & Heating
+Figure 6-27
+rejected heat rejected heat
+VFD
+chiller #2 chiller #1
+HydroCal with!
+insulation shell
+FlowCal valve
+motorized !
+to / from
+ball valve purging!
+chilled-water
+valves
+cooling system
+All chilled-water piping must
+be insulated and vapor-sealed VENT
+43
+=== page 44 ===
+rate. It also allows for efficient air and dirt separation 7: PRODUCTS WITH INTEGRATED
+within the system. Figure 6-26 shows an example of this HYDRAULIC SEPARATION
+type of system.
+The principle of hydraulic separation combined with
+Each boiler has its own circulator and check valve. This
+uniform supply water temperature to distribution circuits
+makes it possible to stop flow through boilers that are not
+is desirable in both large and small hydronic systems.
+operating, and thus stop unnecessary heat loss. It also
+allows for partial heat delivery to the hydraulic separator
+Caleffi Hydro Separators are ideal for medium to large
+if one of the boilers, or one of the boiler circulators, is not
+systems. Currently available models range from 1-inch to
+responding.
+12-inch pipe size connections.
+This piping arrangement is also suitable for multiple
+For smaller systems, Caleffi offers products that integrate
+chillers in chilled-water cooling systems, as shown in
+the principle of hydraulic separation with the functionality
+Figure 6-27.
+of distribution headers. One example is the Caleffi
+HydroLink, shown in Figure 7-1.
+Notice that the chilled water from the chillers flows into
+the lower side connection of the hydraulic separator.
+Figure 7-1
+The somewhat warmer “chilled” water returning from the
+distribution system flows into the upper side connection.
+This arrangement creates more favorable conditions for
+air separation at the top of the hydraulic separator and
+minimizes the potential for dirt being carried into the
+chillers.
+This piping arrangement uses a motorized ball valve on
+each chiller that opens only when that chiller is active.
+The variable frequency drive (VFD) operates the chiller
+circulator as necessary to maintain a nearly constant
+differential pressure across the headers serving the
+chillers. This reduces the input power to the chiller
+circulator under partial load conditions.
+The HydroLink provides a chamber to hydraulically
+separate the boiler circuit from the distribution circuits.
+Caleffi FlowCal balancing valves are used to maintain the
+It also provides a self-contained manifold station that
+present flow rate through each chiller when it is active. supplies up to four independently controlled load
+circuits with the same supply temperature. These
+features and their equivalent piping are shown in
+Figure 7-2.
+A critical detail within the HydroLink is the hydraulic
+separation chamber on the left side of the unit. This
+chamber is separated from the manifold chambers
+by a baffle plate with two closely spaced openings.
+Given their size and placement, these openings act
+similarly to a pair of closely spaced tees, eliminating
+any significant pressure differential between the upper
+and lower manifold chambers. This prevents flow
+in the boiler circuit from inducing flow in any of
+the distribution circuits connected to the manifold
+chamber.
+The HydroLink is available in several models with differing
+numbers and placement of the manifold connections.
+Figure 7-4 shows some of the combinations.
+44
+=== page 45 ===
+Figure 7-2
+opening
+baffle
+closely!
+opening spaced!
+tees
+replaces
+hydraulic!
+separation!
+chamber THIS
+vent
+replaces
+HYDROLINK
+closely!
+spaced!
+tees
+drain
+Figure 7-3 Figure 7-4
+A typical configuration for the HydroLink has the heat of the primary chamber for mounting an air vent and drain
+source connected to the “primary” chamber piping valve/makeup water assembly, as shown in Figure 7-5.
+on the left side of the unit, along with several load
+circuits connected to the other “secondary” connections The HydroLink product is supplied with a form-fitting
+that connect into the manifold chamber. Two additional insulation shell to minimize heat loss.
+tapped connections are provided in the top and bottom
+45
+=== page 46 ===
+Figure 7-5 Figure 7-7
+boiler
+vent
+circulators w/!
+check valves
+HydroLink
+TNEV drain purge!
+valves
+circulator
+mixing!
+valve
+hydraulic separation tube
+Figure 7-6
+Caleffi also offers distribution manifold stations with
+integrated hydraulic separation details, an example
+of which is shown in Figure 7-7.
+The small tube that connects the supply and
+return piping just above the isolation ball valves
+provides hydraulic separation between the
+circulator supplying flow from the heat source to
+the distribution manifold station and the circulator
+integrated into the distribution manifold station.
+This allows two or more distribution manifold
+stations to be piped as shown in Figure 7-8.
+Each manifold station is supplied from a common
+header system. A zone valve opens whenever its
+associated distribution manifold station requires
+heat. The Caleffi FlowCal pressure-independent
+valves maintain the desired flow rate to each manifold
+46
+=== page 47 ===
+Figure 7-8
+distribution
+manifold station distribution manifold station
+variable-speed!
+pressure-regulated!
+FloCal FloCal
+circulator
+zone valve zone valve
+purging valve
+station. The “crossover” tubes just above the isolation valve within each distribution manifold station allows the
+ball valves on each manifold station allow hydraulic possibility of high-temperature supply water from the
+separation between the built-in manifold station circulator header system. This, in combination with the relatively
+and the variable-speed pressure-regulated circulator that low return water temperature that is typical of many
+supplies flow in the headers. This arrangement also allows radiant panel systems, allows a low flow rate between the
+the option of continuous flow through the distribution headers and manifold station, which minimizes pipe size
+circuits connected to the manifold stations. The mixing and circulator power requirements.
+47
+=== page 48 ===
+the SEP4 separator and flowing onward to the space-
+8: EXAMPLE SYSTEMS
+heating zones. This allows the boiler to respond to
+any variations in the water temperature supplied to the
+This section shows several examples of how air, dirt and
+distribution system. The secondary circulator operates in
+hydraulic separation can be applied in modern hydronic
+a constant differential pressure mode and automatically
+heating and cooling systems.
+changes speed as required depending on the number
+of active space-heating zones. Each zone circuit is
+EXAMPLE SYSTEM #1:
+equipped with a Caleffi FlowCal balancing valve to assure
+The system shown in Figure 8-1 uses a modulating/
+properly proportioned flow.
+condensing boiler to supply two zones of low-temperature
+radiant panel heating, as well as an indirect domestic
+Upon a call for domestic water heating, the ZVR103
+water heater.
+operates the boiler in setpoint mode to create a higher
+supply water temperature, which allows for full boiler
+The limited zoning in this system provides a good match
+output to be transferred to the heat exchanger coil inside
+between the modulating output of the boiler and the
+the indirect water heater. The ZVR103 also turns off the
+space-heating loads. Thus, the system is able to operate
+system circulator, temporarily stopping any heat transfer
+without a buffer tank.
+to the space-heating zones.
+Upon a demand for heating from either zone thermostat,
+The SEP4 provides hydraulic separation between the
+the Caleffi ZVR103 relay center powers on the associated
+fixed-speed system circulator and the variable-speed
+zone valve and turns on the variable-speed pressure-
+secondary circulator. It also provides high-efficiency air
+regulated secondary circulator, as well as the system
+and dirt separation, including magnetically enhanced dirt
+circulator. The boiler operates based on outdoor reset
+separation. The latter is desirable because of the high-
+control and monitors the temperature of the water exiting
+efficiency circulator used in the system.
+Figure 8-1
+mmoodd//ccoonn!! ZZVVRR110033
+bbooiilleerr
+outdoor!
+temperature!
+sensor
+Quicksetter!
+balancing
+valves
+DDHHWW
+CCWW
+sseeccoonnddaarryy!!
+SSEEPP44 cciirrccuullaattoorr
+ssyysstteemm!!
+cciirrccuullaattoorr
+pprriioorriittyy!!
+cciirrccuullaattoorr
+iinnddiirreecctt wwaatteerr hheeaatteerr
+48
+=== page 49 ===
+EXAMPLE SYSTEM #2:
+The system shown in Figure 8-2 uses a single modulating/ A DirtMag separator with an integral magnetic collar is
+condensing boiler to supply space heating and domestic mounted on the piping leading into the boiler and boiler
+hot water. circulator. Its use helps ensure that the high-efficiency
+variable-speed circulator, as well as the small heat
+Space heating is supplied by several panel radiators, exchanger passages inside the boiler, remain clear of
+each of which is equipped with a thermostatic radiator ferrous metal particles and other debris.
+valve allowing it to operate independently of the other
+panels. Because of the extensive zoning, a small buffer Domestic hot water is heated by an indirect water heater
+tank is used to prevent boiler short cycling. This buffer that is controlled as a priority load by the boiler’s internal
+tank, when piped as shown, also provides hydraulic control circuitry.
+separation between the boiler circulator and the variable-
+speed pressure-regulated distribution circulator. EXAMPLE SYSTEM #3:
+Hydraulic separators can be well-applied in modern
+A vertical Discal air separator is mounted just below the geothermal heat pump systems. One example is shown
+boiler’s outlet port, where the water is hottest and near it in Figure 8-3.
+lowest pressure. This encourages microbubble formation,
+capture and elimination from the system. The HydroCal separator shown in Figure 8-3 provides
+hydraulic separation between the earth loop circulator
+A float-type air separator is mounted at the top of the and the variable-speed pressure-regulated circulator
+buffer tank to prevent air entrapment. that provides flow to the heat pumps. This allows for a
+different flow rate in the earth loop compared to those
+Manual air vents are located in the upper left corner of to the heat pump array. The flow rate to the heat pump
+each panel radiator to expedite air removal at system array is controlled by the variable-speed pressure-
+commissioning. regulated circulator, which responds to the opening and
+Figure 8-2
+TRV TRV
+mod/con boiler
+thermostatic!
+radiator valves!
+(TRV) on each!
+radiator
+TRV TRV
+Discal
+DHW
+DirtMag
+temperature!
+sensor!
+(in well) variable-speed!
+pressure-regulated!
+distribution circulator
+temperature!
+sensor! TRV
+(in well)
+indirect water heater ThermoCon!
+VENT
+buffer tank
+49
+=== page 50 ===
+closing of zone valves or motorized
+ball valves on each heat pump.
+The earth loop circulator could
+also vary its speed in response to
+some control criteria, such as the
+temperature drop or rise across
+the earth loop connections to the
+hydraulic separator. This allows the
+power required by the earth loop
+circulator to be reduced as the
+number of operating heat pumps
+decreases.
+The HydroCal separator also
+provides high-performance air and
+dirt removal from the earth loop
+and heat pump array portions of
+the system. The latter function is
+especially useful given the likelihood
+of dirt and debris entering the earth
+loop piping during construction.
+EXAMPLE SYSTEM #4:
+The system shown in Figure 8-4
+uses a Caleffi HydroLink as the
+“hub” of a multi-temperature/multi-
+load system.
+The conventional boiler supplies
+FlowCal heat to the hydraulic separation
+water-to-water! chamber in the HydroLink. This
+heat pump hydraulically separates the
+boiler circulator from the other
+variable-speed!
+circulators. The water temperature
+pressure-regulated!
+supplied to the boiler is regulated
+circulator
+by a Caleffi 3-way ThermoMix
+boiler protection valve. This
+ensures the boiler does not operate
+geothermal manifolds
+with low inlet water temperatures
+that could cause sustained flue
+HydroCal!
+separator gas condensation.
+Two of the loads attached to the
+fixed-speed! HydroLink are supplied through
+purging!
+or!
+valves Caleffi HydroMixers. These modules
+variable-speed! purge
+include a mixing valve, circulator
+circulator
+earth loop circuits and differential pressure bypass
+valve. The mixing valve reduces the
+water temperature to that required
+by the low-temperature radiant
+panel circuits. The differential
+fluid feeder! pressure bypass valve modulates
+(optional) to maintain a reasonably steady
+differential pressure across
+50
+metsys
+noitubirtsid
+gnilooc
+/
+gnitaeh
+ot
+reversing!
+valve
+resnednoc rotaropave
+compressor
+TXV
+edom
+gnitaeh
+reversing!
+valve
+resnednoc rotaropave
+compressor
+TXV
+edom
+gnitaeh
+reversing!
+valve
+resnednoc rotaropave
+compressor
+TXV
+edom
+gnitaeh
+Figure 8-3
+automatic!
+air vents
+automatic!
+air vents
+=== page 51 ===
+Figure 8-4
+to/from zones to/from zones
+manifold valve
+actuators on
+each circuit
+low supply water ! medium supply water !
+temperature circuits temperature circuits
+integral ∆P bypass valve
+HydroMixers
+vertical Discal!
+air separator future!
+load
+HydroLink
+3-way
+thermostatic
+mixing valve
+VENT air handler
+indirect water heater conventional boiler
+vertical DirtCal separator
+the manifold station as the manifold valve actuators the domestic water heating mode to operate with a
+open and close in response to zone thermostats. The single circulator.
+supply water temperature from each HydroMixer can be
+independently adjusted. The mixing can be done with To minimize thermal migration, spring-loaded check valves
+either a thermostatic valve or motorized 3-way valve. are provided in the piping returning to the boiler from both
+the indirect water heater and from the HydroLink.
+The HydroLink also supplies hot water directly to the coil
+of an air handler, which operates as a separate zone. A vertical Discal air separator provides high performance
+air separation whenever heated water is flowing from the
+The indirect water heater is operated as a priority load. boiler. Likewise, a vertical Dirtcal separator provides dirt
+It is not connected through the HydroLink. This reduces separation for all flow about to pass into the boiler.
+the amount of piping and water that must be heated
+during a call for domestic water heating. It also allows
+51
+=== page 52 ===
+Figure 8-5 boiler #1 boiler #2
+low-head-
+loss headers
+system!
+mixing mixing
+circulator
+VENT
+expansion boiler #4 boiler #3 HydroCal
+tank
+EXAMPLE SYSTEM #5: load. If modulating/condensing boilers are operating, they
+The heating loads in large buildings are often supplied from will eventually stop condensing and provide almost the
+a multiple boiler system. The water temperature required for same thermal efficiency as conventional boilers.
+space heating is determined by the type and size of heat
+emitters used in the distribution system. When convectors This situation can be well served by a “hybrid” multiple
+or air handlers are selected as the heat emitters, the water boiler system that includes both modulating/condensing
+temperature required under design load conditions is boilers and conventional boilers. An example of such a
+relatively high, often in the range of 170º to 190ºF. However, system is shown in Figure 8-5.
+under partial load conditions, the supply water temperature
+can be reduced using outdoor reset control. Under low to medium load conditions, mod/con boilers
+#1 and #2 provide heat to the system. During this time,
+When the water temperature returning from the the system water temperatures are low enough to
+distribution system is approximately 130ºF or lower, allow these boilers to operate with sustained flue gas
+some condensation forms on the combustion side of the condensation, and thus high thermal efficiency. As the
+boiler heat exchangers. This is beneficial if a modulating/ load and required supply water temperature increases,
+condensing boiler is supplying heat, but must be avoided boiler #3 and eventually boiler #4 are brought online.
+if a conventional boiler is supplying heat. Thus, when Boilers #1 and #2 continue to operate, but not in a
+the system is operating at part load with low to medium condensing mode. As such, they contribute heat to the
+supply water temperature, it is beneficial to supply the load at approximately the same thermal efficiency as the
+required heat using a modulating/condensing boiler. conventional boilers. This approach reduces overall boiler
+plant cost because it uses less expensive conventional
+However, as outdoor temperature drops, the required supply boilers with efficiency comparable to that of a mod/con
+water temperature increases along with the increasing boiler operating in non-condensing mode.
+52
+=== page 53 ===
+Figure 8-5 shows how a larger Caleffi HydroCal separator Figure 8-7
+can be used in combination with low-head-loss headers
+to combine these boilers. The HydroCal unit provides
+hydraulic separation between the boiler circulators and
+the system circulator. It also provides high-efficiency air
+and dirt separation for the system. The low-head-loss
+headers in combination with the HydroCal separator
+provide hydraulic separation between the individual boiler
+circulators.
+Note that boilers #3 and #4 include a high-flow-capacity
+3-way thermostatic mixing valve. This ensures that the
+inlet water temperature to these boilers remains above
+the dewpoint of their exhaust gases, and thus the boilers
+will operate without sustained flue gas condensation.
+The firing order of boilers #1 and #2 can be rotated to
+allow each boiler to accumulate approximately the same
+number of run hours over the course of a heating season.
+This can also be done for boilers #3 and #4.
+Figure 8-6 shows an example of a hybrid multiple boiler
+system using two modulating/condensing boilers as the
+“lead stages,” and three conventional boilers as stages
+3, 4 and 5. The insulating piping above the boiler leads to
+the hydraulic separator seen wrapped with insulation at
+the far left of the photo.
+Figure 8-6
+Courtesy of GOES Heating Systems
+If the hydraulic separator is used for a chilled-water
+cooling system, or as part of a geothermal earth loop
+system, the insulation should include a vapor barrier to
+prevent condensation on the surface of the separator.
+SUMMARY:
+For optimal performance, modern hydronic systems
+require several types of separating devices. These
+include air separation, dirt separation, and in many
+cases, hydraulic separation. The latter eliminates
+undesirable interaction of simultaneously operating
+circulators. This issue of idronics has discussed the best
+Courtesy of GOES Heating Systems available technology for providing these functions. When
+properly implemented, these functions allow the system
+Figure 8-7 shows another example of a large (8” pipe size)
+to operate without the detrimental effects of entrapped
+Caleffi hydraulic separator that has been fully insulated.
+air, accumulating debris and inconsistent flow.
+Large hydraulic separators have several square feet of
+surface area. Without insulation, this surface area would
+create a high rate of heat loss and needlessly overheat
+the mechanical room.
+53
+=== page 54 ===
+APPENDIX A: PIPING SYMBOL LEGEND
+GENERIC COMPONENTS CALEFFI COMPONENTS
+circulator 3 m - i w xi a n y g m va o l t v o e rized DISCAL central!
+air separators !
+c is ir o c la u t la io t n o r fl w an /! ges ! 4 m - i w xi a n y g m va o l t v o e rized inline check valve manifold station with
+balancing valves
+union
+float-type! 3-way !
+circulator w/! air vent thermostatic mixing
+internal check valve! valve
+& isolation flanges ! swing check valve
+backflow
+spring-loaded! VENT preventer
+gate valve check valve
+pressure-
+reducing! distribution!
+globe valves purging valve valve station
+ball valve pressure-
+reducing! Starmax V!
+pressure gauge valve solar collector
+(3/4")
+primary/secondary!
+fitting
+pressure
+relief zone valve!
+valve (2 way) geothermal!
+manifold!
+h d o ra s i e n b v i a b lv ! e pressure & station
+temperature
+relief valve zone valve!
+diverter tee (3 way) t ra h d e i r a m to o r s t v a a t l i v c e !
+cap m b va a e l l v a te e n r c e in d g t z ( h 2 o e n w r e m a v y o a ) e lv le e c ! tric! t ra h d e i r a m to o r s t v a a t l i v c e ! ta T n h k e s b r u ( m f 4 f o e s C r i ! z o e n s ! )
+d e i x a p p a h n r s a i g o m n - t t a y n p k e ! brazed- ! plate!
+heat ! differential !
+exchanger pressure!
+bypass valve
+DIRTCAL!
+dirt ! separators
+Comp. DIRTMAG!
+dirt !
+separators Hydro
+Separator
+reve v rs a i l n v g e ! conventional boiler D ai I r S & CA d L ir D t I ! RT! separator
+FLOCAL! DISCALDIRT!
+balancing! air & dirt! mixing units!
+valve separator (2 configurations)
+QuickSetter!
+balancing! solar!
+valve w/! circulation!
+flowmeter station
+motorized!
+ball valve!
+(2 way)
+Modulating / condensing boiler
+motorized! Hydrolink (4 configurations)
+ball valve!
+(3 way)
+high-temperature!
+high-temperature! solar 3-way thermostatic!
+solar DISCAL ! mixing valve
+air separators !
+isolar !
+differential
+boiler! high-temperature! temperature
+p va ro lv te e ction! solar pressure! controller
+relief valve!
+high-temperature! high-
+ThermoBloc™ solar air vent t s e o m lar p e ! rature!
+high-temperature! expansion!
+wood-fired boiler s s h o u la t r - o a f ir f v v e a n lv t e for! tank
+indirect water heater (with trim)
+54
+rotaropave resnednoc
+TXV
+edom
+gnitaeh
+dual isolation!
+valve for! panel radiators
+panel radiator with dual isolation valve
+SEP4
+reversible! HydroCal
+water-to-water! Separator
+heat pump
+D a se i I r S p & C a A r d a L i t r D o t I r ! RTMAG! S H e y p d a r r o a C t a o l r
+=== page 55 ===
+Enjoy a Coffee with Caleffi!
+TIME TO GRAB A COFFEE AND LEARN
+You are invited to join us for our monthly webinar series, Coffee with Caleffi™. The
+complimentary technical training webinars are intended for contractors, designers
+and wholesalers. A Certificate of Attendance is emailed to attendees following the
+webinar for continuing education consideration.
+TM
+Register by scanning the QR code below. Missed a webinar? No problem! Our
+webinars are available 24/7 on YouTube for your convenience.
+Visit
+TM
+to View Upcoming Schedule
+=== page 56 ===
+Magnetic Separation
+Removes 95% of ferrous impurities
+Ferrous oxide forms in hydronic systems when iron or steel corrodes.
+This abrasive, extremely fine sediment is difficult to remove; it can
+deposit onto heat exchanger surfaces and accumulate in pump
+cavities causing reduced efficiency and premature wear. Caleffi
+magnetic dirt separators accomplish 2½ times the ferrous oxide
+removal performance of standard dirt separators.
+Components for today's modern hydronic systems
+Heating & Cooling
+www.caleffi.com - Milwaukee, WI USA

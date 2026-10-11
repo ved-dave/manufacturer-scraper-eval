@@ -1,0 +1,230 @@
+=== page 1 ===
+PLUMBVENT™
+Low-lead automatic air vent
+CALEFFI
+NA502640A
+01033/22 NA
+Product Range
+Code NA502640A Low-lead automatic air vent with threaded connections..........................................................................................................size 1/2” NPT male
+Technical specification
+Materials - Body & cover: Certifications
+DZR low-lead brass (<0.25% Lead content) NSF/ANSI/CAN 372-2011, Drinking Water System
+- Seals: peroxide-cured EPDM Components-Lead Content Reduction of Lead in
+- Float: Moplen EP548S Drinking Water Act, California Health and Safety Code
+116875 S.3874 (AB1953), Reduction of Lead in
+Performance
+Drinking Water Act and Vermont S152, certifed by
+Suitable fluids: Water
+ICC-ES, file PMG-1360.
+Max. working pressure: 150 psi (10 bar)
+Max. discharge pressure: 90 psi (6 bar)
+Connections
+Max. discharge flow rate: 1.75x10-9 scfm (50 Nl/m)
+- NPT male: 1/2”
+Max. working temperature: 240°F (115°C)
+B
+E
+C
+D
+Dimensions
+A
+Wt
+Code A B C D E
+(lb)
+NA502640A ½" MNPT 3 5/8 " 1 9/16 " 3/4 " 2 7/8 " 0.6
+0
+0
+5.0
+01
+5.1
+02
+5.1
+03
+5.2 5.2
+04
+5.3
+05
+5.3 5.4
+06
+5.4
+07
+5.5
+08
+5.5 5.6
+09 )isp(
+)rab(
+Replaces 01033/18 NA
+Function
+Float type automatic air vent designed to vent air from water at high
+points in plumbing system piping. Example applications include risers,
+domestic hot water storage tanks and recirculation system pump
+inlets.
+The automatic air vent is installed in the vertical position in parts of
+the system where a concentration of air pockets is to be expected. It
+is supplied complete with a safety hygroscopic cap that automatically
+closes the air discharge in case of contact with water.
+This vent is certified by ICC-ES to be in compliance with the International
+Plumbing Code (IPC), International Residential Code (IRC), Uniform
+Plumbing Code (UPC), National Plumbing Code of Canada (NPC). It is
+certified by ICC-ES to be in compliance with standard NSF/ANSI/CAN
+372-2011, California Health and Safety Code 116875 S.3874 (AB1953),
+and Vermont S152.
+Air flow
+Flow rate
+(10-9 SCFM) (Nl/m)
+2.5 72
+66
+2.25
+60
+2
+54
+1.75 48
+1.5 42
+1.25 36
+1 30
+24
+0.75
+18
+0.5 12
+0.25 6
+0 0
+=== page 2 ===
+Typical application drawings
+Construction details
+• Operating mechanism
+The function of this device is
+guaranteed by an operating
+mechanism specially designed
+to vent when system pressure
+is high.
+• Antivibration and antirotation
+system on the float
+This guarantees that in the rest
+position the air relief valve will not
+be affected by any movement
+of the float.
+Air flow
+Flow rate
+0
+0
+5.0
+01
+5.1
+02
+5.1
+03
+5.2 5.2
+04
+5.3
+05
+5.3 5.4
+06
+5.4
+07
+5.5
+08
+5.5 5.6
+09 )isp(
+)rab(
+SCFM (SCFM) (Nl/s)
+1,2 2.5 1.2
+1,1 1.1
+2.25
+1 1
+2
+0,9 0.9
+0,8 1.75 0.8
+0,7 1.5 0.7
+0,6 1.25 0.6
+0,5 1 0.5
+0,4 0.4
+0.75
+0,3 0.3
+0,2 0.5 0.2
+0,1 0.25 0.1
+0 0 0
+Air flow
+Flow rate
+0
+0
+5.0
+01
+5.1
+02
+5.1
+03
+5.2 5.2
+04
+5.3
+05
+5.3 5.4
+06
+5.4
+07
+5.5
+08
+5.5 5.6
+09 )isp(
+)rab(
+Automatic
+air vent
+Tankless
+water
+HW Supply Automatic
+heater
+air vent
+STORAGE
+TANK
+or Automatic
+WATER
+air vent
+HEATER
+CW Supply
+Recirculation
+circulator
+CW
+supply
+Operating instructions
+The automatic air vent comes complete with a safety hygroscopic cap
+that automatically closes the air discharge in case of contact with
+water. The hygroscopic cap does not provide an airtight seal, even
+when closed. If pressure testing is required, replace the hygroscopic
+cap with a plastic cap (Caleffi code R56214) or install an isolation valve
+beneath the vent. For normal automatic venting, this cap should be
+screwed down finger tight.
+SCFM (SCFM) (Nl/s)
+1,2 2.5 1.2
+1,1 1.1
+2.25
+1 1
+2
+0,9 0.9
+0,8 1.75 0.8
+0,7 1.5 0.7
+0,6 1.25 0.6
+0,5 1 0.5
+0,4 0.4
+0.75
+0,3 0.3
+0,2 0.5 0.2
+0,1 0.25 0.1
+0 0 0
+=== page 3 ===
+Find us in
+find BIM Revit files and system templates at
+https://bim.caleffi.com/en-us
+https://get.caleffi.info/specpoint
+SPECIFICATION SUMMARIES
+NA502640A
+Automatic air vent. 1/2" threaded NPT male connection. DZR low-lead brass body and cover (<0.25% lead content), meets
+requirements of IPC, IRC, UPC, NPC and ANSI/NSF/CAN 372-2011, California Health and Safety Code 116875 S.3874
+(AB1953), and Vermont S152, as certified by ICC-ES. Moplen EP548S float and peroxide-cured EPDM seals. Maximum working
+pressure 150 psi (10 bar). Maximum discharge pressure 90 psi (6 bar). Maximum working temperature 240°F (115°C). Float with
+anti-rotation and anti-vibration system. Vertical discharge. Provide with inlet isolation valve, separately-sourced and field installed.
+We reserve the right to change our products and their relevant technical data, contained in this publication, at any time and without prior notice.
+Caleffi North America, Inc.
+3883 W. Milwaukee Road
+Milwaukee, WI 53208
+Tel: 414-238-2360 · Fax: 414-238-2366
+sales@caleffi.com · www.caleffi.com
+© Copyright 2022 Caleffi North America, Inc.

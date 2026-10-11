@@ -1,0 +1,155 @@
+=== page 1 ===
+Manifold mixing stations
+thermostatic fixed point mixing
+CALEFFI
+172 series
+01155/14 NA
+Function
+The 172 series manifold mixing station is designed for use in
+manifold-based hydronic distribution systems.
+The manifold mixing station incorporates a thermostatic actuator with
+built-in sensor which keeps the flow temperature at a constant set
+value for use in low temperature systems such as floor radiant panels.
+A removable primary circuit hydraulic separator with check valve is
+also supplied. The hydraulic separator is essential when there is a
+primary circuit circulation pump and when radiator circuits or fan coils
+are controlled by thermostatic or thermo-electric valves. When
+connecting to a Caleffi HYDROLINKTM or hydraulic separator without
+a primary pump, the hydraulic separator can be removed and the
+manifold mixing station can be connected directly.
+The 172 station, like the TWISTFLOWTM Series 668S1 distribution
+manifolds, can be configured with 3 to 13 circuit outlets offering similar
+benefits with built-in sight flow meters/adjustable balancing valves and
+optional TWISTOPTM thermo-electric zone actuators.
+Product range
+Series 172 Pre-assembled Manifold Mixing Station with flow gauges and thermostatic fixed point mixing
+- size 1 ¼” manifold, 3 to 13 outlets ¾” male, ¾” supply and return connections
+Technical specifications
+Connections: - primary circuit: 3/4” NPT Male
+Materials
+- to mixing valve unit: 1” Female with nut
+Three-way mixing valve unit:
+- manifold circuit outlets: 3/4” Male
+Body: brass
+- outlet center distance: 2” (50 mm)
+Bonnet: brass
+Shutter: PSU Pump
+Three-speed pump ‡: Grundfos model UPS 15-58
+Seals: EPDM
+Material: Body: cast iron
+Top elbow with supply temperature gage: brass
+Electric supply: 115 V - 60 Hz
+Primary circuit hydraulic separator: Max. ambient temperature: 105°F (40°C)
+Body: brass Protection class: IP 44
+Check valve: POM Pump center distance: 6 1/2” (165 mm)
+Spring: stainless steel Pump connections: 1 1/2”
+Shut-off valves: ‡ Wilo Star S 21 or Alpha 25-55U pump available upon request.
+Body: brass
+Ball: brass, chrome plated
+L/
+1234MIN
+L/
+1234MIN
+L/
+1234MIN
+L/
+1234MIN
+L/
+1234MIN
+S B u o p d p y: l y and Return Manifolds: brass UP s S h o 1 w 5 n -58 57003 1 0 009 °F 0 2 1 1 5110 09700 CALEFFICAMERA HOBBY BAGNO SOGGIORNO WC CALEFFI Width from wall
+mount: 5”
+Springs: stainless steel
+Seals: EPDM 19 5/8”
+End fittings: brass CALEFF SOGGIORNO CALEFFI
+Automatic air vent: brass 57003 1 0 00 ° 9 F 0 2 1 1 5110 09700
+Drain valve: brass 2”
+Performance
+Suitable fluids: water, glycol solutions
+3/4”
+Max. percentage of glycol: 30% 2 1/2”
+Control temperature range: 80–130°F (25–55°C) 7 1/4”
+A
+Accuracy: ±4°F (±2°C)
+Primary inlet max. temperature: 195°F (90°C) Outlets 3 4 5 6 7 8
+Max. working pressure: 150 psi (10 bar) A 17" 19" 21" 23" 25" 27"
+Min. opening pressure for primary circuit check valve: Outlets 9 10 11 12 13
+1.5 psi (10 kPa) A 30" 32" 34" 36" 38"
+=== page 2 ===
+Operating Principle SECONDARY
+FLOW
+The fluid temperature is controlled by a thermostatic three-way mixing valve regulated by a thermostatic
+sensor (4) located in the mixed water outlet chamber (3) of the valve. By expanding and contracting, it
+continuously ensures a correct proportioning of hot water coming from the boiler, and water returning from
+the manifold circuit. The water intake is regulated by an internal cartridge, consisting of a piston (5) that
+slides inside a cylinder, located between the hot water flow (1) and the water returning from the circuit (2).
+Even if the secondary circuit thermal load or the inlet temperature from the boiler changes, the mixing valve
+automatically adjusts the flow rates until it obtains the set secondary flow temperature.
+Construction details Temperature adjustment and locking
+Three-way mixing valve unit The control knob is used to adjust
+The three-way mixing valve unit, containing the piston (5), is temperature in a full turn (360°) between
+constructed of a single casting with connections to the primary and min. and max. It also has tamper protec-
+secondary circuits. Internal channels carry the system return fluid from tion for locking the temperature at the set
+the primary return port to the mixing chamber (3), allowing for the unit value.
+to be small and easy to connect. Adjustment locking
+Reduced head losses Turn the knob to the required number.
+The three-way mixing valve is equipped with a specially designed Unscrew the upper screw and remove the
+shutter with calibrated water orifices. This ensures a high flow rate and knob. Place the knob back on so that the
+a reduced size, while maintaining accurate temperature control with no internal slot mates with the key on the
+swings due to sudden changes in thermal load. valve body. Reinstall the upper screw.
+Removable/replaceable cartridge
+The three-way mixing valve is designed so that all fluid regulating
+components are contained in a removable internal cartridge. This
+allows for easy inspection, cleaning or replacement if required, without
+the need to disconnect any piping to the valve body.
+Hydraulic separator with check valve
+Non-sticking materials The hydraulic separator permits hydraulic
+The materials used in constructing the mixing valve eliminate potential separation between the primary and
+sticking due to scale. All functional parts are constructed using a low secondary circuits, preventing flow in one
+friction coefficient material, which ensures performance over time. circuit from interfering with flow in the
+Low inertia thermostat sensor other. It can be removed if connecting
+The temperature-sensitive element, the “engine” of the thermostatic directly to a HYDROLINK or hydraulic
+three-way valve has low thermal inertia. Therefore, it can quickly react separator without a primary pump.
+to changes in the conditions of inlet pressure and temperature,
+shortening the valve response time as the thermal load changes.
+Top elbow
+The top elbow is constructed of a single casting with ports to connect
+the temperature and pressure gauge, purge valve and supply manifold
+connection.
+NRUTER
+YRADNOCES
+Characteristic components / hydraulic diagram
+3 SYSTEM Supply manifold
+Item Description Symbol FLOW equipped with
+flow meters and SYSTEM
+1 Circulation pump 2 balancing valves. FLOW UPS 15-58 pictured 4
+2 Top elbow with supply temper-
+L/
+1234MIN
+L/
+1234MIN
+L/
+1234MIN
+ature and pressure gauge 1 1 5
+3 Purge valve SYSTEM CALEFFICAMERA SOGGIORNO WC CALEFFI
+RETURN 8
+4 Supply temperature and 8 Return manifold
+pressure gage equipped with SYSTEM
+shut-off valves. RETURN
+5 Return temperature gauge
+5
+6 Primary circuit shut-off valves 6 7 CALEFFICAMERA SOGGIORNO WC CALEFFI 7
+7 Primary circuit hydraulic
+6 6
+separator with check valve End fittings with automatic
+8 Thermostatic three-way mixing T air vent with hygroscopic
+BOILER BOILER BOILER BOILER
+valve with built-in sensor FLOW RETURN cap and drain cock. FLOW RETURN
+2
+5 1 3 4
+PRIMARY PRIMARY
+FLOW RETURN
+T
+2, 4
+3
+2 1 MIN MAX
+3 7

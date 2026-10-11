@@ -1,0 +1,425 @@
+=== page 1 ===
+38557.08
+www.caleffi.com
+DISCALDIRT® - DISCALDIRTMAG® air and dirt separator
+© Copyright 2020 Caleffi 546 - 5461 - NA546 - NA546_M Series
+Installation, commissioning and servicing instructions
+Function
+Air and dirt separators are used to continuously remove
+the air and debris contained in the hydronic circuits
+of heating and cooling systems. The air discharge of these
+devices is very high. They are capable of automatically
+removing all of the air present in the system down to
+the microbubble level. The DISCALDIRT® air and dirt
+separator also removes any solid impurities in the system.
+The impurities collect at the bottom of the device and can
+be flushed through the integal drain shut-off valve. The
+circulation of fully de-aerated and cleaned water enables
+the equipment to operate under optimum conditions, free
+from noise, corrosion, or mechanical damage.
+The DISCALDIRTMAG® air and dirt separator with
+added magnetic ring (brass and steel 5461 series) or
+probe (steel 546 and NA546 series) removes both
+ferrous and non-ferrous impurities continuously,
+featuring powerful removable magnets that remove
+up to 100% of the ferrous impurities, including magnetite, that can form in a hydronic system. The
+DISCALDIRTMAG has 2½ times the ferrous impurities removal performance of a standard air
+and dirt separator. Insulation shells are available separately for field installation on the
+brass DISCALDIRT and DISCALDIRTMAG.
+These items are designed for use in closed hydronic systems. Do not use in plumbing applications. These items
+do not meet the low-lead plumbing standards of U.S. and Canada.
+Product range
+54609 series DISCALDIRT air and dirt separator in brass, connections 1" and 1-¼" sweat
+546016A DISCALDIRT air and dirt separator in brass, connection 1" NPT male
+546 series DISCALDIRT air and dirt separator in steel, connections 2"-6" ANSI flanged
+5461 series DISCALDIRTMAG air and dirt separator with magnet in brass,
+connections 1", 1-¼" sweat and press, 1" NPT male
+5461 series DISCALDIRTMAG air and dirt separator with magnet in steel,
+connections 1-½" and 2" press union, sweat union and NPT female union
+NA546 series DISCALDIRT air and dirt separator in steel, ASME & CRN*,
+connections 2½"-14" ANSI flanged Scan to view ·
+NA546050T DISCALDIRT air and dirt separator in steel, ASME & CRN,
+connections 2" NPT threaded
+NA546_M series DISCALDIRTMAG air and dirt separator with magnet in steel,
+ASME & CRN*, connections 2½"-14" ANSI flanged,
+2" NPT threaded. *Consult Caleffi for 14" CRN. Installation Tip
+1
+546,5461
+& NA546
+AIR
+& DIRT
+SEPARATOR
+=== page 2 ===
+SAFETY INSTRUCTION
+This safety alert symbol will be used in this manual to draw attention to safety
+related instructions. When used, the safety alert symbol means.
+ATTENTION! BECOME ALERT! YOUR SAFETY IS INVOLVED! FAILURE
+TO FOLLOW THESE INSTRUCTIONS MAY RESULT IN A SAFETY
+HAZARD.
+WARNING: This product can expose you to chemicals including lead, which
+is known to the State of California to cause cancer and birth defects or other
+reproductive harm. For more information go to www.P65Warnings.ca.gov.
+CAUTION: All work must be performed by qualified personnel
+trained in the proper application, installation, and maintenance
+of systems in accordance with all applicable codes and ordinances.
+CAUTION: Caleffi shall not be liable for damages resulting from
+stress corrosion, misapplication or misuse of it's products.
+CAUTION: If the DISCALDIRT and DISCALDIRTMAG air and dirt separator is not
+installed, commissioned and maintained properly, according to the instructions
+contained in this manual, it may not operate correctly and may endanger the user.
+CAUTION: Make sure that all the connecting pipework is water tight.
+CAUTION: When making the water connections, make sure that the pipework
+connecting the DISCALDIRT and DISCALDIRTMAG is not mechanically
+over-stressed. Over time this could cause breakages, with consequent
+water losses which, in turn, could cause harm to property and/or people.
+CAUTION: Water temperatures higher than 100°F (38°C) can be
+dangerous. During the installation, commissioning and maintenance of the
+DISCALDIRT and DISCALDIRTMAG air and dirt separator, take the necessary
+precautions to ensure that such temperatures do not endanger people.
+Technical specifications
+Brass body air and dirt separators and magnetic air and dirt separators
+Materials - body: brass
+- dirt separation chamber: brass
+- air vent body: brass
+- internal element: glass reinforced nylon, PA66GF30
+- air vent float: PP
+- air vent float guide pin: stainless steel
+- air vent float linkages: stainless steel
+- spring: stainless steel
+- seals: peroxide-cured EPDM
+- bottom drain shut-off valve: brass
+- magnet (5461 series): neodymium rare-earth
+2
+=== page 3 ===
+Performance
+Suitable fluids: water, glycol solution
+Max. percentage of glycol: 50%
+Max. working pressure: 150 psi (10 bar)
+Temperature range: 32–250°F (0–120°C)
+Air separation efficiency: 100% removal to microbubble level
+Particle separation capacity: to 5 µm (0.2 mil)
+Ferrous impurities separation efficiency (5461 series): up to 100% removal
+Connections - main: 1", 1¼" sweat & press; 1" NPT male
+- lay length (press connections): size 1 inch - 4¾"; size 1¼ inch - 5 1/8"
+- drain shut-off valve: ¾" garden hose connection
+Steel body air and dirt separators and magnetic air and dirt separators
+Materials - body: epoxy resin painted steel
+- air vent body: brass
+- internal element: (546, 5461, NA546) stainless steel
+(NA546_M) stainless steel and HDPE
+- air vent float: PP
+- air vent float guide pin: stainless steel
+- air vent float linkages: stainless steel
+- spring: stainless steel
+- seals: peroxide-cured EPDM
+- bottom drain shut-off valve: brass
+- side drain shut-off valve: brass
+- magnet (5461 and M series): neodymium rare-earth
+- magnet probe drywell (M series): brass
+Performance
+Suitable fluids: water, glycol solution
+Max. percentage of glycol: 50%
+Max. working pressure: 150 psi (10 bar)
+Temperature range (vessel): -546, NA546, NA546_M series 32–270°F (0–132°C)
+-5461 series 32–230°F (0–110°C)
+Air separation efficiency: 100% removal to microbubble level
+Particle separation capacity: to 5 µm (0.2 mil)
+Ferrous impurities separation efficiency (5461 and M series): up to 100% removal
+Connections - flanged (546 series): 2"–6" ANSI B16.5 150 CLASS RF
+- flanged (NA546, NA546_M series): 2½"–14" ANSI B16.5 150 CLASS RF
+- threaded (5461 series): 1½" and 2" NPT female union
+- threaded (NA546, NA546_M series): 2" NPT male
+- sweat union (5461 series): 1½" and 2"
+- press union (5461 series): 1½" and 2"
+- lay length (press connections): size 1½ inch: 11-1/8"
+size 2 inch: 12 ½"
+- bottom drain valve: 2"–6": 1" NPT female
+8"–14": 2" NPT female
+5461 series: 3/4" garden hose connection
+Agency approval
+-NA546, NA546_M series designed and built in accordance with Section VIII, Div. 1 of the ASME Boiler and
+Pressure Vessel Code and tagged, registered with the National Board of Boiler and Pressure Vessel Inspectors,
+stamped for 150 psi (10 bar) working pressure, with ASME U stamp.
+-NA546 and NA546_M series 2"-12" series is also CRN registered. Consult Caleffi for size 14".
+3
+=== page 4 ===
+Operating principle
+Microbubble air separation
+The air and dirt separator uses the combined action of several physical principles. The active part is
+the internal element (1) and consists of a glass-reinforced nylon mesh for the brass DISCALDIRT
+and DISCALDIRTMAG, or for the steel DISCALDIRT and DISCALDIRTMAG an assembly of concen-
+tric metal mesh (stainless steel) surfaces. These elements create the whirling movement required to
+facilitate the release of micro-bubbles and their adhesion to these surfaces.
+The bubbles, fusing with each other, increase in volume until the hydrostatic thrust is such as to
+overcome the adhesion force to the structure. They rise towards the top of the unit from which they
+are released through a float-operated automatic air vent valve.
+1 1
+2 2
+3 3
+Brass DISCALDIRT Brass DISCALDIRTMAG
+(546 series) (5461 series)
+1 1
+2 2
+3
+3 3
+Steel DISCALDIRT Steel DISCALDIRTMAG
+(546, NA546 series) (NA546_M series)
+4
+=== page 5 ===
+Microparticle dirt separation
+The DISCALDIRT and DISCALDIRTMAG dirt removing element separates and collects any impu-
+rities present in the system.
+Impurities in the fluid upon striking the surfaces of the DISCALDIRT and DISCALDIRTMAG’s
+internal element (1), get separated and drop to the bottom of the body in the dirt collection
+chamber (2) where they collect.
+In addition, the large internal volume slows down the velocity of the fluid thus helping, by
+gravity, to separate the particles it contains.
+The collected impurities are discharged, by opening the drain valve (3), even with the system
+operating.
+1
+2
+3
+A B C
+Ferrous impurities separation
+Non-ferrous and ferrous impurities, including magnetite, in
+hydronic systems can deposit onto heat exchanger surfaces
+and accumulate in pump cavities causing reduced thermal
+efficiency and premature wear. The small and often microscopic
+magnetic particles, called magnetite, form when iron or steel corrodes.
+Highly abrasive, the extremely fine particles are difficult to remove
+by traditional means. DISCALDIRTMAG separators offer highly
+efficient separation of typical dirt as well as magnetite. The versatile
+DISCALDIRTMAG magnetic air and dirt separator removes
+both ferrous and non-ferrous impurities continuously. In addition
+to removing typical dirt particles with an internal element in a
+low-velocity-zone chamber, the DISCALDIRTMAG features a D
+powerful removable magnet below the flow line for fast and
+effective capture of ferrous impurities.The magnet removes up to 100% of the ferrous impurities,
+including magnetite, that can form in a hydronic system.
+For the brass and steel 5461 series DISCALDIRTMAG(A, B, D), the ferrous impurities are captured by a
+strong neodymium rare-earth magnetic field created by a powerful removable magnet around the
+body below the flow line.
+For the steel 546 and NA546 series DISCALDIRTMAG(C), the ferrous impurities are captured by
+a concentrated magnetic field created by a stack of neodymium rare-earth magnets positioned
+inside a brass dry-well below the flow stream.
+5
+=== page 6 ===
+Hydraulic characteristics
+6
+65.0
+)mpg(
+)s/l(
+G
+(kPa)
+33.0 93.0 44.0 05.0 96.0 38.0 79.0 1.1 52.1 4.1 7.1 9.1 2.2 5.2 8.2 3.3
+1645 ”2
+9.3 4.4 0.5 6.5
+”2/1 2
+9.6 3.8 7.9
+”3
+11 21
+”4
+41 71 91
+”5
+2 5 2 2 82 33
+”6
+93 44 05 65
+(ft of water) ΔP (ft of water)
+1 3
+0.9
+0.8 2.5
+0.7 2
+0.6 1.8
+0.5 1.6
+0.45 1.4
+0.4 1.2
+0.35 1
+0.3 0.9
+0.25 0 0 . . 8 7
+0.2 0.6
+0 0 . . 1 1 6 8 0.5
+0.14 0.45
+0.4
+0.12 0.35
+0 0.0 .1 9 0.3
+0.08 0.25
+0.07 0.2
+0.06 0.18
+0.05 0.16
+0.045 0.14
+0.04 0.12
+0.035 0.1
+0.03 0.09
+0.025 0 0 . . 0 0 8 7
+0.02 0.06
+5 01 02 05 001 002 005 0001
+1
+0.9
+0.8
+0.7
+0.6
+0.5
+0.45
+0.4
+0.35
+0.3
+0.25
+0.2
+0.18 0.16
+0.14
+0.12
+0.1 0.09
+0.08
+0.07
+0.06
+0.05
+0.045
+0.04
+0.035
+0.03
+0.025
+0.02
+6 7 8 9 21 41 61 81 52 03 53 04 54 06 07 08 09 021 041 061 081 052 003 053 004 054 006 007 008 009
+2 2 6
+1.8 1.8
+1.6 1.6
+1.4 1.4 4.5
+1.2 1.2
+96
+0021 0041
+38
+0061
+79
+0081
+111
+0002
+521
+5
+4
+3.5
+2.2
+41.0
+7.2
+71.0
+0.3
+91.0
+5.3
+22.0
+0.4
+52.0
+3.4
+72.0
+”4/3 ”1 ”4/1 1 ”2/1 1 645 ”2 645AN ”8 ”01 ”21 ”41
+Flow capacity
+Brass Steel
+Size 1" 1¼" 1½" 2"
+4.0 f/s GPM 10 15 22 39
+Cv 32 40 50 79
+Steel
+Size 2" 2½" 3" 4" 5" 6" 8" 10" 12" 14"
+4.0 f/s GPM 37 63 95 149 259 380 625 980 1,410 1,910
+10.0 f/s GPM 89 150 227 355 816 904 1,570 2,450 3,530 4,800
+Cv 87 174 208 324 520 832 1,109 1,387 1,664 1,967
+=== page 7 ===
+Installation
+DISCALDIRT and DISCALDIRTMAG units may be used in both heating and cooling systems, to ensure
+continuous air and dirt elimination. The units should be installed after the boiler and on the pump suc-
+tion side, as these are the points where the formation of micro-bubbles is greatest.
+DISCALDIRTand DISCALDIRTMAG air and dirt separators must be installed vertically. In installa-
+tion conditions where inspection is not possible, it is recommended that the venting valve cap is
+replaced by a Caleffi part number R59681 hygroscopic safety vent. The standard replacement cap
+code number is 59199.
+CHILLER CHILLER CHILLER
+Maintenance
+The DISCALDIRT and DISCALDIRTMAG air and CHILLER
+dirt separator is designed to be maintained and
+cleaned without removing it from system piping. The
+automatic air vent, located at the top of the device, has
+a long chamber for float movement (2). This prevents any impurities in the water from reaching the
+seal seat. The corrosion resistant stainless steel pinned linkage and PP float can be accessed by CHILLER CHILLER CHILLER
+removing the upper cover (1). The stainless steel float guide pin (4) prevents the float from jamming
+against the inside housing, sticking due to accumulating residue in the flowing fluids, in non-vertical
+installations or from boiler or chiller residue buildup. Unscrew the top part of the casing (3) to clean
+the entire air venting system. The air venting system in the brass DISCALDIRT and DIS-
+CALDIRTMAG and steel DISCALDIRT
+and DISCALDIRTMAG air and dirt sep-
+arators features a pinned float. Steel 1
+1
+DISCALDIRT 546 and NA546 series
+1 1
+1 and DISCALDIRTMA1G NA546_M series air
+and dirt separators with flanged and
+2 2 2
+2 threaded connecti2ons have an integral 2
+side drain port with shutoff valve, code 3 3 3
+3 538402 FD (5), whi3ch has two functions: 3
+4
+1. Air removal while filling the system 4 4 4
+4 4
+during system commissioning.
+2. Debris removal that float within the air 5
+separator. 5
+1
+1
+2
+2
+6 6 6 7 6 3 3
+4
+4
+7 7 7 7
+5 5
+8 8
+8
+8
+=== page 8 ===
+1
+1 1
+2 2 2
+3 3 3
+4
+4 4
+5
+1
+2
+6 6 3
+4
+7 7
+5
+1
+1 1
+2 2 2
+8 3 3 3
+The drain valve (code NA39753 - 1 inch or code NA59600 - 2 inch) installed on the drain pipe at 4
+4 4
+the base of the steel DISCALDIRT and DISCALDIRTMAG air and dirt separator (8) can be used to
+remove any debris that has settled at the bottom of the separator, even while the system is in operation. 5
+To inspect the internal element of brass DISCALDIRT and DISCALDIRTMAG air and dirt separators,
+unscrew the large dirt separation chamber (6) with a 1
+26 mm hexagon wrench. The internal element can be
+removed for cleaning. Additionally, the brass and steel 2
+5461 series air and dirt separators have a lever operated 6 6 3
+shut-off drain valve code 538402 FD, and ¾" garden
+4
+hose attachment with plug (7), to drain accumulated
+7 7
+debris as needed. 8 5
+Draining off dirt and ferrous impurities
+The dirt separator collection chamber has a drain valve. Using the handle provided it is possible to
+drain off the accumulated dirt particles even with the system in operation.
+For the brass and steel 5461 series DISCALDIRTMAG, captured ferrous impurities are easily flushed
+by unclamping the magnetic
+collar and purging.
+8
+To purge the ferrous impurities in the steel 546 and
+NA546 series DISCALDIRTMAG, the flexible magnetic 8
+stack is removed from the brass dry-well and, with the
+system still running, the drain valve is opened. Aided
+by the system pressure, the dirt and ferrous impurities,
+including magnetite, flushes out quickly and effectively.
+Leave this manual at the service of users for their use
+Caleffi North America, Inc.
+3883 W. Milwaukee Road
+Milwaukee, WI 53208
+T: 414.238.2360 F: 414.238.2366
+10-30-20
+8

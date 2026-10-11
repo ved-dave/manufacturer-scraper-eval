@@ -1,0 +1,207 @@
+=== page 1 ===
+NA10884.01
+www.caleffi.com
+FlowShield™ DuC
+Dual check backflow preventer
+© Copyright 2023 Caleffi 3048 Series
+Function
+Low lead dual check valve backflow preventer is designed for
+residential domestic water supply lines or commercial low-hazard
+backflow applications. It prevents reverse flow of unsafe water into
+main system water supply. This can occur due to pressure changes
+in the distribution network that can force water flow in reverse, or
+backwards. The two inline serviceable check valves prevent any
+contact between the two systems, closing automatically when
+backflow conditions occur.
+The Caleffi 3048 series FlowShield™ DuC complies with standards
+ASSE 1024, CSA B64.6, NSF/ANSI/CAN 61 (180 °F/82 °C Commercial
+Hot), NSF/ANSI/CAN 372 and codes IPC, IRC, UPC certified by ICC-
+ES.
+Product range
+3048 Series NPT male, NPT female, press, sweat, PEX crimp, PEX expansion union sizes 1/2”, 3/4”, 1”
+Technical specifications
+Materials
+Body, retaining ring and lock nut: DZR low-lead brass CW724R-M
+Check valve: EPDM, PPO
+Spring: stainless steel
+O-rings: peroxide-cured EPDM
+Performance
+Max. working pressure: 175 psi (12 bar)
+Operating temperature range: 32 to 180 °F (0 to 82 °C)
+Medium: water
+Flow rate: see graph
+The backflow preventer complies with standards ASSE 1024, CSA B64.6, NSF/ANSI/CAN 61 (180 °F/82 °C
+Commercial Hot), NSF/ANSI/CAN 372 and codes IPC, IRC, UPC certified by ICC-ES.
+1
+=== page 2 ===
+SAFETY INSTRUCTION
+This safety alert symbol will be used in this manual to draw attention to safety related
+instructions. When used, the safety alert symbol means ATTENTION! BECOME ALERT!
+YOUR SAFETY IS INVOLVED! FAILURE TO FOLLOW THESE INSTRUCTIONS
+MAY RESULT IN A SAFETY HAZARD.
+WARNING: This product can expose you to chemicals including lead, which
+is known to the State of California to cause cancer and birth defects or other
+reproductive harm. For more information go to www.P65Warning.ca.gov.
+CAUTION: All work must be performed by qualified personnel trained in the
+proper application, installation, and maintenance of systems in accordance
+with all applicable codes ordinances.
+CAUTION: Over-tightening and breakage can occur with the use of Teflon®
+pipe joint compounds. Teflon® provides lubricity so that care must be
+exercised not to over-tighten joints. Failure to follow these instructions could
+result in property damage and / or personal injury.
+CAUTION: System fluids under pressure or temperature can be hazardous.
+Be sure the pressure has been reduced to zero and the system temperature
+is below 100 °F (38 °C). Failure to follow these instructions could result in
+property damage and/or personal injury.
+CAUTION: Clean the pipes of any debris, rust, incrustations, welding slag
+and any other contaminants. For optimal operation, air in the system must
+be removed.
+CAUTION: If the device is not installed properly, according to the instructions
+contained in this manual, it may not operate correctly and may endanger the
+user.
+CAUTION: Make sure that all the connecting pipework is water tight.
+Caleffi shall not be liable for damages resulting from stress corrosion, misapplication or
+misuse of its products.
+2
+=== page 3 ===
+CONSIGNE DE SÉCURITÉ
+Ce symbole d’avertissement servira dans ce manuel à attirer l’attention sur la sécurité
+concernant instructions. Lorsqu’il est utilisé, ce symbole signifie. ATTENTION! DEVENEZ
+ALERTE ! VOTRE SÉCURITÉ EST EN JEU ! NE PAS SUIVRE CES INSTRUCTIONS PEUT
+PROVOQUER UN RISQUE DE SECURITE.
+AVERTISSEMENT: Ce produit peut vous exposer à des produits chimiques
+comme le plomb, qui est connu dans l’État de Californie pour causer le
+cancer, dommages à la naissance ou autre. Pour plus d’informations rendez-
+vous www.P65Warnings.ca.gov.
+AVERTISSEMENT: Tous les travaux doivent être effectués par du personnel
+qualifié formé à la bonne application, installation et maintenance des
+systèmes conformément aux codes et règlements locaux.
+AVERTISSEMENT: Un serrage excessif et une rupture peuvent survenir
+avec l’utilisation de Teflon® composés de joint de tuyau. Le Teflon® offre
+un pouvoir lubrifiant de sorte que les soins doivent être exercé pour ne pas
+trop serrer les joints. Non-respect de ces instructions pourrait entraîner des
+dommages matériels et / ou des blessures corporelles.
+AVERTISSEMENT: Les liquides du système sont sous pression ou de la
+température peivent être dangereux. Être sûr que la pression a été réduite
+à zéro et la température du système est inférieure à 100 °F (38 °C). Le non-
+respect de ces instructions peut entrainer des dommages matériels et/ou des
+blessures.
+AVERTISSEMENT: Nettoyer les tuyaux de tout debris, roille, incrustations,
+scories de soudure et d’autres contaminants.Pour un fonctionnement optimal,
+de l’air dans le system doit etre retire.
+AVERTISSEMENT: Si le valve, n’est pas installe, mis en service et Entretenu
+correctement, selon les instructions contenues dans ce manuel, il Peut ne pas
+fonctionner correctement et peut mettre en danger l’utilisateur.
+AVERTISSEMENT: S’assurer que tous les raccordements sont étanches.
+Caleffi ne pourra etre tenue responsable des dommages resultant de la corrosion, d’une
+mauvaise utilisation ou une mauvaise utilisation des produits.
+3
+=== page 4 ===
+Installation:
+The Caleffi 3048 series FlowShield DuC dual check backflow preventer is typically installed
+downstream of a water meter. A pressure reducing valve (if required) may be installed on either
+side of the dual check backflow preventer, all subject to local codes and standards.
+The dual check backflow preventer can be installed in either a horizontal or vertical pipe; the
+checks are spring loaded and will function independent of orientation. Verify that the flow direction
+matches the flow indication arrow on the dual check backflow preventer.
+If installing models with sweat tailpiece connectors, always sweat the connectors in place then
+install the 3048 union body. Attempting to sweat the fittings with the body in place may damage
+the check valves.
+For serviceability, always install the 3048 FlowShield DuC in an accessible location and protect
+the 3048 from potential freezing conditions. Installing isolation valves is highly recommended to
+permit disassembly for servicing.
+When installing the dual check backflow preventer, make sure not to over-tighten the connections.
+Over time, a material stress failure can occur with subsequent water leakage causing damage.
+The 3048 FlowShield DuC has dual union connections with Posi-Stop o-ring seals which do not
+require pipe dope or tape. See graphic on next page.
+Typical dual check backflow preventer pit installation:
+WATER METER DUAL CHECK
+DIRECTION
+OF FLOW
+4
+=== page 5 ===
+3048 series FlowShield DuC
+dual check backflow preventer section view:
+Posi-Stop™ O-ring seals
+Spring check valves
+Service, maintenance:
+The Caleffi 3048 series FlowShield DuC dual check backflow preventer should be inspected and
+cleaned, rebuilt or replaced every 5 years. If excessive pressure drop is experienced in the domestic
+water supply, dirt or other debris may be causing higher than normal pressure drop in the dual check
+backflow preventer. The 3048 can be easily inspected by removing the body from the dual union
+connectors. To disassemble the check valves, remove the sealing brass ring from the downstream side.
+5
+=== page 6 ===
+Dimensions:
+NPT male sweat
+PEX crimp press*
+B
+NPT female
+A
+C
+PEX expansion
+Wt. Wt.
+Code A B C Code A B C
+(lb/kg) (lb/kg)
+NPT female threaded connections Press connections*
+304843A 1⁄2" 213⁄16” 51⁄4” 1.2/0.5 304846A 1⁄2" 213⁄16” 53⁄16” 1.0/0.4
+304853A 3⁄4” 213⁄16” 5½” 1.6/0.7 304856A 3⁄4” 213⁄16” 515⁄16” 1.2/0.5
+NPT male threaded connections 304866A 1” 213⁄16” 57⁄8” 1.4/0.6
+304840A 1⁄2” 213⁄16” 55⁄16” 1.0/0.4 PEX crimp connections
+304850A 3⁄4” 213⁄16” 51⁄8” 1.2/0.5 304847A 1⁄2” 213⁄16” 67⁄16" 1.0/0.4
+304860A 1” 213⁄16” 513⁄16” 1.6/0.7 304857A 3⁄4” 213⁄16” 67⁄16” 1.2/0.5
+Sweat connections 304867A 1” 213⁄16” 65⁄8” 1.4/0.6
+304849A 1⁄2" 213⁄16” 49⁄16” 1.2/0.5 PEX expansion connections
+304859A 3⁄4” 213⁄16” 51⁄16” 1.6/0.7 304848A 1⁄2" 213⁄16” 77⁄16” 1.0/0.4
+304869A 1” 213⁄16” 513⁄16” 1.6/0.7 304858A 3⁄4” 213⁄16” 77⁄16” 1.2/0.5
+304868A 1” 213⁄16” 77⁄16” 1.4/0.6
+*Lay length for press:
+size 1/2”: 3 1⁄2 inch
+size 3/4”: 3 3⁄8 inch
+size 1”: 3 7⁄8 inch
+6
+=== page 7 ===
+Safety
+If the 3048 FlowShield DuC dual check backflow preventer valve is not installed, commissioned
+and maintained properly in accordance with these instructions, it may not operate correctly, and
+may cause damage to objects and/or people. Make sure all the connections are watertight.
+Hydraulic characteristics
+psi
+psi kPa
+Wt. 1166 110
+Code A B C
+(lb/kg) 1/2”
+1144 96
+Press connections*
+1122 83
+304846A 1⁄2" 213⁄16” 53⁄16” 1.0/0.4 3/4”
+304856A 3⁄4” 213⁄16” 515⁄16” 1.2/0.5 1100
+1”
+69
+304866A 1” 213⁄16” 57⁄8” 1.4/0.6 88 55
+PEX crimp connections
+66 42
+304847A 1⁄2” 213⁄16” 67⁄16" 1.0/0.4
+44 28
+304857A 3⁄4” 213⁄16” 67⁄16” 1.2/0.5
+304867A 1” 213⁄16” 65⁄8” 1.4/0.6 22 14
+PEX expansion connections 00 0
+00 22..55 55 77..55 1100 1122..55 1155 1177..55 2200 2222..55 2255 2277..55 3300 3322..55 3355 3377..55 GPM
+304848A 1⁄2" 213⁄16” 77⁄16” 1.0/0.4
+0 9.5 28 47 66 85 104 123 142 LPM
+304858A 3⁄4” 213⁄16” 77⁄16” 1.2/0.5
+Flow rate, GPM
+304868A 1” 213⁄16” 77⁄16” 1.4/0.6
+3048 series 1/2 inch 3/4 inch 1 inch
+Cv 8.0 9.5 10.5
+7
+=== page 8 ===
+NOTES
+Caleffi North America, Inc.
+3883 West Milwaukee Road
+Milwaukee, WI 53208
+10-2023
+T: 414.238.2360 F: 414.238.2366
+For Technical Support call 1-414-338-6338, or
+email techsupport.us@caleffi.com
+8

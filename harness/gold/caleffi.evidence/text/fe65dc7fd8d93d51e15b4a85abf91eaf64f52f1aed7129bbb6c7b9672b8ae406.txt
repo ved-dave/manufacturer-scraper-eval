@@ -1,0 +1,90 @@
+=== page 1 ===
+DISCAL ®
+magnetic air and dirt separator
+CALEFFI
+5461 Union steel series
+Submittal Data 02922 NA — Issue Date 03/2020
+Application Dimensions
+In heating and air conditioning control systems, the circulation of
+water containing impurities may result in rapid wear and damage
+to components such as pumps and control valves. It also causes
+blockages in heat exchangers, heating elements and pipes, resulting
+in lower thermal efficiency within the system. The DISCALDIRTMAG®
+magnetic air and dirt separator removes both ferrous and non-ferrous
+impurities continuously, featuring powerful removable magnets that
+remove up to 100% of the ferrous impurities, including magnetite, that
+can form in a hydronic system. DISCALDIRTMAG has 2 ½ times the
+removal performance of a standard dirt separator. The air discharge
+capacity is very high, with the capability of automatically removing
+100% of the air present in the system down to micro-bubble level.
+Typical Specification
+Furnish and install on the plans and described herein, a Caleffi
+DISCALDIRTMAG magnetic air and dirt separator as manufactured by
+Caleffi. Each separator must be designed with a steel body with large
+internal volume, seals in peroxide-cured EPDM, blowdown drain port, and
+stainless steel internal element screen/coalescing medium to automatically 3/4" remove all air present in the system and all dirt present in the system, with (GARDEN HOSE)
+particle separating capacity to 5μm (0.2 mil), and an external neodymium
+rare-earth magnet belt, removable for purging, with up to 100% ferrous
+impurities, including magnetite, separation efficiency. Each magnetic air and
+dirt separator shall be a Caleffi model 5461 or approved equal. (See product
+Code A B Wt Flow Cv
+instructions for specific installation information.)
+(lb) (gpm)
+Technical Data
+546198A 1½" swt 11¼" 22 22 50
+Materials
+Body: epoxy resin painted steel 546108A 1½" NPTF 111/8" 22 22 50
+Internal element: stainless steel 546168A 1½" press 145/8" 22 22 50
+Air vent float linkages and guide pin: stainless steel
+Seals: peroxide-cured EPDM 546199A 2" swt 12½" 23 39 79
+Drain valve: brass 546109A 2" NPTF 12" 23 39 79
+Magnet: neodymium rare-earth
+546169A 2" press 15¾" 23 39 79
+Performance
+Suitable Fluids: water, glycol solution
+Max. percentage of glycol: 50%
+Max. working pressure: 150 psi (10 bar)
+Temperature range (vessel): 32 - 230°F (0–110°C)
+Air separation efficiency: 100% removal to microbubble level
+Particle separation capacity: to 5 μm (0.2 mil)
+Ferrous impurities separation efficiency: up to 100% removal
+Connections
+main connections: 1½" & 2" NPT female union
+1½" & 2" sweat union
+1½" & 2" press union
+lay length (press connection): size 1½ inch: 11¾”
+size 2 inch: 127/8”
+drain valve: ¾" hose
+We reserve the right to change our products and their relevant technical data, contained in this publication, at any time and without prior notice. Contractors should request production drawings if prefabricating the system.
+Job name ______________________________________ Size ________________________________________
+Job location ______________________________________ Quantity ________________________________________
+Engineer ______________________________________ Approval ________________________________________
+Mechanical contractor ________________________________ Service ________________________________________
+Contractor’s P.O. No. ________________________________ Tag No. ________________________________________
+Representative ________________________________ Notes ________________________________________
+2020
+A
+B
+”8/5
+8
+”61/11
+01
+B
+0 2 1/8”
+0 4 ½”
+0 5 ½”
+1 ½ inch
+5461 series 3/4"
+(GARDEN HOSE)
+8 5/8”
+”01
+”¼
+11
+A
+0 2 1/8”
+0 5 ½”
+2 inch 5461 series
+9 ½”
+Caleffi North America, Inc. 3883 West Milwaukee Road / Milwaukee, WI 53208
+Tel: 414.238.2360 / Fax: 414.238.2366 / www.caleffi.com
+©Copyright 2020 Caleffi

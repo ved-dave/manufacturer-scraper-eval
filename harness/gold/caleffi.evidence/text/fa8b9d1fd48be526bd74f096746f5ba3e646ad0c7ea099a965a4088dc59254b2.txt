@@ -1,0 +1,68 @@
+=== page 1 ===
+NA11030
+www.caleffi.com
+ZSR Z-one™ Relay
+ZSR Series
+© Copyright 2023 Caleffi
+Revit Content Instructions Guide
+Manufacturer & Product: ZSR Z-one™ Relay
+Files: Control-ZSR-Single_Multizone-Z-One_Relay-Caleffi.rfa
+Type Catalogs: Not Applicable
+Rendering file: Not Applicable
+Schedule file: Not Applicable
+Type Properties
+Here is a curated list of notable parameters for the Revit user within the 0BZSR Z-one™ Relay family for the ZSR103 model.
+Electrical
+Voltage 24.00 V
+Number of Poles 1
+Electrical – Loads
+Apparent Power 120.00 VA
+Identity Data
+Assembly Code D5090900
+Contact URL* http://www.caleffi.com/usa/en-us/contacts/contact-us
+Copyright* ©Caleffi North America
+Cost
+Description Z-one™ Relay (multi-zone)
+Version 1
+Keynote
+Manufacturer Caleffi North America, Inc.
+Model ZSR103
+Product Page URL* https://www.caleffi.com/en-us/relay-pump-and-boiler-operating-control-zsr-caleffi-zsr106
+Type Comments
+Type Image
+Standards ETL certified to CSA C22-2 No. 24, conforms to UL873
+Series* ZSR Series
+URL https://www.caleffi.com/usa/en-us
+Halftone text in the property tables indicates that the value is locked from editing.
+*Indicates Shared Parameter and can be scheduled
+Rendering
+Note: Standard Caleffi materials are imported. These may be modified, but please ensure that the modification selection matches an actual
+manufacturer supplied option.
+Caleffi North America
+=== page 2 ===
+Loading and Placing into the Project
+To work with the 0BZSR Z-one™ Relay in Revit, a family with loaded types is provided. Navigate to the Insert Tab > Load Family button on the Revit
+ribbon to load the family.
+Please ensure that the visibility settings within the project are modified to have the Electrical Equipment category visible from the list of Electrical
+Categories.
+Figure 1 - Insert Tab > Load Family Figure 2 - Visibility/Graphic Overrides
+Figure 3 - 0BZSR Z-one™ Relay
+Instructions on placing 0BZSR Z-one™ Relay in Revit project: Drag family from project browser and select ‘Place on Face’ or ‘Place on Work Plane’
+as applicable. Once selected, place the family at appropriate location. Use ‘Offset from Host’ parameter to control the distance from host
+plane/surface
+Figure 4 Options available before placing family in project
+2 Caleffi North America
+=== page 3 ===
+Project Behavior
+One way to place a 0BZSR Z-one™ Relay is to go to the Systems Tab on the Revit ribbon and navigate to the Component button with Place a
+Component fly-out selected.
+Figure 5 - Systems Tab > Component > Place a Component
+Figure 6 – The 0BZSR Z-one™ Relay families can be found under Electrical Equipment in the project browser and placed directly in the project.
+Schedule Creation
+Within the type and instance properties dialogues, the Revit user will find useful information for scheduling purposes such as Type, Part
+Description, Part Number/Model, Family Version, Manufacturer, Series, & Product Page URL. The resulting schedule in your project will show
+counts/quantities of the 0BZSR Z-one™ Relay.
+For Technical Support call 1-414-338-6338, or
+email techsupport.us@caleffi.com
+3
+11-15-23
