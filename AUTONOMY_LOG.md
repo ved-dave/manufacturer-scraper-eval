@@ -314,3 +314,13 @@ first-pass session compares (before/after agreement) and fixes; < 80% before-fix
 - Bray r5 (r3+r4+r5, pages re-fetched after the cache incident): identical key metrics to r4b — so the re-fetch did
   not shift Bray scores, and r5 has no effect on Bray (its not_published family statuses are already scored via
   variants/family_prices). Validation 0 errors / 23 warnings, 0 crashes.
+
+## 2026-10-11 04:42 · Phase 2 · Round 3 decision: KEPT (merged round/3)
+| metric | bray r2 | bray r3 | crane r2 | crane r3 | macro r2 | macro r3 |
+|---|---|---|---|---|---|---|
+| primary doc recall | 61.0 | 92.7 | 100 | 100 | 80.5 | 96.4 |
+| spec accuracy | 65.6 | 66.3 | 42.2 | 42.2 | 53.9 | 54.3 |
+| completeness | 84.4 | 85.2 | 64.2 | 64.2 | 74.3 | 74.7 |
+| conflict precision | 10.7 | 12.9 | 0 | 0 | 5.4 | 6.5 |
+- Other metrics unchanged; no drops; validation 0 errors both sites; 0 crashes; tests OK. Crane r3 ran on a cold
+  cache (re-fetched) and reproduced crane r2 exactly.
