@@ -141,3 +141,15 @@ first-pass session compares (before/after agreement) and fixes; < 80% before-fix
   bare "Item"/"Part" (parts lists) and dimension tables are rejected. Page price status is attached to each variant;
   families with no variants get `family_prices` (SPEC 7). Tests: TestVariants (3).
 - Expected: price availability 0 → ~80+ (12 family_prices + SRH variants), variant recall 0 → ~20 (SRH 3 of 14).
+
+## 2026-10-11 03:01 · Phase 1 · Cimberio key final (blind compared) — merged
+- `gold/cimberio-auto` f77382c merged (47bf4cc). Gold validator 0 errors / 8 warnings (`refines` on material_body,
+  HARNESS_ISSUES); harness tests OK. Orchestrator did not open the key (held-out): only the validator summary line,
+  the non-gold diff (sites.json allowed host, HARNESS_ISSUES) and the labeller's report were looked at.
+- Blind agreement, 6 families (BEFORE raw blind vs first pass 75b1ffd → AFTER vs final): family spec fields 47/58 (81%)
+  → 47/57 (82%); documents found 9/14 → 9/14 (the blind labeller missed the public List Price Book on /resources/; kept
+  because its part numbers match the variants); variants 27/27; images 9/9; CAD 2/2; cross_check 91% → 80% (SPEC 5
+  made TechDataSheet-778_v5, 8 pages / 14 models, a catalog, so size fields became page_only); material_body 1/6
+  (punctuation/word order only; gold copies sheet wording); standards 1/6 (Annex G statement).
+- Spec-field agreement ≥ 80%, so no SPEC clarification round. Labeller's top ambiguity "price-list PDF price vs
+  Request a Quote on the page" is recorded for REPORT.md.
