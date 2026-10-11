@@ -180,7 +180,7 @@ def match_template(url, template_key):
 def crawl_navigation(fetcher, base_url, page_hosts, max_pages=150, max_depth=3, log=print):
     """Breadth-first crawl from the homepage through menus and category pages.
 
-    Sitemaps are often incomplete (on Bray, 24 of 103 product families are missing from them), so
+    Sitemaps are often incomplete (on one evaluation site, 24 of 103 product families were missing from them), so
     this always runs alongside sitemap discovery. It follows page links on the site's own hosts,
     including pagination, up to max_depth hops and max_pages fetches, and returns every candidate
     page URL it saw.

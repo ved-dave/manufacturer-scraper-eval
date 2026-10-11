@@ -46,3 +46,15 @@ first-pass session compares (before/after agreement) and fixes; < 80% before-fix
 - Decision: Sioux vocabulary pass is mechanical mapping (sources unchanged), so no blind re-label; logged as such.
 - From here this session takes the engineer role and opens `scraper/` for the first time (labelling now runs only
   in the separate sessions above).
+
+## 2026-10-11 03:10 · Phase 2 setup · Generality test + crash isolation (engineer role)
+- Read `scraper/README.md` and the pipeline for the first time (all labelling runs in separate sessions).
+- Added `TestGenerality` (rule 4): fails if any of bray, crane, cranefs, sioux, apollo, aalberts, compano, caleffi,
+  cimberio, milwaukee, dixon appears (case-insensitive) in `scraper/mfr_scraper/*.py`. It failed on 9 lines —
+  all docstrings/comments (CLI examples `--site bray`, host examples `www.bray.com`, `cdn.siouxchief.com`,
+  `aalberts.compano.com`, a Bray sitemap statistic). No code logic was site-specific. Replaced with generic
+  examples (`<site>`, `example.com`); test now passes. The test was not loosened to allow comments.
+- Self-healing: added `SiteRun.guarded()`; a crash while fetching/parsing one page (`page_crashed`) or building
+  one family (`family_crashed`) is flagged with the URL + exception and logged with a traceback, and the run continues.
+  Unit test `TestCrashIsolation`. No metric effect expected (infrastructure, not a scored round).
+- Round 1 (baseline) Bray run started in the background with the cold cache (1 req/s).

@@ -4,6 +4,7 @@ import csv
 import datetime as dt
 import json
 import re
+import traceback
 from dataclasses import dataclass, field
 from pathlib import Path
 from urllib.parse import unquote, urlsplit
@@ -336,6 +337,16 @@ class SiteRun:
         if example and key not in self.flag_examples:
             self.flag_examples[key] = example
 
+    def guarded(self, flag_key, url, fn, *args):
+        """Run one page/family step; a crash is flagged with its URL and must not kill the site run."""
+        try:
+            return fn(*args)
+        except Exception as e:   # noqa: BLE001  (any bug in one page is isolated)
+            self.flag(flag_key, f'{url}: {type(e).__name__}: {e}')
+            self.log(f'  CRASH {flag_key} {url}: {type(e).__name__}: {e}')
+            self.log(traceback.format_exc(limit=6))
+            return None
+
     # -------------------------------------------------- discovery
     def discover(self):
         base = self.cfg['input_url']
@@ -616,7 +627,9 @@ class SiteRun:
         self.log(f'[{self.site}] {len(product_urls)} product URLs; processing {len(targets)}')
         recs = []
         for i, u in enumerate(targets, 1):
-            rec, err = fetch_page(self.fetcher, u, self.log)
+            rec, err = self.guarded('page_crashed', u, fetch_page, self.fetcher, u, self.log) or (None, 'crashed')
+            if err == 'crashed':
+                continue
             if err:
                 self.flag('page_skipped', err)
                 continue
@@ -647,7 +660,9 @@ class SiteRun:
             family_counts.update({N.image_key(c[0]) for r in g for c in r.image_cands})
         families, ids = [], collections.Counter()
         for i, g in enumerate(fam_groups, 1):
-            fam = self.build_family(g, chrome, family_counts)
+            fam = self.guarded('family_crashed', g[0].url, self.build_family, g, chrome, family_counts)
+            if fam is None:
+                continue
             ids[fam['family_id']] += 1
             if ids[fam['family_id']] > 1:
                 fam['family_id'] += f'-{ids[fam["family_id"]]}'

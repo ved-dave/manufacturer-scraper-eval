@@ -1,9 +1,9 @@
 """Work out which hosts belong to a manufacturer, from nothing but its homepage URL.
 
-- Page hosts: the homepage's registrable domain and all its subdomains (www.bray.com -> bray.com, *.bray.com).
+- Page hosts: the homepage's registrable domain and all its subdomains (www.example.com -> example.com, *.example.com).
 - Asset hosts: other hosts that serve documents or images referenced from many of the site's own
-  product pages (CDNs, blob storage, document servers such as cdn.siouxchief.com or
-  aalberts.compano.com). Third-party services (social, analytics, fonts, script CDNs, video) are excluded.
+  product pages (CDNs, blob storage, document servers such as cdn.example.com or
+  a PIM vendor's host). Third-party services (social, analytics, fonts, script CDNs, video) are excluded.
 
 No per-site configuration is needed; a configured list (harness/config/sites.json) is only an override
 and, for the evaluation sites, the reference the detection is checked against.
