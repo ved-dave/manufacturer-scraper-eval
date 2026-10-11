@@ -1,0 +1,4029 @@
+{
+  "schema_version": "1.0",
+  "site": "crane",
+  "input_url": "https://www.cranefs.com/",
+  "run_at": "2026-10-11T03:00:00Z",
+  "agent": {
+    "name": "gold",
+    "version": "1"
+  },
+  "gold_meta": {
+    "labeller": "devin",
+    "labelled_at": "2026-10-11",
+    "sample_seed": 42,
+    "family_index_method": "blind re-label: family_index lists only the 6 assigned families (URLs given by the orchestrator); no site-wide crawl",
+    "notes": "Blind second-labeller key for 6 Crane FS families. See crane.blind.md. No prices published on the site (not_published)."
+  },
+  "site_profile": {
+    "platform": "WordPress (Bedrock-style /app/uploads/)",
+    "locale_scheme": "none (single en-GB site, no hreflang alternates)",
+    "sitemaps": [
+      "https://www.cranefs.com/sitemap_index.xml"
+    ],
+    "fetch_mode": "http",
+    "blocked": false
+  },
+  "family_index": [
+    {
+      "url": "https://www.cranefs.com/product/butterfly-valves/f621/",
+      "name": "F621 Semi-Lugged Lever Operated Butterfly Valves - Ductile Iron",
+      "series_code": "F621",
+      "aliases": []
+    },
+    {
+      "url": "https://www.cranefs.com/product/unions/257/",
+      "name": "257 Straight Union - Male to Female",
+      "series_code": "257",
+      "aliases": []
+    },
+    {
+      "url": "https://www.cranefs.com/product/bushes/140/",
+      "name": "140 Hexagon Bush",
+      "series_code": "140",
+      "aliases": []
+    },
+    {
+      "url": "https://www.cranefs.com/product/butterfly-valves/f634/",
+      "name": "F634 Fully Lugged Lever Operated Butterfly Valves - End of Line Service",
+      "series_code": "F634",
+      "aliases": []
+    },
+    {
+      "url": "https://www.cranefs.com/product/ball-valves/d171aexs/",
+      "name": "D171AEXS Extended Stem Ball Valve - DZR Brass",
+      "series_code": "D171AEXS",
+      "aliases": []
+    },
+    {
+      "url": "https://www.cranefs.com/product/connected-2-3-4-port/3-port-valve-cast-iron/",
+      "name": "D103B - Cast Iron 3 Port Valve - Cast Iron",
+      "series_code": "D103B",
+      "aliases": []
+    }
+  ],
+  "families": [
+    {
+      "family_id": "f621",
+      "name": "F621 Semi-Lugged Lever Operated Butterfly Valves - Ductile Iron",
+      "series_code": "F621",
+      "product_type": "butterfly valve",
+      "canonical_url": "https://www.cranefs.com/product/butterfly-valves/f621/",
+      "alternates": [],
+      "market_flag": "non_na",
+      "specs": {
+        "size_range": {
+          "value": {
+            "min": "50",
+            "max": "200"
+          },
+          "unit": "mm",
+          "raw_text": "SIZE (mm) 50 ... 200",
+          "display_source": "pdf",
+          "cross_check": "agree",
+          "sources": [
+            {
+              "url": "https://www.cranefs.com/app/uploads/2023/09/F621-Butterfly-CraneFS-DS-1021-p28.pdf",
+              "type": "pdf",
+              "page": 1,
+              "section": "Dimensions & Weights",
+              "variant_sku": null,
+              "quote": "50 2.4 109",
+              "snapshot_sha256": "aa7324e8390183958b65ca853b50ea87fa931fc9953f0df13cf0bb5cc380b53b",
+              "retrieved_at": "2026-10-11T03:00:56Z"
+            },
+            {
+              "url": "https://www.cranefs.com/app/uploads/2023/09/F621-Butterfly-CraneFS-DS-1021-p28.pdf",
+              "type": "pdf",
+              "page": 1,
+              "section": "Dimensions & Weights",
+              "variant_sku": null,
+              "quote": "200 13.4 224",
+              "snapshot_sha256": "aa7324e8390183958b65ca853b50ea87fa931fc9953f0df13cf0bb5cc380b53b",
+              "retrieved_at": "2026-10-11T03:00:56Z"
+            },
+            {
+              "url": "https://www.cranefs.com/product/butterfly-valves/f621/",
+              "type": "page",
+              "page": null,
+              "section": "Product Overview",
+              "variant_sku": null,
+              "quote": "50mm to 200mm",
+              "snapshot_sha256": "a93c067d612c748162dbc37ea2438e306346455b34e3bde8cdf3b00c83dc27e2",
+              "retrieved_at": "2026-10-11T02:59:42Z"
+            }
+          ]
+        },
+        "sizes_available": {
+          "value": [
+            "50",
+            "65",
+            "80",
+            "100",
+            "125",
+            "150",
+            "200"
+          ],
+          "unit": "mm",
+          "raw_text": "DN50, DN65, DN80, DN100, DN125, DN150, DN200 PN16 / 2\"-8\" CL125",
+          "display_source": "pdf",
+          "cross_check": "pdf_only",
+          "sources": [
+            {
+              "url": "https://www.cranefs.com/app/uploads/2023/09/F621-Butterfly-CraneFS-DS-1021-p28.pdf",
+              "type": "pdf",
+              "page": 1,
+              "section": "Dimensions & Weights",
+              "variant_sku": null,
+              "quote": "DN50 PN16",
+              "snapshot_sha256": "aa7324e8390183958b65ca853b50ea87fa931fc9953f0df13cf0bb5cc380b53b",
+              "retrieved_at": "2026-10-11T03:00:56Z"
+            },
+            {
+              "url": "https://www.cranefs.com/app/uploads/2023/09/F621-Butterfly-CraneFS-DS-1021-p28.pdf",
+              "type": "pdf",
+              "page": 1,
+              "section": "Dimensions & Weights",
+              "variant_sku": null,
+              "quote": "DN65 PN16",
+              "snapshot_sha256": "aa7324e8390183958b65ca853b50ea87fa931fc9953f0df13cf0bb5cc380b53b",
+              "retrieved_at": "2026-10-11T03:00:56Z"
+            },
+            {
+              "url": "https://www.cranefs.com/app/uploads/2023/09/F621-Butterfly-CraneFS-DS-1021-p28.pdf",
+              "type": "pdf",
+              "page": 1,
+              "section": "Dimensions & Weights",
+              "variant_sku": null,
+              "quote": "DN80 PN16",
+              "snapshot_sha256": "aa7324e8390183958b65ca853b50ea87fa931fc9953f0df13cf0bb5cc380b53b",
+              "retrieved_at": "2026-10-11T03:00:56Z"
+            },
+            {
+              "url": "https://www.cranefs.com/app/uploads/2023/09/F621-Butterfly-CraneFS-DS-1021-p28.pdf",
+              "type": "pdf",
+              "page": 1,
+              "section": "Dimensions & Weights",
+              "variant_sku": null,
+              "quote": "DN100 PN16",
+              "snapshot_sha256": "aa7324e8390183958b65ca853b50ea87fa931fc9953f0df13cf0bb5cc380b53b",
+              "retrieved_at": "2026-10-11T03:00:56Z"
+            },
+            {
+              "url": "https://www.cranefs.com/app/uploads/2023/09/F621-Butterfly-CraneFS-DS-1021-p28.pdf",
+              "type": "pdf",
+              "page": 1,
+              "section": "Dimensions & Weights",
+              "variant_sku": null,
+              "quote": "DN125 PN16",
+              "snapshot_sha256": "aa7324e8390183958b65ca853b50ea87fa931fc9953f0df13cf0bb5cc380b53b",
+              "retrieved_at": "2026-10-11T03:00:56Z"
+            },
+            {
+              "url": "https://www.cranefs.com/app/uploads/2023/09/F621-Butterfly-CraneFS-DS-1021-p28.pdf",
+              "type": "pdf",
+              "page": 1,
+              "section": "Dimensions & Weights",
+              "variant_sku": null,
+              "quote": "DN150 PN16",
+              "snapshot_sha256": "aa7324e8390183958b65ca853b50ea87fa931fc9953f0df13cf0bb5cc380b53b",
+              "retrieved_at": "2026-10-11T03:00:56Z"
+            },
+            {
+              "url": "https://www.cranefs.com/app/uploads/2023/09/F621-Butterfly-CraneFS-DS-1021-p28.pdf",
+              "type": "pdf",
+              "page": 1,
+              "section": "Dimensions & Weights",
+              "variant_sku": null,
+              "quote": "DN200 PN16",
+              "snapshot_sha256": "aa7324e8390183958b65ca853b50ea87fa931fc9953f0df13cf0bb5cc380b53b",
+              "retrieved_at": "2026-10-11T03:00:56Z"
+            }
+          ]
+        },
+        "size_unit": {
+          "value": "mm",
+          "unit": null,
+          "raw_text": "SIZE (mm)",
+          "display_source": "pdf",
+          "cross_check": "agree",
+          "sources": [
+            {
+              "url": "https://www.cranefs.com/app/uploads/2023/09/F621-Butterfly-CraneFS-DS-1021-p28.pdf",
+              "type": "pdf",
+              "page": 1,
+              "section": "Dimensions & Weights",
+              "variant_sku": null,
+              "quote": "SIZE (mm)",
+              "snapshot_sha256": "aa7324e8390183958b65ca853b50ea87fa931fc9953f0df13cf0bb5cc380b53b",
+              "retrieved_at": "2026-10-11T03:00:56Z"
+            },
+            {
+              "url": "https://www.cranefs.com/product/butterfly-valves/f621/",
+              "type": "page",
+              "page": null,
+              "section": "Product Overview",
+              "variant_sku": null,
+              "quote": "50mm to 200mm",
+              "snapshot_sha256": "a93c067d612c748162dbc37ea2438e306346455b34e3bde8cdf3b00c83dc27e2",
+              "retrieved_at": "2026-10-11T02:59:42Z"
+            }
+          ]
+        },
+        "pressure_rating": {
+          "value": 16,
+          "unit": "bar",
+          "raw_text": "PRESSURE RATING: PN16 / CLASS 125",
+          "display_source": "pdf",
+          "cross_check": "agree",
+          "sources": [
+            {
+              "url": "https://www.cranefs.com/app/uploads/2023/09/F621-Butterfly-CraneFS-DS-1021-p28.pdf",
+              "type": "pdf",
+              "page": 1,
+              "section": null,
+              "variant_sku": null,
+              "quote": "PRESSURE RATING: PN16 / CLASS 125",
+              "snapshot_sha256": "aa7324e8390183958b65ca853b50ea87fa931fc9953f0df13cf0bb5cc380b53b",
+              "retrieved_at": "2026-10-11T03:00:56Z"
+            },
+            {
+              "url": "https://www.cranefs.com/product/butterfly-valves/f621/",
+              "type": "page",
+              "page": null,
+              "section": "Product Overview",
+              "variant_sku": null,
+              "quote": "Pressure rating PN16 / Class 125",
+              "snapshot_sha256": "a93c067d612c748162dbc37ea2438e306346455b34e3bde8cdf3b00c83dc27e2",
+              "retrieved_at": "2026-10-11T02:59:42Z"
+            }
+          ]
+        },
+        "temperature_range": {
+          "value": {
+            "min": -10,
+            "max": 100
+          },
+          "unit": "C",
+          "raw_text": "Suitable for a wide temperature range -10°C to 100°C",
+          "display_source": "pdf",
+          "cross_check": "agree",
+          "sources": [
+            {
+              "url": "https://www.cranefs.com/app/uploads/2023/09/F621-Butterfly-CraneFS-DS-1021-p28.pdf",
+              "type": "pdf",
+              "page": 1,
+              "section": "Features & Benefits",
+              "variant_sku": null,
+              "quote": "Suitable for a wide temperature range -10°C to 100°C",
+              "snapshot_sha256": "aa7324e8390183958b65ca853b50ea87fa931fc9953f0df13cf0bb5cc380b53b",
+              "retrieved_at": "2026-10-11T03:00:56Z"
+            },
+            {
+              "url": "https://www.cranefs.com/product/butterfly-valves/f621/",
+              "type": "page",
+              "page": null,
+              "section": "Features",
+              "variant_sku": null,
+              "quote": "Suitable for a wide temperature range -10°C to 100°C",
+              "snapshot_sha256": "a93c067d612c748162dbc37ea2438e306346455b34e3bde8cdf3b00c83dc27e2",
+              "retrieved_at": "2026-10-11T02:59:42Z"
+            }
+          ]
+        },
+        "material_body": {
+          "value": "Ductile Iron ASTM A536 64-45-12",
+          "unit": null,
+          "raw_text": "Body Ductile Iron ASTM A536 64-45-12 (Epoxy Paint)",
+          "display_source": "pdf",
+          "cross_check": "refines",
+          "sources": [
+            {
+              "url": "https://www.cranefs.com/app/uploads/2023/09/F621-Butterfly-CraneFS-DS-1021-p28.pdf",
+              "type": "pdf",
+              "page": 1,
+              "section": "Materials",
+              "variant_sku": null,
+              "quote": "Ductile Iron ASTM A536 64-45-12 (Epoxy Paint)",
+              "snapshot_sha256": "aa7324e8390183958b65ca853b50ea87fa931fc9953f0df13cf0bb5cc380b53b",
+              "retrieved_at": "2026-10-11T03:00:56Z"
+            }
+          ],
+          "alt_values": [
+            {
+              "value": "Ductile Iron",
+              "unit": null,
+              "raw_text": "Material Ductile Iron",
+              "sources": [
+                {
+                  "url": "https://www.cranefs.com/product/butterfly-valves/f621/",
+                  "type": "page",
+                  "page": null,
+                  "section": "Product Overview",
+                  "variant_sku": null,
+                  "quote": "Material Ductile Iron",
+                  "snapshot_sha256": "a93c067d612c748162dbc37ea2438e306346455b34e3bde8cdf3b00c83dc27e2",
+                  "retrieved_at": "2026-10-11T02:59:42Z"
+                }
+              ]
+            }
+          ]
+        },
+        "material_trim": {
+          "value": "Aluminium Bronze C954 ASTM B148",
+          "unit": null,
+          "raw_text": "Disc Aluminium Bronze C954 ASTM B148",
+          "display_source": "pdf",
+          "cross_check": "pdf_only",
+          "sources": [
+            {
+              "url": "https://www.cranefs.com/app/uploads/2023/09/F621-Butterfly-CraneFS-DS-1021-p28.pdf",
+              "type": "pdf",
+              "page": 1,
+              "section": "Materials",
+              "variant_sku": null,
+              "quote": "Aluminium Bronze C954 ASTM B148",
+              "snapshot_sha256": "aa7324e8390183958b65ca853b50ea87fa931fc9953f0df13cf0bb5cc380b53b",
+              "retrieved_at": "2026-10-11T03:00:56Z"
+            }
+          ]
+        },
+        "material_seat": {
+          "value": "EPDM",
+          "unit": null,
+          "raw_text": "Liner EPDM (WRAS Approved) Temp. -10 to 100°C (80°C WRAS)",
+          "display_source": "pdf",
+          "cross_check": "pdf_only",
+          "sources": [
+            {
+              "url": "https://www.cranefs.com/app/uploads/2023/09/F621-Butterfly-CraneFS-DS-1021-p28.pdf",
+              "type": "pdf",
+              "page": 1,
+              "section": "Materials",
+              "variant_sku": null,
+              "quote": "EPDM (WRAS Approved) Temp. -10 to 100°C (80°C WRAS)",
+              "snapshot_sha256": "aa7324e8390183958b65ca853b50ea87fa931fc9953f0df13cf0bb5cc380b53b",
+              "retrieved_at": "2026-10-11T03:00:56Z"
+            }
+          ]
+        },
+        "material_seals": {
+          "value": "Buna-N",
+          "unit": null,
+          "raw_text": "O-Ring Buna-N",
+          "display_source": "pdf",
+          "cross_check": "pdf_only",
+          "sources": [
+            {
+              "url": "https://www.cranefs.com/app/uploads/2023/09/F621-Butterfly-CraneFS-DS-1021-p28.pdf",
+              "type": "pdf",
+              "page": 1,
+              "section": "Materials",
+              "variant_sku": null,
+              "quote": "O-Ring Buna-N",
+              "snapshot_sha256": "aa7324e8390183958b65ca853b50ea87fa931fc9953f0df13cf0bb5cc380b53b",
+              "retrieved_at": "2026-10-11T03:00:56Z"
+            }
+          ]
+        },
+        "end_connections": {
+          "value": [
+            "lug"
+          ],
+          "unit": null,
+          "raw_text": "Semi-lugged. To suit flange connections BS EN 1092-2 PN10 or PN16 and ANSI B16.1 Class 125.",
+          "display_source": "pdf",
+          "cross_check": "agree",
+          "sources": [
+            {
+              "url": "https://www.cranefs.com/app/uploads/2023/09/F621-Butterfly-CraneFS-DS-1021-p28.pdf",
+              "type": "pdf",
+              "page": 1,
+              "section": "Specification",
+              "variant_sku": null,
+              "quote": "Semi-lugged.",
+              "snapshot_sha256": "aa7324e8390183958b65ca853b50ea87fa931fc9953f0df13cf0bb5cc380b53b",
+              "retrieved_at": "2026-10-11T03:00:56Z"
+            },
+            {
+              "url": "https://www.cranefs.com/product/butterfly-valves/f621/",
+              "type": "page",
+              "page": null,
+              "section": "Features",
+              "variant_sku": null,
+              "quote": "Valve body semi-lugged to fit PN16 or ANSI Class 125 flanges",
+              "snapshot_sha256": "a93c067d612c748162dbc37ea2438e306346455b34e3bde8cdf3b00c83dc27e2",
+              "retrieved_at": "2026-10-11T02:59:42Z"
+            }
+          ]
+        },
+        "standards": {
+          "value": [
+            "BS EN 593",
+            "BS EN 558",
+            "BS EN 1092-2",
+            "ANSI B16.1"
+          ],
+          "unit": null,
+          "raw_text": "Valve design conforms to BS EN 593",
+          "display_source": "pdf",
+          "cross_check": "refines",
+          "sources": [
+            {
+              "url": "https://www.cranefs.com/app/uploads/2023/09/F621-Butterfly-CraneFS-DS-1021-p28.pdf",
+              "type": "pdf",
+              "page": 1,
+              "section": "Specification",
+              "variant_sku": null,
+              "quote": "Valve design conforms to BS EN 593",
+              "snapshot_sha256": "aa7324e8390183958b65ca853b50ea87fa931fc9953f0df13cf0bb5cc380b53b",
+              "retrieved_at": "2026-10-11T03:00:56Z"
+            },
+            {
+              "url": "https://www.cranefs.com/app/uploads/2023/09/F621-Butterfly-CraneFS-DS-1021-p28.pdf",
+              "type": "pdf",
+              "page": 1,
+              "section": "Specification",
+              "variant_sku": null,
+              "quote": "Face to face conforms to BS EN 558",
+              "snapshot_sha256": "aa7324e8390183958b65ca853b50ea87fa931fc9953f0df13cf0bb5cc380b53b",
+              "retrieved_at": "2026-10-11T03:00:56Z"
+            },
+            {
+              "url": "https://www.cranefs.com/app/uploads/2023/09/F621-Butterfly-CraneFS-DS-1021-p28.pdf",
+              "type": "pdf",
+              "page": 1,
+              "section": "Specification",
+              "variant_sku": null,
+              "quote": "To suit flange connections BS EN 1092-2 PN10 or PN16 and ANSI B16.1 Class 125",
+              "snapshot_sha256": "aa7324e8390183958b65ca853b50ea87fa931fc9953f0df13cf0bb5cc380b53b",
+              "retrieved_at": "2026-10-11T03:00:56Z"
+            }
+          ],
+          "alt_values": [
+            {
+              "value": [
+                "BS EN 1092-2",
+                "ANSI B16.1"
+              ],
+              "unit": null,
+              "raw_text": "To suit flange connections BS EN 1092-2 PN10 or PN16 and ANSI B16.1 Class 125.",
+              "sources": [
+                {
+                  "url": "https://www.cranefs.com/product/butterfly-valves/f621/",
+                  "type": "page",
+                  "page": null,
+                  "section": "Product Overview",
+                  "variant_sku": null,
+                  "quote": "To suit flange connections BS EN 1092-2 PN10 or PN16 and ANSI B16.1 Class 125.",
+                  "snapshot_sha256": "a93c067d612c748162dbc37ea2438e306346455b34e3bde8cdf3b00c83dc27e2",
+                  "retrieved_at": "2026-10-11T02:59:42Z"
+                }
+              ]
+            }
+          ]
+        },
+        "certifications": {
+          "value": [
+            "WRAS"
+          ],
+          "unit": null,
+          "raw_text": "WRAS approved for potable water applications -10°C to 80°C",
+          "display_source": "pdf",
+          "cross_check": "agree",
+          "sources": [
+            {
+              "url": "https://www.cranefs.com/app/uploads/2023/09/F621-Butterfly-CraneFS-DS-1021-p28.pdf",
+              "type": "pdf",
+              "page": 1,
+              "section": "Features & Benefits",
+              "variant_sku": null,
+              "quote": "WRAS approved for potable water applications -10°C to 80°C",
+              "snapshot_sha256": "aa7324e8390183958b65ca853b50ea87fa931fc9953f0df13cf0bb5cc380b53b",
+              "retrieved_at": "2026-10-11T03:00:56Z"
+            },
+            {
+              "url": "https://www.cranefs.com/product/butterfly-valves/f621/",
+              "type": "page",
+              "page": null,
+              "section": "Features",
+              "variant_sku": null,
+              "quote": "WRAS approved for potable water applications -10°C to 80°C",
+              "snapshot_sha256": "a93c067d612c748162dbc37ea2438e306346455b34e3bde8cdf3b00c83dc27e2",
+              "retrieved_at": "2026-10-11T02:59:42Z"
+            }
+          ]
+        },
+        "applications": {
+          "value": [
+            "potable water"
+          ],
+          "unit": null,
+          "raw_text": "WRAS approved for potable water applications",
+          "display_source": "pdf",
+          "cross_check": "agree",
+          "sources": [
+            {
+              "url": "https://www.cranefs.com/app/uploads/2023/09/F621-Butterfly-CraneFS-DS-1021-p28.pdf",
+              "type": "pdf",
+              "page": 1,
+              "section": "Features & Benefits",
+              "variant_sku": null,
+              "quote": "WRAS approved for potable water applications",
+              "snapshot_sha256": "aa7324e8390183958b65ca853b50ea87fa931fc9953f0df13cf0bb5cc380b53b",
+              "retrieved_at": "2026-10-11T03:00:56Z"
+            },
+            {
+              "url": "https://www.cranefs.com/product/butterfly-valves/f621/",
+              "type": "page",
+              "page": null,
+              "section": "Features",
+              "variant_sku": null,
+              "quote": "WRAS approved for potable water applications",
+              "snapshot_sha256": "a93c067d612c748162dbc37ea2438e306346455b34e3bde8cdf3b00c83dc27e2",
+              "retrieved_at": "2026-10-11T02:59:42Z"
+            }
+          ]
+        }
+      },
+      "additional_specs": {
+        "end_connections_other": [
+          "To suit flange connections BS EN 1092-2 PN10 or PN16 and ANSI B16.1 Class 125"
+        ],
+        "applications_other": [
+          "Group 2 liquids as defined by the Pressure Equipment Directive 2014/68/EU",
+          "flow regulation"
+        ],
+        "body_style": "Semi-lugged",
+        "operator": "Lever (aluminium alloy, epoxy paint)",
+        "test_pressures": "Shell: 24 Bar Seat: 17.6 Bar",
+        "wras_temperature_range": "-10°C to 80°C",
+        "corrosion_protection": "Level 3 C3 (Medium)",
+        "shaft": "Stainless Steel Type 410",
+        "bushing": "PTFE",
+        "face_to_face": "BS EN 558",
+        "kv": {
+          "50": "98",
+          "65": "167",
+          "80": "258",
+          "100": "512",
+          "125": "872",
+          "150": "1,347",
+          "200": "2,675"
+        }
+      },
+      "variants": [],
+      "family_prices": [
+        {
+          "amount": null,
+          "currency": null,
+          "price_type": null,
+          "availability": "not_published",
+          "notes": "No price, quote button or price list on the site; the page only links a distributor locator. Family lists no identifiers, so there are no variants (SPEC 7).",
+          "source": {
+            "url": "https://www.cranefs.com/product/butterfly-valves/f621/",
+            "type": "page",
+            "page": null,
+            "section": "Product header",
+            "variant_sku": null,
+            "quote": "Distributor",
+            "snapshot_sha256": "a93c067d612c748162dbc37ea2438e306346455b34e3bde8cdf3b00c83dc27e2",
+            "retrieved_at": "2026-10-11T02:59:42Z"
+          }
+        }
+      ],
+      "documents": [
+        {
+          "url": "https://www.cranefs.com/app/uploads/2023/09/F621-Butterfly-CraneFS-DS-1021-p28.pdf",
+          "doc_type": "spec_sheet",
+          "priority": "primary",
+          "lang": "en",
+          "title": "F621 Datasheet",
+          "revision_date": "2020-12-08",
+          "sha256": "aa7324e8390183958b65ca853b50ea87fa931fc9953f0df13cf0bb5cc380b53b",
+          "bytes": 460496,
+          "http_status": 200,
+          "mime_verified": true,
+          "found_on": "https://www.cranefs.com/product/butterfly-valves/f621/",
+          "variant_skus": []
+        },
+        {
+          "url": "https://www.cranefs.com/app/uploads/2024/10/Crane-FS-F600-Series-Butterfly-IOM-1024-0A-03987U-REV-A-J6374-1124.pdf",
+          "doc_type": "iom_manual",
+          "priority": "secondary",
+          "lang": "en",
+          "title": "F611 / F612 / F614 / F615 / F621 / F622 / F624 / F625 / F626 / F627 / F628 / F629 / DM925L / DM925G / DM925LW / FB225 Installation, Operation & Maintenance Instructions",
+          "revision_date": null,
+          "sha256": "3ffdfb2a2cd0c61ffa14c40dfe2bc10b69aa9b4c891c4f1aa3a1b96f4c9890f1",
+          "bytes": 554458,
+          "http_status": 200,
+          "mime_verified": true,
+          "found_on": "https://www.cranefs.com/product/butterfly-valves/f621/",
+          "variant_skus": []
+        },
+        {
+          "url": "https://www.cranefs.com/app/uploads/2023/09/F621-622-624-625-DM925LW-Butterfly-Valves-WRAS-Cert-CFS-2030-01.pdf",
+          "doc_type": "certificate",
+          "priority": "secondary",
+          "lang": "en",
+          "title": "F621 / F622 / F624 / F625 / DM925LW WRAS Certificate",
+          "revision_date": "2025-02-05",
+          "sha256": "412c7fadf4b09015942823a8db468592ae2a9173895489618730deae0fca479f",
+          "bytes": 282095,
+          "http_status": 200,
+          "mime_verified": true,
+          "found_on": "https://www.cranefs.com/product/butterfly-valves/f621/",
+          "variant_skus": []
+        },
+        {
+          "url": "https://www.cranefs.com/app/uploads/2023/09/CraneFS-Stress-Corrosion-Cracking-Statement-2020-04.pdf",
+          "doc_type": "other_doc",
+          "priority": "secondary",
+          "lang": "en",
+          "title": "Stress Corrosion Cracking",
+          "revision_date": "2020-03-31",
+          "sha256": "10a2bc46b27b82d5891e12316b145dd2d043ebd03dc1ddc4fa185e803ee3ae3d",
+          "bytes": 72754,
+          "http_status": 200,
+          "mime_verified": true,
+          "found_on": "https://www.cranefs.com/product/butterfly-valves/f621/",
+          "variant_skus": []
+        }
+      ],
+      "cad": [
+        {
+          "url": "https://www.bimstore.co.uk/bim/f621-gem-butterfly-valve",
+          "cad_type": "cad_viewer",
+          "formats": [],
+          "gated": true,
+          "found_on": "https://www.cranefs.com/product/butterfly-valves/f621/",
+          "variant_skus": []
+        }
+      ],
+      "images": [
+        {
+          "url": "https://www.cranefs.com/app/uploads/2023/06/F611_F621_F626_Butterfly_Semi-Lugged_Lever_Crane-FS-a-BF-scaled.jpg",
+          "image_type": "product_photo",
+          "width": 2560,
+          "height": 1807,
+          "phash": "b863e31ec7969138",
+          "found_on": "https://www.cranefs.com/product/butterfly-valves/f621/"
+        },
+        {
+          "url": "https://www.cranefs.com/app/uploads/2023/06/F611-F621-F626_Butterfly_Semi-Lugged_Lever_Crane-FS-b-BF-scaled.jpg",
+          "image_type": "product_photo",
+          "width": 2560,
+          "height": 1807,
+          "phash": "b9e7c638cc989391",
+          "found_on": "https://www.cranefs.com/product/butterfly-valves/f621/"
+        }
+      ],
+      "labelling_notes": "Datasheet (Vaild as of 081220) displayed. No identifiers per size -> no variants; price status not_published at family level. BIMstore Revit link recorded as gated cad_viewer (not opened).",
+      "spec_source_summary": "both"
+    },
+    {
+      "family_id": "257",
+      "name": "257 Straight Union - Male to Female",
+      "series_code": "257",
+      "product_type": "union",
+      "canonical_url": "https://www.cranefs.com/product/unions/257/",
+      "alternates": [],
+      "market_flag": "non_na",
+      "specs": {
+        "pressure_rating": {
+          "value": 25,
+          "unit": "bar",
+          "raw_text": "PN25",
+          "display_source": "page",
+          "cross_check": "agree",
+          "sources": [
+            {
+              "url": "https://www.cranefs.com/product/unions/257/",
+              "type": "page",
+              "page": null,
+              "section": "Product Overview",
+              "variant_sku": null,
+              "quote": "Pressure rating PN25",
+              "snapshot_sha256": "c0aade82554c556456a5ee881a991855ad734aeb9b110719bb605d1f78d880af",
+              "retrieved_at": "2026-10-11T02:59:44Z"
+            },
+            {
+              "url": "https://www.cranefs.com/app/uploads/2023/09/Crane-Fluid-Systems-Malleable-Pipe-Fittings-Brochure-Issue-4-2.pdf",
+              "type": "pdf",
+              "page": 2,
+              "section": "257 Male & Female Union",
+              "variant_sku": null,
+              "quote": "257 Male & Female Union PN25",
+              "snapshot_sha256": "d3efda0d9cea140008f79d0fa6825be47fc1a8beacc80c94259649fc30e4d148",
+              "retrieved_at": "2026-10-11T03:01:01Z"
+            }
+          ]
+        },
+        "end_connections": {
+          "value": [
+            "BSPT"
+          ],
+          "unit": null,
+          "raw_text": "BS taper to BS21 and ISO7",
+          "display_source": "page",
+          "cross_check": "agree",
+          "sources": [
+            {
+              "url": "https://www.cranefs.com/product/unions/257/",
+              "type": "page",
+              "page": null,
+              "section": "Product Overview",
+              "variant_sku": null,
+              "quote": "BS taper to BS21 and ISO7",
+              "snapshot_sha256": "c0aade82554c556456a5ee881a991855ad734aeb9b110719bb605d1f78d880af",
+              "retrieved_at": "2026-10-11T02:59:44Z"
+            },
+            {
+              "url": "https://www.cranefs.com/app/uploads/2023/09/Crane-Fluid-Systems-Malleable-Pipe-Fittings-Brochure-Issue-4-2.pdf",
+              "type": "pdf",
+              "page": 3,
+              "section": "Specification",
+              "variant_sku": null,
+              "quote": "Thread standard BS EN 10226-2 taper",
+              "snapshot_sha256": "d3efda0d9cea140008f79d0fa6825be47fc1a8beacc80c94259649fc30e4d148",
+              "retrieved_at": "2026-10-11T03:01:01Z"
+            }
+          ]
+        },
+        "material_body": {
+          "value": "Malleable Iron",
+          "unit": null,
+          "raw_text": "Malleable Iron - Black or Galvanised",
+          "display_source": "page",
+          "cross_check": "agree",
+          "sources": [
+            {
+              "url": "https://www.cranefs.com/product/unions/257/",
+              "type": "page",
+              "page": null,
+              "section": "Product Overview",
+              "variant_sku": null,
+              "quote": "Malleable Iron - Black or Galvanised",
+              "snapshot_sha256": "c0aade82554c556456a5ee881a991855ad734aeb9b110719bb605d1f78d880af",
+              "retrieved_at": "2026-10-11T02:59:44Z"
+            },
+            {
+              "url": "https://www.cranefs.com/app/uploads/2023/09/Crane-Fluid-Systems-Malleable-Pipe-Fittings-Brochure-Issue-4-2.pdf",
+              "type": "pdf",
+              "page": 20,
+              "section": "257 Male & Female Union",
+              "variant_sku": null,
+              "quote": "Malleable Iron Galvanised Black",
+              "snapshot_sha256": "d3efda0d9cea140008f79d0fa6825be47fc1a8beacc80c94259649fc30e4d148",
+              "retrieved_at": "2026-10-11T03:01:01Z"
+            }
+          ]
+        },
+        "sizes_available": {
+          "value": [
+            "1/4",
+            "3/8",
+            "1/2",
+            "3/4",
+            "1",
+            "1-1/4",
+            "1-1/2",
+            "2",
+            "2-1/2",
+            "3"
+          ],
+          "unit": "in",
+          "raw_text": "1/4; 3/8; 1/2; 3/4; 1; 11/4; 11/2; 2; 21/2; 3",
+          "display_source": "pdf",
+          "cross_check": "pdf_only",
+          "sources": [
+            {
+              "url": "https://www.cranefs.com/app/uploads/2023/09/Crane-Fluid-Systems-Malleable-Pipe-Fittings-Brochure-Issue-4-2.pdf",
+              "type": "pdf",
+              "page": 20,
+              "section": "257 Male & Female Union",
+              "variant_sku": null,
+              "quote": "1/4 57 32",
+              "snapshot_sha256": "d3efda0d9cea140008f79d0fa6825be47fc1a8beacc80c94259649fc30e4d148",
+              "retrieved_at": "2026-10-11T03:01:01Z"
+            },
+            {
+              "url": "https://www.cranefs.com/app/uploads/2023/09/Crane-Fluid-Systems-Malleable-Pipe-Fittings-Brochure-Issue-4-2.pdf",
+              "type": "pdf",
+              "page": 20,
+              "section": "257 Male & Female Union",
+              "variant_sku": null,
+              "quote": "3/8 61 36",
+              "snapshot_sha256": "d3efda0d9cea140008f79d0fa6825be47fc1a8beacc80c94259649fc30e4d148",
+              "retrieved_at": "2026-10-11T03:01:01Z"
+            },
+            {
+              "url": "https://www.cranefs.com/app/uploads/2023/09/Crane-Fluid-Systems-Malleable-Pipe-Fittings-Brochure-Issue-4-2.pdf",
+              "type": "pdf",
+              "page": 20,
+              "section": "257 Male & Female Union",
+              "variant_sku": null,
+              "quote": "1/2 68 56 42",
+              "snapshot_sha256": "d3efda0d9cea140008f79d0fa6825be47fc1a8beacc80c94259649fc30e4d148",
+              "retrieved_at": "2026-10-11T03:01:01Z"
+            },
+            {
+              "url": "https://www.cranefs.com/app/uploads/2023/09/Crane-Fluid-Systems-Malleable-Pipe-Fittings-Brochure-Issue-4-2.pdf",
+              "type": "pdf",
+              "page": 20,
+              "section": "257 Male & Female Union",
+              "variant_sku": null,
+              "quote": "3/4 74 74 49",
+              "snapshot_sha256": "d3efda0d9cea140008f79d0fa6825be47fc1a8beacc80c94259649fc30e4d148",
+              "retrieved_at": "2026-10-11T03:01:01Z"
+            },
+            {
+              "url": "https://www.cranefs.com/app/uploads/2023/09/Crane-Fluid-Systems-Malleable-Pipe-Fittings-Brochure-Issue-4-2.pdf",
+              "type": "pdf",
+              "page": 20,
+              "section": "257 Male & Female Union",
+              "variant_sku": null,
+              "quote": "1 82 57 57",
+              "snapshot_sha256": "d3efda0d9cea140008f79d0fa6825be47fc1a8beacc80c94259649fc30e4d148",
+              "retrieved_at": "2026-10-11T03:01:01Z"
+            },
+            {
+              "url": "https://www.cranefs.com/app/uploads/2023/09/Crane-Fluid-Systems-Malleable-Pipe-Fittings-Brochure-Issue-4-2.pdf",
+              "type": "pdf",
+              "page": 20,
+              "section": "257 Male & Female Union",
+              "variant_sku": null,
+              "quote": "11/4 91 68",
+              "snapshot_sha256": "d3efda0d9cea140008f79d0fa6825be47fc1a8beacc80c94259649fc30e4d148",
+              "retrieved_at": "2026-10-11T03:01:01Z"
+            },
+            {
+              "url": "https://www.cranefs.com/app/uploads/2023/09/Crane-Fluid-Systems-Malleable-Pipe-Fittings-Brochure-Issue-4-2.pdf",
+              "type": "pdf",
+              "page": 20,
+              "section": "257 Male & Female Union",
+              "variant_sku": null,
+              "quote": "11/2 95 76",
+              "snapshot_sha256": "d3efda0d9cea140008f79d0fa6825be47fc1a8beacc80c94259649fc30e4d148",
+              "retrieved_at": "2026-10-11T03:01:01Z"
+            },
+            {
+              "url": "https://www.cranefs.com/app/uploads/2023/09/Crane-Fluid-Systems-Malleable-Pipe-Fittings-Brochure-Issue-4-2.pdf",
+              "type": "pdf",
+              "page": 20,
+              "section": "257 Male & Female Union",
+              "variant_sku": null,
+              "quote": "2 104 92",
+              "snapshot_sha256": "d3efda0d9cea140008f79d0fa6825be47fc1a8beacc80c94259649fc30e4d148",
+              "retrieved_at": "2026-10-11T03:01:01Z"
+            },
+            {
+              "url": "https://www.cranefs.com/app/uploads/2023/09/Crane-Fluid-Systems-Malleable-Pipe-Fittings-Brochure-Issue-4-2.pdf",
+              "type": "pdf",
+              "page": 20,
+              "section": "257 Male & Female Union",
+              "variant_sku": null,
+              "quote": "21/2 116 111",
+              "snapshot_sha256": "d3efda0d9cea140008f79d0fa6825be47fc1a8beacc80c94259649fc30e4d148",
+              "retrieved_at": "2026-10-11T03:01:01Z"
+            },
+            {
+              "url": "https://www.cranefs.com/app/uploads/2023/09/Crane-Fluid-Systems-Malleable-Pipe-Fittings-Brochure-Issue-4-2.pdf",
+              "type": "pdf",
+              "page": 20,
+              "section": "257 Male & Female Union",
+              "variant_sku": null,
+              "quote": "3 131 125",
+              "snapshot_sha256": "d3efda0d9cea140008f79d0fa6825be47fc1a8beacc80c94259649fc30e4d148",
+              "retrieved_at": "2026-10-11T03:01:01Z"
+            }
+          ]
+        },
+        "standards": {
+          "value": [
+            "BS 21",
+            "ISO 7"
+          ],
+          "unit": null,
+          "raw_text": "BS taper to BS21 and ISO7",
+          "display_source": "page",
+          "cross_check": "conflict",
+          "sources": [
+            {
+              "url": "https://www.cranefs.com/product/unions/257/",
+              "type": "page",
+              "page": null,
+              "section": "Product Overview",
+              "variant_sku": null,
+              "quote": "BS taper to BS21 and ISO7",
+              "snapshot_sha256": "c0aade82554c556456a5ee881a991855ad734aeb9b110719bb605d1f78d880af",
+              "retrieved_at": "2026-10-11T02:59:44Z"
+            }
+          ],
+          "alt_values": [
+            {
+              "value": [
+                "BS EN 10242",
+                "BS EN 10226-2"
+              ],
+              "unit": null,
+              "raw_text": "Design standard BS EN 10242",
+              "sources": [
+                {
+                  "url": "https://www.cranefs.com/app/uploads/2023/09/Crane-Fluid-Systems-Malleable-Pipe-Fittings-Brochure-Issue-4-2.pdf",
+                  "type": "pdf",
+                  "page": 3,
+                  "section": "Specification",
+                  "variant_sku": null,
+                  "quote": "Design standard BS EN 10242",
+                  "snapshot_sha256": "d3efda0d9cea140008f79d0fa6825be47fc1a8beacc80c94259649fc30e4d148",
+                  "retrieved_at": "2026-10-11T03:01:01Z"
+                },
+                {
+                  "url": "https://www.cranefs.com/app/uploads/2023/09/Crane-Fluid-Systems-Malleable-Pipe-Fittings-Brochure-Issue-4-2.pdf",
+                  "type": "pdf",
+                  "page": 3,
+                  "section": "Specification",
+                  "variant_sku": null,
+                  "quote": "Thread standard BS EN 10226-2 taper",
+                  "snapshot_sha256": "d3efda0d9cea140008f79d0fa6825be47fc1a8beacc80c94259649fc30e4d148",
+                  "retrieved_at": "2026-10-11T03:01:01Z"
+                }
+              ]
+            }
+          ]
+        },
+        "applications": {
+          "value": [
+            "natural gas",
+            "compressed air",
+            "steam",
+            "chilled water"
+          ],
+          "unit": null,
+          "raw_text": "IDEAL FOR Sprinkler Systems, Chilled/Heating Water, Natural Gas, Compressed Air, Hot Water & Steam, Fuel Transfer",
+          "display_source": "pdf",
+          "cross_check": "pdf_only",
+          "sources": [
+            {
+              "url": "https://www.cranefs.com/app/uploads/2023/09/Crane-Fluid-Systems-Malleable-Pipe-Fittings-Brochure-Issue-4-2.pdf",
+              "type": "pdf",
+              "page": 1,
+              "section": "Ideal for",
+              "variant_sku": null,
+              "quote": "Natural Gas",
+              "snapshot_sha256": "d3efda0d9cea140008f79d0fa6825be47fc1a8beacc80c94259649fc30e4d148",
+              "retrieved_at": "2026-10-11T03:01:01Z"
+            },
+            {
+              "url": "https://www.cranefs.com/app/uploads/2023/09/Crane-Fluid-Systems-Malleable-Pipe-Fittings-Brochure-Issue-4-2.pdf",
+              "type": "pdf",
+              "page": 1,
+              "section": "Ideal for",
+              "variant_sku": null,
+              "quote": "Compressed Air",
+              "snapshot_sha256": "d3efda0d9cea140008f79d0fa6825be47fc1a8beacc80c94259649fc30e4d148",
+              "retrieved_at": "2026-10-11T03:01:01Z"
+            },
+            {
+              "url": "https://www.cranefs.com/app/uploads/2023/09/Crane-Fluid-Systems-Malleable-Pipe-Fittings-Brochure-Issue-4-2.pdf",
+              "type": "pdf",
+              "page": 1,
+              "section": "Ideal for",
+              "variant_sku": null,
+              "quote": "Hot Water & Steam",
+              "snapshot_sha256": "d3efda0d9cea140008f79d0fa6825be47fc1a8beacc80c94259649fc30e4d148",
+              "retrieved_at": "2026-10-11T03:01:01Z"
+            },
+            {
+              "url": "https://www.cranefs.com/app/uploads/2023/09/Crane-Fluid-Systems-Malleable-Pipe-Fittings-Brochure-Issue-4-2.pdf",
+              "type": "pdf",
+              "page": 1,
+              "section": "Ideal for",
+              "variant_sku": null,
+              "quote": "Chilled/Heating Water",
+              "snapshot_sha256": "d3efda0d9cea140008f79d0fa6825be47fc1a8beacc80c94259649fc30e4d148",
+              "retrieved_at": "2026-10-11T03:01:01Z"
+            }
+          ]
+        },
+        "certifications": {
+          "value": [
+            "Kitemark"
+          ],
+          "unit": null,
+          "raw_text": "Kitemark KM 00382",
+          "display_source": "page",
+          "cross_check": "agree",
+          "sources": [
+            {
+              "url": "https://www.cranefs.com/product/unions/257/",
+              "type": "page",
+              "page": null,
+              "section": "Downloads",
+              "variant_sku": null,
+              "quote": "Kitemark KM 00382",
+              "snapshot_sha256": "c0aade82554c556456a5ee881a991855ad734aeb9b110719bb605d1f78d880af",
+              "retrieved_at": "2026-10-11T02:59:44Z"
+            },
+            {
+              "url": "https://www.cranefs.com/app/uploads/2023/09/Crane-Fluid-Systems-Malleable-Pipe-Fittings-Brochure-Issue-4-2.pdf",
+              "type": "pdf",
+              "page": 3,
+              "section": "Specification",
+              "variant_sku": null,
+              "quote": "Kitemark Licence No. KM00382",
+              "snapshot_sha256": "d3efda0d9cea140008f79d0fa6825be47fc1a8beacc80c94259649fc30e4d148",
+              "retrieved_at": "2026-10-11T03:01:01Z"
+            }
+          ]
+        },
+        "size_range": {
+          "value": {
+            "min": "1/4",
+            "max": "3"
+          },
+          "unit": "in",
+          "raw_text": "1/4 ... 3",
+          "display_source": "pdf",
+          "cross_check": "pdf_only",
+          "sources": [
+            {
+              "url": "https://www.cranefs.com/app/uploads/2023/09/Crane-Fluid-Systems-Malleable-Pipe-Fittings-Brochure-Issue-4-2.pdf",
+              "type": "pdf",
+              "page": 20,
+              "section": "257 Male & Female Union",
+              "variant_sku": null,
+              "quote": "1/4 57 32",
+              "snapshot_sha256": "d3efda0d9cea140008f79d0fa6825be47fc1a8beacc80c94259649fc30e4d148",
+              "retrieved_at": "2026-10-11T03:01:01Z"
+            },
+            {
+              "url": "https://www.cranefs.com/app/uploads/2023/09/Crane-Fluid-Systems-Malleable-Pipe-Fittings-Brochure-Issue-4-2.pdf",
+              "type": "pdf",
+              "page": 20,
+              "section": "257 Male & Female Union",
+              "variant_sku": null,
+              "quote": "3 131 125",
+              "snapshot_sha256": "d3efda0d9cea140008f79d0fa6825be47fc1a8beacc80c94259649fc30e4d148",
+              "retrieved_at": "2026-10-11T03:01:01Z"
+            }
+          ]
+        }
+      },
+      "additional_specs": {
+        "finish": [
+          "Black",
+          "Galvanised"
+        ],
+        "finish_ordering": "When ordering galvanised or zinc coated fittings add the suffix 'G' to the figure number.",
+        "material_grade": "Blackheart malleable iron to BS EN 1562 EN-GJMB-300-6, ASTM A197, ISO 5922",
+        "galvanising": "min coating 500g/m² (70µm), BS EN 10242",
+        "applications_other": [
+          "Sprinkler Systems",
+          "Heating Water",
+          "Hot Water",
+          "Fuel Transfer"
+        ],
+        "galvanised_min_temperature": "Hot dip zinc coated (galvanised) fittings should not be used below -10°C (14°F)",
+        "iso_symbol": "U12"
+      },
+      "variants": [],
+      "family_prices": [
+        {
+          "amount": null,
+          "currency": null,
+          "price_type": null,
+          "availability": "not_published",
+          "notes": "No price, quote button or price list on the site; the page only links a distributor locator. Family lists no identifiers, so there are no variants (SPEC 7).",
+          "source": {
+            "url": "https://www.cranefs.com/product/unions/257/",
+            "type": "page",
+            "page": null,
+            "section": "Product header",
+            "variant_sku": null,
+            "quote": "Distributor",
+            "snapshot_sha256": "c0aade82554c556456a5ee881a991855ad734aeb9b110719bb605d1f78d880af",
+            "retrieved_at": "2026-10-11T02:59:44Z"
+          }
+        }
+      ],
+      "documents": [
+        {
+          "url": "https://www.cranefs.com/app/uploads/2023/09/Crane-Fluid-Systems-Malleable-Pipe-Fittings-Brochure-Issue-4-2.pdf",
+          "doc_type": "catalog",
+          "priority": "secondary",
+          "lang": "en",
+          "title": "Malleable Pipe Fittings Brochure & Datasheets",
+          "revision_date": null,
+          "sha256": "d3efda0d9cea140008f79d0fa6825be47fc1a8beacc80c94259649fc30e4d148",
+          "bytes": 3476525,
+          "http_status": 200,
+          "mime_verified": true,
+          "found_on": "https://www.cranefs.com/product/unions/257/",
+          "variant_skus": []
+        },
+        {
+          "url": "https://www.cranefs.com/app/uploads/2023/09/257-2.50.pdf",
+          "doc_type": "other_doc",
+          "priority": "secondary",
+          "lang": "en",
+          "title": "Fig. No. 257 2.50 PDF",
+          "revision_date": null,
+          "sha256": "86ef3536e057c3c616d8c24c40f4b99923281d09c7dc1896d1d2dc1f5d030c30",
+          "bytes": 19156,
+          "http_status": 200,
+          "mime_verified": true,
+          "found_on": "https://www.cranefs.com/product/unions/257/",
+          "variant_skus": []
+        },
+        {
+          "url": "https://www.cranefs.com/app/uploads/2023/09/Kitemark-KM-00382-001-08-2026.pdf",
+          "doc_type": "certificate",
+          "priority": "secondary",
+          "lang": "en",
+          "title": "Kitemark KM 00382",
+          "revision_date": "2022-09-14",
+          "sha256": "0e7ea1d5221ea978f149a1cfdcc1d6531ab1a28fb2b9065206ba260aef3cb2cc",
+          "bytes": 712140,
+          "http_status": 200,
+          "mime_verified": true,
+          "found_on": "https://www.cranefs.com/product/unions/257/",
+          "variant_skus": []
+        },
+        {
+          "url": "https://www.cranefs.com/app/uploads/2023/09/CraneFS-Stress-Corrosion-Cracking-Statement-2020-04.pdf",
+          "doc_type": "other_doc",
+          "priority": "secondary",
+          "lang": "en",
+          "title": "Stress Corrosion Cracking",
+          "revision_date": "2020-03-31",
+          "sha256": "10a2bc46b27b82d5891e12316b145dd2d043ebd03dc1ddc4fa185e803ee3ae3d",
+          "bytes": 72754,
+          "http_status": 200,
+          "mime_verified": true,
+          "found_on": "https://www.cranefs.com/product/unions/257/",
+          "variant_skus": []
+        }
+      ],
+      "cad": [
+        {
+          "url": "https://www.cranefs.com/app/uploads/2023/09/m257g_mi_union_1in.zip",
+          "cad_type": "cad_file",
+          "formats": [
+            "dwg",
+            "iges",
+            "step",
+            "prt"
+          ],
+          "gated": false,
+          "found_on": "https://www.cranefs.com/product/unions/257/",
+          "variant_skus": []
+        },
+        {
+          "url": "https://www.cranefs.com/app/uploads/2023/09/257-2.50.zip",
+          "cad_type": "cad_file",
+          "formats": [
+            "dwg",
+            "iges",
+            "ipt",
+            "step"
+          ],
+          "gated": false,
+          "found_on": "https://www.cranefs.com/product/unions/257/",
+          "variant_skus": []
+        }
+      ],
+      "images": [
+        {
+          "url": "https://www.cranefs.com/app/uploads/2023/06/257_Union_Straight_Male-to-Female_Black_Crane-FS-a-BF-scaled.jpg",
+          "image_type": "product_photo",
+          "width": 2560,
+          "height": 1806,
+          "phash": "e39694e9cb0d4c9c",
+          "found_on": "https://www.cranefs.com/product/unions/257/"
+        },
+        {
+          "url": "https://www.cranefs.com/app/uploads/2023/06/257_Union_Straight_Male-to-Female_Black_Crane-FS-b-BF-scaled.jpg",
+          "image_type": "product_photo",
+          "width": 2560,
+          "height": 1806,
+          "phash": "ecbc94e19b03593c",
+          "found_on": "https://www.cranefs.com/product/unions/257/"
+        },
+        {
+          "url": "https://www.cranefs.com/app/uploads/2023/06/257_Union_Straight_Male-to-Female_Black_Crane-FS-c-BF-scaled.jpg",
+          "image_type": "product_photo",
+          "width": 2560,
+          "height": 1806,
+          "phash": "ebc3943c6d80636b",
+          "found_on": "https://www.cranefs.com/product/unions/257/"
+        },
+        {
+          "url": "https://www.cranefs.com/app/uploads/2023/06/257_Union_Straight_Male-to-Female_Galvanised_Crane-FS-a-BF-scaled.jpg",
+          "image_type": "product_photo",
+          "width": 2560,
+          "height": 1807,
+          "phash": "e1969263c9496d9e",
+          "found_on": "https://www.cranefs.com/product/unions/257/"
+        },
+        {
+          "url": "https://www.cranefs.com/app/uploads/2023/06/257_Union_Straight_Male-to-Female_Galvanised_Crane-FS-b-BF-scaled.jpg",
+          "image_type": "product_photo",
+          "width": 2560,
+          "height": 1807,
+          "phash": "ed9c9261cb579838",
+          "found_on": "https://www.cranefs.com/product/unions/257/"
+        },
+        {
+          "url": "https://www.cranefs.com/app/uploads/2023/06/257_Union_Straight_Male-to-Female_Galvanised_Crane-FS-c-BL-scaled.jpg",
+          "image_type": "product_photo",
+          "width": 2560,
+          "height": 1807,
+          "phash": "e9c3863c39c369b2",
+          "found_on": "https://www.cranefs.com/product/unions/257/"
+        }
+      ],
+      "labelling_notes": "Only multi-product catalog PDF (Malleable Pipe Fittings Issue 4) -> page displayed where both state a field. Fig. No. + size designations are not identifiers -> no variants; per-size CAD ZIP/PDF drawings recorded.",
+      "spec_source_summary": "both"
+    },
+    {
+      "family_id": "140",
+      "name": "140 Hexagon Bush",
+      "series_code": "140",
+      "product_type": "bush",
+      "canonical_url": "https://www.cranefs.com/product/bushes/140/",
+      "alternates": [],
+      "market_flag": "non_na",
+      "specs": {
+        "pressure_rating": {
+          "value": 25,
+          "unit": "bar",
+          "raw_text": "PN25",
+          "display_source": "page",
+          "cross_check": "agree",
+          "sources": [
+            {
+              "url": "https://www.cranefs.com/product/bushes/140/",
+              "type": "page",
+              "page": null,
+              "section": "Product Overview",
+              "variant_sku": null,
+              "quote": "Pressure rating PN25",
+              "snapshot_sha256": "333fe17e9864a041bb0487ece8e1c9debc07ef7a44b60d77cc6f9a6440622e6b",
+              "retrieved_at": "2026-10-11T02:59:46Z"
+            },
+            {
+              "url": "https://www.cranefs.com/app/uploads/2023/09/Crane-Fluid-Systems-Malleable-Pipe-Fittings-Brochure-Issue-4-2.pdf",
+              "type": "pdf",
+              "page": 2,
+              "section": "140 Hexagon Bush",
+              "variant_sku": null,
+              "quote": "140 Hexagon Bush PN25",
+              "snapshot_sha256": "d3efda0d9cea140008f79d0fa6825be47fc1a8beacc80c94259649fc30e4d148",
+              "retrieved_at": "2026-10-11T03:01:01Z"
+            }
+          ]
+        },
+        "end_connections": {
+          "value": [
+            "BSPT"
+          ],
+          "unit": null,
+          "raw_text": "BS taper to BS21 and ISO7",
+          "display_source": "page",
+          "cross_check": "agree",
+          "sources": [
+            {
+              "url": "https://www.cranefs.com/product/bushes/140/",
+              "type": "page",
+              "page": null,
+              "section": "Product Overview",
+              "variant_sku": null,
+              "quote": "BS taper to BS21 and ISO7",
+              "snapshot_sha256": "333fe17e9864a041bb0487ece8e1c9debc07ef7a44b60d77cc6f9a6440622e6b",
+              "retrieved_at": "2026-10-11T02:59:46Z"
+            },
+            {
+              "url": "https://www.cranefs.com/app/uploads/2023/09/Crane-Fluid-Systems-Malleable-Pipe-Fittings-Brochure-Issue-4-2.pdf",
+              "type": "pdf",
+              "page": 3,
+              "section": "Specification",
+              "variant_sku": null,
+              "quote": "Thread standard BS EN 10226-2 taper",
+              "snapshot_sha256": "d3efda0d9cea140008f79d0fa6825be47fc1a8beacc80c94259649fc30e4d148",
+              "retrieved_at": "2026-10-11T03:01:01Z"
+            }
+          ]
+        },
+        "material_body": {
+          "value": "Malleable Iron",
+          "unit": null,
+          "raw_text": "Malleable Iron - Black or Galvanised",
+          "display_source": "page",
+          "cross_check": "agree",
+          "sources": [
+            {
+              "url": "https://www.cranefs.com/product/bushes/140/",
+              "type": "page",
+              "page": null,
+              "section": "Product Overview",
+              "variant_sku": null,
+              "quote": "Malleable Iron - Black or Galvanised",
+              "snapshot_sha256": "333fe17e9864a041bb0487ece8e1c9debc07ef7a44b60d77cc6f9a6440622e6b",
+              "retrieved_at": "2026-10-11T02:59:46Z"
+            },
+            {
+              "url": "https://www.cranefs.com/app/uploads/2023/09/Crane-Fluid-Systems-Malleable-Pipe-Fittings-Brochure-Issue-4-2.pdf",
+              "type": "pdf",
+              "page": 20,
+              "section": "140 Hexagon Bush",
+              "variant_sku": null,
+              "quote": "Malleable Iron Galvanised Black",
+              "snapshot_sha256": "d3efda0d9cea140008f79d0fa6825be47fc1a8beacc80c94259649fc30e4d148",
+              "retrieved_at": "2026-10-11T03:01:01Z"
+            }
+          ]
+        },
+        "sizes_available": {
+          "value": [
+            "1/2 x 1/8",
+            "1/2 x 1/4",
+            "1/2 x 3/8",
+            "3/4 x 1/8",
+            "3/4 x 1/4",
+            "3/4 x 3/8",
+            "3/4 x 1/2",
+            "1 x 1/4",
+            "1 x 3/8",
+            "1 x 1/2",
+            "1 x 3/4",
+            "1-1/4 x 1/2",
+            "1-1/4 x 3/4",
+            "1-1/4 x 1",
+            "1-1/2 x 1/2",
+            "1-1/2 x 3/4",
+            "1-1/2 x 1",
+            "1-1/2 x 1-1/4",
+            "2 x 1/2",
+            "2 x 3/4",
+            "2 x 1",
+            "2 x 1-1/4",
+            "2 x 1-1/2",
+            "2-1/2 x 1/2",
+            "2-1/2 x 1",
+            "2-1/2 x 1-1/4",
+            "2-1/2 x 1-1/2",
+            "2-1/2 x 2",
+            "3 x 1",
+            "3 x 1-1/4",
+            "3 x 1-1/2",
+            "3 x 2",
+            "3 x 2-1/2",
+            "4 x 1",
+            "4 x 1-1/2",
+            "4 x 2",
+            "4 x 2-1/2",
+            "4 x 3",
+            "5 x 4",
+            "6 x 4"
+          ],
+          "unit": "in",
+          "raw_text": "1/2 x 1/8; 1/2 x 1/4; 1/2 x 3/8; 3/4 x 1/8; 3/4 x 1/4; 3/4 x 3/8; 3/4 x 1/2; 1 x 1/4; 1 x 3/8; 1 x 1/2; 1 x 3/4; 11/4 x 1/2; 11/4 x 3/4; 11/4 x 1; 11/2 x 1/2; 11/2 x 3/4; 11/2 x 1; 11/2 x 11/4; 2 x 1/2; 2 x 3/4; 2 x 1; 2 x 11/4; 2 x 11/2; 21/2 x 1/2; 21/2 x 1; 21/2 x 11/4; 21/2 x 11/2; 21/2 x 2; 3 x 1; 3 x 11/4; 3 x 11/2; 3 x 2; 3 x 21/2; 4 x 1; 4 x 11/2; 4 x 2; 4 x 21/2; 4 x 3; 5 x 4; 6 x 4",
+          "display_source": "pdf",
+          "cross_check": "pdf_only",
+          "sources": [
+            {
+              "url": "https://www.cranefs.com/app/uploads/2023/09/Crane-Fluid-Systems-Malleable-Pipe-Fittings-Brochure-Issue-4-2.pdf",
+              "type": "pdf",
+              "page": 7,
+              "section": "140 Hexagon Bush",
+              "variant_sku": null,
+              "quote": "1/2 x 1/8 24 24 4.40",
+              "snapshot_sha256": "d3efda0d9cea140008f79d0fa6825be47fc1a8beacc80c94259649fc30e4d148",
+              "retrieved_at": "2026-10-11T03:01:01Z"
+            },
+            {
+              "url": "https://www.cranefs.com/app/uploads/2023/09/Crane-Fluid-Systems-Malleable-Pipe-Fittings-Brochure-Issue-4-2.pdf",
+              "type": "pdf",
+              "page": 7,
+              "section": "140 Hexagon Bush",
+              "variant_sku": null,
+              "quote": "1/2 x 1/4 24 24 3.74",
+              "snapshot_sha256": "d3efda0d9cea140008f79d0fa6825be47fc1a8beacc80c94259649fc30e4d148",
+              "retrieved_at": "2026-10-11T03:01:01Z"
+            },
+            {
+              "url": "https://www.cranefs.com/app/uploads/2023/09/Crane-Fluid-Systems-Malleable-Pipe-Fittings-Brochure-Issue-4-2.pdf",
+              "type": "pdf",
+              "page": 7,
+              "section": "140 Hexagon Bush",
+              "variant_sku": null,
+              "quote": "1/2 x 3/8 24 24 3.20",
+              "snapshot_sha256": "d3efda0d9cea140008f79d0fa6825be47fc1a8beacc80c94259649fc30e4d148",
+              "retrieved_at": "2026-10-11T03:01:01Z"
+            },
+            {
+              "url": "https://www.cranefs.com/app/uploads/2023/09/Crane-Fluid-Systems-Malleable-Pipe-Fittings-Brochure-Issue-4-2.pdf",
+              "type": "pdf",
+              "page": 7,
+              "section": "140 Hexagon Bush",
+              "variant_sku": null,
+              "quote": "3/4 x 1/8 26 30 7.70",
+              "snapshot_sha256": "d3efda0d9cea140008f79d0fa6825be47fc1a8beacc80c94259649fc30e4d148",
+              "retrieved_at": "2026-10-11T03:01:01Z"
+            },
+            {
+              "url": "https://www.cranefs.com/app/uploads/2023/09/Crane-Fluid-Systems-Malleable-Pipe-Fittings-Brochure-Issue-4-2.pdf",
+              "type": "pdf",
+              "page": 7,
+              "section": "140 Hexagon Bush",
+              "variant_sku": null,
+              "quote": "3/4 x 1/4 26 30 7.07",
+              "snapshot_sha256": "d3efda0d9cea140008f79d0fa6825be47fc1a8beacc80c94259649fc30e4d148",
+              "retrieved_at": "2026-10-11T03:01:01Z"
+            },
+            {
+              "url": "https://www.cranefs.com/app/uploads/2023/09/Crane-Fluid-Systems-Malleable-Pipe-Fittings-Brochure-Issue-4-2.pdf",
+              "type": "pdf",
+              "page": 7,
+              "section": "140 Hexagon Bush",
+              "variant_sku": null,
+              "quote": "3/4 x 3/8 26 30 6.50",
+              "snapshot_sha256": "d3efda0d9cea140008f79d0fa6825be47fc1a8beacc80c94259649fc30e4d148",
+              "retrieved_at": "2026-10-11T03:01:01Z"
+            },
+            {
+              "url": "https://www.cranefs.com/app/uploads/2023/09/Crane-Fluid-Systems-Malleable-Pipe-Fittings-Brochure-Issue-4-2.pdf",
+              "type": "pdf",
+              "page": 7,
+              "section": "140 Hexagon Bush",
+              "variant_sku": null,
+              "quote": "3/4 x 1/2 26 30 5.30",
+              "snapshot_sha256": "d3efda0d9cea140008f79d0fa6825be47fc1a8beacc80c94259649fc30e4d148",
+              "retrieved_at": "2026-10-11T03:01:01Z"
+            },
+            {
+              "url": "https://www.cranefs.com/app/uploads/2023/09/Crane-Fluid-Systems-Malleable-Pipe-Fittings-Brochure-Issue-4-2.pdf",
+              "type": "pdf",
+              "page": 7,
+              "section": "140 Hexagon Bush",
+              "variant_sku": null,
+              "quote": "1 x 1/4 29 36 11.80",
+              "snapshot_sha256": "d3efda0d9cea140008f79d0fa6825be47fc1a8beacc80c94259649fc30e4d148",
+              "retrieved_at": "2026-10-11T03:01:01Z"
+            },
+            {
+              "url": "https://www.cranefs.com/app/uploads/2023/09/Crane-Fluid-Systems-Malleable-Pipe-Fittings-Brochure-Issue-4-2.pdf",
+              "type": "pdf",
+              "page": 7,
+              "section": "140 Hexagon Bush",
+              "variant_sku": null,
+              "quote": "1 x 3/8 29 36 12.18",
+              "snapshot_sha256": "d3efda0d9cea140008f79d0fa6825be47fc1a8beacc80c94259649fc30e4d148",
+              "retrieved_at": "2026-10-11T03:01:01Z"
+            },
+            {
+              "url": "https://www.cranefs.com/app/uploads/2023/09/Crane-Fluid-Systems-Malleable-Pipe-Fittings-Brochure-Issue-4-2.pdf",
+              "type": "pdf",
+              "page": 7,
+              "section": "140 Hexagon Bush",
+              "variant_sku": null,
+              "quote": "1 x 1/2 29 36 10.60",
+              "snapshot_sha256": "d3efda0d9cea140008f79d0fa6825be47fc1a8beacc80c94259649fc30e4d148",
+              "retrieved_at": "2026-10-11T03:01:01Z"
+            },
+            {
+              "url": "https://www.cranefs.com/app/uploads/2023/09/Crane-Fluid-Systems-Malleable-Pipe-Fittings-Brochure-Issue-4-2.pdf",
+              "type": "pdf",
+              "page": 7,
+              "section": "140 Hexagon Bush",
+              "variant_sku": null,
+              "quote": "1 x 3/4 29 36 8.20",
+              "snapshot_sha256": "d3efda0d9cea140008f79d0fa6825be47fc1a8beacc80c94259649fc30e4d148",
+              "retrieved_at": "2026-10-11T03:01:01Z"
+            },
+            {
+              "url": "https://www.cranefs.com/app/uploads/2023/09/Crane-Fluid-Systems-Malleable-Pipe-Fittings-Brochure-Issue-4-2.pdf",
+              "type": "pdf",
+              "page": 7,
+              "section": "140 Hexagon Bush",
+              "variant_sku": null,
+              "quote": "11/4 x 1/2 31 46 20.24",
+              "snapshot_sha256": "d3efda0d9cea140008f79d0fa6825be47fc1a8beacc80c94259649fc30e4d148",
+              "retrieved_at": "2026-10-11T03:01:01Z"
+            },
+            {
+              "url": "https://www.cranefs.com/app/uploads/2023/09/Crane-Fluid-Systems-Malleable-Pipe-Fittings-Brochure-Issue-4-2.pdf",
+              "type": "pdf",
+              "page": 7,
+              "section": "140 Hexagon Bush",
+              "variant_sku": null,
+              "quote": "11/4 x 3/4 31 46 17.70",
+              "snapshot_sha256": "d3efda0d9cea140008f79d0fa6825be47fc1a8beacc80c94259649fc30e4d148",
+              "retrieved_at": "2026-10-11T03:01:01Z"
+            },
+            {
+              "url": "https://www.cranefs.com/app/uploads/2023/09/Crane-Fluid-Systems-Malleable-Pipe-Fittings-Brochure-Issue-4-2.pdf",
+              "type": "pdf",
+              "page": 7,
+              "section": "140 Hexagon Bush",
+              "variant_sku": null,
+              "quote": "11/4 x 1 31 46 14.00",
+              "snapshot_sha256": "d3efda0d9cea140008f79d0fa6825be47fc1a8beacc80c94259649fc30e4d148",
+              "retrieved_at": "2026-10-11T03:01:01Z"
+            },
+            {
+              "url": "https://www.cranefs.com/app/uploads/2023/09/Crane-Fluid-Systems-Malleable-Pipe-Fittings-Brochure-Issue-4-2.pdf",
+              "type": "pdf",
+              "page": 7,
+              "section": "140 Hexagon Bush",
+              "variant_sku": null,
+              "quote": "11/2 x 1/2 31 52 25.40",
+              "snapshot_sha256": "d3efda0d9cea140008f79d0fa6825be47fc1a8beacc80c94259649fc30e4d148",
+              "retrieved_at": "2026-10-11T03:01:01Z"
+            },
+            {
+              "url": "https://www.cranefs.com/app/uploads/2023/09/Crane-Fluid-Systems-Malleable-Pipe-Fittings-Brochure-Issue-4-2.pdf",
+              "type": "pdf",
+              "page": 7,
+              "section": "140 Hexagon Bush",
+              "variant_sku": null,
+              "quote": "11/2 x 3/4 31 52 24.20",
+              "snapshot_sha256": "d3efda0d9cea140008f79d0fa6825be47fc1a8beacc80c94259649fc30e4d148",
+              "retrieved_at": "2026-10-11T03:01:01Z"
+            },
+            {
+              "url": "https://www.cranefs.com/app/uploads/2023/09/Crane-Fluid-Systems-Malleable-Pipe-Fittings-Brochure-Issue-4-2.pdf",
+              "type": "pdf",
+              "page": 7,
+              "section": "140 Hexagon Bush",
+              "variant_sku": null,
+              "quote": "11/2 x 1 31 52 21.00",
+              "snapshot_sha256": "d3efda0d9cea140008f79d0fa6825be47fc1a8beacc80c94259649fc30e4d148",
+              "retrieved_at": "2026-10-11T03:01:01Z"
+            },
+            {
+              "url": "https://www.cranefs.com/app/uploads/2023/09/Crane-Fluid-Systems-Malleable-Pipe-Fittings-Brochure-Issue-4-2.pdf",
+              "type": "pdf",
+              "page": 7,
+              "section": "140 Hexagon Bush",
+              "variant_sku": null,
+              "quote": "11/2 x 11/4 31 52 14.30",
+              "snapshot_sha256": "d3efda0d9cea140008f79d0fa6825be47fc1a8beacc80c94259649fc30e4d148",
+              "retrieved_at": "2026-10-11T03:01:01Z"
+            },
+            {
+              "url": "https://www.cranefs.com/app/uploads/2023/09/Crane-Fluid-Systems-Malleable-Pipe-Fittings-Brochure-Issue-4-2.pdf",
+              "type": "pdf",
+              "page": 7,
+              "section": "140 Hexagon Bush",
+              "variant_sku": null,
+              "quote": "2 x 1/2 35 64 36.90",
+              "snapshot_sha256": "d3efda0d9cea140008f79d0fa6825be47fc1a8beacc80c94259649fc30e4d148",
+              "retrieved_at": "2026-10-11T03:01:01Z"
+            },
+            {
+              "url": "https://www.cranefs.com/app/uploads/2023/09/Crane-Fluid-Systems-Malleable-Pipe-Fittings-Brochure-Issue-4-2.pdf",
+              "type": "pdf",
+              "page": 7,
+              "section": "140 Hexagon Bush",
+              "variant_sku": null,
+              "quote": "2 x 3/4 35 64 37.40",
+              "snapshot_sha256": "d3efda0d9cea140008f79d0fa6825be47fc1a8beacc80c94259649fc30e4d148",
+              "retrieved_at": "2026-10-11T03:01:01Z"
+            },
+            {
+              "url": "https://www.cranefs.com/app/uploads/2023/09/Crane-Fluid-Systems-Malleable-Pipe-Fittings-Brochure-Issue-4-2.pdf",
+              "type": "pdf",
+              "page": 7,
+              "section": "140 Hexagon Bush",
+              "variant_sku": null,
+              "quote": "2 x 1 35 64 40.30",
+              "snapshot_sha256": "d3efda0d9cea140008f79d0fa6825be47fc1a8beacc80c94259649fc30e4d148",
+              "retrieved_at": "2026-10-11T03:01:01Z"
+            },
+            {
+              "url": "https://www.cranefs.com/app/uploads/2023/09/Crane-Fluid-Systems-Malleable-Pipe-Fittings-Brochure-Issue-4-2.pdf",
+              "type": "pdf",
+              "page": 7,
+              "section": "140 Hexagon Bush",
+              "variant_sku": null,
+              "quote": "2 x 11/4 35 64 35.40",
+              "snapshot_sha256": "d3efda0d9cea140008f79d0fa6825be47fc1a8beacc80c94259649fc30e4d148",
+              "retrieved_at": "2026-10-11T03:01:01Z"
+            },
+            {
+              "url": "https://www.cranefs.com/app/uploads/2023/09/Crane-Fluid-Systems-Malleable-Pipe-Fittings-Brochure-Issue-4-2.pdf",
+              "type": "pdf",
+              "page": 7,
+              "section": "140 Hexagon Bush",
+              "variant_sku": null,
+              "quote": "2 x 11/2 35 64 29.98",
+              "snapshot_sha256": "d3efda0d9cea140008f79d0fa6825be47fc1a8beacc80c94259649fc30e4d148",
+              "retrieved_at": "2026-10-11T03:01:01Z"
+            },
+            {
+              "url": "https://www.cranefs.com/app/uploads/2023/09/Crane-Fluid-Systems-Malleable-Pipe-Fittings-Brochure-Issue-4-2.pdf",
+              "type": "pdf",
+              "page": 7,
+              "section": "140 Hexagon Bush",
+              "variant_sku": null,
+              "quote": "21/2 x 1/2 40 79 62.36",
+              "snapshot_sha256": "d3efda0d9cea140008f79d0fa6825be47fc1a8beacc80c94259649fc30e4d148",
+              "retrieved_at": "2026-10-11T03:01:01Z"
+            },
+            {
+              "url": "https://www.cranefs.com/app/uploads/2023/09/Crane-Fluid-Systems-Malleable-Pipe-Fittings-Brochure-Issue-4-2.pdf",
+              "type": "pdf",
+              "page": 7,
+              "section": "140 Hexagon Bush",
+              "variant_sku": null,
+              "quote": "21/2 x 1 40 79 61.40",
+              "snapshot_sha256": "d3efda0d9cea140008f79d0fa6825be47fc1a8beacc80c94259649fc30e4d148",
+              "retrieved_at": "2026-10-11T03:01:01Z"
+            },
+            {
+              "url": "https://www.cranefs.com/app/uploads/2023/09/Crane-Fluid-Systems-Malleable-Pipe-Fittings-Brochure-Issue-4-2.pdf",
+              "type": "pdf",
+              "page": 7,
+              "section": "140 Hexagon Bush",
+              "variant_sku": null,
+              "quote": "21/2 x 11/4 40 79 63.00",
+              "snapshot_sha256": "d3efda0d9cea140008f79d0fa6825be47fc1a8beacc80c94259649fc30e4d148",
+              "retrieved_at": "2026-10-11T03:01:01Z"
+            },
+            {
+              "url": "https://www.cranefs.com/app/uploads/2023/09/Crane-Fluid-Systems-Malleable-Pipe-Fittings-Brochure-Issue-4-2.pdf",
+              "type": "pdf",
+              "page": 7,
+              "section": "140 Hexagon Bush",
+              "variant_sku": null,
+              "quote": "21/2 x 11/2 40 79 66.29",
+              "snapshot_sha256": "d3efda0d9cea140008f79d0fa6825be47fc1a8beacc80c94259649fc30e4d148",
+              "retrieved_at": "2026-10-11T03:01:01Z"
+            },
+            {
+              "url": "https://www.cranefs.com/app/uploads/2023/09/Crane-Fluid-Systems-Malleable-Pipe-Fittings-Brochure-Issue-4-2.pdf",
+              "type": "pdf",
+              "page": 7,
+              "section": "140 Hexagon Bush",
+              "variant_sku": null,
+              "quote": "21/2 x 2 40 79 49.50",
+              "snapshot_sha256": "d3efda0d9cea140008f79d0fa6825be47fc1a8beacc80c94259649fc30e4d148",
+              "retrieved_at": "2026-10-11T03:01:01Z"
+            },
+            {
+              "url": "https://www.cranefs.com/app/uploads/2023/09/Crane-Fluid-Systems-Malleable-Pipe-Fittings-Brochure-Issue-4-2.pdf",
+              "type": "pdf",
+              "page": 7,
+              "section": "140 Hexagon Bush",
+              "variant_sku": null,
+              "quote": "3 x 1 44 93 87.10",
+              "snapshot_sha256": "d3efda0d9cea140008f79d0fa6825be47fc1a8beacc80c94259649fc30e4d148",
+              "retrieved_at": "2026-10-11T03:01:01Z"
+            },
+            {
+              "url": "https://www.cranefs.com/app/uploads/2023/09/Crane-Fluid-Systems-Malleable-Pipe-Fittings-Brochure-Issue-4-2.pdf",
+              "type": "pdf",
+              "page": 7,
+              "section": "140 Hexagon Bush",
+              "variant_sku": null,
+              "quote": "3 x 11/4 44 93 87.60",
+              "snapshot_sha256": "d3efda0d9cea140008f79d0fa6825be47fc1a8beacc80c94259649fc30e4d148",
+              "retrieved_at": "2026-10-11T03:01:01Z"
+            },
+            {
+              "url": "https://www.cranefs.com/app/uploads/2023/09/Crane-Fluid-Systems-Malleable-Pipe-Fittings-Brochure-Issue-4-2.pdf",
+              "type": "pdf",
+              "page": 7,
+              "section": "140 Hexagon Bush",
+              "variant_sku": null,
+              "quote": "3 x 11/2 44 93 92.49",
+              "snapshot_sha256": "d3efda0d9cea140008f79d0fa6825be47fc1a8beacc80c94259649fc30e4d148",
+              "retrieved_at": "2026-10-11T03:01:01Z"
+            },
+            {
+              "url": "https://www.cranefs.com/app/uploads/2023/09/Crane-Fluid-Systems-Malleable-Pipe-Fittings-Brochure-Issue-4-2.pdf",
+              "type": "pdf",
+              "page": 7,
+              "section": "140 Hexagon Bush",
+              "variant_sku": null,
+              "quote": "3 x 2 44 93 92.30",
+              "snapshot_sha256": "d3efda0d9cea140008f79d0fa6825be47fc1a8beacc80c94259649fc30e4d148",
+              "retrieved_at": "2026-10-11T03:01:01Z"
+            },
+            {
+              "url": "https://www.cranefs.com/app/uploads/2023/09/Crane-Fluid-Systems-Malleable-Pipe-Fittings-Brochure-Issue-4-2.pdf",
+              "type": "pdf",
+              "page": 7,
+              "section": "140 Hexagon Bush",
+              "variant_sku": null,
+              "quote": "3 x 21/2 44 93 63.00",
+              "snapshot_sha256": "d3efda0d9cea140008f79d0fa6825be47fc1a8beacc80c94259649fc30e4d148",
+              "retrieved_at": "2026-10-11T03:01:01Z"
+            },
+            {
+              "url": "https://www.cranefs.com/app/uploads/2023/09/Crane-Fluid-Systems-Malleable-Pipe-Fittings-Brochure-Issue-4-2.pdf",
+              "type": "pdf",
+              "page": 7,
+              "section": "140 Hexagon Bush",
+              "variant_sku": null,
+              "quote": "4 x 1 51 118 149.30",
+              "snapshot_sha256": "d3efda0d9cea140008f79d0fa6825be47fc1a8beacc80c94259649fc30e4d148",
+              "retrieved_at": "2026-10-11T03:01:01Z"
+            },
+            {
+              "url": "https://www.cranefs.com/app/uploads/2023/09/Crane-Fluid-Systems-Malleable-Pipe-Fittings-Brochure-Issue-4-2.pdf",
+              "type": "pdf",
+              "page": 7,
+              "section": "140 Hexagon Bush",
+              "variant_sku": null,
+              "quote": "4 x 11/2 51 118 148.40",
+              "snapshot_sha256": "d3efda0d9cea140008f79d0fa6825be47fc1a8beacc80c94259649fc30e4d148",
+              "retrieved_at": "2026-10-11T03:01:01Z"
+            },
+            {
+              "url": "https://www.cranefs.com/app/uploads/2023/09/Crane-Fluid-Systems-Malleable-Pipe-Fittings-Brochure-Issue-4-2.pdf",
+              "type": "pdf",
+              "page": 7,
+              "section": "140 Hexagon Bush",
+              "variant_sku": null,
+              "quote": "4 x 2 51 118 158.43",
+              "snapshot_sha256": "d3efda0d9cea140008f79d0fa6825be47fc1a8beacc80c94259649fc30e4d148",
+              "retrieved_at": "2026-10-11T03:01:01Z"
+            },
+            {
+              "url": "https://www.cranefs.com/app/uploads/2023/09/Crane-Fluid-Systems-Malleable-Pipe-Fittings-Brochure-Issue-4-2.pdf",
+              "type": "pdf",
+              "page": 7,
+              "section": "140 Hexagon Bush",
+              "variant_sku": null,
+              "quote": "4 x 21/2 51 118 161.72",
+              "snapshot_sha256": "d3efda0d9cea140008f79d0fa6825be47fc1a8beacc80c94259649fc30e4d148",
+              "retrieved_at": "2026-10-11T03:01:01Z"
+            },
+            {
+              "url": "https://www.cranefs.com/app/uploads/2023/09/Crane-Fluid-Systems-Malleable-Pipe-Fittings-Brochure-Issue-4-2.pdf",
+              "type": "pdf",
+              "page": 7,
+              "section": "140 Hexagon Bush",
+              "variant_sku": null,
+              "quote": "4 x 3 51 118 144.25",
+              "snapshot_sha256": "d3efda0d9cea140008f79d0fa6825be47fc1a8beacc80c94259649fc30e4d148",
+              "retrieved_at": "2026-10-11T03:01:01Z"
+            },
+            {
+              "url": "https://www.cranefs.com/app/uploads/2023/09/Crane-Fluid-Systems-Malleable-Pipe-Fittings-Brochure-Issue-4-2.pdf",
+              "type": "pdf",
+              "page": 7,
+              "section": "140 Hexagon Bush",
+              "variant_sku": null,
+              "quote": "5 x 4 58 144 208.20",
+              "snapshot_sha256": "d3efda0d9cea140008f79d0fa6825be47fc1a8beacc80c94259649fc30e4d148",
+              "retrieved_at": "2026-10-11T03:01:01Z"
+            },
+            {
+              "url": "https://www.cranefs.com/app/uploads/2023/09/Crane-Fluid-Systems-Malleable-Pipe-Fittings-Brochure-Issue-4-2.pdf",
+              "type": "pdf",
+              "page": 7,
+              "section": "140 Hexagon Bush",
+              "variant_sku": null,
+              "quote": "6 x 4 61 171 352.80",
+              "snapshot_sha256": "d3efda0d9cea140008f79d0fa6825be47fc1a8beacc80c94259649fc30e4d148",
+              "retrieved_at": "2026-10-11T03:01:01Z"
+            }
+          ]
+        },
+        "standards": {
+          "value": [
+            "BS 21",
+            "ISO 7"
+          ],
+          "unit": null,
+          "raw_text": "BS taper to BS21 and ISO7",
+          "display_source": "page",
+          "cross_check": "conflict",
+          "sources": [
+            {
+              "url": "https://www.cranefs.com/product/bushes/140/",
+              "type": "page",
+              "page": null,
+              "section": "Product Overview",
+              "variant_sku": null,
+              "quote": "BS taper to BS21 and ISO7",
+              "snapshot_sha256": "333fe17e9864a041bb0487ece8e1c9debc07ef7a44b60d77cc6f9a6440622e6b",
+              "retrieved_at": "2026-10-11T02:59:46Z"
+            }
+          ],
+          "alt_values": [
+            {
+              "value": [
+                "BS EN 10242",
+                "BS EN 10226-2"
+              ],
+              "unit": null,
+              "raw_text": "Design standard BS EN 10242",
+              "sources": [
+                {
+                  "url": "https://www.cranefs.com/app/uploads/2023/09/Crane-Fluid-Systems-Malleable-Pipe-Fittings-Brochure-Issue-4-2.pdf",
+                  "type": "pdf",
+                  "page": 3,
+                  "section": "Specification",
+                  "variant_sku": null,
+                  "quote": "Design standard BS EN 10242",
+                  "snapshot_sha256": "d3efda0d9cea140008f79d0fa6825be47fc1a8beacc80c94259649fc30e4d148",
+                  "retrieved_at": "2026-10-11T03:01:01Z"
+                },
+                {
+                  "url": "https://www.cranefs.com/app/uploads/2023/09/Crane-Fluid-Systems-Malleable-Pipe-Fittings-Brochure-Issue-4-2.pdf",
+                  "type": "pdf",
+                  "page": 3,
+                  "section": "Specification",
+                  "variant_sku": null,
+                  "quote": "Thread standard BS EN 10226-2 taper",
+                  "snapshot_sha256": "d3efda0d9cea140008f79d0fa6825be47fc1a8beacc80c94259649fc30e4d148",
+                  "retrieved_at": "2026-10-11T03:01:01Z"
+                }
+              ]
+            }
+          ]
+        },
+        "applications": {
+          "value": [
+            "natural gas",
+            "compressed air",
+            "steam",
+            "chilled water",
+            "fire protection"
+          ],
+          "unit": null,
+          "raw_text": "IDEAL FOR Sprinkler Systems, Chilled/Heating Water, Natural Gas, Compressed Air, Hot Water & Steam, Fuel Transfer",
+          "display_source": "pdf",
+          "cross_check": "pdf_only",
+          "sources": [
+            {
+              "url": "https://www.cranefs.com/app/uploads/2023/09/Crane-Fluid-Systems-Malleable-Pipe-Fittings-Brochure-Issue-4-2.pdf",
+              "type": "pdf",
+              "page": 1,
+              "section": "Ideal for",
+              "variant_sku": null,
+              "quote": "Natural Gas",
+              "snapshot_sha256": "d3efda0d9cea140008f79d0fa6825be47fc1a8beacc80c94259649fc30e4d148",
+              "retrieved_at": "2026-10-11T03:01:01Z"
+            },
+            {
+              "url": "https://www.cranefs.com/app/uploads/2023/09/Crane-Fluid-Systems-Malleable-Pipe-Fittings-Brochure-Issue-4-2.pdf",
+              "type": "pdf",
+              "page": 1,
+              "section": "Ideal for",
+              "variant_sku": null,
+              "quote": "Compressed Air",
+              "snapshot_sha256": "d3efda0d9cea140008f79d0fa6825be47fc1a8beacc80c94259649fc30e4d148",
+              "retrieved_at": "2026-10-11T03:01:01Z"
+            },
+            {
+              "url": "https://www.cranefs.com/app/uploads/2023/09/Crane-Fluid-Systems-Malleable-Pipe-Fittings-Brochure-Issue-4-2.pdf",
+              "type": "pdf",
+              "page": 1,
+              "section": "Ideal for",
+              "variant_sku": null,
+              "quote": "Hot Water & Steam",
+              "snapshot_sha256": "d3efda0d9cea140008f79d0fa6825be47fc1a8beacc80c94259649fc30e4d148",
+              "retrieved_at": "2026-10-11T03:01:01Z"
+            },
+            {
+              "url": "https://www.cranefs.com/app/uploads/2023/09/Crane-Fluid-Systems-Malleable-Pipe-Fittings-Brochure-Issue-4-2.pdf",
+              "type": "pdf",
+              "page": 1,
+              "section": "Ideal for",
+              "variant_sku": null,
+              "quote": "Chilled/Heating Water",
+              "snapshot_sha256": "d3efda0d9cea140008f79d0fa6825be47fc1a8beacc80c94259649fc30e4d148",
+              "retrieved_at": "2026-10-11T03:01:01Z"
+            },
+            {
+              "url": "https://www.cranefs.com/app/uploads/2023/09/Crane-Fluid-Systems-Malleable-Pipe-Fittings-Brochure-Issue-4-2.pdf",
+              "type": "pdf",
+              "page": 3,
+              "section": "UL Certified Products",
+              "variant_sku": null,
+              "quote": "approved for use in fire protection such as sprinkler systems. Malleable Fittings Covered: 140",
+              "snapshot_sha256": "d3efda0d9cea140008f79d0fa6825be47fc1a8beacc80c94259649fc30e4d148",
+              "retrieved_at": "2026-10-11T03:01:01Z"
+            }
+          ]
+        },
+        "certifications": {
+          "value": [
+            "Kitemark",
+            "UL"
+          ],
+          "unit": null,
+          "raw_text": "Kitemark KM 00382",
+          "display_source": "page",
+          "cross_check": "agree",
+          "sources": [
+            {
+              "url": "https://www.cranefs.com/product/bushes/140/",
+              "type": "page",
+              "page": null,
+              "section": "Downloads",
+              "variant_sku": null,
+              "quote": "Kitemark KM 00382",
+              "snapshot_sha256": "333fe17e9864a041bb0487ece8e1c9debc07ef7a44b60d77cc6f9a6440622e6b",
+              "retrieved_at": "2026-10-11T02:59:46Z"
+            },
+            {
+              "url": "https://www.cranefs.com/app/uploads/2023/09/Crane-Fluid-Systems-Malleable-Pipe-Fittings-Brochure-Issue-4-2.pdf",
+              "type": "pdf",
+              "page": 3,
+              "section": "Specification",
+              "variant_sku": null,
+              "quote": "Kitemark Licence No. KM00382",
+              "snapshot_sha256": "d3efda0d9cea140008f79d0fa6825be47fc1a8beacc80c94259649fc30e4d148",
+              "retrieved_at": "2026-10-11T03:01:01Z"
+            },
+            {
+              "url": "https://www.cranefs.com/product/bushes/140/",
+              "type": "page",
+              "page": null,
+              "section": "Downloads",
+              "variant_sku": null,
+              "quote": "UL Certificate",
+              "snapshot_sha256": "333fe17e9864a041bb0487ece8e1c9debc07ef7a44b60d77cc6f9a6440622e6b",
+              "retrieved_at": "2026-10-11T02:59:46Z"
+            },
+            {
+              "url": "https://www.cranefs.com/app/uploads/2023/09/Crane-Fluid-Systems-Malleable-Pipe-Fittings-Brochure-Issue-4-2.pdf",
+              "type": "pdf",
+              "page": 3,
+              "section": "UL Certified Products",
+              "variant_sku": null,
+              "quote": "Malleable Fittings Covered: 140",
+              "snapshot_sha256": "d3efda0d9cea140008f79d0fa6825be47fc1a8beacc80c94259649fc30e4d148",
+              "retrieved_at": "2026-10-11T03:01:01Z"
+            }
+          ]
+        },
+        "size_range": {
+          "value": {
+            "min": "1/2",
+            "max": "6"
+          },
+          "unit": "in",
+          "raw_text": "1/2 x 1/8 ... 6 x 4",
+          "display_source": "pdf",
+          "cross_check": "pdf_only",
+          "sources": [
+            {
+              "url": "https://www.cranefs.com/app/uploads/2023/09/Crane-Fluid-Systems-Malleable-Pipe-Fittings-Brochure-Issue-4-2.pdf",
+              "type": "pdf",
+              "page": 7,
+              "section": "140 Hexagon Bush",
+              "variant_sku": null,
+              "quote": "1/2 x 1/8 24 24 4.40",
+              "snapshot_sha256": "d3efda0d9cea140008f79d0fa6825be47fc1a8beacc80c94259649fc30e4d148",
+              "retrieved_at": "2026-10-11T03:01:01Z"
+            },
+            {
+              "url": "https://www.cranefs.com/app/uploads/2023/09/Crane-Fluid-Systems-Malleable-Pipe-Fittings-Brochure-Issue-4-2.pdf",
+              "type": "pdf",
+              "page": 7,
+              "section": "140 Hexagon Bush",
+              "variant_sku": null,
+              "quote": "6 x 4 61 171 352.80",
+              "snapshot_sha256": "d3efda0d9cea140008f79d0fa6825be47fc1a8beacc80c94259649fc30e4d148",
+              "retrieved_at": "2026-10-11T03:01:01Z"
+            }
+          ]
+        },
+        "size_unit": {
+          "value": "in",
+          "unit": null,
+          "raw_text": "(inch)",
+          "display_source": "pdf",
+          "cross_check": "pdf_only",
+          "sources": [
+            {
+              "url": "https://www.cranefs.com/app/uploads/2023/09/Crane-Fluid-Systems-Malleable-Pipe-Fittings-Brochure-Issue-4-2.pdf",
+              "type": "pdf",
+              "page": 4,
+              "section": "140 Hexagon Bush",
+              "variant_sku": null,
+              "quote": "(inch)",
+              "snapshot_sha256": "d3efda0d9cea140008f79d0fa6825be47fc1a8beacc80c94259649fc30e4d148",
+              "retrieved_at": "2026-10-11T03:01:01Z"
+            }
+          ]
+        }
+      },
+      "additional_specs": {
+        "finish": [
+          "Black",
+          "Galvanised"
+        ],
+        "finish_ordering": "When ordering galvanised or zinc coated fittings add the suffix 'G' to the figure number.",
+        "material_grade": "Blackheart malleable iron to BS EN 1562 EN-GJMB-300-6, ASTM A197, ISO 5922",
+        "galvanising": "min coating 500g/m² (70µm), BS EN 10242",
+        "applications_other": [
+          "Sprinkler Systems",
+          "Heating Water",
+          "Hot Water",
+          "Fuel Transfer"
+        ],
+        "galvanised_min_temperature": "Hot dip zinc coated (galvanised) fittings should not be used below -10°C (14°F)",
+        "iso_symbol": "N4"
+      },
+      "variants": [],
+      "family_prices": [
+        {
+          "amount": null,
+          "currency": null,
+          "price_type": null,
+          "availability": "not_published",
+          "notes": "No price, quote button or price list on the site; the page only links a distributor locator. Family lists no identifiers, so there are no variants (SPEC 7).",
+          "source": {
+            "url": "https://www.cranefs.com/product/bushes/140/",
+            "type": "page",
+            "page": null,
+            "section": "Product header",
+            "variant_sku": null,
+            "quote": "Distributor",
+            "snapshot_sha256": "333fe17e9864a041bb0487ece8e1c9debc07ef7a44b60d77cc6f9a6440622e6b",
+            "retrieved_at": "2026-10-11T02:59:46Z"
+          }
+        }
+      ],
+      "documents": [
+        {
+          "url": "https://www.cranefs.com/app/uploads/2023/09/Crane-Fluid-Systems-Malleable-Pipe-Fittings-Brochure-Issue-4-2.pdf",
+          "doc_type": "catalog",
+          "priority": "secondary",
+          "lang": "en",
+          "title": "Malleable Pipe Fittings Brochure & Datasheets",
+          "revision_date": null,
+          "sha256": "d3efda0d9cea140008f79d0fa6825be47fc1a8beacc80c94259649fc30e4d148",
+          "bytes": 3476525,
+          "http_status": 200,
+          "mime_verified": true,
+          "found_on": "https://www.cranefs.com/product/bushes/140/",
+          "variant_skus": []
+        },
+        {
+          "url": "https://www.cranefs.com/app/uploads/2023/09/Crane-FS-UL-ATL-APL-EX9141-737870001-05-19.pdf",
+          "doc_type": "certificate",
+          "priority": "secondary",
+          "lang": "en",
+          "title": "UL Certificate",
+          "revision_date": "2019-06-26",
+          "sha256": "1397b6e2173dfeba1c85ae4bc8619c71ace0e023d4226080afc0285fcafdd83f",
+          "bytes": 970191,
+          "http_status": 200,
+          "mime_verified": true,
+          "found_on": "https://www.cranefs.com/product/bushes/140/",
+          "variant_skus": []
+        },
+        {
+          "url": "https://www.cranefs.com/app/uploads/2023/09/140-0.50x0.25.pdf",
+          "doc_type": "other_doc",
+          "priority": "secondary",
+          "lang": "en",
+          "title": "Fig. No.140 0.50 X 0.25 PDF",
+          "revision_date": null,
+          "sha256": "5d1a8ce8b3b8bd79464a75a4ad54f44fd88f36b497bbef3efb74adb2f66ef0ec",
+          "bytes": 16423,
+          "http_status": 200,
+          "mime_verified": true,
+          "found_on": "https://www.cranefs.com/product/bushes/140/",
+          "variant_skus": []
+        },
+        {
+          "url": "https://www.cranefs.com/app/uploads/2023/09/140-0.50x0.375.pdf",
+          "doc_type": "other_doc",
+          "priority": "secondary",
+          "lang": "en",
+          "title": "Fig. No.140 0.50 X 0.375 PDF",
+          "revision_date": null,
+          "sha256": "1caf198b23385cc1c88edf8722bf975a6bf6a35639aa5f5711c7d8d606c69508",
+          "bytes": 17895,
+          "http_status": 200,
+          "mime_verified": true,
+          "found_on": "https://www.cranefs.com/product/bushes/140/",
+          "variant_skus": []
+        },
+        {
+          "url": "https://www.cranefs.com/app/uploads/2023/09/140-0.75x0.50.pdf",
+          "doc_type": "other_doc",
+          "priority": "secondary",
+          "lang": "en",
+          "title": "Fig. No.140 0.75 X 0.50 PDF",
+          "revision_date": null,
+          "sha256": "de871c7bc7b064f940b8b31390d105f027293653144a77b0f5d19f4280e3ffb8",
+          "bytes": 17987,
+          "http_status": 200,
+          "mime_verified": true,
+          "found_on": "https://www.cranefs.com/product/bushes/140/",
+          "variant_skus": []
+        },
+        {
+          "url": "https://www.cranefs.com/app/uploads/2023/09/140-1.00x0.50.pdf",
+          "doc_type": "other_doc",
+          "priority": "secondary",
+          "lang": "en",
+          "title": "Fig. No.140 1.00 X 0.50 PDF",
+          "revision_date": null,
+          "sha256": "8c124201007221a8500f799f3b697a5ee6b5ab3aa0240411f376be3e7d740e71",
+          "bytes": 17296,
+          "http_status": 200,
+          "mime_verified": true,
+          "found_on": "https://www.cranefs.com/product/bushes/140/",
+          "variant_skus": []
+        },
+        {
+          "url": "https://www.cranefs.com/app/uploads/2023/09/140-1.00x0.75.pdf",
+          "doc_type": "other_doc",
+          "priority": "secondary",
+          "lang": "en",
+          "title": "Fig. No.140 1.00 X 0.75 PDF",
+          "revision_date": null,
+          "sha256": "ee29afd37ada4b83aa1dd7080a58e6ad9e3c41fd11cb17c243862788b239aa8b",
+          "bytes": 17398,
+          "http_status": 200,
+          "mime_verified": true,
+          "found_on": "https://www.cranefs.com/product/bushes/140/",
+          "variant_skus": []
+        },
+        {
+          "url": "https://www.cranefs.com/app/uploads/2023/09/140-1.25x1.00.pdf",
+          "doc_type": "other_doc",
+          "priority": "secondary",
+          "lang": "en",
+          "title": "Fig. No.140 1.25 X 1.00 PDF",
+          "revision_date": null,
+          "sha256": "22604db5f1a33275c2fc39dbff158c2080083e292cfeaeb39773d374cd080a73",
+          "bytes": 17039,
+          "http_status": 200,
+          "mime_verified": true,
+          "found_on": "https://www.cranefs.com/product/bushes/140/",
+          "variant_skus": []
+        },
+        {
+          "url": "https://www.cranefs.com/app/uploads/2023/09/140-1.50x1.00.pdf",
+          "doc_type": "other_doc",
+          "priority": "secondary",
+          "lang": "en",
+          "title": "Fig. No.140 1.50 X 1.00 PDF",
+          "revision_date": null,
+          "sha256": "db0290138b1ebc7b411faf4ae1b1a0b169ca2fd0cf86d438dd6156dfeac44a7b",
+          "bytes": 17556,
+          "http_status": 200,
+          "mime_verified": true,
+          "found_on": "https://www.cranefs.com/product/bushes/140/",
+          "variant_skus": []
+        },
+        {
+          "url": "https://www.cranefs.com/app/uploads/2023/09/140-1.50x1.25.pdf",
+          "doc_type": "other_doc",
+          "priority": "secondary",
+          "lang": "en",
+          "title": "Fig. No.140 1.50 X 1.25 PDF",
+          "revision_date": null,
+          "sha256": "e1c1f8a8ffc99069e3af6e60ec46845a434af2cf7b60fb80000fe0dadf7cf9e3",
+          "bytes": 17753,
+          "http_status": 200,
+          "mime_verified": true,
+          "found_on": "https://www.cranefs.com/product/bushes/140/",
+          "variant_skus": []
+        },
+        {
+          "url": "https://www.cranefs.com/app/uploads/2023/09/Kitemark-KM-00382-001-08-2026.pdf",
+          "doc_type": "certificate",
+          "priority": "secondary",
+          "lang": "en",
+          "title": "Kitemark KM 00382",
+          "revision_date": "2022-09-14",
+          "sha256": "0e7ea1d5221ea978f149a1cfdcc1d6531ab1a28fb2b9065206ba260aef3cb2cc",
+          "bytes": 712140,
+          "http_status": 200,
+          "mime_verified": true,
+          "found_on": "https://www.cranefs.com/product/bushes/140/",
+          "variant_skus": []
+        },
+        {
+          "url": "https://www.cranefs.com/app/uploads/2023/09/CraneFS-Stress-Corrosion-Cracking-Statement-2020-04.pdf",
+          "doc_type": "other_doc",
+          "priority": "secondary",
+          "lang": "en",
+          "title": "Stress Corrosion Cracking",
+          "revision_date": "2020-03-31",
+          "sha256": "10a2bc46b27b82d5891e12316b145dd2d043ebd03dc1ddc4fa185e803ee3ae3d",
+          "bytes": 72754,
+          "http_status": 200,
+          "mime_verified": true,
+          "found_on": "https://www.cranefs.com/product/bushes/140/",
+          "variant_skus": []
+        }
+      ],
+      "cad": [
+        {
+          "url": "https://www.cranefs.com/app/uploads/2023/09/140-0.50x0.25.zip",
+          "cad_type": "cad_file",
+          "formats": [
+            "dwg",
+            "iges",
+            "ipt",
+            "step"
+          ],
+          "gated": false,
+          "found_on": "https://www.cranefs.com/product/bushes/140/",
+          "variant_skus": []
+        },
+        {
+          "url": "https://www.cranefs.com/app/uploads/2023/09/140-0.50x0.375.zip",
+          "cad_type": "cad_file",
+          "formats": [
+            "dwg",
+            "iges",
+            "ipt",
+            "step"
+          ],
+          "gated": false,
+          "found_on": "https://www.cranefs.com/product/bushes/140/",
+          "variant_skus": []
+        },
+        {
+          "url": "https://www.cranefs.com/app/uploads/2023/09/140-0.75x0.50.zip",
+          "cad_type": "cad_file",
+          "formats": [
+            "dwg",
+            "iges",
+            "step"
+          ],
+          "gated": false,
+          "found_on": "https://www.cranefs.com/product/bushes/140/",
+          "variant_skus": []
+        },
+        {
+          "url": "https://www.cranefs.com/app/uploads/2023/09/140-1.00x0.50.zip",
+          "cad_type": "cad_file",
+          "formats": [
+            "dwg",
+            "iges",
+            "ipt",
+            "step"
+          ],
+          "gated": false,
+          "found_on": "https://www.cranefs.com/product/bushes/140/",
+          "variant_skus": []
+        },
+        {
+          "url": "https://www.cranefs.com/app/uploads/2023/09/140-1.00x0.75.zip",
+          "cad_type": "cad_file",
+          "formats": [
+            "dwg",
+            "iges",
+            "ipt",
+            "step"
+          ],
+          "gated": false,
+          "found_on": "https://www.cranefs.com/product/bushes/140/",
+          "variant_skus": []
+        },
+        {
+          "url": "https://www.cranefs.com/app/uploads/2023/09/140-1.25x1.00.zip",
+          "cad_type": "cad_file",
+          "formats": [
+            "dwg",
+            "iges",
+            "ipt",
+            "step"
+          ],
+          "gated": false,
+          "found_on": "https://www.cranefs.com/product/bushes/140/",
+          "variant_skus": []
+        },
+        {
+          "url": "https://www.cranefs.com/app/uploads/2023/09/140-1.50x1.00.zip",
+          "cad_type": "cad_file",
+          "formats": [
+            "dwg",
+            "iges",
+            "ipt",
+            "step"
+          ],
+          "gated": false,
+          "found_on": "https://www.cranefs.com/product/bushes/140/",
+          "variant_skus": []
+        },
+        {
+          "url": "https://www.cranefs.com/app/uploads/2023/09/140-1.50x1.25.zip",
+          "cad_type": "cad_file",
+          "formats": [
+            "dwg",
+            "iges",
+            "ipt",
+            "step"
+          ],
+          "gated": false,
+          "found_on": "https://www.cranefs.com/product/bushes/140/",
+          "variant_skus": []
+        }
+      ],
+      "images": [
+        {
+          "url": "https://www.cranefs.com/app/uploads/2023/06/140_Bush_Hexagon_Black_Crane-FS-a-BF-scaled.jpg",
+          "image_type": "product_photo",
+          "width": 2560,
+          "height": 1806,
+          "phash": "f4e9c3928e8698da",
+          "found_on": "https://www.cranefs.com/product/bushes/140/"
+        },
+        {
+          "url": "https://www.cranefs.com/app/uploads/2023/06/140_Bush_Hexagon_Black_Crane-FS-b-BF-scaled.jpg",
+          "image_type": "product_photo",
+          "width": 2560,
+          "height": 1806,
+          "phash": "b4c6c7a99b30386d",
+          "found_on": "https://www.cranefs.com/product/bushes/140/"
+        },
+        {
+          "url": "https://www.cranefs.com/app/uploads/2023/06/140_Bush_Hexagon_Galvanised_Crane-FS-a-BF-scaled.jpg",
+          "image_type": "product_photo",
+          "width": 2560,
+          "height": 1807,
+          "phash": "bc39c306cec71ca6",
+          "found_on": "https://www.cranefs.com/product/bushes/140/"
+        },
+        {
+          "url": "https://www.cranefs.com/app/uploads/2023/06/140_Bush_Hexagon_Galvanised_Crane-FS-b-BF-scaled.jpg",
+          "image_type": "product_photo",
+          "width": 2560,
+          "height": 1807,
+          "phash": "e4939b4ddb348ca1",
+          "found_on": "https://www.cranefs.com/product/bushes/140/"
+        }
+      ],
+      "labelling_notes": "Only multi-product catalog PDF (Malleable Pipe Fittings Issue 4) -> page displayed where both state a field. Fig. No. + size designations are not identifiers -> no variants; per-size CAD ZIP/PDF drawings recorded.",
+      "spec_source_summary": "both"
+    },
+    {
+      "family_id": "f634",
+      "name": "F634 Fully Lugged Lever Operated Butterfly Valves - End of Line Service",
+      "series_code": "F634",
+      "product_type": "butterfly valve",
+      "canonical_url": "https://www.cranefs.com/product/butterfly-valves/f634/",
+      "alternates": [],
+      "market_flag": "non_na",
+      "specs": {
+        "size_range": {
+          "value": {
+            "min": "50",
+            "max": "200"
+          },
+          "unit": "mm",
+          "raw_text": "SIZE (mm) 50 ... 200",
+          "display_source": "pdf",
+          "cross_check": "agree",
+          "sources": [
+            {
+              "url": "https://www.cranefs.com/app/uploads/2026/03/F634-Butterfly-Crane-FS-DS-032026.pdf",
+              "type": "pdf",
+              "page": 1,
+              "section": "Dimensions & Weights",
+              "variant_sku": null,
+              "quote": "50 3.5 141",
+              "snapshot_sha256": "effde35c48db9e32c24b8a892ad0928cf5941da352918a44596adba4a65e3e18",
+              "retrieved_at": "2026-10-11T03:01:26Z"
+            },
+            {
+              "url": "https://www.cranefs.com/app/uploads/2026/03/F634-Butterfly-Crane-FS-DS-032026.pdf",
+              "type": "pdf",
+              "page": 1,
+              "section": "Dimensions & Weights",
+              "variant_sku": null,
+              "quote": "200 19.7 247",
+              "snapshot_sha256": "effde35c48db9e32c24b8a892ad0928cf5941da352918a44596adba4a65e3e18",
+              "retrieved_at": "2026-10-11T03:01:26Z"
+            },
+            {
+              "url": "https://www.cranefs.com/product/butterfly-valves/f634/",
+              "type": "page",
+              "page": null,
+              "section": "Product Overview",
+              "variant_sku": null,
+              "quote": "50mm to 200mm",
+              "snapshot_sha256": "c96e1860e9278992ecb3ea63141b6b710c3383cc984d82dea86118d63d8bbde2",
+              "retrieved_at": "2026-10-11T02:59:48Z"
+            }
+          ]
+        },
+        "sizes_available": {
+          "value": [
+            "50",
+            "65",
+            "80",
+            "100",
+            "125",
+            "150",
+            "200"
+          ],
+          "unit": "mm",
+          "raw_text": "SIZE (mm) 50, 65, 80, 100, 125, 150, 200",
+          "display_source": "pdf",
+          "cross_check": "pdf_only",
+          "sources": [
+            {
+              "url": "https://www.cranefs.com/app/uploads/2026/03/F634-Butterfly-Crane-FS-DS-032026.pdf",
+              "type": "pdf",
+              "page": 1,
+              "section": "Dimensions & Weights",
+              "variant_sku": null,
+              "quote": "50 3.5 141",
+              "snapshot_sha256": "effde35c48db9e32c24b8a892ad0928cf5941da352918a44596adba4a65e3e18",
+              "retrieved_at": "2026-10-11T03:01:26Z"
+            },
+            {
+              "url": "https://www.cranefs.com/app/uploads/2026/03/F634-Butterfly-Crane-FS-DS-032026.pdf",
+              "type": "pdf",
+              "page": 1,
+              "section": "Dimensions & Weights",
+              "variant_sku": null,
+              "quote": "65 4.1 153",
+              "snapshot_sha256": "effde35c48db9e32c24b8a892ad0928cf5941da352918a44596adba4a65e3e18",
+              "retrieved_at": "2026-10-11T03:01:26Z"
+            },
+            {
+              "url": "https://www.cranefs.com/app/uploads/2026/03/F634-Butterfly-Crane-FS-DS-032026.pdf",
+              "type": "pdf",
+              "page": 1,
+              "section": "Dimensions & Weights",
+              "variant_sku": null,
+              "quote": "80 5.6 161",
+              "snapshot_sha256": "effde35c48db9e32c24b8a892ad0928cf5941da352918a44596adba4a65e3e18",
+              "retrieved_at": "2026-10-11T03:01:26Z"
+            },
+            {
+              "url": "https://www.cranefs.com/app/uploads/2026/03/F634-Butterfly-Crane-FS-DS-032026.pdf",
+              "type": "pdf",
+              "page": 1,
+              "section": "Dimensions & Weights",
+              "variant_sku": null,
+              "quote": "100 7.9 179",
+              "snapshot_sha256": "effde35c48db9e32c24b8a892ad0928cf5941da352918a44596adba4a65e3e18",
+              "retrieved_at": "2026-10-11T03:01:26Z"
+            },
+            {
+              "url": "https://www.cranefs.com/app/uploads/2026/03/F634-Butterfly-Crane-FS-DS-032026.pdf",
+              "type": "pdf",
+              "page": 1,
+              "section": "Dimensions & Weights",
+              "variant_sku": null,
+              "quote": "125 9.9 193",
+              "snapshot_sha256": "effde35c48db9e32c24b8a892ad0928cf5941da352918a44596adba4a65e3e18",
+              "retrieved_at": "2026-10-11T03:01:26Z"
+            },
+            {
+              "url": "https://www.cranefs.com/app/uploads/2026/03/F634-Butterfly-Crane-FS-DS-032026.pdf",
+              "type": "pdf",
+              "page": 1,
+              "section": "Dimensions & Weights",
+              "variant_sku": null,
+              "quote": "150 11.9 204",
+              "snapshot_sha256": "effde35c48db9e32c24b8a892ad0928cf5941da352918a44596adba4a65e3e18",
+              "retrieved_at": "2026-10-11T03:01:26Z"
+            },
+            {
+              "url": "https://www.cranefs.com/app/uploads/2026/03/F634-Butterfly-Crane-FS-DS-032026.pdf",
+              "type": "pdf",
+              "page": 1,
+              "section": "Dimensions & Weights",
+              "variant_sku": null,
+              "quote": "200 19.7 247",
+              "snapshot_sha256": "effde35c48db9e32c24b8a892ad0928cf5941da352918a44596adba4a65e3e18",
+              "retrieved_at": "2026-10-11T03:01:26Z"
+            }
+          ]
+        },
+        "size_unit": {
+          "value": "mm",
+          "unit": null,
+          "raw_text": "SIZE (mm)",
+          "display_source": "pdf",
+          "cross_check": "agree",
+          "sources": [
+            {
+              "url": "https://www.cranefs.com/app/uploads/2026/03/F634-Butterfly-Crane-FS-DS-032026.pdf",
+              "type": "pdf",
+              "page": 1,
+              "section": "Dimensions & Weights",
+              "variant_sku": null,
+              "quote": "SIZE (mm)",
+              "snapshot_sha256": "effde35c48db9e32c24b8a892ad0928cf5941da352918a44596adba4a65e3e18",
+              "retrieved_at": "2026-10-11T03:01:26Z"
+            },
+            {
+              "url": "https://www.cranefs.com/product/butterfly-valves/f634/",
+              "type": "page",
+              "page": null,
+              "section": "Product Overview",
+              "variant_sku": null,
+              "quote": "50mm to 200mm",
+              "snapshot_sha256": "c96e1860e9278992ecb3ea63141b6b710c3383cc984d82dea86118d63d8bbde2",
+              "retrieved_at": "2026-10-11T02:59:48Z"
+            }
+          ]
+        },
+        "pressure_rating": {
+          "value": 16,
+          "unit": "bar",
+          "raw_text": "PRESSURE RATING: PN16",
+          "display_source": "pdf",
+          "cross_check": "agree",
+          "sources": [
+            {
+              "url": "https://www.cranefs.com/app/uploads/2026/03/F634-Butterfly-Crane-FS-DS-032026.pdf",
+              "type": "pdf",
+              "page": 1,
+              "section": null,
+              "variant_sku": null,
+              "quote": "PRESSURE RATING: PN16",
+              "snapshot_sha256": "effde35c48db9e32c24b8a892ad0928cf5941da352918a44596adba4a65e3e18",
+              "retrieved_at": "2026-10-11T03:01:26Z"
+            },
+            {
+              "url": "https://www.cranefs.com/product/butterfly-valves/f634/",
+              "type": "page",
+              "page": null,
+              "section": "Product Overview",
+              "variant_sku": null,
+              "quote": "Pressure rating PN16",
+              "snapshot_sha256": "c96e1860e9278992ecb3ea63141b6b710c3383cc984d82dea86118d63d8bbde2",
+              "retrieved_at": "2026-10-11T02:59:48Z"
+            }
+          ]
+        },
+        "temperature_range": {
+          "value": {
+            "min": -10,
+            "max": 120
+          },
+          "unit": "C",
+          "raw_text": "Suitable for wide temperature range -10°C to 120°C",
+          "display_source": "pdf",
+          "cross_check": "agree",
+          "sources": [
+            {
+              "url": "https://www.cranefs.com/app/uploads/2026/03/F634-Butterfly-Crane-FS-DS-032026.pdf",
+              "type": "pdf",
+              "page": 1,
+              "section": "Features & Benefits",
+              "variant_sku": null,
+              "quote": "Suitable for wide temperature range -10°C to 120°C",
+              "snapshot_sha256": "effde35c48db9e32c24b8a892ad0928cf5941da352918a44596adba4a65e3e18",
+              "retrieved_at": "2026-10-11T03:01:26Z"
+            },
+            {
+              "url": "https://www.cranefs.com/product/butterfly-valves/f634/",
+              "type": "page",
+              "page": null,
+              "section": "Features",
+              "variant_sku": null,
+              "quote": "Suitable for wide temperature range -10°C to 120°C",
+              "snapshot_sha256": "c96e1860e9278992ecb3ea63141b6b710c3383cc984d82dea86118d63d8bbde2",
+              "retrieved_at": "2026-10-11T02:59:48Z"
+            }
+          ]
+        },
+        "material_body": {
+          "value": "Ductile Iron (EN-GJS-450-10)",
+          "unit": null,
+          "raw_text": "Body Ductile Iron (EN-GJS-450-10)",
+          "display_source": "pdf",
+          "cross_check": "agree",
+          "sources": [
+            {
+              "url": "https://www.cranefs.com/app/uploads/2026/03/F634-Butterfly-Crane-FS-DS-032026.pdf",
+              "type": "pdf",
+              "page": 1,
+              "section": "Materials",
+              "variant_sku": null,
+              "quote": "Body Ductile Iron (EN-GJS-450-10)",
+              "snapshot_sha256": "effde35c48db9e32c24b8a892ad0928cf5941da352918a44596adba4a65e3e18",
+              "retrieved_at": "2026-10-11T03:01:26Z"
+            },
+            {
+              "url": "https://www.cranefs.com/product/butterfly-valves/f634/",
+              "type": "page",
+              "page": null,
+              "section": "Product Overview",
+              "variant_sku": null,
+              "quote": "Material Ductile Iron (EN-GJS-450-10)",
+              "snapshot_sha256": "c96e1860e9278992ecb3ea63141b6b710c3383cc984d82dea86118d63d8bbde2",
+              "retrieved_at": "2026-10-11T02:59:48Z"
+            }
+          ]
+        },
+        "material_trim": {
+          "value": "Stainless Steel 316 ASTM A531 CF8M",
+          "unit": null,
+          "raw_text": "Disc Stainless Steel 316 ASTM A531 CF8M",
+          "display_source": "pdf",
+          "cross_check": "refines",
+          "sources": [
+            {
+              "url": "https://www.cranefs.com/app/uploads/2026/03/F634-Butterfly-Crane-FS-DS-032026.pdf",
+              "type": "pdf",
+              "page": 1,
+              "section": "Materials",
+              "variant_sku": null,
+              "quote": "Disc Stainless Steel 316 ASTM A531 CF8M",
+              "snapshot_sha256": "effde35c48db9e32c24b8a892ad0928cf5941da352918a44596adba4a65e3e18",
+              "retrieved_at": "2026-10-11T03:01:26Z"
+            }
+          ],
+          "alt_values": [
+            {
+              "value": "Stainless Steel SS316 or CF8M",
+              "unit": null,
+              "raw_text": "Stainless Steel SS316 or CF8M disc",
+              "sources": [
+                {
+                  "url": "https://www.cranefs.com/product/butterfly-valves/f634/",
+                  "type": "page",
+                  "page": null,
+                  "section": "Features",
+                  "variant_sku": null,
+                  "quote": "Stainless Steel SS316 or CF8M disc",
+                  "snapshot_sha256": "c96e1860e9278992ecb3ea63141b6b710c3383cc984d82dea86118d63d8bbde2",
+                  "retrieved_at": "2026-10-11T02:59:48Z"
+                }
+              ]
+            }
+          ]
+        },
+        "material_seat": {
+          "value": "EPDM",
+          "unit": null,
+          "raw_text": "Liner EPDM",
+          "display_source": "pdf",
+          "cross_check": "pdf_only",
+          "sources": [
+            {
+              "url": "https://www.cranefs.com/app/uploads/2026/03/F634-Butterfly-Crane-FS-DS-032026.pdf",
+              "type": "pdf",
+              "page": 1,
+              "section": "Materials",
+              "variant_sku": null,
+              "quote": "Liner EPDM",
+              "snapshot_sha256": "effde35c48db9e32c24b8a892ad0928cf5941da352918a44596adba4a65e3e18",
+              "retrieved_at": "2026-10-11T03:01:26Z"
+            }
+          ]
+        },
+        "material_seals": {
+          "value": "Nitrile Rubber",
+          "unit": null,
+          "raw_text": "O-Ring Nitrile Rubber",
+          "display_source": "pdf",
+          "cross_check": "pdf_only",
+          "sources": [
+            {
+              "url": "https://www.cranefs.com/app/uploads/2026/03/F634-Butterfly-Crane-FS-DS-032026.pdf",
+              "type": "pdf",
+              "page": 1,
+              "section": "Materials",
+              "variant_sku": null,
+              "quote": "O-Ring Nitrile Rubber",
+              "snapshot_sha256": "effde35c48db9e32c24b8a892ad0928cf5941da352918a44596adba4a65e3e18",
+              "retrieved_at": "2026-10-11T03:01:26Z"
+            }
+          ]
+        },
+        "end_connections": {
+          "value": [
+            "lug"
+          ],
+          "unit": null,
+          "raw_text": "END CONNECTION: Fully Lugged",
+          "display_source": "pdf",
+          "cross_check": "agree",
+          "sources": [
+            {
+              "url": "https://www.cranefs.com/app/uploads/2026/03/F634-Butterfly-Crane-FS-DS-032026.pdf",
+              "type": "pdf",
+              "page": 1,
+              "section": null,
+              "variant_sku": null,
+              "quote": "END CONNECTION: Fully Lugged",
+              "snapshot_sha256": "effde35c48db9e32c24b8a892ad0928cf5941da352918a44596adba4a65e3e18",
+              "retrieved_at": "2026-10-11T03:01:26Z"
+            },
+            {
+              "url": "https://www.cranefs.com/product/butterfly-valves/f634/",
+              "type": "page",
+              "page": null,
+              "section": "Product Overview",
+              "variant_sku": null,
+              "quote": "End Connections Fully Lugged",
+              "snapshot_sha256": "c96e1860e9278992ecb3ea63141b6b710c3383cc984d82dea86118d63d8bbde2",
+              "retrieved_at": "2026-10-11T02:59:48Z"
+            }
+          ]
+        },
+        "standards": {
+          "value": [
+            "BS EN 593",
+            "ASTM 609 A",
+            "BS EN 558",
+            "EN 1092-2"
+          ],
+          "unit": null,
+          "raw_text": "as per BS EN 593 / ASTM 609 A, Fully Lugged as per BS EN 558",
+          "display_source": "pdf",
+          "cross_check": "pdf_only",
+          "sources": [
+            {
+              "url": "https://www.cranefs.com/app/uploads/2026/03/F634-Butterfly-Crane-FS-DS-032026.pdf",
+              "type": "pdf",
+              "page": 1,
+              "section": "Specification",
+              "variant_sku": null,
+              "quote": "as per BS EN 593 / ASTM 609 A, Fully Lugged as per BS EN 558",
+              "snapshot_sha256": "effde35c48db9e32c24b8a892ad0928cf5941da352918a44596adba4a65e3e18",
+              "retrieved_at": "2026-10-11T03:01:26Z"
+            },
+            {
+              "url": "https://www.cranefs.com/app/uploads/2026/03/F634-Butterfly-Crane-FS-DS-032026.pdf",
+              "type": "pdf",
+              "page": 1,
+              "section": "Specification",
+              "variant_sku": null,
+              "quote": "suitable to mount between EN 1092-2 PN16 flanges",
+              "snapshot_sha256": "effde35c48db9e32c24b8a892ad0928cf5941da352918a44596adba4a65e3e18",
+              "retrieved_at": "2026-10-11T03:01:26Z"
+            }
+          ]
+        }
+      },
+      "additional_specs": {
+        "applications_other": [
+          "dead-end service without the need for backing flanges at PN16 rated pressure"
+        ],
+        "operator": "Trigger Lever",
+        "body_style": "Fully Lugged",
+        "test_pressures": "SHELL: 24 bar SEAT: 17.6 bar DEAD END SERVICE: 16 Bar",
+        "shaft": "SS420 (ASTM A276 420 / EN10088-3 1.4021)",
+        "bushing": "PTFE",
+        "lever_material": "Malleable Iron ASTM Gr.32510",
+        "stop_plate": "Stainless Steel SS316",
+        "corrosion_protection": "Level 3 C3 (Medium)",
+        "related_options": "GEARBOX F635; BARESHAFT F635B (Valve Selection)",
+        "kv": {
+          "50": "133",
+          "65": "227",
+          "80": "349",
+          "100": "694",
+          "125": "1181",
+          "150": "1825",
+          "200": "2503"
+        }
+      },
+      "variants": [],
+      "family_prices": [
+        {
+          "amount": null,
+          "currency": null,
+          "price_type": null,
+          "availability": "not_published",
+          "notes": "No price, quote button or price list on the site; the page only links a distributor locator. Family lists no identifiers, so there are no variants (SPEC 7).",
+          "source": {
+            "url": "https://www.cranefs.com/product/butterfly-valves/f634/",
+            "type": "page",
+            "page": null,
+            "section": "Product header",
+            "variant_sku": null,
+            "quote": "Distributor",
+            "snapshot_sha256": "c96e1860e9278992ecb3ea63141b6b710c3383cc984d82dea86118d63d8bbde2",
+            "retrieved_at": "2026-10-11T02:59:48Z"
+          }
+        }
+      ],
+      "documents": [
+        {
+          "url": "https://www.cranefs.com/app/uploads/2026/03/F634-Butterfly-Crane-FS-DS-032026.pdf",
+          "doc_type": "spec_sheet",
+          "priority": "primary",
+          "lang": "en",
+          "title": "F634 Datasheet",
+          "revision_date": "2025-11-21",
+          "sha256": "effde35c48db9e32c24b8a892ad0928cf5941da352918a44596adba4a65e3e18",
+          "bytes": 189646,
+          "http_status": 200,
+          "mime_verified": true,
+          "found_on": "https://www.cranefs.com/product/butterfly-valves/f634/",
+          "variant_skus": []
+        },
+        {
+          "url": "https://www.cranefs.com/app/uploads/2026/03/Crane-FS-F634-F635-PN16-Butterfly-IOM-0326.pdf",
+          "doc_type": "iom_manual",
+          "priority": "secondary",
+          "lang": "en",
+          "title": "F634 / F635 Installation, Operation & Maintenance Instructions",
+          "revision_date": null,
+          "sha256": "df1a6000154769b7967e536e0210d9711ac7c881f92bdaeea0344304aa0c8dea",
+          "bytes": 825575,
+          "http_status": 200,
+          "mime_verified": true,
+          "found_on": "https://www.cranefs.com/product/butterfly-valves/f634/",
+          "variant_skus": []
+        }
+      ],
+      "cad": [],
+      "images": [
+        {
+          "url": "https://www.cranefs.com/app/uploads/2026/03/F631_Butterfly_DN150_End-of-Line_Fully-Lugged_Lever_SS-Disc_CFS-scaled.webp",
+          "image_type": "product_photo",
+          "width": 2560,
+          "height": 1806,
+          "phash": "b9e1c437c7988e86",
+          "found_on": "https://www.cranefs.com/product/butterfly-valves/f634/"
+        },
+        {
+          "url": "https://www.cranefs.com/app/uploads/2026/03/F631_Butterfly_DN150_End-of-Line_Fully-Lugged_Lever_SS-Disc_CFS-b-scaled.webp",
+          "image_type": "product_photo",
+          "width": 2560,
+          "height": 1806,
+          "phash": "ecb4926b934cc999",
+          "found_on": "https://www.cranefs.com/product/butterfly-valves/f634/"
+        },
+        {
+          "url": "https://www.cranefs.com/app/uploads/2026/03/F631_Butterfly_DN150_End-of-Line_Fully-Lugged_Lever_SS-Disc-c-scaled.webp",
+          "image_type": "product_photo",
+          "width": 2560,
+          "height": 1806,
+          "phash": "b8bcc761b443e1b4",
+          "found_on": "https://www.cranefs.com/product/butterfly-valves/f634/"
+        }
+      ],
+      "labelling_notes": "Datasheet (Vaild as of 21/11/25) displayed. F635/F635B in Valve Selection are sibling products (gearbox/bare shaft), not F634 variants. Page images are named F631 but are the photos shown on the F634 page.",
+      "spec_source_summary": "both"
+    },
+    {
+      "family_id": "d171aexs",
+      "name": "D171AEXS Extended Stem Ball Valve - DZR Brass",
+      "series_code": "D171AEXS",
+      "product_type": "ball valve",
+      "canonical_url": "https://www.cranefs.com/product/ball-valves/d171aexs/",
+      "alternates": [],
+      "market_flag": "non_na",
+      "specs": {
+        "size_range": {
+          "value": {
+            "min": "1/2",
+            "max": "2"
+          },
+          "unit": "in",
+          "raw_text": "SIZE (inch) 1/2 ... 2",
+          "display_source": "pdf",
+          "cross_check": "conflict",
+          "sources": [
+            {
+              "url": "https://www.cranefs.com/app/uploads/2023/09/D171A-D171AEXS-Crane-FS-DS-042025.pdf",
+              "type": "pdf",
+              "page": 1,
+              "section": "Dimensions & Weights",
+              "variant_sku": null,
+              "quote": "1/2 0.252 0.308",
+              "snapshot_sha256": "e998e9ef91042ab16ca9c969b1debaa0c4c34ffa8ef910c1d1501d02fdd31805",
+              "retrieved_at": "2026-10-11T03:01:28Z"
+            },
+            {
+              "url": "https://www.cranefs.com/app/uploads/2023/09/D171A-D171AEXS-Crane-FS-DS-042025.pdf",
+              "type": "pdf",
+              "page": 1,
+              "section": "Dimensions & Weights",
+              "variant_sku": null,
+              "quote": "2 2.080 2.212",
+              "snapshot_sha256": "e998e9ef91042ab16ca9c969b1debaa0c4c34ffa8ef910c1d1501d02fdd31805",
+              "retrieved_at": "2026-10-11T03:01:28Z"
+            }
+          ],
+          "alt_values": [
+            {
+              "value": {
+                "min": "1/4",
+                "max": "2"
+              },
+              "unit": "in",
+              "raw_text": "Size 1/4\" to 2\"",
+              "sources": [
+                {
+                  "url": "https://www.cranefs.com/product/ball-valves/d171aexs/",
+                  "type": "page",
+                  "page": null,
+                  "section": "Product Overview",
+                  "variant_sku": null,
+                  "quote": "Size 1/4\" to 2\"",
+                  "snapshot_sha256": "089331e71bc6d2182bbce1535832d119eaad555c7ff7613b0eda0a1311f97796",
+                  "retrieved_at": "2026-10-11T02:59:50Z"
+                }
+              ]
+            }
+          ]
+        },
+        "sizes_available": {
+          "value": [
+            "1/2",
+            "3/4",
+            "1",
+            "1-1/4",
+            "1-1/2",
+            "2"
+          ],
+          "unit": "in",
+          "raw_text": "SIZE (inch) 1/2, 3/4, 1, 1-1/4, 1-1/2, 2",
+          "display_source": "pdf",
+          "cross_check": "pdf_only",
+          "sources": [
+            {
+              "url": "https://www.cranefs.com/app/uploads/2023/09/D171A-D171AEXS-Crane-FS-DS-042025.pdf",
+              "type": "pdf",
+              "page": 1,
+              "section": "Dimensions & Weights",
+              "variant_sku": null,
+              "quote": "1/2 0.252 0.308",
+              "snapshot_sha256": "e998e9ef91042ab16ca9c969b1debaa0c4c34ffa8ef910c1d1501d02fdd31805",
+              "retrieved_at": "2026-10-11T03:01:28Z"
+            },
+            {
+              "url": "https://www.cranefs.com/app/uploads/2023/09/D171A-D171AEXS-Crane-FS-DS-042025.pdf",
+              "type": "pdf",
+              "page": 1,
+              "section": "Dimensions & Weights",
+              "variant_sku": null,
+              "quote": "3/4 0.389 0.456",
+              "snapshot_sha256": "e998e9ef91042ab16ca9c969b1debaa0c4c34ffa8ef910c1d1501d02fdd31805",
+              "retrieved_at": "2026-10-11T03:01:28Z"
+            },
+            {
+              "url": "https://www.cranefs.com/app/uploads/2023/09/D171A-D171AEXS-Crane-FS-DS-042025.pdf",
+              "type": "pdf",
+              "page": 1,
+              "section": "Dimensions & Weights",
+              "variant_sku": null,
+              "quote": "1 0.579 0.646",
+              "snapshot_sha256": "e998e9ef91042ab16ca9c969b1debaa0c4c34ffa8ef910c1d1501d02fdd31805",
+              "retrieved_at": "2026-10-11T03:01:28Z"
+            },
+            {
+              "url": "https://www.cranefs.com/app/uploads/2023/09/D171A-D171AEXS-Crane-FS-DS-042025.pdf",
+              "type": "pdf",
+              "page": 1,
+              "section": "Dimensions & Weights",
+              "variant_sku": null,
+              "quote": "1-1/4 0.917 1.005",
+              "snapshot_sha256": "e998e9ef91042ab16ca9c969b1debaa0c4c34ffa8ef910c1d1501d02fdd31805",
+              "retrieved_at": "2026-10-11T03:01:28Z"
+            },
+            {
+              "url": "https://www.cranefs.com/app/uploads/2023/09/D171A-D171AEXS-Crane-FS-DS-042025.pdf",
+              "type": "pdf",
+              "page": 1,
+              "section": "Dimensions & Weights",
+              "variant_sku": null,
+              "quote": "1-1/2 1.252 1.339",
+              "snapshot_sha256": "e998e9ef91042ab16ca9c969b1debaa0c4c34ffa8ef910c1d1501d02fdd31805",
+              "retrieved_at": "2026-10-11T03:01:28Z"
+            },
+            {
+              "url": "https://www.cranefs.com/app/uploads/2023/09/D171A-D171AEXS-Crane-FS-DS-042025.pdf",
+              "type": "pdf",
+              "page": 1,
+              "section": "Dimensions & Weights",
+              "variant_sku": null,
+              "quote": "2 2.080 2.212",
+              "snapshot_sha256": "e998e9ef91042ab16ca9c969b1debaa0c4c34ffa8ef910c1d1501d02fdd31805",
+              "retrieved_at": "2026-10-11T03:01:28Z"
+            }
+          ]
+        },
+        "size_unit": {
+          "value": "in",
+          "unit": null,
+          "raw_text": "SIZE (inch)",
+          "display_source": "pdf",
+          "cross_check": "agree",
+          "sources": [
+            {
+              "url": "https://www.cranefs.com/app/uploads/2023/09/D171A-D171AEXS-Crane-FS-DS-042025.pdf",
+              "type": "pdf",
+              "page": 1,
+              "section": "Dimensions & Weights",
+              "variant_sku": null,
+              "quote": "SIZE (inch)",
+              "snapshot_sha256": "e998e9ef91042ab16ca9c969b1debaa0c4c34ffa8ef910c1d1501d02fdd31805",
+              "retrieved_at": "2026-10-11T03:01:28Z"
+            },
+            {
+              "url": "https://www.cranefs.com/product/ball-valves/d171aexs/",
+              "type": "page",
+              "page": null,
+              "section": "Product Overview",
+              "variant_sku": null,
+              "quote": "Size 1/4\" to 2\"",
+              "snapshot_sha256": "089331e71bc6d2182bbce1535832d119eaad555c7ff7613b0eda0a1311f97796",
+              "retrieved_at": "2026-10-11T02:59:50Z"
+            }
+          ]
+        },
+        "pressure_rating": {
+          "value": 25,
+          "unit": "bar",
+          "raw_text": "PRESSURE RATING: PN25",
+          "display_source": "pdf",
+          "cross_check": "agree",
+          "sources": [
+            {
+              "url": "https://www.cranefs.com/app/uploads/2023/09/D171A-D171AEXS-Crane-FS-DS-042025.pdf",
+              "type": "pdf",
+              "page": 1,
+              "section": null,
+              "variant_sku": null,
+              "quote": "PRESSURE RATING: PN25",
+              "snapshot_sha256": "e998e9ef91042ab16ca9c969b1debaa0c4c34ffa8ef910c1d1501d02fdd31805",
+              "retrieved_at": "2026-10-11T03:01:28Z"
+            },
+            {
+              "url": "https://www.cranefs.com/product/ball-valves/d171aexs/",
+              "type": "page",
+              "page": null,
+              "section": "Product Overview",
+              "variant_sku": null,
+              "quote": "Pressure rating PN25",
+              "snapshot_sha256": "089331e71bc6d2182bbce1535832d119eaad555c7ff7613b0eda0a1311f97796",
+              "retrieved_at": "2026-10-11T02:59:50Z"
+            }
+          ]
+        },
+        "temperature_range": {
+          "value": {
+            "min": -10,
+            "max": 120
+          },
+          "unit": "C",
+          "raw_text": "TEMPERATURE OPERATING RANGE: -10 to 120°C",
+          "display_source": "pdf",
+          "cross_check": "pdf_only",
+          "sources": [
+            {
+              "url": "https://www.cranefs.com/app/uploads/2023/09/D171A-D171AEXS-Crane-FS-DS-042025.pdf",
+              "type": "pdf",
+              "page": 1,
+              "section": null,
+              "variant_sku": null,
+              "quote": "TEMPERATURE OPERATING RANGE: -10 to 120°C",
+              "snapshot_sha256": "e998e9ef91042ab16ca9c969b1debaa0c4c34ffa8ef910c1d1501d02fdd31805",
+              "retrieved_at": "2026-10-11T03:01:28Z"
+            }
+          ]
+        },
+        "material_body": {
+          "value": "DZR Brass BS EN 12165 CW602N",
+          "unit": null,
+          "raw_text": "Body DZR Brass BS EN 12165 CW602N",
+          "display_source": "pdf",
+          "cross_check": "refines",
+          "sources": [
+            {
+              "url": "https://www.cranefs.com/app/uploads/2023/09/D171A-D171AEXS-Crane-FS-DS-042025.pdf",
+              "type": "pdf",
+              "page": 1,
+              "section": "Materials",
+              "variant_sku": null,
+              "quote": "Body DZR Brass BS EN 12165 CW602N",
+              "snapshot_sha256": "e998e9ef91042ab16ca9c969b1debaa0c4c34ffa8ef910c1d1501d02fdd31805",
+              "retrieved_at": "2026-10-11T03:01:28Z"
+            }
+          ],
+          "alt_values": [
+            {
+              "value": "DZR Brass",
+              "unit": null,
+              "raw_text": "Material DZR Brass",
+              "sources": [
+                {
+                  "url": "https://www.cranefs.com/product/ball-valves/d171aexs/",
+                  "type": "page",
+                  "page": null,
+                  "section": "Product Overview",
+                  "variant_sku": null,
+                  "quote": "Material DZR Brass",
+                  "snapshot_sha256": "089331e71bc6d2182bbce1535832d119eaad555c7ff7613b0eda0a1311f97796",
+                  "retrieved_at": "2026-10-11T02:59:50Z"
+                }
+              ]
+            }
+          ]
+        },
+        "material_trim": {
+          "value": "Stainless Steel 304",
+          "unit": null,
+          "raw_text": "Ball (1/2 – 2”) Stainless Steel 304 BS EN 10088-3 1.4301 / AISI 304",
+          "display_source": "pdf",
+          "cross_check": "pdf_only",
+          "sources": [
+            {
+              "url": "https://www.cranefs.com/app/uploads/2023/09/D171A-D171AEXS-Crane-FS-DS-042025.pdf",
+              "type": "pdf",
+              "page": 1,
+              "section": "Specification",
+              "variant_sku": null,
+              "quote": "Floating Stainless Steel SS304 Ball",
+              "snapshot_sha256": "e998e9ef91042ab16ca9c969b1debaa0c4c34ffa8ef910c1d1501d02fdd31805",
+              "retrieved_at": "2026-10-11T03:01:28Z"
+            },
+            {
+              "url": "https://www.cranefs.com/app/uploads/2023/09/D171A-D171AEXS-Crane-FS-DS-042025.pdf",
+              "type": "pdf",
+              "page": 1,
+              "section": "Materials",
+              "variant_sku": null,
+              "quote": "Stainless Steel 304 1 BS EN 10088-3 1.4301 / AISI 304",
+              "snapshot_sha256": "e998e9ef91042ab16ca9c969b1debaa0c4c34ffa8ef910c1d1501d02fdd31805",
+              "retrieved_at": "2026-10-11T03:01:28Z"
+            }
+          ]
+        },
+        "material_seat": {
+          "value": "PTFE",
+          "unit": null,
+          "raw_text": "Seats PTFE WRAS approved",
+          "display_source": "pdf",
+          "cross_check": "pdf_only",
+          "sources": [
+            {
+              "url": "https://www.cranefs.com/app/uploads/2023/09/D171A-D171AEXS-Crane-FS-DS-042025.pdf",
+              "type": "pdf",
+              "page": 1,
+              "section": "Materials",
+              "variant_sku": null,
+              "quote": "Seats PTFE WRAS approved",
+              "snapshot_sha256": "e998e9ef91042ab16ca9c969b1debaa0c4c34ffa8ef910c1d1501d02fdd31805",
+              "retrieved_at": "2026-10-11T03:01:28Z"
+            }
+          ]
+        },
+        "material_seals": {
+          "value": "EPDM",
+          "unit": null,
+          "raw_text": "O-Ring Rubber EPDM WRAS approved",
+          "display_source": "pdf",
+          "cross_check": "pdf_only",
+          "sources": [
+            {
+              "url": "https://www.cranefs.com/app/uploads/2023/09/D171A-D171AEXS-Crane-FS-DS-042025.pdf",
+              "type": "pdf",
+              "page": 1,
+              "section": "Materials",
+              "variant_sku": null,
+              "quote": "O-Ring Rubber EPDM WRAS approved",
+              "snapshot_sha256": "e998e9ef91042ab16ca9c969b1debaa0c4c34ffa8ef910c1d1501d02fdd31805",
+              "retrieved_at": "2026-10-11T03:01:28Z"
+            }
+          ]
+        },
+        "end_connections": {
+          "value": [
+            "BSPT"
+          ],
+          "unit": null,
+          "raw_text": "UK END CONNECTION: Taper threaded to BS EN 10226-2 (ISO 7-1) formerly BS 21",
+          "display_source": "pdf",
+          "cross_check": "agree",
+          "sources": [
+            {
+              "url": "https://www.cranefs.com/app/uploads/2023/09/D171A-D171AEXS-Crane-FS-DS-042025.pdf",
+              "type": "pdf",
+              "page": 1,
+              "section": null,
+              "variant_sku": null,
+              "quote": "UK END CONNECTION: Taper threaded to BS EN 10226-2 (ISO 7-1) formerly BS 21",
+              "snapshot_sha256": "e998e9ef91042ab16ca9c969b1debaa0c4c34ffa8ef910c1d1501d02fdd31805",
+              "retrieved_at": "2026-10-11T03:01:28Z"
+            },
+            {
+              "url": "https://www.cranefs.com/product/ball-valves/d171aexs/",
+              "type": "page",
+              "page": null,
+              "section": "Product Overview",
+              "variant_sku": null,
+              "quote": "Taper threaded to BS EN 10226-2 (ISO 7-1) formerly BS 21",
+              "snapshot_sha256": "089331e71bc6d2182bbce1535832d119eaad555c7ff7613b0eda0a1311f97796",
+              "retrieved_at": "2026-10-11T02:59:50Z"
+            }
+          ]
+        },
+        "standards": {
+          "value": [
+            "BS EN 13547",
+            "BS EN 10226-2",
+            "ISO 7-1"
+          ],
+          "unit": null,
+          "raw_text": "Conforms to BS EN 13547",
+          "display_source": "pdf",
+          "cross_check": "refines",
+          "sources": [
+            {
+              "url": "https://www.cranefs.com/app/uploads/2023/09/D171A-D171AEXS-Crane-FS-DS-042025.pdf",
+              "type": "pdf",
+              "page": 1,
+              "section": "Features & Benefits",
+              "variant_sku": null,
+              "quote": "Conforms to BS EN 13547",
+              "snapshot_sha256": "e998e9ef91042ab16ca9c969b1debaa0c4c34ffa8ef910c1d1501d02fdd31805",
+              "retrieved_at": "2026-10-11T03:01:28Z"
+            },
+            {
+              "url": "https://www.cranefs.com/app/uploads/2023/09/D171A-D171AEXS-Crane-FS-DS-042025.pdf",
+              "type": "pdf",
+              "page": 1,
+              "section": null,
+              "variant_sku": null,
+              "quote": "Taper threaded to BS EN 10226-2 (ISO 7-1) formerly BS 21",
+              "snapshot_sha256": "e998e9ef91042ab16ca9c969b1debaa0c4c34ffa8ef910c1d1501d02fdd31805",
+              "retrieved_at": "2026-10-11T03:01:28Z"
+            }
+          ],
+          "alt_values": [
+            {
+              "value": [
+                "BS EN 10226-2",
+                "ISO 7-1"
+              ],
+              "unit": null,
+              "raw_text": "Taper threaded to BS EN 10226-2 (ISO 7-1) formerly BS 21",
+              "sources": [
+                {
+                  "url": "https://www.cranefs.com/product/ball-valves/d171aexs/",
+                  "type": "page",
+                  "page": null,
+                  "section": "Product Overview",
+                  "variant_sku": null,
+                  "quote": "Taper threaded to BS EN 10226-2 (ISO 7-1) formerly BS 21",
+                  "snapshot_sha256": "089331e71bc6d2182bbce1535832d119eaad555c7ff7613b0eda0a1311f97796",
+                  "retrieved_at": "2026-10-11T02:59:50Z"
+                }
+              ]
+            }
+          ]
+        },
+        "certifications": {
+          "value": [
+            "WRAS"
+          ],
+          "unit": null,
+          "raw_text": "WRAS Approved to 85°C",
+          "display_source": "pdf",
+          "cross_check": "agree",
+          "sources": [
+            {
+              "url": "https://www.cranefs.com/app/uploads/2023/09/D171A-D171AEXS-Crane-FS-DS-042025.pdf",
+              "type": "pdf",
+              "page": 1,
+              "section": "Features & Benefits",
+              "variant_sku": null,
+              "quote": "WRAS Approved to 85°C",
+              "snapshot_sha256": "e998e9ef91042ab16ca9c969b1debaa0c4c34ffa8ef910c1d1501d02fdd31805",
+              "retrieved_at": "2026-10-11T03:01:28Z"
+            },
+            {
+              "url": "https://www.cranefs.com/product/ball-valves/d171aexs/",
+              "type": "page",
+              "page": null,
+              "section": "Product Overview",
+              "variant_sku": null,
+              "quote": "In addition the D171AEXS is WRAS approved.",
+              "snapshot_sha256": "089331e71bc6d2182bbce1535832d119eaad555c7ff7613b0eda0a1311f97796",
+              "retrieved_at": "2026-10-11T02:59:50Z"
+            }
+          ]
+        }
+      },
+      "additional_specs": {
+        "end_connections_other": [
+          "US END CONNECTION: ANSI B1.20.1:1983 (please add suffix AT to denote American Thread)"
+        ],
+        "applications_other": [
+          "Group 2 Gas, Group 1 and Group 2 Liquids as defined by Pressure Equipment Directive 2014/68/EU"
+        ],
+        "operator": "Lever",
+        "extension_stem": "Extension stem (EXS) to enable valve operation whilst the valve and associated pipework is surrounded with insulation",
+        "pressure_rating_at_temperature": "25 bar at -10 to 100°C; 21.8 bar at 120°C",
+        "wras_max_temperature": "85°C",
+        "construction": "two-piece, floating ball, anti blow-out stem",
+        "stem": "DZR Brass BS EN 12164 CW602N",
+        "kv": {
+          "1/2": "31",
+          "3/4": "45",
+          "1": "63",
+          "1-1/4": "102",
+          "1-1/2": "375",
+          "2": "420"
+        }
+      },
+      "variants": [],
+      "family_prices": [
+        {
+          "amount": null,
+          "currency": null,
+          "price_type": null,
+          "availability": "not_published",
+          "notes": "No price, quote button or price list on the site; the page only links a distributor locator. Family lists no identifiers, so there are no variants (SPEC 7).",
+          "source": {
+            "url": "https://www.cranefs.com/product/ball-valves/d171aexs/",
+            "type": "page",
+            "page": null,
+            "section": "Product header",
+            "variant_sku": null,
+            "quote": "Distributor",
+            "snapshot_sha256": "089331e71bc6d2182bbce1535832d119eaad555c7ff7613b0eda0a1311f97796",
+            "retrieved_at": "2026-10-11T02:59:50Z"
+          }
+        }
+      ],
+      "documents": [
+        {
+          "url": "https://www.cranefs.com/app/uploads/2023/09/D171A-D171AEXS-Crane-FS-DS-042025.pdf",
+          "doc_type": "spec_sheet",
+          "priority": "primary",
+          "lang": "en",
+          "title": "D171A / D171AEXS Datasheet",
+          "revision_date": "2025-03-13",
+          "sha256": "e998e9ef91042ab16ca9c969b1debaa0c4c34ffa8ef910c1d1501d02fdd31805",
+          "bytes": 253622,
+          "http_status": 200,
+          "mime_verified": true,
+          "found_on": "https://www.cranefs.com/product/ball-valves/d171aexs/",
+          "variant_skus": []
+        },
+        {
+          "url": "https://www.cranefs.com/app/uploads/2025/03/Copper-Alloy-Ball-Valves-IOM-CFS-0325.pdf",
+          "doc_type": "iom_manual",
+          "priority": "secondary",
+          "lang": "en",
+          "title": "D171 / D171A / D191 Copper Alloy Ball Valve Installation, Operating & Maintenance Manual",
+          "revision_date": null,
+          "sha256": "77df08ae9d1171c8a7d4c2605f58b8262c1ef35132893ca957c7911de85fb6ed",
+          "bytes": 396791,
+          "http_status": 200,
+          "mime_verified": true,
+          "found_on": "https://www.cranefs.com/product/ball-valves/d171aexs/",
+          "variant_skus": []
+        },
+        {
+          "url": "https://www.cranefs.com/app/uploads/2024/03/WRAS-D171-Range-2402088002-Certificate-02-29-v2.pdf",
+          "doc_type": "certificate",
+          "priority": "secondary",
+          "lang": "en",
+          "title": "D171A, D171AEXS, D171ATH, D171ALS, D171A.AT, D171AEXS.AT, D171ATH.AT & D171ALS.AT WRAS Certificate",
+          "revision_date": "2024-03-12",
+          "sha256": "3da6066db0577db293767d829f4da40a53554b6b0a688c8fbb7a13b652928f25",
+          "bytes": 268660,
+          "http_status": 200,
+          "mime_verified": true,
+          "found_on": "https://www.cranefs.com/product/ball-valves/d171aexs/",
+          "variant_skus": []
+        },
+        {
+          "url": "https://www.cranefs.com/app/uploads/2026/04/D171A-Ball-Valve-Range-WRAS-250308005-0330.pdf",
+          "doc_type": "certificate",
+          "priority": "secondary",
+          "lang": "en",
+          "title": "D17A Ball Valve Range WRAS Certificate",
+          "revision_date": "2025-08-19",
+          "sha256": "4604b8fb3b8b766c55281acad52e3becdb353609c3d64343c44adf9c6469293f",
+          "bytes": 295710,
+          "http_status": 200,
+          "mime_verified": true,
+          "found_on": "https://www.cranefs.com/product/ball-valves/d171aexs/",
+          "variant_skus": []
+        },
+        {
+          "url": "https://www.cranefs.com/app/uploads/2023/09/CraneFS-Stress-Corrosion-Cracking-Statement-2020-04.pdf",
+          "doc_type": "other_doc",
+          "priority": "secondary",
+          "lang": "en",
+          "title": "Stress Corrosion Cracking",
+          "revision_date": "2020-03-31",
+          "sha256": "10a2bc46b27b82d5891e12316b145dd2d043ebd03dc1ddc4fa185e803ee3ae3d",
+          "bytes": 72754,
+          "http_status": 200,
+          "mime_verified": true,
+          "found_on": "https://www.cranefs.com/product/ball-valves/d171aexs/",
+          "variant_skus": []
+        }
+      ],
+      "cad": [
+        {
+          "url": "https://www.bimstore.co/products/cranefs-d171aexs",
+          "cad_type": "cad_viewer",
+          "formats": [],
+          "gated": true,
+          "found_on": "https://www.cranefs.com/product/ball-valves/d171aexs/",
+          "variant_skus": []
+        }
+      ],
+      "images": [
+        {
+          "url": "https://www.cranefs.com/app/uploads/2023/06/D171AEXS_ball_CFS_10_18-BF-scaled.jpg",
+          "image_type": "product_photo",
+          "width": 2560,
+          "height": 1806,
+          "phash": "f1e7aea94c1891d1",
+          "found_on": "https://www.cranefs.com/product/ball-valves/d171aexs/"
+        }
+      ],
+      "labelling_notes": "Size conflict: page 1/4\" to 2\", datasheet table 1/2-2 -> datasheet displayed. Suffix .AT is a part-numbering option, not a variant. YouTube video link not recorded (not a document/CAD/image).",
+      "spec_source_summary": "both"
+    },
+    {
+      "family_id": "d103b-cast-iron",
+      "name": "D103B - Cast Iron 3 Port Valve - Cast Iron",
+      "series_code": "D103B",
+      "product_type": "control valve",
+      "canonical_url": "https://www.cranefs.com/product/connected-2-3-4-port/3-port-valve-cast-iron/",
+      "alternates": [],
+      "market_flag": "non_na",
+      "specs": {
+        "size_range": {
+          "value": {
+            "min": "20",
+            "max": "50"
+          },
+          "unit": "DN",
+          "raw_text": "DN20/DN50",
+          "display_source": "pdf",
+          "cross_check": "agree",
+          "sources": [
+            {
+              "url": "https://www.cranefs.com/app/uploads/2024/04/D102B-D103B-Cast-Iron-CraneFS-DS-04-2024.pdf",
+              "type": "pdf",
+              "page": 1,
+              "section": null,
+              "variant_sku": null,
+              "quote": "DN20/DN50",
+              "snapshot_sha256": "65160a76f490bde0da680e5290832bee234316beef05c44247fc9f57e5e76f2f",
+              "retrieved_at": "2026-10-11T03:01:32Z"
+            },
+            {
+              "url": "https://www.cranefs.com/product/connected-2-3-4-port/3-port-valve-cast-iron/",
+              "type": "page",
+              "page": null,
+              "section": "Product Overview",
+              "variant_sku": null,
+              "quote": "Size DN20 / DN50",
+              "snapshot_sha256": "46c304f6162e32a1b3afc8d6120378a495f3f1fb0dde763391d9f65167e573e9",
+              "retrieved_at": "2026-10-11T02:59:52Z"
+            }
+          ]
+        },
+        "size_unit": {
+          "value": "DN",
+          "unit": null,
+          "raw_text": "DN20/DN50",
+          "display_source": "pdf",
+          "cross_check": "agree",
+          "sources": [
+            {
+              "url": "https://www.cranefs.com/app/uploads/2024/04/D102B-D103B-Cast-Iron-CraneFS-DS-04-2024.pdf",
+              "type": "pdf",
+              "page": 1,
+              "section": null,
+              "variant_sku": null,
+              "quote": "DN20/DN50",
+              "snapshot_sha256": "65160a76f490bde0da680e5290832bee234316beef05c44247fc9f57e5e76f2f",
+              "retrieved_at": "2026-10-11T03:01:32Z"
+            },
+            {
+              "url": "https://www.cranefs.com/product/connected-2-3-4-port/3-port-valve-cast-iron/",
+              "type": "page",
+              "page": null,
+              "section": "Product Overview",
+              "variant_sku": null,
+              "quote": "Size DN20 / DN50",
+              "snapshot_sha256": "46c304f6162e32a1b3afc8d6120378a495f3f1fb0dde763391d9f65167e573e9",
+              "retrieved_at": "2026-10-11T02:59:52Z"
+            }
+          ]
+        },
+        "sizes_available": {
+          "value": [
+            "3/4",
+            "1",
+            "1-1/4",
+            "1-1/2",
+            "2"
+          ],
+          "unit": "in",
+          "raw_text": "D103B 3/4 - 2\": 3/4\", 1\", 1 1/4\", 1 1/2\", 2\"",
+          "display_source": "pdf",
+          "cross_check": "agree",
+          "sources": [
+            {
+              "url": "https://www.cranefs.com/app/uploads/2024/04/D102B-D103B-Cast-Iron-CraneFS-DS-04-2024.pdf",
+              "type": "pdf",
+              "page": 1,
+              "section": "Dimensions D103B 3/4 - 2\"",
+              "variant_sku": null,
+              "quote": "0JG93620L 6.3 5.5 900 85 3/4\"",
+              "snapshot_sha256": "65160a76f490bde0da680e5290832bee234316beef05c44247fc9f57e5e76f2f",
+              "retrieved_at": "2026-10-11T03:01:32Z"
+            },
+            {
+              "url": "https://www.cranefs.com/app/uploads/2024/04/D102B-D103B-Cast-Iron-CraneFS-DS-04-2024.pdf",
+              "type": "pdf",
+              "page": 1,
+              "section": "Dimensions D103B 3/4 - 2\"",
+              "variant_sku": null,
+              "quote": "0JG93621M 10 9 550 95 1\"",
+              "snapshot_sha256": "65160a76f490bde0da680e5290832bee234316beef05c44247fc9f57e5e76f2f",
+              "retrieved_at": "2026-10-11T03:01:32Z"
+            },
+            {
+              "url": "https://www.cranefs.com/app/uploads/2024/04/D102B-D103B-Cast-Iron-CraneFS-DS-04-2024.pdf",
+              "type": "pdf",
+              "page": 1,
+              "section": "Dimensions D103B 3/4 - 2\"",
+              "variant_sku": null,
+              "quote": "0JG93622N 14 11 350 108 1 1/4\"",
+              "snapshot_sha256": "65160a76f490bde0da680e5290832bee234316beef05c44247fc9f57e5e76f2f",
+              "retrieved_at": "2026-10-11T03:01:32Z"
+            },
+            {
+              "url": "https://www.cranefs.com/app/uploads/2024/04/D102B-D103B-Cast-Iron-CraneFS-DS-04-2024.pdf",
+              "type": "pdf",
+              "page": 1,
+              "section": "Dimensions D103B 3/4 - 2\"",
+              "variant_sku": null,
+              "quote": "0JG93623P 18 12 250 120 1 1/2\"",
+              "snapshot_sha256": "65160a76f490bde0da680e5290832bee234316beef05c44247fc9f57e5e76f2f",
+              "retrieved_at": "2026-10-11T03:01:32Z"
+            },
+            {
+              "url": "https://www.cranefs.com/app/uploads/2024/04/D102B-D103B-Cast-Iron-CraneFS-DS-04-2024.pdf",
+              "type": "pdf",
+              "page": 1,
+              "section": "Dimensions D103B 3/4 - 2\"",
+              "variant_sku": null,
+              "quote": "0JG93624Q 25 17 190 142 2\"",
+              "snapshot_sha256": "65160a76f490bde0da680e5290832bee234316beef05c44247fc9f57e5e76f2f",
+              "retrieved_at": "2026-10-11T03:01:32Z"
+            },
+            {
+              "url": "https://www.cranefs.com/product/connected-2-3-4-port/3-port-valve-cast-iron/",
+              "type": "page",
+              "page": null,
+              "section": "Product Overview",
+              "variant_sku": null,
+              "quote": "3/4 inch - 6.3 Kvs",
+              "snapshot_sha256": "46c304f6162e32a1b3afc8d6120378a495f3f1fb0dde763391d9f65167e573e9",
+              "retrieved_at": "2026-10-11T02:59:52Z"
+            },
+            {
+              "url": "https://www.cranefs.com/product/connected-2-3-4-port/3-port-valve-cast-iron/",
+              "type": "page",
+              "page": null,
+              "section": "Product Overview",
+              "variant_sku": null,
+              "quote": "1 inch - 10 Kvs",
+              "snapshot_sha256": "46c304f6162e32a1b3afc8d6120378a495f3f1fb0dde763391d9f65167e573e9",
+              "retrieved_at": "2026-10-11T02:59:52Z"
+            },
+            {
+              "url": "https://www.cranefs.com/product/connected-2-3-4-port/3-port-valve-cast-iron/",
+              "type": "page",
+              "page": null,
+              "section": "Product Overview",
+              "variant_sku": null,
+              "quote": "1 1/4 inch - 14 Kvs",
+              "snapshot_sha256": "46c304f6162e32a1b3afc8d6120378a495f3f1fb0dde763391d9f65167e573e9",
+              "retrieved_at": "2026-10-11T02:59:52Z"
+            },
+            {
+              "url": "https://www.cranefs.com/product/connected-2-3-4-port/3-port-valve-cast-iron/",
+              "type": "page",
+              "page": null,
+              "section": "Product Overview",
+              "variant_sku": null,
+              "quote": "1 1/2 inch - 18 Kvs",
+              "snapshot_sha256": "46c304f6162e32a1b3afc8d6120378a495f3f1fb0dde763391d9f65167e573e9",
+              "retrieved_at": "2026-10-11T02:59:52Z"
+            },
+            {
+              "url": "https://www.cranefs.com/product/connected-2-3-4-port/3-port-valve-cast-iron/",
+              "type": "page",
+              "page": null,
+              "section": "Product Overview",
+              "variant_sku": null,
+              "quote": "2 inch - 25 Kvs",
+              "snapshot_sha256": "46c304f6162e32a1b3afc8d6120378a495f3f1fb0dde763391d9f65167e573e9",
+              "retrieved_at": "2026-10-11T02:59:52Z"
+            }
+          ]
+        },
+        "pressure_rating": {
+          "value": 16,
+          "unit": "bar",
+          "raw_text": "PRESSURE RATING: PN16",
+          "display_source": "pdf",
+          "cross_check": "agree",
+          "sources": [
+            {
+              "url": "https://www.cranefs.com/app/uploads/2024/04/D102B-D103B-Cast-Iron-CraneFS-DS-04-2024.pdf",
+              "type": "pdf",
+              "page": 1,
+              "section": null,
+              "variant_sku": null,
+              "quote": "PRESSURE RATING: PN16",
+              "snapshot_sha256": "65160a76f490bde0da680e5290832bee234316beef05c44247fc9f57e5e76f2f",
+              "retrieved_at": "2026-10-11T03:01:32Z"
+            },
+            {
+              "url": "https://www.cranefs.com/product/connected-2-3-4-port/3-port-valve-cast-iron/",
+              "type": "page",
+              "page": null,
+              "section": "Product Overview",
+              "variant_sku": null,
+              "quote": "Pressure rating PN16",
+              "snapshot_sha256": "46c304f6162e32a1b3afc8d6120378a495f3f1fb0dde763391d9f65167e573e9",
+              "retrieved_at": "2026-10-11T02:59:52Z"
+            }
+          ]
+        },
+        "temperature_range": {
+          "value": {
+            "min": 5,
+            "max": 95
+          },
+          "unit": "C",
+          "raw_text": "5°C to 95°C",
+          "display_source": "pdf",
+          "cross_check": "agree",
+          "sources": [
+            {
+              "url": "https://www.cranefs.com/app/uploads/2024/04/D102B-D103B-Cast-Iron-CraneFS-DS-04-2024.pdf",
+              "type": "pdf",
+              "page": 1,
+              "section": "Pressure/Temperature Ratings",
+              "variant_sku": null,
+              "quote": "5°C to 95°C",
+              "snapshot_sha256": "65160a76f490bde0da680e5290832bee234316beef05c44247fc9f57e5e76f2f",
+              "retrieved_at": "2026-10-11T03:01:32Z"
+            },
+            {
+              "url": "https://www.cranefs.com/product/connected-2-3-4-port/3-port-valve-cast-iron/",
+              "type": "page",
+              "page": null,
+              "section": "Product Overview",
+              "variant_sku": null,
+              "quote": "Temperature Rating 5°C - 95°C",
+              "snapshot_sha256": "46c304f6162e32a1b3afc8d6120378a495f3f1fb0dde763391d9f65167e573e9",
+              "retrieved_at": "2026-10-11T02:59:52Z"
+            }
+          ]
+        },
+        "material_body": {
+          "value": "Cast Iron",
+          "unit": null,
+          "raw_text": "Body Cast Iron",
+          "display_source": "pdf",
+          "cross_check": "agree",
+          "sources": [
+            {
+              "url": "https://www.cranefs.com/app/uploads/2024/04/D102B-D103B-Cast-Iron-CraneFS-DS-04-2024.pdf",
+              "type": "pdf",
+              "page": 1,
+              "section": "Materials",
+              "variant_sku": null,
+              "quote": "Body Cast Iron",
+              "snapshot_sha256": "65160a76f490bde0da680e5290832bee234316beef05c44247fc9f57e5e76f2f",
+              "retrieved_at": "2026-10-11T03:01:32Z"
+            },
+            {
+              "url": "https://www.cranefs.com/product/connected-2-3-4-port/3-port-valve-cast-iron/",
+              "type": "page",
+              "page": null,
+              "section": "Product header",
+              "variant_sku": null,
+              "quote": "3 Port Valve – Cast Iron",
+              "snapshot_sha256": "46c304f6162e32a1b3afc8d6120378a495f3f1fb0dde763391d9f65167e573e9",
+              "retrieved_at": "2026-10-11T02:59:52Z"
+            }
+          ]
+        },
+        "material_trim": {
+          "value": "Brass",
+          "unit": null,
+          "raw_text": "Plug Brass; Stem CrNi steel",
+          "display_source": "pdf",
+          "cross_check": "pdf_only",
+          "sources": [
+            {
+              "url": "https://www.cranefs.com/app/uploads/2024/04/D102B-D103B-Cast-Iron-CraneFS-DS-04-2024.pdf",
+              "type": "pdf",
+              "page": 1,
+              "section": "Materials",
+              "variant_sku": null,
+              "quote": "Plug Brass",
+              "snapshot_sha256": "65160a76f490bde0da680e5290832bee234316beef05c44247fc9f57e5e76f2f",
+              "retrieved_at": "2026-10-11T03:01:32Z"
+            }
+          ]
+        },
+        "material_seals": {
+          "value": "EPDM",
+          "unit": null,
+          "raw_text": "O-rings EPDM",
+          "display_source": "pdf",
+          "cross_check": "pdf_only",
+          "sources": [
+            {
+              "url": "https://www.cranefs.com/app/uploads/2024/04/D102B-D103B-Cast-Iron-CraneFS-DS-04-2024.pdf",
+              "type": "pdf",
+              "page": 1,
+              "section": "Materials",
+              "variant_sku": null,
+              "quote": "O-rings EPDM",
+              "snapshot_sha256": "65160a76f490bde0da680e5290832bee234316beef05c44247fc9f57e5e76f2f",
+              "retrieved_at": "2026-10-11T03:01:32Z"
+            }
+          ]
+        },
+        "end_connections": {
+          "value": [
+            "BSPT"
+          ],
+          "unit": null,
+          "raw_text": "END CONNECTIONS: BSP Female Parallel ISO-228",
+          "display_source": "pdf",
+          "cross_check": "agree",
+          "sources": [
+            {
+              "url": "https://www.cranefs.com/app/uploads/2024/04/D102B-D103B-Cast-Iron-CraneFS-DS-04-2024.pdf",
+              "type": "pdf",
+              "page": 1,
+              "section": null,
+              "variant_sku": null,
+              "quote": "END CONNECTIONS: BSP Female Parallel ISO-228",
+              "snapshot_sha256": "65160a76f490bde0da680e5290832bee234316beef05c44247fc9f57e5e76f2f",
+              "retrieved_at": "2026-10-11T03:01:32Z"
+            },
+            {
+              "url": "https://www.cranefs.com/product/connected-2-3-4-port/3-port-valve-cast-iron/",
+              "type": "page",
+              "page": null,
+              "section": "Product Overview",
+              "variant_sku": null,
+              "quote": "End Connections BSP Female Parallel ISO-228",
+              "snapshot_sha256": "46c304f6162e32a1b3afc8d6120378a495f3f1fb0dde763391d9f65167e573e9",
+              "retrieved_at": "2026-10-11T02:59:52Z"
+            }
+          ]
+        },
+        "standards": {
+          "value": [
+            "ISO 228"
+          ],
+          "unit": null,
+          "raw_text": "END CONNECTIONS: BSP Female Parallel ISO-228",
+          "display_source": "pdf",
+          "cross_check": "agree",
+          "sources": [
+            {
+              "url": "https://www.cranefs.com/app/uploads/2024/04/D102B-D103B-Cast-Iron-CraneFS-DS-04-2024.pdf",
+              "type": "pdf",
+              "page": 1,
+              "section": null,
+              "variant_sku": null,
+              "quote": "END CONNECTIONS: BSP Female Parallel ISO-228",
+              "snapshot_sha256": "65160a76f490bde0da680e5290832bee234316beef05c44247fc9f57e5e76f2f",
+              "retrieved_at": "2026-10-11T03:01:32Z"
+            },
+            {
+              "url": "https://www.cranefs.com/product/connected-2-3-4-port/3-port-valve-cast-iron/",
+              "type": "page",
+              "page": null,
+              "section": "Product Overview",
+              "variant_sku": null,
+              "quote": "BSP Female Parallel ISO-228",
+              "snapshot_sha256": "46c304f6162e32a1b3afc8d6120378a495f3f1fb0dde763391d9f65167e573e9",
+              "retrieved_at": "2026-10-11T02:59:52Z"
+            }
+          ]
+        }
+      },
+      "additional_specs": {
+        "end_connections_other": [
+          "BSP Female Parallel ISO-228 (parallel, not taper)"
+        ],
+        "applications_other": [
+          "zone, terminal bypass and end of line applications",
+          "building services applications and services with up to 30% Glycol",
+          "Group 2 Liquids"
+        ],
+        "leakage": "Class IV leakage up to 225kPa (isolation function)",
+        "compatible_actuators": "ACT993M (Modulating), ACT993TP (3 Point), ACT993FS (Failsafe)",
+        "actuator_connection": "M30x1.5 threaded connection",
+        "stem": "CrNi steel",
+        "ports": "3",
+        "kvs_direct_way": {
+          "3/4": "6.3",
+          "1": "10",
+          "1-1/4": "14",
+          "1-1/2": "18",
+          "2": "25"
+        },
+        "kvs_angle_way": {
+          "3/4": "5.5",
+          "1": "9",
+          "1-1/4": "11",
+          "1-1/2": "12",
+          "2": "17"
+        },
+        "close_off_kpa": {
+          "3/4": "900",
+          "1": "550",
+          "1-1/4": "350",
+          "1-1/2": "250",
+          "2": "190"
+        }
+      },
+      "variants": [
+        {
+          "sku": "0JG93620L",
+          "size": "3/4",
+          "page_url": null,
+          "prices": [
+            {
+              "amount": null,
+              "currency": null,
+              "price_type": null,
+              "availability": "not_published",
+              "notes": "No price on site; page only links a distributor locator.",
+              "source": {
+                "url": "https://www.cranefs.com/product/connected-2-3-4-port/3-port-valve-cast-iron/",
+                "type": "page",
+                "page": null,
+                "section": "Product header",
+                "variant_sku": null,
+                "quote": "Distributor",
+                "snapshot_sha256": "46c304f6162e32a1b3afc8d6120378a495f3f1fb0dde763391d9f65167e573e9",
+                "retrieved_at": "2026-10-11T02:59:52Z"
+              }
+            }
+          ]
+        },
+        {
+          "sku": "0JG93621M",
+          "size": "1",
+          "page_url": null,
+          "prices": [
+            {
+              "amount": null,
+              "currency": null,
+              "price_type": null,
+              "availability": "not_published",
+              "notes": "No price on site; page only links a distributor locator.",
+              "source": {
+                "url": "https://www.cranefs.com/product/connected-2-3-4-port/3-port-valve-cast-iron/",
+                "type": "page",
+                "page": null,
+                "section": "Product header",
+                "variant_sku": null,
+                "quote": "Distributor",
+                "snapshot_sha256": "46c304f6162e32a1b3afc8d6120378a495f3f1fb0dde763391d9f65167e573e9",
+                "retrieved_at": "2026-10-11T02:59:52Z"
+              }
+            }
+          ]
+        },
+        {
+          "sku": "0JG93622N",
+          "size": "1-1/4",
+          "page_url": null,
+          "prices": [
+            {
+              "amount": null,
+              "currency": null,
+              "price_type": null,
+              "availability": "not_published",
+              "notes": "No price on site; page only links a distributor locator.",
+              "source": {
+                "url": "https://www.cranefs.com/product/connected-2-3-4-port/3-port-valve-cast-iron/",
+                "type": "page",
+                "page": null,
+                "section": "Product header",
+                "variant_sku": null,
+                "quote": "Distributor",
+                "snapshot_sha256": "46c304f6162e32a1b3afc8d6120378a495f3f1fb0dde763391d9f65167e573e9",
+                "retrieved_at": "2026-10-11T02:59:52Z"
+              }
+            }
+          ]
+        },
+        {
+          "sku": "0JG93623P",
+          "size": "1-1/2",
+          "page_url": null,
+          "prices": [
+            {
+              "amount": null,
+              "currency": null,
+              "price_type": null,
+              "availability": "not_published",
+              "notes": "No price on site; page only links a distributor locator.",
+              "source": {
+                "url": "https://www.cranefs.com/product/connected-2-3-4-port/3-port-valve-cast-iron/",
+                "type": "page",
+                "page": null,
+                "section": "Product header",
+                "variant_sku": null,
+                "quote": "Distributor",
+                "snapshot_sha256": "46c304f6162e32a1b3afc8d6120378a495f3f1fb0dde763391d9f65167e573e9",
+                "retrieved_at": "2026-10-11T02:59:52Z"
+              }
+            }
+          ]
+        },
+        {
+          "sku": "0JG93624Q",
+          "size": "2",
+          "page_url": null,
+          "prices": [
+            {
+              "amount": null,
+              "currency": null,
+              "price_type": null,
+              "availability": "not_published",
+              "notes": "No price on site; page only links a distributor locator.",
+              "source": {
+                "url": "https://www.cranefs.com/product/connected-2-3-4-port/3-port-valve-cast-iron/",
+                "type": "page",
+                "page": null,
+                "section": "Product header",
+                "variant_sku": null,
+                "quote": "Distributor",
+                "snapshot_sha256": "46c304f6162e32a1b3afc8d6120378a495f3f1fb0dde763391d9f65167e573e9",
+                "retrieved_at": "2026-10-11T02:59:52Z"
+              }
+            }
+          ]
+        }
+      ],
+      "documents": [
+        {
+          "url": "https://www.cranefs.com/app/uploads/2024/04/D102B-D103B-Cast-Iron-CraneFS-DS-04-2024.pdf",
+          "doc_type": "spec_sheet",
+          "priority": "primary",
+          "lang": "en",
+          "title": "D102B & D103B Cast Iron Datasheet",
+          "revision_date": "2024-01-24",
+          "sha256": "65160a76f490bde0da680e5290832bee234316beef05c44247fc9f57e5e76f2f",
+          "bytes": 244480,
+          "http_status": 200,
+          "mime_verified": true,
+          "found_on": "https://www.cranefs.com/product/connected-2-3-4-port/3-port-valve-cast-iron/",
+          "variant_skus": []
+        },
+        {
+          "url": "https://www.cranefs.com/app/uploads/2024/04/D102B-D103B-Cast-Iron-2-3-Port-Valve-CFS-IOM-042024.pdf",
+          "doc_type": "iom_manual",
+          "priority": "secondary",
+          "lang": "en",
+          "title": "D102B & D103B Cast Iron Installation, Operating & Maintenance Manual",
+          "revision_date": null,
+          "sha256": "797e1e75990e8a98111a570dfc31ca2a23863ed5294c025f8cc61aa5f8130ab8",
+          "bytes": 293353,
+          "http_status": 200,
+          "mime_verified": true,
+          "found_on": "https://www.cranefs.com/product/connected-2-3-4-port/3-port-valve-cast-iron/",
+          "variant_skus": []
+        }
+      ],
+      "cad": [],
+      "images": [
+        {
+          "url": "https://www.cranefs.com/app/uploads/2024/04/D103B-3Port-CraneFS_0423-A-BF.webp",
+          "image_type": "product_photo",
+          "width": 1063,
+          "height": 750,
+          "phash": "e6d99a266964b3a2",
+          "found_on": "https://www.cranefs.com/product/connected-2-3-4-port/3-port-valve-cast-iron/"
+        }
+      ],
+      "labelling_notes": "Variants = the 5 D103B part numbers in the datasheet D103B table (KVS direct/angle way); D102B table (0JG93607P-0JG93611K) is the 2-port sibling and excluded.",
+      "spec_source_summary": "both"
+    }
+  ]
+}
