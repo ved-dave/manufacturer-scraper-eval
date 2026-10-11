@@ -14,6 +14,7 @@ from . import discover as D
 from . import page as P
 from . import hosts as H
 from . import specs as S
+from . import variants as V
 from .fetch import Fetcher
 from .settings import (AGENT_NAME, AGENT_VERSION, CHROME_MIN_PAGES, CHROME_SHARE, MAX_IMAGES_PER_FAMILY,
                        MAX_PDFS_PER_FAMILY, N, PHASH_SAME_IMAGE, RUNS_DIR, site_config)
@@ -68,6 +69,7 @@ class PageRec:
     price: dict
     skus: list
     sha: str
+    tables: list
     text: str
     retrieved_at: str
     flags: list = field(default_factory=list)
@@ -109,7 +111,7 @@ def fetch_page(fetcher, url, log):
         doc_links=[(u, t) for u, t in P.links(soup, r.final_url)
                    if A.DOC_EXT.search(u) or A.cad_from_url(u) or re.search(r'\.zip(\?|$)', u, re.I)],
         image_cands=P.image_candidates(soup, r.final_url), iframes=P.iframes(soup, r.final_url),
-        price=P.price_signals(soup, text), skus=P.product_skus(soup), sha=r.sha256, text=text,
+        price=P.price_signals(soup, text), skus=P.product_skus(soup), sha=r.sha256, tables=P.table_rows(soup), text=text,
         retrieved_at=now_iso())
     rec._body = r.body  # kept for evidence
     rec._final_host = urlsplit(r.final_url).hostname or ''
@@ -565,11 +567,13 @@ class SiteRun:
             extra.update(e)
             for f, lst in c.items():
                 cands[f] += lst
+        family_docs = []
         for d in docs:
             if d.get('_text'):
                 if not pdf_about_family(d['_text'], fam, pages):
                     self.flag('pdf_not_about_family_not_used_for_specs', f'{main.url} <- {d["url"]}')
                     continue
+                family_docs.append(d)
                 kind = 'sheet' if d['doc_type'] in SPEC_SHEET else 'otherpdf'
                 for f, lst in pdf_candidates(d, kind).items():
                     cands[f] += lst
@@ -594,26 +598,55 @@ class SiteRun:
             skus = r.skus or ([P.path_tail(r.url).upper()] if len(pages) > 1 else [])
             for sku in skus:
                 m = SIZE_TOKEN.search(r.name)
-                v = {'sku': sku, 'size': m.group(0).strip() if m else None, 'page_url': r.url, 'prices': []}
-                pr = dict(r.price)
-                price = {'amount': pr.get('amount'), 'currency': pr.get('currency'), 'price_type': 'list' if pr.get('amount') else None,
-                         'availability': pr['availability'],
-                         'source': {'url': r.url, 'type': 'page', 'page': None, 'quote': pr.get('quote'),
-                                    'snapshot_sha256': r.sha, 'retrieved_at': r.retrieved_at}}
-                if pr['availability'] == 'price_shown' and not pr.get('currency'):
-                    price['currency'] = 'USD'
-                    self.flag('price_currency_assumed_usd', r.url)
-                v['prices'].append(price)
+                v = {'sku': sku, 'size': m.group(0).strip() if m else None, 'page_url': r.url, 'prices': [self.page_price(r)]}
                 variants.append(v)
+        if not variants:
+            variants = self.table_variants(pages, family_docs)
         fam['variants'] = variants
-        if not variants and any(r.price['availability'] != 'not_published' for r in pages):
-            self.flag('price_status_without_variant', main.url)
+        if not variants:
+            status = next((r for r in pages if r.price['availability'] != 'not_published'), None)
+            if status:   # SPEC 7: a family without identifiers carries its price status itself
+                fam['family_prices'] = [self.page_price(status)]
 
         fam['documents'] = [{k: v for k, v in d.items() if not k.startswith('_')} for d in docs]
         fam['cad'] = cads
         for r in pages:   # page snapshots for evidence (quotes are checked against these)
             self.evidence.save(r.url, r.sha, 'html', r._body, r.text, 'text/html', r.retrieved_at)
         return fam
+
+    def page_price(self, r):
+        pr = dict(r.price)
+        price = {'amount': pr.get('amount'), 'currency': pr.get('currency'), 'price_type': 'list' if pr.get('amount') else None,
+                 'availability': pr['availability'],
+                 'source': {'url': r.url, 'type': 'page', 'page': None, 'quote': pr.get('quote'),
+                            'snapshot_sha256': r.sha, 'retrieved_at': r.retrieved_at}}
+        if pr['availability'] == 'price_shown' and not pr.get('currency'):
+            price['currency'] = 'USD'
+            self.flag('price_currency_assumed_usd', r.url)
+        return price
+
+    def table_variants(self, pages, family_docs):
+        """SPEC 3 variants from model/part-number tables on the family's pages, else its own spec sheets."""
+        main = pages[0]
+        found = []
+        for r in pages:
+            found += [(s, z, r) for s, z, _ in V.from_rows(r.tables) + V.from_lines(r.text)]
+        if not found:
+            for d in family_docs:
+                if d['doc_type'] in SPEC_SHEET:
+                    found += [(s, z, main) for s, z, _ in V.from_rows([c for _, c in d.get('_tables', [])]) + V.from_lines(d['_text'])]
+                    if found:
+                        break
+        out, seen = [], set()
+        for sku, size, r in found:
+            k = N.norm_token(sku)
+            if k in seen:
+                continue
+            seen.add(k)
+            out.append({'sku': sku, 'size': size, 'page_url': r.url, 'prices': [self.page_price(r)]})
+        if out:
+            self.flag('variants_from_identifier_tables', main.url)
+        return out
 
     # -------------------------------------------------- run
     def run(self):

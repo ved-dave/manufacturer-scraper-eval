@@ -314,3 +314,24 @@ class TestCrashIsolation(unittest.TestCase):
         self.assertEqual(r.guarded('page_crashed', 'https://x.test/q', lambda a: a + 1, 1), 2)
         self.assertEqual(r.flags['page_crashed'], 1)
         self.assertIn('https://x.test/p: ZeroDivisionError', r.flag_examples['page_crashed'])
+
+
+class TestVariants(unittest.TestCase):
+    def test_row_and_line_layouts(self):
+        from mfr_scraper import variants as V
+        self.assertEqual([s for s, _, _ in V.from_lines('2\n1 SRH Model # SRH1 SRH2 SRH3\nHandle Length (in) 10.47 13.38')],
+                         ['SRH1', 'SRH2', 'SRH3'])
+        self.assertEqual([s for s, _, _ in V.from_rows([['Part No.', 'A-100', 'A-200']])], ['A-100', 'A-200'])
+
+    def test_column_layout_with_size(self):
+        from mfr_scraper import variants as V
+        rows = [['Part Number', 'Size', 'Weight'], ['643WG2', '1/2"', '0.3 lb'], ['643WG3', '3/4"', '0.4 lb']]
+        self.assertEqual([(s, z) for s, z, _ in V.from_rows(rows)], [('643WG2', '1/2"'), ('643WG3', '3/4"')])
+
+    def test_parts_lists_and_dimension_tables_are_not_variants(self):
+        from mfr_scraper import variants as V
+        self.assertEqual(V.from_rows([['Item', 'Description', 'Material', 'Qty'], ['1', 'Base Plate', 'CF8M', '1'],
+                                      ['2', 'Handle Body', 'CF8M', '1']]), [])
+        self.assertEqual(V.from_rows([['Size', 'A', 'B'], ['2"', '4.5', '3.1'], ['3"', '5.5', '3.6']]), [])
+        self.assertEqual(V.from_lines('Model shown: 30 series\nModels 2 3'), [])
+        self.assertEqual(V.from_lines('Item No. 1 2 3'), [])
