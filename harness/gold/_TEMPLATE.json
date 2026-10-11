@@ -30,6 +30,12 @@
         "https://www.example.com/products/100-050/",
         "https://www.example.com/products/100-075/"
       ]
+    },
+    {
+      "url": "https://www.example.com/products/series-200/",
+      "name": "Series 200 Butterfly Valve",
+      "series_code": "200",
+      "aliases": []
     }
   ],
   "families": [
@@ -225,7 +231,7 @@
               "type": "pdf",
               "page": 1,
               "section": null,
-              "quote": "Temperature: -20\u00b0F to 400\u00b0F",
+              "quote": "Temperature: -20°F to 400°F",
               "snapshot_sha256": "1111111111111111111111111111111111111111111111111111111111111111",
               "retrieved_at": "2026-10-09T15:00:00Z"
             }
@@ -419,13 +425,47 @@
       ],
       "labelling_notes": "pressure_rating: page says 400 WOG, spec sheet (rev 2025-03) says 600 WOG -> spec sheet displayed, conflict flagged. Also log in gold/<site>.ambiguities.md",
       "spec_source_summary": "both"
+    },
+    {
+      "family_id": "series-200",
+      "name": "Series 200 Butterfly Valve",
+      "series_code": "200",
+      "product_type": "butterfly valve",
+      "canonical_url": "https://www.example.com/products/series-200/",
+      "alternates": [],
+      "market_flag": "na",
+      "specs": {},
+      "variants": [],
+      "family_prices": [
+        {
+          "amount": null,
+          "currency": null,
+          "price_type": null,
+          "availability": "request_quote",
+          "notes": "Family lists no identifiers, so there are no variants; the page's price status is recorded at family level (SPEC 7).",
+          "source": {
+            "url": "https://www.example.com/products/series-200/",
+            "type": "page",
+            "page": null,
+            "section": "product header",
+            "quote": "Request a Quote",
+            "snapshot_sha256": "5555555555555555555555555555555555555555555555555555555555555555",
+            "retrieved_at": "2026-10-09T15:00:00Z"
+          }
+        }
+      ],
+      "documents": [],
+      "cad": [],
+      "images": [],
+      "labelling_notes": "No identifiers listed anywhere, so variants is empty and the 'Request a Quote' status goes in family_prices.",
+      "spec_source_summary": "none"
     }
   ],
   "coverage": {
-    "families": 1,
+    "families": 2,
     "sitemap_families": null
   },
   "unlinked": [],
   "flags": [],
-  "_comment": "sha256 values are placeholders: 111.. = spec sheet PDF, 222.. = IOM PDF, 333.. = family page HTML, 444.. = price list PDF. Extracted text for each lives in gold/<site>.evidence/text/<sha256>.txt and every quote must appear in it."
+  "_comment": "sha256 values are placeholders: 111.. = spec sheet PDF, 222.. = IOM PDF, 333.. = family page HTML, 444.. = price list PDF. Extracted text for each lives in gold/<site>.evidence/text/<sha256>.txt and every quote must appear in it. 555.. = Series 200 family page HTML (family_prices example)."
 }

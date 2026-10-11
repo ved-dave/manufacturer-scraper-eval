@@ -1,0 +1,166 @@
+=== page 1 ===
+INSTALLATION, OPERATING AND MAINTENANCE INSTRUCTIONS
+2 & 3 PORT VALVE
+D102B, D103B, DN20-DN50
+The D102B and D103B iron valves;
+•	 Consist of a two/three port characterised 
+control valve
+•	 Provide Class IV leakage during 
+isolation function
+•	 Are manufactured from Cast Iron, with Brass 
+plug and CRNi Steel stem
+•	 Offer female threaded connections
+•	 Offer double EPDM O-ring stem packing
+•	 Have an operating temperature of 5°C to 95°C
+•	 Have a maximum operating pressure of 16 bar
+•	 Are compatible with Crane Modulating 
+ACT993M, 3 Point ACT993TP and Failsafe 
+ACT993FS actuators
+PRODUCT OVERVIEW
+These valves have been categorised in 
+accordance with the Pressure Equipment 
+Directive–PED. 
+The fluid to be transported is limited to group 2 
+liquids i.e. non-hazardous. On no account must 
+these valves be used on any group 1 liquids, 
+group 1 gases or group 2 gases.
+LIMITS OF USE
+D102B
+
+=== page 2 ===
+INSTALLATION, OPERATING AND MAINTENANCE INSTRUCTIONS
+INSTALLATION, OPERATING AND MAINTENANCE INSTRUCTIONS
+2 & 3 PORT VALVE
+2
+2 & 3 PORT VALVE
+3
+These instructions are issued as guidelines only and do not cover all installed conditions – if unsure 
+please contact our Technical Helpline before installation.
+Before mounting, make sure pipes are clean, aligned with the valve body and not subjected to 
+vibrations. Actuators must not be installed in explosive environments or wherever room temperature 
+exceeds 50°C, and they must not be exposed to water jets or dripping water. Sufficient space must 
+be left above the valve to allow the actuator assembling or disassembling in case of maintenance.
+INSTALLATION	
+A
+AB
+USER
+Hydraulic connections
+Follow the fluid directions as shown in the diagram below.
+Two-way Valves
+Valve with variable flow to the user 	
+	
+    Valve with constant flow to the user
+It is advisable to install two way valves on the return leg (excluding steam plants) since the lower 
+temperature of the fluid allows a longer life of the gaskets. 
+Three-way valves
+Mixing valve in diverting mode
+Mixing valve for constant flow to the user
+Three-way valves must be used as mixers, two inlets A and B and one outlet AB, and not as diverting 
+valves with one inlet AB and two outlets A and B. 
+The valves are intended to be used as mixing valves, not diverting valves.
+A
+AB
+USER
+A
+B
+AB
+USER
+A
+B
+AB
+USER
+AB
+B
+A
+USER
+When using the Crane ACT1993M/TP/FS actuators, ensure to mount them with the shaft 
+in the horizontal position. During the actuator position adjustment, do not unscrew the stroke 
+adjustment nut.
+MOUNTING INSTRUCTIONS
+The valve must be mounted horizontally in all applications where the combined temperature of 
+the fluid and the room will be above 50°C, as this is the maximum recommended temperature for 
+the actuator to operate normally.
+The actuators must not be installed in explosive environments and must not be subjected to steam 
+jets or dripping water. 
+Leave sufficient room over the actuator, at least 10-15cm, to allow the actuator to be removed from 
+the valve body for eventual maintenance.  
+Before the valve start-up, check: 
+•	 FLOW DIRECTION
+It must correspond to the indications printed on the valve body and shown in page 2. 
+•	 VALVE OPENING AND CLOSING 
+This must comply with the plant specification, keep in mind that:
+Fig. 3
+Two-way valves (D102B)
+Stem down	
+=	
+fluid isolated
+Stem up 	
+= 	
+fluid passing 
+Three-way valve (D103B)
+Stem down	
+=	
+fluid flows through A-AB
+	
+	
+fluid isolated through B-AB
+Stem up	
+=	
+fluid isolated through A-AB
+	
+	
+fluid flows through B-AB
+Operating Conditions 
+Temperature, nominal pressure and differential pressure on the valve must be within the values 
+specified for each valve model on the relevant data sheets. 
+
+=== page 3 ===
+www.cranebsu.com
+MIDDLE EAST & NORTH AFRICA 
+SALES OFFICE, 
+BUILDING 4, OFFICE 901, 
+THE GALLERIES, PO BOX 17415,
+DOWNTOWN JEBEL ALI
+DUBAI, UAE
+TELEPHONE: +971 4816 5800
+EXPORT SALES ENQUIRIES: mena-enquiries@cranefs.com
+CFS_D102B_D103B_DN20_DN50_0324
+IOM_V1
+• Designed and manufactured under quality management systems in accordance with BS EN ISO 9001.
+Every effort has been made to ensure that the information contained in this publication is accurate at the time of publishing. 
+Crane Ltd assumes no responsibility or liability for typographical errors or omissions or for any misinterpretation of the 
+information within the publication and reserves the right to change without notice.
+CRANE HOUSE, EPSILON TERRACE, 
+WEST ROAD, IPSWICH, 
+SUFFOLK IP3 9FJ
+TELEPHONE: +44 (0)1473 277300
+FAX: +44 (0)1473 277301
+UK SALES ENQUIRIES: enquiries@cranefs.com 
+TECHNICAL ENQUIRIES: tech-enquiries@crane-ltd.co.uk
+TELEPHONE: +44 (0)1473 277400 
+www.cranefs.com
+To visit our Video Library go to: 
+www.youtube.com/user/CraneBSU
+FM 00311
+EMS 553775
+MOUNTING INSTRUCTIONS ( C ON T I N U E D )
+Pipe flushing 
+An abnormal valve flow action is caused, in almost all case, by weld slag or foreign bodies entrapped 
+between the valve seat and the plug, often resulting in damages. 
+To prevent any issues, it is advisable to use strainers upstream of the valve. Moreover, the pipelines 
+must be thoroughly washed by positioning the valve stem at half stroke; this operation must be 
+performed before start-up and after a prolonged shutdown of the system.
+The Crane  D102B & D103B valves are maintenance free but for optimum and long life service the 
+following points must be considered: 
+Note: The valve should be at zero pressure and ambient temperature prior to any inspection. 
+Maintenance Engineers & Operators are reminded to use correct fitting tools and equipment. A full 
+risk assessment and methodology statement must be compiled prior to any maintenance.
+•	 At minimum, annually, operate valves that remain open or closed for long periods to ensure they 
+are in good working order, thus avoiding the possibility of being inoperable in a time of emergency.
+•	 The risk assessment must take into account the possibility of the limits of use being exceeded 
+whereby a potential hazard could result. 
+•	 A maintenance program should, therefore, include checks on the development of unforeseen 
+conditions, which could lead to failure. 
+MAINTENANCE 
+SPARES & ANCILLARIES
+For the supply of genuine Crane spares or technical assistance please contact us on 0845 604 1790.

@@ -1,0 +1,367 @@
+Switch Boxes: Series 5B Valve Status Monitors | Bray
+About
+Contact Us
+Careers
+Customer Portal
+Nearby Locations
+LinkedIn
+YouTube
+Products
+Products
+Butterfly Valves
+Resilient Seated
+High Performance
+Triple Offset
+Lined
+Ball Valves
+3-Piece
+Threaded
+Flanged
+Trunnion Mounted
+Severe Service
+Multi-Port
+Lined Ball
+Accessories
+Knife Gate Valves
+Bidirectional
+Unidirectional
+Slurry
+Pinch Valves
+Pinch Valve
+Control Valves
+Ball Valves
+Butterfly Valves
+Pinch Valve
+Check Valves
+Check
+Lined
+Accessories
+Relief Valves
+Air Release / Vacuum Break Valve
+Actuators
+Electric Actuator
+Pneumatic Actuator
+Hydraulic Actuator
+Electro-Hydraulic Actuator
+Manual Operators
+Control Accessories
+Proximity Sensors
+Filter Regulators
+Positioners
+Solenoids
+Switch Boxes
+Cryogenic
+McCannalok Cryogenic
+Triple Offset Valve
+Solutions
+Solutions
+Industry
+Chemical & Petrochemical
+Food & Beverage
+HVAC
+Industrial Gas
+Marine & Shipbuilding
+Mining
+Oil & Gas
+Pharma & Biotech
+Power
+Pulp & Paper
+Semiconductor
+Sugar & Ethanol
+Water & Wastewater
+Integrated Solutions
+Automation
+Isolation
+Control
+Ethernet/IP
+Cx Line
+DIGI-ID™
+Precision Cleaning
+Company
+Company
+About
+Quality
+History
+Careers
+Contact Us
+Sustainability
+Subsidiaries
+Patents
+Locations
+North America
+Latin America
+Europe & Middle East
+Asia
+Africa
+Pacific
+Partnership
+California Transparency in Supply Chains Act
+Conflict-free Sourcing Program
+Purchase Order Terms and Conditions
+Supplier Code of Conduct
+Supplier Diversity
+Child & Forced Labor Policy
+The Criminal Finance Act (UK)
+Reach SVCH Compliance Declaration
+Resources
+Resources
+Documents
+Manual & Guides
+Brochures
+Technical Bulletin
+Specifications
+Knowledge Center
+Success Stories
+Application Guides
+Webinars
+Published Papers
+Videos
+Software
+DeviceNet
+Valve Sizing Software
+Configuration Tools
+ProfiBUS (GSD Files)
+Actuator Sizing Program
+Check Valve Sizing Program
+S98 Interactive Demo
+Materials Selection
+Materials Selection
+Request a Quote
+Switch Box
+Series 5B
+Compact Switch Box with High Visibility Valve Position Indicator
+Closer Look
+Request a Quote
+Description
+Specifications
+Downloads
+Features & Benefits
+Product Insights
+NEMA 4, 4X, and IP66/67 Certified Switch Box for Harsh Environments
+Reliable Monitoring for Quarter-Turn Actuators in Harsh Environments
+Closer Look
+Specifications
+Certifications
+CE, cULus (most models), SIL 3 capable
+Optional: ATEX, IECEx
+Communication Protocols
+AS-I, Profibus DP, DeviceNet
+Enclosure Ratings
+IP66/67, NEMA 4/4X, UL50E Salt Spray
+Visual Display
+High Visibility Indicator
+Beacon Color Options: Red/Yellow (Standard), Red/Green, Black/Yellow, Red/Green Inverse
+Switch Options
+Mechanical: SPDT, DPDT
+Proximity: PNP, NPN, 140V 2-wire, 250V 2-wire, Reed, NAMUR Intrinsic Safety
+Switch Quantities
+Up to 6
+Mounting
+VDI/VDE 3845 Compliant (NAMUR)
+Temperature Range
+-13°F to 149°F (-25°C to 65°C)
+Conduit Ports
+2x ¾” NPT or 2x M25
+Downloads
+Select a  Document Type
+All
+STEP Files
+Product Brochure
+Software
+Safety Manual
+Reference Guide
+Technical Manual
+IOM Manual
+Select a  Language
+All
+English
+Spanish
+Product Brochure
+Series 5A, 5B and 5C Switchbox
+Download
+English
+Product Brochure
+Valve Automation Centre (VAC)
+Download
+English
+IOM Manual
+Series 5A/5B Switchbox
+Download
+English
+IOM Manual
+Series 5B/5C DeviceNet
+Download
+English
+IOM Manual
+Series 5B/5C Profibus DP
+Download
+English
+IOM Manual
+Series 5A/5B Intrinsically Safe Switchbox
+Download
+English
+IOM Manual
+Series 5B/5C AS-i
+Download
+English
+Software
+Series 5B/5C DeviceNet EDS
+Download
+English
+Software
+Series 5B/5C Profibus DP GSD
+Download
+English
+Reference Guide
+Hazardous Location Products
+Download
+English
+Reference Guide
+Intriniscally Safe Reference Guide
+Download
+English
+Safety Manual
+Series 5A, 5B and 5C Switch Boxes
+Download
+English
+STEP Files
+Series 5A/5B Switch Boxes
+Download
+English
+Technical Manual
+Series 5B/5C CommPro
+Download
+English
+Technical Manual
+Switchbox Series 5B
+Download
+English
+More Details
+Features & Benefits
+A. Enclosure
+The compact low profile weatherproof VSM is UL certified NEMA Type 4, 4x and IP66/67. Aluminum base and cover for exceptional corrosion, wear and impact resistance.
+B. High Visibility Position Indicator
+Visual open and closed indication is provided with an impact resistant dome style indicator. Inverting the open and closed visual output is easily done by rotating the indicator dome 90 degrees. There is no need to remove the switchbox aluminum cover and expose internal wiring of the VSM to change position indication.
+C. Stub Shaft Secondary Seal
+Ensures indicator area is separate from the VSM’s internals. Provides a secondary seal to prevent water ingress should the dome or dome seal become compromised due to adverse site conditions.
+D. Captive Cover Bolts
+The cover is attached to the base by captive stainless steel bolts placed outside the sealing area.
+E. Protective Washers
+Clear, nonmetallic, corrosion resistant washers are used to ensure coating integrity when cover bolts are tightened.
+F. O-Ring Seal for Watertight Enclosure
+The O-ring seal between the cover and base provides a weatherproof seal to prevent water ingress and internal corrosion.
+G. Sensor Cams
+Splined cam design allows for easy and accurate setting of switch activation without the use of tools.
+H. Limit Switches
+Up to six switch options and configurations to meet connectivity requirements.
+I. Terminals
+Clearly marked terminal blocks are angled towards the user to ensure easy access.
+J. Conduit Entries
+Two conduit entries available in either imperial or metric threads.
+K. Grounding
+Green color-coded, easy-access grounding bolt.
+Our Portfolio
+Looking for More Solutions?
+Discover Our Range of Products Built for Your Industry's Challenges
+Switch Box
+Series 5A
+Inquire
+Details
+Switch Box
+Series 5C
+Inquire
+Details
+Switch Box
+Series 5A Resin
+Inquire
+Details
+Switch Box
+Series 5B Resin
+Inquire
+Details
+Proximity Sensor
+Series 54-GS
+Inquire
+Details
+Proximity Sensor
+Series 54
+Inquire
+Details
+Proximity Sensor
+Series 54-HS
+Inquire
+Details
+Smart Positioner
+Series 6A
+Inquire
+Details
+Pneumatic Positioner
+Series 6P
+Inquire
+Details
+Solenoid
+Series 63
+Inquire
+Details
+View All Products
+Explore More Bray Insights
+Learn Even More About How Bray’s Solutions Can Impact Your Business
+Valve Solutions for Refining, Production & Distribution
+Oil & Gas
+Bray provides a comprehensive line of valves, actuators, and accessories for oil & gas production, distribution, and refining. Trusted in demanding applications like oil sands, natural gas, and severe service.
+Explore Our Oil & Gas Solutions
+Reliable Valve Solutions for the Chemical Industry
+Chemical & Petrochemical
+Bray, a global leader in high-performance valves, ensures safety, reliability, and efficiency for chemical applications, from basic chemicals to specialty polymers, supporting industry growth and innovation.
+Discover More
+Proven Reliability in Water and Sewage Treatment
+Water & Wastewater
+Bray offers a comprehensive line of valves, actuators, and controls for municipal water supply, treatment, distribution, sewage, desalination, and ultrapure water purification, ensuring reliable service.
+Learn More About Our Products
+Reliable Multi-Port and Custom Valves for Pharmaceutical Manufacturing Processes
+Pharmaceuticals & Biotechnology
+Bray provides innovative Valve Solutions to Pharmaceutical and Biotech Companies, enhancing efficiency and agility while reducing costs in a competitive landscape.
+Bray Pharma & Biotech Solutions
+Contact Us
+Request a Quote
+Back to Top
+;
+Connect with Your Local Sales Expert
+Clear
+Search
+Cancel
+Use My Location
+From valve automation to isolation, our solutions tackle the toughest flow control challenges with precision and innovation.
+Contact Us
+Nearby locations
+Products
+Butterfly Valves
+Ball Valves
+Knife Gate Valves
+Control Valves
+Check Valves
+Actuators
+Control Accessories
+Cryogenic
+Pinch Valves | Bray
+Solutions
+Industry
+Integrated Solutions
+Company
+About
+Locations
+Partnership
+Sustainability
+Customer Portal
+Follow Us
+LinkedIn
+Resources
+Documents
+Knowledge Center
+Software
+Materials Selection
+YouTube
+© 2026 Bray International, All RIghts Reserved
+Terms & Conditions
+Sales Terms & Conditions
+Privacy Policy

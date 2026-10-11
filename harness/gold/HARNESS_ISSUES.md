@@ -20,3 +20,33 @@ Most issues from the first pass were adopted on `main` (robots override, `refine
 4. **Sheet-only model lists vs the variant rule (resolved).** The SRH sheet lists "SRH1 SRH2 SRH3" with no page identifiers. Ved ruled that SPEC section 3 ("page or spec sheet") wins, so SRH has 3 variants. Open point for SPEC: say explicitly that accessory part numbers (e.g. bracket kits), part-numbering templates and single example part numbers are not variants.
 5. **`.gitignore` still does not ignore `harness/gold/*.evidence/files/`** (see sioux-chief #1). Excluded via `.git/info/exclude` on this branch.
 6. **No allowed_hosts change.** No cited image comes from `newbrayprod.azurewebsites.net`, so `config/sites.json` is unchanged.
+
+
+## cimberio (gold labelling, 2026-10-11)
+
+1. **allowed_hosts: added `store-herjth7887.mybigcommerce.com`.** The Resources page links the List Price Book (`/content/PL-Cimberio_V0016.2_LR.pdf`) on this host. It is Cimberio's own BigCommerce store host (same store hash `s-herjth7887` as the product CDN, and its home page redirects to cimberiovalve.us with the Cimberio title and canonical). Not a distributor. The same file (identical SHA-256) is also at `cimberiovalve.us/content/`, but the link on the site points to the store host, so gold cites that URL.
+2. **PDF glyph mapping in two Cimberio sheets.** TDS-746 and TDS-3739 use a subset VAGRounded font with no Unicode map for fractions: PyMuPDF returns `\x10` for ½, `\x11` for ¼, `\x13` for ¾, and MacRoman mojibake (`¡` for °, `¥` for •). The committed evidence text for these two PDFs applies this mapping (checked against page renders). Otherwise a quote such as `Sizes: 2½" - 8"` cannot be matched. The validator could map C0 control characters, or SPEC could allow a documented glyph map in evidence text.
+3. **`refines` heuristic warns on `material_body` for the 778 series** ("corrosion-resistant brass" on the page vs "DZR Brass ANSI C27453 or EN 12165 CW511L" on the sheet) and for 74PRSNL. Same issue as bray #2: alloy designations are narrower forms.
+4. **Variant prices come from a price-list PDF, not the product page.** Product pages show only "Request a Quote". Exact Cim No. rows in the linked List Price Book give a public `list` price (`availability=price_shown`, source = PDF page quote). SPEC 7 does not say which wins when the product page says request-a-quote but a public list price book prices the same SKU. Gold uses the price book, because it is a published price with an exact identifier match.
+5. **SPEC 5 page-count rule vs one-family technical data sheets.** TechDataSheet-778_v5 is titled "Technical Data Sheet" but is 8 pages and covers 14 models, so rule 2 makes it a `catalog`. That moves it below the product page in SPEC 6a precedence, and its values no longer take part in the cross-check.
+
+6. **Consistency pass (2026-10-11).** Two SPEC 6 clarifications added (`spec:` commits): standards spelling-only differences, and flange-only PN designations vs a stated working pressure. No harness or allowed_hosts change. Note: this file contains a stray merge-base marker line `||||||| e34e4bf` after the crane blind re-label section (left as is).
+
+## crane (gold labelling, 2026-10-11)
+
+1. **`config/sites.json`: no `allowed_hosts` change; `cad_viewer_hosts` added.** Every Crane PDF, image and CAD zip is served from `www.cranefs.com/app/uploads/`, so `allowed_hosts` stays `["www.cranefs.com"]`. The "BIM - ... Revit" download links go to the third-party BIM library bimstore (`www.bimstore.co`, `www.bimstore.co.uk`), which needs an account to download. These are not Crane hosts, so they were added to the crane `cad_viewer_hosts` (hosted CAD/BIM library, like partcommunity) and recorded as `cad_viewer`, `gated: true`. Consider adding bimstore to `global_cad_viewer_hosts`: other UK manufacturers use it too.
+2. **`market_flag` warning for a single-locale non-US site.** cranefs.com is a UK (en-GB) site with no locale prefix. Gold uses `non_na`; the validator warns "URL locale None suggests na" for all 15 families. A per-site default market (e.g. `market: non_na` in sites.json) would remove the false warning.
+3. **Grouped sheets that cover sibling families.** Many Crane sheets cover 2-3 figures that each have their own page (D102B/D103B/D104B, F611/F626, D931/D933/D934). SPEC 3 says variants are identifiers "on the page or in the family's spec sheet", which would make D102B a variant of D103B. Gold excludes identifiers that have their own family page (written into SPEC 3 in this branch).
+4. **Size lists for reducing fittings.** For reducing bushes (Fig. 140) the size is a pair ("1/2 x 1/8"). `size_range` min/max hold strings, so gold uses the larger end (1/2 .. 6) for `size_range` and keeps the full pairs in `sizes_available`. SPEC could state this.
+
+
+## crane (blind re-label)
+- config/sites.json: added `bimstore.co.uk` and `bimstore.co` to `global_cad_viewer_hosts` (Crane BIM/Revit links go to BIMstore; recorded as gated cad_viewer, never logged into).
+- validate.py market_flag check uses only the URL locale, so an en-GB-only site with no locale prefix WARNs "suggests na" even though SPEC 1 says en-GB -> non_na.
+
+
+## apollo (gold labelling, 2026-10-11)
+
+1. **Site blocked.** Every URL on `aalberts-ips.us` (incl. robots.txt and sitemap.xml) returns a LiteSpeed reCAPTCHA "Bot Verification" page, to the labeller's HTTP client and to a normal Chrome browser (visible image challenge), over 45 minutes of single, spaced retries. No answer key built; details and evidence in `apollo.ambiguities.md`. Apollo should be handled like Dixon (scraper expected to report it as blocked) until the site is reachable.
+2. **No gold form for a blocked site.** `validate --gold` errors when `family_index` is empty, so a blocked site cannot have a valid gold stub. `gold/apollo.json` was therefore not committed. Suggest either keeping blocked sites out of `gold/` (current Dixon practice) or accepting a stub with `site_profile.blocked: true` and no families, scored only on whether the agent reports the block.
+3. **No allowed_hosts change.** Nothing beyond the blocked pages and the `aalberts.compano.com` login redirect was reachable, so `config/sites.json` is unchanged.

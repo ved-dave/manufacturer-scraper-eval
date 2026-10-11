@@ -842,8 +842,8 @@
     },
     {
      "url": "https://www.bray.com/docs/default-source/brochures/product-brochures/manual-operators-srh-series-pb-en-us.pdf",
-     "doc_type": "brochure",
-     "priority": "secondary",
+     "doc_type": "spec_sheet",
+     "priority": "primary",
      "lang": "en",
      "title": "Manual Operators SRH Series",
      "sha256": "87ee17b787d075a55b9210746f53aa640f2c435844d9f0e774ff387776b06f60",
@@ -1013,6 +1013,24 @@
     "motor": "120 VAC: Single phase, reversible, permanent split capacitor induction motor"
    },
    "variants": [],
+   "family_prices": [
+    {
+     "amount": null,
+     "currency": null,
+     "price_type": null,
+     "availability": "request_quote",
+     "notes": "Family lists no identifiers, so there are no variants; the page's price status is recorded at family level (SPEC 7).",
+     "source": {
+      "url": "https://www.bray.com/valves-actuators-controls/actuators/electric-actuator/series-70-hazardous-location",
+      "type": "page",
+      "page": null,
+      "section": "product header",
+      "quote": "Request a Quote",
+      "snapshot_sha256": "3367b7d1b570b677633b5a2d58e909f08b9e812bd43dc416ea129f773a92eb44",
+      "retrieved_at": "2026-10-10T20:43:15Z"
+     }
+    }
+   ],
    "documents": [
     {
      "url": "https://www.bray.com/docs/default-source/brochures/product-brochures/en_vac_broc.pdf",
@@ -1029,7 +1047,7 @@
     },
     {
      "url": "https://www.bray.com/docs/default-source/brochures/product-brochures/en_b-1100_actuators-controls_web.pdf",
-     "doc_type": "brochure",
+     "doc_type": "catalog",
      "priority": "secondary",
      "lang": "en",
      "title": "Actuators & Controls",
@@ -1126,7 +1144,7 @@
      },
      "unit": "in",
      "raw_text": "¼ - 4\" (8mm - 100mm)",
-     "display_source": "page",
+     "display_source": "pdf",
      "cross_check": "agree",
      "sources": [
       {
@@ -1226,7 +1244,7 @@
      "value": "in",
      "unit": null,
      "raw_text": "¼ - 4\"",
-     "display_source": "page",
+     "display_source": "pdf",
      "cross_check": "agree",
      "sources": [
       {
@@ -1255,7 +1273,7 @@
      "value": "Stainless Steel, Carbon Steel",
      "unit": null,
      "raw_text": "Series 5000: Stainless Steel, Series 6000: Carbon Steel",
-     "display_source": "page",
+     "display_source": "pdf",
      "cross_check": "agree",
      "sources": [
       {
@@ -1294,7 +1312,7 @@
      "value": "316",
      "unit": null,
      "raw_text": "Stem Materials 316; Ball Materials 316",
-     "display_source": "page",
+     "display_source": "pdf",
      "cross_check": "agree",
      "sources": [
       {
@@ -1323,7 +1341,7 @@
      "value": "RPTFE",
      "unit": null,
      "raw_text": "Seat Materials RPTFE",
-     "display_source": "page",
+     "display_source": "pdf",
      "cross_check": "agree",
      "sources": [
       {
@@ -1374,7 +1392,7 @@
      ],
      "unit": null,
      "raw_text": "Threaded (ASME B1.20.1 NPT), Socket Weld (ASME B16.11)",
-     "display_source": "page",
+     "display_source": "pdf",
      "cross_check": "agree",
      "sources": [
       {
@@ -1413,7 +1431,7 @@
      "value": 1000,
      "unit": "psi",
      "raw_text": "½ - 2\" 1000 psi CWP (8 - 50mm 69 Bar)",
-     "display_source": "page",
+     "display_source": "pdf",
      "cross_check": "agree",
      "sources": [
       {
@@ -1446,7 +1464,7 @@
      },
      "unit": "F",
      "raw_text": "-50°F to 450°F (-46°C to 232°C)",
-     "display_source": "page",
+     "display_source": "pdf",
      "cross_check": "agree",
      "sources": [
       {
@@ -1473,117 +1491,108 @@
     },
     "standards": {
      "value": [
-      "ASME B16.34",
-      "MSS SP-72",
-      "API 598",
+      "MSS-SP 72",
       "ASME B1.20.1",
-      "ASME B16.11"
+      "ASME B16.11",
+      "ISO 5211"
      ],
      "unit": null,
-     "raw_text": "Design Standard ASME B16.34; Shutoff Rating MSS-SP 72; Testing Standard API 598",
-     "display_source": "page",
+     "raw_text": "brochure SPECIFICATIONS",
+     "display_source": "pdf",
      "cross_check": "conflict",
      "sources": [
       {
-       "url": "https://www.bray.com/valves-actuators-controls/ball-valves/3-piece-valves/series-5000-6000-ball-valve",
-       "type": "page",
-       "page": null,
-       "section": "Specifications tab",
+       "url": "https://www.bray.com/docs/default-source/brochures/product-brochures/three-piece-ball-valves-5000-6000-pb-en-us.pdf",
+       "type": "pdf",
+       "page": 2,
+       "section": null,
        "variant_sku": null,
-       "quote": "Design Standard ASME B16.34",
-       "snapshot_sha256": "a5e6cc39e269cb8cfb95d7825107921fbf6109d55917d7830ca8fbfc978200ec",
-       "retrieved_at": "2026-10-10T20:43:34Z"
+       "quote": "comply with, and are tested in",
+       "snapshot_sha256": "66a067ef6399fcb9ffc21e69d5a1e6cbf54e4e79ae65d13a87472a50f0bd6e3f",
+       "retrieved_at": null
       },
       {
-       "url": "https://www.bray.com/valves-actuators-controls/ball-valves/3-piece-valves/series-5000-6000-ball-valve",
-       "type": "page",
-       "page": null,
-       "section": "Specifications tab",
+       "url": "https://www.bray.com/docs/default-source/brochures/product-brochures/three-piece-ball-valves-5000-6000-pb-en-us.pdf",
+       "type": "pdf",
+       "page": 1,
+       "section": null,
        "variant_sku": null,
-       "quote": "Shutoff Rating MSS-SP 72",
-       "snapshot_sha256": "a5e6cc39e269cb8cfb95d7825107921fbf6109d55917d7830ca8fbfc978200ec",
-       "retrieved_at": "2026-10-10T20:43:34Z"
-      },
-      {
-       "url": "https://www.bray.com/valves-actuators-controls/ball-valves/3-piece-valves/series-5000-6000-ball-valve",
-       "type": "page",
-       "page": null,
-       "section": "Specifications tab",
-       "variant_sku": null,
-       "quote": "Testing Standard API 598",
-       "snapshot_sha256": "a5e6cc39e269cb8cfb95d7825107921fbf6109d55917d7830ca8fbfc978200ec",
-       "retrieved_at": "2026-10-10T20:43:34Z"
-      },
-      {
-       "url": "https://www.bray.com/valves-actuators-controls/ball-valves/3-piece-valves/series-5000-6000-ball-valve",
-       "type": "page",
-       "page": null,
-       "section": "Specifications tab",
-       "variant_sku": null,
-       "quote": "Threaded (ASME B1.20.1 NPT), Socket Weld (ASME B16.11)",
-       "snapshot_sha256": "a5e6cc39e269cb8cfb95d7825107921fbf6109d55917d7830ca8fbfc978200ec",
-       "retrieved_at": "2026-10-10T20:43:34Z"
+       "quote": "complying with ISO 5211",
+       "snapshot_sha256": "66a067ef6399fcb9ffc21e69d5a1e6cbf54e4e79ae65d13a87472a50f0bd6e3f",
+       "retrieved_at": null
       }
      ],
      "alt_values": [
       {
        "value": [
-        "MSS SP-72",
+        "ASME B16.34",
+        "MSS-SP 72",
+        "API 598",
         "ASME B1.20.1",
         "ASME B16.11",
         "ISO 5211"
        ],
        "unit": null,
-       "raw_text": "brochure SPECIFICATIONS",
+       "raw_text": "Design Standard ASME B16.34; Shutoff Rating MSS-SP 72; Testing Standard API 598",
        "sources": [
         {
-         "url": "https://www.bray.com/docs/default-source/brochures/product-brochures/three-piece-ball-valves-5000-6000-pb-en-us.pdf",
-         "type": "pdf",
-         "page": 2,
-         "section": null,
+         "url": "https://www.bray.com/valves-actuators-controls/ball-valves/3-piece-valves/series-5000-6000-ball-valve",
+         "type": "page",
+         "page": null,
+         "section": "Specifications tab",
          "variant_sku": null,
-         "quote": "comply with, and are tested in",
-         "snapshot_sha256": "66a067ef6399fcb9ffc21e69d5a1e6cbf54e4e79ae65d13a87472a50f0bd6e3f",
-         "retrieved_at": null
+         "quote": "Design Standard ASME B16.34",
+         "snapshot_sha256": "a5e6cc39e269cb8cfb95d7825107921fbf6109d55917d7830ca8fbfc978200ec",
+         "retrieved_at": "2026-10-10T20:43:34Z"
         },
         {
-         "url": "https://www.bray.com/docs/default-source/brochures/product-brochures/three-piece-ball-valves-5000-6000-pb-en-us.pdf",
-         "type": "pdf",
-         "page": 1,
-         "section": null,
+         "url": "https://www.bray.com/valves-actuators-controls/ball-valves/3-piece-valves/series-5000-6000-ball-valve",
+         "type": "page",
+         "page": null,
+         "section": "Specifications tab",
          "variant_sku": null,
-         "quote": "complying with ISO 5211",
-         "snapshot_sha256": "66a067ef6399fcb9ffc21e69d5a1e6cbf54e4e79ae65d13a87472a50f0bd6e3f",
-         "retrieved_at": null
+         "quote": "Shutoff Rating MSS-SP 72",
+         "snapshot_sha256": "a5e6cc39e269cb8cfb95d7825107921fbf6109d55917d7830ca8fbfc978200ec",
+         "retrieved_at": "2026-10-10T20:43:34Z"
+        },
+        {
+         "url": "https://www.bray.com/valves-actuators-controls/ball-valves/3-piece-valves/series-5000-6000-ball-valve",
+         "type": "page",
+         "page": null,
+         "section": "Specifications tab",
+         "variant_sku": null,
+         "quote": "Testing Standard API 598",
+         "snapshot_sha256": "a5e6cc39e269cb8cfb95d7825107921fbf6109d55917d7830ca8fbfc978200ec",
+         "retrieved_at": "2026-10-10T20:43:34Z"
+        },
+        {
+         "url": "https://www.bray.com/valves-actuators-controls/ball-valves/3-piece-valves/series-5000-6000-ball-valve",
+         "type": "page",
+         "page": null,
+         "section": "Specifications tab",
+         "variant_sku": null,
+         "quote": "Threaded (ASME B1.20.1 NPT), Socket Weld (ASME B16.11)",
+         "snapshot_sha256": "a5e6cc39e269cb8cfb95d7825107921fbf6109d55917d7830ca8fbfc978200ec",
+         "retrieved_at": "2026-10-10T20:43:34Z"
+        },
+        {
+         "url": "https://www.bray.com/valves-actuators-controls/ball-valves/3-piece-valves/series-5000-6000-ball-valve",
+         "type": "page",
+         "page": null,
+         "section": "Overview",
+         "variant_sku": null,
+         "quote": "integrally cast ISO 5211 mounting pad",
+         "snapshot_sha256": "a5e6cc39e269cb8cfb95d7825107921fbf6109d55917d7830ca8fbfc978200ec",
+         "retrieved_at": "2026-10-10T20:43:34Z"
         }
        ]
-      }
-     ]
-    },
-    "applications": {
-     "value": [
-      "industrial process"
-     ],
-     "unit": null,
-     "raw_text": "Process, OEM Equipment",
-     "display_source": "page",
-     "cross_check": "page_only",
-     "sources": [
-      {
-       "url": "https://www.bray.com/valves-actuators-controls/ball-valves/3-piece-valves/series-5000-6000-ball-valve",
-       "type": "page",
-       "page": null,
-       "section": "Specifications tab",
-       "variant_sku": null,
-       "quote": "Process, OEM Equipment",
-       "snapshot_sha256": "a5e6cc39e269cb8cfb95d7825107921fbf6109d55917d7830ca8fbfc978200ec",
-       "retrieved_at": "2026-10-10T20:43:34Z"
       }
      ]
     }
    },
    "additional_specs": {
     "applications_other": [
+     "Process",
      "OEM Equipment"
     ],
     "body_style": "Three Piece",
@@ -1592,10 +1601,28 @@
     "shutoff_rating": "MSS-SP 72"
    },
    "variants": [],
+   "family_prices": [
+    {
+     "amount": null,
+     "currency": null,
+     "price_type": null,
+     "availability": "request_quote",
+     "notes": "Family lists no identifiers, so there are no variants; the page's price status is recorded at family level (SPEC 7).",
+     "source": {
+      "url": "https://www.bray.com/valves-actuators-controls/ball-valves/3-piece-valves/series-5000-6000-ball-valve",
+      "type": "page",
+      "page": null,
+      "section": "product header",
+      "quote": "Request a Quote",
+      "snapshot_sha256": "a5e6cc39e269cb8cfb95d7825107921fbf6109d55917d7830ca8fbfc978200ec",
+      "retrieved_at": "2026-10-10T20:43:34Z"
+     }
+    }
+   ],
    "documents": [
     {
      "url": "https://www.bray.com/docs/default-source/brochures/product-brochures/en-bro-2101-ball-valve-overview-web.pdf",
-     "doc_type": "brochure",
+     "doc_type": "catalog",
      "priority": "secondary",
      "lang": "en",
      "title": "Ball Valve Overview",
@@ -1608,8 +1635,8 @@
     },
     {
      "url": "https://www.bray.com/docs/default-source/brochures/product-brochures/three-piece-ball-valves-5000-6000-pb-en-us.pdf",
-     "doc_type": "brochure",
-     "priority": "secondary",
+     "doc_type": "spec_sheet",
+     "priority": "primary",
      "lang": "en",
      "title": "Flow-Tek® Series 5000/6000 3 Piece Full Port Ball Valves",
      "sha256": "66a067ef6399fcb9ffc21e69d5a1e6cbf54e4e79ae65d13a87472a50f0bd6e3f",
@@ -1634,7 +1661,7 @@
     },
     {
      "url": "https://www.bray.com/docs/default-source/manuals-guides/selection-guides/part-number-selection-guide-5000-6000-sg-en-us.pdf",
-     "doc_type": "other_doc",
+     "doc_type": "catalog",
      "priority": "secondary",
      "lang": "en",
      "title": "Flow-Tek® Series 5000/6000 Part Numbering",
@@ -2139,7 +2166,9 @@
       "ASME B16.34",
       "API 598",
       "ASME B16.10",
-      "ISO 15848-2"
+      "ISO 15848-1",
+      "ISO 15848-2",
+      "ISO 5211"
      ],
      "unit": null,
      "raw_text": "Design Standard API 6D, ASME B16.34; Testing Standard API 598, API 6D; Face to Face ASME B16.10; Fugitive Emissions Standard ISO 15848-1, ISO 15848-2",
@@ -2185,6 +2214,16 @@
        "quote": "ISO 15848-1, ISO 15848-2",
        "snapshot_sha256": "aec382ff72f22684395a1eb29cde6c14b51f436c8964ebeae623109ab6c8c932",
        "retrieved_at": "2026-10-10T20:44:07Z"
+      },
+      {
+       "url": "https://www.bray.com/valves-actuators-controls/ball-valves/trunnion-mounted-valves/trunnion-mounted-ball-valve",
+       "type": "page",
+       "page": null,
+       "section": "Features",
+       "variant_sku": null,
+       "quote": "ISO 5211 Mounting Pad for Easy Automation",
+       "snapshot_sha256": "aec382ff72f22684395a1eb29cde6c14b51f436c8964ebeae623109ab6c8c932",
+       "retrieved_at": "2026-10-10T20:44:07Z"
       }
      ],
      "alt_values": [
@@ -2195,7 +2234,9 @@
         "PED 2014/68/EU",
         "ASME B16.5",
         "ASME B16.25",
-        "NACE MR0175"
+        "NACE MR-0175",
+        "ISO 5211",
+        "ISO 15848-1"
        ],
        "unit": null,
        "raw_text": "brochure STANDARDS & CERTIFICATIONS",
@@ -2237,6 +2278,26 @@
          "section": null,
          "variant_sku": null,
          "quote": "NACE MR-0175 Compatible",
+         "snapshot_sha256": "fa37b01d95331586a1e8c16d16bc2eb7c024e0adfeccb2e694ec14328aa441aa",
+         "retrieved_at": null
+        },
+        {
+         "url": "https://www.bray.com/docs/default-source/brochures/product-brochures/en_f-2811_trunnion-mbvalve_web.pdf",
+         "type": "pdf",
+         "page": 2,
+         "section": null,
+         "variant_sku": null,
+         "quote": "ISO 5211 Mounting Pad",
+         "snapshot_sha256": "fa37b01d95331586a1e8c16d16bc2eb7c024e0adfeccb2e694ec14328aa441aa",
+         "retrieved_at": null
+        },
+        {
+         "url": "https://www.bray.com/docs/default-source/brochures/product-brochures/en_f-2811_trunnion-mbvalve_web.pdf",
+         "type": "pdf",
+         "page": 2,
+         "section": "Fugitive Emissions",
+         "variant_sku": null,
+         "quote": "ISO 15848-1",
          "snapshot_sha256": "fa37b01d95331586a1e8c16d16bc2eb7c024e0adfeccb2e694ec14328aa441aa",
          "retrieved_at": null
         }
@@ -2297,11 +2358,29 @@
     "ports": "Full"
    },
    "variants": [],
+   "family_prices": [
+    {
+     "amount": null,
+     "currency": null,
+     "price_type": null,
+     "availability": "request_quote",
+     "notes": "Family lists no identifiers, so there are no variants; the page's price status is recorded at family level (SPEC 7).",
+     "source": {
+      "url": "https://www.bray.com/valves-actuators-controls/ball-valves/trunnion-mounted-valves/trunnion-mounted-ball-valve",
+      "type": "page",
+      "page": null,
+      "section": "product header",
+      "quote": "Request a Quote",
+      "snapshot_sha256": "aec382ff72f22684395a1eb29cde6c14b51f436c8964ebeae623109ab6c8c932",
+      "retrieved_at": "2026-10-10T20:44:07Z"
+     }
+    }
+   ],
    "documents": [
     {
      "url": "https://www.bray.com/docs/default-source/specifications/datasheets/en_sds_hipps_trilok_trunnion.pdf",
-     "doc_type": "spec_sheet",
-     "priority": "primary",
+     "doc_type": "brochure",
+     "priority": "secondary",
      "lang": "en",
      "title": "HIPPS-Compliant Fast-Acting Valve Solutions",
      "sha256": "f87cf5c41384a724e5375a80a12662020b893304f900b03c878324eef78e9823",
@@ -2352,7 +2431,7 @@
     },
     {
      "url": "https://www.bray.com/docs/default-source/manuals-guides/safety-manuals/en_sm_series-1b-tmbv.pdf",
-     "doc_type": "other_doc",
+     "doc_type": "iom_manual",
      "priority": "secondary",
      "lang": "en",
      "title": "Series 1B Trunnion Mounted Ball Valve",
@@ -2611,6 +2690,24 @@
     "visual_display": "High Visibility Indicator | Beacon Color Options: Red/Yellow (Standard), Red/Green, Black/Yellow, Red/Green Inverse"
    },
    "variants": [],
+   "family_prices": [
+    {
+     "amount": null,
+     "currency": null,
+     "price_type": null,
+     "availability": "request_quote",
+     "notes": "Family lists no identifiers, so there are no variants; the page's price status is recorded at family level (SPEC 7).",
+     "source": {
+      "url": "https://www.bray.com/valves-actuators-controls/control-accessories/switch-boxes/series-5b-switch-box",
+      "type": "page",
+      "page": null,
+      "section": "product header",
+      "quote": "Request a Quote",
+      "snapshot_sha256": "0f60fa008fdd7af905440a41c03d3a1b2397174e124765a098902fbd0a893fa9",
+      "retrieved_at": "2026-10-10T20:45:17Z"
+     }
+    }
+   ],
    "documents": [
     {
      "url": "https://www.bray.com/docs/default-source/brochures/product-brochures/switchbox-series-5a-b-c/b-1068-s5a-5b-5c-vsm-rev_compressed.pdf",
@@ -2718,7 +2815,7 @@
     },
     {
      "url": "https://www.bray.com/docs/default-source/manuals-guides/selection-guides/intriniscally-safe-product-selection.pdf",
-     "doc_type": "other_doc",
+     "doc_type": "catalog",
      "priority": "secondary",
      "lang": "en",
      "title": "Intriniscally Safe Reference Guide",
@@ -2731,7 +2828,7 @@
     },
     {
      "url": "https://www.bray.com/docs/default-source/manuals-guides/safety-manuals/en_sm_1007_5-abc-vsm_safety-manual.pdf",
-     "doc_type": "other_doc",
+     "doc_type": "iom_manual",
      "priority": "secondary",
      "lang": "en",
      "title": "Series 5A, 5B and 5C Switch Boxes",
@@ -2744,8 +2841,8 @@
     },
     {
      "url": "https://www.bray.com/docs/default-source/manuals-guides/technical-manuals/tm-1093_5bc_vsm_commpro.pdf",
-     "doc_type": "other_doc",
-     "priority": "secondary",
+     "doc_type": "spec_sheet",
+     "priority": "primary",
      "lang": "en",
      "title": "Series 5B/5C CommPro",
      "sha256": "fa9510b0c014f7a2fffbe4f17f9263eae2f29fe34037a3672a7451939e6e16ee",
@@ -2796,6 +2893,14 @@
      "width": 1809,
      "height": 1416,
      "phash": "f0e79e82a7989887",
+     "found_on": "https://www.bray.com/valves-actuators-controls/control-accessories/switch-boxes/series-5b-switch-box"
+    },
+    {
+     "url": "https://www.bray.com/images/default-source/products/controls/s5b/2025_s5b-topstemsea1cut180logo2.webp",
+     "image_type": "product_photo",
+     "width": 2000,
+     "height": 1600,
+     "phash": "f1318e4e3cac66b2",
      "found_on": "https://www.bray.com/valves-actuators-controls/control-accessories/switch-boxes/series-5b-switch-box"
     }
    ],
@@ -3376,6 +3481,24 @@
     "flange_drilling": "ASME B16.1 Class 125, ASME B16.5 Class 150, EN 1092 PN 10"
    },
    "variants": [],
+   "family_prices": [
+    {
+     "amount": null,
+     "currency": null,
+     "price_type": null,
+     "availability": "request_quote",
+     "notes": "Family lists no identifiers, so there are no variants; the page's price status is recorded at family level (SPEC 7).",
+     "source": {
+      "url": "https://www.bray.com/valves-actuators-controls/butterfly-valves/resilient-seated/series-20-21-resilient-seated-butterfly-valve",
+      "type": "page",
+      "page": null,
+      "section": "product header",
+      "quote": "Request a Quote",
+      "snapshot_sha256": "b3207f27cc1c694f28d5b52eb6d702e30173187602b47eafa362756f6658616d",
+      "retrieved_at": "2026-10-10T20:44:23Z"
+     }
+    }
+   ],
    "documents": [
     {
      "url": "https://www.bray.com/docs/default-source/manuals-guides/technical-manuals/tm-1050_resilient.pdf",
@@ -3392,7 +3515,7 @@
     },
     {
      "url": "https://www.bray.com/docs/default-source/brochures/product-brochures/en_b-1050_rsb_valves_web.pdf",
-     "doc_type": "brochure",
+     "doc_type": "catalog",
      "priority": "secondary",
      "lang": "en",
      "title": "Resilient Seated Butterfly Valves",
@@ -3470,7 +3593,7 @@
     },
     {
      "url": "https://www.bray.com/docs/default-source/manuals-guides/safety-manuals/sm-1002_resilient-safety-manual.pdf",
-     "doc_type": "other_doc",
+     "doc_type": "iom_manual",
      "priority": "secondary",
      "lang": "en",
      "title": "Resilient Seated Butterfly Valves",
@@ -3828,8 +3951,8 @@
      ]
     },
     "pressure_rating": {
-     "value": "ASME Class 150, 300, 600, 900",
-     "unit": null,
+     "value": 150,
+     "unit": "bar",
      "raw_text": "Pressure Rating ASME Class 150, 300, 600, 900 PN10 to PN150",
      "display_source": "pdf",
      "cross_check": "agree",
@@ -3845,12 +3968,32 @@
        "retrieved_at": null
       },
       {
+       "url": "https://www.bray.com/docs/default-source/specifications/datasheets/en_sds_trilok.pdf",
+       "type": "pdf",
+       "page": 1,
+       "section": null,
+       "variant_sku": null,
+       "quote": "PN10 to PN150",
+       "snapshot_sha256": "6929f3848ecc100952328a0ed17eb53f27f37ed0992421dbf71243d86159d535",
+       "retrieved_at": null
+      },
+      {
        "url": "https://www.bray.com/valves-actuators-controls/butterfly-valves/triple-offset-butterfly-valves/tri-lok-triple-offset-butterfly-valve",
        "type": "page",
        "page": null,
        "section": "Specifications tab",
        "variant_sku": null,
        "quote": "ASME Class 150, 300, 600, 900",
+       "snapshot_sha256": "e0d3fa1cf390a0f8464836388e5b05f86ebefb56a96995d8853546492f75d825",
+       "retrieved_at": "2026-10-10T20:44:39Z"
+      },
+      {
+       "url": "https://www.bray.com/valves-actuators-controls/butterfly-valves/triple-offset-butterfly-valves/tri-lok-triple-offset-butterfly-valve",
+       "type": "page",
+       "page": null,
+       "section": "Specifications tab",
+       "variant_sku": null,
+       "quote": "EN 1092 PN 10, 16, 25, 40, 63, 100, 150",
        "snapshot_sha256": "e0d3fa1cf390a0f8464836388e5b05f86ebefb56a96995d8853546492f75d825",
        "retrieved_at": "2026-10-10T20:44:39Z"
       }
@@ -3978,7 +4121,7 @@
       "EN 1092-1",
       "ISO 7005",
       "ISO 5208",
-      "EN 12266-1",
+      "EN12266-1",
       "API 6D",
       "API 598",
       "BS 6755",
@@ -3994,7 +4137,7 @@
      "unit": null,
      "raw_text": "DESIGN STANDARDS (sheet)",
      "display_source": "pdf",
-     "cross_check": "conflict",
+     "cross_check": "refines",
      "sources": [
       {
        "url": "https://www.bray.com/docs/default-source/specifications/datasheets/en_sds_trilok.pdf",
@@ -4069,7 +4212,7 @@
         "EN 1092",
         "ISO 7005",
         "ISO 5208",
-        "EN 12266-1",
+        "EN12266-1",
         "API 6D",
         "API 598",
         "BS 6755",
@@ -4242,11 +4385,29 @@
     "pressure_rating_en": "EN 1092 PN 10, 16, 25, 40, 63, 100, 150"
    },
    "variants": [],
+   "family_prices": [
+    {
+     "amount": null,
+     "currency": null,
+     "price_type": null,
+     "availability": "request_quote",
+     "notes": "Family lists no identifiers, so there are no variants; the page's price status is recorded at family level (SPEC 7).",
+     "source": {
+      "url": "https://www.bray.com/valves-actuators-controls/butterfly-valves/triple-offset-butterfly-valves/tri-lok-triple-offset-butterfly-valve",
+      "type": "page",
+      "page": null,
+      "section": "product header",
+      "quote": "Request a Quote",
+      "snapshot_sha256": "e0d3fa1cf390a0f8464836388e5b05f86ebefb56a96995d8853546492f75d825",
+      "retrieved_at": "2026-10-10T20:44:39Z"
+     }
+    }
+   ],
    "documents": [
     {
      "url": "https://www.bray.com/docs/default-source/specifications/datasheets/en_sds_hipps_trilok_trunnion.pdf",
-     "doc_type": "spec_sheet",
-     "priority": "primary",
+     "doc_type": "brochure",
+     "priority": "secondary",
      "lang": "en",
      "title": "HIPPS-Compliant Fast-Acting Valve Solutions",
      "sha256": "f87cf5c41384a724e5375a80a12662020b893304f900b03c878324eef78e9823",
@@ -4414,7 +4575,7 @@
     },
     {
      "url": "https://www.bray.com/docs/default-source/manuals-guides/safety-manuals/tri-lok-triple-offset-butterfly-valve-safety-manual.pdf",
-     "doc_type": "other_doc",
+     "doc_type": "iom_manual",
      "priority": "secondary",
      "lang": "en",
      "title": "Triple Offset Butterfly Valves Tri Lok®",
@@ -4990,6 +5151,24 @@
     "flange_drilling": "ASME B16.1 Class 125, ASME B16.5 Class 150, EN 1092 PN 10, 16"
    },
    "variants": [],
+   "family_prices": [
+    {
+     "amount": null,
+     "currency": null,
+     "price_type": null,
+     "availability": "request_quote",
+     "notes": "Family lists no identifiers, so there are no variants; the page's price status is recorded at family level (SPEC 7).",
+     "source": {
+      "url": "https://www.bray.com/valves-actuators-controls/butterfly-valves/lined/series-22-23-resilient-seated-butterfly-valve",
+      "type": "page",
+      "page": null,
+      "section": "product header",
+      "quote": "Request a Quote",
+      "snapshot_sha256": "43b6d5090e9151224b4c69f7d708eab4812ecd110444bb2f9e3cc3d27f688b3f",
+      "retrieved_at": "2026-10-10T20:44:17Z"
+     }
+    }
+   ],
    "documents": [
     {
      "url": "https://www.bray.com/docs/default-source/manuals-guides/technical-manuals/tm-1050_resilient.pdf",
@@ -5006,7 +5185,7 @@
     },
     {
      "url": "https://www.bray.com/docs/default-source/brochures/product-brochures/en_b-1050_rsb_valves_web.pdf",
-     "doc_type": "brochure",
+     "doc_type": "catalog",
      "priority": "secondary",
      "lang": "en",
      "title": "Resilient Seated Butterfly Valves",
@@ -5071,7 +5250,7 @@
     },
     {
      "url": "https://www.bray.com/docs/default-source/manuals-guides/safety-manuals/sm-1002_resilient-safety-manual.pdf",
-     "doc_type": "other_doc",
+     "doc_type": "iom_manual",
      "priority": "secondary",
      "lang": "en",
      "title": "Resilient Seated Butterfly Valves",
@@ -5355,11 +5534,11 @@
      ]
     },
     "pressure_rating": {
-     "value": "ASME (125, 150, 300), DIN (PN10, 16, 25, 40)",
-     "unit": null,
+     "value": 40,
+     "unit": "bar",
      "raw_text": "Operating Pressure ASME (125, 150, 300) DIN (PN10, 16, 25, 40)",
      "display_source": "pdf",
-     "cross_check": "conflict",
+     "cross_check": "agree",
      "sources": [
       {
        "url": "https://www.bray.com/docs/default-source/specifications/datasheets/en_sds_s210_srhs.pdf",
@@ -5380,25 +5559,16 @@
        "quote": "DIN (PN10, 16, 25, 40)",
        "snapshot_sha256": "f09022d7e2f75d26f1980aa5efcbe00ebf18769ca2c040988a1d97102e8f74f0",
        "retrieved_at": null
-      }
-     ],
-     "alt_values": [
+      },
       {
-       "value": "API 594 (150, 300, 600, 900, 1500, 2500) | ASME (125, 150, 300) | PN (10, 16, 25, 40)",
-       "unit": null,
-       "raw_text": "API 594 (150, 300, 600, 900, 1500, 2500) | ASME (125, 150, 300) | PN (10, 16, 25, 40)",
-       "sources": [
-        {
-         "url": "https://www.bray.com/valves-actuators-controls/check-valves/check-valve/single-door-check-valve",
-         "type": "page",
-         "page": null,
-         "section": "Specifications tab",
-         "variant_sku": null,
-         "quote": "API 594 (150, 300, 600, 900, 1500, 2500)",
-         "snapshot_sha256": "08e897de856152ffadc53a88c74a9910826c50dda3e40bf2b2d0ba6b6d121ee6",
-         "retrieved_at": "2026-10-10T20:44:56Z"
-        }
-       ]
+       "url": "https://www.bray.com/valves-actuators-controls/check-valves/check-valve/single-door-check-valve",
+       "type": "page",
+       "page": null,
+       "section": "Specifications tab",
+       "variant_sku": null,
+       "quote": "PN (10, 16, 25, 40)",
+       "snapshot_sha256": "08e897de856152ffadc53a88c74a9910826c50dda3e40bf2b2d0ba6b6d121ee6",
+       "retrieved_at": "2026-10-10T20:44:56Z"
       }
      ]
     },
@@ -6338,68 +6508,26 @@
     "compatibility": "Bray 205, 210, or 211 Series",
     "temperature_range_text": "Pending Materials Selected",
     "operating_pressure_text": "Pending Pressure Class Selected",
-    "seal_bushing": "Stainless Steel (ASTM A479 316)"
+    "seal_bushing": "Stainless Steel (ASTM A479 316)",
+    "models": "205, 211, 212"
    },
-   "variants": [
+   "variants": [],
+   "family_prices": [
     {
-     "sku": "205",
-     "size": null,
-     "page_url": "https://www.bray.com/valves-actuators-controls/check-valves/check-valve-accessories/sa-16-check-valve-accessory",
-     "prices": [
-      {
-       "availability": "request_quote",
-       "source": {
-        "url": "https://www.bray.com/valves-actuators-controls/check-valves/check-valve-accessories/sa-16-check-valve-accessory",
-        "type": "page",
-        "page": null,
-        "section": "Product header",
-        "variant_sku": null,
-        "quote": "Request a Quote",
-        "snapshot_sha256": "834dfbe7685bf27a63477b41e5399b437a84f1849eac1ac691e89e04e270eeab",
-        "retrieved_at": "2026-10-10T20:44:47Z"
-       }
-      }
-     ]
-    },
-    {
-     "sku": "211",
-     "size": null,
-     "page_url": "https://www.bray.com/valves-actuators-controls/check-valves/check-valve-accessories/sa-16-check-valve-accessory",
-     "prices": [
-      {
-       "availability": "request_quote",
-       "source": {
-        "url": "https://www.bray.com/valves-actuators-controls/check-valves/check-valve-accessories/sa-16-check-valve-accessory",
-        "type": "page",
-        "page": null,
-        "section": "Product header",
-        "variant_sku": null,
-        "quote": "Request a Quote",
-        "snapshot_sha256": "834dfbe7685bf27a63477b41e5399b437a84f1849eac1ac691e89e04e270eeab",
-        "retrieved_at": "2026-10-10T20:44:47Z"
-       }
-      }
-     ]
-    },
-    {
-     "sku": "212",
-     "size": null,
-     "page_url": "https://www.bray.com/valves-actuators-controls/check-valves/check-valve-accessories/sa-16-check-valve-accessory",
-     "prices": [
-      {
-       "availability": "request_quote",
-       "source": {
-        "url": "https://www.bray.com/valves-actuators-controls/check-valves/check-valve-accessories/sa-16-check-valve-accessory",
-        "type": "page",
-        "page": null,
-        "section": "Product header",
-        "variant_sku": null,
-        "quote": "Request a Quote",
-        "snapshot_sha256": "834dfbe7685bf27a63477b41e5399b437a84f1849eac1ac691e89e04e270eeab",
-        "retrieved_at": "2026-10-10T20:44:47Z"
-       }
-      }
-     ]
+     "amount": null,
+     "currency": null,
+     "price_type": null,
+     "availability": "request_quote",
+     "notes": "Models 205, 211, 212 are single-door check valve models (their own family page), so this accessory has no variants; its price status is recorded at family level (SPEC 7).",
+     "source": {
+      "url": "https://www.bray.com/valves-actuators-controls/check-valves/check-valve-accessories/sa-16-check-valve-accessory",
+      "type": "page",
+      "page": null,
+      "section": "Product header",
+      "quote": "Request a Quote",
+      "snapshot_sha256": "834dfbe7685bf27a63477b41e5399b437a84f1849eac1ac691e89e04e270eeab",
+      "retrieved_at": "2026-10-10T20:44:47Z"
+     }
     }
    ],
    "documents": [
@@ -6655,6 +6783,24 @@
     "visual_display": "High Visibility Indicator | Beacon Color Options: Red/Yellow (Standard), Red/Green, Black/Yellow, Red/Green Inverse"
    },
    "variants": [],
+   "family_prices": [
+    {
+     "amount": null,
+     "currency": null,
+     "price_type": null,
+     "availability": "request_quote",
+     "notes": "Family lists no identifiers, so there are no variants; the page's price status is recorded at family level (SPEC 7).",
+     "source": {
+      "url": "https://www.bray.com/valves-actuators-controls/control-accessories/switch-boxes/series-5a-switch-box",
+      "type": "page",
+      "page": null,
+      "section": "product header",
+      "quote": "Request a Quote",
+      "snapshot_sha256": "84ef1e69f42e1c3336965bf6363fcd7093b454b95ab6b8b25c6d535a695193f6",
+      "retrieved_at": "2026-10-10T20:45:14Z"
+     }
+    }
+   ],
    "documents": [
     {
      "url": "https://www.bray.com/docs/default-source/manuals-guides/technical-manuals/tm-1090_5a_aluminum.pdf",
@@ -6736,7 +6882,7 @@
     },
     {
      "url": "https://www.bray.com/docs/default-source/manuals-guides/selection-guides/intriniscally-safe-product-selection.pdf",
-     "doc_type": "other_doc",
+     "doc_type": "catalog",
      "priority": "secondary",
      "lang": "en",
      "title": "Intriniscally Safe Reference Guide",
@@ -6749,7 +6895,7 @@
     },
     {
      "url": "https://www.bray.com/docs/default-source/manuals-guides/safety-manuals/en_sm_1007_5-abc-vsm_safety-manual.pdf",
-     "doc_type": "other_doc",
+     "doc_type": "iom_manual",
      "priority": "secondary",
      "lang": "en",
      "title": "Series 5A, 5B and 5C Switch Boxes",
@@ -7031,6 +7177,24 @@
     "visual_display": "High Visibility Indicator | Beacon Color Options: Red/Yellow (Standard), Red/Green, Black/Yellow, Red/Green Inverse"
    },
    "variants": [],
+   "family_prices": [
+    {
+     "amount": null,
+     "currency": null,
+     "price_type": null,
+     "availability": "request_quote",
+     "notes": "Family lists no identifiers, so there are no variants; the page's price status is recorded at family level (SPEC 7).",
+     "source": {
+      "url": "https://www.bray.com/valves-actuators-controls/control-accessories/switch-boxes/series-5b-resin-switch-box",
+      "type": "page",
+      "page": null,
+      "section": "product header",
+      "quote": "Request a Quote",
+      "snapshot_sha256": "8248476c39c755c0b92e7e14a4f5a5ec0852aba48a2089f3b40f7b3fb72e7e7b",
+      "retrieved_at": "2026-10-10T20:45:16Z"
+     }
+    }
+   ],
    "documents": [
     {
      "url": "https://www.bray.com/docs/default-source/manuals-guides/technical-manuals/tm-1095_5b_resin.pdf",
@@ -7151,7 +7315,7 @@
     },
     {
      "url": "https://www.bray.com/docs/default-source/manuals-guides/selection-guides/intriniscally-safe-product-selection.pdf",
-     "doc_type": "other_doc",
+     "doc_type": "catalog",
      "priority": "secondary",
      "lang": "en",
      "title": "Intriniscally Safe Reference Guide",
@@ -7164,7 +7328,7 @@
     },
     {
      "url": "https://www.bray.com/docs/default-source/manuals-guides/safety-manuals/en_sm_1007_5-abc-vsm_safety-manual.pdf",
-     "doc_type": "other_doc",
+     "doc_type": "iom_manual",
      "priority": "secondary",
      "lang": "en",
      "title": "Series 5A, 5B and 5C Switch Boxes",
@@ -7177,8 +7341,8 @@
     },
     {
      "url": "https://www.bray.com/docs/default-source/manuals-guides/technical-manuals/tm-1093_5bc_vsm_commpro.pdf",
-     "doc_type": "other_doc",
-     "priority": "secondary",
+     "doc_type": "spec_sheet",
+     "priority": "primary",
      "lang": "en",
      "title": "Series 5B/5C CommPro",
      "sha256": "fa9510b0c014f7a2fffbe4f17f9263eae2f29fe34037a3672a7451939e6e16ee",
@@ -7224,6 +7388,14 @@
      "width": 640,
      "height": 505,
      "phash": "be39d0c8ccc4c9e3",
+     "found_on": "https://www.bray.com/valves-actuators-controls/control-accessories/switch-boxes/series-5b-resin-switch-box"
+    },
+    {
+     "url": "https://www.bray.com/images/default-source/products/controls/s5a-resin/s5a-s5b-indicators-min.png",
+     "image_type": "product_photo",
+     "width": 1920,
+     "height": 960,
+     "phash": "aa6c751a55f78a0a",
      "found_on": "https://www.bray.com/valves-actuators-controls/control-accessories/switch-boxes/series-5b-resin-switch-box"
     }
    ],
@@ -7378,11 +7550,11 @@
      ]
     },
     "pressure_rating": {
-     "value": "PN 10, PN 25, PN 40",
-     "unit": null,
+     "value": 40,
+     "unit": "bar",
      "raw_text": "Pressure Rating PN 10, PN 25, PN 40",
      "display_source": "pdf",
-     "cross_check": "conflict",
+     "cross_check": "agree",
      "sources": [
       {
        "url": "https://www.bray.com/docs/default-source/specifications/datasheets/en_eu_sds_trilok-cx.pdf",
@@ -7393,25 +7565,16 @@
        "quote": "Pressure Rating PN 10, PN 25, PN 40",
        "snapshot_sha256": "725ded876df70439f4769b1fdc365180eab8479cee7f92925bd1151a700b5f69",
        "retrieved_at": null
-      }
-     ],
-     "alt_values": [
+      },
       {
-       "value": 40,
-       "unit": "bar",
-       "raw_text": "Maximum Allowable Operating Pressure 40 bar",
-       "sources": [
-        {
-         "url": "https://www.bray.com/cx-line/tri-lok-cx-triple-offset-butterfly-valve",
-         "type": "page",
-         "page": null,
-         "section": "Specifications tab",
-         "variant_sku": null,
-         "quote": "40 bar",
-         "snapshot_sha256": "f913ef3afb1b274f4da2725cabf974604abbc38e3f7faf4fedb639ac814877be",
-         "retrieved_at": "2026-10-10T20:50:33Z"
-        }
-       ]
+       "url": "https://www.bray.com/cx-line/tri-lok-cx-triple-offset-butterfly-valve",
+       "type": "page",
+       "page": null,
+       "section": "Specifications tab",
+       "variant_sku": null,
+       "quote": "40 bar",
+       "snapshot_sha256": "f913ef3afb1b274f4da2725cabf974604abbc38e3f7faf4fedb639ac814877be",
+       "retrieved_at": "2026-10-10T20:50:33Z"
       }
      ]
     },
@@ -8001,6 +8164,24 @@
     "machinery_directive": "2006/42/EC"
    },
    "variants": [],
+   "family_prices": [
+    {
+     "amount": null,
+     "currency": null,
+     "price_type": null,
+     "availability": "request_quote",
+     "notes": "Family lists no identifiers, so there are no variants; the page's price status is recorded at family level (SPEC 7).",
+     "source": {
+      "url": "https://www.bray.com/cx-line/tri-lok-cx-triple-offset-butterfly-valve",
+      "type": "page",
+      "page": null,
+      "section": "product header",
+      "quote": "Request a Quote",
+      "snapshot_sha256": "f913ef3afb1b274f4da2725cabf974604abbc38e3f7faf4fedb639ac814877be",
+      "retrieved_at": "2026-10-10T20:50:33Z"
+     }
+    }
+   ],
    "documents": [
     {
      "url": "https://www.bray.com/docs/default-source/specifications/datasheets/en_eu_sds_trilok-cx.pdf",
@@ -8030,7 +8211,7 @@
     },
     {
      "url": "https://www.bray.com/docs/default-source/brochures/product-brochures/en_ovw_cxline_.pdf",
-     "doc_type": "brochure",
+     "doc_type": "catalog",
      "priority": "secondary",
      "lang": "en",
      "title": "Cx Line Our Element",
@@ -8521,7 +8702,6 @@
     "applications": {
      "value": [
       "mining",
-      "power generation",
       "chemical"
      ],
      "unit": null,
@@ -8555,7 +8735,6 @@
        "value": [
         "wastewater",
         "mining",
-        "power generation",
         "chemical"
        ],
        "unit": null,
@@ -8578,6 +8757,7 @@
    },
    "additional_specs": {
     "applications_other": [
+     "Power",
      "Petrochemical",
      "Mineral Processing",
      "Process & Pump Isolation",
@@ -8599,6 +8779,24 @@
     "flange_drilling": "ASME B16.5 CL150, AS Table D & E, DIN-10 & 16, SANS T1000/3, SANS T1600/3"
    },
    "variants": [],
+   "family_prices": [
+    {
+     "amount": null,
+     "currency": null,
+     "price_type": null,
+     "availability": "request_quote",
+     "notes": "Family lists no identifiers, so there are no variants; the page's price status is recorded at family level (SPEC 7).",
+     "source": {
+      "url": "https://www.bray.com/valves-actuators-controls/knife-gate-valves/bidirectional/series-746hp-knife-gate-valve",
+      "type": "page",
+      "page": null,
+      "section": "product header",
+      "quote": "Request a Quote",
+      "snapshot_sha256": "85b068509da6f7ddfd8957c28d4e9a5aa1efb51bff6f1666dd9da7d1aeb816ba",
+      "retrieved_at": "2026-10-10T20:45:25Z"
+     }
+    }
+   ],
    "documents": [
     {
      "url": "https://www.bray.com/docs/default-source/specifications/datasheets/en_sds_746hp.pdf",
@@ -8628,7 +8826,7 @@
     },
     {
      "url": "https://www.bray.com/docs/default-source/brochures/product-brochures/en-b-1102-kgv-product-guide-web.pdf",
-     "doc_type": "brochure",
+     "doc_type": "catalog",
      "priority": "secondary",
      "lang": "en",
      "title": "Knife Gate And Slurry Valves Product Guide",
@@ -9131,6 +9329,24 @@
     "vortex_breaker": "Hi-Chrome"
    },
    "variants": [],
+   "family_prices": [
+    {
+     "amount": null,
+     "currency": null,
+     "price_type": null,
+     "availability": "request_quote",
+     "notes": "Family lists no identifiers, so there are no variants; the page's price status is recorded at family level (SPEC 7).",
+     "source": {
+      "url": "https://www.bray.com/valves-actuators-controls/knife-gate-valves/unidirectional/series-942-knife-gate-valve",
+      "type": "page",
+      "page": null,
+      "section": "product header",
+      "quote": "Request a Quote",
+      "snapshot_sha256": "67c04aa5a52faa8cc6004eddb697812cdf0899996cf265bfdd81efec66ad6b19",
+      "retrieved_at": "2026-10-10T20:45:39Z"
+     }
+    }
+   ],
    "documents": [
     {
      "url": "https://www.bray.com/docs/default-source/specifications/datasheets/en_sds_942.pdf",

@@ -31,10 +31,11 @@ MAX_BYTES = {'html': 10_000_000, 'pdf': 40_000_000, 'zip': 60_000_000, 'image': 
 TEMPLATE_SAMPLE_PAGES = 4         # pages fetched per URL template to decide if it is a product template
 MIN_TEMPLATE_URLS = 2
 PRODUCT_SCORE_THRESHOLD = 4.0
-MAX_PDFS_PER_FAMILY = 10
+MAX_PDFS_PER_FAMILY = 30
 MAX_IMAGES_PER_FAMILY = 12
 PHASH_SAME_IMAGE = 2           # renditions of one image; sibling-SKU photos are usually 4+ apart
 PDF_TEXT_PAGES = 8
+PDF_PARSE_MEM_BYTES = 64_000_000   # in-memory cap for parsed PDF results (the rest stays on disk)
 CHROME_SHARE = 0.20               # asset on more than this share of product pages = site chrome
 CHROME_MIN_PAGES = 5
 

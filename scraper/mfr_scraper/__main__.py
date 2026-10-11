@@ -1,9 +1,9 @@
 """CLI.
 
-    python -m mfr_scraper run --site bray --limit 10          # quick dev run (evenly spaced sample)
-    python -m mfr_scraper run --site bray                     # full site
-    python -m mfr_scraper run --site bray --url <product-url> # specific pages
-    python -m mfr_scraper discover --site bray                # templates + product URL count only
+    python -m mfr_scraper run --site <site> --limit 10       # quick dev run (evenly spaced sample)
+    python -m mfr_scraper run --site <site>                   # full site
+    python -m mfr_scraper run --site <site> --url <product-url> # specific pages
+    python -m mfr_scraper discover --site <site>              # templates + product URL count only
 
 Sites in the test/challenge splits are held out: running on them requires --allow-holdout,
 which should only be used for final evaluation, never while tuning the scraper.
@@ -14,6 +14,11 @@ import sys
 
 from .pipeline import SiteRun, write_outputs
 from .settings import HOLDOUT_SPLITS, RUNS_DIR, site_config
+
+
+def peak_rss_mb():
+    import resource
+    return resource.getrusage(resource.RUSAGE_SELF).ru_maxrss / 1024   # Linux reports KiB
 
 
 def main(argv=None):
@@ -51,6 +56,8 @@ def main(argv=None):
     print(json.dumps(run['coverage'], indent=2))
     for f in run['flags']:
         print('  flag:', f)
+    print('parsed-pdf cache:', json.dumps(runner.pdf_cache.stats))
+    print(f'peak memory: {peak_rss_mb():.0f} MB')
     return 0
 
 

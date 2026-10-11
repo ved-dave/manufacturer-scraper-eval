@@ -119,7 +119,7 @@ def score_labelled(gold, pred_fams):
     conflict = {'tp': 0, 'fn': 0, 'fp': 0}
     refines_seen = [0, 0]   # gold refines, of which pred also said refines
     cited = cite_n = cross_checked = 0
-    price = {'variants_with_gold_price': 0, 'availability_correct': 0,
+    price = {'variants_with_gold_price': 0, 'families_with_gold_family_price': 0, 'availability_correct': 0,
              'amount_checked': 0, 'amount_correct': 0, 'currency_correct': 0, 'price_type_correct': 0}
     unmatched = []
 
@@ -187,13 +187,16 @@ def score_labelled(gold, pred_fams):
             cited += bool(v.get('sources')) and all(s.get('url') for s in v['sources'])
             cross_checked += v.get('cross_check') not in (None, 'not_checked')
 
+        price_pairs = []
         for sku, g_var in gv.items():
-            g_prices = g_var.get('prices') or []
-            if not g_prices:
-                continue
-            price['variants_with_gold_price'] += 1
-            gp = g_prices[0]
-            pp = ((pv.get(sku) or {}).get('prices') or [{}])[0]
+            if g_var.get('prices'):
+                price['variants_with_gold_price'] += 1
+                price_pairs.append((g_var['prices'][0], ((pv.get(sku) or {}).get('prices') or [{}])[0]))
+        if gf.get('family_prices') and not gv:
+            # SPEC 7: families without variants carry their price status at family level.
+            price['families_with_gold_family_price'] += 1
+            price_pairs.append((gf['family_prices'][0], (pf.get('family_prices') or [{}])[0]))
+        for gp, pp in price_pairs:
             price['availability_correct'] += gp['availability'] == pp.get('availability')
             if gp.get('amount') is not None:
                 price['amount_checked'] += 1
@@ -231,7 +234,8 @@ def score_labelled(gold, pred_fams):
                                'recall': ratio(conflict['tp'], conflict['tp'] + conflict['fn']),
                                'precision': ratio(conflict['tp'], conflict['tp'] + conflict['fp'])},
         'price': {**price,
-                  'availability_accuracy': ratio(price['availability_correct'], price['variants_with_gold_price']),
+                  'availability_accuracy': ratio(price['availability_correct'],
+                                                 price['variants_with_gold_price'] + price['families_with_gold_family_price']),
                   'amount_accuracy': ratio(price['amount_correct'], price['amount_checked'])},
     }
 

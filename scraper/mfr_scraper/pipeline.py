@@ -4,6 +4,7 @@ import csv
 import datetime as dt
 import json
 import re
+import traceback
 from dataclasses import dataclass, field
 from pathlib import Path
 from urllib.parse import unquote, urlsplit
@@ -13,7 +14,9 @@ from . import discover as D
 from . import page as P
 from . import hosts as H
 from . import specs as S
+from . import variants as V
 from .fetch import Fetcher
+from .pdfcache import ParsedPdfCache
 from .settings import (AGENT_NAME, AGENT_VERSION, CHROME_MIN_PAGES, CHROME_SHARE, MAX_IMAGES_PER_FAMILY,
                        MAX_PDFS_PER_FAMILY, N, PHASH_SAME_IMAGE, RUNS_DIR, site_config)
 
@@ -67,6 +70,7 @@ class PageRec:
     price: dict
     skus: list
     sha: str
+    tables: list
     text: str
     retrieved_at: str
     flags: list = field(default_factory=list)
@@ -108,7 +112,7 @@ def fetch_page(fetcher, url, log):
         doc_links=[(u, t) for u, t in P.links(soup, r.final_url)
                    if A.DOC_EXT.search(u) or A.cad_from_url(u) or re.search(r'\.zip(\?|$)', u, re.I)],
         image_cands=P.image_candidates(soup, r.final_url), iframes=P.iframes(soup, r.final_url),
-        price=P.price_signals(soup, text), skus=P.product_skus(soup), sha=r.sha256, text=text,
+        price=P.price_signals(soup, text), skus=P.product_skus(soup), sha=r.sha256, tables=P.table_rows(soup), text=text,
         retrieved_at=now_iso())
     rec._body = r.body  # kept for evidence
     rec._final_host = urlsplit(r.final_url).hostname or ''
@@ -142,6 +146,29 @@ def product_type_of(name, crumbs, url=''):
             if re.search(r'\b' + re.escape(t) + r's?\b', hay):
                 return t
     return crumbs[-2].lower() if len(crumbs) >= 2 else None
+
+
+def family_price_page(pages):
+    """The page whose price status a variant-less family reports: the first with a published status, else the main page."""
+    return next((r for r in pages if r.price['availability'] != 'not_published'), pages[0])
+
+
+def accessory_families(families):
+    """SPEC 3: models listed on an accessory page that are variants of another family are not its variants.
+
+    A family whose identifiers are a strict subset of another family's identifiers loses them; its price status
+    moves to family_prices (SPEC 7). Returns the families changed."""
+    sets = [{N.norm_token(v['sku']) for v in f.get('variants') or []} for f in families]
+    changed = []
+    for f, mine in zip(families, sets):
+        if mine and any(mine < other for other in sets):
+            prices = [p for v in f['variants'] for p in v.get('prices') or []]
+            status = next((p for p in prices if p['availability'] != 'not_published'), prices[0] if prices else None)
+            f['variants'] = []
+            if status:
+                f['family_prices'] = [status]
+            changed.append(f)
+    return changed
 
 
 def group_families(recs):
@@ -300,6 +327,34 @@ def pdf_candidates(doc, kind):
                 out[fld].append({'kind': kind, 'value': v, 'unit': unit, 'conditions': cond, 'raw': cells[1],
                                  'source': _spec_source(kind, doc['url'], line, doc['sha256'], doc['_retrieved_at'],
                                                         page=pg, section=cells[0])})
+    if kind == 'sheet' and 'applications' not in out:
+        found = S.applications_from_text(doc['_text'])
+        if found:
+            terms, quote = found
+            out['applications'].append({'kind': kind, 'value': terms, 'unit': None, 'conditions': None, 'raw': quote,
+                                        'source': _spec_source(kind, doc['url'], quote, doc['sha256'], doc['_retrieved_at'],
+                                                               page=page_of(quote), section='applications')})
+    if kind == 'sheet' and 'temperature_range' not in out:
+        for line in doc['_text'].splitlines():
+            found = S.temperature_from_unit_label(line)
+            if found:
+                v, unit, quote = found
+                out['temperature_range'].append({'kind': kind, 'value': v, 'unit': unit, 'conditions': None, 'raw': quote,
+                                                 'source': _spec_source(kind, doc['url'], quote, doc['sha256'], doc['_retrieved_at'],
+                                                                        page=page_of(quote), section='temperature rating')})
+                break
+    if kind == 'sheet' and 'sizes_available' not in out:
+        found = S.sizes_from_tables(doc.get('_tables', []))
+        if found:
+            sizes, unit, pg, quote = found
+            src = _spec_source(kind, doc['url'], quote, doc['sha256'], doc['_retrieved_at'], page=pg, section='size table')
+            vals = sorted(sizes, key=N.parse_size)
+            rng = {'min': vals[0], 'max': vals[-1]}
+            out['sizes_available'].append({'kind': kind, 'value': sizes, 'unit': unit, 'conditions': None, 'raw': quote, 'source': src})
+            if 'size_range' not in out:
+                out['size_range'].append({'kind': kind, 'value': rng, 'unit': unit, 'conditions': None, 'raw': quote, 'source': src})
+                if unit:
+                    out['size_unit'].append({'kind': kind, 'value': unit, 'unit': None, 'conditions': None, 'raw': quote, 'source': src})
     if kind == 'sheet':
         for f, hits in S.scan_text_for_lists(doc['_text']).items():
             if f in out:
@@ -328,6 +383,7 @@ class SiteRun:
         self.fetcher = Fetcher(site, refresh=refresh, log=log)
         self.out_dir = Path(out_dir or RUNS_DIR)
         self.evidence = Evidence(self.out_dir / f'{site}.evidence')
+        self.pdf_cache = ParsedPdfCache()
         self.flags = collections.Counter()
         self.flag_examples = {}
 
@@ -335,6 +391,16 @@ class SiteRun:
         self.flags[key] += 1
         if example and key not in self.flag_examples:
             self.flag_examples[key] = example
+
+    def guarded(self, flag_key, url, fn, *args):
+        """Run one page/family step; a crash is flagged with its URL and must not kill the site run."""
+        try:
+            return fn(*args)
+        except Exception as e:   # noqa: BLE001  (any bug in one page is isolated)
+            self.flag(flag_key, f'{url}: {type(e).__name__}: {e}')
+            self.log(f'  CRASH {flag_key} {url}: {type(e).__name__}: {e}')
+            self.log(traceback.format_exc(limit=6))
+            return None
 
     # -------------------------------------------------- discovery
     def discover(self):
@@ -467,7 +533,7 @@ class SiteRun:
                 d['doc_type'] = A.classify_doc(url, link_text)
                 d['lang'], _ = A.detect_lang('', url)
             else:
-                text, pages, title, rev, table_rows = A.pdf_text(r.body)
+                text, pages, title, rev, table_rows = self.pdf_cache.get(r.sha256, r.body)
                 d.update(sha256=r.sha256, mime_verified=True, title=title or link_text or None, revision_date=rev)
                 d['lang'], assumed = A.detect_lang(text, url)
                 if assumed:
@@ -554,11 +620,13 @@ class SiteRun:
             extra.update(e)
             for f, lst in c.items():
                 cands[f] += lst
+        family_docs = []
         for d in docs:
             if d.get('_text'):
                 if not pdf_about_family(d['_text'], fam, pages):
                     self.flag('pdf_not_about_family_not_used_for_specs', f'{main.url} <- {d["url"]}')
                     continue
+                family_docs.append(d)
                 kind = 'sheet' if d['doc_type'] in SPEC_SHEET else 'otherpdf'
                 for f, lst in pdf_candidates(d, kind).items():
                     cands[f] += lst
@@ -580,29 +648,63 @@ class SiteRun:
         # variants + prices
         variants = []
         for r in pages:
-            skus = r.skus or ([P.path_tail(r.url).upper()] if len(pages) > 1 else [])
+            tail = P.path_tail(r.url).upper()
+            skus = r.skus or ([tail] if len(pages) > 1 and V._is_id(tail) else [])
             for sku in skus:
+                if any(N.norm_token(v['sku']) == N.norm_token(sku) for v in variants):
+                    continue
                 m = SIZE_TOKEN.search(r.name)
-                v = {'sku': sku, 'size': m.group(0).strip() if m else None, 'page_url': r.url, 'prices': []}
-                pr = dict(r.price)
-                price = {'amount': pr.get('amount'), 'currency': pr.get('currency'), 'price_type': 'list' if pr.get('amount') else None,
-                         'availability': pr['availability'],
-                         'source': {'url': r.url, 'type': 'page', 'page': None, 'quote': pr.get('quote'),
-                                    'snapshot_sha256': r.sha, 'retrieved_at': r.retrieved_at}}
-                if pr['availability'] == 'price_shown' and not pr.get('currency'):
-                    price['currency'] = 'USD'
-                    self.flag('price_currency_assumed_usd', r.url)
-                v['prices'].append(price)
+                v = {'sku': sku, 'size': m.group(0).strip() if m else None, 'page_url': r.url, 'prices': [self.page_price(r)]}
                 variants.append(v)
+        if not variants:
+            variants = self.table_variants(pages, family_docs)
+        if not variants and V.from_name(pages[0].name):
+            variants = [{'sku': sku, 'size': None, 'page_url': pages[0].url, 'prices': [self.page_price(pages[0])]}
+                        for sku in V.from_name(pages[0].name)]
+            self.flag('variants_from_heading_list', pages[0].url)
         fam['variants'] = variants
-        if not variants and any(r.price['availability'] != 'not_published' for r in pages):
-            self.flag('price_status_without_variant', main.url)
+        if not variants:   # SPEC 7: a family without identifiers carries its price status itself, always filled
+            fam['family_prices'] = [self.page_price(family_price_page(pages))]
 
         fam['documents'] = [{k: v for k, v in d.items() if not k.startswith('_')} for d in docs]
         fam['cad'] = cads
         for r in pages:   # page snapshots for evidence (quotes are checked against these)
             self.evidence.save(r.url, r.sha, 'html', r._body, r.text, 'text/html', r.retrieved_at)
         return fam
+
+    def page_price(self, r):
+        pr = dict(r.price)
+        price = {'amount': pr.get('amount'), 'currency': pr.get('currency'), 'price_type': 'list' if pr.get('amount') else None,
+                 'availability': pr['availability'],
+                 'source': {'url': r.url, 'type': 'page', 'page': None, 'quote': pr.get('quote'),
+                            'snapshot_sha256': r.sha, 'retrieved_at': r.retrieved_at}}
+        if pr['availability'] == 'price_shown' and not pr.get('currency'):
+            price['currency'] = 'USD'
+            self.flag('price_currency_assumed_usd', r.url)
+        return price
+
+    def table_variants(self, pages, family_docs):
+        """SPEC 3 variants from model/part-number tables on the family's pages, else its own spec sheets."""
+        main = pages[0]
+        found = []
+        for r in pages:
+            found += [(s, z, r) for s, z, _ in V.from_rows(r.tables) + V.from_lines(r.text)]
+        if not found:
+            for d in family_docs:
+                if d['doc_type'] in SPEC_SHEET:
+                    found += [(s, z, main) for s, z, _ in V.from_rows([c for _, c in d.get('_tables', [])]) + V.from_lines(d['_text'])]
+                    if found:
+                        break
+        out, seen = [], set()
+        for sku, size, r in found:
+            k = N.norm_token(sku)
+            if k in seen:
+                continue
+            seen.add(k)
+            out.append({'sku': sku, 'size': size, 'page_url': r.url, 'prices': [self.page_price(r)]})
+        if out:
+            self.flag('variants_from_identifier_tables', main.url)
+        return out
 
     # -------------------------------------------------- run
     def run(self):
@@ -616,7 +718,9 @@ class SiteRun:
         self.log(f'[{self.site}] {len(product_urls)} product URLs; processing {len(targets)}')
         recs = []
         for i, u in enumerate(targets, 1):
-            rec, err = fetch_page(self.fetcher, u, self.log)
+            rec, err = self.guarded('page_crashed', u, fetch_page, self.fetcher, u, self.log) or (None, 'crashed')
+            if err == 'crashed':
+                continue
             if err:
                 self.flag('page_skipped', err)
                 continue
@@ -647,13 +751,17 @@ class SiteRun:
             family_counts.update({N.image_key(c[0]) for r in g for c in r.image_cands})
         families, ids = [], collections.Counter()
         for i, g in enumerate(fam_groups, 1):
-            fam = self.build_family(g, chrome, family_counts)
+            fam = self.guarded('family_crashed', g[0].url, self.build_family, g, chrome, family_counts)
+            if fam is None:
+                continue
             ids[fam['family_id']] += 1
             if ids[fam['family_id']] > 1:
                 fam['family_id'] += f'-{ids[fam["family_id"]]}'
             families.append(fam)
             self.log(f'  family {i}/{len(fam_groups)} {fam["family_id"]}: specs={len(fam["specs"])} '
                      f'docs={len(fam["documents"])} cad={len(fam["cad"])} images={len(fam["images"])}')
+        for fam in accessory_families(families):
+            self.flag('accessory_models_not_variants', fam['canonical_url'])
         self.evidence.write_manifest()
 
         def pct(pred):

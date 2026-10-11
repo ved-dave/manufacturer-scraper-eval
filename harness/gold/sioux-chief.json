@@ -17731,7 +17731,7 @@
     },
     "end_connections": {
      "value": [
-      "ASTM F1960 (PEX cold expansion)"
+      "PEX expansion"
      ],
      "unit": null,
      "raw_text": "Connection 1 Type F1960",
@@ -17781,9 +17781,9 @@
      "alt_values": [
       {
        "value": [
-        "ASTM F1960",
-        "ASTM F877",
-        "CSA B137.5"
+        "ASTM - F1960",
+        "ASTM - F877",
+        "CSA - B137.5"
        ],
        "unit": null,
        "raw_text": "ASTM - F1960, CSA - B137.5, ASTM - F877",
@@ -17843,41 +17843,15 @@
        ]
       }
      ]
-    },
-    "applications": {
-     "value": [
-      "hot and cold water distribution",
-      "radiant heating and cooling"
-     ],
-     "unit": null,
-     "raw_text": null,
-     "display_source": "pdf",
-     "cross_check": "pdf_only",
-     "sources": [
-      {
-       "url": "https://cdn.siouxchief.com/prodscmwebsite/SpecSheets/POWERPEX - F1960 POLY FITTING SYSTEM - SPEC SHEET.PDF",
-       "type": "pdf",
-       "page": 1,
-       "section": "SPECIFICATION",
-       "quote": "shall be used in hot and cold water distribution systems",
-       "snapshot_sha256": "5023b784d32a371c14273c15d3fa4d56c3a6ba95356ebe72e0053df501c39099",
-       "retrieved_at": "2026-10-09T22:09:24Z"
-      },
-      {
-       "url": "https://cdn.siouxchief.com/prodscmwebsite/SpecSheets/POWERPEX - F1960 POLY FITTING SYSTEM - SPEC SHEET.PDF",
-       "type": "pdf",
-       "page": 1,
-       "section": "APPLICATIONS",
-       "quote": "suitable for radiant heating and cooling",
-       "snapshot_sha256": "5023b784d32a371c14273c15d3fa4d56c3a6ba95356ebe72e0053df501c39099",
-       "retrieved_at": "2026-10-09T22:09:24Z"
-      }
-     ]
     }
    },
    "additional_specs": {
     "type": "Plug",
-    "install": "For temporary or permanent installation"
+    "install": "For temporary or permanent installation",
+    "applications_other": [
+     "hot and cold water distribution systems",
+     "radiant heating and cooling"
+    ]
    },
    "spec_source_summary": "both",
    "variants": [
@@ -18308,7 +18282,7 @@
     },
     "end_connections": {
      "value": [
-      "push-fit (CTS)"
+      "push-fit"
      ],
      "unit": null,
      "raw_text": "Connection 1 Type Push CTS",
@@ -18447,32 +18421,15 @@
        ]
       }
      ]
-    },
-    "applications": {
-     "value": [
-      "hot and cold water distribution"
-     ],
-     "unit": null,
-     "raw_text": null,
-     "display_source": "pdf",
-     "cross_check": "pdf_only",
-     "sources": [
-      {
-       "url": "https://cdn.siouxchief.com/prodscmwebsite/SpecSheets/PDQ - BRASS PUSH FITTING SYSTEM - SPEC SHEET.PDF",
-       "type": "pdf",
-       "page": 1,
-       "section": "SPECIFICATION",
-       "quote": "shall be used in hot and cold water distribution systems",
-       "snapshot_sha256": "268a645b97b493aa1f3e1a166238f34d5d98bde4861d96e08b94a18e8a6bd56c",
-       "retrieved_at": "2026-10-09T22:09:41Z"
-      }
-     ]
     }
    },
    "additional_specs": {
     "grip_ring": "Stainless steel",
     "release_collar": "Acetal",
-    "brand": "PDQ™"
+    "brand": "PDQ™",
+    "applications_other": [
+     "hot and cold water distribution systems"
+    ]
    },
    "spec_source_summary": "both",
    "variants": [
@@ -18836,14 +18793,10 @@
     },
     "end_connections": {
      "value": [
-      "ASTM F1960",
-      "male sweat",
-      "female sweat",
-      "PVC socket (ASTM F1970)",
-      "CPVC socket (CTS)",
-      "Sch. 40 CPVC socket (ASTM F438)",
-      "MIP (male NPT)",
-      "FIP (female NPT)"
+      "PEX expansion",
+      "solder",
+      "solvent weld",
+      "NPT"
      ],
      "unit": null,
      "raw_text": "Connection 1 Type F1960",
@@ -19803,8 +19756,8 @@
      "value": [
       "ASTM F1960",
       "ASTM F1970",
-      "ASTM D2846",
-      "CSA B137.6",
+      "ASTM - D2846",
+      "CSA - B137.6",
       "ASTM F438"
      ],
      "unit": null,
@@ -19903,8 +19856,8 @@
      "alt_values": [
       {
        "value": [
-        "ASTM F1960",
-        "CSA B137.5"
+        "ASTM - F1960",
+        "CSA - B137.5"
        ],
        "unit": null,
        "raw_text": "ASTM - F1960, CSA - B137.5",
@@ -19984,56 +19937,6 @@
       }
      ]
     },
-    "applications": {
-     "value": [
-      "hot and cold water distribution",
-      "cold water supply service"
-     ],
-     "unit": null,
-     "raw_text": null,
-     "display_source": "pdf",
-     "cross_check": "agree",
-     "sources": [
-      {
-       "url": "https://cdn.siouxchief.com/prodscmwebsite/SpecSheets/POWERPEX - F1960 BRASS FITTING SYSTEM - SPEC SHEET.PDF",
-       "type": "pdf",
-       "page": 1,
-       "section": "SPECIFICATION",
-       "quote": "hot and cold water distribution systems",
-       "snapshot_sha256": "f32d0dfe95277157ce70d3c1c054257dd2839688f5aa87864ce5203eb2c4837b",
-       "retrieved_at": "2026-10-09T22:09:56Z"
-      },
-      {
-       "url": "https://cdn.siouxchief.com/prodscmwebsite/SpecSheets/645 SERIES - PVC X F1960 TRANSITION FITTING - SPEC SHEET.PDF",
-       "type": "pdf",
-       "page": 1,
-       "section": "SPECIFICATION",
-       "quote": "for use in cold water supply service installations",
-       "snapshot_sha256": "57a10eab3af9942be5358971f89c8a26173262401c54fd508d4cdf0d7b71c90f",
-       "retrieved_at": "2026-10-09T22:10:35Z"
-      },
-      {
-       "url": "https://www.siouxchief.com/Products/645WG3P",
-       "type": "page",
-       "page": null,
-       "section": "feature bullets",
-       "variant_sku": null,
-       "quote": "Cold water applications only",
-       "snapshot_sha256": "1265285a42a3fbc969fa2dbd9bd723ae2b19247784c8733b8aad49ae98919f95",
-       "retrieved_at": "2026-10-09T21:51:44Z"
-      },
-      {
-       "url": "https://www.siouxchief.com/Products/645WG4P",
-       "type": "page",
-       "page": null,
-       "section": "feature bullets",
-       "variant_sku": null,
-       "quote": "Cold water applications only",
-       "snapshot_sha256": "9a3d687ec6210e8f2a1a4c304df452780dc5ed5e558334b24605101142bc6443",
-       "retrieved_at": "2026-10-09T22:09:26Z"
-      }
-     ]
-    },
     "material_seals": {
      "value": "EPDM",
      "unit": null,
@@ -20065,7 +19968,12 @@
    "additional_specs": {
     "type": "Straight",
     "brass_alloy": "C69300",
-    "lead_law": "California No Lead Plumbing Law"
+    "lead_law": "California No Lead Plumbing Law",
+    "applications_other": [
+     "hot and cold water distribution systems",
+     "cold water supply service",
+     "Cold water applications only"
+    ]
    },
    "spec_source_summary": "both",
    "variants": [
@@ -21746,7 +21654,7 @@
     },
     "standards": {
      "value": [
-      "IAPMO PS 42"
+      "IAPMO PS - 42"
      ],
      "unit": null,
      "raw_text": "IAPMO PS - 42",
@@ -21914,7 +21822,7 @@
    "documents": [
     {
      "url": "https://cdn.siouxchief.com/prodscmwebsite/Brochures/SIMPLESTRAP - STUB OUT CLAMP - BROCHURE.PDF",
-     "doc_type": "brochure",
+     "doc_type": "catalog",
      "priority": "secondary",
      "lang": "en",
      "title": "SimpleStrap stub out clamp brochure",
@@ -22207,45 +22115,22 @@
     },
     "applications": {
      "value": [
-      "PEX tube",
-      "copper tube",
-      "gas pipe",
-      "conduit"
+      "hydronic heating"
      ],
      "unit": null,
-     "raw_text": "PEX tube, copper tube, gas pipe or other conduit",
-     "display_source": "pdf",
-     "cross_check": "conflict",
+     "raw_text": "Perfect for hydronic heating.",
+     "display_source": "page",
+     "cross_check": "page_only",
      "sources": [
       {
-       "url": "https://cdn.siouxchief.com/prodscmwebsite/SpecSheets/523 SERIES - VINYL-COATED STEEL CLAMPS - SPEC SHEET.PDF",
-       "type": "pdf",
-       "page": 1,
-       "section": "SPECIFICATION",
-       "quote": "PEX tube, copper tube, gas pipe or other conduit",
-       "snapshot_sha256": "ced8ebe4806e75a5ca764a8beb2d3e931a6a9b89eff4f64765553710edee4b89",
-       "retrieved_at": "2026-10-09T22:11:59Z"
-      }
-     ],
-     "alt_values": [
-      {
-       "value": [
-        "hydronic heating"
-       ],
-       "unit": null,
-       "raw_text": "Perfect for hydronic heating.",
-       "sources": [
-        {
-         "url": "https://www.siouxchief.com/Products/523-31",
-         "type": "page",
-         "page": null,
-         "section": "feature bullets",
-         "variant_sku": null,
-         "quote": "Perfect for hydronic heating.",
-         "snapshot_sha256": "326197f34c68462ae63639d2d5655a46669272cf1a36a5e8d33302437d98afe3",
-         "retrieved_at": "2026-10-09T21:43:00Z"
-        }
-       ]
+       "url": "https://www.siouxchief.com/Products/523-31",
+       "type": "page",
+       "page": null,
+       "section": "feature bullets",
+       "variant_sku": null,
+       "quote": "Perfect for hydronic heating.",
+       "snapshot_sha256": "326197f34c68462ae63639d2d5655a46669272cf1a36a5e8d33302437d98afe3",
+       "retrieved_at": "2026-10-09T21:43:00Z"
       }
      ]
     }
@@ -22256,7 +22141,13 @@
     "screw": "#8 × 1\" zinc-coated, drill-tip, panhead Phillips",
     "safe_working_load": "150 lbs. (14\" span) when fastened to PowerBar",
     "melting_point": "200°F (93°C)",
-    "cpvc_compatible": "No"
+    "cpvc_compatible": "No",
+    "applications_other": [
+     "PEX tube",
+     "copper tube",
+     "gas pipe",
+     "other conduit"
+    ]
    },
    "spec_source_summary": "both",
    "variants": [
@@ -22532,12 +22423,13 @@
     },
     "end_connections": {
      "value": [
-      "MIP",
-      "CPVC socket",
-      "MSWT/Press/Push",
-      "push socket (CTS)",
-      "PEX ASTM F1960 expansion",
-      "PEX ASTM F1807 crimp"
+      "NPT",
+      "solvent weld",
+      "solder",
+      "press",
+      "push-fit",
+      "PEX expansion",
+      "PEX crimp"
      ],
      "unit": null,
      "raw_text": "cold-side MIP outlet",
@@ -22783,8 +22675,8 @@
      "alt_values": [
       {
        "value": [
-        "push (CTS)",
-        "MIP"
+        "push-fit",
+        "NPT"
        ],
        "unit": null,
        "raw_text": "Connection 1 Type Push CTS",
@@ -22886,9 +22778,9 @@
      "alt_values": [
       {
        "value": [
-        "IAPMO PS 54",
-        "ASTM E814",
-        "CAN/ULC S115"
+        "IAPMO PS - 54",
+        "ASTM - E814",
+        "CAN/ULC - S115"
        ],
        "unit": null,
        "raw_text": "IAPMO PS - 54, ASTM - E814, CAN/ULC - S115",
@@ -22900,57 +22792,6 @@
          "section": "feature bullets",
          "variant_sku": null,
          "quote": "IAPMO PS - 54, ASTM - E814, CAN/ULC - S115",
-         "snapshot_sha256": "00010c9197e96aa7f549c7006364eb1d0ec381651cc332f20640e15e5c6ae033",
-         "retrieved_at": "2026-10-09T21:44:38Z"
-        }
-       ]
-      }
-     ]
-    },
-    "applications": {
-     "value": [
-      "water heater connections",
-      "fire-rated walls"
-     ],
-     "unit": null,
-     "raw_text": null,
-     "display_source": "pdf",
-     "cross_check": "refines",
-     "sources": [
-      {
-       "url": "https://cdn.siouxchief.com/prodscmwebsite/SpecSheets/687 SERIES - SERVICEBOX WATER HEATER (F) ACCESS BOX - SPEC SHEET.PDF",
-       "type": "pdf",
-       "page": 1,
-       "section": "SPECIFICATION",
-       "quote": "valved connection for water heaters is required",
-       "snapshot_sha256": "402e473c510d1a5d2ba59092f80c7f8913a925ba71a2f1493f7be9c421250217",
-       "retrieved_at": "2026-10-09T22:12:12Z"
-      },
-      {
-       "url": "https://cdn.siouxchief.com/prodscmwebsite/SpecSheets/687 SERIES - SERVICEBOX WATER HEATER (F) ACCESS BOX - SPEC SHEET.PDF",
-       "type": "pdf",
-       "page": 1,
-       "section": "CERTIFICATIONS/APPROVALS",
-       "quote": "Tested/Certified/Approved for use in fire-rated applications",
-       "snapshot_sha256": "402e473c510d1a5d2ba59092f80c7f8913a925ba71a2f1493f7be9c421250217",
-       "retrieved_at": "2026-10-09T22:12:12Z"
-      }
-     ],
-     "alt_values": [
-      {
-       "value": [
-        "fire-rated walls"
-       ],
-       "unit": null,
-       "raw_text": "All models can be used in fire-rated walls.",
-       "sources": [
-        {
-         "url": "https://www.siouxchief.com/Products/687-3CH",
-         "type": "page",
-         "page": null,
-         "section": "feature bullets",
-         "variant_sku": null,
-         "quote": "All models can be used in fire-rated walls.",
          "snapshot_sha256": "00010c9197e96aa7f549c7006364eb1d0ec381651cc332f20640e15e5c6ae033",
          "retrieved_at": "2026-10-09T21:44:38Z"
         }
@@ -22996,7 +22837,12 @@
     "valve_handle": "Anodized aluminum",
     "test_cap": "Nylon (hot-side)",
     "fire_rating": "1 Hr walls F: 60 min T: 34.5 min; 2 Hr walls F: 120 min T: 58.5 min",
-    "patent": "#11,473,276"
+    "patent": "#11,473,276",
+    "applications_other": [
+     "valved connection for water heaters",
+     "fire-rated applications",
+     "fire-rated walls"
+    ]
    },
    "spec_source_summary": "both",
    "variants": [
@@ -23234,7 +23080,7 @@
    "documents": [
     {
      "url": "https://cdn.siouxchief.com/prodscmwebsite/Brochures/SERVICE BOX - WATER SERVICE SYSTEM - BROCHURE.PDF",
-     "doc_type": "brochure",
+     "doc_type": "catalog",
      "priority": "secondary",
      "lang": "en",
      "title": "ServiceBox water service system brochure",
@@ -23560,7 +23406,7 @@
     },
     "end_connections": {
      "value": [
-      "CPVC socket",
+      "solvent weld",
       "closed"
      ],
      "unit": null,
@@ -23611,8 +23457,8 @@
     },
     "standards": {
      "value": [
-      "ASTM D2846",
-      "CSA B137.6"
+      "ASTM - D2846",
+      "CSA - B137.6"
      ],
      "unit": null,
      "raw_text": "ASTM - D2846, CSA - B137.6",
@@ -23651,31 +23497,14 @@
        "retrieved_at": "2026-10-09T21:42:05Z"
       }
      ]
-    },
-    "applications": {
-     "value": [
-      "hot and cold water supply"
-     ],
-     "unit": null,
-     "raw_text": "hot and cold water supply systems",
-     "display_source": "pdf",
-     "cross_check": "pdf_only",
-     "sources": [
-      {
-       "url": "https://cdn.siouxchief.com/prodscmwebsite/SpecSheets/630-C SERIES - CPVC STUB OUT ELBOWS - SPEC SHEET.PDF",
-       "type": "pdf",
-       "page": 1,
-       "section": "SPECIFICATION",
-       "quote": "in hot and cold water supply systems",
-       "snapshot_sha256": "1465c83b4f2faf3b4c706659f48a30b3e7bacccc68b0174af90896f9b8f04e7d",
-       "retrieved_at": "2026-10-09T22:12:37Z"
-      }
-     ]
     }
    },
    "additional_specs": {
     "optional_mounting_bracket": "copper-plated steel",
-    "cpvc_heat_limit": "Do not expose the CPVC transition area to heat in excess of 180°F"
+    "cpvc_heat_limit": "Do not expose the CPVC transition area to heat in excess of 180°F",
+    "applications_other": [
+     "hot and cold water supply systems"
+    ]
    },
    "spec_source_summary": "both",
    "variants": [
@@ -24128,7 +23957,7 @@
    "documents": [
     {
      "url": "https://cdn.siouxchief.com/prodscmwebsite/Brochures/CLOSET FLANGES - BROCHURE.PDF",
-     "doc_type": "brochure",
+     "doc_type": "catalog",
      "priority": "secondary",
      "lang": "en",
      "title": "Closet flanges brochure",
@@ -24281,7 +24110,7 @@
     },
     "end_connections": {
      "value": [
-      "2\" Sch. 40 hub (solvent weld)"
+      "hub"
      ],
      "unit": null,
      "raw_text": "2\" Sch. 40 hub connection",
@@ -24335,36 +24164,6 @@
        "section": "feature bullets",
        "variant_sku": null,
        "quote": "ASME - A112.18.2, CSA - B125.2",
-       "snapshot_sha256": "c0be9ca14964d8729cbe1191de21e7a08c5d9fcbdddd2dae1de632f1ea9c6c62",
-       "retrieved_at": "2026-10-09T21:44:45Z"
-      }
-     ]
-    },
-    "applications": {
-     "value": [
-      "shower drainage"
-     ],
-     "unit": null,
-     "raw_text": "installations in shower areas",
-     "display_source": "pdf",
-     "cross_check": "agree",
-     "sources": [
-      {
-       "url": "https://cdn.siouxchief.com/prodscmwebsite/SpecSheets/821-200 SERIES - SHOWER PAN DRAIN - SPEC SHEET.PDF",
-       "type": "pdf",
-       "page": 1,
-       "section": "SPECIFICATION",
-       "quote": "installations in shower areas",
-       "snapshot_sha256": "1f8bcddfb7c5c492ceb90a46471e3cd02acef612534e97e509b216ad97deed9f",
-       "retrieved_at": "2026-10-09T22:13:11Z"
-      },
-      {
-       "url": "https://www.siouxchief.com/Products/821-200ANQ",
-       "type": "page",
-       "page": null,
-       "section": "feature bullets",
-       "variant_sku": null,
-       "quote": "For use in tile-floor showers with a waterproofing membrane",
        "snapshot_sha256": "c0be9ca14964d8729cbe1191de21e7a08c5d9fcbdddd2dae1de632f1ea9c6c62",
        "retrieved_at": "2026-10-09T21:44:45Z"
       }
@@ -24505,7 +24304,11 @@
     "free_area": "Round: 4.5 in2; Square: 7.6 in2",
     "flow_capacity": "Round: 6.0 gpm; Square: 7.0 gpm",
     "head_adapter": "Gray ABS",
-    "clamping_collar": "Reinforced polypropylene"
+    "clamping_collar": "Reinforced polypropylene",
+    "applications_other": [
+     "installations in shower areas",
+     "tile-floor showers with a waterproofing membrane"
+    ]
    },
    "spec_source_summary": "both",
    "variants": [
@@ -24681,7 +24484,7 @@
    "documents": [
     {
      "url": "https://cdn.siouxchief.com/prodscmwebsite/Brochures/SHOWER DRAINS - BROCHURE.PDF",
-     "doc_type": "brochure",
+     "doc_type": "catalog",
      "priority": "secondary",
      "lang": "en",
      "title": "Shower drains brochure",
@@ -24982,7 +24785,16 @@
    "additional_specs": {
     "strainer_load_rating": "2,000 lbs. (full strainer)",
     "strainer_free_area": "16.91 in2 (full strainer)",
-    "shape": "Round"
+    "shape": "Round",
+    "options": [
+     "V = Vandal-Resistant Strainer",
+     "T = Tapped Trap Primer Connection - 1/2\" FIP",
+     "S = Sand Bucket",
+     "U = Stainless Steel Debris Basket for Sump Area",
+     "2 = Open-Half Strainer",
+     "3 = Open-Quarter Strainer",
+     "X = Less Strainer"
+    ]
    },
    "spec_source_summary": "both",
    "variants": [
@@ -25350,8 +25162,8 @@
      "alt_values": [
       {
        "value": [
-        "ASME A112.6.7",
-        "CSA B79.7"
+        "ASME - A112.6.7",
+        "CSA - B79.7"
        ],
        "unit": null,
        "raw_text": "ASME - A112.6.7, CSA - B79.7",
@@ -25372,11 +25184,6 @@
     },
     "applications": {
      "value": [
-      "kitchens",
-      "restaurants",
-      "grocery stores",
-      "hospitals",
-      "schools",
       "sanitary drainage"
      ],
      "unit": null,
@@ -25698,7 +25505,22 @@
     "sump_depth": "6 IN",
     "shape": "Square",
     "strainer": "Aluminum dome bottom strainer included",
-    "coating": "white acid-resisting enamel"
+    "coating": "white acid-resisting enamel",
+    "applications_other": [
+     "kitchens",
+     "restaurants",
+     "grocery stores",
+     "hospitals",
+     "schools"
+    ],
+    "options": [
+     "2 = Open-Half Grate (1)",
+     "3 = Open-Quarter Grate (1)",
+     "B = Aluminum Bucket",
+     "C = Clamping Collar (2)",
+     "T = 1/2\" Trap Primer Connection",
+     "1 : For sinks with grates only. 2 : For sinks with anchor flange."
+    ]
    },
    "spec_source_summary": "both",
    "variants": [
@@ -28109,7 +27931,7 @@
    "documents": [
     {
      "url": "https://cdn.siouxchief.com/prodscmwebsite/Brochures/TRENCH DRAIN OVERVIEW - CATCH BASINS.PDF",
-     "doc_type": "brochure",
+     "doc_type": "catalog",
      "priority": "secondary",
      "lang": "en",
      "title": "Trench Drain Overview - Catch Basins",
@@ -28123,7 +27945,7 @@
     },
     {
      "url": "https://cdn.siouxchief.com/prodscmwebsite/Brochures/TRENCH DRAIN OVERVIEW - MAXI SYSTEM.PDF",
-     "doc_type": "brochure",
+     "doc_type": "catalog",
      "priority": "secondary",
      "lang": "en",
      "title": "Trench Drain Overview - Maxi System",
@@ -28137,7 +27959,7 @@
     },
     {
      "url": "https://cdn.siouxchief.com/prodscmwebsite/Brochures/HYDROTEC - MAXI SYSTEM - BROCHURE.PDF",
-     "doc_type": "brochure",
+     "doc_type": "catalog",
      "priority": "secondary",
      "lang": "en",
      "title": "Hydrotec - Maxi System - Brochure",
@@ -28151,7 +27973,7 @@
     },
     {
      "url": "https://cdn.siouxchief.com/prodscmwebsite/Brochures/TRENCH DRAINS BROCHURE.PDF",
-     "doc_type": "brochure",
+     "doc_type": "catalog",
      "priority": "secondary",
      "lang": "en",
      "title": "Trench Drains Brochure",
@@ -28319,7 +28141,7 @@
     },
     {
      "url": "https://cdn.siouxchief.com/prodscmwebsite/Brochures/HYDROTEC - MAXI INSTALLATION BRACKET.PDF",
-     "doc_type": "brochure",
+     "doc_type": "catalog",
      "priority": "secondary",
      "lang": "en",
      "title": "Hydrotec - Maxi Installation Bracket",
@@ -28918,9 +28740,7 @@
     },
     "end_connections": {
      "value": [
-      "slip joint",
-      "FIP swivel",
-      "direct connect"
+      "NPT"
      ],
      "unit": null,
      "raw_text": "Connection 1 Type FIP-Swvl. / Slip Joint / Direct Connect",
@@ -29311,7 +29131,7 @@
     },
     "standards": {
      "value": [
-      "ASTM F409"
+      "ASTM - F409"
      ],
      "unit": null,
      "raw_text": "ASTM - F409",
@@ -29377,7 +29197,11 @@
    "additional_specs": {
     "includes": "Center Outlets supplied with baffle tee",
     "colors": "White, Black",
-    "washers": "Hard (poly) or Soft"
+    "washers": "Hard (poly) or Soft",
+    "end_connections_other": [
+     "Slip Joint",
+     "Direct Connect"
+    ]
    },
    "spec_source_summary": "page",
    "variants": [
@@ -29810,7 +29634,7 @@
     },
     "end_connections": {
      "value": [
-      "3/8\" compression"
+      "compression"
      ],
      "unit": null,
      "raw_text": "3/8\" Compression, 2\" O.C.",
@@ -30046,36 +29870,6 @@
       }
      ]
     },
-    "applications": {
-     "value": [
-      "point-of-use tempered water (lavatory/fixture)"
-     ],
-     "unit": null,
-     "raw_text": "to provide safe/tempered water temperatures at the lavatory or other fixture",
-     "display_source": "pdf",
-     "cross_check": "agree",
-     "sources": [
-      {
-       "url": "https://cdn.siouxchief.com/prodscmwebsite/SpecSheets/120-TM3F - THERMOSTATIC MIXING VALVE - SPEC SHEET.PDF",
-       "type": "pdf",
-       "page": 1,
-       "section": "SPECIFICATION",
-       "quote": "to provide safe/tempered water temperatures at the lavatory or other fixture",
-       "snapshot_sha256": "0be68f5636135fc9a281c78ed12ec3be5c62c9631651ca77063fc111d64702da",
-       "retrieved_at": "2026-10-09T22:17:16Z"
-      },
-      {
-       "url": "https://www.siouxchief.com/Products/120-TM3F",
-       "type": "page",
-       "page": null,
-       "section": "feature bullets",
-       "variant_sku": null,
-       "quote": "Ensures proper thermostatic mixing to maintain safe water temp and prevent scalding.",
-       "snapshot_sha256": "ceb73215c21091b41043cdeb7cf68327a5277909590e54745c74b86b72a68c98",
-       "retrieved_at": "2026-10-09T21:48:32Z"
-      }
-     ]
-    },
     "size_range": {
      "value": {
       "min": "3/8",
@@ -30116,7 +29910,11 @@
     "mounting": "Wall Mount, ABS base",
     "mixed_outlet_setting": "80°F to 120°F",
     "regulatory": "California No Lead Plumbing Law (compliant)",
-    "cold_bypass": "standard"
+    "cold_bypass": "standard",
+    "applications_other": [
+     "safe/tempered water temperatures at the lavatory or other fixture",
+     "maintain safe water temp and prevent scalding"
+    ]
    },
    "spec_source_summary": "both",
    "variants": [
@@ -30147,7 +29945,7 @@
    "documents": [
     {
      "url": "https://cdn.siouxchief.com/prodscmwebsite/Brochures/THERMOSTATIC MIXING VALVE - BROCHURE.PDF",
-     "doc_type": "brochure",
+     "doc_type": "catalog",
      "priority": "secondary",
      "lang": "en",
      "title": "Thermostatic mixing valve brochure",

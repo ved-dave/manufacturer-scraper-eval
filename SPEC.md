@@ -37,6 +37,12 @@ Language is verified from content (page/PDF text), not only the URL.
   number) (decided 2026-10-10). Sizes or options listed without an identifier are NOT variants: they go
   in family-level fields (`sizes_available`, `end_connections`, material lists). A family whose site lists
   no identifiers has an empty `variants` list.
+- **Option codes are not variants (decided 2026-10-11).** Variants are the identifiers that the page heading,
+  a variant selector, or the spec sheet's own selection/dimension/part-number tables assign to this family.
+  Codes named only in notes or option lines (suffixes such as `AT` = American thread or `.PF` = press-fit,
+  "bare shaft available, Fig No ...", "please add suffix ...") are options: list them in
+  `additional_specs.options`, not as variants. Identifiers on a shared sheet that have their own family page on
+  the site belong to that family, not this one. Likewise, model identifiers that are variants of another labelled family (e.g. the valve models an accessory fits) are not the accessory's variants; they go to `additional_specs` and its price status to `family_prices` (decided 2026-10-11).
 - SKU-level sites are grouped into families via series code, breadcrumbs, or a shared spec sheet.
 - Every document, CAD file, image, and price links to a family or variant. Unlinkable items go to
   `unlinked[]` and are reported, never silently dropped.
@@ -55,10 +61,21 @@ Language is verified from content (page/PDF text), not only the URL.
 | CAD | Include direct files; hosted/gated CAD recorded as a link only (no form submission) |
 | Price | Manufacturer-site sources only (section 7) |
 
+**Image edge cases (decided 2026-10-11).** Text that belongs to the product itself (dome or nameplate markings, logos) and short letter/number markers on a cutaway do not make an image an infographic; it is excluded as an infographic only when sentences, leader-line labels or feature callouts carry its meaning. A collage of renders of the product's own options (indicator colours, body styles) without such text is one `product_photo`. When the page shows the same view both clean and with callouts added, keep the clean version and drop the annotated one. Candidates are only the image URLs the family page references (img src/srcset, data attributes, CSS backgrounds, links); "highest-quality version" means the largest of those, not an un-linked original found by editing a URL (e.g. removing a `mobile/` folder or a size suffix), so two labellers reach the same file.
+
 ## 5. Taxonomy
 Documents (`doc_type`):
 - Primary: `spec_sheet`, `submittal`, `price_list`
 - Secondary: `iom_manual`, `brochure`, `catalog`, `certificate`, `warranty`, `other_doc`
+
+**Classify by content (decided 2026-10-11).** A document's type follows what it is, not its file name, folder or site label; apply the first rule that fits. Certificates, warranties, submittals and price lists keep their own types.
+1. `iom_manual`: instructions to install, commission, operate, configure, maintain or proof-test the product, including quick-start guides, safety / SIL / functional-safety manuals, and manuals for a communication protocol or option module (DeviceNet, PROFIBUS, AS-i).
+2. `catalog`: technical or ordering data for several products (product or range overviews and product guides with a specification block per series; selection guides that list products with part numbers), part-numbering / ordering-code guides even for one family, and any technical (sales) manual longer than 4 pages, single- or multi-series.
+3. `spec_sheet`: up to 4 pages about this family, or about one option, module or accessory sold for it, containing a technical-data block (specification table, materials/parts list, ratings or dimensions), whatever it calls itself ("Technical Manual", "Technical Sales Manual", "Product Brochure", "Recommended Specification", "Weights & Dimensions", a communication-protocol data sheet). A sheet for an option or accessory is a spec source only for values it states for the family itself.
+4. `brochure`: marketing pieces of any length or product count (features, benefits, applications, solutions, facility or company presentations) with no per-product specification block or ordering data, and single-family documents over 4 pages that present themselves as a brochure.
+5. `other_doc`: reference material not tied to choosing or ordering one product: technical bulletins, sizing or actuator-selection guides without part numbers, reference charts (e.g. hazardous-location classification charts), bolting guides.
+
+Software and configuration files (EDS/GSD files, firmware, software ZIPs) are neither documents nor CAD and are not recorded.
 
 CAD (`cad_type`):
 - `cad_file`: .step/.stp, .dwg, .dxf, .igs/.iges, and zips containing them (classified by contents)
@@ -95,8 +112,8 @@ them is kept verbatim in `additional_specs` under `end_connections_other` / `app
 | Term | Covers (source wording) |
 |---|---|
 | `NPT` | NPT, FNPT, MNPT, FIP, MIP, NPTF, "taper pipe thread (US)" |
-| `BSPT` | BSPT, BSP, R/Rc, ISO 7-1, BS EN 10226, BS 21 |
-| `threaded` | threaded, with no thread standard stated |
+| `BSPT` | BSPT, BSP (no parallel qualifier), R/Rc, ISO 7-1, BS EN 10226, BS 21 (taper threads) |
+| `threaded` | threaded, with no thread standard stated; also parallel pipe threads (BSP parallel, G, ISO 228, BS 2779), with the verbatim wording in `end_connections_other` (decided 2026-10-11) |
 | `solder` | solder, sweat, C, CxC, "copper tube end" |
 | `press` | press, press-fit, ProPress, MegaPress |
 | `PEX crimp` | ASTM F1807, F2159, crimp ring, clamp ring |
@@ -131,7 +148,34 @@ Male/female is not recorded. A connection type counts once, even if the product 
 Record every term the source supports; do not infer a sector from a service. "Water" alone maps to
 `potable water` only if the source says potable/drinking; otherwise keep it in `applications_other`.
 
+**Mapping strictness (decided 2026-10-11).** Map source wording to a term only when it names the term or
+wording listed for it above; do not derive a term from context. Pipe or tube types a product holds,
+room or building types (kitchens, hospitals, shower areas), "fire-rated" walls/applications, and
+"hot and cold water" without potable/drinking/domestic stay in `applications_other`. For an end, map
+the connection named (`2" Sch. 40 hub` → `hub`); a joining method the sheet describes for that same
+end in prose is not a second term. Wording that lists alternatives for one end (`MSWT/Press/Push`)
+records each (`solder`, `press`, `push-fit`). If no source wording for a field maps to a term, omit the
+field from `specs` and keep the wording only in `*_other`; a source whose wording maps to no term is
+no longer a source for the field, and `cross_check` follows the remaining sources.
+
 **Single size.** A family available in one size records `size_range` with `min` = `max`.
+
+**Standards scope (decided 2026-10-11).** `standards` lists every standard the source says the product conforms to
+or is designed, tested, threaded, drilled or flanged to (e.g. BS EN 593, BS 7350, BS EN 10226-2, ISO 7-1, ISO 228,
+BS EN 1092-2, ANSI B16.1), one entry per standard number as written (year and part suffixes as given). Standards
+named only as "formerly ..." and test standards of other products are not listed. Thread or flange standards are
+recorded here in addition to the `end_connections` term. Spelling-only differences (spaces, hyphens, e.g. `MSS SP-110` / `MSS-SP-110`, `PS117-2004` / `PS1172004`)
+do not make a different standard: each source's list keeps that source's spelling, and `cross_check` compares them as
+the same entry (decided 2026-10-11).
+
+**PN and class designations (decided 2026-10-11).** A PN designation (PN16, PN25) is recorded as
+`pressure_rating` value = the PN number, unit `bar`, `raw_text` the designation. When a source gives only a class
+(e.g. ANSI 125) and the same sheet has a pressure/temperature table in bar or psi, the value is the table's maximum
+pressure; the class stays in `raw_text`. Page and sheet are cross-checked on the designation they state. A PN
+that only qualifies a connection (e.g. "Drilled Flange PN 16", "flanges to EN 1092-2 PN16") describes the flange drilling:
+it stays in the `end_connections` `raw_text`, and when the same source states a working or maximum pressure, that
+pressure is the `pressure_rating` (decided 2026-10-11). When one source lists several PN designations (PN 10, PN 25, PN 40; PN10 to PN150), the value is the
+highest PN; a pressure row that gives both classes and PNs is recorded by its PN, the classes stay in `raw_text` (decided 2026-10-11).
 
 Every value stores: `value`, `unit` (normalized), `raw_text`, `sources[]` (each: url, type page|pdf, PDF page number, section, verbatim quote, snapshot hash, retrieval time).
 
@@ -181,6 +225,11 @@ Every cited source (page or PDF) has a snapshot. Its extracted text is saved as 
 | `price_list_id` | if from a price-list PDF |
 | `notes` | e.g. "subject to distributor multiplier" |
 | source | URL (+ page number if PDF) |
+
+**Families without variants (decided 2026-10-11).** A family that lists no identifiers (SPEC 3) has no variants to
+hold a price, so its price status goes in the family field `family_prices` (same `price` object, `availability`
+always filled, e.g. `request_quote` for a "Request a Quote" page). `family_prices` is used **only** when `variants`
+is empty; families with variants keep prices on the variants. Its `availability` is scored with the variant prices.
 
 ## 8. Output schema
 ```

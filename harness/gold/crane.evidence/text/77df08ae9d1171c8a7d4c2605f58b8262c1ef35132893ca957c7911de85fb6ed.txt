@@ -1,0 +1,505 @@
+INSTALLATION, OPERATING AND MAINTENANCE INSTRUCTIONS
+COPPER ALLOY BALL VALVES
+D171 / D171A / D191 BRONZE & DZR BRASS BALL VALVES
+Crane Copper Alloy Ball Valves are compact, 
+lightweight units, which are easy to install and 
+operate. Their robust design ensures a long and 
+trouble-free life. The wide range offers full flow 
+with minimum turbulence in the open position 
+and bubble tight seal in the closed position.
+These Ball Valves have a quarter turn operation, 
+from fully open to closed positions. Valves must 
+be installed into a well-designed system and it 
+is recommended that the system is inspected in 
+accordance with the appropriate member state 
+legislation.
+Preparation
+•	 Prior to installation, a check of the identification 
+plate and body marking must be made to 
+ensure that the correct valve is being installed.
+•	 Ensure valve is suitable for service conditions 
+e.g. pressure, temperature, service media. 
+Remove dust caps/flange protectors, where 
+fitted.
+•	 The complete piping system must be flushed 
+through prior to commissioning to ensure all 
+foreign matter is removed. Subsequent valve 
+failure is frequently caused by dirt and other 
+matter left in the pipeline.
+GENERAL INSTALLATION
+INTRODUCTION
+•	 Valves are precision manufactured items and 
+as such, should not be subjected to misuse 
+such as careless handling, allowing dirt to 
+enter the valve through the end ports, lack 
+of cleaning both valve and system be-fore 
+operation and excessive force during lever 
+opera-tion. All special packaging material must 
+be removed.
+•	 Immediately prior to valve installation, the 
+pipework to which the valve is to be fastened 
+should be checked for cleanliness and 
+freedom from debris.
+
+
+CRANE FLUID SYSTEMS – COPPER ALLOY BALL VALVE
+2
+INSTALLATION, OPERATING AND MAINTENANCE INSTRUCTIONS
+GENERAL INSTALLATION ( C O N T I N U E D )
+THREADED END VALVES
+When installing a valve with threaded ends to 
+steel pipe;
+•	 Always use the flats on the hexagon at the end 
+being fitted to the pipe.
+•	 Always use a correctly sized spanner or 
+wrench on the flats provided.
+•	 Do not grip around the valve body joint.
+•	 Never drive torque through the main body joint 
+during assembly.
+•	 Screw the pipe into valve and hand tighten, 
+then tighten by the number of turns shown 
+below (up to one additional turn is permitted 
+for alignment).
+When installing a valve with compression ends to 
+copper tube;
+•	 Always use a correctly sized spanner or 
+wrench on the flats provided.
+•	 Do not grip around the valve body joint.
+•	 Never drive torque through the main body joint 
+during assembly.
+•	 Compression nuts must be hand tightened 
+and then further tightened as per diagram to 
+the right.
+LAYOUT AND SITING
+•	 It should be considered at the design stage 
+where valves will be located to give access 
+for operation, adjustment, maintenance and 
+repair.
+•	 Valves must be provided with adequate 
+support. Adjoining pipework must be 
+supported to avoid the imposition of pipeline 
+strains on the valve body, which would impair 
+its performance.
+•	 The Ball Valves stated in this document are 
+bi-directional and can be installed in any flow 
+direction.
+•	 Hose union valves may also be installed in any 
+orientation but attention should be paid to the 
+surrounding structures, ensuring that the hose 
+union connection may be easily accomplished 
+and that the valve lever movement is not 
+impaired.
+•	 Care is needed during installation to provide 
+sufficient room to enable the valve to be 
+operated.
+•	 In the interests of safety, valves installed on 
+end-of-line service in the closed position with 
+infrequent opening should be fitted with a 
+locking device on the operating mechanism. 
+Alternatively, it should be fitted with a 
+blanking plug or cap on the downstream end 
+connection of the valve.
+Valve Size
+Turns
+1/4” - 1 1/2”
+1.5
+2”
+2
+2 1/2” - 4”
+2.5
+COMPRESSION END VALVES
+Copper Pipe
+These valves are fitted with compression ends 
+to BS EN 1254-2 (formerly BS 864 Part 2), 
+which are suitable for installation onto copper 
+pipework to BS EN 1057:R250 (half hard) and 
+are provided with olives and compression nuts. 
+No pipe jointing compound should be used in 
+the compression joints, a light oil may be used 
+on threads to ease tightening, however, and no 
+lubricant should be used on the pipe or olive.
+
+
+3
+CRANE FLUID SYSTEMS – COPPER ALLOY BALL VALVE
+INSTALLATION, OPERATING AND MAINTENANCE INSTRUCTIONS
+OPERATION
+Ball Valves have a quarter turn operation 
+(clockwise to close) providing quick and positive 
+isolation.
+To close the valve, the handle or key is rotated 
+clockwise to a positive stop.
+To open the valve, the handle or key is rotated 
+anti-clockwise to a positive stop.
+Note: The operator should use suitable hand 
+protection at extreme temperature conditions.
+Rapid closure of a quarter turn valve on liquid 
+services may cause system water hammer.
+Ball Valves have PTFE body seats and should 
+only be used in full open or closed positions.
+For operation purposes, the Ball Valve is 
+provided with either a lever handle, T-handle or 
+Lockshield.
+Where a Lockshield is fitted.
+•	 Remove plastic cover to access drive 
+mechanism.
+•	 Valve may be open or closed using standard 
+hex spanners / sockets.
+•	 Replace Lockshield cover after operation.
+•	 If valve is to be locked either open or closed:
+•	 Remove retaining nut from drive mechanism.
+•	 Lift drive mechanism and turn through 90° 
+ensuring slot in mechanism locates on body 
+stop tang.
+•	 Refit retaining nut.
+•	 Replace Lockshield cover.
+•	 Ball Valves may be fitted in vertical, horizontal 
+or inclined pipelines.
+•	 Flow may be in either direction and the valve 
+may be any way up, on its side or upside 
+down. The position chosen should allow easy 
+access to the operating mechanism. It is 
+important to leave access to the gland nut, if 
+fitted.
+HOSE UNION VALVES
+Remove hose union nut and tailpipe taking care 
+not to lose the tail piece seal.
+The valve ends are threaded parallel, therefore, 
+the valve must be fully tightened up to the body 
+shoulder.
+Sealing compounds may be used and a sealing 
+washer on the body shoulder would provide 
+additional security.
+The wrench must only be located on the valve 
+end into which the pipe is being threaded to 
+avoid distortion of the valve. After installation, the 
+valve may be opened and closed fully to confirm 
+satisfactory operation.
+Further Tightening
+Valve Size
+Turns
+15mm to 54mm
+Between 3/4 & 1 1/4 Turns
+
+
+4
+INSTALLATION, OPERATING AND MAINTENANCE INSTRUCTIONS
+INSPECTION & MAINTENANCE
+LIMITS OF USE
+The Crane Ball Valve is maintenance free but 
+for optimum and long life service the following 
+points must be considered:
+Note: The valve should be at zero pressure and 
+ambient temperature prior to any inspection. 
+Maintenance Engineers & Operators are 
+reminded to use correct fitting tools and 
+equipment. A full risk assessment and 
+methodology statement must be compiled prior 
+to any maintenance
+•	 Check for leaks at gland. If gland is leaking, 
+tighten the gland nut’s. The gland nut’s should 
+be tightened only enough to prevent gland 
+leakage. Over-tightening can cause excessive 
+wear on the stem and packing and make the 
+valve difficult to operate. If leakage persists the 
+packing should be replaced.
+•	 At minimum, annually, operate valves that 
+remain open or closed for long periods to 
+ensure they are in good working order, thus 
+avoiding the possibility of being inoperable in a 
+time of emergency.
+•	 The risk assessment must take into account 
+the possibility of the limits of use being 
+exceeded whereby a potential hazard could 
+result.
+•	 A maintenance program should, therefore, 
+include checks on the development of 
+unforeseen conditions, which could lead to 
+failure.
+These valves have been categorised in 
+accordance with the Pressure Equipment 
+Directive 2014/68/EU.
+The fluid to be transported is limited to those 
+shown in the product table below. On no account 
+can these valves be used on any unstable fluids, 
+or for the fluids groups not specified in the 
+product table.
+Note - Valves that are classified as SEP (Sound 
+Engineering Practice) are not CE marked 
+and therefore do not require a declaration of 
+conformity.
+Products conforming to Cat I of the PED 
+2014/68/EU shall include the CE Mark.
+•	 Valves must be installed into a well-designed 
+system and it is recommended that the 
+system be inspected in accordance with the 
+appropriate national and regional legislation.
+•	 Valves must be installed by competent 
+personnel only.
+•	 The installation should be designed to provide 
+adequate means of draining and venting to 
+avoid harmful effects such as water hammer, 
+vacuum collapse, corrosion and uncontrolled 
+chemical reactions and to permit cleaning, 
+inspection and maintenance in the correct 
+manner.
+•	 Valves are not designed to operate under high 
+shock loadings. Where pressure increases 
+occur due to shock loading (water hammer), 
+they should be added to the working pressure 
+to obtain the total pressure acting on the valve.
+•	 The total must not exceed the pressure rating 
+of the valve. A pressure surge, or shock, 
+is usually caused by the rapid closure of a 
+check valve or quarter turn valve resulting in a 
+sudden reduction in flow rate.
+•	 Where the lever, and therefore the valve 
+identification, is removed for maintenance it 
+must be refitted after the work is completed. 
+The absence of the lever invalidates the valve’s 
+CE status.
+•	 Maximum operating pressure reduces as 
+service temperature increases, Service 
+temperature and pressure indicated on the 
+identification plate or body marking should not 
+be exceeded.
+CRANE FLUID SYSTEMS – COPPER ALLOY BALL VALVE
+
+
+5
+INSTALLATION, OPERATING AND MAINTENANCE INSTRUCTIONS
+•	 It is the responsibility of the installer to ensure 
+that the valves do not exceed the allowable 
+limits of pressure. However, the equipment is 
+designed to withstand a momentary pressure 
+surge of up to 10% above the maximum 
+working pressure.
+•	 The product has not been designed to include 
+corrosion, erosion or abrasion allowances. Any 
+queries regarding service applications should 
+be addressed to the Crane Fluid Systems - 
+Technical Sales Department.
+•	 The valves have been designed for loadings, 
+appropriate to its intended use and other 
+reasonably foreseeable operating conditions. 
+Loadings caused by traffic, wind and 
+earthquake have not been taken into account.
+Fig. No.
+Pressure 
+Rating
+Connection 
+Ends
+PED Category by 
+Valve Size
+Product Applications
+Group 1 
+Gas
+Group 2 
+Gas
+Group 1 
+Liquid
+Group 2 
+Liquid
+SEP
+CAT 1
+D171AC / D171ACEXS / 
+D171ACTH / D171ACLS
+PN16
+Compression
+15mm – 
+54mm
+
+
+
+D191
+MOP 5 
+(Gas)
+Threaded
+½” – 1”
+1 ¼” – 2”
+
+
+
+
+D171A / D171ALS / 
+D171ATH / D171AEXS
+PN25
+Threaded
+½” – 
+1 ½”
+2”
+
+
+
+D171 / D171EXS / 
+D171LS / D171T
+PN25
+Threaded
+½” – 
+1 ½”
+2”
+
+
+
+•	 Not suitable for fatigue loading, creep 
+conditions, fire testing, fire hazard 
+environment, corrosive or erosive service, 
+transporting fluids with abrasive solids.
+•	 The piping system shall be designed to reduce 
+the risk of fatigue due to vibration of pipes.
+•	 Crane valves have not been designed as fire 
+safe valves.
+CRANE FLUID SYSTEMS – COPPER ALLOY BALL VALVE
+
+
+6
+INSTALLATION, OPERATING AND MAINTENANCE INSTRUCTIONS
+OPERATION PRESSURE AND TEMPERATURE
+Fig. No.
+Pressure 
+Rating
+Connection 
+Ends
+Body 
+Material
+Size
+Maximum Operating 
+Pres-sure Conditions
+Maximum Operating 
+Tempera-ture Conditions
+D171AC / 
+D171ACEXS 
+/ D171ACTH 
+/ D171ACLS
+PN16
+Compression
+Bronze
+15mm 
+-54mm
+16 bar from -10°C to 30°C
+5 bar at 120°C
+D191
+PN25
+Threaded
+DZR 
+Brass
+1/4” - 2”
+5 bar from -10°C to 60°C 
+(Gas) 25 bar from -10°C to 
+100°C (Non Gas)
+5 bar at 60°C (Gas) 
+23.5 bar at 110°C (Non Gas)
+D171A / 
+D171ALS / 
+D171ATH / 
+D171AEXS
+PN25
+Threaded
+DZR 
+Brass
+1/4” - 2”
+25 bar from -10°C to 
+100°C
+21.8 bar at 120°C
+D171 / 
+D171EXS/ 
+D171LS/ 
+D171T
+PN25
+Threaded
+Bronze
+1/4” - 2”
+25 bar from -10°C to 
+100°C
+10.5 bar at 186°C
+CRANE FLUID SYSTEMS – COPPER ALLOY BALL VALVE
+
+
+7
+INSTALLATION, OPERATING AND MAINTENANCE INSTRUCTIONS
+STRESS CORROSION CRACKING
+Stress Corrosion Cracking is a known condition 
+which can sometimes occur when certain criteria 
+are met simultaneously.
+•	 A material susceptible to SCC.
+•	 Induced stress (arising from incorrect 
+installation) or inherent stress (arising from the 
+manufacturing process)
+•	 A corrosive environment, for example, arising 
+from chemical dosing of a system, using 
+corrosive species such as Silver Peroxide, or 
+a compound of Silver Nitrate and Hydrogen 
+Peroxide. Also from items such as phenolic 
+foam insulation, which happens when the 
+foam becomes wet and results in the leaching 
+of chloride from the material.
+•	 Where SCC does occur, the root cause the 
+stress factor is, typically, as a result of induced 
+torsional stress during installation, hoop 
+stress during joint formation (particularly on 
+compression fittings), or cyclic flexural stress 
+during operation.
+•	 Installation of any Crane product must 
+precisely follow the instructions defined in this 
+IOM, using the correct tools, avoiding the use 
+of augmented jointing material and ensuring 
+over-tightening is avoided.
+•	 Crane manufacture these Ball Valves for 
+the Building Services industry and are 
+not system designers or operators. The 
+use of chemicals for system dosing must 
+be determined by the user as all aspects 
+of system variables (biocides, inhibitors, 
+system medium, raw water condition (where 
+used), existing microbiological processes 
+within the system, temperature, mechanical 
+configuration, etc) must be established and 
+considered, and the effect of the chemicals 
+used (including compounds arising from 
+chemical combinations) must also be 
+established in order to accurately determine 
+compatibility.
+•	 Crane cannot make recommendations 
+regarding chemical compatibility for the 
+system, as a result of the above variables, 
+which includes all components, substances 
+and materials. Any comments from Crane 
+regarding chemical compatibility shall 
+relate solely to the Crane product and 
+does not constitute a recommendation on 
+compatibility for the wider system, resultant 
+chemical compounds, components, 
+substances or materials, in whole or in part.
+•	 For further assistance with regards to SCC, 
+please contact the Crane Technical Help
+CRANE FLUID SYSTEMS – COPPER ALLOY BALL VALVE
+
+
+www.cranebsu.com
+CFS_BV_1224
+IOM_OA_03670S_Rev A
+MIDDLE EAST & NORTH AFRICA 
+SALES OFFICE, 
+BUILDING 4, OFFICE 901, 
+THE GALLERIES, PO BOX 17415,
+DOWNTOWN JEBEL ALI
+DUBAI, UAE
+TELEPHONE: +971 4816 5800
+EXPORT SALES ENQUIRIES: mena-enquiries@cranefs.com
+• Designed and manufactured under quality management systems in accordance with BS EN ISO 9001.
+Every effort has been made to ensure that the information contained in this publication is accurate at the time of publishing. 
+Crane Ltd assumes no responsibility or liability for typographical errors or omissions or for any misinterpretation of the 
+information within the publication and reserves the right to change without notice.
+CRANE HOUSE, EPSILON TERRACE, 
+WEST ROAD, IPSWICH, 
+SUFFOLK IP3 9FJ
+TELEPHONE: +44 (0)1473 277300
+FAX: +44 (0)1473 277301
+UK SALES ENQUIRIES: enquiries@cranefs.com 
+TECHNICAL ENQUIRIES: tech-enquiries@crane-ltd.co.uk
+TELEPHONE: +44 (0)1473 277400 
+www.cranefs.com
+To visit our Video Library go to: 
+www.youtube.com/user/CraneBSU
+FM 00311
+EMS 553775

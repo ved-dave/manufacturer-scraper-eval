@@ -1,0 +1,142 @@
+BALL VALVES
+12
+TECHNICAL HELPLINE: +44 (0)1473 277400 
+E: enquiries@cranefs.com  W: www.cranefs.com
+Every effort has been made to ensure that the information contained in this publication is accurate at the time of publishing. Crane Ltd assumes no responsibility or liability for typographical errors or  
+omissions or for any misinterpretation of the information within the publication and reserves the right to change without notice.
+ BALANCING VALVES
+Features & Benefits
+•	D901 Flow Measurement Device is suitable for systems where 
+pipes have been sized on the basis that pipe 
+frictional losses lie in the range 100 to 400 Pa/m
+•	D902 Flow Measurement Device (1/2"/15mm size only) 
+is suitable for the measurement of ultra-low flows in the range 
+0.015 to 0.06 l/sec e.g. flows to fan coil units
+•	Supplied with red and blue test points for upstream and 
+downstream port identification
+•	Flow measurement accuracy of ±5% 
+•	WRAS Approved for use with potable water up to 85°C
+Materials 
+D901 / D902 
+D901
+PART 	
+MATERIAL 	
+SPECIFICATION 
+Body and Integral Orifice 	
+DZR copper alloy 	
+BS EN 12165 CW602N 
+P84 Pressure Test Point 	
+DZR copper alloy 	
+BS EN 12164 CW602N
+Dimensions, Coefficients & Weights 
+Pressure/Temperature Ratings
+PRESSURE RATING: PN25
+SPECIFICATION: FMDs conform to BS 7350*:1990. 
+END CONNECTIONS: 	
+
+D901 - Sizes 3/4" to 2"
+Inlet: BS EN 10226 formerly BS 21 (ISO 7) taper female. Outlet: BS EN 10226 formerly BS 21 (ISO 7) taper male. 
+D901/D902 - Sizes 1/2" Inlet: (ISO 228) parallel female threads. 
+Outlet: BS EN 10226 formerly BS 21 (ISO 7) taper male threads.
+Dimensional Drawing
+	FIG. NO. 	
+ SIZE         	  END TO END	
+CENTRE- 	
+FLOW 	
+HEAD 	 KVS 	 WEIGHT
+	
+	
+	
+	
+TO-TOP	
+LOSS
+	
+	
+	
+A (mm) 	
+B (mm) 	
+(Kv) 	
+(K)  	
+	
+(kg)
+ 	D901	
+1/2"/DN15 	
+57	
+52 	
+2.8	
+13.5 	
+2.2 	
+0.24 
+	
+	
+3/4"/DN20 	
+58	
+55.5 	
+6.1 	
+9.1 	
+4.7 	
+0.28 
+ 	
+	
+1"/DN25 	
+66 	
+58 	
+11.9 	
+6.1 	
+8.6 	
+0.40 
+ 	
+	
+11/4"/DN32 	
+72 	
+63.5 	
+23.4 	
+4.8 	
+16.6 	
+0.55 
+ 	
+	
+11/2"/DN40 	
+72	
+66.5 	
+36.2 	
+3.7 	
+24.5 	
+0.60 
+ 	
+	
+2"/DN50 	
+82	
+72 	
+71.6 	
+2.4 	
+46.1 	
+0.90
+	D902 	
+1/2"/DN15 	
+57	
+52 	
+0.57 	
+333 	
+0.54 	
+0.24 
+Threaded
+TEMPERATURE (°C) 	
+-10 to 100 	
+110 	
+120 
+PRESSURE (BAR) 	
+25 	
+23.4 	
+21.8 
+Intermediate pressure ratings shall be determined by 
+interpolation. 
+Maximum temperature 120°C.
+WRAS Approved Product to 85°C. 
+Note: In line with BS EN 1254/2, the maximum pressure must 
+not exceed 16 bar when using compression adaptors.
+*Except pressure rating exceeds BS.
+Flow Measurement Device (FMD) 
+PN25
+Valid as of 100124
+FLOW MEASUREMENT DEVICE

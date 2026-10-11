@@ -1,0 +1,991 @@
+--- page 1 ---
+SERIES 5B/C
+VALVE STATUS MONITOR DEVICENET™
+Installation, Operation and Maintenance Manual
+THE HIGH PERFORMANCE COMPANY
+BRAY.COM
+
+--- page 2 ---
+
+--- page 3 ---
+1
+Series 5B/C Valve Status Monitor DeviceNet™ Interface
+Installation, Operation and Maintenance Manual
+TABLE OF CONTENTS
+1.0 Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+2.0 Description of Operation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+3.0 Hardware Description. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+3.1 Field Connection Terminals. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+3.1.1 DeviceNet™ connections . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+3.1.2 Power Supply . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+3.1.3 Load Connections. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+3.2 Factory Connection Terminals . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+3.2.1 Limit Switches. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+3.2.2 Optional Auxiliary Switches . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+3.3 LED Description . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+3.3.1 Module Status  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+3.3.2 Network Status . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+3.3.3 Node Address  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+3.3.4 Baud Rate. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+3.3.5 Product Status . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+3.3.6 Open/Close . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+3.4 User Switches . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+3.4.1 Calibration Switch . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+3.4.2 Baud Rate Switch . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+3.4.3 Node Address Switches . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+4.0 DeviceNet™ Interface. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+4.1 Configuration . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+4.2 Commissioning . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+4.2.1 EDS File . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+4.3 Communication . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+4.3.1 Polled Message Connection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+4.3.2 Explicit Message Connection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+4.4 Supported Attributes  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+4.4.1 Attribute Definitions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+4.4.1.1 Parameter 1 – Command Position. . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+4.4.1.2 Parameter 2 – Valve Position . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+4.4.1.3 Parameter 3 – Limit Switches . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+4.4.1.4 Parameter 4 – Auxiliary Switches . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+4.4.1.5 Parameter 5 – Enable Failure Detect. . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+4.4.1.6 Parameter 6 – Failure Command State . . . . . . . . . . . . . . . . . . . . . . . . . 8
+4.4.1.7 Parameter 7 – Product Status . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+4.4.1.8 Parameter 8 – Load 1 Status . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+4.4.1.9 Parameter 9 – Load 2 Status . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+4.4.1.10 Parameter 12 – Serial Number .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 8
+5.0 Quick Start Guide . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+6.0 Installation Instructions. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+7.0 Exploded View Drawings. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+7.1 Exploded View - 5B . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+7.1 Exploded View - 5C . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+8.0 Technical Speciﬁcations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+
+--- page 4 ---
+2 
+Series 5B/C Valve Status Monitor DeviceNet™ Interface
+Installation, Operation and Maintenance Manual
+1.0 INTRODUCTION
+The Bray Series 5B/C (S5B/C) Valve Status Monitor 
+(VSM) with Communication Protocol electronics 
+(CommPro) is an intelligent switchbox device that 
+provides both position feedback and diagnostic 
+information for discrete valves. It accomplishes 
+this by interfacing with a bus network, over which 
+commands can be sent and feedback can be 
+returned. Once connected to the network, the Bray 
+S5B/C VSM with CommPro becomes part of a larger 
+system, which is required to ensure proper operation 
+of the device. To refer to the elements of the system, 
+a common terminology is used throughout this 
+document, as defined below. 
+Definition of Terms
+• CommPro – Bray S5B/C Valve Status Monitor with 
+DeviceNet™ Communication Protocol module
+• Valve – Discrete valve being monitored by the 
+CommPro module
+• Process Controller – Device acting as the 
+network master that communicates with the 
+S5B/C via the CommPro module. 
+2.0 DESCRIPTION OF OPERATION
+The function of the CommPro is to monitor the state 
+of mechanical switches operated by a rotating cam 
+shaft internal to the VSM. This cam shaft is set to 
+trip the switches when the valve travel limits have 
+been reached. Operation of the valve position can 
+be controlled by the process, or the CommPro can 
+operate the valve to the travel limits using solenoid 
+valves. This operational capability, coupled with the 
+position monitoring, gives the CommPro the ability 
+to report degraded or erroneous operation to the 
+Process Controller based on calibration procedures 
+performed at the factory or on-site. 
+Every CommPro has been designed to communicate 
+using a specific communication protocol, designated 
+by the part number. 
+• DeviceNet™: 5B-0000-77600-536
+If CommPro is installed in S5C VSM, refer to S5C 
+IOM for additional requirements.
+NOTICE
+Operating the CommPro outside the operational 
+constraints defined in this manual may impair the 
+protection provided by the equipment.
+3.0 HARDWARE DESCRIPTION
+• One terminal strip (11 terminals) for field 
+connections
+• Two terminal strips (4 terminals each) for factory 
+wiring of position switches
+• LED User Interface
+• Bi-color Red/Green DeviceNet™ Module & 
+Network Status LEDs
+• Tri-color RGB DeviceNet™ Baud Rate LED
+• Seven segment Red Node Address LED 
+indication
+• Bi-color Red/Blue Product Status LED
+• Bi-color Red/Green Open/Close Position LED
+• Parameter switches
+• Calibration switch
+• Baud Rate switch
+• Node Address adjustment switches
+
+--- page 5 ---
+3
+Series 5B/C Valve Status Monitor DeviceNet™ Interface
+Installation, Operation and Maintenance Manual
+3.1 Field Connection Terminals
+Each CommPro has 11 terminals dedicated to field 
+connections. These terminals are where the bus 
+connections are made, where external power is 
+provided (if needed), and the load connections are 
+terminated.
+Figure 1: Field wiring of the CommPro
+3.1.1 DeviceNet™ connections
+The CommPro can be provided with a 5-pin 
+DeviceNet™ connector. This connector is factory 
+terminated at the field terminals, so additional 
+wiring is not required.
+3
+2
+1
+5
+4
+1 = GRAY 
+(SHIELD)
+2 = RED 
+(+ VOLTAGE)
+3 = BLACK (– VOLTAGE)
+4 = WHITE (CAN_H)
+5 = BLUE 
+(CAN_L)
+Figure 2: DeviceNet™ Male Connector
+3.1.2 Power Supply 
+For DeviceNet™, power is provided to the CommPro 
+via the communication bus connections. However, 
+the CommPro can operate a load as large as 13.8W, 
+which may be too great a load for some networks to 
+sustain. Therefore, an external power connection is 
+provided to reduce loading on the bus power supply. 
+In addition, this external power connection can be 
+used as a backup power supply if bus power is lost.
+If used, the power supply must provide 24VDC ± 
+10%, and must power the CommPro module along 
+with any load connections. If the maximum output 
+load is needed (13.8W), then the power supply 
+should be able to supply at least 750mA. Since 
+this is a DC connection, it is important that proper 
+polarity is maintained when making this connection. 
+3.1.3 Load Connections
+The CommPro is designed to operate up to two 
+inductive loads at 24VDC. The product was 
+specifically designed and tested to operate two 
+6.9W solenoid valves; however, any resistive or 
+inductive load of equal or lesser wattage could be 
+operated from this connection.
+Each load connection has a wattage limit of 6.9W, 
+and the CommPro has a total wattage limit of 
+13.8W. Exceeding these limits will result in a fault 
+state. All loads are operated discretely (on/off) 
+using 24VDC. Since these are DC connections, it is 
+important that proper polarity is maintained when 
+making these connections.
+3.2 Factory Connection Terminals
+Two terminal strips, located on the opposite 
+side of the CommPro from the field connection 
+terminals, are provided for making factory installed 
+terminations. It is at these terminals that the position 
+monitoring switches are connected. 
+Figure 3: Factory wiring of the CommPro module
+3.2.1 Limit Switches
+The switches attached to this terminal strip have 
+been set at the factory to be engaged when the 
+travel limits have been reached, fully open and 
+fully closed. The CommPro relies on this position 
+feedback to report position to the Process Controller. 
+If the switches are not being engaged at the fully 
+open and close positions, the cams on the cam shaft 
+should be adjusted to ensure proper operation. If 
+both switches are engaged at the same time, a fault 
+state will occur. 
+3.2.2 Optional Auxiliary Switches
+Auxiliary switches allow for custom indication to be 
+provided to the Process Controller. The cams that 
+engage the auxiliary switches can be positioned to 
+any position desired in the field, as these switches 
+do not affect standard operation of the CommPro.
+
+--- page 6 ---
+4 
+Series 5B/C Valve Status Monitor DeviceNet™ Interface
+Installation, Operation and Maintenance Manual
+3.3 LED Description
+3.3.1 Module Status 
+The bi–color (Green/Red) LED provides device status as required in the DeviceNet™ standard. It indicates 
+whether the device has power and is operating properly.
+For this state:
+LED is:
+To indicate:
+No Power
+Off
+There is no power applied to the device.
+Device Operational
+Green
+The device is operating in a normal condition.
+Device in Standby 
+(The Device Needs 
+Commissioning)
+Flashing Green1
+The device needs commissioning due to configuration missing, incomplete or 
+incorrect. The device may be in the Standby state. Reference the Identity Object in 
+Volume 1, Chapter 5: Object Library.
+Recoverable Fault
+Flashing Red1
+The device has a recoverable fault.
+Unrecoverable Fault
+Red
+The device has an unrecoverable fault; may need replacing.
+Device Self Testing
+Flashing Red-Green1
+The device is in Self Test. Reference the Identity Object in Volume II for device states.
+1For information on LED flash rates, refer to section 9.2.8
+Figure 3: Module Status States (from Page 9-2.1 of The CIP Networks Library, Volume 3, DeviceNet™ 
+ 
+Adaptation of CIP, Ed. 1.14, Nov 2013)
+3.3.2 Network Status 
+The bi–color (Green/Red) LED indicates the status of the communication link as required in the DeviceNet™ 
+standard.
+For this state:
+LED is:
+To indicate:
+Not Powered/Not On-line
+Off
+Device is not on-line.
+– The device has not completed the Dup_MAC_ID test yet.
+– The device may not be powered, look at Module Status LED.
+– No network power present.
+On-line. Not Connected
+Flashing Green1
+Device is on-line but has no connections in the established state.
+– The device has passed the Dup_MAC_ID test, is on-line, but has no established 
+connections to other nodes.
+– For a Group 2 Only device it means that this device is not allocated to a master.
+– For a UCMM capable device it means that the device has no established 
+connections.
+Link OK
+On-line, Connected
+Green
+The device is on-line and has connections in the established state.
+– For a Group 2 Only device it means that the device is allocated to a Master.
+– For a UCMM capable device is means that the device has one or more 
+established connections.
+Connection Time-Out
+Flashing Red1
+One or more I/O Connections are in the Timed-Out state.
+Critical Link Failure
+Red
+Failed communication device. The device has detected an error that has rendered 
+it incapable of communicating on the network.
+(Duplicate MAC ID, or Bus-off).
+Communication Faulted 
+and Received an Identify 
+Comm Fault Request - 
+Long Protocol
+Flashing Red & 
+Green2
+A specific Communication Faulted device. The device has detected a Network 
+Access error and is in the Communication Faulted state. The device has 
+subsequently received and accepted an Identify Communication Faulted Request - 
+Long Protocol message.
+1For information on LED flash rates, refer to section 9-2.8
+2For information on LED flash rates, refer to Chapter 2, section 2-11.4.3
+Figure 4: Network Status States (from Table 9-2.2 of The CIP Networks Library, Volume 3, DeviceNet™ 
+ 
+Adaptation of CIP, Ed. 1.14, Nov 2013)
+
+--- page 7 ---
+5
+Series 5B/C Valve Status Monitor DeviceNet™ Interface
+Installation, Operation and Maintenance Manual
+3.3.3 Node Address 
+The Node Address displays the current address of 
+the CommPro module. For DeviceNet™, a valid 
+address must be assigned to the CommPro by the 
+user before bus communication can begin. 
+Default Address
+DeviceNet™: 63
+3.3.4 Baud Rate
+The tri-color (Red/Green/Blue) LED displays the data 
+rate of messages originating from the CommPro. 
+The CommPro must use the same data rate 
+as the DeviceNet™ network to be successfully 
+commissioned. The CommPro ships with a default 
+baud rate of 125K. 
+• 125K baud – Blue LED on
+• 250K baud – Green LED on
+• 500K baud – Red LED on
+3.3.5 Product Status
+The bi-color (Red/Blue) LED indicates normal 
+operation by cycling the blue LED on and off every 
+second. In the event of a fault state, the indicator 
+will alternate between red and blue every second. To 
+clear the fault state, the Calibration Switch must be 
+pressed to retest any load connections. 
+The possible faults that can occur are:
+• Limit Switch Fault – Both limit switches engaged 
+at the same time
+• Solenoid Overload – One of the load connections 
+is drawing too much current
+• VSM Overload – The total output load is too large 
+for the CommPro
+3.3.6 Open/Close
+The bi-color (Red/Green) LED indicates the current 
+position of the VSM, based on the limit switch state. 
+When in the open position, the green LED is on; 
+when in the close position, the red LED is on.
+3.4 User Switches
+3.4.1 Calibration Switch
+Switch that enters the CommPro into an automated 
+test of its output connections. Both outputs are 
+individually and quickly cycled (< 0.1s on time), 
+which allows for the power draw of each load to be 
+measured. In the event of excessive power draw at 
+one or both load connections, a fault state will be 
+entered.
+If a fault state is active, then the Calibration Switch 
+should be pressed for the load(s) to be retested. This 
+ensures that the fault condition has been corrected 
+by the user. 
+3.4.2 Baud Rate Switch
+Switch that allows for the operating baud rate of 
+the CommPro to be adjusted. When this switch is 
+pressed, the baud rate indicator will begin flashing, 
+indicating that it is adjustable. Every subsequent 
+press of the switch will increment the baud rate to 
+the next highest value. Once the highest baud rate is 
+reached, pressing the switch again will return to the 
+lowest baud rate value. Once the desired baud rate 
+has been selected, the baud rate switch should not 
+be pressed for at least 3 seconds. In that time, the 
+CommPro will set the baud rate to the new value.
+Valid Baud Rates 
+125K, 250K, 500K
+3.4.3 Node Address Switches
+Switches that allow the address of the CommPro 
+to be adjusted. When either of these buttons 
+are pressed, the node address display will begin 
+flashings, indicating that it is adjustable. Pressing 
+one of the switches while the node address display 
+flashes will cause the address to increment or 
+decrement, dependent on which switch is pressed. 
+Holding one of the switches while the node address 
+display flashes will automatically increment the 
+node address every 0.25 seconds. Once the desired 
+address has been selected, the node address 
+switches should not be pressed for at least 3 
+seconds. In that time, the CommPro will set the 
+address to the new value.
+Valid Address Range
+DeviceNet™: 0-63
+
+--- page 8 ---
+6 
+Series 5B/C Valve Status Monitor DeviceNet™ Interface
+Installation, Operation and Maintenance Manual
+4.0 DEVICENET™ INTERFACE
+4.1 Conﬁguration
+When adding the CommPro to a DeviceNet™ 
+network, it must have a unique node address. The 
+CommPro ships with a node address of 63 and baud 
+rate of 125K, which are the default values for a new 
+device. If the CommPro is added to a network with 
+either a conflicting MAC ID or incorrect Baud rate, 
+the network will not be affected, but the CommPro 
+will be taken offline as indicated by a solid red 
+color on the Network LED. The unit must then be 
+removed from the network and returned after the 
+conflicts have been resolved. 
+4.2 Commissioning
+Commissioning is the process of taking the 
+CommPro from the on-line state to establishing a 
+dedicated connection with a master on the network. 
+The controller supports a Polled network connection 
+and an Explicit message connection. These 
+connections are supported simultaneously but only 
+one connection of each type is supported at a time.
+When the controller transitions from the On-line 
+state to the Commissioned state, the Network LED 
+will change from flashing green to a solid green. 
+When the Master / Slave relationship is released, the 
+Network Led will return to a flashing green.
+The Process Controller needs to have the 
+information contained in the EDS file of the 
+CommPro referenced before commissioning will 
+occur. 
+4.2.1 EDS File
+An EDS (Electronic Data Sheet) is an external file that 
+contains information about configurable attributes 
+for a device, including object addresses of each 
+parameter. The EDS provides the user with a simple 
+to use interface for configuring and monitoring a 
+device.
+The EDS file is included with the CommPro to aide 
+in commissioning. Products such as the Process 
+Controller will use the EDS to automatically 
+obtain the data that is required for configuration. 
+When the CommPro EDS file is accessed through 
+an application, all the parameters available for 
+monitoring and configuration are displayed. EDS 
+parameters which are settable can be modified and 
+saved to the CommPro. 
+Depending upon the EDS enabled application that 
+is used, features such as monitoring are available 
+which provide the user with a continuously updated 
+display of the selected parameter group.
+4.3 Communication
+All communication with the CommPro takes place 
+over the DeviceNet™ network. The DeviceNet™ 
+interface gives the user the ability to control and 
+monitor the CommPro. The CommPro supports 
+standard DeviceNet™ Polled and Explicit messaging 
+connections.
+4.3.1 Polled Message Connection
+A polled message connection provides a Master 
+with the ability to rapidly send and receive short 
+messages to all devices on a network in a cyclic 
+fashion. This is typically the main communication 
+mode of a process controller.
+The Polled message sent by the master must be 
+1 byte in size, which the CommPro responds to 
+with 2 bytes. All bytes received by the CommPro 
+are referred to as consumed bytes and all bytes 
+transmitted by the CommPro are referred to as 
+produced bytes.
+Produced Message
+Connection 
+Path
+Class 4 (Assembly), Instance 
+101, Attribute 3
+Size
+2 bytes
+Description
+Provides position & status 
+information. Message 
+composition shown below.
+9988443322222222
+99 – 2 bits – Same format as parameter 9
+88 – 2 bits – Same format as parameter 8
+44 – 2 bits – Same format as parameter 4
+33 – 2 bits – Same format as parameter 3
+22222222 – 8 bits – Same format as parameter 2
+Consumed Message
+Connection 
+Path
+Class 4 (Assembly), Instance 
+100, Attribute 3
+Size
+1 byte
+Description
+Accepts a position command. 
+Uses the same format as 
+Parameter 1 in the Supported 
+Attributes.
+4.3.2 Explicit Message Connection
+An explicit message connection provides the Master 
+with the ability to directly access a parameter that is 
+supported by the CommPro. These parameters are 
+accessed by using the “GET” or “SET” DeviceNet™ 
+attribute service. 
+
+--- page 9 ---
+7
+Series 5B/C Valve Status Monitor DeviceNet™ Interface
+Installation, Operation and Maintenance Manual
+4.4 Supported Attributes  
+The CommPro supports attributes in Application 
+Class 100, Instance 1, which provide access to 
+the features that are also accessible in the EDS 
+(Electronic Data Sheet).  These attributes are 
+provided in the event the user wishes to monitor 
+or control aspects of the controller beyond a polled 
+message connection.
+A Process Controller will typically access the 
+CommPro through a polled message connection. 
+To monitor or control additional features of the 
+CommPro, an explicit message must be sent to the 
+appropriate attribute. All attributes can be read (GET 
+service) and written (SET Service) unless otherwise 
+noted. 
+The EDS (Electronic Data Sheet) file, which is 
+provided with the CommPro, contains the most 
+current information pertaining to attribute data.  
+Use the EDS as a reference for data types, data 
+formats, and data conversion.  Also check the 
+Bray website to obtain the latest EDS file for the 
+CommPro (www.bray.com).
+Param
+Attribute 
+Description
+Attribute 
+(Hex)
+Attribute
+ (Decimal)
+1
+Command Position
+0x64
+100
+2
+Valve Position1
+0x65
+101
+3
+Limit Switches1
+0x66
+102
+4
+Auxiliary Switches1
+0x67
+103
+5
+Enable Failure Detect
+0x68
+104
+6
+Failure Command State
+0x69
+105
+7
+Product Status1
+0x6A
+106
+8
+Load 1 Status1
+0x6B
+107
+9
+Load 2 Status1
+0x6C
+108
+12
+Serial Number1
+0xC0
+192
+1 Attributes which are not settable.
+Table 1: S5B/C DeviceNet™ supported attributes
+4.4.1 Attribute Deﬁnitions
+4.4.1.1 Parameter 1 – Command Position
+Attribute
+100
+Size
+1 byte
+Read/Write
+R/W
+Description
+Allows for position control through the 
+operation of the output loads.
+0 – All loads off (default)
+1 – Load 1 on
+2 – Load 2 on
+3 – All loads on
+4 – Load test
+4.4.1.2 Parameter 2 – Valve Position
+Attribute
+101
+Size
+1 byte
+Read/Write
+R
+Range
+0-100% (0-255)
+Description
+Reports the current position of the valve.
+0% – Fully closed
+100% – Fully open
+4.4.1.3 Parameter 3 – Limit Switches
+Attribute
+102
+Size
+1 byte
+Read/Write
+R
+Description
+Reports the state of the limit switches. 
+0 – Limit Switches off
+1 – Open Limit Switch engaged
+2 – Close Limit Switch engaged
+3 – Both Limit Switches engaged
+4.4.1.4 Parameter 4 – Auxiliary Switches
+Attribute
+103
+Size
+1 byte
+Read/Write
+R
+Description
+Reports the state of the auxiliary switches. 
+0 – Auxiliary Switches off
+1 – Auxiliary Switch 1 engaged
+2 – Auxiliary Switch 2 engaged
+3 – Both Auxiliary Switches engaged
+
+--- page 10 ---
+8 
+Series 5B/C Valve Status Monitor DeviceNet™ Interface
+Installation, Operation and Maintenance Manual
+4.4.1.5 Parameter 5 – Enable Failure Detect
+Attribute
+104
+Size
+1 byte
+Read/Write
+RW
+Description
+Determines if the S5B/C DeviceNet™ will 
+operate to a set position in the event of 
+DeviceNet™ communication failure.
+0 – Disabled (default)
+1 – Enabled
+4.4.1.6 Parameter 6 – Failure Command State
+Attribute
+105
+Size
+1 byte
+Read/Write
+RW
+Description
+Determines the position the S5B/C 
+DeviceNet™ operates to in the event of a 
+DeviceNet™ communication failure.
+0 – All loads off (default)
+1 – Load 1 on
+2 – Load 2 on
+3 – All loads on
+4.4.1.7 Parameter 7 – Product Status
+Attribute
+106
+Size
+1 byte
+Read/Write
+R
+Description
+Indicates the presence of any faults that may 
+be preventing operation. 
+0 – Normal
+1 – Load Testing
+2 – Limit Switch Fault 
+      (Both switches engaged)
+3 – Channel Overload 
+      (Too much current – single load)
+4 – VSM Overload 
+      (Too much current – total load)
+4.4.1.8 Parameter 8 – Load 1 Status
+Attribute
+107
+Size
+1 byte
+Read/Write
+R
+Description
+Displays the status of the load at the Solenoid 
+1 connection. 
+0 – No load detected (Open circuit)
+1 – Normal
+2 – Overloaded
+3 – Short circuit
+4.4.1.9 Parameter 9 – Load 2 Status
+Attribute
+108
+Size
+1 byte
+Read/Write
+R
+Description
+Displays the status of the load at the Solenoid 
+2 connection. 
+0 – No load detected (Open circuit)
+1 – Normal
+2 – Overloaded
+3 – Short circuit
+4.4.1.10 Parameter 12 – Serial Number
+Attribute
+192
+Size
+4 bytes
+Read/Write
+R
+Description
+Provides the factory assigned serial number 
+for the unit. 
+5.0 QUICK START GUIDE
+1. If installation of the CommPro is required, follow 
+the Installation Instructions. 
+2. If necessary, load the EDS file into the Process 
+Controller. 
+3. Apply power to the DeviceNet™ network. The 
+CommPro will individually light all LEDs as part 
+of the initialization procedure. Initialization is 
+complete once the Module Status light is solid 
+green.
+4. Adjust the CommPro Node Address to the next 
+available address on the bus, or to the address 
+that has been programmed into the Process 
+Controller.  
+5. The Network LED should begin to flash green 
+at 0.5 second intervals. This indicates that the 
+CommPro has recognized the DeviceNet™ 
+network and is ready to be commissioned by the 
+Process Controller. 
+6. Once commissioned, press the Calibration switch 
+to detect the state of the connected output loads.
+7. Product is ready for service.  
+
+--- page 11 ---
+9
+Series 5B/C Valve Status Monitor DeviceNet™ Interface
+Installation, Operation and Maintenance Manual
+6.0 INSTALLATION INSTRUCTIONS
+1. Before beginning installation of the electronics 
+package, install all external cabling at the conduit 
+entries for the Bray VSM enclosure. Unused 
+conduit entries should retain the supplied plugs. 
+2. Install all ground wires to the Bray VSM enclosure 
+supplied ground screw(s). 
+3. Install the supplied electronics package mounting 
+bracket using the supplied mounting hardware, 
+e.g. flathead screws.
+4. Orient the electronics package such that the 11 
+terminals are orientated towards the front of the 
+Bray VSM. 
+Figure 6: Correct orientation of the electronics 
+package relative to Bray VSM & mounting bracket
+5. Align the side slot on the electronics package 
+with the notch on the mounting bracket, based 
+on the Bray VSM (5B or 5C) that it is being 
+installed in. 
+Figure 7: Alignment of appropriate slot
+6. Pitch the electronics unit during installation to 
+engage the horizontal slot on the electronics 
+package with the non-adjustable hook of the 
+mounting bracket. 
+Figure 8: Pitching of the electronics package to 
+begin installation
+7. Push down on the electronics package to snap it 
+into place on the mounting bracket.
+Figure 9: Push down on electronics package until 
+the slider hook snaps in place
+8. Mate all required wire terminations based on the 
+provided wiring diagram. 
+
+--- page 12 ---
+10 
+Series 5B/C Valve Status Monitor DeviceNet™ Interface
+Installation, Operation and Maintenance Manual
+7.0 EXPLODED VIEW DRAWINGS
+7.1 Exploded View - 5B
+ITEM
+PART NUMBER
+DESCRIPTION
+QTY
+1
+5B0000-77600536
+CommPro Assembly, DeviceNet
+1
+2
+075303-72105534
+Screw, Flat Head, X-Drive
+2
+3
+5B0000-23500536
+Commpro Adapter Assembly
+1
+4
+5B0000-73306533
+Commpro Certification Label, Mylar
+1
+5
+5B0000-73304533
+Commpro Serial Tag, Mylar
+1
+ALTERNATIVE COMPONENTS
+1
+5B0000-77601536
+CommPro Assembly, AS-i
+1
+1
+5B0000-77602536
+CommPro Assembly, Profibus-DP
+1
+3
+4
+1
+2
+5
+
+--- page 13 ---
+11
+Series 5B/C Valve Status Monitor DeviceNet™ Interface
+Installation, Operation and Maintenance Manual
+ITEM
+PART NUMBER
+DESCRIPTION
+QTY
+1
+5B0000-77600536
+CommPro Assembly, DeviceNet
+1
+2
+5B0000-73306533
+CommPro Certification Label, Mylar
+1
+3
+075303-72105534
+Screw, Flat Head, X-Drive, M3x0.5x5mm
+2
+4
+5B0000-23500536
+CommPro Adapter Assembly
+1
+5
+5B0000-73304533
+CommPro Serial Tag, Mylar
+1
+ALTERNATIVE COMPONENTS
+1
+5B0000-77601536
+CommPro Assembly, AS-i
+1
+1
+5B0000-77602536
+CommPro Assembly, Profibus-DP
+1
+7.1 Exploded View - 5C
+
+--- page 14 ---
+12 
+Series 5B/C Valve Status Monitor DeviceNet™ Interface
+Installation, Operation and Maintenance Manual
+8.0 TECHNICAL SPECIFICATIONS
+Mechanical
+Electronics Enclosure Material
+PC/ABS Blend
+Mounting Bracket Material
+Glass-filled Nylon
+Dimensions with bracket
+3.05” x 2.53” x 1.43” [77.5 x 64.3 x 36.3mm]
+Dimensions w/o bracket
+2.73” x 2.53” x 1.21” [69.3 x 64.3 x 30.7mm]
+Weight
+Max 3.5 oz [100g]
+Terminals
+Wire Gauge
+26-16 AWG [0.13-1.31 mm2]
+Torque Limit
+3.5 in-lbs [15.6 N]
+Temperature Rating
+-13 to 149°F [-25 to 65°C] 
+Installation
+Designed for use within Bray VSMs
+Switch connections
+Only switches approved for use within Bray VSMs should be used with 
+the product
+Electrical
+Input Voltage
+24 VDC ± 10%
+Power Consumption
+16 W Max
+Load(s)
+24 VDC Solenoids
+# of Load Connections
+2 Max
+Load Switch
+Solid-State (NMOS Open-Drain)
+Load Limit
+6.9 W per load 
+13.8 W max
+LED Wavelengths
+Red
+630 nm
+Green
+550 nm
+Blue
+470 nm
+
+--- page 15 ---
+
+--- page 16 ---
+All statements, technical information, and recommendations in this 
+bulletin are for general use only. Consult Bray representatives or factory 
+for the specific requirements and material selection for your intended 
+application. The right to change or modify product design or product 
+without prior notice is reserved. Patents issued and applied for worldwide.
+Bray® is a registered trademark of BRAY INTERNATIONAL, Inc.
+© 2019 Bray International. All rights reserved.
+IOM-S5B VSM COMM PRO_DeviceNet_EL_03_21_2019
+HEADQUARTERS
+Bray International, Inc.
+13333 Westland East Blvd.
+Houston, Texas 77041
+Tel: 281.894.5454
+bray.com
+THE HIGH PERFORMANCE COMPANY
+BRAY INTERNATIONAL 
+PRIMARY SALES AND SERVICE LOCATIONS
+USA 
+Houston, Texas
+CHINA 
+Hangzhou, Zhejiang
+MEXICO 
+Zapopan, Jalisco
+RUSSIA 
+Moscow
+AFRICA 
+Johannesburg
+COLOMBIA 
+Bogotá
+MIDDLE EAST 
+Dubai
+SINGAPORE 
+Ubi Techpark
+BENELUX 
+Heerhugowaard
+FRANCE 
+Voiron
+PACIFIC 
+Melbourne, Australia
+SOUTH KOREA 
+Seoul
+BRAZIL 
+Paulinia, Sao Paulo
+GERMANY 
+Krefeld
+PERU 
+Lima
+SOUTHEAST ASIA 
+Malaysia
+CANADA 
+Montreal
+INDIA 
+Chennai
+POLAND 
+O´swi¸ecim
+UNITED KINGDOM 
+Glasgow
+CHILE 
+Santiago
+ITALY 
+Milano
+FLOW-TEK
+RITE CORPORATION
+AMRESIST
+KUGELHAHN MÜLLER
+USA 
+Houston, Texas
+CANADA 
+Montreal
+USA 
+Houston, Texas
+GERMANY 
+Krefeld
+BRAZIL 
+Paulinia, Sao Paulo
+VALVTRONIC
+CHINA 
+Hangzhou, Zhejiang
+ARGENTINA 
+Buenos Aires

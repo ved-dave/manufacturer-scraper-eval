@@ -1,0 +1,554 @@
+[
+ {
+  "url": "https://cimberiovalve.us/1220nl",
+  "name": "1220NL CimPress Full Port Ball Valve",
+  "series_code": "1220NL",
+  "category": "No Lead",
+  "n_variants": 9,
+  "variant_ids": [
+   "1220NL-04",
+   "1220NL-06",
+   "1220NL-07",
+   "1220NL-08",
+   "1220NL-09",
+   "1220NL-10",
+   "1220NL-11",
+   "1220NL-12",
+   "1220NL-14"
+  ],
+  "has_cad": false,
+  "has_price": true,
+  "aliases": [],
+  "in_sitemap": true,
+  "in_crawl": true
+ },
+ {
+  "url": "https://cimberiovalve.us/1220nln",
+  "name": "1220NLN NIBCO\u00ae Press Full Port Ball Valve",
+  "series_code": "1220NLN",
+  "category": "No Lead",
+  "n_variants": 3,
+  "variant_ids": [
+   "1220NLN-11",
+   "1220NLN-12",
+   "1220NLN-14"
+  ],
+  "has_cad": false,
+  "has_price": true,
+  "aliases": [],
+  "in_sitemap": true,
+  "in_crawl": true
+ },
+ {
+  "url": "https://cimberiovalve.us/1223nl",
+  "name": "1223NL CimPress x PEX Full Port Ball Valve",
+  "series_code": "1223NL",
+  "category": "No Lead",
+  "n_variants": 3,
+  "variant_ids": [
+   "1223NL-04",
+   "1223NL-06",
+   "1223NL-07"
+  ],
+  "has_cad": false,
+  "has_price": true,
+  "aliases": [],
+  "in_sitemap": true,
+  "in_crawl": true
+ },
+ {
+  "url": "https://cimberiovalve.us/30prsnl",
+  "name": "30PRSNL CimPress Inline Check Valve",
+  "series_code": "30PRSNL",
+  "category": "No Lead",
+  "n_variants": 0,
+  "variant_ids": [],
+  "has_cad": false,
+  "has_price": true,
+  "aliases": [],
+  "in_sitemap": true,
+  "in_crawl": true
+ },
+ {
+  "url": "https://cimberiovalve.us/30xlc",
+  "name": "30XLC CimPress Inline Check Valve",
+  "series_code": "30XLC",
+  "category": "Check Valves",
+  "n_variants": 3,
+  "variant_ids": [
+   "30XLC-11",
+   "30XLC-12",
+   "30XLC-14"
+  ],
+  "has_cad": false,
+  "has_price": true,
+  "aliases": [],
+  "in_sitemap": true,
+  "in_crawl": true
+ },
+ {
+  "url": "https://cimberiovalve.us/3739c-flanged-balancing-valve/",
+  "name": "3739C Flanged Balancing Valve",
+  "series_code": "3739C",
+  "category": "CimCLIMA",
+  "n_variants": 6,
+  "variant_ids": [
+   "3739C-11",
+   "3739C-12",
+   "3739C-14",
+   "3739C-15",
+   "3739C-16",
+   "3739C-18"
+  ],
+  "has_cad": false,
+  "has_price": false,
+  "aliases": [],
+  "in_sitemap": true,
+  "in_crawl": true
+ },
+ {
+  "url": "https://cimberiovalve.us/3739g-grooved-balancing-valve/",
+  "name": "3739G Grooved Balancing Valve",
+  "series_code": "3739G",
+  "category": "Balancing Valves",
+  "n_variants": 6,
+  "variant_ids": [
+   "3739G-11",
+   "3739G-12",
+   "3739G-14",
+   "3739G-15",
+   "3739G-16",
+   "3739G-18"
+  ],
+  "has_cad": false,
+  "has_price": false,
+  "aliases": [],
+  "in_sitemap": true,
+  "in_crawl": true
+ },
+ {
+  "url": "https://cimberiovalve.us/460nl",
+  "name": "460NL Tankless Water Heater Valve Kit",
+  "series_code": "460NL",
+  "category": "No Lead",
+  "n_variants": 1,
+  "variant_ids": [
+   "460NL-06"
+  ],
+  "has_cad": false,
+  "has_price": true,
+  "aliases": [],
+  "in_sitemap": true,
+  "in_crawl": true
+ },
+ {
+  "url": "https://cimberiovalve.us/462nl",
+  "name": "462NL CimPress Tankless Water Heater Valve Kit",
+  "series_code": "462NL",
+  "category": "No Lead",
+  "n_variants": 1,
+  "variant_ids": [
+   "462NL-06"
+  ],
+  "has_cad": false,
+  "has_price": true,
+  "aliases": [],
+  "in_sitemap": true,
+  "in_crawl": true
+ },
+ {
+  "url": "https://cimberiovalve.us/746-fixed-orifice-balancing-valve-npt/",
+  "name": "746 Fixed Orifice Balancing Valve NPT",
+  "series_code": "746 NPT",
+  "category": "CimCLIMA",
+  "n_variants": 3,
+  "variant_ids": [
+   "746-04",
+   "746-06",
+   "746-07"
+  ],
+  "has_cad": true,
+  "has_price": false,
+  "aliases": [],
+  "in_sitemap": true,
+  "in_crawl": true
+ },
+ {
+  "url": "https://cimberiovalve.us/747PRSNL",
+  "name": "747PRSNL Fixed Orifice CimPress Balancing Valve",
+  "series_code": "747PRSNL",
+  "category": "CimPress Valves",
+  "n_variants": 6,
+  "variant_ids": [
+   "747PRS-04",
+   "747PRS-06",
+   "747PRS-07",
+   "747PRS-08",
+   "747PRS-09",
+   "747PRS-10"
+  ],
+  "has_cad": false,
+  "has_price": true,
+  "aliases": [],
+  "in_sitemap": true,
+  "in_crawl": true
+ },
+ {
+  "url": "https://cimberiovalve.us/747nlnpt",
+  "name": "747NL Fixed Orifice Balancing Valve NPT",
+  "series_code": "747NL NPT",
+  "category": "No Lead",
+  "n_variants": 6,
+  "variant_ids": [
+   "747NL-04",
+   "747NL-06",
+   "747NL-07",
+   "747NL-08",
+   "747NL-09",
+   "747NL-10"
+  ],
+  "has_cad": true,
+  "has_price": true,
+  "aliases": [],
+  "in_sitemap": true,
+  "in_crawl": true
+ },
+ {
+  "url": "https://cimberiovalve.us/74prsnl",
+  "name": "74PRSNL CimPress Y Strainer",
+  "series_code": "74PRSNL",
+  "category": "No Lead",
+  "n_variants": 6,
+  "variant_ids": [
+   "74PRSNL-04",
+   "74PRSNL-06",
+   "74PRSNL-07",
+   "74PRSNL-08",
+   "74PRSNL-09",
+   "74PRSNL-10"
+  ],
+  "has_cad": false,
+  "has_price": true,
+  "aliases": [],
+  "in_sitemap": true,
+  "in_crawl": true
+ },
+ {
+  "url": "https://cimberiovalve.us/778-threaded",
+  "name": "778 Threaded Adjustable Thermostatic Balancing Valve",
+  "series_code": "778",
+  "category": "No Lead",
+  "n_variants": 3,
+  "variant_ids": [
+   "778-04",
+   "778-06",
+   "778-07"
+  ],
+  "has_cad": true,
+  "has_price": true,
+  "aliases": [],
+  "in_sitemap": true,
+  "in_crawl": true
+ },
+ {
+  "url": "https://cimberiovalve.us/778V",
+  "name": "778V Threaded Adjustable Thermostatic Balancing Valve with Ball Valves",
+  "series_code": "778V",
+  "category": "Ball Valves",
+  "n_variants": 3,
+  "variant_ids": [
+   "778V-04",
+   "778V-06",
+   "778V-07"
+  ],
+  "has_cad": false,
+  "has_price": true,
+  "aliases": [],
+  "in_sitemap": true,
+  "in_crawl": true
+ },
+ {
+  "url": "https://cimberiovalve.us/778p",
+  "name": "778P CimPress Adjustable Thermostatic Balancing Valve",
+  "series_code": "778P",
+  "category": "No Lead",
+  "n_variants": 3,
+  "variant_ids": [
+   "778P-04",
+   "778P-06",
+   "778P-07"
+  ],
+  "has_cad": false,
+  "has_price": true,
+  "aliases": [],
+  "in_sitemap": true,
+  "in_crawl": true
+ },
+ {
+  "url": "https://cimberiovalve.us/778pv",
+  "name": "778PV CimPress Adjustable Thermostatic Balancing Valve with Ball Valves",
+  "series_code": "778PV",
+  "category": "CimPress Valves",
+  "n_variants": 3,
+  "variant_ids": [
+   "778PV-04",
+   "778PV-06",
+   "778PV-07"
+  ],
+  "has_cad": false,
+  "has_price": true,
+  "aliases": [],
+  "in_sitemap": true,
+  "in_crawl": true
+ },
+ {
+  "url": "https://cimberiovalve.us/778pvc",
+  "name": "778PVC CimPress Adjustable Thermostatic Balancing Valve with Ball Valves",
+  "series_code": "778PVC",
+  "category": "Check Valves",
+  "n_variants": 3,
+  "variant_ids": [
+   "778PVC-04",
+   "778PVC-06",
+   "778PVC-07"
+  ],
+  "has_cad": false,
+  "has_price": true,
+  "aliases": [],
+  "in_sitemap": true,
+  "in_crawl": true
+ },
+ {
+  "url": "https://cimberiovalve.us/778pvcs-cimpress-adjustable-thermostatic-balancing-valve-with-inline-check-valve-ball-valves-and-strainer/",
+  "name": "778PVCS CimPress Adjustable Thermostatic Balancing Valve with Inline Check Valve, Ball Valves and Strainer",
+  "series_code": "778PVCS",
+  "category": "CimPress Valves",
+  "n_variants": 3,
+  "variant_ids": [
+   "778PVCS-04",
+   "778PVCS-06",
+   "778PVCS-07"
+  ],
+  "has_cad": false,
+  "has_price": true,
+  "aliases": [],
+  "in_sitemap": true,
+  "in_crawl": true
+ },
+ {
+  "url": "https://cimberiovalve.us/778pvs",
+  "name": "778PVS CimPress Adjustable Thermostatic Balancing Valve with Ball Valves and Strainer",
+  "series_code": "778PVS",
+  "category": "CimPress Valves",
+  "n_variants": 3,
+  "variant_ids": [
+   "778PVS-04",
+   "778PVS-06",
+   "778PVS-07"
+  ],
+  "has_cad": false,
+  "has_price": true,
+  "aliases": [],
+  "in_sitemap": true,
+  "in_crawl": true
+ },
+ {
+  "url": "https://cimberiovalve.us/778pvw",
+  "name": "778PVW CimPress Adjustable Thermostatic Balancing Valve with Swing Check Valve and Ball Valves",
+  "series_code": "778PVW",
+  "category": "CimPress Valves",
+  "n_variants": 3,
+  "variant_ids": [
+   "778PVW-04",
+   "778PVW-06",
+   "778PVW-07"
+  ],
+  "has_cad": false,
+  "has_price": true,
+  "aliases": [],
+  "in_sitemap": true,
+  "in_crawl": true
+ },
+ {
+  "url": "https://cimberiovalve.us/778pvws",
+  "name": "778PVWS CimPress Adjustable Thermostatic Balancing Valve with Swing Check Valve, Ball Valves and Strainer",
+  "series_code": "778PVWS",
+  "category": "Check Valves",
+  "n_variants": 3,
+  "variant_ids": [
+   "778PVWS-04",
+   "778PVWS-06",
+   "778PVWS-07"
+  ],
+  "has_cad": false,
+  "has_price": true,
+  "aliases": [],
+  "in_sitemap": true,
+  "in_crawl": true
+ },
+ {
+  "url": "https://cimberiovalve.us/778vc",
+  "name": "778VC Threaded Adjustable Thermostatic Balancing Valve with Check Valve and Ball Valves",
+  "series_code": "778VC",
+  "category": "Check Valves",
+  "n_variants": 3,
+  "variant_ids": [
+   "778VC-04",
+   "778VC-06",
+   "778VC-07"
+  ],
+  "has_cad": false,
+  "has_price": true,
+  "aliases": [],
+  "in_sitemap": true,
+  "in_crawl": true
+ },
+ {
+  "url": "https://cimberiovalve.us/778vcs",
+  "name": "778VCS Threaded Adjustable Thermostatic Balancing Valve with Inline Check Valve, Ball Valves and Strainer",
+  "series_code": "778VCS",
+  "category": "Check Valves",
+  "n_variants": 3,
+  "variant_ids": [
+   "778VCS-04",
+   "778VCS-06",
+   "778VCS-07"
+  ],
+  "has_cad": false,
+  "has_price": true,
+  "aliases": [],
+  "in_sitemap": true,
+  "in_crawl": true
+ },
+ {
+  "url": "https://cimberiovalve.us/778vs",
+  "name": "778VS Threaded Adjustable Thermostatic Balancing Valve with Ball Valves and Strainer",
+  "series_code": "778VS",
+  "category": "Ball Valves",
+  "n_variants": 3,
+  "variant_ids": [
+   "778VS-04",
+   "778VS-06",
+   "778VS-07"
+  ],
+  "has_cad": false,
+  "has_price": true,
+  "aliases": [],
+  "in_sitemap": true,
+  "in_crawl": true
+ },
+ {
+  "url": "https://cimberiovalve.us/778vw",
+  "name": "778VW Threaded Adjustable Thermostatic Balancing Valve with Swing Check Valve and Ball Valves",
+  "series_code": "778VW",
+  "category": "Check Valves",
+  "n_variants": 3,
+  "variant_ids": [
+   "778VW-04",
+   "778VW-06",
+   "778VW-07"
+  ],
+  "has_cad": false,
+  "has_price": true,
+  "aliases": [],
+  "in_sitemap": true,
+  "in_crawl": true
+ },
+ {
+  "url": "https://cimberiovalve.us/778vws",
+  "name": "778VWS Threaded Adjustable Thermostatic Balancing Valve with Swing Check Valve, Ball Valves and Strainer",
+  "series_code": "778VWS",
+  "category": "Check Valves",
+  "n_variants": 3,
+  "variant_ids": [
+   "778VWS-04",
+   "778VWS-06",
+   "778VWS-07"
+  ],
+  "has_cad": false,
+  "has_price": true,
+  "aliases": [],
+  "in_sitemap": true,
+  "in_crawl": true
+ },
+ {
+  "url": "https://cimberiovalve.us/787nl-variable-orifice-balancing-valve/",
+  "name": "787NL Variable Orifice Balancing Valve",
+  "series_code": "787NL",
+  "category": "No Lead",
+  "n_variants": 3,
+  "variant_ids": [
+   "787NL-04",
+   "787NL-06",
+   "787NL-07"
+  ],
+  "has_cad": true,
+  "has_price": false,
+  "aliases": [],
+  "in_sitemap": true,
+  "in_crawl": true
+ },
+ {
+  "url": "https://cimberiovalve.us/80prs",
+  "name": "80PRS CimPress Swing Check Valve",
+  "series_code": "80PRS",
+  "category": "CimPress Valves",
+  "n_variants": 6,
+  "variant_ids": [
+   "80PRS-04",
+   "80PRS-06",
+   "80PRS-07",
+   "80PRS-08",
+   "80PRS-09",
+   "80PRS-10"
+  ],
+  "has_cad": false,
+  "has_price": true,
+  "aliases": [],
+  "in_sitemap": true,
+  "in_crawl": true
+ },
+ {
+  "url": "https://cimberiovalve.us/80xlc",
+  "name": "80XLC CimPress Swing Check Valve",
+  "series_code": "80XLC",
+  "category": "Check Valves",
+  "n_variants": 3,
+  "variant_ids": [
+   "80XLC-12",
+   "80XLC-14",
+   "80XLC-11"
+  ],
+  "has_cad": false,
+  "has_price": true,
+  "aliases": [],
+  "in_sitemap": true,
+  "in_crawl": true
+ },
+ {
+  "url": "https://cimberiovalve.us/mbk1-coil-kit/",
+  "name": "MBK1 Coil Kit",
+  "series_code": "MBK1",
+  "category": "CimCLIMA",
+  "n_variants": 0,
+  "variant_ids": [],
+  "has_cad": false,
+  "has_price": false,
+  "aliases": [],
+  "in_sitemap": true,
+  "in_crawl": true
+ },
+ {
+  "url": "https://cimberiovalve.us/mbk2-coil-kit/",
+  "name": "MBK2 Coil Kit",
+  "series_code": "MBK2",
+  "category": "CimCLIMA",
+  "n_variants": 0,
+  "variant_ids": [],
+  "has_cad": false,
+  "has_price": false,
+  "aliases": [],
+  "in_sitemap": true,
+  "in_crawl": true
+ }
+]

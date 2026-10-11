@@ -659,6 +659,13 @@
             "$ref": "#/$defs/variant"
           }
         },
+        "family_prices": {
+          "type": "array",
+          "description": "SPEC 7: price status of a family that has no variants (e.g. 'Request a Quote' with no identifiers). Only used when variants is empty.",
+          "items": {
+            "$ref": "#/$defs/price"
+          }
+        },
         "documents": {
           "type": "array",
           "items": {

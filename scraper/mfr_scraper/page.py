@@ -183,6 +183,18 @@ def label_value_pairs(soup):
     return pairs
 
 
+def table_rows(soup):
+    """Cell texts of every table row outside site chrome (header rows included)."""
+    rows = []
+    for tr in soup.find_all('tr'):
+        if _in_chrome(tr):
+            continue
+        cells = [text_of(c) for c in tr.find_all(['th', 'td'], recursive=False)]
+        if len(cells) >= 2:
+            rows.append(cells)
+    return rows
+
+
 def image_candidates(soup, base):
     """(url, declared_width, alt, context) for every image reference outside site chrome."""
     out = []

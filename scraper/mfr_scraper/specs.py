@@ -108,6 +108,39 @@ def parse_sizes_available(raw):
     return list(dict.fromkeys(toks)) if len(toks) >= 3 else None
 
 
+SIZE_COL_HEAD = re.compile(r'^(?:nominal\s+|valve\s+|pipe\s+)?(?:size|dn|nps)\b\s*(?:\((mm|inch|inches|in|dn|nps|")\))?\s*$', re.I)
+SIZE_CELL_TOKEN = re.compile(r'^\d+(?:[-.]\d+/\d+|/\d+)?"?$')
+
+
+def sizes_from_tables(rows):
+    """Dimension tables whose first column is headed SIZE / SIZE (mm) / DN / NPS: the sizes in row order.
+
+    rows: [(page, cells)]. Returns (sizes, unit, page, quote) for the first such table with >= 2 sizes, else None.
+    A first cell holding several sizes ("65 80", merged PDF rows) contributes each of them."""
+    i = 0
+    while i < len(rows):
+        pg, cells = rows[i]
+        m = SIZE_COL_HEAD.match(cells[0].strip()) if cells else None
+        i += 1
+        if not m:
+            continue
+        head = cells[0].lower()
+        unit = ('mm' if 'mm' in head else 'in' if re.search(r'inch|\(in\)|"', head) else
+                'DN' if re.search(r'\bdn\b', head) else 'NPS' if 'nps' in head else None)
+        sizes, quote = [], None
+        while i < len(rows) and rows[i][0] == pg:
+            toks = rows[i][1][0].split()
+            if not toks or not all(SIZE_CELL_TOKEN.match(t) for t in toks):
+                break
+            quote = quote or ' | '.join(rows[i][1])
+            sizes += [t.rstrip('"') for t in toks]
+            i += 1
+        sizes = list(dict.fromkeys(sizes))
+        if len(sizes) >= 2 and all(N.parse_size(x) is not None for x in sizes):
+            return sizes, unit, pg, quote
+    return None
+
+
 def parse_pressure(raw):
     t = raw.replace(',', '')
     cond = re.search(r'\b(WOG|CWP|WSP|SWP|WWP)\b', t)
@@ -130,8 +163,15 @@ def parse_pressure(raw):
 
 
 def parse_temperature(raw):
-    t = raw.replace('º', '°').replace('−', '-').replace('–', '-')
+    t = raw.replace('º', '°').replace('−', '-').replace('–', '-').replace('˚', '°')
     for unit in ('F', 'C'):
+        # "-10 - 120°C", "-10 to 120 °C": only the upper bound carries the unit.
+        m = re.search(r'(?<![\d.])(-?)\s?(\d+(?:\.\d+)?)\s*(?:-|to)\s*(-?)\s?(\d+(?:\.\d+)?)\s*°?\s*' + unit + r'\b', t)
+        if m:
+            lo = -float(m.group(2)) if m.group(1) else float(m.group(2))
+            hi = -float(m.group(4)) if m.group(3) else float(m.group(4))
+            if lo <= hi:
+                return {'min': lo, 'max': hi}, unit
         ms = list(re.finditer(r'(-?)\s?(\d+(?:\.\d+)?)\s*°?\s*' + unit + r'\b', t))
         vals = []
         for i, m in enumerate(ms):
@@ -146,6 +186,39 @@ def parse_temperature(raw):
                 return {'min': None, 'max': vals[0]}, unit
             return {'min': None, 'max': vals[0]}, unit
     return None
+
+
+TEMP_UNIT_LABEL = re.compile(r'(?:^|\s)((?:max(?:imum)?\.?\s+|operating\s+|working\s+|service\s+)*temp(?:erature)?\.?)\s*'
+                             r'\(\s*°?\s*([CF])\s*\)?\s*\)?\s+(-?\d.*)$', re.I)
+BARE_READING = re.compile(r'(-?\d+(?:\.\d+)?)(?:\s*(?:to|-)\s*(-?\d+(?:\.\d+)?))?')
+
+
+def temperature_from_unit_label(line):
+    """'TEMPERATURE (°C) -10 to 100 110 120' (pressure/temperature table rows): the unit is in the label only.
+
+    The row's leading reading (a range or a single value), extended by the bare readings that follow it up to the next
+    range (further temperature steps of the same rating row). Returns ({min, max}, unit, quote) or None."""
+    t = line.replace('º', '°').replace('−', '-').replace('–', '-').replace('˚', '°')
+    m = TEMP_UNIT_LABEL.search(t)
+    if not m:
+        return None
+    unit, rest = m.group(2).upper(), m.group(3)
+    readings = list(BARE_READING.finditer(rest))
+    if not readings:
+        return None
+    first = readings[0]
+    lo = float(first.group(1))
+    hi = float(first.group(2)) if first.group(2) else lo
+    for r in readings[1:]:
+        step = float(r.group(1))
+        if r.group(2) or not hi < step <= hi + 100:
+            break           # a new range, or a value from another column (weights, Kv, ...)
+        hi = step
+    if lo > hi:
+        return None
+    if not first.group(2) and len(readings) == 1:
+        return {'min': None, 'max': lo}, unit, line.strip()
+    return {'min': lo, 'max': hi}, unit, line.strip()
 
 
 # SPEC 6 controlled vocabulary for end_connections: (pattern on source wording, term). Order matters.
@@ -304,6 +377,25 @@ def pairs_from_text(text):
         if f:
             out.append((label, value, f, line.strip()))
     return out
+
+
+APPLICATION_CONTEXT = re.compile(r'\b(?:approved for|suitable for|for use (?:with|in|on)|ideal for|designed for|recommended for)\b'
+                                 r'|\bapplications?\b', re.I)
+
+
+def applications_from_text(text):
+    """SPEC 6 applications stated in sheet prose ("WRAS approved for use with potable water", "suitable for steam
+    applications"): lines that state a use, mapped to the controlled vocabulary. Returns (terms, first quote) or None."""
+    terms, quote = [], None
+    for line in text.splitlines():
+        if not APPLICATION_CONTEXT.search(line):
+            continue
+        found, _ = map_vocab(line, APPLICATION_WORDS)
+        new = [t for t in found if t not in terms]
+        if new:
+            terms += new
+            quote = quote or line.strip()
+    return (terms, quote) if terms else None
 
 
 def scan_text_for_lists(text):

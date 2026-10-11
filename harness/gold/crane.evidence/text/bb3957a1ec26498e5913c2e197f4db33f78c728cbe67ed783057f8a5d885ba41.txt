@@ -1,0 +1,139 @@
+INSTALLATION, OPERATING AND MAINTENANCE INSTRUCTIONS
+2, 3 & 4 PORT VALVE
+D102B, D103B, D104B, DN15 & DN20	
+The D102B, D103B & D104B valves;
+•	 Can be used in variable volume heating 
+and chilled water systems
+•	 Have an operating temperature: 5°C to 
+95°C
+•	 Have a maximum operating pressure of 
+16 bar
+•	 Have a stroke of 2.5mm
+•	 Are normally closed, i.e. the action of the 
+valve spring makes the plug move to the 
+upper seat
+•	 Achieve class IV leakage to 225kPa
+•	 Are compatible with ACT991M and 
+ACT992TH
+•	 Are not compatible with ACT991TH
+•	 Are not suitable for end of line isolation 
+service
+These valves have been categorised in 
+accordance with the Pressure Equipment 
+Directive–PED. 
+The fluid to be transported is limited to 
+group 2 liquids i.e. non-hazardous. On 
+no account must these valves be used 
+on any group 1 liquids, group 1 gases or 
+group 2 gases.
+PRODUCT OVERVIEW
+LIMITS OF USE
+D102B
+D103B
+D104B
+
+
+THERMOSTATIC MIXING VALVES: D1088 & D1089
+3
+INSTALLATION, OPERATING AND MAINTENANCE INSTRUCTIONS
+2, 3 & 4 PORT VALVE
+2
+These instructions are issued as guidelines 
+only and do not cover all installed conditions 
+– if unsure please contact our Technical 
+Helpline before installation.
+•	 Before mounting, make sure pipes are clean, 
+aligned with the valve body and not subjected 
+to vibrations.
+•	 Ensure direction of flow is correct - indicated 
+by forged arrow on body.
+•	 Three-way valves should be preferably used 
+as mixing valves.
+INSTALLATION	
+MOUNTING INSTRUCTIONS
+•	 In case they are mounted as diverting (i.e. 
+an inlet and two outlets) the max differential 
+pressure for normal operation must be 
+reduced to one third of the specified value.
+•	 IP44 rated if the valve is mounted with 
+actuator upwards. 
+•	 Gaskets are required to create a seal on the 
+flat faces of the valve body.
+1a
+3
+D102B
+D103B
+D104B
+1b
+4 With MVX
+2
+5
+
+
+4
+THERMOSTATIC MIXING VALVES: D1088 & D1089
+INSTALLATION, OPERATING AND MAINTENANCE INSTRUCTIONS
+2, 3 & 4 PORT VALVE
+3
+The Crane  D102B, D103B & D104B valves are 
+maintenance free but for optimum and long life 
+service the following points must be considered: 
+Note: The valve should be at zero pressure and 
+ambient temperature prior to any inspection. 
+Maintenance Engineers & Operators are 
+reminded to use correct fitting tools and 
+equipment. A full risk assessment and 
+methodology statement must be compiled prior 
+to any maintenance.
+•	 At minimum, annually, operate valves that 
+remain open or closed for long periods to 
+ensure they are in good working order, thus 
+avoiding the possibility of being inoperable in 
+a time of emergency.
+•	 The risk assessment must take into account 
+the possibility of the limits of use being 
+exceeded whereby a potential hazard could 
+result. 
+•	 A maintenance program should, therefore, 
+include checks on the development of 
+unforeseen conditions, which could lead to 
+failure. 
+SPARES & ANCILLARIES
+The following spare is available to order for 2, 3 
+and 4 port valves: 
+0JG93556V 1/2” BSP x15mm flat faced solder 
+adaptor with washers. Item is available for when 
+female end connection is required.
+For the supply of genuine Crane spares or 
+technical assistance please contact us on 0845 
+604 1790.
+MAINTENANCE 
+
+
+MIDDLE EAST & NORTH AFRICA 
+SALES OFFICE, 
+BUILDING 4, OFFICE 901, 
+THE GALLERIES, PO BOX 17415,
+DOWNTOWN JEBEL ALI
+DUBAI, UAE
+TELEPHONE: +971 4816 5800
+EXPORT SALES ENQUIRIES: mena-enquiries@cranefs.com
+CFS_102B_103B_104B_0624
+IOM_V1
+• Designed and manufactured under quality management systems in accordance with BS EN ISO 9001.
+Every effort has been made to ensure that the information contained in this publication is accurate at the time of publishing. 
+Crane Ltd assumes no responsibility or liability for typographical errors or omissions or for any misinterpretation of the 
+information within the publication and reserves the right to change without notice.
+CRANE HOUSE, EPSILON TERRACE, 
+WEST ROAD, IPSWICH, 
+SUFFOLK IP3 9FJ
+TELEPHONE: +44 (0)1473 277300
+FAX: +44 (0)1473 277301
+UK SALES ENQUIRIES: enquiries@cranefs.com 
+TECHNICAL ENQUIRIES: tech-enquiries@crane-ltd.co.uk
+TELEPHONE: +44 (0)1473 277400 
+www.cranefs.com
+To visit our Video Library go to: 
+www.youtube.com/user/CraneBSU
+FM 00311
+EMS 553775

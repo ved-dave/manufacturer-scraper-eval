@@ -15,11 +15,18 @@ from mfr_harness.validate import validate
 TEMPLATE = load_json(HARNESS_ROOT / 'gold' / '_TEMPLATE.json')
 
 
-def gold_fixture():
-    """Template turned into a valid answer key for site 'bray' (allowed host www.bray.com)."""
+def gold_fixture(full_template=False):
+    """Template turned into a valid answer key for site 'bray' (allowed host www.bray.com).
+
+    By default only the fully labelled family (series-100) is kept; full_template=True also keeps
+    the variant-less family that demonstrates family_prices (SPEC 7)."""
     g = json.loads(json.dumps(TEMPLATE).replace('https://www.example.com', 'https://www.bray.com')
                    .replace('https://example.partcommunity.com', 'https://bray.partcommunity.com'))
     g['site'] = 'bray'
+    if not full_template:
+        g['families'] = g['families'][:1]
+        g['family_index'] = g['family_index'][:1]
+        g['coverage']['families'] = 1
     return g
 
 
@@ -31,6 +38,7 @@ EVIDENCE_TEXT = {
               'Max Pressure: 400 WOG  Ideal for potable water and HVAC hydronic systems. '
               'Contact your local distributor for pricing',
     '4' * 64: '2026 List Price Book  Series 100  100-050 1/2" $42.18',
+    '5' * 64: 'Series 200 Butterfly Valve  Sizes on request  Request a Quote',
 }
 
 
@@ -188,6 +196,45 @@ class TestValidate(unittest.TestCase):
         self.assertFalse(any('does not mention series' in m for _, _, m in rep.items))
 
 
+class TestFamilyPrices(unittest.TestCase):
+    """SPEC 7: families without variants record their price status in family_prices."""
+
+    def test_full_template_is_valid(self):
+        errors, rep = rule_errors(gold_fixture(full_template=True))
+        self.assertEqual(errors, [])
+        self.assertEqual([i for i in rep.items if i[1].startswith('schema')], [])
+
+    def test_family_prices_validated_like_variant_prices(self):
+        g = gold_fixture(full_template=True)
+        fp = g['families'][1]['family_prices'][0]
+        fp['amount'] = 10.0                                   # amount without price_shown / currency
+        fp['source']['quote'] = 'Call for a quote'            # not in the page text
+        msgs = ' | '.join(m for _, _, m in rule_errors(g)[0])
+        for expected in ('amount set but availability=request_quote', 'amount without currency', 'quote not found'):
+            self.assertIn(expected, msgs)
+        g = gold_fixture(full_template=True)
+        g['families'][1]['family_prices'][0].update(availability='price_shown', amount=None)
+        self.assertIn('availability=price_shown but amount is null', ' | '.join(m for _, _, m in rule_errors(g)[0]))
+
+    def test_family_prices_not_allowed_with_variants(self):
+        g = gold_fixture(full_template=True)
+        g['families'][0]['family_prices'] = copy.deepcopy(g['families'][1]['family_prices'])
+        g['families'][0]['family_prices'][0]['source'] = g['families'][0]['variants'][0]['prices'][0]['source']
+        self.assertTrue(any('only for families without variants' in m for _, _, m in rule_errors(g)[0]))
+
+    def test_family_price_availability_scored(self):
+        g = gold_fixture(full_template=True)
+        r = score_siterun(g, copy.deepcopy(g), 'bray')['labelled']['price']
+        self.assertEqual(r['families_with_gold_family_price'], 1)
+        self.assertEqual(r['variants_with_gold_price'], 2)
+        self.assertEqual(r['availability_accuracy'], 1.0)
+        p = copy.deepcopy(g)
+        p['families'][1]['family_prices'][0]['availability'] = 'not_published'
+        self.assertEqual(score_siterun(g, p, 'bray')['labelled']['price']['availability_accuracy'], 0.6667)
+        del p['families'][1]['family_prices']                # missing family price counts as wrong
+        self.assertEqual(score_siterun(g, p, 'bray')['labelled']['price']['availability_accuracy'], 0.6667)
+
+
 class TestScore(unittest.TestCase):
     def test_perfect_prediction(self):
         g = gold_fixture()
@@ -257,3 +304,16 @@ class TestScore(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
+
+
+class TestRepoHygiene(unittest.TestCase):
+    """A worktree's cache symlink was once committed; merging it replaced the real cache with a self-loop."""
+    def test_no_tracked_cache_or_symlinks(self):
+        import subprocess
+        root = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+        try:
+            out = subprocess.run(['git', 'ls-files', '-s'], cwd=root, capture_output=True, text=True, check=True).stdout
+        except (OSError, subprocess.CalledProcessError):
+            self.skipTest('git not available')
+        self.assertEqual([l for l in out.splitlines() if l.startswith('120000 ')], [], 'symlinks are tracked')
+        self.assertEqual([l for l in out.splitlines() if l.split('\t')[-1].startswith('scraper/cache')], [])
