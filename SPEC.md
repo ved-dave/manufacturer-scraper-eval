@@ -61,10 +61,21 @@ Language is verified from content (page/PDF text), not only the URL.
 | CAD | Include direct files; hosted/gated CAD recorded as a link only (no form submission) |
 | Price | Manufacturer-site sources only (section 7) |
 
+**Image edge cases (decided 2026-10-11).** Text that belongs to the product itself (dome or nameplate markings, logos) and short letter/number markers on a cutaway do not make an image an infographic; it is excluded as an infographic only when sentences, leader-line labels or feature callouts carry its meaning. A collage of renders of the product's own options (indicator colours, body styles) without such text is one `product_photo`. When the page shows the same view both clean and with callouts added, keep the clean version and drop the annotated one. Candidates are only the image URLs the family page references (img src/srcset, data attributes, CSS backgrounds, links); "highest-quality version" means the largest of those, not an un-linked original found by editing a URL (e.g. removing a `mobile/` folder or a size suffix), so two labellers reach the same file.
+
 ## 5. Taxonomy
 Documents (`doc_type`):
 - Primary: `spec_sheet`, `submittal`, `price_list`
 - Secondary: `iom_manual`, `brochure`, `catalog`, `certificate`, `warranty`, `other_doc`
+
+**Classify by content (decided 2026-10-11).** A document's type follows what it is, not its file name, folder or site label; apply the first rule that fits. Certificates, warranties, submittals and price lists keep their own types.
+1. `iom_manual`: instructions to install, commission, operate, configure, maintain or proof-test the product, including quick-start guides, safety / SIL / functional-safety manuals, and manuals for a communication protocol or option module (DeviceNet, PROFIBUS, AS-i).
+2. `catalog`: technical or ordering data for several products (product or range overviews and product guides with a specification block per series; selection guides that list products with part numbers), part-numbering / ordering-code guides even for one family, and any technical (sales) manual longer than 4 pages, single- or multi-series.
+3. `spec_sheet`: up to 4 pages about this family, or about one option, module or accessory sold for it, containing a technical-data block (specification table, materials/parts list, ratings or dimensions), whatever it calls itself ("Technical Manual", "Technical Sales Manual", "Product Brochure", "Recommended Specification", "Weights & Dimensions", a communication-protocol data sheet). A sheet for an option or accessory is a spec source only for values it states for the family itself.
+4. `brochure`: marketing pieces of any length or product count (features, benefits, applications, solutions, facility or company presentations) with no per-product specification block or ordering data, and single-family documents over 4 pages that present themselves as a brochure.
+5. `other_doc`: reference material not tied to choosing or ordering one product: technical bulletins, sizing or actuator-selection guides without part numbers, reference charts (e.g. hazardous-location classification charts), bolting guides.
+
+Software and configuration files (EDS/GSD files, firmware, software ZIPs) are neither documents nor CAD and are not recorded.
 
 CAD (`cad_type`):
 - `cad_file`: .step/.stp, .dwg, .dxf, .igs/.iges, and zips containing them (classified by contents)
@@ -136,6 +147,16 @@ Male/female is not recorded. A connection type counts once, even if the product 
 
 Record every term the source supports; do not infer a sector from a service. "Water" alone maps to
 `potable water` only if the source says potable/drinking; otherwise keep it in `applications_other`.
+
+**Mapping strictness (decided 2026-10-11).** Map source wording to a term only when it names the term or
+wording listed for it above; do not derive a term from context. Pipe or tube types a product holds,
+room or building types (kitchens, hospitals, shower areas), "fire-rated" walls/applications, and
+"hot and cold water" without potable/drinking/domestic stay in `applications_other`. For an end, map
+the connection named (`2" Sch. 40 hub` → `hub`); a joining method the sheet describes for that same
+end in prose is not a second term. Wording that lists alternatives for one end (`MSWT/Press/Push`)
+records each (`solder`, `press`, `push-fit`). If no source wording for a field maps to a term, omit the
+field from `specs` and keep the wording only in `*_other`; a source whose wording maps to no term is
+no longer a source for the field, and `cross_check` follows the remaining sources.
 
 **Single size.** A family available in one size records `size_range` with `min` = `max`.
 

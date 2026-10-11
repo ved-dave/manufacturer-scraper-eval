@@ -1,0 +1,1945 @@
+--- page 1 ---
+TRUNNION MOUNTED BALL VALVE
+Installation, Operation, and Maintenance Manual
+BRAY.COM
+THE HIGH PERFORMANCE COMPANY
+
+--- page 2 ---
+TRUNNION MOUNTED BALL VALVE
+Installation, Operation, and Maintenance Manual
+2 of 32
+© 2026 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM   The Information 
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would 
+violate its proprietary nature without the express written permission of Bray International, Inc.
+EN_IOM_Trunnion_20260128
+CONTENTS
+1.0	
+DEFINITION OF TERMS .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 3
+1.1	
+Safety Statements .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  3
+2.0	
+GENERAL INFORMATION .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 4
+2.1	
+Introduction .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 4
+2.2	
+Design .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 4
+2.3	
+Use .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 4
+2.4	
+Applicability .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 5
+3.0	
+SAFETY INFORMATION .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 6
+3.1	
+Protective Clothing .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 7
+3.2	
+Service and Repair .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 7
+3.3	
+Hazard-Free Use .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  7
+3.4	
+Qualified Personnel .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 8
+4.0	
+PARTS IDENTIFICATION .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  9
+4.1	
+Parts Callout -  NPS 6  |  DN 150 .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  9
+4.2	
+Parts List - NPS 6  |  DN 150 .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 10
+4.3	
+Spare Parts .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  11
+5.0	
+VALVE IDENTIFICATION .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  12
+6.0	
+HANDLING REQUIREMENTS .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 13
+6.1	
+Packed Valves .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 13
+6.2	
+Unpacked Valves .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 13
+6.3	
+Moving Valves .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 14
+7.0	
+TRANSPORT AND STORAGE .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 16
+7.1	
+Transport .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  16
+7.2	
+Short-Term Storage .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 16
+7.3	
+Long-Term Storage .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 16
+7.4	
+General Storage Requirements .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 17
+8.0	
+INSTALLATION .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 18
+8.1	
+Valve Removal From Line .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  19
+8.2	
+Disassembly .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 20
+8.3	
+Visual Inspection .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 21
+8.4	
+Reassembly .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 21
+9.0	
+SEALANT INJECTION .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 23
+10.0	
+OPERATION .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  24
+11.0	
+MAINTENANCE AND REPAIR .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  25
+12.0	
+REPAIR KITS .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  28
+13.0	
+TROUBLESHOOTING .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  29
+14.0	
+RETURN MERCHANDISE AUTHORIZATION .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  30
+
+--- page 3 ---
+TRUNNION MOUNTED BALL VALVE
+Installation, Operation, and Maintenance Manual
+3 of 32
+© 2026 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM   The Information 
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would 
+violate its proprietary nature without the express written permission of Bray International, Inc.
+EN_IOM_Trunnion_20260128
+READ AND FOLLOW THESE INSTRUCTIONS CAREFULLY.  
+FOR THE LATEST IOM VERSION, VISIT BRAY.COM
+1.0	
+DEFINITION OF TERMS
+All information within this manual is relevant to the safe operation 
+and proper care of your Bray valve. Please understand the 
+following examples of information used throughout this manual.
+Specific instructions for non-standard materials of construction, 
+temperature range, etc. should be referred to the factory.
+1.1	
+Safety Statements
+To prevent unwanted consequences, standard symbols and 
+classifications are used as shown below:
+DANGER
+Indicates a potentially hazardous situation which, if not 
+avoided, will result in death or serious injury.
+WARNING
+Indicates a potentially hazardous situation which, if not 
+avoided, could result in death or serious injury.
+CAUTION
+Indicates a potentially hazardous situation which, if not 
+avoided, could result in minor or moderate injury.
+NOTICE
+Used without the safety alert symbol, indicates a potential 
+situation which, if not avoided, may result in an undesirable 
+result or state, including property damage.
+NOTE: Provides important information related to a procedure.
+
+--- page 4 ---
+TRUNNION MOUNTED BALL VALVE
+Installation, Operation, and Maintenance Manual
+4 of 32
+© 2026 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM   The Information 
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would 
+violate its proprietary nature without the express written permission of Bray International, Inc.
+EN_IOM_Trunnion_20260128
+2.0	
+GENERAL INFORMATION
+2.1	
+Introduction
+NOTICE
+Failure to follow these procedures and observe these notes, 
+cautions and warnings including the use of non-OEM parts 
+could lead to hazards and/or void product warranties, either 
+expressed or implied.
+The valve should be maintained as part of a preventative 
+maintenance program and in accordance with Bray’s 
+recommended pressure and temperature to ensure a long service 
+life. During shipment, storage, and in operation, the valve should 
+be fully open or fully closed (“open” is preferred for shipping and 
+storage).
+Additional product information (such as application data, 
+engineering specifications, actuator selection, etc.) is available 
+from your local Bray distributor or sales representative, or online 
+at BRAY.COM.
+For a detailed list of product certifications please contact your 
+local Bray representative.
+2.2	
+Design
+The design features of this valve include a split body, 2 piece/3 
+piece construction, allowing for ease of maintenance without 
+special tools. These valves feature a Trunnion-supported ball with 
+upstream and downstream sealing.
+As a result of these features, these valves are capable of handling 
+high pressure and shut-off with flow in either direction (or) dead 
+ended. The seating type may vary, depending on the customer 
+requirements.
+2.3	
+Use
+ 
+The following instructions are designed to assist in the unpacking, 
+installation, and maintenance as required for Bray ball valves. 
+Product users and maintenance personnel should thoroughly 
+review this manual prior to installing, operating, or performing any 
+maintenance.
+ In most cases, Bray valves, actuators, and accessories are 
+designed for specific applications (e.g. with regard to medium, 
+pressure and temperature). For this reason, they should not 
+be used in other applications without first contacting the 
+manufacturer.
+Read completely and understand all instructions provided prior 
+to beginning installation or maintenance.
+Follow all instructions as described using the correct tools for 
+the job.
+
+--- page 5 ---
+TRUNNION MOUNTED BALL VALVE
+Installation, Operation, and Maintenance Manual
+5 of 32
+© 2026 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM   The Information 
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would 
+violate its proprietary nature without the express written permission of Bray International, Inc.
+EN_IOM_Trunnion_20260128
+WARNING
+Before installing this equipment, confirm that it is suitable 
+for the intended service. The identification tags describe the 
+maximum allowable service conditions for this product. 
+Be sure that the installation is protected by appropriate 
+pressure control and safety devices to ensure that acceptable 
+limits are not exceeded.
+Confirm that line pressure has been removed and that there is 
+no pressure trapped within the valve prior to beginning service 
+(cycle the valve twice from fully open to fully closed position 
+to release any pressure potentially trapped in the body cavity). 
+Do not attempt to remove any packing components or other 
+fittings before confirming that pressure has been completely 
+removed!
+Do not begin service work without proper tools and protective 
+safety measures. 
+The work area should be clear of obstructions and other safety 
+hazards. 
+Compliance with other notes, which may not be particularly 
+emphasized, with regard to transport, assembly, operation 
+and maintenance, and technical documentation (operating 
+instructions, product documentation, or on the product itself) 
+is essential to avoid faults, which can directly or indirectly cause 
+severe personal injury or property damage.
+2.4	
+Applicability
+ 
+The following instructions are applicable to the maintenance and 
+installation of Bray ball valves. These instructions cannot claim to 
+cover all details of all possible product variations, nor can they 
+provide information for every possible example of installation, 
+operation, or maintenance. This means that the instructions 
+normally include only the directions to be followed by qualified 
+personnel using the product for its defined purpose. If there are 
+any uncertainties in this respect, particularly in the event of missing 
+product related information, clarification must be obtained via the 
+appropriate Bray sales office.
+
+--- page 6 ---
+TRUNNION MOUNTED BALL VALVE
+Installation, Operation, and Maintenance Manual
+6 of 32
+© 2026 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM   The Information 
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would 
+violate its proprietary nature without the express written permission of Bray International, Inc.
+EN_IOM_Trunnion_20260128
+3.0	
+SAFETY INFORMATION
+NOTICE
+Failure to follow these procedures could affect product 
+warranty.
+Read completely and understand all instructions provided prior 
+to beginning installation or maintenance.
+Follow all instructions as described using the correct tools for the job.
+Before installing this equipment, confirm that it is suitable for the 
+intended service. The identifications tags describe the maximum 
+allowable service conditions for this product.
+Be sure that the installation is protected by appropriate pressure 
+control and safety devices to ensure that acceptable limits are 
+not exceeded.
+WARNING
+Prior to servicing, remove actuation media and power and 
+confirm there is no stored energy in the actuation such as 
+compressed springs or trapped air before beginning service. 
+Stored energy devices can cause serious injury if the energy is 
+released without warning.
+Confirm that line pressure has been removed and that there is no 
+pressure trapped within the valve prior to beginning service. Do 
+not attempt to remove any packing components or other fittings 
+before confirming that pressure has been completely removed!
+WARNING
+Before working on valve being in service make sure that 
+service media has been flushed and line is safe. Make sure 
+that all applicable MSDS sheets are available. Follow all safety 
+related procedures.
+Do not begin service work without proper tools and protective 
+safety measures.
+The work area should be clear of obstructions and other safety 
+hazards.
+NOTICE
+Before disassembly valve shall be cycled several times to 
+assure there is no pressure trapped in body cavity.
+WARNING
+During the pressure test of reassembled valve follow all safety 
+precautions to avoid possible injury. (Use of proper test 
+equipment, correct parts assemblies, follow test procedures.)
+WARNING
+While line is under pressure DO NOT remove packing gland or 
+any other valve parts.
+
+--- page 7 ---
+TRUNNION MOUNTED BALL VALVE
+Installation, Operation, and Maintenance Manual
+7 of 32
+© 2026 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM   The Information 
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would 
+violate its proprietary nature without the express written permission of Bray International, Inc.
+EN_IOM_Trunnion_20260128
+3.1	
+Protective Clothing
+ 
+Bray products are often used in critical applications (e.g. under 
+extremely high pressures with dangerous, toxic, or corrosive 
+mediums). When performing service, inspection, or repair 
+operations, always ensure that the valve and the actuator are 
+depressurized, the valve has been cleaned, and the valve is free 
+of harmful substances. In such cases, pay particular attention to 
+personal protection (e.g. protective clothing, gloves, glasses, etc.).
+3.2	
+Service and Repair
+ 
+To avoid possible injury to personnel or damage to products, 
+safety terms must be strictly adhered to. Modifying this product, 
+substituting non-factory parts, or using maintenance procedures 
+other than those outlined in these Installation, Operation and 
+Maintenance instructions could drastically affect performance, be 
+hazardous to personnel and equipment, and may void existing 
+warranties. 
+Apart from the operating instructions and the obligatory accident 
+prevention directives valid in the country of use, all recognized 
+regulations for safety and good engineering practices must be 
+followed.
+3.3	
+Hazard-Free Use
+NOTICE
+Failure to follow these procedures could affect product 
+warranty.
+This device left the factory in proper condition to be safely 
+installed and operated in a hazard-free manner. The notes and 
+warnings in this document must be observed by the user if this 
+safe condition is to be maintained and hazard-free operation of 
+the device assured.
+Take all necessary precautions to prevent damage to the valve 
+due to rough handling, impact, or improper storage. Do not use 
+abrasive compounds to clean the valve, or scrape metal surfaces 
+with any objects.
+The control systems in which the valve is installed must have 
+proper safeguards — to prevent injury to personnel, or damage to 
+equipment — should failure of system components occur.
+The upper limits of permitted pressure and temperature 
+(depending on the housing and liner materials) must be 
+observed. These limits are shown on the valve identification tag.
+The valve must not be operated until the following documents 
+have been observed:
+	
+> Declaration on EU Directives (if applicable)
+	
+> IOM Manual (supplied with the product).
+
+--- page 8 ---
+TRUNNION MOUNTED BALL VALVE
+Installation, Operation, and Maintenance Manual
+8 of 32
+© 2026 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM   The Information 
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would 
+violate its proprietary nature without the express written permission of Bray International, Inc.
+EN_IOM_Trunnion_20260128
+3.4	
+Qualified Personnel
+NOTICE
+Failure to follow these procedures could affect product 
+warranty.
+A qualified person (in terms of this document) is one who is 
+familiar with the installation, commissioning, and operation of the 
+device, and who has appropriate qualifications, such as:
+1.	
+Is trained in the operation and maintenance of pressure 
+equipment and systems in accordance with established safety 
+practices. 
+2.	
+Is trained in the operation and maintenance of electrical 
+equipment and systems in accordance with established safety 
+practices.
+3.	
+Is trained or authorized to energize, de-energize, ground, tag, 
+and lock electrical circuits and equipment in accordance with 
+established safety practices.
+4.	
+Is trained in the proper use and care of personal protective 
+equipment (PPE) in accordance with established safety 
+practices.
+5.	
+Is trained in the commissioning, operation, and maintenance 
+of equipment in hazardous locations — in cases where the 
+device is installed in a potentially explosive (hazardous) 
+location.
+
+--- page 9 ---
+TRUNNION MOUNTED BALL VALVE
+Installation, Operation, and Maintenance Manual
+9 of 32
+© 2026 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM   The Information 
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would 
+violate its proprietary nature without the express written permission of Bray International, Inc.
+EN_IOM_Trunnion_20260128
+4.0	
+PARTS IDENTIFICATION
+4.1	
+Parts Callout -  NPS 6  |  DN 150
+
+--- page 10 ---
+TRUNNION MOUNTED BALL VALVE
+Installation, Operation, and Maintenance Manual
+10 of 32
+© 2026 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM   The Information 
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would 
+violate its proprietary nature without the express written permission of Bray International, Inc.
+EN_IOM_Trunnion_20260128
+ITEM 
+DESCRIPTION 
+RECOMMENDED
+SPARE PARTS1
+1
+Body
+2
+End Connection
+3
+Ball
+4
+Bearing Retainer
+5
+Bearing (Ball Trunnion)
+6
+Grooved Pin - Bearing Retainer
+7
+Seat Holder
+
+8
+Seat Insert
+
+9
+Spring (Seat Holder)
+10
+O-Ring (Seat Holder)
+
+11
+O-Ring (Seat Sealant)
+
+12
+Stem
+13
+Stem Housing
+14‡
+Packing
+
+15
+Packing Energizer
+16
+Packing Gland Flange
+17
+Thrust Washer - Ball
+
+18
+Thrust Washer - Stem
+
+19
+Seal - Body
+
+20
+Seal - Stem Housing
+
+21
+O-Ring - End Connection
+
+22
+O-Ring - Stem Housing
+
+23
+O-Ring - Stem
+
+24
+O-Ring - Mounting Flange
+
+25
+Grooved Pin - Body
+26
+Grooved Pin- Stem Housing
+27
+Sealant Injector - Closure
+28
+Check Valve - Sealant Injector
+29
+Sealant Injector - Stem Housing
+30
+Vent Plug
+31
+Drain Plug
+32
+Stud - Body
+33
+Nut - Body
+34
+Socket Head Cap Screw- Stem Housing
+35
+Socket Head Cap Screw - Gland
+36
+Circlip - Stem
+37
+Lifting Lug
+38
+Valve Support
+39
+Grooved Pin - Mounting Flange
+40
+Key
+41
+Washer
+42
+Hex Screw
+4.2	
+Parts List - NPS 6  |  DN 150
+
+--- page 11 ---
+TRUNNION MOUNTED BALL VALVE
+Installation, Operation, and Maintenance Manual
+11 of 32
+© 2026 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM   The Information 
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would 
+violate its proprietary nature without the express written permission of Bray International, Inc.
+EN_IOM_Trunnion_20260128
+4.3	
+Spare Parts
+1.	
+Use only Bray original spare parts.
+2.	
+Recommended spare parts are identified in the Parts 
+Identification drawing and list for each product model.
+3.	
+Bray cannot accept responsibility for any damages that 
+occur from using spare parts or fastening materials from 
+other manufacturers. If Bray products (especially soft good 
+materials) have been stored for long periods of time, check 
+them for corrosion or deterioration before putting them into 
+use.
+WARNING
+Before products are returned to Bray for repair or service, Bray 
+must be provided with a certificate that confirms that the product 
+has been decontaminated and is clean.
+
+--- page 12 ---
+TRUNNION MOUNTED BALL VALVE
+Installation, Operation, and Maintenance Manual
+12 of 32
+© 2026 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM   The Information 
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would 
+violate its proprietary nature without the express written permission of Bray International, Inc.
+EN_IOM_Trunnion_20260128
+5.0	
+VALVE IDENTIFICATION
+Identification Tag
+All valves, actuators, or control products are provided with a 
+permanently affixed identification tag meeting the requirements 
+of applicable standards and certifications for the product.
+As each product is unique, data may vary.
+Series
+Valve Series
+Size
+Nominal Pipe Size
+Class
+Pressure Class
+Bore
+Type of bore through body
+S/N
+Valve Serial Number
+Style
+Double Block & Bleed or Double Isolation & Bleed 
+Setup
+Body
+Body Material
+Ball
+Ball Material
+Stem
+Stem Material
+Seat
+Seat Material
+Seal
+Seal Material
+F to F
+Face to Face
+W/O
+Work Order Number
+Assy. Date
+Assembly Date
+COO
+Country of Origin
+MOP @ -20°F
+Maximum Operating Pressure at -20°F
+MOP @ 400°F
+Maximum Operating Pressure at 400°F
+API 6D Monogram
+Ability to Meet Standard
+ISO 14313
+Ability to Meet Standard
+API 607
+Ability to Meet Standard
+
+--- page 13 ---
+TRUNNION MOUNTED BALL VALVE
+Installation, Operation, and Maintenance Manual
+13 of 32
+© 2026 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM   The Information 
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would 
+violate its proprietary nature without the express written permission of Bray International, Inc.
+EN_IOM_Trunnion_20260128
+6.0	
+HANDLING REQUIREMENTS
+WARNING
+A potential hazard exists with handling valves. Failure to 
+handle valves properly may cause a valve to shift, slip or fall 
+causing serious injury or death and/or equipment damage.
+6.1	
+Packed Valves
+Crates: Lifting and handling of the packed valves in crates will be 
+carried out by a forklift truck, by means of the appropriate fork 
+hitches.
+Cases: The lifting of packed valves in cases will be carried out in 
+the lifting points and in the center of gravity position which has 
+been marked. The transportation of all packed material must be 
+carried out safely and following the local safety regulations.
+Moving crated, packed, or palleted products must be done in a 
+safe manner, using appropriate lifting equipment (i.e., forklift, 
+hand truck, pallet jack, etc.)
+NOTICE
+When lifting the valve from shipping container, use straps 
+through valve body. Take care to position lifting straps to avoid 
+damage to the tubing and mounted accessories.
+6.2	
+Unpacked Valves
+Lifting and handling of valves should be carried out by using 
+appropriate means and observing the carrying limits. Handling 
+must be carried out on pallets, protecting all machined surfaces 
+to avoid any damage.
+With large bore valves, rigging the load must be carried out by 
+using the appropriate tools to prevent the valve from falling or 
+moving during the lifting and handling.
+CAUTION
+1.	
+Product is shipped in protected position and must be 
+transported in such a way as to avoid damage during 
+movement.
+2.	
+For handling and/or lifting, the lifting equipment 
+(fasteners, hooks, etc.) must be sized and selected while 
+considering the product weight indicated in our packing 
+list and/or delivery note. 
+3.	
+Lifting and handling must be performed only by qualified 
+personnel.
+4.	
+Fasteners must be protected by plastic covers in sharp 
+corner areas.
+5.	
+Caution must be taken during handling to avoid this 
+equipment passing over workers, or over any other place 
+where a possible fall could cause injury or damage. In all 
+cases, local safety regulations must be respected.
+
+--- page 14 ---
+TRUNNION MOUNTED BALL VALVE
+Installation, Operation, and Maintenance Manual
+14 of 32
+© 2026 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM   The Information 
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would 
+violate its proprietary nature without the express written permission of Bray International, Inc.
+EN_IOM_Trunnion_20260128
+CAUTION
+The end connection necks are suitable places to attach lifting 
+slings/straps. Never use hand wheels or other protruding parts 
+of the gearbox or actuator not designated for this purpose.
+NOTICE
+During handling, protect the end connection faces and fittings 
+against damage from the lifting devices. Failure to cover faces 
+and fittings could cause damage to the valve.
+While unpacking the valve, check the packing list against the 
+materials received. Lists describing the valve and accessories 
+are included in each shipping container and General Assembly 
+drawing as applicable.
+WARNING
+Never lift the valve or valve package by the actuator, 
+positioner, limit switch or their piping. When lifting a valve, be 
+aware that the center of gravity may be above the lifting point. 
+Therefore, support must be given to prevent the valve from 
+rotating. Failure to do so can cause serious injury to personnel 
+and damage to the valve and nearby equipment.
+Contact your shipper immediately if there is shipping damage. 
+Should any problem arise, call your Bray representative.	
+WARNING
+A potential hazard exists with handling valves. Failure to 
+handle valves properly may cause a valve to shift, slip or fall 
+causing serious injury or death and/or equipment damage.
+6.3	
+Moving Valves
+Moving crated, packed, or palleted products must be done in a 
+safe manner, using appropriate lifting equipment (i.e., forklift, 
+hand truck, pallet jack, etc.)
+Lifting of products should be done using lifting points, and in the 
+center of gravity position as marked, in observance of existing 
+carrying limits.
+CAUTION
+Product is shipped in protected position and must be 
+transported in such a way as to avoid damage during 
+movement.
+For handling and/or lifting, the lifting equipment (fasteners, 
+hooks, etc.) must be sized and selected while considering the 
+product weight indicated in our packing list and/or delivery note.
+Lifting and handling must be performed only by qualified 
+personnel.
+Fasteners must be protected by plastic covers in sharp corner 
+areas.
+
+--- page 15 ---
+TRUNNION MOUNTED BALL VALVE
+Installation, Operation, and Maintenance Manual
+15 of 32
+© 2026 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM   The Information 
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would 
+violate its proprietary nature without the express written permission of Bray International, Inc.
+EN_IOM_Trunnion_20260128
+Caution must be taken during handling to avoid this equipment 
+passing over workers, or over any other place where a possible 
+fall could cause injury or damage. In all cases, local safety 
+regulations must be respected.
+
+--- page 16 ---
+TRUNNION MOUNTED BALL VALVE
+Installation, Operation, and Maintenance Manual
+16 of 32
+© 2026 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM   The Information 
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would 
+violate its proprietary nature without the express written permission of Bray International, Inc.
+EN_IOM_Trunnion_20260128
+7.0	
+TRANSPORT AND STORAGE
+NOTICE
+Failure to follow these procedures could affect product 
+warranty.
+The packaging is designed to protect the products only during 
+shipping. If the product is not installed immediately after delivery, 
+then it must stored according to these requirements.
+These are general guidelines for valve storage. Storage guidelines 
+for accessories fitted on valves shall be as per respective 
+Installation, Operation and Maintenance manual. Please consult 
+the factory for information regarding specific requirements.
+7.1	
+Transport
+Upon arrival at the site, valves general condition should be 
+inspected right away for any potential shipping damage. Any 
+damage should be reported to Bray.
+7.2	
+Short-Term Storage
+Short-term storage is defined as storage of products and 
+equipment to be used in the construction of a project for periods 
+of one to three months. Short-term storage must be carried out 
+in a controlled manner as follows:
+1.	
+Valves must be stored in a closed, clean, and dry 
+environment.
+2.	
+Ball valves should be stored in the fully open position to 
+protect the ball and seats.
+3.	
+Ball valves should remain in the original shipping container 
+and be placed on pallets of wood or other suitable materials. 
+End protectors should remain on the valve ends to prevent 
+the entrance of dirt and removed only at time of installation.
+7.3	
+Long-Term Storage
+Long-term storage is defined as storage of products and/or 
+equipment for periods longer than 3 months. Long-term storage 
+must be carried out in a controlled manner as follows:
+1.	
+Valves must be stored in a closed, clean, and dry 
+environment.
+2.	
+Ball valves should be stored in the fully open position to 
+protect the ball and seats.
+3.	
+Ball valves should remain in the original shipping container 
+and be placed on pallets of wood or other suitable materials. 
+End protectors should remain on the valve ends to prevent 
+the entrance of dirt and removed only at time of installation.
+4.	
+A visual inspection (with results recorded) shall be performed 
+every three months to ensure the above conditions are 
+maintained.
+
+--- page 17 ---
+TRUNNION MOUNTED BALL VALVE
+Installation, Operation, and Maintenance Manual
+17 of 32
+© 2026 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM   The Information 
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would 
+violate its proprietary nature without the express written permission of Bray International, Inc.
+EN_IOM_Trunnion_20260128
+Inspection, as a minimum, shall include reviewing the following:
+	
+> Packaging
+	
+> Flange covers
+	
+> Dryness
+	
+> Cleanliness
+These are general guidelines for valve storage. Please consult the 
+factory for information regarding specific requirements.
+CAUTION
+Do not stack the products on top of each other.
+7.4	
+General Storage Requirements
+Manually actuated valves may be stored in the vertical or 
+horizontal position. For air or hydraulically actuated valves, 
+the preferred orientation is with the valve stem in the vertical 
+position. Access ports should be secured to prevent unauthorized 
+entry and prevent contamination.
+The preferred storage location is a closed, clean, and dry 
+environment. Do not expose the product to temperature 
+extremes.
+NOTICE
+The preferred temperature range is 40°F (4°C) to 85°F (29°C). 
+For long-term storage in temperatures lower or higher than 
+the preferred range, please consult the factory for information 
+regarding specific requirements.
+End protectors shall remain on the valve ends to prevent the 
+entrance of dirt, debris, or insects/wildlife.
+Product shall remain in the original shipping container with the 
+original packaging materials.
+Valves and equipment containing elastomers, including O-rings, 
+must be stored in a climate-controlled warehouse according to 
+SAE-ARP5316D requiring:
+1.	
+The ambient relative humidity to be less than 75%.
+2.	
+No exposure from direct ultraviolet or sunlight.
+3.	
+Protection from ozone generating equipment or combustible 
+gases and vapors.
+4.	
+Storage at temperatures below 100°F (38°C), away from 
+direct sources of heat.
+5.	
+No exposure to ionizing radiation.
+
+--- page 18 ---
+TRUNNION MOUNTED BALL VALVE
+Installation, Operation, and Maintenance Manual
+18 of 32
+© 2026 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM   The Information 
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would 
+violate its proprietary nature without the express written permission of Bray International, Inc.
+EN_IOM_Trunnion_20260128
+8.0	
+INSTALLATION
+DANGER
+Before installation check the order number, serial number, 
+and/or the tag number to ensure that the valve and actuator 
+being installed are correct for the intended application.
+CAUTION
+Do not insulate extensions that are provided for hot or cold 
+services.
+Before installing a new valve in the line, check the nameplate 
+instructions and tag plates on the valve for identification. Ensure 
+that the characteristics of the valve match those specified by 
+the piping specifications where the valve will be mounted. If this 
+information is missing, consult factory. 
+CAUTION
+Ensure pipeline is fully cleaned before installation of the valve 
+into the pipeline. Pipeline debris, scaling, etc. will damage the 
+soft seat inserts of the valve and cause seat leakage during 
+commissioning. During commissioning and pipeline flushing, 
+valve should be kept fully open to prevent damage to the 
+internal parts.
+NOTICE
+Prevent damage to the valve during flushing and testing of 
+pipelines by substituting them with spool pieces. If use of 
+spool pieces is not possible, it is essential that the valve is 
+kept is fully open. It’s also advisable to install strainers at 
+critical places to protect the soft seats of the valves from solid 
+particles.
+It is recommended that valves be mounted in a horizontal 
+position (with stem pointing vertically). We do not recommend 
+installing the valve with the actuator on the underside because 
+dirt in the pipeline may enter the body cavity and damage the 
+gland packing.
+To facilitate servicing, it may be necessary to firmly support 
+the pipeline to protect the valve from excess stress and reduce 
+pipeline vibrations. Ideally the valve should be supported by the 
+body, using pipe clamps and supports. Do not fasten supports to 
+the flange bolting or to the actuator.
+Ensure there is enough space around the valve for it to operate 
+from the fully open to fully closed position.
+
+--- page 19 ---
+TRUNNION MOUNTED BALL VALVE
+Installation, Operation, and Maintenance Manual
+19 of 32
+© 2026 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM   The Information 
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would 
+violate its proprietary nature without the express written permission of Bray International, Inc.
+EN_IOM_Trunnion_20260128
+Flanged Valves
+1.	
+Do not attempt to correct misalignment by means of flange 
+bolts.
+2.	
+During the tightening operation, ensure that piping stresses 
+are not transferred to the valve.
+3.	
+To ensure tight sealing, pre-tighten the bolts in an alternating 
+diagonal pattern. Do not tighten in an adjacent pattern.
+4.	
+Over-tightening of flange studs can cause damage and/or 
+leakage of the end flanges or body/end connection joints. 
+Weld End Valves
+A qualified welder must perform the welding operation following 
+the welding procedure according to ASME Boiler and Pressure 
+Vessel Code Section IX.
+It is not recommended to have valve fully closed when welding. 
+Weld slag should be minimized.
+CAUTION
+Do not allow temperature of the valve body seat area to 
+exceed 200°F (94°C) to prevent seat and seal damage during 
+welding operation. Thermal chalks are recommended for 
+checking the temperature.
+NOTICE
+Any damage to the seats due to temperatures above 200°F 
+(94°C) can cause valve leakage. It is recommended that the 
+customer keep spare kits at their end.
+CAUTION
+Ensure that weld spatter does not fall over ball and body 
+seals. This may damage the sealing surfaces and seals. After 
+welding, flush the pipeline when the valve is in open condition 
+to remove the weld spatter formed during welding and then 
+operate the valve 3-4 times in order to ensure the proper 
+operation of the valve.
+Butt Weld Valves
+When installing butt weld end valves, ensure proper alignment 
+and use appropriate welding procedures.
+If butt-welding the valve without pipe pups, never install the 
+valve when the ball is in the closed position.
+DANGER
+To avoid serious injury, keep hands, hair, clothing, etc. away 
+from the seat when the valve is working.
+
+--- page 20 ---
+TRUNNION MOUNTED BALL VALVE
+Installation, Operation, and Maintenance Manual
+20 of 32
+© 2026 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM   The Information 
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would 
+violate its proprietary nature without the express written permission of Bray International, Inc.
+EN_IOM_Trunnion_20260128
+8.1	
+Valve Removal From Line
+1.	
+If an internal problem is suspected with the valve and 
+disassembly is required, remove the valve from the line by 
+proceeding as follows.
+2.	
+Attach a hoist or some means to support the valve.
+3.	
+Remove line bolting. Do not attempt to pry line flanges apart 
+by pushing or pulling on the valve or actuator.
+4.	
+Slide the valve carefully from the line. To avoid damage to the 
+gasket surfaces, do not twist the valve.
+WARNING
+Depressurize the line to atmospheric pressure, drain all process 
+fluids and decontaminate the valve (if caustic or hazardous 
+materials are present). Failure to do so can cause serious 
+injury. Cycle the valves 2-3 times to make sure there is no 
+trapped pressure. Leave the valve in the fully opened position.
+8.2	
+Disassembly
+1.	
+Ensure that valve is in the closed position before 
+disassembling.
+2.	
+Hold the valve in a horizontal position (stem vertical) in a 
+secure manner. A vise or clamp could be used.
+3.	
+For gear-operated or actuated valves, remove the operator. 
+Also, remove the bracket by removing the nuts and the studs. 
+Then, remove the coupling from the stem and the keys. For 
+lever-operated valves, remove the hand lever by removing 
+the cap screw.
+NOTICE
+During this operation, take care not to damage the stem and 
+key.
+4.	
+Remove the circlip from the stem.
+5.	
+Remove the stem housing cap screws and dowel pin.
+6.	
+Lift the stem with stem housing from the body.
+7.	
+Remove the stem housing O-ring and gasket.
+8.	
+Remove the stem from the stem housing. 
+9.	
+Remove the stem O-ring and thrust washer.
+10.	 Remove the anti-static device.
+11.	 Keep the valve in a vertical position (stem slot horizontal) on 
+plane and clean surface, taking care that end flange sealing 
+surface does not get damaged.
+12.	 Remove the body nuts in a crisscross pattern and lift the 
+end connector with the seat and insert, taking care not to 
+damage internals.
+
+--- page 21 ---
+TRUNNION MOUNTED BALL VALVE
+Installation, Operation, and Maintenance Manual
+21 of 32
+© 2026 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM   The Information 
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would 
+violate its proprietary nature without the express written permission of Bray International, Inc.
+EN_IOM_Trunnion_20260128
+13.	 For a three-piece valve, lift the valve and place it so that the 
+end flange surface of the second end connector is facing 
+upward. Remove the end connector as mentioned above.
+14.	 Remove the ball along with the bearing retainer from the 
+body.
+NOTICE
+Take care not to damage the ball and the body seat or leakage 
+could result, even when new seats are installed. Always place 
+the ball on a soft liner on a table to prevent it from rolling.
+15.	 Remove the ball trunnion bearing from the bearing bore in 
+the ball on both the stem and trunnion side.
+16.	 Remove the O-ring, and body gaskets from both the 
+connectors.
+17.	 Remove the seat and insert from both the connectors.
+18.	 Remove the seat O-ring from the seat.
+19.	 Remove the springs from the connectors.
+20.	 Where applicable, the sealant injection fittings, and drain/
+vent plugs may be removed for cleaning.
+NOTICE
+Recommended spare parts are listed on the exploded view. 
+These parts should be stocked to minimize down time.
+After the complete disassembly of the valve, all the 
+components should be stored in a clean place to avoid 
+damage.
+8.3	
+Visual Inspection
+Perform visual inspection during any operation performed .
+Valve mounting: Inspect raised faces on the end flanges and body 
+bolting for any damage.
+Valve repair: Inspect ball surface and all sealing surfaces for 
+any imperfections and scratches. Inspect Seats and seals for 
+dents and scratches. All parts shall be maintained in good clean 
+condition.
+8.4	
+Reassembly
+1.	
+Clean and inspect all parts for damage and change part(s) as 
+necessary.
+NOTICE
+If complete disassembling becomes necessary, replacement of 
+all seats and seals is recommended.
+2.	
+Place the body on a clean wooden surface.
+3.	
+Coat body studs with anti-corrosive paste.
+4.	
+Place both end connectors with their flange surfaces resting 
+on a clean wooden surface.
+
+--- page 22 ---
+TRUNNION MOUNTED BALL VALVE
+Installation, Operation, and Maintenance Manual
+22 of 32
+© 2026 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM   The Information 
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would 
+violate its proprietary nature without the express written permission of Bray International, Inc.
+EN_IOM_Trunnion_20260128
+5.	
+Place the springs in holes provided on connectors or the seat 
+and fit the O-ring on seat assembly.
+6.	
+Fit the seat O-ring on the seat assemblies. Lower the seat 
+assemblies into the connectors.
+7.	
+Fit the O-ring (body) and the body gaskets on both the 
+connectors.
+8.	
+Fit the O-ring (stem) and thrust washer (stem) on the stem.
+9.	
+Locate the stem in the stem housing.
+10.	 Fit the O-ring (stem housing) and gasket (stem housing) into 
+the stem housing.
+11.	 Fit the thrust washers (trunnion) on the top and bottom flats 
+of the ball.
+12.	 Fit the ball trunnion bearing into the bearing bore in the 
+bearing retainer.
+13.	 Fit the bearing retainer onto the ball trunnion.
+14.	 Assemble the packing energizer, packing kit, O-ring [(stem) 
+and (stem housing)], and thrust washer (stem) onto the 
+stem.
+15.	 Lift the ball and lower it into the body in the appropriate 
+position.
+16.	 Locate the stem in the ball recess and tighten the gland cap 
+screws according to the Bolting Torque Charts.
+17.	 Lift the valve and place it so that the direction of the flow 
+axis is horizontal (stem vertical).
+18.	 Locate the dowel pins and place the stem housing on the 
+body so the stem housing fits into the ball trunnion bearing 
+and stem flats located in the ball slot.
+19.	 Place and tighten the cap screws for the  housing according 
+to Bolting Torque Charts.
+20.	 Fit both end connectors with seats to the body and tighten 
+the nuts according to the Bolting Torque Charts.
+21.	 Fit the gasket (stem) in the stem housing recess.
+22.	 Locate the dowel pins, place the ISO mounting flange on the 
+stem housing and tighten the cap screws.
+23.	 Fit the stem key in the stem key way.
+24.	 For lever-operated valves, place the hand lever on the stem 
+and tighten the cap screw. For gear-operated or actuated 
+valves, place the coupling on the stem, place the bracket to 
+the ISO mounting flange, fit the studs and tighten the nuts. 
+Place the gear operator or actuator on the coupling and the 
+bracket, fit the studs and tighten the nuts.
+
+--- page 23 ---
+TRUNNION MOUNTED BALL VALVE
+Installation, Operation, and Maintenance Manual
+23 of 32
+© 2026 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM   The Information 
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would 
+violate its proprietary nature without the express written permission of Bray International, Inc.
+EN_IOM_Trunnion_20260128
+25.	 Where applicable, fit the sealant injection fittings [(stem) and 
+(seat)] and drain/vent plugs.
+26.	 Rotate the ball slowly back and forth to a full quarter-turn. 
+This will allow the seat to assume its permanent position and 
+shape against the ball and body. A fast turning motion may 
+damage the seat before it has a chance to form a proper seal.
+
+--- page 24 ---
+TRUNNION MOUNTED BALL VALVE
+Installation, Operation, and Maintenance Manual
+24 of 32
+© 2026 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM   The Information 
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would 
+violate its proprietary nature without the express written permission of Bray International, Inc.
+EN_IOM_Trunnion_20260128
+9.0	
+SEALANT INJECTION
+The secondary sealant injection system is used only when 
+damage has been caused to the seat sealing area or stem seals 
+by hard particles or dirt in the process media when a temporary 
+tight shut off is required for maintenance or other purpose.
+Use standard grades of valve sealants, which are suitable for the 
+media in the valve. The factory recommends Sealweld 5050.
+Push sealant onto the seat surface through the sealant injection 
+port provided on the valve body using a hand pump. Push sealant 
+onto the stem surface through the sealant injection port provided 
+on the stem housing using a hand pump. Prior to injecting 
+sealant, flush the sealant port with suitable valve cleaner. This will 
+purge any old sealant and debris from the valve seats.
+During an emergency seat sealing operation, the valve shall be in 
+the fully closed position. Once the valve is cycled again, the re-
+sealing operation must be repeated.
+
+--- page 25 ---
+TRUNNION MOUNTED BALL VALVE
+Installation, Operation, and Maintenance Manual
+25 of 32
+© 2026 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM   The Information 
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would 
+violate its proprietary nature without the express written permission of Bray International, Inc.
+EN_IOM_Trunnion_20260128
+10.0	
+OPERATION
+ 
+Operation of the valve is done by turning the stem a ¼ turn (90° 
+turn). Clockwise to close, and counter clockwise to open.
+Wrench operated
+Open position: 
+The handle is in parallel with the valve or pipe line.
+Closed position: 
+The handle is in perpendicular with the valve or pipe line.
+Gear and Actuator operated
+The position of the valve is shown on the indicator or the marking 
+on the gear box and actuator.
+Conditions
+The rim pull effort/force applied on the hand wheel of the 
+gearbox or lever shall not exceed 360N (80 lbf).
+Do not apply extra leverage using a pipe or bar, when the end 
+stops of the gearbox reach the final setting position.
+Valves always close in clockwise direction. The ball should 
+always be rotated through 90° to the fully opened or fully closed 
+position.
+Keeping the valve at any intermediate position should especially 
+be avoided, as high fluid velocity through the narrow opening will 
+produce erosion of the seat, ball and possibly the body.
+CAUTION
+Valves with a gear box and actuators should be checked for 
+actuator-valve alignment. Misalignment will result in high 
+operation torque and damage to valve stem and seal.
+OPEN POSITION
+CLOSED POSITION
+NEED 
+ARTWORK
+NEED 
+ARTWORK
+
+--- page 26 ---
+TRUNNION MOUNTED BALL VALVE
+Installation, Operation, and Maintenance Manual
+26 of 32
+© 2026 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM   The Information 
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would 
+violate its proprietary nature without the express written permission of Bray International, Inc.
+EN_IOM_Trunnion_20260128
+11.0	
+MAINTENANCE AND REPAIR
+The type of process, fluids involved, working condition(s) and 
+location of the valves in the process plants will determine the 
+frequency of periodic preventive maintenance. Valves should 
+be inspected for smooth operation and leak free performance 
+a minimum of once every 3 months. This is recommended for 
+stored valves also.
+1.	
+Look for signs of gasket leakage through the body/end 
+connector joint and body/stem housing joint. If necessary, 
+retorque the nuts/bolts according to the Bolting Torque 
+Chart.
+2.	
+If possible, stroke the valve and check for smooth, full stroke 
+operation. Unsteady stem movement may indicate an internal 
+problem.
+3.	
+Ensure all brackets, gear, and actuator bolting are securely 
+fastened.
+4.	
+Periodically flush the sealant ports with suitable valve cleaner 
+to flush debris from the sealant system.
+5.	
+Cavity flushing is recommended for preventing accumulation 
+of dirt/debris in the body cavity. Supply compatible fluid into 
+the vent port and flush through the drain port provided at the 
+bottom of the valve.
+To avoid possible injury to personnel or damage to products, 
+adhere to all safety terms. Modifying this product, substituting 
+non-factory parts, or using maintenance procedures other than 
+those outlined in these Installation, Operation and Maintenance 
+Instructions could drastically affect performance, be hazardous to 
+personnel and equipment, and may void existing warranties.
+Follow all recognized regulations for safety and good engineering 
+practices, in addition to the operating instructions and the 
+obligatory accident prevention directives valid in the country of 
+use.
+WARNING
+Before products are returned for repair or service, Bray must 
+be provided with a certificate that confirms that the product 
+has been decontaminated and is clean.
+Use only Bray original spare parts. Bray cannot accept 
+responsibility for any damages that occur from using spare parts 
+or fastening materials from other manufacturers. If Bray products 
+(especially sealing materials) have been stored for long periods 
+of time, check them for corrosion or deterioration before putting 
+them into use.
+
+--- page 27 ---
+TRUNNION MOUNTED BALL VALVE
+Installation, Operation, and Maintenance Manual
+27 of 32
+© 2026 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM   The Information 
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would 
+violate its proprietary nature without the express written permission of Bray International, Inc.
+EN_IOM_Trunnion_20260128
+Bolting Torque (lb.in.)
+Size
+NPS
+Class
+Body Bolting
+Stem Housing Bolting
+Gland Bolting
+Material
+Material
+Material
+B7, L7, 2H
+B7M, L7M, 2HM 
+B8M Class 2, B8 Class 2
+B7, L7
+B7M, L7M, 
+B8M Class 2, B8 Class 2
+B7, L7, B7M, L7M, 
+B8M Class 2, B8 Class 2
+2
+150
+655
+522
+71
+62
+35
+2
+300
+655
+522
+71
+62
+35
+2
+600
+655
+522
+71
+62
+35
+3
+150
+655
+522
+71
+62
+35
+3
+300
+655
+522
+150
+124
+35
+3
+600
+1301
+1044
+150
+124
+35
+4
+150
+655
+522
+150
+124
+35
+4
+300
+655
+522
+150
+124
+35
+4
+600
+1301
+1044
+150
+124
+35
+6
+150
+655
+522
+150
+124
+44
+6
+300
+1301
+1044
+150
+124
+44
+6
+600
+3753
+3000
+266
+212
+62
+8
+150
+1301
+1044
+266
+212
+62
+8
+300
+1301
+1044
+266
+212
+62
+8
+600
+5629
+4505
+266
+212
+71
+10
+150
+1301
+1044
+266
+212
+62
+10
+300
+2328
+1859
+266
+212
+71
+10
+600
+8311
+5399
+655
+522
+97
+12
+150
+2328
+1859
+266
+212
+71
+12
+300
+3753
+3000
+655
+522
+97
+12
+600
+11718
+7612
+655
+522
+97
+14
+150
+2328
+1859
+266
+212
+71
+14
+300
+3753
+3000
+655
+522
+97
+14
+600
+15940
+9568
+1301
+1044
+115
+16
+150
+3753
+3000
+655
+522
+97
+16
+300
+5629
+4505
+1301
+1044
+115
+16
+600
+21074
+12648
+1301
+1044
+204
+18
+150
+3753
+3000
+655
+522
+97
+18
+300
+8311
+5399
+1301
+1044
+204
+18
+600
+34429
+20658
+2328
+1859
+230
+20
+150
+5629
+4505
+1301
+1044
+115
+20
+300
+11718
+7612
+1301
+1044
+230
+20
+600
+42740
+25641
+3753
+3000
+266
+24
+150
+8311
+5399
+1301
+1044
+230
+24
+300
+15940
+9568
+3753
+3000
+266
+24
+600
+52414
+31447
+3753
+3000
+283
+
+--- page 28 ---
+TRUNNION MOUNTED BALL VALVE
+Installation, Operation, and Maintenance Manual
+28 of 32
+© 2026 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM   The Information 
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would 
+violate its proprietary nature without the express written permission of Bray International, Inc.
+EN_IOM_Trunnion_20260128
+Bolting Torque (N m)
+Size
+DN
+Class
+Body Bolting
+Stem Housing Bolting
+Gland Bolting
+Material
+Material
+Material
+B7, L7, 2H
+B7M, L7M, 2HM
+B8M Class 2, B8 Class 2
+B7, L7
+B7M, L7M, 
+B8M Class 2, B8 Class 2
+B7, L7, B7M, L7M, 
+B8M Class 2, B8 Class 2
+50
+150
+74
+59
+8
+7
+4
+50
+300
+74
+59
+8
+7
+4
+50
+600
+74
+59
+8
+7
+4
+80
+150
+74
+59
+8
+7
+4
+80
+300
+74
+59
+17
+14
+4
+80
+600
+147
+118
+17
+14
+4
+100
+150
+74
+59
+17
+14
+4
+100
+300
+74
+59
+17
+14
+4
+100
+600
+147
+118
+17
+14
+4
+150
+150
+74
+59
+17
+14
+5
+150
+300
+147
+118
+17
+14
+5
+150
+600
+424
+339
+30
+24
+7
+200
+150
+147
+118
+30
+24
+7
+200
+300
+147
+118
+30
+24
+7
+200
+600
+636
+509
+30
+24
+8
+250
+150
+147
+118
+30
+24
+7
+250
+300
+263
+210
+30
+24
+8
+250
+600
+939
+610
+74
+59
+11
+300
+150
+263
+210
+30
+24
+8
+300
+300
+424
+339
+74
+59
+11
+300
+600
+1324
+860
+74
+59
+11
+350
+150
+263
+210
+30
+24
+8
+350
+300
+424
+339
+74
+59
+11
+350
+600
+1801
+1081
+147
+118
+13
+400
+150
+424
+339
+74
+59
+11
+400
+300
+636
+509
+147
+118
+13
+400
+600
+2381
+1429
+147
+118
+23
+450
+150
+424
+339
+74
+59
+11
+450
+300
+939
+610
+147
+118
+23
+450
+600
+3890
+2334
+263
+210
+26
+500
+150
+636
+509
+147
+118
+13
+500
+300
+1324
+860
+147
+118
+26
+500
+600
+4829
+2897
+424
+339
+30
+600
+150
+939
+610
+147
+118
+26
+600
+300
+1801
+1081
+424
+339
+30
+600
+600
+5922
+3553
+424
+339
+32
+
+--- page 29 ---
+TRUNNION MOUNTED BALL VALVE
+Installation, Operation, and Maintenance Manual
+29 of 32
+© 2026 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM   The Information 
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would 
+violate its proprietary nature without the express written permission of Bray International, Inc.
+EN_IOM_Trunnion_20260128
+12.0	
+REPAIR KITS
+ 
+Only Bray repair parts shall be used to service Bray products. 
+Contact Bray for ordering proper repair kit and any valve 
+replacement parts not provided in the repair kit.
+When ordering repair kit and replacement parts, include
+1. Valve identification information
+2. Valve serial number if provided
+3. Replacement part item number, part description and quantity.
+
+--- page 30 ---
+TRUNNION MOUNTED BALL VALVE
+Installation, Operation, and Maintenance Manual
+30 of 32
+© 2026 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM   The Information 
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would 
+violate its proprietary nature without the express written permission of Bray International, Inc.
+EN_IOM_Trunnion_20260128
+13.0	
+TROUBLESHOOTING
+TROUBLE
+POSSIBLE CAUSE
+SOLUTION
+Leakage through a closed valve
+Damaged ball surface
+Replace the ball
+Damaged seats
+Replace seats
+Ball might not be closed fully
+Check ball Open/Close settings (for 
+example, the gear stops on a gear 
+operator)
+Irregular ball movement
+Impurities between the ball and 
+seat or the ball, body I.D., and seats
+Flush the ball from inside, Clean the 
+sealing surfaces and replace seats
+Valve torque too high
+Damaged seats
+Use emergency seal, by filling end 
+connection injection ports with 
+sealant. Replace seats and seals as 
+soon as possible.
+High application pressure / 
+temperature
+Confirm the application pressure / 
+temperature rating
+Foreign particles in Valve
+Clean the valve internals.
+Water hammer or noisy operation
+Error in valve sizing or flow of fluid 
+with high velocity
+Confirm valve sizing with respect to 
+flow
+Leakage through stem
+Gland cap screw loose
+Tighten gland cap screw
+Damaged stem, stem sealing 
+surface
+Replace the stem
+Damaged stem seal
+Replace the stem seal
+
+--- page 31 ---
+TRUNNION MOUNTED BALL VALVE
+Installation, Operation, and Maintenance Manual
+31 of 32
+© 2026 BRAY INTERNATIONAL, INC. ALL RIGHTS RESERVED. BRAY.COM   The Information 
+contained herein shall not be copied, transferred, conveyed, or displayed in any manner that would 
+violate its proprietary nature without the express written permission of Bray International, Inc.
+EN_IOM_Trunnion_20260128
+14.0	
+RETURN MERCHANDISE AUTHORIZATION
+WARNING
+Before products are returned to Bray for repair or service, 
+Bray must be provided with a certificate that confirms that the 
+product has been decontaminated and is clean.
+All products that are returned require a Return Merchandise 
+Authorization (RMA). Contact a Bray representative to obtain 
+authorization and shipping instructions.
+The following information must be provided when submitting RMA.
+	
+> Serial number
+	
+> Part number
+	
+> Month and year of manufacture
+	
+> Time of purchase (if known)
+	
+> Actuator and actuator accessories/controls specifics
+	
+> Application
+	
+> Media
+	
+> Operating temperature
+	
+> Operating pressure
+	
+> Total estimated cycles (since last installation or repair)
+NOTE: Product information is provided on identification tag 
+attached to device.
+NOTICE
+Materials must be cleaned and sanitized prior to return. MSDS 
+sheets and Declaration of Decontamination are required.
+
+--- page 32 ---
+HEADQUARTERS 
+BRAY INTERNATIONAL, INC.
+13333 Westland East Blvd.
+Houston, Texas 77041
+Tel: +1.281.894.5454
+SINCE 1986, BRAY HAS PROVIDED FLOW CONTROL SOLUTIONS  
+FOR A VARIETY OF INDUSTRIES AROUND THE WORLD. 
+VISIT BRAY.COM TO LEARN MORE ABOUT  
+BRAY PRODUCTS AND LOCATIONS NEAR YOU.
+THE HIGH PERFORMANCE COMPANY
+All statements, technical information, and recommendations in this bulletin are for general  
+use only. Consult Bray representatives or factory for the specific requirements and material 
+selection for your intended application. The right to change or modify product design or 
+product without prior notice is reserved. Patents issued and applied for worldwide.  
+Bray® is a registered trademark of Bray International, Inc.
+© 2025 BRAY INTERNATIONAL. ALL RIGHTS RESERVED. BRAY.COM
+BRAY.COM
+EN_IOM_Trunnion_20260128

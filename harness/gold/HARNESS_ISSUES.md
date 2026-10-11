@@ -21,9 +21,20 @@ Most issues from the first pass were adopted on `main` (robots override, `refine
 5. **`.gitignore` still does not ignore `harness/gold/*.evidence/files/`** (see sioux-chief #1). Excluded via `.git/info/exclude` on this branch.
 6. **No allowed_hosts change.** No cited image comes from `newbrayprod.azurewebsites.net`, so `config/sites.json` is unchanged.
 
+
+## cimberio (gold labelling, 2026-10-11)
+
+1. **allowed_hosts: added `store-herjth7887.mybigcommerce.com`.** The Resources page links the List Price Book (`/content/PL-Cimberio_V0016.2_LR.pdf`) on this host. It is Cimberio's own BigCommerce store host (same store hash `s-herjth7887` as the product CDN, and its home page redirects to cimberiovalve.us with the Cimberio title and canonical). Not a distributor. The same file (identical SHA-256) is also at `cimberiovalve.us/content/`, but the link on the site points to the store host, so gold cites that URL.
+2. **PDF glyph mapping in two Cimberio sheets.** TDS-746 and TDS-3739 use a subset VAGRounded font with no Unicode map for fractions: PyMuPDF returns `\x10` for ½, `\x11` for ¼, `\x13` for ¾, and MacRoman mojibake (`¡` for °, `¥` for •). The committed evidence text for these two PDFs applies this mapping (checked against page renders). Otherwise a quote such as `Sizes: 2½" - 8"` cannot be matched. The validator could map C0 control characters, or SPEC could allow a documented glyph map in evidence text.
+3. **`refines` heuristic warns on `material_body` for the 778 series** ("corrosion-resistant brass" on the page vs "DZR Brass ANSI C27453 or EN 12165 CW511L" on the sheet) and for 74PRSNL. Same issue as bray #2: alloy designations are narrower forms.
+4. **Variant prices come from a price-list PDF, not the product page.** Product pages show only "Request a Quote". Exact Cim No. rows in the linked List Price Book give a public `list` price (`availability=price_shown`, source = PDF page quote). SPEC 7 does not say which wins when the product page says request-a-quote but a public list price book prices the same SKU. Gold uses the price book, because it is a published price with an exact identifier match.
+5. **SPEC 5 page-count rule vs one-family technical data sheets.** TechDataSheet-778_v5 is titled "Technical Data Sheet" but is 8 pages and covers 14 models, so rule 2 makes it a `catalog`. That moves it below the product page in SPEC 6a precedence, and its values no longer take part in the cross-check.
+
+
 ## crane (gold labelling, 2026-10-11)
 
 1. **`config/sites.json`: no `allowed_hosts` change; `cad_viewer_hosts` added.** Every Crane PDF, image and CAD zip is served from `www.cranefs.com/app/uploads/`, so `allowed_hosts` stays `["www.cranefs.com"]`. The "BIM - ... Revit" download links go to the third-party BIM library bimstore (`www.bimstore.co`, `www.bimstore.co.uk`), which needs an account to download. These are not Crane hosts, so they were added to the crane `cad_viewer_hosts` (hosted CAD/BIM library, like partcommunity) and recorded as `cad_viewer`, `gated: true`. Consider adding bimstore to `global_cad_viewer_hosts`: other UK manufacturers use it too.
 2. **`market_flag` warning for a single-locale non-US site.** cranefs.com is a UK (en-GB) site with no locale prefix. Gold uses `non_na`; the validator warns "URL locale None suggests na" for all 15 families. A per-site default market (e.g. `market: non_na` in sites.json) would remove the false warning.
 3. **Grouped sheets that cover sibling families.** Many Crane sheets cover 2-3 figures that each have their own page (D102B/D103B/D104B, F611/F626, D931/D933/D934). SPEC 3 says variants are identifiers "on the page or in the family's spec sheet", which would make D102B a variant of D103B. Gold excludes identifiers that have their own family page (written into SPEC 3 in this branch).
 4. **Size lists for reducing fittings.** For reducing bushes (Fig. 140) the size is a pair ("1/2 x 1/8"). `size_range` min/max hold strings, so gold uses the first and last table entries; scorers comparing sizes as numbers will not parse them.
+||||||| e34e4bf

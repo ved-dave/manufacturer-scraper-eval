@@ -1,0 +1,97 @@
+CIM 1220CRNL NO LEAD BALL VALVE - "CR" - SCC - T16CRNL
+SERIES - STEEL LEVER HANDLE
+INSTRUCTIONS FOR INSTALLATION AND MAINTENANCE
+Warnings
+These instructions must be read and understood before installation and maintenance of the valve.
+WARNING! FAILURE TO FOLLOW THESE INSTRUCTIONS CORRECTLY COULD RESULT IN DANGER!
+NON-OBSERVANCE OF THESE WARNINGS WILL ALSO AFFECT THE PROPER FUNCTIONING OF THE
+PRODUCT.
+The manufacturer declines all responsibility for damages due to improper use of the product.
+Installation
+    •  The device must be installed, commissioned and maintained by qualified technical personnel in accordance
+with national regulations and/or local requirements.
+    •  If the device is not installed, commissioned and maintained correctly according to the instructions in this
+manual, then it may not function properly and put the user in danger.
+    •  Clean the piping from debris, rust, scale, lime scale, welding slag and other contaminants.
+    •  The hydraulic circuit must be clean. Ensure that all connecting fittings are hydraulically sealed.
+    •  When making the hydraulic connections, take care not to mechanically over-tighten the threads and/or
+fittings in general. Over time, breakages with hydraulic leaks may occur, causing damage to property and/or
+persons.
+    •  Water temperatures above 50°C can cause serious burns. During installation, commissioning and
+maintenance of the device, take the necessary precautions to ensure that these temperatures do not endanger
+people.
+    •  In case of very hard water or water rich in impurities, there must be provision for adequate filtration and
+treatment of the water before it enters the device, according to the technical standards. Otherwise it may be
+damaged and not work properly.
+    •  For optimal operation, there must be no air in the installation circuit.
+    •  It is forbidden to use the device differently from its intended use.
+    •  Any combination between the device and other components of the system must be made taking into account
+the operating characteristics of both. Any incorrect combination could affect the operation of the device and/or
+the system.
+    •  The product must be used within the limits of the pressure/temperature diagram.
+    •  If the product is used with fluids other than water, contact the manufacturer for compatibility.
+    •  Check that the design flow rate is within the operating range of the valve.
+    •  Observe the flow direction with the direction of the arrow printed on the valve body.
+    •  Distribute the sealing material only on the thread of the pipeline and not on the thread of the valve.
+    •  Use a fixed wrench and not a pipe turner for mounting, applying the torque only to the valve sleeve closest
+to the pipe. This promotes a firmer grip and prevents damage to the valve body. In order to prevent any
+deformation or damage to functional parts, do not place the valve in a clamp when assembling on a bench, but
+instead lock the pipe and screw the valve onto it.
+    •  The length of the pipe thread must not exceed the useable thread of the valve.
+    •  Before installation, check the correct functioning of the product.
+    •  It is not permitted to disassemble components of the product unless specifically indicated in these
+instructions.
+28017 SAN MAURIZIO D'OPAGLIO (Novara) - Italy - Via Torchio, 57
+tel.: +39 0322 923001 - fax: +39 0322 967216 / 967755 - http://www.cimberio.com - e-mail: info@cimberio.it
+QA1210 - rev. 11 17/06/2019
+
+CIM 1220CRNL NO LEAD BALL VALVE - "CR" - SCC - T16CRNL
+SERIES - STEEL LEVER HANDLE
+Warning: In order to guarantee lasting efficiency of the pressing tools and
+jaws, it is advisable that the installer periodically carries out maintenance
+and servicing of the same, as according to instructions of the pressing
+tools and jaws manufacturer. The surface area of the pressing jaws
+coming into contact with the press coupling must be kept clean, free from
+metallic remnants and well lubricated. Such cleaning using suitable
+utensils must be carried out periodically by the installer, as according to
+instructions of the pressing jaws manufacturer.
+Check the compatibility of the jaw profile with the valve.
+Pressing has to be carried out as follows:
+    •  Cut the pipe at a right angle. The pipe must neither be painted nor
+have a protection covering.
+    •  Remove all burrs inside and out from the pipe end using the
+appropriate tool. Any damaged ends must be discarded.
+    •  Check tha  the seal ring is correctly positioned. DO NOT oil or grease
+the seal rings. It is prohibited to remove or replace the o’ring seals. Check
+that the ends of the valve are free from damage.
+    •  Insert the pre-prepared pipe end into the valve and push the pipe in
+until fully engaged, marking the depth of pipe engagement.
+    •  Place the jaws of the pressing tool around the valve end connection,
+making sure that the engagement depth is correct.
+    •  Press the ends with the pressing tool.
+    •  If press cobbection procedure is not made perfectly, the screwed
+connections will show leakages.
+ 
+Never use ball valves to regulate flow, but only to intercept fluids to
+intercept fuids, so to avoid damages to gaskets.
+28017 SAN MAURIZIO D'OPAGLIO (Novara) - Italy - Via Torchio, 57
+tel.: +39 0322 923001 - fax: +39 0322 967216 / 967755 - http://www.cimberio.com - e-mail: info@cimberio.it
+QA1210 - rev. 11 17/06/2019
+
+CIM 1220CRNL NO LEAD BALL VALVE - "CR" - SCC - T16CRNL
+SERIES - STEEL LEVER HANDLE
+Fully operate the valve at least once every 3 months to prevent limestone
+deposits which would upset smooth running; tighten the gland screw.
+ATTENTION: Before having any valve serviced, make sure the system is
+not running or being pressurised.
+Water temperatures above 50 ° C can cause severe burns. During
+installation, commissioning and maintenance of the device, take the
+necessary precautions so that these temperatures do not cause danger to
+people.
+WARRANTY: All Cimberio products are guaranteed for five years when
+correctly used in accordance with technical data provided by Cimberio.
+Cimberio reserves the right to make changes and improvements to the
+products without prior notice.
+28017 SAN MAURIZIO D'OPAGLIO (Novara) - Italy - Via Torchio, 57
+tel.: +39 0322 923001 - fax: +39 0322 967216 / 967755 - http://www.cimberio.com - e-mail: info@cimberio.it
+QA1210 - rev. 11 17/06/2019

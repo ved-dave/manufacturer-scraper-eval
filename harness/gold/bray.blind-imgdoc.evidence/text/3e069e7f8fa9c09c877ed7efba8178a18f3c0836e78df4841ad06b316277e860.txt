@@ -1,0 +1,1277 @@
+--- page 1 ---
+ACTUATORS & CONTROLS
+PRODUCT OVERVIEW
+BRAY.COM	
+THE HIGH PERFORMANCE COMPANY
+Actuators
+Manual
+Electric
+Pneumatic
+Scotch Yoke
+Control Accessories
+Valve Status Monitors
+Positioners
+Solenoid Valves
+
+--- page 2 ---
+2 | BRAY.COM
+SERIES 01
+MANUAL OPERATOR
+Bray offers two handles for on-off and throttling service, one 
+for resilient seated and one for high performance (double 
+offset) valves. These quarter turn handles have a locking 
+spring and a directional pointer for valve disc position 
+indication. Various options are available.
+TECHNICAL SPECIFICATION
+Type
+Handle
+Valve Type
+Butterfly valves
+Valve Size
+Resilient Seated
+1"-12" [DN25 - DN300]
+10 position notch plate
+Valve Size 
+Double Offset
+2"-8" [DN50 -DN200]
+9 position notch plate
+Material
+Epoxy-coated ductile iron
+Stainless Steel
+Padlock Kit 
+Allows the customer to 
+lock the valve in the full 
+open or closed position, 
+tamper proofing the 
+valve. By drilling a new 
+hole in the top plate, 
+the handle can be 
+locked in mid travel.
+180° Notch Plate
+Allows the operator 
+to switch the handle 
+to either side without 
+removing the notch 
+plate from the valve. 
+For resilient seated 
+valves only.
+Infinite Position Plate
+Allows for very precise 
+adjustments of valve 
+disc positioning 
+anywhere from 0° to 
+90°.
+Memory Stop
+Allows the operator 
+to set the maximum 
+amount the valve can 
+open. When set, this 
+limit will remain fixed 
+until the stop is reset.
+2" Square Nut
+Used where the valve 
+is buried under the 
+surface. To rotate valve 
+disc position, the nut is 
+reached with a T-handle 
+wrench.
+APPROVALS & CERTIFICATES
+>
+ABS
+OPTIONS
+PRODUCT FEATURES
+>
+Excellent corrosion, abrasion and impact resistance
+>
+Infinite position notch plate for throttling applications
+>
+Ability to attach accessories for remote position 
+indication
+
+--- page 3 ---
+ACTUATORS & CONTROLS PRODUCT OVERVIEW | 3
+TECHNICAL SPECIFICATION
+Type
+Gear operator
+Valve Type
+Butterfly valves
+Valve Size
+2"-48" [DN50 – DN1200]
+Torque
+2,000 to 24,000 lb-in. 
+[226 to 11,298 Nm]
+Waterproof
+NEMA 4, IP 65
+SERIES 04
+MANUAL GEAR OPERATOR
+Series 04 gear operator is self-lubricated for smooth, 
+trouble-free operation and designed for heavy-duty on/off 
+and throttling service. A self-locking worm and worm gear 
+drive holds the valve in the desired position.
+The Series 04 features a readily accessible handwheel, a 
+valve-position indicator and mechanical travel stops which 
+permit field adjustment of valve movement to specific 
+degrees of rotation.
+OPTIONS
+Part
+Description
+Chain Wheel
+For remote access to valve positioning 
+when the handwheel is not accessible, 
+such as valves positioned high out of 
+reach.
+Padlock Kit
+Allows the customer to lock the valve in 
+the full open or closed position.
+2" Square Nut
+Used where the valve is buried under the 
+surface. To rotate valve disc position, the 
+nut is reached with a T-handle wrench. 
+(Option not shown.) 
+Stainless Steel
+For sanitary and corrosive applications. 
+Available for valve size 1" - 16"  
+[25mm - 400mm]
+PRODUCT FEATURES
+>
+Heavy duty on/off service
+>
+Self-locking to hold any position
+APPROVALS & CERTIFICATES
+>
+ABS
+Remote Access Chainweel
+316 Stainless Steel
+>
+Field-adjustable travel stops
+>
+Ability to attach accessories for systematic observation
+
+--- page 4 ---
+4 | BRAY.COM
+SERIES 05
+DECLUTCHABLE GEAR OPERATOR
+This operator is excellent for the safe handling of spring 
+return actuators. During pneumatic operation, the worm of 
+the gear unit is disengaged. Should the valve require opening 
+or closing in the event of power loss, manual rotation of the 
+declutch lever will provide a camming action and engage the 
+worm to the segmented worm gear, allowing rotation of the 
+valve using the handwheel.
+TECHNICAL SPECIFICATION
+Type
+Declutchable gear operator
+Valve Type
+Butterfly valves
+Valve Size
+2" - 36" [DN50 – DN900]
+Torque
+2,000 to 24,005 lb-in 
+[226 to 2,712 Nm]
+Waterproof
+NEMA 4, 4x and IP 65
+OPTIONS
+Part
+Description
+Chain Wheel
+For remote access to valve positioning 
+when the handwheel is not accessible, 
+such as valves positioned high out of 
+reach.
+Padlock Kit
+Allows the customer to lock the valve in 
+the full open or closed position.
+2" Square Nut
+Used where the valve is buried under the 
+surface. To rotate valve disc position, the 
+nut is reached with a T-handle wrench. 
+(Option not shown.)
+Stainless Steel
+For sanitary and corrosive applications. 
+Available for valve size 1" - 16"  
+[25mm - 400mm]
+PRODUCT FEATURES
+>
+Heavy duty on/off service
+>
+Self-locking to hold any position
+APPROVALS & CERTIFICATES
+>
+ABS
+Remote Access Chainweel
+316 Stainless Steel
+>
+Field-adjustable travel stops
+>
+Locking kits
+
+--- page 5 ---
+ACTUATORS & CONTROLS PRODUCT OVERVIEW | 5
+SRH SERIES - DEADMAN HANDLES
+FTG SERIES - MANUAL GEAR OPERATOR
+Spring Return (Deadman) Handles are manufactured from 
+heavy-duty stainless steel components to withstand frequent 
+daily use in refueling, sampling, drains, and other OSHA 
+applications that require positive closure of a manual valve. 
+Each SRH handle has a locking device as standard to lock 
+the valve in the preferred position.
+PRODUCT FEATURES
+>
+Easily retro-fitted
+>
+Locking device
+>
+Three sizes available
+>
+Ability to attach accessories for systematic observation
+TECHNICAL SPECIFICATION
+Type
+Spring return handle
+Valve Type
+Ball valves
+Valve Size
+1/4" - 2" [DN8 – DN50]
+Torque
+Up to 513 lb-in [58 Nm]
+Mounting
+EN ISO 5211
+Materials
+Housing - Ductile Iron
+Gear Segment - Aluminum Bronze
+FTG Series Manual Gear Operators were designed to handle 
+the toughest applications and provide years of trouble free 
+service and reliability. It features a one piece steel worm gear 
+input shaft with tapered roller bearings on both ends.
+TECHNICAL SPECIFICATION
+Type
+Gear operator
+Valve Type
+Ball valves
+Torque
+5,310 - 69,920 lb-in
+[600 – 7900 Nm]
+Waterproof
+NEMA 4, IP 66
+Mounting
+EN ISO 5211 [F0 – F16]
+Handwheel Ø 
+Available
+8" – 30" [200mm - 750mm]
+Drive
+Square drive (parallel & diagonal)
+Keyed drive (optional)
+Materials
+Housing - Ductile iron
+Gear Segment - Aluminum bronze
+PRODUCT FEATURES
+>
+Adjustable travel stops
+>
+Corrosion resistant, high visibility valve position indicator
+>
+Self-locking to hold any position
+>
+Ability to attach accessories for systematic observation
+OPTIONS
+Locking device
+2“ square input drive nut
+Grease fitting
+Chain wheels
+Horizontal flag indicator
+Flow pattern indicators for multiport valves
+SRH SERIES - DEADMAN HANDLES
+FTG SERIES - MANUAL GEAR OPERATOR
+
+--- page 6 ---
+6 | BRAY.COM
+SERIES 70
+ELECTRIC ACTUATOR
+The Series 70 features on/off or modulating control and 
+offers easy access to terminal block wiring, cam adjustments 
+and switch installation. Therefore, the time required for field 
+start-up and adjustment is greatly reduced, and maintenance 
+can be performed with assured ease and safety.
+PRODUCT FEATURES
+>
+High visibility position indicator
+>
+Manual declutchable handwheel
+>
+Easy access for field wiring and adjustment
+>
+Captive cover bolts
+>
+Self locking output drive assembly
+>
+Travel limit SPDT switches 
+>
+Mechanical travel stops
+>
+Digital interface available
+>
+Optional Seacorr® coating for harsh environments
+>
+Optional modulating control using Servo NXT 
+microprocessor
+TECHNICAL SPECIFICATION
+Torque
+301 - 17,967 lb-in [34 – 2030 Nm]
+Temperature  
+Range
+-20°F to +149°F [-29°C to +65°C]
+Voltage
+AC: 24, 120, 230
+DC: 24
+Rotation
+90°
+Mounting
+EN ISO 5211
+Waterproof
+NEMA 4, 4X and IP 65
+Explosion Proof
+(Optional)
+NEMA 7 & 9  
+Class I, Div. 1, Group C, D
+Class II, Div. 1, Group E, F, G
+APPROVALS & CERTIFICATES
+>
+MD (2006/42/EC)
+LVD (2014/35/EU)
+EMC (2014/30/EU)
+>
+cULus Approval
+>
+Bureau Veritas
+>
+ATEX, ABS, EAC
+OPTIONS
+Part
+Description
+Control Station
+Local-off-remote control switch, an open-stop-close switch, and two lights which locally 
+indicate open and close valve position.
+Battery Backup Unit (BBU)
+Provides power to permit 24V actuators to reach fail-open or fail-close position in the event 
+of a main power failure.
+Heater
+Self-regulating temperature control to prevent condensation build-up.
+Potentiometer
+Provides continuous position feedback for a customer control system.
+Auxiliary Switches
+Up to four (voltage free) SPDT mechanical switches can be added to indicate travel position 
+for remote customer control systems.
+Torque Switch
+Provide protection for the automated valve assembly in the event of an over-torque event.
+Electrical Cable Connections
+Pre-wired multi-pin weatherproof cable receptacles allow quick-connect field installation 
+and prevent internal cabling errors which could occur during commissioning. Cord sets can 
+be supplied with connection/flying leads or connection/connection on cord set ends to plug 
+directly into the actuator receptacle.
+Servo NXT
+Precise modulating control of the valve position in response to an analogue input signal 
+using an on-board micro controller. It allows automatic calibration, LED fault diagnostics, 
+and user selectable dead-band, speed control and fail position on loss of command signal.
+
+--- page 7 ---
+ACTUATORS & CONTROLS PRODUCT OVERVIEW | 7
+SERIES 76
+INDUSTRIAL ELECTRIC ACTUATOR
+The Bray series 76 is a quarter-turn industrial electric 
+actuator with manual override for use on any quarterturn 
+valve or damper requiring up to 79k in-lbs (9,000 Nm) of 
+torque. Operating speeds vary between 17 to 130 seconds 
+depending on torque, voltage, and frequency.
+PRODUCT FEATURES
+>
+Special High torque induction motor with built in 
+thermal protection to protect against overheating
+>
+Direct mounts to most quarter turn valves according  
+to EN ISO 5211, resulting in a lower profile
+>
+Continuous valve position indication even on loss power
+>
+Padlockable declutch system for manual operation
+>
+Integral control station options
+>
+Removable blank bushing for ease of machining
+>
+Self-locking worm gear design eliminating the need  
+for a motor brake
+>
+4 Limit Switches standard on most sizes
+- Additional auxiliary limit switches available
+>
+Torque switches standard in actuator size 2 and above
+>
+Anti condensation heater
+>
+Permanently lubricated
+>
+Up to 28 point terminal strip
+TECHNICAL SPECIFICATION
+Voltage
+3 Phase: 220V, 380V & 460V
+1 Phase: 110V, 220V & 240VAC
+24V DC, 24V AC/DC
+Torque rating
+3 Phase: Up to 79,000 in-lbs (9,000 Nm)
+1 Phase: Up to 26,500 in-lbs (3,000 Nm)
+DC: Torque up to 2,600 in-lbs (300 Nm)
+Travel
+90 degrees +/- 5°
+Mounting
+ISO 5211/MSS SP-101
+Enclosure Ratings
+NEMA: 4, 4X, 6 
+Ingress Protection: 66/67 
+Submersible: IP68 (Optional)
+Main Housing
+High grade aluminum alloy
+Anodized interior and exterior
+Polyester powder top coated
+Duty Cycle
+S2 (On-Off) Per EN 60034-1
+S4 (Modulating) Per EN 60034-1
+Motor
+Squirrel Caged AC Induction Motor: 
+> Class F Motor Insulation 311F(155C) 
+> Embedded thermal protection 275F (135C)
+DC Brushed Motor: 
+> Class B Motor Insulation 266F (130C)
+APPROVALS & CERTIFICATES
+>
+Weatherproof: FCC, ICES, CE, UKCA, CSA
+>
+Explosionproof: FCC, ICES, ATEX, IECEx, CSA
+OPTIONS
+Part
+Description
+Auxillary Limit Switches
+In addition to the limit switches used to control the ‘open’ and ‘closed’ travel limits, 
+actuators sized 2 through 7 have two auxiliary switches installed as part of the standard 
+configuration. These auxiliary switches are assembled so that they are activated 3 degrees 
+before their associated limit switch. Actuators are available with an additional set of 
+auxiliary switches.
+Auxillary Torque Switches
+Mechanical Torque switches are a standard factory-installed and calibrated feature for series 
+76 actuators, sizes 2 through 7. Torque switches are not able to be installed in the size 1. 
+Installation is simple, but due to the requirement for special calibration equipment, it is not 
+available for field installation. Actuators, size 2 through 7, are available with an additional set 
+of torque switches.
+Potentiometer
+A 1k Ohm potentiometer, standard in modulating applications, is available in on/off 
+applications for direct feedback of position. The potentiometer is factory-calibrated for 
+precise position feedback.
+Position Transmitter
+An analog position transmitter is an available option for on/ off applications in 1-phase and 
+3-phase models. The analog transmitter uses a potentiometer to provide continuous valve 
+feedback of a 4-20 mA output signal with accuracy down to +/- 0.5%.
+
+--- page 8 ---
+8 | BRAY.COM
+The Series 98 scotch-yoke actuator features a modular 
+design with a wide range of modules to suit the required 
+process application. The heart of the Series 98 is the yoke, 
+available in symmetrically or canted, that converts linear 
+motion into rotational motion.
+PRODUCT FEATURES
+>
+Compact, modular design for ease of maintenance
+>
+High torque to weight ratio
+>
+Easy field configuration
+>
+Premium epoxy/polyurethane coating
+>
+Special coating (for harsh environments) optional
+>
+Quad ring and U-cup seals for dynamic sealing
+>
+Tectyl® coated springs for corrosion protection
+>
+Honed and hard chrome-plated cylinder for wear and 
+corrosion prevention
+>
+Replaceable self lubricating metal backed PTFE bearings 
+for enhanced service life
+>
+NAMUR mounting for shaft driven accessories
+APPROVALS & CERTIFICATIONS
+>
+PED (2014/68/EU]
+>
+EAC
+>
+SIL 3
+>
+ATEX
+>
+ABS
+TECHNICAL SPECIFICATION
+Torque
+Double acting:
+Up to 885,074 lb-in  [100,000 Nm]
+Single acting:
+Up to 445,245 lb-in [50,306 Nm]
+Operating  
+Pressure
+40.6 - 150 psi [2.8 – 10.3 bar]
+Temperature  
+Range
+Standard:
+High:
+Low:
+-20°F to 200°F [-29°C to +93°C]
+up to 300°F [149°C]
+down to -51°F [-46°C]
+Yoke
+Symmetric or canted
+Travel Stop
+90° up to +/- 5° 
+Mounting
+Base: EN ISO 5211, 
+Accessories: VDI/ VDE 3845
+Enclosure
+IP 66/IP67M (IEC 60529)
+Media
+Dry compressed air/inert gas
+SERIES 98
+SCOTCH-YOKE ACTUATOR
+MODULAR DESIGN
+PRESSURE MODULE
+	
+>
+Hydraulic
+	
+>
+Pneumatic
+TORQUE MODULE
+	
+>
+Symmetrical or Canted Yoke
+HAND PUMP
+	
+>
+Hand Pump for Hydraulic 
+Override
+DIRECT ACTING OR SPRING 
+RETURN MODULES
+	
+>
+Jackscrew Direct Drive Override
+	
+>
+Jackscrew Gear Driven Override
+	
+>
+Hydraulic Override
+	
+>
+Extended Travel Stop
+	
+>
+Hydraulic Damper
+	
+>
+Partial Stroke Testing/Locking 
+Device
+
+--- page 9 ---
+ACTUATORS & CONTROLS PRODUCT OVERVIEW | 9
+SERIES 98
+SCOTCH-YOKE ACTUATOR
+SYMMETRICAL YOKE 
+	
+>
+Torque output curve is balanced. 
+	
+>
+Torque demands are similar at seat 
+break and end positions.
+CANTED YOKE
+	
+>
+Applications call for optimizing the 
+torque output vs shaft angle curve.
+	
+>
+Torque output curve is shifted. 
+	
+>
+Torque demands are not the same at 
+seat break and end positions. 
+SYMMETRICAL OR CANTED YOKES
+The heart of the Series 98 actuator is the scotch yoke. This 
+mechanism converts linear motion into rotational motion. The 
+piston and/or springs directly couple to a rotating yoke with a 
+slot that engages the sliding blocks. 
+This type of actuator has a distinct torque curve, which starts 
+high, then dips toward the middle of the stroke, and ends with 
+increasing torque — offering an inherent optimization of torque 
+requirements associated with many valve applications.
+Low
+MIddle
+High
+0
+45
+90
+ACTUATOR ROTATION (Degrees)
+TORQUE OUTPUT
+Symmetrical
+Canted
+S98 TORQUE CURVE COMPARISON
+OPTIONS
+EMERGENCY SHUTDOWN 
+CAPABILITY
+	
+>
+Fast Acting (less than one second) 
+	
+>
+Rugged Design 
+	
+>
+Customizable Configurations 
+	
+>
+Manual and Automatic Release 
+Options
+	
+>
+Certified Safety Integrity Level 3 
+(SIL) per IEC 61508
+PARTIAL STROKE DEVICE
+	
+>
+Allows ESD valve function 
+verification without disrupting the 
+running process.
+DAMPER 
+	
+>
+Provides self contained hydraulic 
+cushioning at the end of high speed 
+stroke, preventing slamming and seat 
+damage to the valve, as well as shock 
+to the piping. (Available for Double 
+Acting or Spring Return.) 
+
+--- page 10 ---
+10 | BRAY.COM
+SERIES 92/93
+PNEUMATIC ACTUATOR
+The Series 92/93 pneumatic actuators are rack and pinion 
+with reduced overall size requirements and economic 
+savings. In addition, all Bray accessories are fully modular 
+and directly mount to the actuator – providing flexibility and 
+efficiency at reduced cost.
+PRODUCT FEATURES
+>
+Completely enclosed and self-contained
+>
+Annodized aluminum bodies with polyester coated end 
+caps as standard
+>
+Two independently adjustable travel stops
+>
+Integral porting
+>
+Permanently lubricated bearings and guides
+>
+NAMUR accessory compatible
+>
+Various coating options available
+>
+High torque to weight ratio
+OPTIONS
+Declutchable gear operator (Series 05)
+Stainless steel
+Extended travel stops
+Optional Seacorr® coating coating for harsh environments
+Wide range of accessories to mount
+TECHNICAL SPECIFICATION
+Torque
+Double Acting:
+Up to 44,130 lb-in [4,986 Nm]
+Spring Return:
+Up to 14,169 lb-in [1601 Nm]
+Pressure 
+Range
+40 - 140 psi [ 2.8 - 10 bar]
+Temperature
+Range
+Standard:
+Low:
+High:
+Extreme:
+-4°F to 200°F [-20°C to +93°C]
+-40°F to 176°F [-40°C to +80°C]
+0°F to 300°F [-18°C to +176°C]
+Up to 482°F [250°C]
+Media
+Dry Compressed Air/Inert Gas
+Double Acting 
+Rotation
+90°, 135°, 180°
+Spring Return
+Rotation
+90°
+Travel Stop
+90° +/- 5°
+Mounting
+EN ISO 5211, 
+VDI/ VDE 3845 (NAMUR)
+APPROVALS & CERTIFICATES
+>
+PED (2014/68/EU)
+>
+Bureau Veritas
+>
+ATEX (2014/34/EC)
+>
+ABS
+>
+SIL 3
+>
+EAC
+
+--- page 11 ---
+ACTUATORS & CONTROLS PRODUCT OVERVIEW | 11
+SERIES 5A/B/C
+VALVE STATUS MONITORS
+The Bray Series 5A, 5B and 5C Valve Status Monitors (VSM) 
+provide visual and electrical indication of position on any  
+VDI/VDE 3845 compliant quarter-turn rotary actuators. Our 
+solutions enable end users to better monitor their process 
+no matter the conditions. The VSMs can be installed in both 
+perpendicular and parallel orientations without changing 
+brackets. Available as general purpose (Series 5A and 5B) or 
+hazardous locations (Series 5C, and 5A/B Intrinsically safe).
+TECHNICAL SPECIFICATION
+Connections
+Two conduit entries
+Metric and imperial
+Waterproof
+NEMA 4, 4x and IP 66/67
+Intrinsically 
+Safe 
+(Optional)
+Class I Division 1 Groups A, B, C, & D T6
+Class II Division 1 Groups E, F, G T85°C
+II 1G Ex ia IIC Ga T6
+II 2G Ex ia IIC Gb T6
+Explosion 
+Proof 
+(Optional)
+Class I Division 1 Groups A, B, C & D T6 
+Class II Division 1 Groups E, F, G T85°C
+II 2 G Ex db IIB + H2 T6 Gb 
+II 2 D Ex tb IIIC T85°C Db
+Mounting
+VDI/VDE 3845
+Temperature 
+Range
+-13°F to 149°F [-25°C to +65°C]
+APPROVALS & CERTIFICATES
+>
+CE
+>
+IP 66/67/68
+>
+UL50E Salt Spray
+>
+cULus
+>
+ATEX*
+>
+IECEx*
+*Only for hazardous locations options
+OPTIONS
+Switch
+Series 5A
+(max. qty.)
+Series 5B
+(max. qty.)
+Series 5C
+(max. qty.)
+SPDT Mechanical Switch
+2
+6
+6
+SPDT Mechanical Gold Plated Switch
+2
+6
+6
+PNP N.O. 3-wire Switch
+2
+6
+6
+PNP N.C. 3-wire Switch
+2
+6
+6
+NPN N.O. 3-wire Switch
+2
+6
+6
+NPN N.C. 3-wire Switch
+2
+6
+6
+140V 2-wire Switch
+2
+6
+6
+250V 2-wire Switch
+2
+6
+–
+SPDT Reed Switch
+2
+6
+–
+DPDT-DB Mechanical Switch
+–
+2
+2
+CommPro (with SPDT Switch)
+–
+4
+4
+NAMUR Intrinsically Safe Switch
+2
+6
+–
+PRODUCT FEATURES
+>
+High visibility position indicator with double seal to 
+prevent water ingress
+>
+Shatter and UV resistant dome
+>
+Stainless steel captive cover bolts
+>
+Easy access terminals
+>
+Splined cams for easy and accurate adjustment  
+without tools
+>
+Flexible mounting options with adjustable bracket for 
+NAMUR mounting pads
+>
+Available industrial communication protocols module 
+(CommPro) for AS-i, DeviceNet and Profibus DP
+>
+Explosion-proof housing or intrinsically safe proximity 
+switches available for hazardous locations
+Series 5A
+Series 5B
+Series 5C
+
+--- page 12 ---
+12 | BRAY.COM
+SERIES 54 
+ INDUCTIVE PROXIMITY SENSORS
+PRODUCT FEATURES
+>
+Two independent sensors for open and close valve 
+position indication
+>
+Optimised for indoor and outdoor use
+>
+Rugged design resistant to shock, vibration, UV and 
+corrosion
+>
+Hermetically sealed to protect against the ingress of 
+liquids or solids
+>
+Maintenance free design
+>
+Non-contact sensor eliminates the effect of mechanical 
+wear
+>
+Eliminates potential switch welding, arcing and sparking
+>
+Quick and easy installation
+>
+LED indication for sensor power, switch and solenoid 
+status
+>
+AS-i sensor available for digital network solution for 
+valve actuator interface
+>
+DC 2-wire sensor available for hazardous area process 
+environments
+This Series 54 provides position indication for quarter turn 
+valves. The superior design offers reliable and durable valve 
+monitoring and control solutions for efficient plant operation. 
+The compact Series 54 directly mounts to VDI/VDE 3845 
+compliant actuators resulting in a smaller actuator profile 
+while saving on cost.
+Various electrical output options allow integration of the 
+Series 54 into all standard process control environments.
+APPROVALS & CERTIFICATES
+>
+cULus
+>
+CE
+>
+ATEX
+>
+IECEX
+>
+FM
+SPECIFICATION
+General Service
+Industrial Service
+Hazardous Location
+Design
+Extreme low profile
+Compact 
+Intrinsically Safe
+Non-Sparking
+Housing material
+Thermoplastic PBT
+Thermoplastic PBT
+Thermoplastic PBT
+Powder coated aluminum 
+and polycarbonate (PC)
+Mounting
+30x80mm
+30x130mm
+30x80mm
+30x130mm
+30x80mm
+30x130mm
+30x80mm
+30x130mm
+Connectivity
+Connector
+Cable gland
+Connector
+Cable gland
+Connector
+Cable gland
+Cable gland
+Temperature range
+-25 to 70°C
+-13 to 158°F
+-25 to 70°C
+-13 to 158°F
+-25 to 100°C
+-13 to 212°F
+-40 to 75°C
+-40 to 167°F
+Ingress protection
+IP66/67
+IP66/67
+IP66/67
+IP66/67/69K
+Electrical Output
+2-wire DC
+3-wire DC PNP
+3-wire DC PNP
+3-wire DC PNP with output
+AS-i with output
+AC/DC
+NAMUR IS
+NAMUR IS with output
+2-wire DC
+Solenoid outputs
+None
+One
+One
+One
+Activator
+Non adjustable
+Standard adjustable
+High visibility adjustable
+Standard adjustable
+High visibility adjustable
+High visibility adjustable
+Certifications
+
+--- page 13 ---
+ACTUATORS & CONTROLS PRODUCT OVERVIEW | 13
+SERIES 55 - FILTER REGULATOR
+SERIES 63 - SOLENOID VALVE
+The Series 55 Filter 
+Regulator is a 5 micron 
+filter designed to provide 
+nominal filtration removal 
+of solids and liquids 
+from the compressed air 
+with accurate control to 
+any pneumatic control 
+device and are strongly 
+recommended for use with 
+the Bray Series 6A and 6P 
+positioners.
+PRODUCT FEATURES
+>
+Locking nob allows for downstream pressure adjustment 
+and locks the pressure setting in place 
+>
+Bowl quick release allows for easy removal of the bowl 
+and guard for access to the filter element
+>
+Bowl provides easy view of liquid levels
+>
+Pushbutton drain allows easy removal of liquid from the bowl
+>
+Metal bowl guard provides steady breakage protection from 
+external environmental forces
+TECHNICAL SPECIFICATION
+Pressure Ports
+1⁄4" NPT or G 1⁄4"
+Gauge Ports
+G 1⁄8
+Temperature Range
+32°F - 176°F [0°C – 80°C]
+Pressure Rating*
+0 - 250 psi [0 – 17.2 bar]
+Set Pressure
+7.3 - 125 psi [0.5 – 8.6 bar]
+Flow (SCFM)**
+30
+Housing
+Metallic zinc
+Polycarbonate plastic
+Filter Element
+5 micron standard
+* Do not attach to pressurized bottles.
+** SCFM = Standard cubic feet per minute at 100 psig inlet, 90 
+psig no flow secondary setting and 10 psig pressure drop.
+These units can be used with either spring return or double 
+acting actuators where on/off electrical operation is 
+required. Units have 1⁄4" NPT conduit connections and IP65 
+DIN units have cable gland PG9 connectors, also available 
+with 1⁄2" NPT conduit adapters.
+PRODUCT FEATURES
+>
+Compact, modular design
+>
+Spool control valve
+>
+Convertable from 3-way [3⁄2] or 4-way [5⁄2] 
+>
+Pilot operated
+>
+Single or dual coil
+>
+Double or single acting
+TECHNICAL SPECIFICATION
+Operation
+ 4-way [5⁄2] to 3-way [3⁄2]
+Pneumatic 
+Connection
+1⁄4" NPT 
+G1/4 available for DIN Models
+Electrical 
+Connection
+NEMA Housings: 1⁄2" NPT
+DIN Housing: Cable Gland PG9
+Temperature 
+Range
+AC:	-13°F to +140°F  [-25°C to +60°C]
+DC:	-13°F to +77°F  [-25°C to +25°C]
+Duty Cycle
+Continuous
+Media
+Filtered air or inert gas
+Mounting
+NAMUR VDI/VDE 3845
+Waterproof
+NEMA 4, 4X or IP 65
+Explosion Proof 
+(Optional)
+NEMA 7, 9
+Operating Speed
+10 cycles per minute - with more if 
+needed
+APPROVALS & CERTIFICATES
+>
+CE
+>
+ATEX
+>
+Bureau Veritas
+>
+CSA
+>
+UL recognised
+SERIES 63 - SOLENOID VALVE
+SERIES 55 - FILTER REGULATOR
+
+--- page 14 ---
+14 | BRAY.COM
+SERIES 6A
+ELECTRO-PNEUMATIC POSITIONER
+Precision digital control with proven reliability the Series 6A 
+positioners were designed with ease of installation, simple 
+calibration, efficiency and economy in mind. Units for rotary 
+single acting and double acting actuators are offered as 
+standard. Various housing options and intrinsically safe 
+versions are also available.
+PRODUCT FEATURES
+>
+Zero bleed design
+>
+On-line adaptive control
+>
+Corrective and preventative maintenance self-diagnostic 
+checks
+>
+LCD monitor
+>
+Auto calibration
+>
+Friction clutch locking device
+>
+Non-contacting position sensor technology
+>
+Integral volume booster
+TECHNICAL SPECIFICATION
+Supply Pressure
+20 - 102 psi [1.4 – 7 bar]
+Air Consumption
+0.02 scfm [0.03 Nm3/h] 
+Input Signal
+4-20 mADC
+HART, Foundation Fieldbus, 
+Profibus PA, DeviceNet
+Connections
+Air: 1 1⁄4" NPT [G 1⁄4"]
+Signal: 1⁄2" NPT [M20x1.5]
+Temperature Range
+-22°F to 176°F [-30°C to 80°C]
+Waterproof
+NEMA 4, 4x and IP 66
+Explosion Proof 
+(Optional)
+NEMA 7 & 9
+Mounting
+VDI/VDE 3845
+APPROVALS & CERTIFICATES
+>
+ATEX
+>
+TÜV
+>
+FM
+>
+IECEX
+ACCESSORIES & OPTIONS
+Part
+Description
+Gauge Manifold
+An externally mounted gauge manifold is offered with up to three gauges to measure 
+air supply and the actuator input and output pressures.
+Volume Boosters
+These modules increase air volume output and improves response time.
+Retransmission Module (IY)
+This 4-20 mA DC output board indicates valve position to the control room.
+Programmable Electronic Switches 
+(Alarm)
+Two semiconductor switch outputs and one alarm output may be programmed to 
+activate at various travel positions. One digital input is also included.
+Limit Switches
+Mechanical switches or intrinsically safe inductive proximity switches (SIA).
+Electronic
+Switch
+Mechanical
+Limit
+Switch
+Retrans
+Module
+
+--- page 15 ---
+ACTUATORS & CONTROLS PRODUCT OVERVIEW | 15
+SERIES 6P P/P
+PNEUMATIC POSITIONER
+The Series 6P positioner provides outstanding control for 
+a wide range of quarter-turn valves. This design provides 
+fast, sensitive response characteristics to meet the most 
+demanding control objectives using a 0.2 – 1.0 bar on split 
+range pneumatic control signal. A high visibility dome 
+position indicator and 3 gauges are provided as standard. 
+The Series 6P is available with many options including 
+position feedback limit switches.
+PRODUCT FEATURES
+>
+Two-stage pilot relay
+>
+High visibility dome position indicator
+>
+Field upgradable
+>
+Vibration resistant
+>
+Split range
+>
+Minimal time for zero and span adjustment
+>
+Corrosion resistant materials
+>
+Gauge manifold
+>
+Adjustable NAMUR mounting bracket
+>
+Double or single acting
+TECHNICAL SPECIFICATION
+Supply Pressure
+20 - 102 psi [1.4 – 7 bar]
+Action
+Double and single acting, Direct 
+and reverse
+Input Signal
+3 – 15 psi [0.2 – 1.0 bar]
+Connections
+1⁄4" NPT
+Temperature Range
+-4°F to 158°F [-20°C to 70°C]
+Waterproof
+NEMA 4, 4x and IP 66
+Mounting
+VDI/VDE 3845 (NAMUR)
+Certification
+CE
+ACCESSORIES & OPTIONS
+Part
+Description
+Special Cams
+Special cams for non-standard ranges may be modified by the factory.
+Air Filter (Series 55)
+A coalescing air filter is recommended for all positioners to eliminate dust, moisture, and oil 
+particles from contaminating the unit.
+Mechanical Switches
+2x SPDT mechanical switches.
+Proximity Sensor
+For non-contacting limit switch applications, 2 x DC-NPN are available to provide open and 
+close valve indication.
+Position Transmitter
+A 4-20mA position transmitter provides continuous valve position indication from  
+0 – 90 degrees of travel.
+
+--- page 16 ---
+THE HIGH PERFORMANCE COMPANY
+HEADQUARTERS 
+Bray International, Inc.
+13333 Westland East Blvd.
+Houston, Texas 77041
+Tel: +1.281.894.5454
+All statements, technical information, and recommendations in this bulletin are for general  
+use only. Consult Bray representatives or factory for the specific requirements and material se-
+lection for your intended application. The right to change or modify product design or product 
+without prior notice is reserved. Patents issued and applied for worldwide.  
+Bray® is a registered trademark of Bray International, Inc.
+© 2024 BRAY INTERNATIONAL, INC.   ALL RIGHTS RESERVED.   BRAY.COM
+SINCE 1986, BRAY HAS PROVIDED FLOW CONTROL SOLUTIONS  
+FOR A VARIETY OF INDUSTRIES AROUND THE WORLD. 
+VISIT BRAY.COM TO LEARN MORE ABOUT  
+BRAY PRODUCTS AND LOCATIONS NEAR YOU.
+BRAY.COM
+EN_B-1100_Actuators Controls_2024-08-19
