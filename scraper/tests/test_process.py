@@ -217,9 +217,16 @@ class TestGrouping(unittest.TestCase):
         a = self.rec('https://x.example/p/S30', 'Series 30', ['Valves'], tables=table)
         self.assertFalse(G.page_info(a)['single'])
 
+    def test_grouped_pages_keep_their_variants(self):   # sioux-chief: spec PDF found_on a grouped page lost its variant
+        from mfr_scraper.pipeline import accessory_families
+        pr = [{'availability': 'request_quote'}]
+        table = {'canonical_url': 't', 'variants': [{'sku': s, 'page_url': 't', 'prices': pr} for s in ('861-2PX', '861-2PXR', '861-3P')]}
+        grouped = {'canonical_url': 'g', 'variants': [{'sku': '861-2PX', 'page_url': 'g', 'prices': pr},
+                                                      {'sku': '861-2PXR', 'page_url': 'g-r', 'prices': pr}]}
+        self.assertEqual(accessory_families([table, grouped], keep_grouped_pages=True), [])
+        self.assertEqual([v['page_url'] for v in grouped['variants']], ['g', 'g-r'])
+        self.assertEqual(accessory_families([table, grouped]), [grouped])
 
-if __name__ == '__main__':
-    unittest.main()
 
 
 class TestDownloadDeadline(unittest.TestCase):
@@ -248,3 +255,7 @@ class TestDownloadDeadline(unittest.TestCase):
         self.assertFalse(r.ok)
         self.assertIn('download exceeded', r.error)
         self.assertEqual(f.session.request.call_count, 1)
+
+
+if __name__ == '__main__':
+    unittest.main()

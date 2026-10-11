@@ -730,7 +730,7 @@ class ProcessRun(SiteRun):
                 self.log(f'  families {i}/{len(groups)}')
         self._cur = None
         n_orphans = self.assign_orphans(families, kept_refs, recs)
-        for fam in accessory_families(families):
+        for fam in accessory_families(families, keep_grouped_pages=True):
             self.flag('accessory_models_not_variants', fam['canonical_url'])
         self.evidence.write_manifest()
 
