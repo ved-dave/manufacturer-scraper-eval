@@ -286,6 +286,41 @@ Per-value totals: agree 53→50, refines 9→8, conflict 9→8, page_only 20→2
 - **Single size, material lists, CTS/IPS, overrides:** already applied in the 2026-10-10 relabel; re-checked, no change (6 `643WG2.temperature_range` overrides remain).
 - Variants, images and documents were not re-opened in this pass.
 
+## Consistency pass (SPEC changes of 2026-10-11)
+
+Every labelled family (15) was re-checked against the 2026-10-11 paragraphs (incl. cb6232e, 878f517, aecaeb9). All live pages and PDFs were re-fetched at <= 1 req/s; every PDF has the same sha256 as the saved evidence. Changes (family | field | before -> after | paragraph):
+
+- sioux-chief-640wp02 | standards.alt_values[page] | ASTM F1960, ASTM F877, CSA B137.5 -> ASTM - F1960, ASTM - F877, CSA - B137.5 | SPEC 6 Standards spelling
+- sioux-chief-643wg2 | standards.value (645WGC page entries) | ASTM F1960, ASTM F1970, ASTM D2846, CSA B137.6, ASTM F438 -> ASTM F1960, ASTM F1970, ASTM - D2846, CSA - B137.6, ASTM F438 | SPEC 6 Standards spelling
+- sioux-chief-643wg2 | standards.alt_values[page] | ASTM F1960, CSA B137.5 -> ASTM - F1960, CSA - B137.5 | SPEC 6 Standards spelling
+- sioux-chief-525-02 | standards.value | IAPMO PS 42 -> IAPMO PS - 42 | SPEC 6 Standards spelling
+- sioux-chief-630-c2412 | standards.value | ASTM D2846, CSA B137.6 -> ASTM - D2846, CSA - B137.6 | SPEC 6 Standards spelling
+- sioux-chief-230-2906101 | standards.value | ASTM F409 -> ASTM - F409 | SPEC 6 Standards spelling
+- sioux-chief-687-3ch | standards.alt_values[page] | IAPMO PS 54, ASTM E814, CAN/ULC S115 -> IAPMO PS - 54, ASTM - E814, CAN/ULC - S115 | SPEC 6 Standards spelling
+- sioux-chief-861-q2286 | standards.alt_values[page] | ASME A112.6.7, CSA B79.7 -> ASME - A112.6.7, CSA - B79.7 | SPEC 6 Standards spelling
+- sioux-chief-861-q2286 | additional_specs.options | (absent) -> page "Options: Add suffix to item no." codes 2, 3, B, C, T (with footnotes) | SPEC 3 Option codes are not variants
+- sioux-chief-864-wgp | additional_specs.options | (absent) -> page "Options: Add suffix to item no." codes V, T, S, U, 2, 3, X | SPEC 3 Option codes are not variants
+- sioux-chief-525-02 | documents[SIMPLESTRAP - STUB OUT CLAMP - BROCHURE.PDF].doc_type | brochure -> catalog (Buying Information table with 8 item numbers incl. brackets of other series (ordering data, several products)) | SPEC 5 Classify by content rule 2
+- sioux-chief-687-3ch | documents[SERVICE BOX - WATER SERVICE SYSTEM - BROCHURE.PDF].doc_type | brochure -> catalog (16-page range brochure for several ServiceBox products with item numbers (ordering data, several products)) | SPEC 5 Classify by content rule 2
+- sioux-chief-886-er | documents[CLOSET FLANGES - BROCHURE.PDF].doc_type | brochure -> catalog (Buying Information tables, 71 item numbers across flange series) | SPEC 5 Classify by content rule 2
+- sioux-chief-821-200anq | documents[SHOWER DRAINS - BROCHURE.PDF].doc_type | brochure -> catalog (Buying Information tables, 222 item numbers across shower drain series) | SPEC 5 Classify by content rule 2
+- sioux-chief-865-12ecd | documents[TRENCH DRAIN OVERVIEW - CATCH BASINS.PDF].doc_type | brochure -> catalog (dimension block per catch basin series (TOP/MAXI 100-400)) | SPEC 5 Classify by content rule 2
+- sioux-chief-865-12ecd | documents[TRENCH DRAIN OVERVIEW - MAXI SYSTEM.PDF].doc_type | brochure -> catalog (range overview with load class/system layout block per series (Maxi 100, 150, 200, 300/400)) | SPEC 5 Classify by content rule 2
+- sioux-chief-865-12ecd | documents[HYDROTEC - MAXI SYSTEM - BROCHURE.PDF].doc_type | brochure -> catalog (Buying Information tables, 171 item numbers) | SPEC 5 Classify by content rule 2
+- sioux-chief-865-12ecd | documents[TRENCH DRAINS BROCHURE.PDF].doc_type | brochure -> catalog (Materials/Load Class/Nominal Width block per trench drain system) | SPEC 5 Classify by content rule 2
+- sioux-chief-865-12ecd | documents[HYDROTEC - MAXI INSTALLATION BRACKET.PDF].doc_type | brochure -> catalog (Buying Information table listing 865-4BK/6BK/8BK with part numbers, no technical-data block) | SPEC 5 Classify by content rule 2
+- sioux-chief-120-tm3f | documents[THERMOSTATIC MIXING VALVE - BROCHURE.PDF].doc_type | brochure -> catalog (Buying Information table for 120-TM3F and 696 accessories) | SPEC 5 Classify by content rule 2
+
+Checked, no change:
+- SPEC 3 option codes: the only option lines in the evidence are the `861-Q2286` and `864-WGP` "Add suffix" lists (logged above). No variant SKU has its own page under another family-index entry, and no SKU is shared between labelled families, so the accessory rule (cb6232e) moves nothing to `family_prices`.
+- SPEC 4 image edge cases: every gold image URL is referenced by its page, and `ProductImages/<sku>.JPG` is the largest linked rendition (the other is `ProductImages_Small/*_sm.JPG`). No image had been excluded for markings or as an option collage. `RoughInPhotos/` and `FinishPhotos/` remain excluded as installation scenes (e.g. `FinishPhotos/C821-200PNQAP1.JPG` shows the drain set in a tiled floor).
+- SPEC 5: no spec sheet is longer than 2 pages. IOM/other_doc types stay the same. There are no software or configuration files. Only `spec_sheet` documents are cited as spec sources, so display precedence is unchanged.
+- SPEC 6 BSPT/parallel threads, "formerly" standards, thread/flange standards, PN and class designations (incl. several PNs and class+PN rows): no such wording in any page or PDF evidence; `pressure_rating` values (150, 600, 125 psi) unchanged.
+- SPEC 6 standards spelling: page lists are written `ASTM - F1960`, so page-sourced entries keep that spelling. Edition suffixes (`ASME A112.18.2-2005`) are not spelling, so they were left as labelled. cross_check results are unchanged.
+- SPEC 7 `family_prices`: all 15 families keep variants with `login_required` prices; no family_prices added.
+
+Judgement call: `HYDROTEC - MAXI INSTALLATION BRACKET.PDF` (1 page) has feature text plus an ordering table for three bracket part numbers and no technical-data block. Rule 2 (selection guides that list products with part numbers) applies before rule 3, so it is `catalog`. Rules 2-4 already decide this case, so there is no `spec:` commit.
+
 ## SPEC changes made
 
 - 2026-10-11, SPEC 6 "Mapping strictness" (own `spec:` commit): map only wording that names a term or its listed wording; no context-derived terms; the named end connection counts, not the joining method described for it in prose; alternatives listed for one end each count; a field with no mappable wording is omitted and its source drops out of `cross_check`.
