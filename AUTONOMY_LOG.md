@@ -87,3 +87,22 @@ first-pass session compares (before/after agreement) and fixes; < 80% before-fix
 - Blind sample (Random(42), 6): 778pvw, 30xlc, 1220nl, 778pvws, 747nl, 746. Blind session:
   https://outpostai.devinenterprise.com/sessions/58603f6a53e14b3f9e2fb0aa794dcf75 (branch `blind/cimberio`, never
   opens the cimberio key). Orchestrator did not open any cimberio gold file (held-out).
+
+## 2026-10-11 02:52 · Phase 1 · Bray image/doc_type re-check + SPEC 6/7 consistency merged
+- Labeller a490187b… pushed `gold/bray-imgdoc-consistency` (c3c6c20 `spec:`, 89e9113 `gold(bray):`); merged.
+- Blind vs key, 6 families (script `harness/gold/bray.blind-imgdoc.compare.py`):
+  | Row | Before fix | After fix |
+  |---|---|---|
+  | Documents | 44/44 (100%) | 44/44 (100%) |
+  | doc_type | 32/44 (73%) | 44/44 (100%) |
+  | Images | 13/17 (76%) | 15/17 (88%) |
+  | image_type | 13/13 (100%) | 15/15 (100%) |
+- doc_type and images were below 85% before fixes → SPEC clarified: SPEC 5 "Classify by content" (ordered rules:
+  iom_manual incl. safety/SIL and protocol manuals; catalog incl. ordering-code guides and technical manuals > 4 pages;
+  spec_sheet ≤ 4 pages with a technical-data block whatever it is called; brochure; other_doc; software/config files
+  not recorded) and SPEC 4 "Image edge cases" (product markings/letter markers do not make an infographic; option
+  collages count; labellers use only image URLs the page links). Applied to all 15 Bray families (11 more document
+  entries changed outside the 6). Series 5000/6000 brochure → spec_sheet, so its sheet values now take precedence.
+- SPEC 7: 12 variant-less Bray families now carry `family_prices` (request_quote). SPEC 6 strictness applied.
+- Gold validator: 0 errors, 0 warnings; harness tests OK.
+- Consequence for Phase 2: Bray round-1 baseline is scored on this updated key.
