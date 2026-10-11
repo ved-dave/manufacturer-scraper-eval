@@ -404,3 +404,21 @@ class TestTemperatureRangeUnitOnce(unittest.TestCase):
         self.assertEqual(T('-20°F to 400°F'), ({'min': -20.0, 'max': 400.0}, 'F'))
         self.assertEqual(T('5°C to 95°C'), ({'min': 5.0, 'max': 95.0}, 'C'))
         self.assertEqual(T('Maximum temperature 120°C'), ({'min': None, 'max': 120.0}, 'C'))
+
+
+class TestSizeColumnTables(unittest.TestCase):
+    """Round 7: sizes_available from the SIZE column of dimension tables (merged PDF rows included)."""
+    def test_size_column(self):
+        from mfr_scraper.specs import sizes_from_tables
+        rows = [(1, ['PART', 'MATERIAL']), (1, ['SIZE (mm)', 'WEI (k', 'A (mm)']), (1, ['50', '2', '109']),
+                (1, ['65 80', '3 3', '131.5 134']), (1, ['100', '4', '163']), (1, ['TECHNICAL HELPLINE', 'x'])]
+        sizes, unit, pg, quote = sizes_from_tables(rows)
+        self.assertEqual(sizes, ['50', '65', '80', '100'])
+        self.assertEqual((unit, pg, quote), ('mm', 1, '50 | 2 | 109'))
+
+    def test_inch_and_rejects(self):
+        from mfr_scraper.specs import sizes_from_tables
+        self.assertEqual(sizes_from_tables([(1, ['SIZE (inch)', 'A']), (1, ['1/2', '3']), (1, ['1-1/4', '4'])])[:2],
+                         (['1/2', '1-1/4'], 'in'))
+        self.assertIsNone(sizes_from_tables([(1, ['Size', 'A']), (1, ['Small', '3'])]))
+        self.assertIsNone(sizes_from_tables([(1, ['Size range', 'DN15 to DN50'])]))

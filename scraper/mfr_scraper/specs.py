@@ -108,6 +108,39 @@ def parse_sizes_available(raw):
     return list(dict.fromkeys(toks)) if len(toks) >= 3 else None
 
 
+SIZE_COL_HEAD = re.compile(r'^(?:nominal\s+|valve\s+|pipe\s+)?(?:size|dn|nps)\b\s*(?:\((mm|inch|inches|in|dn|nps|")\))?\s*$', re.I)
+SIZE_CELL_TOKEN = re.compile(r'^\d+(?:[-.]\d+/\d+|/\d+)?"?$')
+
+
+def sizes_from_tables(rows):
+    """Dimension tables whose first column is headed SIZE / SIZE (mm) / DN / NPS: the sizes in row order.
+
+    rows: [(page, cells)]. Returns (sizes, unit, page, quote) for the first such table with >= 2 sizes, else None.
+    A first cell holding several sizes ("65 80", merged PDF rows) contributes each of them."""
+    i = 0
+    while i < len(rows):
+        pg, cells = rows[i]
+        m = SIZE_COL_HEAD.match(cells[0].strip()) if cells else None
+        i += 1
+        if not m:
+            continue
+        head = cells[0].lower()
+        unit = ('mm' if 'mm' in head else 'in' if re.search(r'inch|\(in\)|"', head) else
+                'DN' if re.search(r'\bdn\b', head) else 'NPS' if 'nps' in head else None)
+        sizes, quote = [], None
+        while i < len(rows) and rows[i][0] == pg:
+            toks = rows[i][1][0].split()
+            if not toks or not all(SIZE_CELL_TOKEN.match(t) for t in toks):
+                break
+            quote = quote or ' | '.join(rows[i][1])
+            sizes += [t.rstrip('"') for t in toks]
+            i += 1
+        sizes = list(dict.fromkeys(sizes))
+        if len(sizes) >= 2 and all(N.parse_size(x) is not None for x in sizes):
+            return sizes, unit, pg, quote
+    return None
+
+
 def parse_pressure(raw):
     t = raw.replace(',', '')
     cond = re.search(r'\b(WOG|CWP|WSP|SWP|WWP)\b', t)
