@@ -20,3 +20,7 @@ Most issues from the first pass were adopted on `main` (robots override, `refine
 4. **Sheet-only model lists vs the variant rule (resolved).** The SRH sheet lists "SRH1 SRH2 SRH3" with no page identifiers. Ved ruled that SPEC section 3 ("page or spec sheet") wins, so SRH has 3 variants. Open point for SPEC: say explicitly that accessory part numbers (e.g. bracket kits), part-numbering templates and single example part numbers are not variants.
 5. **`.gitignore` still does not ignore `harness/gold/*.evidence/files/`** (see sioux-chief #1). Excluded via `.git/info/exclude` on this branch.
 6. **No allowed_hosts change.** No cited image comes from `newbrayprod.azurewebsites.net`, so `config/sites.json` is unchanged.
+
+## crane (blind re-label)
+- config/sites.json: added `bimstore.co.uk` and `bimstore.co` to `global_cad_viewer_hosts` (Crane BIM/Revit links go to BIMstore; recorded as gated cad_viewer, never logged into).
+- validate.py market_flag check uses only the URL locale, so an en-GB-only site with no locale prefix WARNs "suggests na" even though SPEC 1 says en-GB -> non_na.

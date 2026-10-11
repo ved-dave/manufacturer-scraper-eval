@@ -1,0 +1,618 @@
+=== page 1 ===
+INSTALLATION, OPERATING AND MAINTENANCE INSTRUCTIONS
+BUTTERFLY VALVES 
+F634 / F635 – PN16 
+INTRODUCTION
+Crane rubber lined butterfly valves are 
+designed and manufactured to provide 
+isolation and flow regulation of suitable fluids.
+Storage
+•	 If valves are to be stored prior to 
+installation, ensure that action is taken to 
+protect the valves.
+•	 Store valves with the discs at 5° from fully 
+closed position.
+•	 Protect against frost, or excessive heat, 
+contamination and corrosion.
+•	 Cover valves to prevent ingress of dust and 
+debris.
+•	 Protect faces of valves as these are sealing 
+faces, and any damage may result in leaks.
+Preparation 
+•	 Prior to installation, a check of the 
+identification plate and body marking must 
+be made to ensure that the correct valve is 
+being installed. e.g. pressure, temperature, 
+service media. 
+•	 Remove dust caps/flange protectors just 
+before the valve is fitted, to prevent the 
+ingress of dust and dirt, etc.
+•	 Valves are precision manufactured items 
+and as such, should not be subjected to 
+misuse such as careless handling, allowing 
+dirt to enter the valve through the end 
+ports. The complete piping system must 
+GENERAL INSTALLATION
+be flushed through prior to commissioning 
+to ensure all foreign matter is removed. 
+Subsequent valve failure is frequently 
+caused by a lack of cleaning both valve 
+and system before operation and excessive 
+force during assembly.
+•	 If valve is not cleaned or if cleaning is done 
+after valve installation cavities may form 
+a natural trap in the piping system. Any 
+impurity not dissolved or washed out by 
+the flushing fluid/line fluid may settle in 
+such cavities and adversely affect valve 
+performance.
+•	 Check that the internal pipe diameter has 
+sufficient clearance for valve disc to be fully 
+operated.
+•	 Check that there are no restrictions to full 
+operation of valve disc in pipework, i.e. 
+internal welding of flanges.
+
+=== page 2 ===
+CRANE FLUID SYSTEMS – BUTTERFLY VALVES PN16
+2
+INSTALLATION, OPERATING AND MAINTENANCE INSTRUCTIONS
+GENERAL INSTALLATION (C O N T I N U E D )
+•	 Check that pipe flanges are parallel, and 
+on same centreline before installation of 
+valves. This will enable bolts to be fitted 
+through flanges and valves without damage 
+to threads on bolts or tapped holes in valve 
+bodies. Suitable lubricant on bolt threads 
+should be used. In assembly, bolts are 
+tightened sequentially to make the initial 
+contact of flanges and gaskets flat and 
+parallel followed by gradual and uniform 
+tightening in an opposite bolting sequence 
+to avoid bending one flange relative to the 
+other, particularly on flanges with raised 
+faces.
+•	 Ensure that all welding and heat treatment 
+of pipe flanges is completed prior to 
+installation of valves to prevent damage to 
+liners from excessive heat.
+Pipe Flanges
+•	 Before installation, check that the pipe 
+flanges are to the correct size and standard 
+to match the valve flanges.
+•	 Ensure that all pipe flanges are cleaned 
+prior to installation of the valves and that 
+there are no damaged areas that may 
+create a leak path.
+•	 It is prohibited to add an additional gasket 
+between the pipe flange and the valve 
+body.
+•	 The Mating flange (both valve and 
+pipework) must be checked for correct 
+sealing face, surface finish, and condition. If 
+either is found in a state which might cause 
+leakage no attempt to assemble should be 
+made until this has been resolved.
+•	 The bolting must be checked for correct 
+size, length, material and that all connection 
+flange bolt holes are utilized.
+•	 Flanged joints depend upon compressive 
+deformation of the integral rubber sealing 
+faces between the flange surfaces until 
+metal to metal contact is achieved.
+•	 In order to maintain an effective sealing 
+face it is imperative that all of the rubber 
+lining face and the full flange face are 
+covered completely to ensure correct 
+compression is attained, failure to comply 
+can result in valve failure. 
+•	 In order to maintain an effective sealing 
+face with the pipe flange, integral (e.g. Type 
+21), weld-neck (e.g. Type 11), or loose 
+plate flanges with weld ring neck (e.g. Type 
+02+35) flange types should be used.
+•	 When welded slip-on flanges (e.g. Type 01, 
+Type 02 all variants, Type 12), are used with 
+BS EN10255 Medium Grade, BS EN 10220, 
+Schedule 40 steel pipe, pressed collar (e.g. 
+Type 36, 37 with Trubore or similar), checks 
+should be made to ensure that the inside 
+diameter of the flange and the effective 
+sealing width of the body liner to will be 
+covered. If not, a flange plate is required as 
+shown to ensure correct liner coverage.
+•	 When loose plate flanges, with weld neck 
+or slip on collars, are used with copper 
+pipe care should be taken to ensure that 
+the raised face covers the outer metal 
+compression stop on the butterfly valve 
+otherwise the rubber liner can be over 
+compressed and the valve becomes 
+inoperable.
+•	 If unsure please contact the Crane Fluid 
+Systems Technical Department for 
+assistance.
+Integral Flange
+Full Sealing 
+Width
+Slip On Welding Flange
+(Flange Plate Not Required)
+Loose Plate 
+Flange
+Slip On Welding Flange
+(Flange Plate Required)
+Pressed Collar Flange 
+With Slip On Collar
+Weld Neck Flange
+Reduced Sealing 
+Width Unless 
+Used With 
+Flange Plate
+Ensure Raise Face 
+On Flange Covers Full 
+Sealing Width And 
+Metal Compression 
+Stop On Valve
+Ensure Pressed 
+Collar Covers Full 
+Sealing Width 
+And Metal Face 
+On Valve
+
+=== page 3 ===
+3
+CRANE FLUID SYSTEMS – BUTTERFLY VALVES PN16
+INSTALLATION, OPERATING AND MAINTENANCE INSTRUCTIONS
+GENERAL INSTALLATION (C O N T I N U E D )
+Flange Bolt Torques & 
+Installation Instructions
+•	 The below information provides the 
+recommended torques to be applied to the 
+bolts for an effective seal to be created. 
+Specifically, this looks at PN16 flange joints 
+on Butterfly valves with a rubber face, 
+where an 8.8 grade bolt is used on ductile 
+iron flanges.
+•	 It should be noted that the relationship 
+between the applied torque and the 
+effective force on the threads is not precise 
+and therefore the information below should 
+be taken as advisory and further research 
+should be carried out where necessary.
+•	 See table for the recommended torques to 
+create a seal at the given pressure rating, 
+with a 1.5x safety factor:
+•	 The correctly applied torque is not the 
+only variable that will affect the flange 
+seal, the installation method will also have 
+a significant effect on seal properties. 
+Therefore it is recommended that the 
+below installation guide should be followed 
+closely:
+•	 Check that all bolts, flanges, washers and 
+threads are free from dirt and defects 
+•	 Lubricate the bolts and necessary surfaces 
+•	 Butterfly valves should not be installed in 
+fully open or fully closed position. Discs 
+should be 5° from fully closed position.
+PN16 
+Thread
+Torque (Nm)
+DN65 
+M16
+70
+DN80 
+M16
+75
+DN100 
+M16
+80
+DN125 
+M16
+100
+DN150 
+M20
+135
+DN200 
+M20
+130
+DN250 
+M24
+180
+DN300 
+M24
+210
+DN350 
+M24
+200
+DN400 
+M27
+270
+DN450 
+M27
+260
+DN500 
+M30
+345
+DN600 
+M33
+505
+Note: It is advised that 24 hours after 
+tightening, due to relaxation effects, a 
+rotational sequence of re-torquing to the 
+final torque is undertaken, this will reduce 
+relaxation effects.
+
+=== page 4 ===
+CRANE FLUID SYSTEMS – BUTTERFLY VALVES PN16
+4
+INSTALLATION, OPERATING AND MAINTENANCE INSTRUCTIONS
+GENERAL INSTALLATION (C O N T I N U E D )
+8-bolt flange: 
+•	 Lubricate, hand tighten then snug up bolts 
+•	 Tighten to 25% of final torque 
+•	 Tighten to 50% of final torque 
+•	 Tighten to 100% of final torque 	
+Valve Location
+•	 It should be considered at the design stage where valves will be located to give access for 
+operation, cleaning and maintenance.
+•	 It is also important to ensure that flow through the valves is not subject to turbulent flow; 
+locations like immediately after elbows, bends, pumps etc. should be avoided and our 
+recommendations are shown below:
+Recommended Installation Position: The butterfly valves may 
+be mounted either vertically or horizontally. Crane does not 
+recommend installation with topworks pointing downwards.
+12-bolt flange: 	
+•	 Lubricate, hand tighten then snug up bolts 
+•	 Tighten to 20% of final torque 	
+  
+•	 Tighten to 40% of final torque 
+•	 Tighten to 80% of final torque 
+•	 Tighten to 100% of final torque 
+•	 Install the bolts in the sequence detailed below, depending on the number of bolt holes:
+
+=== page 5 ===
+5
+CRANE FLUID SYSTEMS – BUTTERFLY VALVES PN16
+INSTALLATION, OPERATING AND MAINTENANCE INSTRUCTIONS
+GENERAL INSTALLATION (C O N T I N U E D )
+End of Line (Dead End) Service
+•	 In certain circumstances it may be 
+necessary to use these valves on an End of 
+Line (Dead End) service.
+•	 These valves are permitted for use on End 
+of Line Service (Dead End) without the use 
+of a backing flange.
+•	 Where valves are used for End of Line 
+service the valve should be protected 
+against unauthorised or unintentional 
+operation to prevent personal injury or 
+damage to equipment.
+Piping Supports
+•	 Pipe supports must be carefully aligned and 
+at the correct distance between centres 
+for the size and types of pipe, and must be 
+adequate for the combined weights of pipe 
+and valves.
+•	 The improper alignment of the pipe and 
+the valve during installation can lead to 
+unbalanced tightening of the flanges which 
+may cause excessive stress on the bolts 
+and lead to leakage.
+Handling
+•	 Care should be taken when handling these 
+valves. Weights of valves can be provided 
+on request. It is the responsibility of the 
+installer to ensure that all lifting equipment 
+is rated for the required lifting weight, and 
+is properly maintained and safe to use. 
+When unloading, lifting and positioning of 
+these valves, care must be taken to avoid 
+damage to the faces of the valves as these 
+are used as sealing faces on the pipe 
+flanges.
+•	 The operating conditions shall be 
+consistent with the requirements in the 
+performance specification.
+•	 Operators should use suitable personal 
+protective equipment when operating the 
+valve.
+•	 Butterfly Valves are quarter turn for full 
+operation 
+•	 Ensure there are no obstructions upstream 
+or downstream of the valve to prevent 
+correct operation.
+•	 On gearbox actuated valves, the end stops 
+and torque limiters will have been adjusted 
+and set prior to dispatch from factory.
+Gearbox
+•	 An enclosed worm gear reduction operator 
+(gearbox) is mounted on the valve body 
+connected with the valve shaft. The full 
+open and full closed position travel stops 
+are set at the factory and require no 
+further adjustment. Note: if the gearbox 
+is fitted with a padlock and locking ring, 
+the padlock will require removal prior to 
+operation.
+•	 Valve closure is by clockwise rotation of the 
+handwheel until the travel stop restriction is 
+felt. No excessive force is required to effect 
+tight shut off and under no circumstances 
+should a wrench or wheel key be used.
+•	 Counter clockwise rotation of the 
+handwheel will open the valve until the 
+full open travel stop or to the intermediate 
+regulated travel stop (memory stop) which 
+is fitted on the double regulating version.
+•	 A non-adjustable pointer indicates the 
+actual valve disk position against a fixed 
+scale.
+OPERATION 
+
+=== page 6 ===
+CRANE FLUID SYSTEMS – BUTTERFLY VALVES PN16
+6
+INSTALLATION, OPERATING AND MAINTENANCE INSTRUCTIONS
+•	 For enhanced life of the valve and better 
+operability, it is recommended to carry out 
+periodic inspections and maintenance of 
+the valves. The frequency of observation 
+depends on its application. Crane 
+recommends that valve shall be inspected 
+every 50 cycles or three months (whichever 
+earlier) for smooth operation and leak free 
+performance. This is recommended even 
+for stored valves also. It is advisable to 
+maintain a record of the performance of the 
+valve.
+•	 Where the valve identification is removed 
+for maintenance it must be refitted after 
+the work is completed. The absence of the 
+identification plate invalidates the valve’s 
+CE status.
+•	 The valve should be at zero pressure 
+and ambient temperature prior to any 
+inspection.
+•	 Maintenance Engineers & Operators should 
+have the appropriate level of competence 
+and are reminded to use correct fitting tools 
+and equipment.
+•	 The risk assessment must take into account 
+the possibility of the limits of use being 
+exceeded whereby a potential hazard could 
+result. 
+•	 A maintenance programme should therefore 
+include checks on the development of 
+unforeseen conditions which could lead to 
+failure.
+•	 Other than regular inspection for operability, 
+Crane Butterfly Valves are maintenance 
+free. For any technical queries, please 
+contact Crane Technical Department.
+•	 Crane Fluid Systems do not offer spares for 
+this product. 
+•	 If product is disassembled, warranty is void.
+INSPECTION AND MAINTENANCE
+•	 The surfaces of valves in service may be 
+subject to extreme temperatures; care 
+should be taken when handling.
+•	 These valves have been categorised in 
+accordance with the Pressure Equipment 
+Directive 2014/68/EU.
+•	 The fluid to be transported is limited to 
+those shown in the product table below. 
+On no account can these valves be used on 
+any unstable fluids, or for the fluids groups 
+not specified in the product table.
+•	 Note - Valves that are classified as SEP 
+(Sound Engineering Practice) are not CE 
+marked and therefore do not require a 
+declaration of conformity.
+•	 Products conforming to Cat I of the PED 
+2014/68/EU shall include the CE Mark. 
+•	 Products conforming to Cat II and above of 
+the PED 2014/68/EU shall include the CE 
+Mark and applicable Notified Body Number.
+•	 Valves must be installed into a well-
+designed system and it is recommended 
+that the system be inspected in accordance 
+with the appropriate national and regional 
+legislation.
+•	 Valves must be installed by a competent 
+personnel only.
+•	 Maximum operating pressure reduces as 
+service temperature increases. Service 
+temperature and pressure indicated on the 
+identification plate or body marking should 
+not be exceeded – please refer to example 
+below.
+•	 The installation should be designed to 
+provide adequate means of draining and 
+venting to avoid harmful effects such as 
+water hammer, vacuum collapse, corrosion 
+and uncontrolled chemical reactions 
+and to permit cleaning, inspection and 
+maintenance in the correct manner.
+GENERAL CONSIDERATIONS
+LIMITS OF USE
+
+=== page 7 ===
+7
+CRANE FLUID SYSTEMS – BUTTERFLY VALVES PN16
+INSTALLATION, OPERATING AND MAINTENANCE INSTRUCTIONS
+Fig
+No
+Liner
+Material
+Disc
+Material
+Operator
+Maximum 
+Operating 
+Pressure 
+Conditions
+PED category by 
+valve size (DN)
+Product applications
+SEP
+1
+2
+3
+Group 
+1 Gas
+Group
+2 Gas
+Group 
+1 Liquid
+Group
+2 Liquid
+F634
+EPDM -10 
+to 120°C
+Stainless 
+Steel 316
+Lever, 
+Fully Lugged
+16 Bar 
+/ 120°C
+50
+65-
+200
+-
+-
+-
+
+-
+
+F635 / 
+F635B
+EPDM -10
+to 120°C
+Stainless
+Steel 316
+Gearbox, 
+Fully Lugged
+16 Bar 
+/ 120°C
+50
+65-
+200
+250-
+300
+350-
+600
+-
+
+-
+
+LIMITS OF USE ( CO N T I N U E D )
+•	 Valves are not designed to operate under 
+high shock loadings. Where pressure 
+increases occur due to shock loading 
+(water hammer), they should be added to 
+the working pressure to obtain the total 
+pressure acting on the valve. The total 
+must not exceed the pressure rating of 
+the valve. A pressure surge, or shock, is 
+usually caused by the rapid closure of a 
+check valve or quarter turn valve resulting 
+in a sudden reduction in flow rate and may 
+severely limit design velocities. The value is 
+dependent on the velocity of the liquid, not 
+system pressure, and may increase by up 
+to 4 bar for every 0.3m/sec increase in fluid 
+velocity.
+•	 It is the responsibility of the installer to 
+ensure that the valves do not exceed the 
+allowable limits of pressure. However, 
+the equipment is designed to withstand a 
+momentary pressure surge of up to 10% 
+above the maximum working pressure.
+•	 The product has not been designed to 
+include corrosion, erosion or abrasion 
+allowances. Any queries regarding service 
+applications should be addressed to the 
+Crane Fluid Systems - Technical Sales 
+Department.
+•	 The valves have been designed for 
+loadings, appropriate to its intended use 
+and other reasonably foreseeable operating 
+conditions. Loadings caused by traffic, 
+wind and earthquake have not been taken 
+into account.
+•	 Not suitable for fatigue loading, creep 
+conditions, fire testing, fire hazard 
+environment, corrosive or erosive service, 
+transporting fluids with abrasive solids.
+•	 The piping system shall be designed to 
+reduce the risk of fatigue due to vibration 
+of pipes.
+•	 Crane valves have not been designed as 
+fire safe valves.
+Example of 
+Identification 
+plate showing 
+service pressure 
+and temperature 
+limitations.
+
+=== page 8 ===
+STRESS CORROSION CRACKING
+The use of chemicals for system dosing must 
+be determined by the user as all aspects 
+of the system must be established and 
+considered, and the effect of the chemicals 
+used (including compounds arising from 
+chemical combinations) must also be 
+established in order to accurately determine 
+compatibility. Crane (and its related brands) 
+manufacture hardware (valves, couplings, 
+etc) for the Building Services industry and 
+Utilities industries. However, we are not 
+system designers or operators and cannot 
+make recommendations regarding chemical 
+compatibility for the system, as a result of the 
+above variables. Any comments from Crane 
+regarding chemical compatibility shall relate 
+solely to the Crane product and does not 
+constitute a recommendation on compatibility 
+for the wider system, resultant chemical 
+compounds, components, substances or 
+materials, in whole or in part. 
+MIDDLE EAST & NORTH AFRICA 
+SALES OFFICE, 
+BUILDING 4, OFFICE 901, 
+THE GALLERIES, PO BOX 17415,
+DOWNTOWN JEBEL ALI
+DUBAI, UAE
+TELEPHONE: +971 4816 5800
+EXPORT SALES ENQUIRIES: mena-enquiries@cranefs.com
+CFS_PN16BV_0925
+IOM_0A 04023F_REV A
+• Designed and manufactured under quality management systems in accordance with BS EN ISO 9001.
+Every effort has been made to ensure that the information contained in this publication is accurate at the time of publishing. 
+Crane Ltd assumes no responsibility or liability for typographical errors or omissions or for any misinterpretation of the 
+information within the publication and reserves the right to change without notice.
+CRANE HOUSE, EPSILON TERRACE, 
+WEST ROAD, IPSWICH, 
+SUFFOLK IP3 9FJ
+TELEPHONE: +44 (0)1473 277300
+FAX: +44 (0)1473 277301
+UK SALES ENQUIRIES: enquiries@cranefs.com 
+TECHNICAL ENQUIRIES: tech-enquiries@crane-ltd.co.uk
+TELEPHONE: +44 (0)1473 277400 
+www.cranefs.com
+To visit our Video Library go to: 
+www.youtube.com/user/CraneBSU
+FM 00311
+EMS 553775
+For reference, and not exhaustive, certain 
+austenitic stainless steels and aluminium 
+alloys crack in the presence of chlorides, 
+mild steel cracks in the presence of alkali and 
+nitrates, copper alloys crack in ammoniacal 
+solutions and iron with almost any caustic 
+species (hydrogen presence notwithstanding).
+For more information on how SCC can occur, 
+please visit www.cranefs.com

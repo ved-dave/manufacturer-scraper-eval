@@ -6,7 +6,9 @@
     "traceparts.com",
     "caddetails.com",
     "bimobject.com",
-    "arcat.com"
+    "arcat.com",
+    "bimstore.co.uk",
+    "bimstore.co"
   ],
   "sites": {
     "bray":        {"split": "train",     "input_url": "https://www.bray.com/",           "allowed_hosts": ["www.bray.com", "braycdn.azureedge.net"]},
