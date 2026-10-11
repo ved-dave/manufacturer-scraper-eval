@@ -289,3 +289,19 @@ All three product pages are in the old agent's list; our page-role rules dropped
   downloads).
 Not fixed: all 4 improvement rounds were used. Both are general rule fixes (match non-product words only as whole
 path segments; let spec tables + spec downloads outweigh listing cues), worth about +3 Bray family recall.
+
+## 10. Recommendations
+
+1. **Change the old agent to emit L1, in this order.** (a) `html_snapshot` plus `status`/`final_url`/`content_type`:
+   the only way to get anything from sites that block us (Dixon, Apollo), and it removes all page fetching (68% of
+   Bray's cold run). (b) `found_on`/`section`/`in_chrome`/`link_text`: exact link context even when a page can't be
+   re-fetched. (c) image `width`/`height`/`srcset` plus a content hash (without the hash, duplicate renditions slip
+   through: Bray image precision −3). (d) `etag`/`last_modified`/`content_length` for cheap re-runs. Page facts
+   (`breadcrumb`, `jsonld_product`, `has_spec_table`) are useful but we already rebuild them from the snapshot.
+2. **Fix discovery gaps in the agent separately.** Cimberio's price list and half its main documents were never
+   listed; no L1 field fixes that.
+3. **Fix the processing rules that lose listed items** (no new data needed): non-product URL words as whole path
+   segments; spec tables outweighing listing cues (+3 Bray families); combo-photo naming (Bray images); multi-product
+   documents without false spec conflicts (round 3, Crane secondary docs 55 vs 71).
+4. **Phase 3 resolver: start with `page_vs_pdf_conflict`** (largest queue, about +2–3 macro points), then
+   `family_grouping` on part-number sites (Sioux Chief: TBD). The decisions log already has the fields the resolver needs.
