@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "site": "milwaukee",
   "input_url": "https://www.milwaukeevalve.com/",
-  "run_at": "2026-10-11T21:54:00Z",
+  "run_at": "2026-10-11T22:04:58Z",
   "agent": {
     "name": "gold",
     "version": "1"
@@ -8010,6 +8010,69 @@
               "retrieved_at": "2026-10-11T21:32:43Z"
             }
           ]
+        },
+        "sizes_available": {
+          "value": [
+            "1/4",
+            "3/8",
+            "1/2",
+            "3/4",
+            "1",
+            "1-1/4",
+            "1-1/2",
+            "2",
+            "2-1/2",
+            "3"
+          ],
+          "display_source": "pdf",
+          "cross_check": "agree",
+          "sources": [
+            {
+              "url": "https://www.milwaukeevalve.com/product/507/",
+              "type": "page",
+              "page": null,
+              "section": "Product Size",
+              "quote": "1/4\", 3/8\", 1/2\", 3/4\", 1\", 1-1/4\", 1-1/2\", 2\", 2-1/2\", 3\"",
+              "snapshot_sha256": "fc7c745cceff001ad72eb7c633fd2f98b37d1afa4e1b6402eb22d11b0e29b098",
+              "retrieved_at": "2026-10-11T18:12:45Z",
+              "variant_sku": null
+            },
+            {
+              "url": "https://www.milwaukeevalve.com/wp-content/uploads/spec-sheets/507.pdf",
+              "type": "pdf",
+              "page": 1,
+              "section": null,
+              "quote": "1/4”-3”",
+              "snapshot_sha256": "6e9e09505ba58e9d18d957394692cdf6c690e603eafc0e2a8f2d1b319107f0a8",
+              "retrieved_at": "2026-10-11T21:32:43Z"
+            }
+          ]
+        },
+        "size_unit": {
+          "value": "in",
+          "display_source": "pdf",
+          "cross_check": "agree",
+          "sources": [
+            {
+              "url": "https://www.milwaukeevalve.com/wp-content/uploads/spec-sheets/507.pdf",
+              "type": "pdf",
+              "page": 1,
+              "section": null,
+              "quote": "1/4”-3”",
+              "snapshot_sha256": "6e9e09505ba58e9d18d957394692cdf6c690e603eafc0e2a8f2d1b319107f0a8",
+              "retrieved_at": "2026-10-11T21:32:43Z"
+            },
+            {
+              "url": "https://www.milwaukeevalve.com/product/507/",
+              "type": "page",
+              "page": null,
+              "section": "Product Size",
+              "quote": "1/4\", 3/8\", 1/2\", 3/4\", 1\", 1-1/4\", 1-1/2\", 2\", 2-1/2\", 3\"",
+              "snapshot_sha256": "fc7c745cceff001ad72eb7c633fd2f98b37d1afa4e1b6402eb22d11b0e29b098",
+              "retrieved_at": "2026-10-11T18:12:45Z",
+              "variant_sku": null
+            }
+          ]
         }
       },
       "additional_specs": {},
@@ -8522,6 +8585,67 @@
               "retrieved_at": "2026-10-11T21:32:53Z"
             }
           ]
+        },
+        "sizes_available": {
+          "value": [
+            "1/4",
+            "3/8",
+            "1/2",
+            "3/4",
+            "1",
+            "1-1/4",
+            "1-1/2",
+            "2"
+          ],
+          "display_source": "pdf",
+          "cross_check": "agree",
+          "sources": [
+            {
+              "url": "https://www.milwaukeevalve.com/product/510t/",
+              "type": "page",
+              "page": null,
+              "section": "Product Size",
+              "quote": "1/4\", 3/8\", 1/2\", 3/4\", 1\", 1-1/4\", 1-1/2\", 2\"",
+              "snapshot_sha256": "b5230b657fda83563b0e338335b2899849f33caf829e3081a4cd080fb21ef865",
+              "retrieved_at": "2026-10-11T18:14:46Z",
+              "variant_sku": null
+            },
+            {
+              "url": "https://www.milwaukeevalve.com/wp-content/uploads/spec-sheets/510T.pdf",
+              "type": "pdf",
+              "page": 1,
+              "section": null,
+              "quote": "1/4”-2”",
+              "snapshot_sha256": "cbf3519072c6d58d7e184d705f3f2ee5ce9dd2d89ee056d440e0d9b2173ef739",
+              "retrieved_at": "2026-10-11T21:32:53Z"
+            }
+          ]
+        },
+        "size_unit": {
+          "value": "in",
+          "display_source": "pdf",
+          "cross_check": "agree",
+          "sources": [
+            {
+              "url": "https://www.milwaukeevalve.com/wp-content/uploads/spec-sheets/510T.pdf",
+              "type": "pdf",
+              "page": 1,
+              "section": null,
+              "quote": "1/4”-2”",
+              "snapshot_sha256": "cbf3519072c6d58d7e184d705f3f2ee5ce9dd2d89ee056d440e0d9b2173ef739",
+              "retrieved_at": "2026-10-11T21:32:53Z"
+            },
+            {
+              "url": "https://www.milwaukeevalve.com/product/510t/",
+              "type": "page",
+              "page": null,
+              "section": "Product Size",
+              "quote": "1/4\", 3/8\", 1/2\", 3/4\", 1\", 1-1/4\", 1-1/2\", 2\"",
+              "snapshot_sha256": "b5230b657fda83563b0e338335b2899849f33caf829e3081a4cd080fb21ef865",
+              "retrieved_at": "2026-10-11T18:14:46Z",
+              "variant_sku": null
+            }
+          ]
         }
       },
       "additional_specs": {},
@@ -8990,6 +9114,70 @@
               "quote": "Conforms to: MSS SP-80*",
               "snapshot_sha256": "aceab306931f4ee2a80b0eb6f0d616aede9efe0f9d948eecda8b56afc698c55f",
               "retrieved_at": "2026-10-11T21:31:43Z"
+            }
+          ]
+        },
+        "sizes_available": {
+          "value": [
+            "1/4",
+            "3/8",
+            "1/2",
+            "3/4",
+            "1",
+            "1-1/4",
+            "1-1/2",
+            "2",
+            "2-1/2",
+            "3",
+            "4"
+          ],
+          "display_source": "pdf",
+          "cross_check": "agree",
+          "sources": [
+            {
+              "url": "https://www.milwaukeevalve.com/product/1150/",
+              "type": "page",
+              "page": null,
+              "section": "Product Size",
+              "quote": "1/4\", 3/8\", 1/2\", 3/4\", 1\", 1-1/4\", 1-1/2\", 2\", 2-1/2\", 3\", 4\"",
+              "snapshot_sha256": "91d335f6912c669fdea0177aa2603c086e29600454a2548dd9154e46c5352ede",
+              "retrieved_at": "2026-10-11T17:47:59Z",
+              "variant_sku": null
+            },
+            {
+              "url": "https://www.milwaukeevalve.com/wp-content/uploads/spec-sheets/1150.pdf",
+              "type": "pdf",
+              "page": 1,
+              "section": null,
+              "quote": "1/4”-4”",
+              "snapshot_sha256": "aceab306931f4ee2a80b0eb6f0d616aede9efe0f9d948eecda8b56afc698c55f",
+              "retrieved_at": "2026-10-11T21:31:43Z"
+            }
+          ]
+        },
+        "size_unit": {
+          "value": "in",
+          "display_source": "pdf",
+          "cross_check": "agree",
+          "sources": [
+            {
+              "url": "https://www.milwaukeevalve.com/wp-content/uploads/spec-sheets/1150.pdf",
+              "type": "pdf",
+              "page": 1,
+              "section": null,
+              "quote": "1/4”-4”",
+              "snapshot_sha256": "aceab306931f4ee2a80b0eb6f0d616aede9efe0f9d948eecda8b56afc698c55f",
+              "retrieved_at": "2026-10-11T21:31:43Z"
+            },
+            {
+              "url": "https://www.milwaukeevalve.com/product/1150/",
+              "type": "page",
+              "page": null,
+              "section": "Product Size",
+              "quote": "1/4\", 3/8\", 1/2\", 3/4\", 1\", 1-1/4\", 1-1/2\", 2\", 2-1/2\", 3\", 4\"",
+              "snapshot_sha256": "91d335f6912c669fdea0177aa2603c086e29600454a2548dd9154e46c5352ede",
+              "retrieved_at": "2026-10-11T17:47:59Z",
+              "variant_sku": null
             }
           ]
         }
@@ -9583,6 +9771,66 @@
               "retrieved_at": "2026-10-11T21:34:53Z"
             }
           ]
+        },
+        "sizes_available": {
+          "value": [
+            "3/8",
+            "1/2",
+            "3/4",
+            "1",
+            "1-1/4",
+            "1-1/2",
+            "2"
+          ],
+          "display_source": "pdf",
+          "cross_check": "agree",
+          "sources": [
+            {
+              "url": "https://www.milwaukeevalve.com/product/up149/",
+              "type": "page",
+              "page": null,
+              "section": "Product Size",
+              "quote": "3/8\", 1/2\", 3/4\", 1\", 1-1/4\", 1-1/2\", 2\"",
+              "snapshot_sha256": "2942caa4273449b6acdd03f7b27a964bff728fb8c0219fabda83582db52fae5d",
+              "retrieved_at": "2026-10-11T20:22:37Z",
+              "variant_sku": null
+            },
+            {
+              "url": "https://www.milwaukeevalve.com/wp-content/uploads/spec-sheets/UP149.pdf",
+              "type": "pdf",
+              "page": 1,
+              "section": null,
+              "quote": "⅜”-2”",
+              "snapshot_sha256": "99b4998339193a7815f09aad39bc2760734af24f9fcc9987a5b8d77a4b613832",
+              "retrieved_at": "2026-10-11T21:34:53Z"
+            }
+          ]
+        },
+        "size_unit": {
+          "value": "in",
+          "display_source": "pdf",
+          "cross_check": "agree",
+          "sources": [
+            {
+              "url": "https://www.milwaukeevalve.com/wp-content/uploads/spec-sheets/UP149.pdf",
+              "type": "pdf",
+              "page": 1,
+              "section": null,
+              "quote": "⅜”-2”",
+              "snapshot_sha256": "99b4998339193a7815f09aad39bc2760734af24f9fcc9987a5b8d77a4b613832",
+              "retrieved_at": "2026-10-11T21:34:53Z"
+            },
+            {
+              "url": "https://www.milwaukeevalve.com/product/up149/",
+              "type": "page",
+              "page": null,
+              "section": "Product Size",
+              "quote": "3/8\", 1/2\", 3/4\", 1\", 1-1/4\", 1-1/2\", 2\"",
+              "snapshot_sha256": "2942caa4273449b6acdd03f7b27a964bff728fb8c0219fabda83582db52fae5d",
+              "retrieved_at": "2026-10-11T20:22:37Z",
+              "variant_sku": null
+            }
+          ]
         }
       },
       "additional_specs": {},
@@ -10075,6 +10323,63 @@
               ]
             }
           ]
+        },
+        "sizes_available": {
+          "value": [
+            "2-1/2",
+            "3",
+            "4",
+            "6"
+          ],
+          "display_source": "pdf",
+          "cross_check": "agree",
+          "sources": [
+            {
+              "url": "https://www.milwaukeevalve.com/product/f-2983-m/",
+              "type": "page",
+              "page": null,
+              "section": "Product Size",
+              "quote": "2-1/2\", 3\", 4\", 6\"",
+              "snapshot_sha256": "875ceef48107c40fc6748dfd58d3d041b029fb039ec0bb81b4df5180db319fc0",
+              "retrieved_at": "2026-10-11T20:14:27Z",
+              "variant_sku": null
+            },
+            {
+              "url": "https://www.milwaukeevalve.com/wp-content/uploads/spec-sheets/F2983M.pdf",
+              "type": "pdf",
+              "page": 1,
+              "section": null,
+              "quote": "2 1/2”-6”",
+              "snapshot_sha256": "86f607a6c7b423203d0ca02c377abc90179c18099d9b8850fa52526d725d3e91",
+              "retrieved_at": "2026-10-11T21:34:23Z"
+            }
+          ]
+        },
+        "size_unit": {
+          "value": "in",
+          "display_source": "pdf",
+          "cross_check": "agree",
+          "sources": [
+            {
+              "url": "https://www.milwaukeevalve.com/wp-content/uploads/spec-sheets/F2983M.pdf",
+              "type": "pdf",
+              "page": 1,
+              "section": null,
+              "quote": "2 1/2”-6”",
+              "snapshot_sha256": "86f607a6c7b423203d0ca02c377abc90179c18099d9b8850fa52526d725d3e91",
+              "retrieved_at": "2026-10-11T21:34:23Z"
+            },
+            {
+              "url": "https://www.milwaukeevalve.com/product/f-2983-m/",
+              "type": "page",
+              "page": null,
+              "section": "Product Size",
+              "quote": "2-1/2\", 3\", 4\", 6\"",
+              "snapshot_sha256": "875ceef48107c40fc6748dfd58d3d041b029fb039ec0bb81b4df5180db319fc0",
+              "retrieved_at": "2026-10-11T20:14:27Z",
+              "variant_sku": null
+            }
+          ]
         }
       },
       "additional_specs": {},
@@ -10369,6 +10674,48 @@
               "variant_sku": null
             }
           ]
+        },
+        "sizes_available": {
+          "value": [
+            "1-1/2",
+            "2",
+            "2-1/2",
+            "3",
+            "4",
+            "5",
+            "6"
+          ],
+          "display_source": "page",
+          "cross_check": "page_only",
+          "sources": [
+            {
+              "url": "https://www.milwaukeevalve.com/product/1041/",
+              "type": "page",
+              "page": null,
+              "section": "Product Size",
+              "quote": "1-1/2\", 2\", 2-1/2\", 3\", 4\", 5\", 6\"",
+              "snapshot_sha256": "6e30fb400a1517cfa184a4187efdf9fc2a7661701e5e5fca415d96b14c051095",
+              "retrieved_at": "2026-10-11T17:42:58Z",
+              "variant_sku": null
+            }
+          ]
+        },
+        "size_unit": {
+          "value": "in",
+          "display_source": "page",
+          "cross_check": "page_only",
+          "sources": [
+            {
+              "url": "https://www.milwaukeevalve.com/product/1041/",
+              "type": "page",
+              "page": null,
+              "section": "Product Size",
+              "quote": "1-1/2\", 2\", 2-1/2\", 3\", 4\", 5\", 6\"",
+              "snapshot_sha256": "6e30fb400a1517cfa184a4187efdf9fc2a7661701e5e5fca415d96b14c051095",
+              "retrieved_at": "2026-10-11T17:42:58Z",
+              "variant_sku": null
+            }
+          ]
         }
       },
       "additional_specs": {},
@@ -10558,6 +10905,49 @@
               "variant_sku": null
             }
           ]
+        },
+        "sizes_available": {
+          "value": [
+            "2-1/2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "8",
+            "10",
+            "12"
+          ],
+          "display_source": "page",
+          "cross_check": "page_only",
+          "sources": [
+            {
+              "url": "https://www.milwaukeevalve.com/product/1260/",
+              "type": "page",
+              "page": null,
+              "section": "Product Size",
+              "quote": "2-1/2\", 3\", 4\", 5\", 6\", 8\", 10\", 12\"",
+              "snapshot_sha256": "f57c34306e31afed1d227c9d44b6219682affde5b7a2c84738e8bd5c770f4866",
+              "retrieved_at": "2026-10-11T17:52:21Z",
+              "variant_sku": null
+            }
+          ]
+        },
+        "size_unit": {
+          "value": "in",
+          "display_source": "page",
+          "cross_check": "page_only",
+          "sources": [
+            {
+              "url": "https://www.milwaukeevalve.com/product/1260/",
+              "type": "page",
+              "page": null,
+              "section": "Product Size",
+              "quote": "2-1/2\", 3\", 4\", 5\", 6\", 8\", 10\", 12\"",
+              "snapshot_sha256": "f57c34306e31afed1d227c9d44b6219682affde5b7a2c84738e8bd5c770f4866",
+              "retrieved_at": "2026-10-11T17:52:21Z",
+              "variant_sku": null
+            }
+          ]
         }
       },
       "additional_specs": {},
@@ -10742,6 +11132,42 @@
               "page": null,
               "section": "Categories",
               "quote": "Marine Valves",
+              "snapshot_sha256": "2ea39748710b4e64a4ddf8fbd6adaac4898ba1e51fe68db47285b2e426c0c0e5",
+              "retrieved_at": "2026-10-11T18:31:29Z",
+              "variant_sku": null
+            }
+          ]
+        },
+        "sizes_available": {
+          "value": [
+            "3"
+          ],
+          "display_source": "page",
+          "cross_check": "page_only",
+          "sources": [
+            {
+              "url": "https://www.milwaukeevalve.com/product/845-4687594/",
+              "type": "page",
+              "page": null,
+              "section": "Product Size",
+              "quote": "3\"",
+              "snapshot_sha256": "2ea39748710b4e64a4ddf8fbd6adaac4898ba1e51fe68db47285b2e426c0c0e5",
+              "retrieved_at": "2026-10-11T18:31:29Z",
+              "variant_sku": null
+            }
+          ]
+        },
+        "size_unit": {
+          "value": "in",
+          "display_source": "page",
+          "cross_check": "page_only",
+          "sources": [
+            {
+              "url": "https://www.milwaukeevalve.com/product/845-4687594/",
+              "type": "page",
+              "page": null,
+              "section": "Product Size",
+              "quote": "3\"",
               "snapshot_sha256": "2ea39748710b4e64a4ddf8fbd6adaac4898ba1e51fe68db47285b2e426c0c0e5",
               "retrieved_at": "2026-10-11T18:31:29Z",
               "variant_sku": null
@@ -10999,6 +11425,61 @@
               "quote": "MSS SP-110",
               "snapshot_sha256": "3a366701bf53b2e9b1f8446d4deb5b88a0dfecef765c78267b7bb69981bb35cb",
               "retrieved_at": "2026-10-11T21:33:33Z"
+            }
+          ]
+        },
+        "sizes_available": {
+          "value": [
+            "1/2",
+            "3/4"
+          ],
+          "display_source": "pdf",
+          "cross_check": "agree",
+          "sources": [
+            {
+              "url": "https://www.milwaukeevalve.com/product/ba-100h-tih/",
+              "type": "page",
+              "page": null,
+              "section": "Product Size",
+              "quote": "1/2\", 3/4\"",
+              "snapshot_sha256": "109568c8b7c2675a7ebe96e13b44aa5e89057eecb7d86b38e5490a8446ead01e",
+              "retrieved_at": "2026-10-11T18:52:55Z",
+              "variant_sku": null
+            },
+            {
+              "url": "https://www.milwaukeevalve.com/wp-content/uploads/spec-sheets/BA100H150HTIH.pdf",
+              "type": "pdf",
+              "page": 1,
+              "section": null,
+              "quote": "½”-¾”",
+              "snapshot_sha256": "3a366701bf53b2e9b1f8446d4deb5b88a0dfecef765c78267b7bb69981bb35cb",
+              "retrieved_at": "2026-10-11T21:33:33Z"
+            }
+          ]
+        },
+        "size_unit": {
+          "value": "in",
+          "display_source": "pdf",
+          "cross_check": "agree",
+          "sources": [
+            {
+              "url": "https://www.milwaukeevalve.com/wp-content/uploads/spec-sheets/BA100H150HTIH.pdf",
+              "type": "pdf",
+              "page": 1,
+              "section": null,
+              "quote": "½”-¾”",
+              "snapshot_sha256": "3a366701bf53b2e9b1f8446d4deb5b88a0dfecef765c78267b7bb69981bb35cb",
+              "retrieved_at": "2026-10-11T21:33:33Z"
+            },
+            {
+              "url": "https://www.milwaukeevalve.com/product/ba-100h-tih/",
+              "type": "page",
+              "page": null,
+              "section": "Product Size",
+              "quote": "1/2\", 3/4\"",
+              "snapshot_sha256": "109568c8b7c2675a7ebe96e13b44aa5e89057eecb7d86b38e5490a8446ead01e",
+              "retrieved_at": "2026-10-11T18:52:55Z",
+              "variant_sku": null
             }
           ]
         }
@@ -11452,6 +11933,87 @@
               "quote": "Conforms to MSS SP-110",
               "snapshot_sha256": "01c7f02b60bd0199c5159ffa5350349077e83c252fe827e96e8b8ee41bc14b0d",
               "retrieved_at": "2026-10-11T21:33:23Z"
+            }
+          ]
+        },
+        "sizes_available": {
+          "value": [
+            "1/2",
+            "3/4",
+            "1",
+            "1-1/4",
+            "1-1/2",
+            "2",
+            "2-1/2",
+            "3"
+          ],
+          "display_source": "pdf",
+          "cross_check": "agree",
+          "sources": [
+            {
+              "url": "https://www.milwaukeevalve.com/product/ba-100-p2-ld/",
+              "type": "page",
+              "page": null,
+              "section": "Product Size",
+              "quote": "1/2\", 3/4\", 1\", 1-1/4\", 1-1/2\", 2\", 2-1/2\", 3\"",
+              "snapshot_sha256": "5939b47af45f9c1766460b027c3abd0a3ee1ceb22a787b4dab0c75f09624ce00",
+              "retrieved_at": "2026-10-11T18:38:51Z",
+              "variant_sku": null
+            },
+            {
+              "url": "https://www.milwaukeevalve.com/product/ba-100-p2-oh/",
+              "type": "page",
+              "page": null,
+              "section": "Product Size",
+              "quote": "1/2\", 3/4\", 1\", 1-1/4\", 1-1/2\", 2\"",
+              "snapshot_sha256": "09cb6e6262b3ee5c47e5b7abeaed9ac22dc1f6f1d000a8809288251696b709af",
+              "retrieved_at": "2026-10-11T18:39:32Z",
+              "variant_sku": null
+            },
+            {
+              "url": "https://www.milwaukeevalve.com/product/ba-100-p2-th/",
+              "type": "page",
+              "page": null,
+              "section": "Product Size",
+              "quote": "1/2\", 3/4\", 1\", 1-1/4\", 1-1/2\"",
+              "snapshot_sha256": "0a71b1101fc2167fc42c3ecbca1b30f6eb72218027d41ef028427e655034c3f0",
+              "retrieved_at": "2026-10-11T18:40:12Z",
+              "variant_sku": null
+            },
+            {
+              "url": "https://www.milwaukeevalve.com/wp-content/uploads/spec-sheets/BA100100SP2OPT.pdf",
+              "type": "pdf",
+              "page": 1,
+              "section": null,
+              "quote": "½”-3”",
+              "snapshot_sha256": "01c7f02b60bd0199c5159ffa5350349077e83c252fe827e96e8b8ee41bc14b0d",
+              "retrieved_at": "2026-10-11T21:33:23Z"
+            }
+          ]
+        },
+        "size_unit": {
+          "value": "in",
+          "display_source": "pdf",
+          "cross_check": "agree",
+          "sources": [
+            {
+              "url": "https://www.milwaukeevalve.com/wp-content/uploads/spec-sheets/BA100100SP2OPT.pdf",
+              "type": "pdf",
+              "page": 1,
+              "section": null,
+              "quote": "½”-3”",
+              "snapshot_sha256": "01c7f02b60bd0199c5159ffa5350349077e83c252fe827e96e8b8ee41bc14b0d",
+              "retrieved_at": "2026-10-11T21:33:23Z"
+            },
+            {
+              "url": "https://www.milwaukeevalve.com/product/ba-100-p2-ld/",
+              "type": "page",
+              "page": null,
+              "section": "Product Size",
+              "quote": "1/2\", 3/4\", 1\", 1-1/4\", 1-1/2\", 2\", 2-1/2\", 3\"",
+              "snapshot_sha256": "5939b47af45f9c1766460b027c3abd0a3ee1ceb22a787b4dab0c75f09624ce00",
+              "retrieved_at": "2026-10-11T18:38:51Z",
+              "variant_sku": null
             }
           ]
         }
@@ -12660,10 +13222,10 @@
       "cad": [],
       "images": [
         {
-          "url": "https://www.milwaukeevalve.com/wp-content/uploads/images/products/ultrapress/BA100P2-600x400.jpg",
+          "url": "https://www.milwaukeevalve.com/wp-content/uploads/images/products/ultrapress/BA100P2.jpg",
           "image_type": "product_photo",
-          "width": 600,
-          "height": 400,
+          "width": 2560,
+          "height": 1707,
           "phash": "a7c0983fe11bb2d4",
           "found_on": "https://www.milwaukeevalve.com/product/ba-100-p2-ms/"
         },
@@ -12826,6 +13388,110 @@
               "quote": "MSS SP-110",
               "snapshot_sha256": "ac82e70b95c7e9165c47beccc42ea62f821bc021d3128f778176da9a95b763be",
               "retrieved_at": "2026-10-11T21:33:53Z"
+            }
+          ]
+        },
+        "sizes_available": {
+          "value": [
+            "1/4",
+            "3/8",
+            "1/2",
+            "3/4",
+            "1",
+            "1-1/4",
+            "1-1/2",
+            "2"
+          ],
+          "display_source": "pdf",
+          "cross_check": "conflict",
+          "sources": [
+            {
+              "url": "https://www.milwaukeevalve.com/wp-content/uploads/spec-sheets/BA300SB300SBSOPT.pdf",
+              "type": "pdf",
+              "page": 1,
+              "section": null,
+              "quote": "1/4” 3/8” 1/2” 3/4” 1” 1-1/4” 1-1/2” 2”",
+              "snapshot_sha256": "ac82e70b95c7e9165c47beccc42ea62f821bc021d3128f778176da9a95b763be",
+              "retrieved_at": "2026-10-11T21:33:53Z"
+            },
+            {
+              "url": "https://www.milwaukeevalve.com/product/ba-300sbs-ld/",
+              "type": "page",
+              "page": null,
+              "section": "Product Size",
+              "quote": "3/4\", 1\", 1-1/4\", 1-1/2\", 2\"",
+              "snapshot_sha256": "ca3745662cc7705bc90ac8d1de67b858527f98d84b323726d3bafb90924ca41e",
+              "retrieved_at": "2026-10-11T19:41:09Z",
+              "variant_sku": null
+            },
+            {
+              "url": "https://www.milwaukeevalve.com/product/ba-300sbs-oh/",
+              "type": "page",
+              "page": null,
+              "section": "Product Size",
+              "quote": "3/4\", 1\", 1-1/4\", 1-1/2\"",
+              "snapshot_sha256": "156f8825f96c7bd2230dcc8b0ac83bc08beb6db7a7f49377b07e243ff7ecbaf1",
+              "retrieved_at": "2026-10-11T19:41:31Z",
+              "variant_sku": null
+            }
+          ],
+          "alt_values": [
+            {
+              "value": [
+                "3/4",
+                "1",
+                "1-1/4",
+                "1-1/2",
+                "2"
+              ],
+              "sources": [
+                {
+                  "url": "https://www.milwaukeevalve.com/product/ba-300sbs-ld/",
+                  "type": "page",
+                  "page": null,
+                  "section": "Product Size",
+                  "quote": "3/4\", 1\", 1-1/4\", 1-1/2\", 2\"",
+                  "snapshot_sha256": "ca3745662cc7705bc90ac8d1de67b858527f98d84b323726d3bafb90924ca41e",
+                  "retrieved_at": "2026-10-11T19:41:09Z",
+                  "variant_sku": null
+                },
+                {
+                  "url": "https://www.milwaukeevalve.com/product/ba-300sbs-oh/",
+                  "type": "page",
+                  "page": null,
+                  "section": "Product Size",
+                  "quote": "3/4\", 1\", 1-1/4\", 1-1/2\"",
+                  "snapshot_sha256": "156f8825f96c7bd2230dcc8b0ac83bc08beb6db7a7f49377b07e243ff7ecbaf1",
+                  "retrieved_at": "2026-10-11T19:41:31Z",
+                  "variant_sku": null
+                }
+              ]
+            }
+          ]
+        },
+        "size_unit": {
+          "value": "in",
+          "display_source": "pdf",
+          "cross_check": "agree",
+          "sources": [
+            {
+              "url": "https://www.milwaukeevalve.com/wp-content/uploads/spec-sheets/BA300SB300SBSOPT.pdf",
+              "type": "pdf",
+              "page": 1,
+              "section": null,
+              "quote": "1/4” 3/8” 1/2” 3/4” 1” 1-1/4” 1-1/2” 2”",
+              "snapshot_sha256": "ac82e70b95c7e9165c47beccc42ea62f821bc021d3128f778176da9a95b763be",
+              "retrieved_at": "2026-10-11T21:33:53Z"
+            },
+            {
+              "url": "https://www.milwaukeevalve.com/product/ba-300sbs-ld/",
+              "type": "page",
+              "page": null,
+              "section": "Product Size",
+              "quote": "3/4\", 1\", 1-1/4\", 1-1/2\", 2\"",
+              "snapshot_sha256": "ca3745662cc7705bc90ac8d1de67b858527f98d84b323726d3bafb90924ca41e",
+              "retrieved_at": "2026-10-11T19:41:09Z",
+              "variant_sku": null
             }
           ]
         }
@@ -13261,6 +13927,67 @@
               "retrieved_at": "2026-10-11T21:34:03Z"
             }
           ]
+        },
+        "sizes_available": {
+          "value": [
+            "1/2",
+            "3/4",
+            "1",
+            "1-1/4",
+            "1-1/2",
+            "2",
+            "2-1/2",
+            "3"
+          ],
+          "display_source": "pdf",
+          "cross_check": "agree",
+          "sources": [
+            {
+              "url": "https://www.milwaukeevalve.com/product/ba-350ste-2g/",
+              "type": "page",
+              "page": null,
+              "section": "Product Size",
+              "quote": "1/2\", 3/4\", 1\", 1-1/4\", 1-1/2\", 2\", 2-1/2\", 3\"",
+              "snapshot_sha256": "c8a60c4f79e668f24e55e685ea69769378eeea574a36bef0b63a1551eb4e120c",
+              "retrieved_at": "2026-10-11T19:45:49Z",
+              "variant_sku": null
+            },
+            {
+              "url": "https://www.milwaukeevalve.com/wp-content/uploads/spec-sheets/ba350te2g_ba350ste2g.pdf",
+              "type": "pdf",
+              "page": 1,
+              "section": null,
+              "quote": "1/2” 3/4” 1” 1-1/4” 1-1/2” 2” 2-1/2” 3”",
+              "snapshot_sha256": "49cefe089a86cda27df492521c7b13bc390f08f4c92b5d3a148d161fe65390bb",
+              "retrieved_at": "2026-10-11T21:34:03Z"
+            }
+          ]
+        },
+        "size_unit": {
+          "value": "in",
+          "display_source": "pdf",
+          "cross_check": "agree",
+          "sources": [
+            {
+              "url": "https://www.milwaukeevalve.com/wp-content/uploads/spec-sheets/ba350te2g_ba350ste2g.pdf",
+              "type": "pdf",
+              "page": 1,
+              "section": null,
+              "quote": "1/2” 3/4” 1” 1-1/4” 1-1/2” 2” 2-1/2” 3”",
+              "snapshot_sha256": "49cefe089a86cda27df492521c7b13bc390f08f4c92b5d3a148d161fe65390bb",
+              "retrieved_at": "2026-10-11T21:34:03Z"
+            },
+            {
+              "url": "https://www.milwaukeevalve.com/product/ba-350ste-2g/",
+              "type": "page",
+              "page": null,
+              "section": "Product Size",
+              "quote": "1/2\", 3/4\", 1\", 1-1/4\", 1-1/2\", 2\", 2-1/2\", 3\"",
+              "snapshot_sha256": "c8a60c4f79e668f24e55e685ea69769378eeea574a36bef0b63a1551eb4e120c",
+              "retrieved_at": "2026-10-11T19:45:49Z",
+              "variant_sku": null
+            }
+          ]
         }
       },
       "additional_specs": {
@@ -13426,11 +14153,11 @@
       ],
       "images": [
         {
-          "url": "https://www.milwaukeevalve.com/wp-content/uploads/ba-350-te-f-2g-oc-3-4_ret_path_no-back2-600x400.png",
+          "url": "https://www.milwaukeevalve.com/wp-content/uploads/ba-350-te-f-2g-oc-3-4_ret_path_no-back2.png",
           "image_type": "product_photo",
-          "width": 600,
-          "height": 400,
-          "phash": "e4e45b1b3b26269a",
+          "width": 2560,
+          "height": 1708,
+          "phash": "94d45b4b2b3f3292",
           "found_on": "https://www.milwaukeevalve.com/product/ba-350ste-2g/"
         }
       ],
@@ -13680,6 +14407,75 @@
               "quote": "Brass Ball Valve For Potable Water",
               "snapshot_sha256": "442c8d0e384543fd405e1f9500f9dbc20ab6d440d9a6830884c81333c8bf8de2",
               "retrieved_at": "2026-10-11T21:35:13Z"
+            }
+          ]
+        },
+        "sizes_available": {
+          "value": [
+            "1/2",
+            "3/4",
+            "1",
+            "1-1/4",
+            "1-1/2",
+            "2"
+          ],
+          "display_source": "pdf",
+          "cross_check": "agree",
+          "sources": [
+            {
+              "url": "https://www.milwaukeevalve.com/product/upba490s-ll/",
+              "type": "page",
+              "page": null,
+              "section": "Product Size",
+              "quote": "1/2\", 3/4\", 1\", 1-1/4\", 1-1/2\", 2\"",
+              "snapshot_sha256": "1be7fc972230c2ab4126410f3faf9085268720b711b7e8a3c8b211b29c795b82",
+              "retrieved_at": "2026-10-11T21:05:03Z",
+              "variant_sku": null
+            },
+            {
+              "url": "https://www.milwaukeevalve.com/product/upba490s-oh/",
+              "type": "page",
+              "page": null,
+              "section": "Product Size",
+              "quote": "1/2\", 3/4\", 1\", 1-1/4\", 1-1/2\"",
+              "snapshot_sha256": "54ccd12e8b40ecae198905ec1e0e6be63d3f784d72efd4dad904fba296279e8a",
+              "retrieved_at": "2026-10-11T21:05:22Z",
+              "variant_sku": null
+            },
+            {
+              "url": "https://www.milwaukeevalve.com/wp-content/uploads/spec-sheets/UPBA490SOPT.pdf",
+              "type": "pdf",
+              "page": 1,
+              "section": null,
+              "quote": "1/2” 3/4” 1” 1-1/4” 1-1/2” 2”",
+              "snapshot_sha256": "442c8d0e384543fd405e1f9500f9dbc20ab6d440d9a6830884c81333c8bf8de2",
+              "retrieved_at": "2026-10-11T21:35:13Z"
+            }
+          ]
+        },
+        "size_unit": {
+          "value": "in",
+          "display_source": "pdf",
+          "cross_check": "agree",
+          "sources": [
+            {
+              "url": "https://www.milwaukeevalve.com/wp-content/uploads/spec-sheets/UPBA490SOPT.pdf",
+              "type": "pdf",
+              "page": 1,
+              "section": null,
+              "quote": "1/2” 3/4” 1” 1-1/4” 1-1/2” 2”",
+              "snapshot_sha256": "442c8d0e384543fd405e1f9500f9dbc20ab6d440d9a6830884c81333c8bf8de2",
+              "retrieved_at": "2026-10-11T21:35:13Z"
+            },
+            {
+              "url": "https://www.milwaukeevalve.com/product/upba490s-ll/",
+              "type": "page",
+              "page": null,
+              "section": "Product Size",
+              "quote": "1/2\", 3/4\", 1\", 1-1/4\", 1-1/2\", 2\"",
+              "snapshot_sha256": "1be7fc972230c2ab4126410f3faf9085268720b711b7e8a3c8b211b29c795b82",
+              "retrieved_at": "2026-10-11T21:05:03Z",
+              "variant_sku": null
             }
           ]
         }
@@ -13977,11 +14773,12 @@
         "end_connections": {
           "value": [
             "NPT",
-            "socket weld"
+            "socket weld",
+            "solder"
           ],
-          "raw_text": "NPT Female; Socket-Weld; FNPT/Socket-Weld",
+          "raw_text": "NPT Female; Socket-Weld; FNPT/Socket-Weld; 1 = Solder End (30BBBS ordering key)",
           "display_source": "pdf",
-          "cross_check": "agree",
+          "cross_check": "refines",
           "sources": [
             {
               "url": "https://www.milwaukeevalve.com/product/30bbof02/",
@@ -14011,6 +14808,45 @@
               "quote": "Socket Weld and NPT Connections",
               "snapshot_sha256": "d5e25d4e9c2b37fe298e28cdf713911e40ec4b18ae84f8507bc4e1ffdcfb2a88",
               "retrieved_at": "2026-10-11T21:32:23Z"
+            },
+            {
+              "url": "https://www.milwaukeevalve.com/wp-content/uploads/spec-sheets/30BBBS.pdf",
+              "type": "pdf",
+              "page": 1,
+              "section": null,
+              "quote": "1 = Solder End",
+              "snapshot_sha256": "292b203603c0dd09656c3d69576e9bd8722b31916455e6d9526cf7c499b5b6b8",
+              "retrieved_at": "2026-10-11T21:32:03Z"
+            }
+          ],
+          "alt_values": [
+            {
+              "value": [
+                "NPT",
+                "socket weld"
+              ],
+              "sources": [
+                {
+                  "url": "https://www.milwaukeevalve.com/product/30bbof02/",
+                  "type": "page",
+                  "page": null,
+                  "section": "Description",
+                  "quote": "NPT Female",
+                  "snapshot_sha256": "62330730019fe3a25d882769a3c5e6e6c2987fbaf50f58d16f0023367a890c53",
+                  "retrieved_at": "2026-10-11T21:10:28Z",
+                  "variant_sku": null
+                },
+                {
+                  "url": "https://www.milwaukeevalve.com/product/30cs1f01/",
+                  "type": "page",
+                  "page": null,
+                  "section": "Description",
+                  "quote": "Socket-Weld",
+                  "snapshot_sha256": "147707e7457835cf3042de7229dcccfaff6eec647bcf3104664a93450c0a01a6",
+                  "retrieved_at": "2026-10-11T21:14:18Z",
+                  "variant_sku": null
+                }
+              ]
             }
           ]
         },
@@ -14089,12 +14925,22 @@
         },
         "standards": {
           "value": [
+            "WW-V 35",
             "MSS-SP-110",
             "NACE MRO175"
           ],
           "display_source": "pdf",
           "cross_check": "pdf_only",
           "sources": [
+            {
+              "url": "https://www.milwaukeevalve.com/wp-content/uploads/spec-sheets/30BBBS.pdf",
+              "type": "pdf",
+              "page": 2,
+              "section": null,
+              "quote": "Conforms to: WW-V 35, Class A,",
+              "snapshot_sha256": "292b203603c0dd09656c3d69576e9bd8722b31916455e6d9526cf7c499b5b6b8",
+              "retrieved_at": "2026-10-11T21:32:03Z"
+            },
             {
               "url": "https://www.milwaukeevalve.com/wp-content/uploads/spec-sheets/30SSCSCC.pdf",
               "type": "pdf",
@@ -14112,6 +14958,77 @@
               "quote": "Valves Meet NACE MRO175",
               "snapshot_sha256": "d5e25d4e9c2b37fe298e28cdf713911e40ec4b18ae84f8507bc4e1ffdcfb2a88",
               "retrieved_at": "2026-10-11T21:32:23Z"
+            }
+          ]
+        },
+        "sizes_available": {
+          "value": [
+            "1/4",
+            "3/8",
+            "1/2",
+            "3/4",
+            "1",
+            "1-1/4",
+            "1-1/2",
+            "2"
+          ],
+          "display_source": "pdf",
+          "cross_check": "agree",
+          "sources": [
+            {
+              "url": "https://www.milwaukeevalve.com/product/30bbof02/",
+              "type": "page",
+              "page": null,
+              "section": "Product Size",
+              "quote": "1/4\", 3/8\", 1/2\", 3/4\", 1\", 1-1/4\", 1-1/2\", 2\"",
+              "snapshot_sha256": "62330730019fe3a25d882769a3c5e6e6c2987fbaf50f58d16f0023367a890c53",
+              "retrieved_at": "2026-10-11T21:10:28Z",
+              "variant_sku": null
+            },
+            {
+              "url": "https://www.milwaukeevalve.com/product/ba3wdslh/",
+              "type": "page",
+              "page": null,
+              "section": "Product Size",
+              "quote": "3/8\", 1/2\", 3/4\", 1\", 1-1/4\", 1-1/2\", 2\"",
+              "snapshot_sha256": "ebc63cc7a52386540ecef530bf0f80b4f2d2cf3ccdeda57b1f0346d3981cf9d2",
+              "retrieved_at": "2026-10-11T21:31:02Z",
+              "variant_sku": null
+            },
+            {
+              "url": "https://www.milwaukeevalve.com/wp-content/uploads/spec-sheets/30BBBS.pdf",
+              "type": "pdf",
+              "page": 2,
+              "section": null,
+              "quote": "1/4\" 3/8\" 1/2\" 3/4\" 1\" 1-1/4\" 1-1/2\" 2\"",
+              "snapshot_sha256": "292b203603c0dd09656c3d69576e9bd8722b31916455e6d9526cf7c499b5b6b8",
+              "retrieved_at": "2026-10-11T21:32:03Z"
+            }
+          ]
+        },
+        "size_unit": {
+          "value": "in",
+          "display_source": "pdf",
+          "cross_check": "agree",
+          "sources": [
+            {
+              "url": "https://www.milwaukeevalve.com/wp-content/uploads/spec-sheets/30BBBS.pdf",
+              "type": "pdf",
+              "page": 2,
+              "section": null,
+              "quote": "1/4\" 3/8\" 1/2\" 3/4\" 1\" 1-1/4\" 1-1/2\" 2\"",
+              "snapshot_sha256": "292b203603c0dd09656c3d69576e9bd8722b31916455e6d9526cf7c499b5b6b8",
+              "retrieved_at": "2026-10-11T21:32:03Z"
+            },
+            {
+              "url": "https://www.milwaukeevalve.com/product/30bbof02/",
+              "type": "page",
+              "page": null,
+              "section": "Product Size",
+              "quote": "1/4\", 3/8\", 1/2\", 3/4\", 1\", 1-1/4\", 1-1/2\", 2\"",
+              "snapshot_sha256": "62330730019fe3a25d882769a3c5e6e6c2987fbaf50f58d16f0023367a890c53",
+              "retrieved_at": "2026-10-11T21:10:28Z",
+              "variant_sku": null
             }
           ]
         }
