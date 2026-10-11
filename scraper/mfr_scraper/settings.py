@@ -39,9 +39,14 @@ CHROME_SHARE = 0.20               # asset on more than this share of product pag
 CHROME_MIN_PAGES = 5
 
 
-def site_config(site):
+def site_config(site, input_url=None):
+    """Config for an evaluation site, or a minimal config for any other manufacturer (only a URL needed)."""
     cfg = load_sites()
     s = cfg['sites'].get(site)
     if s is None:
-        raise SystemExit(f"unknown site '{site}' (add it to harness/config/sites.json)")
+        if not input_url:
+            raise SystemExit(f"unknown site '{site}': pass --input-url (or add it to harness/config/sites.json)")
+        s = {'split': None, 'input_url': input_url, 'allowed_hosts': None}
+    elif input_url:
+        s = {**s, 'input_url': input_url}
     return {**s, 'cad_viewer_hosts': cfg['global_cad_viewer_hosts'] + s.get('cad_viewer_hosts', [])}

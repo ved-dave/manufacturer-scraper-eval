@@ -14,6 +14,7 @@ python3 -m venv .venv && .venv/bin/pip install -r requirements.txt
 .venv/bin/python -m mfr_scraper discover --site bray              # product templates + URL count
 .venv/bin/python -m mfr_scraper run --site bray --limit 5 --out runs-dev   # quick dev sample
 .venv/bin/python -m mfr_scraper run --site bray                   # full site -> ../harness/runs/bray.json
+.venv/bin/python -m mfr_scraper run --site acme --input-url https://www.acme.com/   # ANY manufacturer: URL only
 .venv/bin/python -m unittest discover tests                       # offline tests
 
 # validate / score with the harness
@@ -28,8 +29,9 @@ Only pass it for final evaluation, never while tuning the scraper.
 | Stage | Module | What it does |
 |---|---|---|
 | Fetch | `fetch.py`, `robots.py` | robots.txt parsed per RFC 9309 for sitemaps and Crawl-delay; **Disallow is not obeyed (SPEC 1a)**, and each overridden URL is counted in `run_stats.robots_overridden`. 1 req/s per host (or Crawl-delay); retries; size caps; disk cache = raw store. Blocks and errors are not cached. |
-| Discover | `discover.py` | Sitemaps (recursive, gz), else shallow nav crawl. URLs grouped into **templates** by path shape. A few pages per template are scored for product signals (schema.org Product, spec label/value pairs, spec downloads, breadcrumbs; listing pages penalised). |
-| Page extraction | `page.py`, `specs.py` | Generic label/value extractor (tables, `dl`, div pairs, `label` + div), skipping header/footer/nav. Labels mapped to schema fields by synonym; values parsed (sizes, psi/bar/PN, °F/°C, connections, certifications, standards). schema.org Product/Offer for SKU and price; wording for `login_required` / `request_quote`. |
+| Hosts | `hosts.py` | Only the homepage URL is needed. Page hosts = its registrable domain (+ subdomains). Asset hosts = other hosts serving files on ≥25% of product pages, minus third-party services. The configured list is only an override (`--use-config-hosts`) and, for evaluation sites, the reference. Product pages that redirect off-site are dropped. |
+| Discover | `discover.py` | Sitemaps (recursive, gz) **plus** a bounded menu crawl from the homepage (depth 3, 150 pages); sitemaps are often incomplete. URLs grouped into **templates** by path shape. A few pages per template are scored for product signals (schema.org Product, spec label/value pairs, spec downloads, breadcrumbs; listing pages penalised). |
+| Page extraction | `page.py`, `specs.py` | Generic label/value extractor (tables, `dl`, div pairs, `label` + div), skipping header/footer/nav. Labels mapped to schema fields by synonym; values parsed (sizes + `size_unit`, psi/bar/PN, °F/°C, certifications, standards). `end_connections` and `applications` are mapped to the SPEC 6 controlled vocabularies; unmapped wording goes to `additional_specs`. schema.org Product/Offer for SKU and price; wording for `login_required` / `request_quote`. |
 | Documents & CAD | `assets.py` | PDFs downloaded, `%PDF` verified, sha256, text + table rows via **pdfplumber** (MIT), language by stopwords (`en+fr` when English leads), doc_type from URL/link text/title, then first-page text. CAD by extension; zips opened and their CAD formats listed; viewer hosts become `cad_viewer`. |
 | Images | `assets.py`, `pipeline.py` | Candidates from `img`, `srcset`, links around images, and schema.org. Grouped by rendition key; the largest/original version is fetched (resized URLs get original-URL guesses); <300 px dropped; perceptual-hash duplicates collapsed. |
 | Site chrome | `pipeline.py` | Documents/images on more than 20% of sampled pages (footer PDFs, logos) are excluded; images shared by 3+ families are treated as non-specific. |

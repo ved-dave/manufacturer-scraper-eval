@@ -4,6 +4,7 @@ Run from scraper/:  .venv/bin/python -m unittest discover tests
 import unittest
 
 from mfr_scraper import assets as A
+from mfr_scraper import hosts as H
 from mfr_scraper import discover as D
 from mfr_scraper import page as P
 from mfr_scraper import specs as S
@@ -77,7 +78,7 @@ class TestPageExtraction(unittest.TestCase):
     def test_table_and_schema_org(self):
         soup = P.soup_of(SCHEMA_ORG)
         f = self.fields(SCHEMA_ORG)
-        self.assertEqual(S.parse_field('end_connections', f['end_connections'])[0], ['NPT', 'PEX'])
+        self.assertEqual(S.parse_field('end_connections', f['end_connections'])[0], ['NPT', 'PEX expansion'])   # SPEC 6 vocabulary
         self.assertEqual(P.product_skus(soup), ['643WG2'])
         self.assertEqual(P.breadcrumbs(soup)[1], 'Fittings')
         price = P.price_signals(soup, P.visible_text(soup))
@@ -250,6 +251,35 @@ class TestDecisions(unittest.TestCase):
         c.save()
         text, pages, title, rev, rows = A.pdf_text(buf.getvalue())
         self.assertIn('Series 99', text)
+
+
+class TestHostsAndVocab(unittest.TestCase):
+    def test_registrable_domain(self):
+        self.assertEqual(H.registrable_domain('www.bray.com'), 'bray.com')
+        self.assertEqual(H.registrable_domain('shop.example.co.uk'), 'example.co.uk')
+        self.assertEqual(H.page_hosts('https://www.siouxchief.com/'), ['siouxchief.com'])
+
+    def test_detect_asset_hosts(self):
+        class R:
+            def __init__(self, docs, imgs):
+                self.doc_links = [(u, '') for u in docs]
+                self.image_cands = [(u, None, '', 'img') for u in imgs]
+        pages = [R(['https://cdn.siouxchief.com/SpecSheets/a.PDF'], ['https://cdn.siouxchief.com/ProductImages/a.JPG',
+                                                                     'https://www.facebook.com/tr.gif']) for _ in range(8)]
+        pages += [R([], ['https://distributor.example.com/x.jpg'])]
+        hosts, _ = H.detect_asset_hosts(pages, ['siouxchief.com'])
+        self.assertEqual(hosts, [])                                  # cdn.siouxchief.com is already a page host
+        pages = [R(['https://aalberts.compano.com/Data/x.pdf'], ['https://fonts.googleapis.com/a.png']) for _ in range(5)]
+        hosts, _ = H.detect_asset_hosts(pages + [R([], ['https://other.com/a.jpg'])], ['aalberts-ips.us'])
+        self.assertEqual(hosts, ['aalberts.compano.com'])
+
+    def test_vocabularies(self):
+        self.assertEqual(S.parse_connections('Sweat x FIP'), ['NPT', 'solder'])
+        self.assertEqual(S.parse_connections('F1807 crimp ring x NPT'), ['NPT', 'PEX crimp'])
+        self.assertEqual(S.parse_connections('Full Lug, Wafer'), ['wafer', 'lug'])
+        terms, unmapped = S.map_vocab('Water, Wastewater, Power Generation, Pulp & Paper', S.APPLICATION_WORDS)
+        self.assertEqual(terms, ['wastewater', 'power generation', 'pulp and paper'])
+        self.assertIn('Water', unmapped)                              # plain "water" is not assumed potable
 
 
 if __name__ == '__main__':

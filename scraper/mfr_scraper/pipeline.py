@@ -11,6 +11,7 @@ from urllib.parse import unquote, urlsplit
 from . import assets as A
 from . import discover as D
 from . import page as P
+from . import hosts as H
 from . import specs as S
 from .fetch import Fetcher
 from .settings import (AGENT_NAME, AGENT_VERSION, CHROME_MIN_PAGES, CHROME_SHARE, MAX_IMAGES_PER_FAMILY,
@@ -110,6 +111,7 @@ def fetch_page(fetcher, url, log):
         price=P.price_signals(soup, text), skus=P.product_skus(soup), sha=r.sha256, text=text,
         retrieved_at=now_iso())
     rec._body = r.body  # kept for evidence
+    rec._final_host = urlsplit(r.final_url).hostname or ''
     rec._viewer_links = [u for u, _ in P.links(soup, r.final_url)]
     return rec, None
 
@@ -252,8 +254,15 @@ def page_candidates(rec):
                 continue
             value, unit, cond = parsed
             quote = p.value.split('\n')[0].strip()
-            out[f].append({'kind': 'page', 'value': value, 'unit': unit, 'conditions': cond, 'raw': p.value,
-                           'source': _spec_source('page', rec.url, quote, rec.sha, rec.retrieved_at, section=p.label)})
+            src = _spec_source('page', rec.url, quote, rec.sha, rec.retrieved_at, section=p.label)
+            out[f].append({'kind': 'page', 'value': value, 'unit': unit, 'conditions': cond, 'raw': p.value, 'source': src})
+            if f == 'size_range' and unit:
+                out['size_unit'].append({'kind': 'page', 'value': unit, 'unit': None, 'conditions': None, 'raw': p.value, 'source': src})
+        for f, table in (('end_connections', S.CONNECTION_WORDS), ('applications', S.APPLICATION_WORDS)):
+            if p.field == f:
+                _, unmapped = S.map_vocab(p.value, table)
+                if unmapped:
+                    extra.setdefault(f + '_other', ', '.join(unmapped)[:300])
     return out, extra
 
 
@@ -273,9 +282,10 @@ def pdf_candidates(doc, kind):
             parsed = S.parse_field(fld, value)
             if parsed:
                 v, unit, cond = parsed
-                out[fld].append({'kind': kind, 'value': v, 'unit': unit, 'conditions': cond, 'raw': value,
-                                 'source': _spec_source(kind, doc['url'], line, doc['sha256'], doc['_retrieved_at'],
-                                                        page=page_of(line), section=label)})
+                src = _spec_source(kind, doc['url'], line, doc['sha256'], doc['_retrieved_at'], page=page_of(line), section=label)
+                out[fld].append({'kind': kind, 'value': v, 'unit': unit, 'conditions': cond, 'raw': value, 'source': src})
+                if fld == 'size_range' and unit:
+                    out['size_unit'].append({'kind': kind, 'value': unit, 'unit': None, 'conditions': None, 'raw': value, 'source': src})
     for pg, cells in doc.get('_tables', []):
         if len(cells) > 3:
             continue           # multi-column (per-size) tables are not family-level values
@@ -305,10 +315,15 @@ def pdf_candidates(doc, kind):
 # ------------------------------------------------------------------ main run
 
 class SiteRun:
-    def __init__(self, site, limit=None, only_urls=None, refresh=False, log=print, out_dir=None):
+    def __init__(self, site, limit=None, only_urls=None, refresh=False, log=print, out_dir=None,
+                 input_url=None, use_config_hosts=False):
         self.site, self.limit, self.only_urls, self.log = site, limit, only_urls, log
-        self.cfg = site_config(site)
-        self.allowed = self.cfg['allowed_hosts']
+        self.cfg = site_config(site, input_url)
+        self.config_hosts = self.cfg.get('allowed_hosts')
+        self.use_config_hosts = use_config_hosts and bool(self.config_hosts)
+        # Pages come only from the manufacturer's own domain; asset hosts are detected after pages are read.
+        self.page_hosts = H.page_hosts(self.cfg['input_url'])
+        self.allowed = list(self.config_hosts) if self.use_config_hosts else list(self.page_hosts)
         self.viewer_hosts = self.cfg['cad_viewer_hosts']
         self.fetcher = Fetcher(site, refresh=refresh, log=log)
         self.out_dir = Path(out_dir or RUNS_DIR)
@@ -337,13 +352,13 @@ class SiteRun:
             if re.search(pat, html, re.I)), 'unknown')
         urls, lastmod, sitemaps = D.sitemap_urls(self.fetcher, base, self.log)
         profile['sitemaps'] = sitemaps
-        cands = D.candidate_pages(urls, self.allowed)
-        if not cands:
-            self.log('  no sitemap pages; crawling navigation')
-            cands = D.candidate_pages(D.discover_from_home(self.fetcher, base, self.allowed), self.allowed)
-            profile['discovery'] = 'navigation crawl'
-        else:
-            profile['discovery'] = 'sitemap'
+        from_sitemap = D.candidate_pages(urls, self.page_hosts)
+        from_crawl = D.crawl_navigation(self.fetcher, base, self.page_hosts, log=self.log)
+        sm_keys = {N.match_key(u) for u in from_sitemap}
+        cr_keys = {N.match_key(u) for u in from_crawl}
+        cands = list(dict.fromkeys(from_sitemap + [u for u in from_crawl if N.match_key(u) not in sm_keys]))
+        profile['discovery'] = {'sitemap_pages': len(sm_keys), 'crawl_pages': len(cr_keys),
+                                'both': len(sm_keys & cr_keys), 'crawl_only': len(cr_keys - sm_keys)}
         templates = D.build_templates(cands)
         cls = D.classify_templates(self.fetcher, templates, self.log)
         product_templates = [k for k, v in cls.items() if v['product']]
@@ -605,9 +620,25 @@ class SiteRun:
             if err:
                 self.flag('page_skipped', err)
                 continue
+            if not N.host_allowed(rec.url, self.page_hosts):
+                self.flag('product_page_redirects_off_site', f'{u} -> {rec.url}')
+                continue
             recs.append(rec)
             if i % 25 == 0:
                 self.log(f'  pages {i}/{len(targets)}')
+        detected, evidence = H.detect_asset_hosts(recs, self.page_hosts)
+        if not self.use_config_hosts:
+            self.allowed = list(self.page_hosts) + detected
+        cfg_hosts = set(self.config_hosts or [])
+        norm = lambda hs: {h.lower().removeprefix('www.') for h in hs}
+        self.host_report = {
+            'mode': 'config' if self.use_config_hosts else 'auto', 'page_hosts': self.page_hosts,
+            'detected_asset_hosts': detected, 'candidate_counts': dict(list(evidence.items())[:15]),
+            'config_hosts': sorted(cfg_hosts) or None,
+            'config_hosts_not_covered': sorted(h for h in norm(cfg_hosts) if not N.host_allowed('https://' + h + '/', self.allowed)) if cfg_hosts else None,
+            'detected_not_in_config': sorted(h for h in detected if cfg_hosts and not N.host_allowed('https://' + h + '/', list(cfg_hosts))) if cfg_hosts else None,
+        }
+        self.log(f'[{self.site}] hosts: pages={self.page_hosts} assets={detected}')
         chrome, n_chrome_pages = self.chrome_keys(recs)
         self.log(f'[{self.site}] site-chrome assets: {len(chrome)} (from {n_chrome_pages} pages)')
         fam_groups = group_families(recs)
@@ -631,7 +662,7 @@ class SiteRun:
         run = {
             'schema_version': '1.0', 'site': self.site, 'input_url': self.cfg['input_url'], 'run_at': started,
             'agent': {'name': AGENT_NAME, 'version': AGENT_VERSION},
-            'site_profile': profile,
+            'site_profile': {**profile, 'hosts': self.host_report},
             'families': families,
             'coverage': {
                 'families': len(families),

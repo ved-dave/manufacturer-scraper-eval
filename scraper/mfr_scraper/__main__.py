@@ -19,7 +19,9 @@ from .settings import HOLDOUT_SPLITS, RUNS_DIR, site_config
 def main(argv=None):
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument('command', choices=['run', 'discover'])
-    ap.add_argument('--site', required=True)
+    ap.add_argument('--site', required=True, help='name for outputs; an evaluation site, or any name with --input-url')
+    ap.add_argument('--input-url', help="manufacturer homepage (needed for sites not in harness/config/sites.json)")
+    ap.add_argument('--use-config-hosts', action='store_true', help='use configured allowed hosts instead of auto-detection')
     ap.add_argument('--limit', type=int, help='process at most N product pages (evenly spaced)')
     ap.add_argument('--url', action='append', dest='urls', help='process only these product URLs')
     ap.add_argument('--refresh', action='store_true', help='ignore the fetch cache')
@@ -27,12 +29,13 @@ def main(argv=None):
     ap.add_argument('--allow-holdout', action='store_true', help='permit test/challenge sites (final eval only)')
     args = ap.parse_args(argv)
 
-    split = site_config(args.site).get('split')
+    split = site_config(args.site, args.input_url).get('split')
     if split in HOLDOUT_SPLITS and not args.allow_holdout:
         print(f"'{args.site}' is in the {split} split (held out). Use --allow-holdout only for final evaluation.")
         return 2
 
-    runner = SiteRun(args.site, limit=args.limit, only_urls=args.urls, refresh=args.refresh, out_dir=args.out)
+    runner = SiteRun(args.site, limit=args.limit, only_urls=args.urls, refresh=args.refresh, out_dir=args.out,
+                     input_url=args.input_url, use_config_hosts=args.use_config_hosts)
     if args.command == 'discover':
         profile, urls = runner.discover()
         print(json.dumps({'product_templates': profile['product_templates'], 'product_urls': len(urls),

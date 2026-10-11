@@ -148,23 +148,65 @@ def parse_temperature(raw):
     return None
 
 
+# SPEC 6 controlled vocabulary for end_connections: (pattern on source wording, term). Order matters.
 CONNECTION_WORDS = [
-    (r'\bnpt\b|national pipe thread', 'NPT'), (r'\bbspt?\b|bs en 10226|iso 7-1|bs 21\b', 'BSPT'),
-    (r'\bthread(?:ed)?\b|\bfip\b|\bmip\b', 'threaded'), (r'solder|sweat|\bc\s?x\s?c\b', 'solder'),
-    (r'\bpress\b|propress|press[- ]fit', 'press'), (r'\bpex\b|f1807|f1960|f2159|f2080', 'PEX'),
-    (r'groov', 'grooved'), (r'flang', 'flanged'), (r'\bwafer\b', 'wafer'), (r'\blug(?:ged)?\b', 'lug'),
-    (r'butt[- ]?weld', 'butt weld'), (r'socket[- ]?weld', 'socket weld'), (r'compression', 'compression'),
-    (r'push[- ]?(?:fit|to[- ]connect)|\bpdq\b', 'push-fit'), (r'\bcrimp', 'crimp'), (r'\bunion\b', 'union'),
-    (r'\bflare\b', 'flare'), (r'\bhose\b', 'hose'), (r'\bsolvent\b|\bsocket\b(?! weld)', 'solvent weld'),
-    (r'\bno[- ]hub\b', 'no-hub'), (r'\bhub\b', 'hub'), (r'\bspigot\b', 'spigot'), (r'\bcamlock|cam\s?&\s?groove', 'cam & groove'),
+    (r'\bnptf?\b|\bf?npt\b|\bm?npt\b|\bfip\b|\bmip\b|national pipe thread|taper pipe thread', 'NPT'),
+    (r'\bbspt?\b|bs en 10226|iso 7-1|bs 21\b|\brc?\s?\d', 'BSPT'),
+    (r'\bthread(?:ed)?\b', 'threaded'),
+    (r'solder|sweat|\bc\s?x\s?c\b|copper tube end', 'solder'),
+    (r'\bpress(?:[- ]fit)?\b|propress|megapress', 'press'),
+    (r'f1807|f2159|crimp ring|clamp ring|\bpex\b[^,;]{0,20}crimp|\bcrimp', 'PEX crimp'),
+    (r'f1960|cold[- ]expansion|propex|\bexpansion\b', 'PEX expansion'),
+    (r'\bpex\b', 'PEX'),
+    (r'push[- ]?(?:fit|to[- ]connect)|\bpdq\b|sharkbite', 'push-fit'),
+    (r'compression', 'compression'), (r'\bflare\b', 'flare'),
+    (r'groov|victaulic', 'grooved'), (r'flang', 'flanged'), (r'\bwafer\b', 'wafer'),
+    (r'\blug(?:ged)?\b|full lug', 'lug'),
+    (r'butt[- ]?weld|\bbw\b', 'butt weld'), (r'socket[- ]?weld|\bsw\b', 'socket weld'),
+    (r'solvent|\bsocket\b(?! ?weld)', 'solvent weld'),
+    (r'\bno[- ]hub\b|hubless', 'no-hub'), (r'\bhub(?:bed)?\b', 'hub'),
+    (r'\bspigot\b', 'spigot'), (r'\bunion\b', 'union'),
+    (r'\bhose\b|\bght\b', 'hose'), (r'closed end|\bcapped\b|\bplugged\b|spun[- ]closed', 'closed'),
+]
+
+# SPEC 6 controlled vocabulary for applications: (pattern on source wording, term).
+APPLICATION_WORDS = [
+    (r'potable|drinking water|domestic (?:cold )?water', 'potable water'),
+    (r'domestic hot water|\bdhw\b|hot water (?:supply|system)', 'domestic hot water'),
+    (r'hydronic|radiant heat|boiler', 'hydronic heating'), (r'chilled water|chiller', 'chilled water'),
+    (r'\bhvac\b|heating,? ventilation|air conditioning', 'HVAC'), (r'\bsteam\b', 'steam'),
+    (r'condensate', 'condensate'), (r'natural gas|\bgas distribution\b', 'natural gas'), (r'propane|\blp gas\b', 'propane'),
+    (r'compressed air|pneumatic conveying', 'compressed air'), (r'\bvacuum\b', 'vacuum'),
+    (r'fire (?:protection|sprinkler|suppression)|sprinkler', 'fire protection'), (r'irrigation', 'irrigation'),
+    (r'\bdwv\b|drain[- ,]+waste[- ,]+vent', 'DWV'), (r'sanitary (?:drain|sewer|waste)', 'sanitary drainage'),
+    (r'storm (?:drain|water|sewer)|roof drain', 'storm drainage'),
+    (r'waste ?water|sewage|effluent', 'wastewater'),
+    (r'industrial process|process (?:industr|application|piping)|general industr', 'industrial process'),
+    (r'chemical|petrochemical', 'chemical'), (r'oil (?:and|&) gas|oil & gas|refin|upstream|midstream|downstream|pipeline', 'oil and gas'),
+    (r'food (?:and|&) beverage|food processing|beverage|dairy|brewer', 'food and beverage'),
+    (r'marine|shipbuilding|offshore|naval', 'marine'), (r'slurr', 'slurry'),
+    (r'power gen|power plant|utility|utilities|nuclear', 'power generation'), (r'pulp|paper', 'pulp and paper'),
+    (r'mining|mineral', 'mining'),
+    (r'residential', 'residential'), (r'commercial', 'commercial'), (r'\bindustrial\b', 'industrial'),
+    (r'institutional|hospital|school', 'institutional'),
 ]
 
 
+def map_vocab(raw, table):
+    """(terms, unmapped_parts) using a SPEC vocabulary table."""
+    terms = [t for pat, t in table if re.search(pat, raw, re.I)]
+    parts = [p.strip(' .') for p in re.split(r'[,;\n\u2022/]|\band\b', raw) if p.strip(' .')]
+    unmapped = [p for p in parts if 1 < len(p) < 60 and not any(re.search(pat, p, re.I) for pat, _ in table)]
+    return list(dict.fromkeys(terms)), unmapped
+
+
 def parse_connections(raw):
-    found = [c for pat, c in CONNECTION_WORDS if re.search(pat, raw, re.I)]
+    found, _ = map_vocab(raw, CONNECTION_WORDS)
     if 'NPT' in found or 'BSPT' in found:
         found = [c for c in found if c != 'threaded']
-    return list(dict.fromkeys(found)) or None
+    if any(c in found for c in ('PEX crimp', 'PEX expansion')):
+        found = [c for c in found if c != 'PEX']
+    return found or None
 
 
 STANDARD_RX = re.compile(
@@ -233,7 +275,7 @@ def parse_field(field, raw):
     if field == 'applications':
         if len(raw.split()) < 2 and ',' not in raw:     # single words in PDFs are usually table headers
             return None
-        v = parse_list(raw)
+        v, _ = map_vocab(raw, APPLICATION_WORDS)
         return (v, None, None) if v else None
     if field.startswith('material_'):
         # Short material lists only; prose descriptions are not values.

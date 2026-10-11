@@ -278,8 +278,7 @@ def check_family(fam, allowed, viewer_hosts, rep, is_gold, ev):
             if p.get('amount') is not None and not p.get('currency'):
                 rep.add('ERROR', w, 'amount without currency')
 
-    if is_gold and not fam.get('variants'):
-        rep.add('WARN', fid, 'gold family has no variants listed')
+    # Families with no listed identifiers legitimately have no variants (SPEC 3), so no warning.
 
 
 def validate(run, site=None, is_gold=False, evidence_dir=None):

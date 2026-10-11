@@ -177,24 +177,39 @@ def match_template(url, template_key):
     return len(segs) == len(parts) and all(p == '*' or p == s.lower() for p, s in zip(parts, segs))
 
 
-def discover_from_home(fetcher, base_url, allowed_hosts, max_pages=40):
-    """Fallback when there is no sitemap: shallow crawl of navigation links."""
-    seen, queue, found = set(), [base_url], []
+def crawl_navigation(fetcher, base_url, page_hosts, max_pages=150, max_depth=3, log=print):
+    """Breadth-first crawl from the homepage through menus and category pages.
+
+    Sitemaps are often incomplete (on Bray, 24 of 103 product families are missing from them), so
+    this always runs alongside sitemap discovery. It follows page links on the site's own hosts,
+    including pagination, up to max_depth hops and max_pages fetches, and returns every candidate
+    page URL it saw.
+    """
+    seen, found = set(), []
+    queue = [(base_url, 0)]
     while queue and len(seen) < max_pages:
-        u = queue.pop(0)
-        if u in seen:
+        u, depth = queue.pop(0)
+        key = u.split('#')[0]
+        if key in seen:
             continue
-        seen.add(u)
-        r = fetcher.get(u)
-        if not r.ok:
+        seen.add(key)
+        r = fetcher.get(key)
+        if not r.ok or 'html' not in (r.content_type or 'text/html'):
             continue
         soup = BeautifulSoup(r.text(), 'lxml')
-        for h, _ in P.links(soup, u):
+        for h, _ in P.links(soup, r.final_url):
             h = h.split('#')[0]
-            if N.host_allowed(h, allowed_hosts) and not FILE_EXT.search(urlsplit(h).path) and h not in seen:
+            if not N.host_allowed(h, page_hosts) or FILE_EXT.search(urlsplit(h).path):
+                continue
+            q = urlsplit(h).query
+            is_pagination = bool(re.search(r'(^|&)(page|p|pg|paged)=\d+', q, re.I))
+            if candidate_pages([h], page_hosts):
                 found.append(h)
-                if len(_segments(h)) <= 2:
-                    queue.append(h)
+            elif not is_pagination:
+                continue
+            if depth + 1 <= max_depth and h not in seen:
+                queue.append((h, depth + 1))
+    log(f'  navigation crawl: {len(seen)} pages fetched, {len(set(found))} candidate links')
     return list(dict.fromkeys(found))
 
 

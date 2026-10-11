@@ -237,26 +237,37 @@ MATERIAL_FAMILIES = {
     'rubber': ['epdm', 'nbr', 'buna', 'fkm', 'viton', 'neoprene', 'silicone', 'hnbr', 'sbr', 'elastomer'],
     'elastomer': ['epdm', 'nbr', 'buna', 'fkm', 'viton', 'neoprene', 'silicone', 'hnbr'],
     'metal': ['steel', 'iron', 'brass', 'bronze', 'copper', 'aluminum', 'aluminium', 'stainless'],
+    'stainless': ['cf8m', 'cf8', 'cf3m', 'cf3', '304', '304l', '316', '316l', '317', '410', '416', '17-4', 'duplex',
+                  '2205', 'a351', 'a182', 'f316', 'f304', 'super', 'austenitic'],
+    '316': ['cf8m', '316l', 'f316', 'a351', 'a182'],
+    '304': ['cf8', '304l', 'f304'],
+    'aluminum': ['die', 'cast', 'a356', '6061', 'a380'],
     'threaded': ['npt', 'bspt', 'bsp', 'fnpt', 'mnpt', 'fip', 'mip', 'nptf'],
     'thread': ['npt', 'bspt', 'bsp', 'fnpt', 'mnpt', 'fip', 'mip', 'nptf'],
 }
 
 
+QUALIFIER_WORDS = {'heavy', 'duty', 'standard', 'high', 'higher', 'grade', 'quality', 'as', 'or', 'and', 'premium',
+                   'construction', 'material', 'materials', 'optional', 'options', 'available', 'typical', 'the', 'with'}
+
+
 def _words(s):
-    return set(re.findall(r'[a-z0-9]+(?:-[a-z0-9]+)?', str(s).lower()))
+    t = re.sub(r'\bss\s?(\d)', r'stainless \1', str(s).lower())      # "SS316" -> "stainless 316"
+    return set(re.findall(r'[a-z0-9]+(?:-[a-z0-9]+)?', t))
 
 
 def _text_refines(specific, general):
     """True when `specific` narrows `general`: same words plus qualifiers, or a member of a material family."""
-    ws, wg = _words(specific), _words(general)
+    ws, wg = _words(specific), _words(general) - QUALIFIER_WORDS
     if not ws or not wg or ws == wg:
         return False
-    if wg < ws:                      # "brass" -> "no-lead brass"
+    ws_x = ws | {w.split('-')[0] for w in ws}      # "12266-1" also counts as "12266"
+    if wg <= ws_x and ws != wg:                    # "brass" -> "no-lead brass"; "EN 12266" -> "EN 12266-1"
         return True
     for g in wg & set(MATERIAL_FAMILIES):
         if ws & set(MATERIAL_FAMILIES[g]) or any(w.startswith(tuple(MATERIAL_FAMILIES[g])) for w in ws):
-            rest = wg - {g}
-            if not rest or rest <= ws:
+            rest = wg - {g} - {'steel', 'iron', 'alloy', 'metal'}   # "stainless steel" is one family name
+            if not rest or rest <= ws_x:
                 return True
     return False
 

@@ -13,3 +13,5 @@ harness/runs/*
 !harness/runs/.gitkeep
 harness/reports/*
 !harness/reports/.gitkeep
+# evidence file archives (keep outside git)
+/*-evidence-files.zip
