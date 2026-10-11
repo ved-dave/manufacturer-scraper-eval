@@ -353,3 +353,8 @@ first-pass session compares (before/after agreement) and fixes; < 80% before-fix
 | price availability | 95.8 | 95.8 | 16.2 | 43.2 | 56.0 | 69.5 |
 - All other key metrics identical on both sites; validation 0 errors (crane 220 warnings, bray 23); 0 crashes.
 - Crane r4 (cold cache) had reproduced crane r3 exactly: round 4 doesn't touch Crane (no heading lists/accessory subsets there).
+
+## 2026-10-11 05:09 · Phase 2 · Rounds 4+5 merged; Round 7 Bray result
+- Merged round/5 (contains round 4) into auto/integration.
+- Bray r7 (sizes from SIZE columns): identical key metrics to r6 (no Bray sheet has a size-column dimension table
+  that wasn't already covered). Validation 0 errors / 23 warnings, 0 crashes. Crane r6/r7 pending.
