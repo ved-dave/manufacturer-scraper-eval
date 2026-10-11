@@ -131,6 +131,14 @@ class ProcessRun(SiteRun):
             return (f'names the family ("{" ".join(ref["_words"])}")', '')
         return None
 
+    def names_strongly(self, *texts):
+        """names_family, but only by the family's own series code or an identifier (not a shared stem)."""
+        hit = self.names_family(*texts)
+        if not hit or not hit[1]:
+            return None
+        own = {_flat(x) for x in self._cur['identifiers'] + [self._cur['series_code'] or '']} - {''}
+        return hit if _flat(hit[1]) in own else None
+
     def names_other(self, *texts):
         """(family_id, code) of the longest code of ANOTHER family named in the texts, if any."""
         if not self._cur or not getattr(self, 'code_index', None):
@@ -268,7 +276,8 @@ class ProcessRun(SiteRun):
         cand = {'url': url, 'link_text': link_text, 'section': section, 'type': kind, 'found_on': found_on}
         named = self.names_family(_filename(url), text, c.get('link_text'))
         other = self.names_other(_filename(url), text, c.get('link_text'))
-        if other and (not named or (kind == 'image' and len(other[1]) > len(named[1]))):
+        if other and (not named or (kind == 'image' and len(other[1]) > len(named[1])
+                                    and not self.names_strongly(_filename(url), text, c.get('link_text')))):
             return self.decide('asset', 'drop', f'names another family ({other[0]}: "{other[1]}")', url=url, candidate=cand)
         named = named and named[0]
         loc = N.locale_of_url(url)
@@ -431,7 +440,7 @@ class ProcessRun(SiteRun):
             url, alt = g['first'], g['alt'] or ''
             name = _filename(url)
             if A.CHROME_IMAGE.search(name) or A.CHROME_IMAGE.search(alt):
-                if not self.names_family(name, alt) or self.names_other(name, alt):
+                if not self.names_family(name, alt) or (self.names_other(name, alt) and not self.names_strongly(name, alt)):
                     self.decide('asset', 'drop', 'logo/icon/banner-like image name or alt text', url=url, alt=alt)
                     continue
             if (CHART_IMAGE.search(name) or CHART_IMAGE.search(alt)) and not DIMENSION_WORDS.search(name + ' ' + alt):
