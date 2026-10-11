@@ -465,7 +465,13 @@ class ProcessRun(SiteRun):
             if dims and max(min(d) for d in dims) < 300 and (not declared or max(declared) < 300):
                 self.decide('asset', 'drop', 'below 300 px per L1 width/height (not downloaded)', url=url)
                 continue
-            got = self.measure_image(self.image_tries(g['cands']))
+            known = sorted(((self.l1_dims[u], u) for u, _ in g['cands'] if u in self.l1_dims), key=lambda x: -x[0][0] * x[0][1])
+            if known and min(known[0][0]) >= 300 and known[0][0][0] >= max(declared or [0]):
+                # L1 width/height of the largest version: no download needed (no phash for dedupe)
+                (w, h), u = known[0]
+                got = (u, w, h, None)
+            else:
+                got = self.measure_image(self.image_tries(g['cands']))
             if not got:
                 self.decide('asset', 'drop', 'image could not be downloaded or measured', url=url)
                 continue
