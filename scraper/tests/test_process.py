@@ -186,6 +186,15 @@ class TestDocRules(unittest.TestCase):
         self.assertTrue(RELATED_SECTION.search('Related Products'))
 
 
+class TestSizeTokens(unittest.TestCase):
+    def test_nominal_sizes_are_not_model_codes(self):   # crane round 3
+        from mfr_scraper.process.run import SIZE_TOKEN
+        for c in ('dn15', 'DN50', 'nps8', 'pn16'):
+            self.assertTrue(SIZE_TOKEN.match(c), c)
+        for c in ('d171a', 'dm925lw', 'f621'):
+            self.assertFalse(SIZE_TOKEN.match(c), c)
+
+
 class TestGrouping(unittest.TestCase):
     def rec(self, url, name, crumbs, docs=(), tables=()):
         from mfr_scraper.pipeline import PageRec
