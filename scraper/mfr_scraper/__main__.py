@@ -1,9 +1,9 @@
 """CLI.
 
-    python -m mfr_scraper run --site bray --limit 10          # quick dev run (evenly spaced sample)
-    python -m mfr_scraper run --site bray                     # full site
-    python -m mfr_scraper run --site bray --url <product-url> # specific pages
-    python -m mfr_scraper discover --site bray                # templates + product URL count only
+    python -m mfr_scraper run --site <site> --limit 10       # quick dev run (evenly spaced sample)
+    python -m mfr_scraper run --site <site>                   # full site
+    python -m mfr_scraper run --site <site> --url <product-url> # specific pages
+    python -m mfr_scraper discover --site <site>              # templates + product URL count only
 
 Sites in the test/challenge splits are held out: running on them requires --allow-holdout,
 which should only be used for final evaluation, never while tuning the scraper.

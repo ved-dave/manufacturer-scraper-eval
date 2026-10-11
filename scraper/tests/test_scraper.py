@@ -284,3 +284,33 @@ class TestHostsAndVocab(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
+
+
+class TestGenerality(unittest.TestCase):
+    """AUTONOMOUS_RUN rule 4: no site-specific code in the scraper package."""
+    SITE_STRINGS = ['bray', 'crane', 'cranefs', 'sioux', 'apollo', 'aalberts', 'compano', 'caleffi', 'cimberio',
+                    'milwaukee', 'dixon']
+
+    def test_no_site_names_in_scraper_code(self):
+        import pathlib
+        import re
+        pkg = pathlib.Path(A.__file__).resolve().parent
+        hits = []
+        for f in sorted(pkg.glob('*.py')):
+            for n, line in enumerate(f.read_text().splitlines(), 1):
+                for s in self.SITE_STRINGS:
+                    if re.search(re.escape(s), line, re.I):
+                        hits.append(f'{f.name}:{n}: {s}: {line.strip()[:100]}')
+        self.assertEqual(hits, [], 'site-specific strings in scraper code:\n' + '\n'.join(hits))
+
+
+class TestCrashIsolation(unittest.TestCase):
+    def test_guarded_flags_and_continues(self):
+        from mfr_scraper.pipeline import SiteRun
+        import collections
+        r = object.__new__(SiteRun)
+        r.flags, r.flag_examples, r.log = collections.Counter(), {}, lambda *a: None
+        self.assertIsNone(r.guarded('page_crashed', 'https://x.test/p', lambda: 1 / 0))
+        self.assertEqual(r.guarded('page_crashed', 'https://x.test/q', lambda a: a + 1, 1), 2)
+        self.assertEqual(r.flags['page_crashed'], 1)
+        self.assertIn('https://x.test/p: ZeroDivisionError', r.flag_examples['page_crashed'])

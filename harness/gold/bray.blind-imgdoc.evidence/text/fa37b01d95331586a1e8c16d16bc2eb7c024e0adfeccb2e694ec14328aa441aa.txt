@@ -1,0 +1,2101 @@
+--- page 1 ---
+SERIES 1B
+TRUNNION MOUNTED BALL VALVES
+WWW.BRAY.COM
+THE HIGH PERFORMANCE COMPANY
+
+--- page 2 ---
+FEATURES & BENEFITS
+2 of 8
+© 2026 BRAY INTERNATIONAL, INC.  ALL RIGHTS RESERVED. BRAY.COM
+1 Emergency Stem Sealant Injection
+This standard feature allows the valve’s stem housing 
+to be adapted with a grease fitting to inject sealant 
+during emergency scenarios. By filling the cavity 
+between the stem and stem housing, this secondary 
+stem seal provides protection against unplanned 
+spikes in operating conditions.
+2 Emergency Seat Sealant Injection
+This optional feature allows the valve’s end 
+connections to be adapted with a grease fitting to 
+inject sealant. This creates a positive seal in the case 
+of seat leakage due to service impurities or unplanned 
+spikes in operating conditions.
+3 Drain and Vent Ports
+Drain ports located at the bottom of the valve allow 
+for elimination of any fluid trapped in the body cavity 
+of a closed valve. Vent ports located at the top of the 
+body cavity allow for elimination of any gas trapped 
+in the body cavity of a fully closed valve. Both play a 
+key safety role in a double block and bleed and double 
+isolation and bleed valve configurations.
+4
+Double Block and Bleed 
+This valve configuration provides the safety feature 
+of eliminating any high pressure media that is 
+trapped in the valve’s body cavity. This pressure relief 
+system is versatile, allowing the pressure buildup to 
+be eliminated while the valve is in the fully closed 
+position. Additionally, periodic seat integrity tests 
+can be performed.
+5
+Firesafe Design
+Secondary metal seat design provides a firesafe shut 
+off per API 607. Additionally, secondary graphite body 
+seals and flexible graphite packing prevents leakage 
+through the body joints and stuffing box, respectively.
+6
+Internal Trunnion Design
+Upper and lower bearing plates hold the ball in place. 
+This compact design prevents the ball from floating 
+axially, avoiding excess load on the seats. Additionally, 
+external trunnion design available in certain sizes.
+7
+Pressure Energized Stem Packing
+The proprietary energizer ring located above the 
+primary o-ring stem seal provides insurance in the rare 
+occasion the o-ring is damaged. The energizer ring 
+would use the media pressure to create an upward 
+compressive force on the packing. This upward force 
+on the packing is combined with the downward 
+compressive force created by tightening the packing 
+gland. This results in a larger net compressive force 
+on the packing and better seal than a typical packing 
+design.
+8
+Double Seals on Body Joints
+Primary elastomeric seals ensure zero leakage in 
+standard operating conditions. Secondary graphite 
+seals ensure proper body joint sealing per API 607 in 
+extreme temperature scenarios.
+9
+Anti-Static Devices
+Anti-static devices are provided as standard. These 
+devices ensure electrical continuity between the ball, 
+stem, and body, eliminating the possibility of static 
+electrical charges creating sparks within the valve.
+10
+Valve Position Indication
+Clear stamping on the outer diameter of the mounting 
+flange identifies the open or closed position of the 
+valve, based on the stem key orientation.
+11
+ISO 5211 Mounting Pad
+Robust ISO 5211 mounting pad provides quick 
+conversion between the valve and the automation 
+package.
+12
+Blowout-proof Stem Design 
+Valves are designed with stem/body connection 
+preventing stem blowout under line pressure.
+TECHNICAL SPECIFICATIONS
+Size Range*
+2" - 24" (50mm - 600mm)
+Class Rating*
+ASME Class 150, 300, 600, 900
+Temperature Range
+-50 to 600°F (-45 to 315°C)
+Port
+Full
+Construction
+2 piece, 3 piece
+Body Material*
+ASTM A105
+ASTM A350 Gr. LF2
+ASTM A182 Gr F316
+Ball Material*
+ASTM A105 w/ENP
+ASTM A350 Gr. LF2 w/ENP
+ASTM A182 Gr F316
+Seat Material*
+RPTFE
+Nylon
+Devlon
+PEEK
+Tek-Fil
+TFM
+End Connections
+Flanged, Butt Weld
+*Additional sizes, pressure classes, and materials available upon 
+request.
+STANDARDS & CERTIFICATIONS
+Design Standard
+API 6D, ASME B16.34, PED 2014/68/EU
+Flanges
+ASME B16.5
+BW Ends
+ASME B16.25
+Testing
+API 6D 
+Fire Safety
+API 607
+NACE
+MR-0175 Compatible
+Fugitive 
+Emissions
+ISO 15848-1
+
+--- page 3 ---
+3 of 8
+© 2026 BRAY INTERNATIONAL, INC.  ALL RIGHTS RESERVED. BRAY.COM
+5
+9
+1
+2
+3
+3
+6
+6
+8
+4
+10
+11
+2
+1
+5
+8
+12
+7
+
+--- page 4 ---
+4 of 8
+© 2026 BRAY INTERNATIONAL, INC.  ALL RIGHTS RESERVED. BRAY.COM
+DESIGN FEATURES
+SEAT CONFIGURATION
+Single Piston Effect 
+With this design, pressurized media upstream of the seat 
+results in a force pushing the seat toward the ball. As 
+temperatures rise, media trapped inside the body cavity 
+builds up excessive pressure. This pressure pushes the 
+seat away from the ball, compresses the seat springs, and 
+allows the media to relieve past the seat. This self-relieving 
+seat design allows for safe operation without the need for 
+dedicated bleed lines. 
+Double Piston Effect 
+This seat design uses pressure on both sides of the seat to 
+assist sealing. As seen below, pressurized media upstream 
+of the seat results in a force pushing the seat toward the 
+ball. Similarly, when the pressurized media is inside the body 
+cavity, the resulting force pushes the seat toward the ball. 
+This sealing effect doesn’t allow for self-relieving of cavity 
+pressure and, in turn, requires a bleed line be installed within 
+the body cavity. This type of valve configuration is valuable 
+in applications where two redundant seals are required 
+in the same direction (e.g. when repairs are being made 
+downstream in a toxic service line). If media were to get past 
+the upstream seal, dangerous flow toward the technician 
+would be blocked by the downstream seal and evacuated by 
+the bleed line.
+Type A 
+Primary Seat – Metal
+Secondary Seat – Soft Material
+Generally suited for larger valve sizes, services containing light 
+solids, and critical service requiring double seal assurance.
+Type B 
+Primary Seat – Soft Material
+Standard style typically suited for smaller valve sizes and 
+general services.
+Double Piston Upstream Pressure
+Double Piston Internal Cavity Pressure
+Single Piston Upstream Pressure
+Single Piston Internal Cavity Pressure
+
+--- page 5 ---
+5 of 8
+© 2026 BRAY INTERNATIONAL, INC.  ALL RIGHTS RESERVED. BRAY.COM
+APPLICATIONS
+	
+>
+Oil and Gas Pipeline
+	
+>
+Offshore Platforms
+	
+>
+Onshore Terminals
+	
+>
+Emergency Shutdown
+	
+>
+Suction and Discharge
+Isolation
+	
+>
+Block and Bypass
+	
+>
+Pumping, Compression 
+and Reinjection Units
+	
+>
+Metering Stations
+	
+>
+Pig Traps
+	
+>
+Surge-Relief Skids
+	
+>
+Decoking Isolation
+	
+>
+Buried Services
+	
+>
+Produced Water 
+(Brine) Services
+Class 150 carbon steel
+Class 150 stainless steel
+Class 300 stainless steel
+Carbon Steel Min. Temp.
+Saturated Steam Line
+Class 300 carbon steel
+Class 600 carbon steel
+Class 600 stainless steel
+Viton Min. Temp.
+0 psig
+200 psig
+400 psig
+600 psig
+800 psig
+1000 psig
+1200 psig
+1400 psig
+0 bar
+14 bar
+28 bar
+41 bar
+55 bar
+69 bar
+83 bar
+97 bar
+-50°F
+50°F
+150°F
+250°F
+350°F
+450°F
+550°F
+650°F
+-45°C
+10°C
+66°C
+121°C
+177°C
+232°C
+288°C
+343°C
+Nylon
+Devlon
+RPTFE
+TFM
+PEEK
+Tek-Fil
+EPDM
+Buna N
+(NBR)
+Viton A
+(FKM)
+Aflas
+(FEPM)
+FFKM
+Seat Materials
+O-Ring Materials
+Not recommended
+for steam service
+Not recommended
+for steam service
+Not recommended
+for steam service
+Superheated Steam
+Wet Steam
+400ºF max
+for steam service
+480ºF max
+for steam service
+PRESSURE/TEMPERATURE RATINGS
+NOTE: Contact Bray for Pressures/Temperatures not listed.
+
+--- page 6 ---
+6 of 8
+© 2026 BRAY INTERNATIONAL, INC.  ALL RIGHTS RESERVED. BRAY.COM
+BILL OF MATERIALS
+Item / Name 
+Carbon Steel
+Stainless Steel
+Qty
+12
+Stem
+ASTM A479 Type 410
+17-4PH
+XM-19
+ASTM A182 F316
+XM-19
+ASTM A182 F316
+1
+13
+Stem 
+Housing
+ASTM A105
+ASTM A350 Gr. LF2
+ASTM A182 F316
+1
+14
+Packing
+Flexible Graphite with Inconel® Wires
+3
+15
+Packing 
+Energizer
+Nitronic 60, SS 316 + Nitrided
+1
+16
+Packing Gland 
+Flange
+SS 316
+1
+17
+Thrust Washer 
+(Ball)
+Steel Backed Composite
+Stainless Steel Backed 
+Composite
+2
+18
+Thrust Washer 
+(Stem)
+Steel Backed Composite
+Stainless Steel Backed 
+Composite
+1
+19
+Seal (Body)
+Graphite
+*
+20
+Seal 
+(Stem Housing)
+Graphite
+1
+21
+O-Ring 
+(End 
+Connection)
+NBR, Viton™
+*
+22
+O-Ring (Stem 
+Housing)
+NBR, Viton™
+1
+23
+O-Ring (Stem)
+NBR, Viton™
+1
+27
+Sealant Injector 
+(End 
+Connection)
+Stainless Steel
+Carbon Steel
+*
+29
+Sealant Injector 
+(Stem Housing)
+Stainless Steel
+Carbon Steel
+1
+30
+Vent Plug
+Stainless Steel
+Carbon Steel
+2
+31
+Drain Plug
+Stainless Steel
+Carbon Steel
+1
+32
+Stud - Body
+ASTM A193 Gr B7/B7M
+ASTM A193 Gr B8M
+*
+33
+Nut - Body
+ASTM A194 Gr 2H/2HM
+ASTM A194 Gr 8M
+*
+34
+Socket Head 
+Cap Screw 
+(Stem Housing)
+ASTM A193 Gr B7/B7M
+ASTM A193 Gr B8M
+*
+35
+Socket Head 
+Cap Screw 
+(Gland)
+ASTM A193 Gr B7/B7M
+ASTM A193 Gr B8M
+*
+Additional materials (including cast metals) available on request.     *Quantity depends on valve size.
+Item / Name 
+Carbon Steel
+Stainless Steel
+Qty
+1
+Body
+ASTM A105
+ASTM A350 Gr. LF2
+ASTM A182 F316
+1
+2
+End 
+Connection
+ASTM A105
+ASTM A350 Gr. LF2
+ASTM A182 F316
+1 or 2
+3
+Ball
+ASTM A105 w/ENP
+ASTM A350 Gr. LF2 w/ENP
+ASTM A182 Gr. F316
+ASTM A182 Gr. F316 w/ENP
+ASTM A182 F316
+ASTM A182 F316 w/ENP
+1
+4
+Bearing `
+Retainer
+ASTM A516 Gr.70
+ASTM A216 Gr WCB
+ASTM A352 Gr.LCB
+ASTM A240 Gr. 316
+ASTM A351 Gr. CF8M
+2
+5
+Bearing 
+(Ball Trunnion)
+Steel Backed Composite
+Stainless Steel Backed 
+Composite
+2
+7
+Seat Holder
+ASTM A105 w/ENP
+ASTM A350 Gr. LF2 w/ENP
+ASTM A182 Gr. F316
+ASTM A182 Gr. F316 w/ENP
+ASTM A182 F316
+ASTM A182 F316 w/ENP
+2
+8
+Seat Insert
+RPTFE, Nylon, Devlon, PEEK, Tek-Fil® TFM
+2
+9
+Spring 
+(Seat Holder)
+Inconel® X750
+*
+10
+O-Ring 
+(Seat Holder)
+NBR, Viton™
+2
+11
+O-Ring 
+(Seat Holder)
+NBR, Viton™
+2
+2
+3
+4
+5
+30
+12
+18
+32
+29
+20
+22
+23
+27
+7
+8
+9
+17
+31
+1
+33
+34
+35
+13
+14
+15
+16
+11
+19
+21
+10
+
+--- page 7 ---
+7 of 8
+© 2026 BRAY INTERNATIONAL, INC.  ALL RIGHTS RESERVED. BRAY.COM
+DIMENSIONS
+CLASS 150 VALVE DIMENSIONS (IN/mm)
+Size
+NPS
+DN
+Valve
+Valve Flange
+Top Works
+Weight 
+lb
+kg
+Cv
+Full
+Open
+Valve
+Torque
+Max**
+Lb-in
+N m
+A
+ØB
+C
+C1
+C2
+D
+ØF
+ØG
+N
+No Of 
+Holes
+H
+With 
+Key
+J
+BC
+K
+L
+No Of 
+Holes
+Mtg
+Code
+X*
+Key
+Y*
+Key
+2
+7.01
+1.93
+6.61
+5.31
+4.57
+6.38
+6.02
+4.75
+4
+0.63
+0.87
+4.02
+0.43
+4
+F10
+-
+-
+49
+462
+682
+50
+178
+49
+168
+135
+116
+162
+153
+120.7
+16
+22
+102
+11
+-
+-
+22
+77
+3
+7.99
+2.91
+7.52
+5.55
+5.12
+7.48
+7.48
+6.00
+4
+0.87
+1.18
+4.02
+0.43
+4
+F10
+-
+-
+73
+1107
+1620
+80
+203
+74
+191
+141
+130
+190
+190
+152.4
+22
+30
+102
+11
+-
+-
+33
+183
+4
+9.02
+3.94
+9.25
+7.09
+6.10
+9.45
+9.06
+7.50
+8
+1.54
+1.38
+4.92
+0.51
+4
+F12
+0.39
+0.39
+123
+2091
+2522
+100
+229
+100
+235
+180
+155
+240
+230
+190.5
+39.2
+35
+125
+13
+10
+10
+56
+285
+6
+15.51
+5.91
+11.57
+9.25
+8.35
+12.52
+11.02
+9.50
+8
+1.91
+1.77
+6.50
+0.83
+4
+F16
+0.55
+0.35
+227
+4918
+5195
+150
+394
+150
+294
+235
+212
+318
+280
+241.3
+48.5
+45
+165
+21
+14
+9
+103
+587
+8
+17.99
+7.91
+13.66
+10.63
+10.12
+15.63
+13.58
+11.75
+8
+2.13
+1.97
+6.50
+0.83
+4
+F16
+0.47
+0.39
+562
+9105
+8001
+200
+457
+201
+347
+270
+257
+397
+345
+298.5
+54.1
+50
+165
+21
+12
+10
+255
+904
+10
+20.98
+9.92
+15.20
+12.17
+12.83
+18.58
+15.94
+14.25
+12
+2.13
+1.97
+6.50
+0.83
+4
+F16
+0.47
+0.39
+869
+14645
+11683
+250
+533
+252
+386
+309
+326
+472
+405
+362.0
+54.1
+50
+165
+21
+12
+10
+394
+1320
+12
+24.02
+11.93
+16.69
+13.58
+14.72
+21.77
+19.09
+17.00
+12
+2.44
+2.28
+6.50
+0.83
+4
+F16
+0.63
+0.39
+1325
+21566
+16604
+300
+610
+303
+424
+345
+374
+553
+485
+431.8
+62.0
+58
+165
+21
+16
+10
+601
+1876
+14
+27.01
+13.15
+17.76
+14.65
+15.75
+23.70
+21.06
+18.75
+12
+2.44
+2.28
+6.50
+0.83
+4
+F16
+0.63
+0.39
+1691
+26458
+24455
+350
+686
+334
+451
+372
+400
+602
+535
+476.3
+62.0
+58
+165
+21
+16
+10
+767
+2763
+16
+30.00
+15.16
+20.20
+16.65
+17.28
+27.01
+23.43
+21.25
+16
+2.76
+2.50
+10.00
+0.67
+8
+F25
+0.63
+0.63
+2425
+35644
+34518
+400
+762
+385
+513
+423
+439
+686
+595
+539.8
+70.2
+63.5
+254
+17
+15.88
+15.88
+1100
+3900
+18
+34.02
+17.17
+21.46
+17.95
+18.74
+30.08
+25.00
+22.75
+16
+2.93
+2.76
+10.00
+0.67
+8
+F25
+0.79
+0.47
+3192
+46262
+44873
+450
+864
+436
+545
+456
+476
+764
+635
+577.9
+74.5
+70
+254
+17
+20
+12
+1448
+5070
+20
+35.98
+19.17
+24.21
+19.92
+20.51
+33.23
+27.56
+25.00
+20
+3.32
+3.00
+10.00
+0.67
+8
+F25
+0.75
+0.75
+4193
+58328
+58645
+500
+914
+487
+615
+506
+521
+844
+700
+635.0
+84.4
+76.2
+254
+17
+19.05
+19.05
+1902
+6626
+24
+42.01
+23.19
+28.46
+23.23
+23.23
+39.29
+32.09
+29.50
+20
+4.31
+4.00
+11.73
+0.83
+8
+F30
+1.00
+0.75
+6609
+86853
+88906
+600
+1067
+589
+723
+590
+590
+998
+815
+749.3
+109.4
+101.6
+298
+21
+25.4
+19.05
+2998
+10045
+SIZE: 6"-24"
+SIZE: 2"-4"
+C
+ØF
+ØB
+ØG
+A
+D
+H
+J
+C1
+C2
+C
+ØF
+ØB
+ØG
+A
+H
+J
+C1
+C2
+D
+BC
+KxL
+BC
+Top enlarged for visual purposes only.
+Top enlarged for visual purposes only.
+KxL
+Y
+Y
+X
+X
+Dimensions provided are for reference. Please contact factory for additional or more specific information
+*Valve sizes without key dimensions shown in the table utilize a double "D" style stem. Please contact factory for detailed dimensions.
+**Valve torques mentioned above do not contain a safety factor and are not applicable to PEEK seated valves. Please refer to Technical Bulletin 1005 for more detailed 
+information.
+
+--- page 8 ---
+DIMENSIONS
+CLASS 300 VALVE DIMENSIONS (in/mm)
+Size
+NPS
+DN
+Valve
+Valve Flange
+Top Works
+Weight 
+lb
+kg
+Cv
+Full
+Open
+Valve
+Torque Max**
+Lb-in / N m
+A
+ØB
+C
+C1
+C2
+D
+ØF
+ØG
+N
+No Of 
+Holes
+H
+With 
+Key
+J
+BC
+K
+L
+No Of 
+Holes
+Mtg
+Code
+X*
+Key
+Y*
+Key
+2
+8.50
+1.93
+7.05
+5.08
+5.04
+6.50
+6.50
+5.00
+8
+0.87
+1.18
+4.02
+0.43
+4
+F10
+-
+-
+57
+462
+903
+50
+216
+49
+179
+129
+128
+165
+165
+127
+22
+30
+102
+11
+-
+-
+26
+102
+3
+11.14
+2.91
+8.43
+6.30
+5.71
+8.27
+8.27
+6.63
+8
+1.54
+1.38
+4.92
+0.51
+4
+F12
+0.39
+0.39
+104
+1107
+2177
+80
+283
+74
+214
+160
+145
+210
+210
+168.3
+39.2
+35
+125
+13
+10
+10
+47
+246
+4
+12.01
+3.94
+8.98
+7.09
+6.10
+10.04
+10.04
+7.87
+8
+1.54
+1.38
+4.92
+0.51
+4
+F12
+0.39
+0.39
+159
+2091
+3452
+100
+305
+100
+228
+180
+155
+255
+255
+200
+39.2
+35
+125
+13
+10
+10
+72
+390
+6
+15.87
+5.91
+11.57
+9.25
+8.39
+12.60
+12.60
+10.63
+12
+1.91
+1.77
+6.50
+0.83
+4
+F16
+0.55
+0.35
+359
+4918
+7638
+150
+403
+150
+294
+235
+213
+320
+320
+269.9
+48.5
+45
+165
+21
+14
+9
+163
+863
+8
+19.76
+7.91
+13.66
+10.63
+10.28
+15.63
+14.96
+13.00
+12
+2.13
+1.97
+6.50
+0.83
+4
+F16
+0.47
+0.39
+622
+9105
+12258
+200
+502
+201
+347
+270
+261
+397
+380
+330.2
+54.1
+50
+165
+21
+12
+10
+282
+1385
+10
+22.36
+9.92
+15.28
+12.17
+12.99
+18.90
+17.52
+15.25
+16
+2.44
+2.28
+6.50
+0.83
+4
+F16
+0.63
+0.39
+1008
+14645
+17533
+250
+568
+252
+388
+309
+330
+480
+445
+387.4
+62
+58
+165
+21
+16
+10
+457
+1981
+12
+25.51
+11.93
+17.64
+14.09
+14.69
+22.13
+20.47
+17.75
+16
+2.76
+2.50
+10.00
+0.67
+8
+F25
+0.63
+0.63
+1493
+21566
+23915
+300
+648
+303
+448
+358
+373
+562
+520
+450.8
+70.2
+63.5
+254
+17
+15.88
+15.88
+677
+2702
+14
+30.00
+13.15
+18.31
+14.84
+15.63
+24.06
+23.03
+20.25
+20
+2.93
+2.76
+10.00
+0.67
+8
+F25
+0.79
+0.47
+2081
+26458
+36200
+350
+762
+334
+465
+377
+397
+611
+585
+514.4
+74.5
+70
+254
+17
+20
+12
+944
+4090
+16
+32.99
+15.16
+21.18
+16.93
+17.36
+27.40
+25.59
+22.50
+20
+3.32
+3.00
+10.00
+0.67
+8
+F25
+0.75
+0.75
+2934
+35644
+54875 
+400
+838
+385
+538
+430
+441
+696
+650
+571.5
+84.4
+76.2
+254
+17
+19.05
+19.05
+1331
+6200
+18
+35.98
+17.17
+23.50
+18.54
+19.13
+30.79
+27.95
+24.75
+24
+3.75
+3.50
+11.73
+0.83
+8
+F30
+0.88
+0.63
+3931
+46262
+74045
+450
+914
+436
+597
+471
+486
+782
+710
+628.6
+95.3
+88.9
+298
+21
+22.23
+15.88
+1783
+8366
+20
+39.02
+19.17
+25.24
+20.12
+20.67
+33.82
+30.51
+27.00
+24
+4.31
+4.00
+11.73
+0.83
+8
+F30
+1.00
+0.75
+4996
+58328
+100279
+500
+991
+487
+641
+511
+525
+859
+775
+685.8
+109.4
+101.6
+298
+21
+25.4
+19.05
+2266
+11330
+24
+45.00
+23.19
+31.30
+24.72
+23.94
+40.47
+36.02
+32.00
+24
+4.82
+4.50
+14.02
+1.22
+8
+F35
+1.00
+0.75
+8428
+86853
+141939
+600
+1143
+589
+795
+628
+608
+1028
+915
+812.8
+122.4
+114.3
+356
+31
+25.4
+19.05
+3823
+16037
+CLASS 600 VALVE DIMENSIONS (in/mm)
+Size
+NPS
+DN
+Valve
+Valve Flange
+Top Works
+Weight 
+lb
+kg
+Cv
+Full
+Open
+Valve
+Torque Max**
+Lb-in / N m
+A
+ØB
+C
+C1
+C2
+D
+ØF
+ØG
+N
+No Of 
+Holes
+H
+With 
+Key
+J
+BC
+K
+L
+No Of 
+Holes
+Mtg
+Code
+X*
+Key
+Y*
+Key
+2
+11.50
+1.93
+7.05
+5.08
+5.04
+6.50
+6.50
+5.00
+8
+0.87
+1.18
+4.02
+0.43
+4
+F10
+-
+-
+64
+462
+1221
+50
+292
+49
+179
+129
+128
+165
+165
+127
+22
+30
+102
+11
+-
+-
+29
+138
+3
+14.13
+2.91
+8.43
+6.30
+5.71
+8.27
+8.27
+6.63
+8
+1.54
+1.38
+4.92
+0.51
+4
+F12
+0.39
+0.39
+123
+1107
+3054
+80
+359
+74
+214
+160
+145
+210
+210
+168.3
+39.2
+35
+125
+13
+10
+10
+56
+345
+4
+17.01
+3.94
+9.02
+7.09
+6.50
+10.83
+10.83
+8.50
+8
+1.54
+1.38
+4.92
+0.51
+4
+F12
+0.39
+0.39
+223
+2091
+4248
+100
+432
+100
+229
+180
+165
+275
+275
+215.9
+39.2
+35
+125
+13
+10
+10
+101
+480
+6
+22.01
+5.91
+12.48
+9.45
+9.02
+13.98
+13.98
+11.50
+12
+2.13
+1.97
+6.50
+0.83
+8
+F16
+0.47
+0.39
+569
+4918
+12099
+150
+559
+150
+317
+240
+229
+355
+355
+292.1
+54.1
+50
+165
+21
+12
+10
+258
+1367
+8
+25.98
+7.91
+14.21
+11.02
+10.83
+16.61
+16.54
+13.75
+12
+2.44
+2.28
+6.50
+0.83
+8
+F16
+0.63
+0.39
+933
+9105
+18551
+200
+660
+201
+361
+280
+275
+422
+420
+349.2
+62
+58
+165
+21
+16
+10
+423
+2096
+10
+30.98
+9.92
+16.54
+12.99
+13.74
+20.08
+20.08
+17.00
+16
+2.76
+2.50
+10.00
+0.67
+8
+F25
+0.63
+0.63
+1581
+14645
+27703
+250
+787
+252
+420
+330
+349
+510
+510
+431.8
+70.2
+63.5
+254
+17
+15.88
+15.88
+717
+3130
+12
+32.99
+11.93
+17.83
+14.37
+15.00
+23.15
+22.05
+19.25
+20
+2.93
+2.76
+10.00
+0.67
+4
+F25
+0.79
+0.47
+2172
+21566
+38032
+300
+838
+303
+453
+365
+381
+588
+560
+489
+74.5
+70
+254
+17
+20
+12
+985
+4297
+14
+35.00
+13.15
+20.16
+15.91
+16.46
+25.43
+23.82
+20.75
+20
+3.32
+3.00
+10.00
+0.67
+4
+F25
+0.75
+0.75
+2793
+26458
+57158
+350
+889
+334
+512
+404
+418
+646
+605
+527
+84.4
+76.2
+254
+17
+19.05
+19.05
+1267
+6458
+16
+39.02
+15.16
+22.64
+17.68
+17.95
+28.82
+26.97
+23.75
+20
+3.75
+3.50
+11.73
+0.83
+8
+F30
+0.88
+0.63
+3929
+35644
+87799
+400
+991
+385
+575
+449
+456
+732
+685
+603.2
+95.3
+88.9
+298
+21
+22.23
+15.88
+1782
+9920
+18
+42.99
+17.17
+24.53
+19.41
+20.00
+32.60
+29.33
+25.75
+20
+4.31
+4.00
+11.73
+0.83
+8
+F30
+1.00
+0.75
+5463
+46262
+120813
+450
+1092
+436
+623
+493
+508
+828
+745
+654
+109.4
+101.6
+298
+21
+25.4
+19.05
+2478
+13650
+20
+47.01
+19.17
+28.78
+22.20
+21.18
+35.63
+32.09
+28.50
+24
+4.82
+4.50
+14.02
+1.22
+8
+F35
+1.00
+0.75
+6850
+58328
+167456
+500
+1194
+487
+731
+564
+538
+905
+815
+723.9
+122.4
+114.3
+356
+31
+25.4
+19.05
+3107
+18920
+24
+55.00
+23.19
+32.95
+25.98
+26.46
+42.52
+37.01
+33.00
+24
+5.35
+5.00
+14.02
+1.22
+8
+F35
+1.13
+0.88
+11356
+86853
+224119
+600
+1397
+589
+837
+660
+672
+1080
+940
+838.2
+135.9
+127
+356
+31
+31.75
+22.23
+5151
+25322
+Dimensions provided are for reference. Please contact factory for additional or more specific information.
+*Valve sizes without key dimensions shown in the table utilize a double "D" style stem. Please contact factory for detailed dimensions.
+**Valve torques mentioned above do not contain a safety factor and are not applicable to PEEK seated valves. Please refer to Technical Bulletin 1005 for more detailed information.
+***Contact Bray for dimensions and weights not listed.
+EN_F-2811_Trunnion MBValve_20260710
+HEADQUARTERS 
+Bray International, Inc.
+13333 Westland East Blvd.
+Houston, Texas 77041
+Tel: +1.281.894.5454
+All statements, technical information, and recommendations in this bulletin are 
+for general use only. Consult Bray representatives or factory for the specific 
+requirements and material selection for your intended application. The right to 
+change or modify product design or product without prior notice is reserved. 
+Patents issued and applied for worldwide. 
+Bray® is a registered trademark of Bray International, Inc.
+© 2026 BRAY INTERNATIONAL, INC.  ALL RIGHTS RESERVED.  BRAY.COM

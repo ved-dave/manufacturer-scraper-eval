@@ -1,0 +1,545 @@
+--- page 1 ---
+SERIES 5B/C
+VALVE STATUS MONITOR AS-i
+Installation, Operation and Maintenance Manual
+THE HIGH PERFORMANCE COMPANY
+BRAY.COM
+
+--- page 2 ---
+
+--- page 3 ---
+1
+Series 5B/C Valve Status Monitor AS-i
+Installation, Operation and Maintenance Manual
+TABLE OF CONTENTS
+1.0 Introduction .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 2
+2.0 Description of Operation .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 2
+3.0 Hardware Description. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  2
+3.1 Field Connection Terminals .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .2
+3.1.2 AS-i Connections .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 3
+3.1.3 Power Supply  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 3
+3.1.4 Load Connections .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 3
+3.2 Factory Connection Terminals. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  3
+3.2.1 Limit Switches .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 3
+3.2.2 Optional Auxiliary Switches .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 3
+3.3 LED Description. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  3
+3.3.1 AS-i Indictators .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 3
+3.3.2 Product Status . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  4
+3.3.3 Open/Close .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 4
+3.4 User Switches .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 4
+3.4.1 Calibration Switch . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  4
+4.0 AS-i Interface .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 4
+4.1 Configuration .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 4
+4.2 Communication .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 4
+5.0 Quick Start Guide .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 5
+6.0 Installation Instructions. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  5
+7.0 Exploded View Drawings. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  6
+7.1 Exploded View - 5B. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  6
+7.1 Exploded View - 5C .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 7
+8.0 Technical Specifications . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  8
+
+--- page 4 ---
+2 
+Series 5B/C Valve Status Monitor AS-i
+Installation, Operation and Maintenance Manual
+1.0 INTRODUCTION
+The Bray Series 5B/C (S5B/C) Valve Status Monitor 
+(VSM) with Communication Protocol electronics 
+(CommPro) is an intelligent switchbox device that 
+provides both position feedback and diagnostic 
+information for discrete valves. It accomplishes 
+this by interfacing with a bus network, over which 
+commands can be sent and feedback can be 
+returned. Once connected to the network, the 
+Bray S5B/C VSM with CommPro becomes part of 
+a larger system, which is required to ensure proper 
+operation of the device. To refer to the elements 
+of the system, a common terminology is used 
+throughout this document, as defined below. 
+Definition of Terms
+•	 CommPro – Bray S5B/C Valve Status Monitor 
+with AS-i Communication Protocol module
+•	 Valve – Discrete valve being monitored by the 
+CommPro module
+•	 Process Controller – Device acting as the 
+network master that communicates with the 
+S5B/C via the CommPro module. 
+2.0 DESCRIPTION OF OPERATION
+The function of the CommPro is to monitor the 
+state of mechanical switches operated by a rotating 
+cam shaft internal to the VSM. This cam shaft is set 
+to trip the switches when the valve travel limits have 
+been reached. Operation of the valve position can 
+be controlled by the process, or the CommPro can 
+operate the valve to the travel limits using solenoid 
+valves. This operational capability, coupled with the 
+position monitoring, gives the CommPro the ability 
+to report degraded or erroneous operation to the 
+Process Controller based on calibration procedures 
+performed at the factory or on-site. 
+Every CommPro has been designed to communicate 
+using a specific communication protocol, designated 
+by the part number. 
+•	 AS-i: 5B-0000-77601-536
+ 
+If CommPro is installed in S5C VSM, refer to S5C 
+IOM for additional requirements.
+NOTICE
+Operating the CommPro outside the operational 
+constraints defined in this manual may impair the 
+protection provided by the equipment.
+3.0 HARDWARE DESCRIPTION
+•	 One terminal strip (11 terminals) for field 
+connections
+•	 Two terminal strips (4 terminals each) for factory 
+wiring of position switches
+•	 LED User Interface
+•	 Red and green AS-i LEDs
+•	 Bi-color Red/Blue Product Status LED
+•	 Bi-color Red/Green Open/Close Position LED
+•	 Parameter switches
+•	 Calibration switch
+3.1 Field Connection Terminals
+Each CommPro has 11 terminals dedicated to field 
+connections. These terminals are where the bus 
+connections are made, where external power is 
+provided (if needed), and the load connections are 
+terminated.
+Figure 1: Field wiring of the CommPro
+
+--- page 5 ---
+3
+Series 5B/C Valve Status Monitor AS-i
+Installation, Operation and Maintenance Manual
+3.1.2 AS-i Connections
+The CommPro can be provided with a 4-pin AS-i 
+M12 connector. This connector is factory terminated 
+at the field terminals, so additional wiring is not 
+required. 
+Figure 2: AS-i Male M12 Connector
+3.1.3 Power Supply 
+For AS-i, power is provided to the CommPro via 
+the communication bus connections. However, due 
+to current limitations, the most current that can 
+be drawn from the AS-i bus connection is 300mA. 
+Exceeding this current limit will result in a fault 
+state. If more current is needed for the load(s), then 
+an external power connection is required.  
+If used, the power supply must provide 24VDC ± 
+10%, and must power the CommPro module along 
+with any load connections. If the maximum output 
+load is needed (13.8W), then the power supply 
+should be able to supply at least 750mA. Since 
+this is a DC connection, it is important that proper 
+polarity is maintained when making this connection. 
+3.1.4 Load Connections
+The CommPro is designed to operate up to two 
+inductive loads at 24VDC. The product was 
+specifically designed and tested to operate two 
+6.9W solenoid valves; however, any resistive or 
+inductive load of equal or lesser wattage could be 
+operated from this connection.
+Each load connection has a wattage limit of 6.9W, 
+and the CommPro has a total wattage limit of 
+13.8W. Exceeding these limits will result in a fault 
+state. All loads are operated discretely (on/off) 
+using 24VDC. Since these are DC connections, it is 
+important that proper polarity is maintained when 
+making these connections.
+3.2 Factory Connection Terminals
+Two terminal strips, located on the opposite 
+side of the CommPro from the field connection 
+terminals, are provided for making factory installed 
+terminations. It is at these terminals that the 
+position monitoring switches are connected. 
+Figure 3: Factory wiring of the CommPro module
+3.2.1 Limit Switches
+The switches attached to this terminal strip have 
+been set at the factory to be engaged when 
+the travel limits have been reached, fully open 
+and fully closed. The CommPro relies on this 
+position feedback to report position to the Process 
+Controller. If the switches are not being engaged at 
+the fully open and close positions, the cams on the 
+indicator shaft should be adjusted to ensure proper 
+operation. If both switches are engaged at the same 
+time, a fault state will occur. 
+3.2.2 Optional Auxiliary Switches
+Auxiliary switches allow for custom indication to be 
+provided to the Process Controller. The cams that 
+engage the auxiliary switches can be positioned to 
+any position desired in the field, as these switches 
+do not affect standard operation of the CommPro.
+3.3 LED Description
+3.3.1 AS-i Indictators
+Red and green LEDs indicate the status of AS-i 
+communication. These LEDs can be referenced 
+if there are issues establishing communication 
+between the Process Controller and the S5B/C AS-i. 
+LEDs off
+No power applied
+Green LED on, 
+Red LED off
+Normal data communication
+Green LED on, 
+Red LED on
+Possible issues
+- Slave is waiting for address 
+assignment
+- Cyclic data exchange not 
+detected
+Green LED on, 
+Red LED flashing
+Periphery fault active 
+
+--- page 6 ---
+4 
+Series 5B/C Valve Status Monitor AS-i
+Installation, Operation and Maintenance Manual
+3.3.2 Product Status
+The bi-color (Red/Blue) LED indicates normal 
+operation by cycling the blue LED on and off every 
+second. In the event of a fault state, the indicator 
+will alternate between red and blue every second. 
+To clear the fault state, the Calibration Switch must 
+be pressed to retest any load connections. 
+The possible faults that can occur are:
+•	 Limit Switch Fault – Both limit switches engaged 
+at the same time
+•	 Solenoid Overload – One of the load connections 
+is drawing too much current
+•	 VSM Overload – The total output load is too 
+large for the CommPro
+3.3.3 Open/Close
+The bi-color (Red/Green) LED indicates the current 
+position of the VSM, based on the limit switch state. 
+When in the open position, the green LED is on; 
+when in the close position, the red LED is on. 
+3.4 User Switches
+3.4.1 Calibration Switch
+Switch that enters the CommPro into an automated 
+test of its output connections. Both outputs are 
+individually and quickly cycled (< 0.1s on time), 
+which allows for the power draw of each load to be 
+measured. In the event of excessive power draw at 
+one or both load connections, a fault state will be 
+entered.
+If a fault state is active, then the Calibration Switch 
+should be pressed for the load(s) to be retested. This 
+ensures that the fault condition has been corrected 
+by the user. 
+4.0 AS-I INTERFACE
+4.1 Configuration
+When connecting the CommPro to an AS-i network, it must be assigned a unique address by the Process 
+Controller. The Process Controller can identify the CommPro as an unassigned slave, and address assignment 
+will either occur automatically or will have to be performed manually by the user, dependent on the 
+capabilities of the Process Controller. The address that can be assigned to the CommPro ranges from 1A to 
+31A and 1B to 31B, for a maximum slave count of 62. 
+4.2 Communication
+Once the CommPro has been configured by the Process Controller, data transmission can begin. Data is 
+sent in data arrays that contain command and status information relevant to the control of the product. The 
+CommPro has a 4-bit input array and a 4-bit output array. The input data array contains the states of the 
+switches within the CommPro, indicating valve position, and the output data array sets the valve position.  
+Input Data Array
+Bit 3
+Bit 2
+Bit 1
+Bit 0
+Auxiliary Switch 2
+Auxiliary Switch 1
+Limit Switch Open
+Limit Switch Close
+1 – Switch Engaged 
+0 – Switch Disengaged
+1 – Switch Engaged 
+0 – Switch Disengaged
+1 – Switch Engaged 
+0 – Switch Disengaged
+1 – Switch Engaged 
+0 – Switch Disengaged
+Output Data Array
+Bit 3
+Bit 2
+Bit 1
+Bit 0
+N/A
+N/A
+Load 2
+Load 1
+1 – Load 2 On 
+0 – Load 2 Off
+1 – Load 1 On 
+0 – Load 1 Off
+
+--- page 7 ---
+5
+Series 5B/C Valve Status Monitor AS-i
+Installation, Operation and Maintenance Manual
+5.0 QUICK START GUIDE
+1.	If installation of the CommPro is required, follow 
+the Installation Instructions. 
+2.	Apply power to the AS-i network. The CommPro 
+will individually illuminate the Product Status 
+and Open/Close LEDs as part of the initialization 
+procedure. Initialization is complete once the 
+Product Status LED starts flashing. 
+3.	The green AS-i LED should be on and solid (not 
+flashing). This indicates that AS-i network power 
+is present.
+4.	Using the AS-i master, assign the CommPro an 
+address on the bus. The red AS-i LED should 
+turn off, showing that data communication is 
+occurring with the Process Controller. 
+5.	Press the Calibration switch to detect the state of 
+the connected output loads.
+6.	Product is ready for service.  
+6.0 INSTALLATION INSTRUCTIONS
+1.	Before beginning installation of the electronics 
+package, install all external cabling at the conduit 
+entries for the Bray VSM enclosure. Unused 
+conduit entries should retain the supplied plugs. 
+2.	Install all ground wires to the Bray VSM enclosure 
+supplied ground screw(s). 
+3.	Install the supplied electronics package mounting 
+bracket using the supplied mounting hardware, 
+e.g. flathead screws.
+4.	Orient the electronics package such that the 11 
+terminals are orientated towards the front of the 
+Bray VSM. 
+Figure 4: Correct orientation of the electronics 
+ package relative to Bray VSM and mounting bracket
+5.	Align the side slot on the electronics package 
+with the notch on the mounting bracket, based 
+on the Bray VSM (5B or 5C) that it is being 
+installed in. 
+Figure 5: Alignment of appropriate slot
+6.	Pitch the electronics unit during installation to 
+engage the horizontal slot on the electronics 
+package with the non-adjustable hook of the 
+mounting bracket. 
+Figure 6: Pitching of the electronics package  
+to begin installation
+7.	Push down on the electronics package to snap it 
+into place on the mounting bracket.
+Figure 7: Push down on electronics package until 
+the slider hook snaps in place
+8.	Mate all required wire terminations based on the 
+provided wiring diagram. 
+
+--- page 8 ---
+6 
+Series 5B/C Valve Status Monitor AS-i
+Installation, Operation and Maintenance Manual
+3
+4
+1
+2
+5
+7.0 EXPLODED VIEW DRAWINGS
+7.1 Exploded View - 5B
+ITEM
+PART NUMBER
+DESCRIPTION
+QTY
+1
+5B0000-77601536
+CommPro Assembly, AS-i
+1
+2
+075303-72105534
+Screw, Flat Head, X-Drive
+2
+3
+5B0000-23500536
+Commpro Adapter Assembly
+1
+4
+5B0000-73306533
+Commpro Certification Label, Mylar
+1
+5
+5B0000-73304533
+Commpro Serial Tag, Mylar
+1
+ALTERNATIVE COMPONENTS
+1
+5B0000-77600536
+CommPro Assembly, DeviceNet
+1
+1
+5B0000-77602536
+CommPro Assembly, Profibus-DP
+1
+
+--- page 9 ---
+7
+Series 5B/C Valve Status Monitor AS-i
+Installation, Operation and Maintenance Manual
+ITEM
+PART NUMBER
+DESCRIPTION
+QTY
+1
+5B0000-77601536
+CommPro Assembly, AS-i
+1
+2
+5B0000-73306533
+CommPro Certification Label, Mylar
+1
+3
+075303-72105534
+Screw, Flat Head, X-Drive, M3x0.5x5mm
+2
+4
+5B0000-23500536
+CommPro Adapter Assembly
+1
+5
+5B0000-73304533
+CommPro Serial Tag, Mylar
+1
+ALTERNATIVE COMPONENTS
+1
+5B0000-77600536
+CommPro Assembly, DeviceNet
+1
+1
+5B0000-77602536
+CommPro Assembly, Profibus-DP
+1
+7.1 Exploded View - 5C
+
+--- page 10 ---
+8 
+Series 5B/C Valve Status Monitor AS-i
+Installation, Operation and Maintenance Manual
+8.0 TECHNICAL SPECIFICATIONS
+Mechanical
+Electronics Enclosure Material
+PC/ABS Blend
+Mounting Bracket Material
+Glass-filled Nylon
+Dimensions with bracket
+3.05” x 2.53” x 1.43” [77.5 x 64.3 x 36.3mm]
+Dimensions w/o bracket
+2.73” x 2.53” x 1.21” [69.3 x 64.3 x 30.7mm]
+Weight
+Max 3.5 oz [100g]
+Terminals
+Wire Gauge
+26-16 AWG [0.13-1.31 mm2]
+Torque Limit
+3.5 in-lbs [15.6 N]
+Temperature Rating
+-13 to 149°F [25 to 65°C]
+Installation
+Designed for use within Bray VSMs
+Switch connections
+Only switches approved for use within Bray VSMs should be used with 
+the product
+Electrical
+Input Voltage
+24 VDC ± 10%
+Power Consumption
+16 W Max
+Load(s)
+24 VDC Solenoids
+# of Load Connections
+2 Max
+Load Switch
+Solid-State (NMOS Open-Drain)
+Load Limit
+6.9 W per load
+13.8 W max
+LED Wavelengths
+Red
+630 nm
+Green
+550 nm
+Blue
+470 nm
+
+--- page 11 ---
+
+--- page 12 ---
+All statements, technical information, and recommendations in this 
+bulletin are for general use only. Consult Bray representatives or factory 
+for the specific requirements and material selection for your intended 
+application. The right to change or modify product design or product 
+without prior notice is reserved. Patents issued and applied for worldwide.
+Bray® is a registered trademark of BRAY INTERNATIONAL, Inc.
+© 2019 Bray International. All rights reserved.
+IOM-S5B VSM COMM PRO_ASi_EL_03_14_2019
+HEADQUARTERS
+Bray International, Inc.
+13333 Westland East Blvd.
+Houston, Texas 77041
+Tel: 281.894.5454
+bray.com
+THE HIGH PERFORMANCE COMPANY
+BRAY INTERNATIONAL 
+PRIMARY SALES AND SERVICE LOCATIONS
+USA 
+Houston, Texas
+CHINA 
+Hangzhou, Zhejiang
+MEXICO 
+Zapopan, Jalisco
+RUSSIA 
+Moscow
+AFRICA 
+Johannesburg
+COLOMBIA 
+Bogotá
+MIDDLE EAST 
+Dubai
+SINGAPORE 
+Ubi Techpark
+BENELUX 
+Heerhugowaard
+FRANCE 
+Voiron
+PACIFIC 
+Melbourne, Australia
+SOUTH KOREA 
+Seoul
+BRAZIL 
+Paulinia, Sao Paulo
+GERMANY 
+Krefeld
+PERU 
+Lima
+SOUTHEAST ASIA 
+Malaysia
+CANADA 
+Montreal
+INDIA 
+Chennai
+POLAND 
+O´swi¸ecim
+UNITED KINGDOM 
+Glasgow
+CHILE 
+Santiago
+ITALY 
+Milano
+FLOW-TEK
+RITE CORPORATION
+AMRESIST
+KUGELHAHN MÜLLER
+USA 
+Houston, Texas
+CANADA 
+Montreal
+USA 
+Houston, Texas
+GERMANY 
+Krefeld
+BRAZIL 
+Paulinia, Sao Paulo
+VALVTRONIC
+CHINA 
+Hangzhou, Zhejiang
+ARGENTINA 
+Buenos Aires

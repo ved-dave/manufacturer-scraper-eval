@@ -1,0 +1,201 @@
+--- page 1 ---
+bray.com
+Series 5B/C Valve Status Monitor CommPro
+All information herein is proprietary, confidential, and may not be copied or reproduced without the expressed written consent of BRAY INTERNATIONAL, Inc.
+The technical data herein is for general information only. Product suitability should be based solely upon customer’s detailed knowledge and experience with their application.
+- 1 -
+DIMENSIONS
+•	 3 Industrial Communication Protocols available
+•	 Circuit board and terminals protected by plastic enclosure
+FEATURES
+•	 Dual solenoid capable
+•	 Easy configuration
+TECHNICAL DATA
+2.52"
+1.21"
+2.73"
+AS-i
+DeviceNet™
+Profibus DP
+General Specifications
+Electronics Enclosure Material
+PC/ABS Blend
+Mounting Bracket Material
+Glass-filled Nylon
+Wire Gauge
+26-16 AWG [0.13-1.31 mm2]
+Torque Limit
+3.5 in-lbs [15.6 N]
+Temperature Rating
+-13 to 149°F [-25 to 65°C]
+Installation
+Designed for use within Bray VSMs
+Switch connections
+Only switches approved for use within Bray VSMs should be used with the product.
+Electrical Specifications
+Input Voltage
+24 VDC ± 10%
+Power Consumption
+16 W Max
+Load(s)
+24 VDC Solenoids
+# of Load Connections
+2 Max
+Load Switch
+Solid-State (NMOS Open-Drain)
+Load Limit
+6.9 W per load
+13.8 W max
+Protocol Features
+AS-i
+DeviceNet
+Profibus DP
+Communication status LED
+✔
+✔
+✔
+Product status LED
+✔
+✔
+✔
+VSM Open/Close LED
+✔
+✔
+✔
+Baud Rate LED
+–
+✔
+–
+Node Address Display
+–
+✔
+✔
+Address Range‡
+1A-31A
+1B-31B
+0-63
+0-126
+Protocol Version
+V3.0
+Ed. 1.14
+DP-V0
+Power via BUS connection
+✔
+✔
+–
+External Power Supply*
+24VDC ± 10%
+At least 750 mA, if maximum output load (13.8W) is needed
+‡Default address for the Protocol Module is bolded. AS-i does not have a default address.
+*External power is optional for AS-I and DeviceNet; however, it is recommended if more than 300mA will be drawn from the bus connection.
+INTERCONNECT KITS
+Protocol
+Imperial
+Metric
+DeviceNet
+5B0000-23600536
+5B0000-23650536
+AS-i
+5B0000-23601536
+5B0000-23651536
+Profibus DP*
+5B0000-23602536
+5B0000-23652536
+5B0000-23603536
+5B0000-23653536
+NOTE: 536 at the end of part number represents standard material (Nickel-Plated Brass). For Stainless Steel, use code 534 instead.
+All protocol kits have a male receptacle for bus connection. 
+*Optional kit for Profibus DP contains both a male and a female receptacle.
+Rev. 10_2020
+
+--- page 2 ---
+Series 5B/C Valve Status Monitor CommPro
+All statements, technical information, and recommendations in this bulletin are for general use only. Consult Bray 
+representatives or factory for the specific requirements and material selection for your intended application. The 
+right to change or modify product design or product without prior notice is reserved. Patents issued and applied 
+for worldwide.
+Bray® is a registered trademark of Bray International, Inc.
+© 2019 Bray International. All rights reserved.	
+TM-1093_EL_Series 5B/C VSM_CommPro_10_2020
+HEADQUARTERS
+Bray International, Inc.
+13333 Westland East Blvd.
+Houston, Texas 77041
+Tel: 281.894.5454
+bray.com
+AS-i
+DeviceNet
+Profibus
+FIELD CONNECTIONS
+1 = BROWN (+ VOLTAGE)
+2 = N/C
+3 = BLUE (– VOLTAGE)
+4 = N/C
+4
+3
+2
+1
+1 = N/C
+2 = GREEN (BUS_A)
+3 = N/C
+4 = RED (BUS_B)
+5 = BARE (SHIELD)
+4
+5
+3
+2
+1
+5
+4
+3
+2
+1
+1 = GRAY 
+(SHIELD)
+2 = RED 
+(+VOLTAGE)
+3 = BLACK 
+(–VOLTAGE)
+4 = WHITE 
+(CAN_H)
+5 = BLUE 
+(CAN_L)
+5X000X-126X X XXX
+Thread Type
+0
+Imperial  
+5
+Metric
+Module Option
+M
+DeviceNet
+N
+AS-i
+P
+Profibus DP
+Switch 
+Configuration
+2
+2 Mechanical 
+Switches
+4
+4 Mechanical 
+Switches, 
+Independent
+Body Material
+536
+Polyester coated 
+die-cast aluminum
+517
+Engineered resin*
+*5B housing only
+PART NUMBERING SYSTEM
+Housing Size
+B
+Type 4, 4X, IP66/67
+Max 4 Switches 
+C
+Type 4, 4X, IP66/67/68
+Max 4 Switches  
+Note: 2 pair cable recommended
+(1 pair for signal and 1 pair for power)

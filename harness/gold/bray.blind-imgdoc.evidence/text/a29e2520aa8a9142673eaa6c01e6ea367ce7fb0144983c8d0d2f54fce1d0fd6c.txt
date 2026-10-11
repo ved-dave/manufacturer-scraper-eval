@@ -1,0 +1,141 @@
+--- page 1 ---
+_
+© 2020 BRAY INTERNATIONAL. ALL RIGHTS RESERVED. BRAY.COM
+DG_1078_EL_CTRLS_HAZ_LOC_2020_03
+NEC 500
+PROBABILITY OF HAZARDOUS MATERIAL
+DIVISION 1
+DIVISION 2
+Explosive atmosphere  
+is continually or likely 
+present.
+Explosive 
+atmosphere 
+is not likely 
+present.
+NATURE OF HAZARDOUS MATERIAL
+CLASS I — GASES & VAPORS
+DIVISION 1
+DIVISION 2
+GROUP A | Acetylene
+GROUP B | Hydrogen
+GROUP C | Ethylene
+GROUP D | Propane
+CLASS II — DUST
+DIVISION 1
+DIVISION 2
+GROUP E | Metal Dusts
+GROUP F | Carbon-based Dusts
+GROUP G | Non-conductive Dusts
+CLASS III — FIBERS & FLYINGS
+HAZARDOUS LOCATION CLASSIFICATIONS
+CONTROLS FOR  
+HAZARDOUS LOCATIONS
+ATEX / IECEx
+PROBABILITY OF HAZARDOUS MATERIAL
+ZONE 0 / 20
+ZONE 1 / 21
+ZONE 2 / 22
+Explosive 
+atmosphere 
+is continually 
+present.
+Explosive 
+atmosphere 
+is likely 
+present.
+Explosive 
+atmosphere 
+is not likely 
+present.
+NATURE OF HAZARDOUS MATERIAL
+G — GASES & VAPORS
+ZONE 0
+ZONE 1
+ZONE 2
+IIC | Acetylene & Hydrogen
+IIB+H2 | Hydrogen
+IIB | Ethylene
+IIA | Propane
+D — DUST
+ZONE 20
+ZONE 21
+ZONE 22
+IIIC | Conductive Dusts
+IIIB | Non-conductive Dusts
+IIIA | Fibers
+TYPICAL HAZARDOUS GASES & VAPORS APPLICATION
+ZONE 0
+ZONE 1
+ZONE 2
+ALTERNATE NORTH AMERICA CLASSIFICATION — NEMA
+TYPE 7 | Enclosures constructed for indoor use in hazardous (classified) locations classified as 
+Class I, Division 1, Groups A, B, C, or D as defined in NFPA 70.
+TYPE 9 | Enclosures constructed for indoor use in hazardous (classified) locations classified as 
+Class II, Division 1, Groups E, F, or G as defined in NFPA 70.
+EXPLOSION PROOF PRODUCTS1
+Contains Explosion (Ex d)
+SERIES 70 
+ELECTRIC ACTUATOR
+NEC 
+CLASS I DIV 1 C,D
+CLASS II DIV 1 E,F,G
+SERIES 6A
+POSITIONER
+NEC 
+CLASS I DIV 1 A,B,C,D
+CLASS II/III DIV 1 E,F,G
+ATEX/IECEx 
+G ZONE 1 IIC
+D ZONE 22 IIIC
+SERIES 5C 
+VALVE STATUS MONITOR
+NEC
+CLASS I DIV 1 A,B,C,D
+CLASS II DIV 1 E,F,G
+ATEX/IECEx
+G ZONE 1 IIB+H2
+D ZONE 21 IIIC
+SERIES 63 
+SOLENOID
+NEC
+CLASS I DIV 1 A,B,C,D
+CLASS II DIV 1 E,F,G
+INTRINSICALLY SAFE PRODUCTS1,2
+Energy Limited (Ex ia)
+SERIES 6A 
+POSITIONER
+NEC
+CLASS I DIV 1 A,B,C,D
+ATEX/IECEx
+G ZONE 1 IIC
+D ZONE 21 IIIC
+SERIES 5A / 5B
+VALVE STATUS MONITOR
+NEC 
+CLASS I DIV 1 A,B,C,D
+CLASS II/III DIV 1 E,F,G
+ATEX/IECEx 
+G ZONE 0 IIC
+SERIES 60 
+SOLENOID
+NEC
+CLASS I DIV 1 A,B,C,D
+CLASS II DIV 1 E,F,G
+SERIES 54 
+PROXIMITY SENSOR
+NEC
+CLASS I DIV 1 A,B,C,D
+CLASS II DIV 1 E,F,G
+ATEX/IECEx 
+G ZONE 0 IIC
+NON-SPARKING PRODUCTS1
+No Arcs/Sparks (Ex nA)
+SERIES 54 
+PROXIMITY SENSOR
+ATEX/IECEx
+G ZONE 2 IIC
+D ZONE 22 IIIC
+NOTES:
+1	 For full rating specifications, see product literature.
+2	 Order with appropriate intrinsically safe barrier.
