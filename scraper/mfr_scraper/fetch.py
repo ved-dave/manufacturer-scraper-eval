@@ -16,7 +16,7 @@ from urllib.parse import urlsplit
 import requests
 
 from .robots import Robots
-from .settings import AGENT_NAME, CACHE_DIR, MAX_BYTES, MIN_DELAY_PER_HOST, REQUEST_TIMEOUT, USER_AGENT
+from .settings import AGENT_NAME, CACHE_DIR, DOWNLOAD_DEADLINE, MAX_BYTES, MIN_DELAY_PER_HOST, REQUEST_TIMEOUT, USER_AGENT
 
 
 @dataclass
@@ -121,11 +121,14 @@ class Fetcher:
                 body = b''
                 if method == 'GET':
                     cap = MAX_BYTES.get(kind, MAX_BYTES['other'])
-                    chunks, size = [], 0
+                    chunks, size, started = [], 0, time.monotonic()
                     for chunk in r.iter_content(65536):
                         size += len(chunk)
                         if size > cap:
                             raise ValueError(f'body exceeds {cap} bytes')
+                        if time.monotonic() - started > DOWNLOAD_DEADLINE:
+                            r.close()
+                            raise ValueError(f'download exceeded {DOWNLOAD_DEADLINE}s')
                         chunks.append(chunk)
                     body = b''.join(chunks)
                 resp = Response(url, r.url, r.status_code, {k.lower(): v for k, v in r.headers.items()}, body)

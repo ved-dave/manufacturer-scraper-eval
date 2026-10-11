@@ -220,3 +220,31 @@ class TestGrouping(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
+
+
+class TestDownloadDeadline(unittest.TestCase):
+    def test_trickling_download_is_abandoned(self):   # crane cold run hung on one stalled response
+        import tempfile
+        from pathlib import Path
+        from unittest import mock
+        from mfr_scraper import fetch as F
+        from mfr_scraper.robots import Robots
+
+        class Slow:
+            url, status_code, headers = 'https://x.example/a.pdf', 200, {'Content-Type': 'application/pdf'}
+            def iter_content(self, n):
+                while True:
+                    yield b'x'
+            def close(self):
+                pass
+
+        with tempfile.TemporaryDirectory() as tmp, mock.patch.object(F, 'CACHE_DIR', Path(tmp)), \
+                mock.patch.object(F, 'DOWNLOAD_DEADLINE', 0):
+            f = F.Fetcher('deadline-test', log=lambda *a: None)
+            f._robots['https://x.example'] = Robots('', F.AGENT_NAME)
+            f._wait = lambda *a: None
+            f.session = mock.Mock(request=mock.Mock(return_value=Slow()))
+            r = f.get('https://x.example/a.pdf', kind='pdf')
+        self.assertFalse(r.ok)
+        self.assertIn('download exceeded', r.error)
+        self.assertEqual(f.session.request.call_count, 1)
