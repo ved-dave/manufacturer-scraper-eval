@@ -158,3 +158,33 @@ Blind choices adopted: 2-page Technical (Sales) Manuals (TM-109x) and protocol d
   - V2. 746HP applications: "Power" names no term (it is not "power generation"), so value ["mining", "power generation", "chemical"] → ["mining", "chemical"], page alt ["wastewater", "mining", "power generation", "chemical"] → ["wastewater", "mining", "chemical"], "Power" added to `applications_other`; still `conflict` (the page adds Wastewater). Supersedes the "Power" mapping in #16.
   - Checked, unchanged: "Water & Wastewater"/"Steam Distribution"/"Upstream Oil and Gas"/"Chemical Processing"/"Pulp and Paper Liquor"/"Power Generation" name their terms; "Double Flanged" → flanged, "Buttweld" → butt weld, "Lugged" → lug; RTJ and 746HP "Solid Flange / Double Flange" body figures stay in `end_connections_other` (#17); no variant `spec_overrides` carry these fields.
 - **Other:** Tri Lok `standards` `cross_check` conflict → **refines**: the data sheet's list contains every item of the page's list and more (SPEC 6a; was the validator's only warning).
+
+
+## Consistency pass (SPEC changes of 2026-10-11)
+
+Format: family | field | before -> after | paragraph. All 15 labelled families re-checked against saved evidence (no live fetch needed).
+
+- series-5000-6000 | standards (sheet list) | MSS SP-72 -> MSS-SP 72 | SPEC 6 Standards scope (spelling as written, 878f517)
+- series-5000-6000 | standards (page list) | MSS SP-72 -> MSS-SP 72 | SPEC 6 Standards scope (spelling as written, 878f517)
+- series-1b | standards (sheet list) | NACE MR0175 -> NACE MR-0175 | SPEC 6 Standards scope (spelling as written, 878f517)
+- tri-lok | standards (sheet list) | EN 12266-1 -> EN12266-1 | SPEC 6 Standards scope (spelling as written, 878f517)
+- tri-lok | standards (page list) | EN 12266-1 -> EN12266-1 | SPEC 6 Standards scope (spelling as written, 878f517)
+- series-5000-6000 | standards (page list, alt) | ['ASME B16.34', 'MSS-SP 72', 'API 598', 'ASME B1.20.1', 'ASME B16.11'] -> ['ASME B16.34', 'MSS-SP 72', 'API 598', 'ASME B1.20.1', 'ASME B16.11', 'ISO 5211'] | SPEC 6 Standards scope
+- series-1b | standards (page list) | ['API 6D', 'ASME B16.34', 'API 598', 'ASME B16.10', 'ISO 15848-2'] -> ['API 6D', 'ASME B16.34', 'API 598', 'ASME B16.10', 'ISO 15848-1', 'ISO 15848-2', 'ISO 5211'] | SPEC 6 Standards scope
+- series-1b | standards (brochure list, alt) | ['API 6D', 'ASME B16.34', 'PED 2014/68/EU', 'ASME B16.5', 'ASME B16.25', 'NACE MR-0175'] -> ['API 6D', 'ASME B16.34', 'PED 2014/68/EU', 'ASME B16.5', 'ASME B16.25', 'NACE MR-0175', 'ISO 5211', 'ISO 15848-1'] | SPEC 6 Standards scope
+- tri-lok-cx | pressure_rating | 'PN 10, PN 25, PN 40' None conflict -> 40 bar (PN 40 highest of PN 10, PN 25, PN 40) agree; page 40 bar (EN 1092-1 PN = flange drilling) moved from alt_values to sources | SPEC 6 PN and class designations
+- tri-lok | pressure_rating | 'ASME Class 150, 300, 600, 900' None agree -> 150 bar (PN150; class list kept in raw_text) agree | SPEC 6 PN and class designations
+- single-door | pressure_rating | 'ASME (125, 150, 300), DIN (PN10, 16, 25, 40)' None conflict -> 40 bar (DIN PN40 highest; classes kept in raw_text) agree; page PN (10, 16, 25, 40) moved from alt_values to sources | SPEC 6 PN and class designations
+- series-sa16-external-weight-lever | variants | ['205', '211', '212'] -> [] (205/211/212 are models of the single-door family; kept as additional_specs.models) | SPEC 3 Option codes are not variants
+- series-sa16-external-weight-lever | family_prices | absent -> [request_quote, page "Request a Quote"] | SPEC 7 Families without variants
+
+Checked, no change: SPEC 3 option codes (no suffix/option-only codes in any Bray sheet; accessory/example part numbers already excluded); SPEC 4 images and SPEC 5 doc_type/precedence (applied in gold/bray-imgdoc-consistency, re-confirmed); SPEC 6 mapping strictness and BSPT/`threaded` (no BSPT, BSP, R/Rc, G, ISO 228 or BS 2779 wording in any Bray evidence; 5000/6000 "Threaded (ASME B1.20.1 NPT)" stays `NPT`); PN flange-only rule (Series 20/21, 22/23 "EN 1092 PN 10" are flange drilling and their pressure_rating is already the stated 150 psi; Tri Lok-Cx page "EN 1092-1 PN 10 | PN 25 | PN 40" is flange drilling, page pressure is the stated 40 bar); Series 1B pressure stays class text (page gives classes only; the brochure has a P/T chart with axis labels, not a table with readable maxima).
+
+Judgement calls:
+- 746HP "Flange Drilling ... AS Table D & E, DIN-10 & 16, SANS T1000/3, SANS T1600/3" | not added to standards: these name drilling tables, not standard numbers ("one entry per standard number as written") | none.
+- 5A/5B "IP66/67, NEMA 4/4X, UL50E Salt Spray" | enclosure ratings row, not a conformity statement; not added to standards | none.
+- Tri Lok-Cx "EN 12266-1 & 2" | kept as EN 12266-1 and EN 12266-2 (shorthand split, not a spelling difference) | none.
+
+### SPEC changes made
+- `spec:` SPEC 3: model identifiers that are variants of another labelled family (e.g. valve models an accessory fits) are not the accessory's variants -> additional_specs, price status -> family_prices.
+- `spec:` SPEC 6 PN: several PNs in one source -> highest PN is the value; a pressure row with classes and PNs is recorded by its PN, classes stay in raw_text.

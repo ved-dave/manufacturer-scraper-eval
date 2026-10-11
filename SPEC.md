@@ -42,7 +42,7 @@ Language is verified from content (page/PDF text), not only the URL.
   Codes named only in notes or option lines (suffixes such as `AT` = American thread or `.PF` = press-fit,
   "bare shaft available, Fig No ...", "please add suffix ...") are options: list them in
   `additional_specs.options`, not as variants. Identifiers on a shared sheet that have their own family page on
-  the site belong to that family, not this one.
+  the site belong to that family, not this one. Likewise, model identifiers that are variants of another labelled family (e.g. the valve models an accessory fits) are not the accessory's variants; they go to `additional_specs` and its price status to `family_prices` (decided 2026-10-11).
 - SKU-level sites are grouped into families via series code, breadcrumbs, or a shared spec sheet.
 - Every document, CAD file, image, and price links to a family or variant. Unlinkable items go to
   `unlinked[]` and are reported, never silently dropped.
@@ -174,7 +174,8 @@ the same entry (decided 2026-10-11).
 pressure; the class stays in `raw_text`. Page and sheet are cross-checked on the designation they state. A PN
 that only qualifies a connection (e.g. "Drilled Flange PN 16", "flanges to EN 1092-2 PN16") describes the flange drilling:
 it stays in the `end_connections` `raw_text`, and when the same source states a working or maximum pressure, that
-pressure is the `pressure_rating` (decided 2026-10-11).
+pressure is the `pressure_rating` (decided 2026-10-11). When one source lists several PN designations (PN 10, PN 25, PN 40; PN10 to PN150), the value is the
+highest PN; a pressure row that gives both classes and PNs is recorded by its PN, the classes stay in `raw_text` (decided 2026-10-11).
 
 Every value stores: `value`, `unit` (normalized), `raw_text`, `sources[]` (each: url, type page|pdf, PDF page number, section, verbatim quote, snapshot hash, retrieval time).
 
