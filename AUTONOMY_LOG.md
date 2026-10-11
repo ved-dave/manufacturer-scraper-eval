@@ -334,3 +334,15 @@ first-pass session compares (before/after agreement) and fixes; < 80% before-fix
 
 ## 2026-10-11 04:55 · Phase 2 · Round 6 Bray result
 - Bray r6 (r5 + temperature range fix): spec accuracy 66.3 -> 67.1, everything else identical. Crane pending.
+
+## 2026-10-11 04:57 · Phase 2 · Round 8 hypothesis (round/8 in ~/wt-r8, stacked on r7)
+- Gap: crane variant recall 22% (6/27). 14 of the 21 missed gold variants belong to families whose product heading
+  is a slash-separated list of figure numbers ("F646L / F641L / ... 50mm to 200mm", "FM638 / FM639"); the pages have
+  no tables and the identifiers appear nowhere else as a list.
+- Change (general): `variants.from_name` — if the heading opens with >= 2 slash-separated tokens that each pass the
+  identifier predicate and contain both a letter and a digit, each is a variant (SPEC 3: own manufacturer
+  identifier). Used only when page identifiers and identifier tables give nothing. Series names ("Series 5000/6000",
+  "Series 20/21", "KM 20/21") don't open with identifiers and give nothing — consistent with the Bray key, where
+  such families have no variants. Tests: `TestVariantsFromHeadingList` (2).
+- Seen but not addressed: multi-family datasheets (D102B/D103B/D104B) put several part-number tables on one sheet;
+  the scraper takes all of them (variant precision 46%). Separating them needs table-to-heading layout analysis.
