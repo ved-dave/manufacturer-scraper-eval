@@ -379,6 +379,25 @@ def pairs_from_text(text):
     return out
 
 
+APPLICATION_CONTEXT = re.compile(r'\b(?:approved for|suitable for|for use (?:with|in|on)|ideal for|designed for|recommended for)\b'
+                                 r'|\bapplications?\b', re.I)
+
+
+def applications_from_text(text):
+    """SPEC 6 applications stated in sheet prose ("WRAS approved for use with potable water", "suitable for steam
+    applications"): lines that state a use, mapped to the controlled vocabulary. Returns (terms, first quote) or None."""
+    terms, quote = [], None
+    for line in text.splitlines():
+        if not APPLICATION_CONTEXT.search(line):
+            continue
+        found, _ = map_vocab(line, APPLICATION_WORDS)
+        new = [t for t in found if t not in terms]
+        if new:
+            terms += new
+            quote = quote or line.strip()
+    return (terms, quote) if terms else None
+
+
 def scan_text_for_lists(text):
     """Certifications/standards mentioned anywhere (e.g. in an approvals paragraph)."""
     out = {}
