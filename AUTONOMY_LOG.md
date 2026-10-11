@@ -208,3 +208,12 @@ first-pass session compares (before/after agreement) and fixes; < 80% before-fix
 - `gold/crane-consistency` 6848b24 merged; validator 0 errors / 15 warnings (unchanged); tests OK. Standards spelling
   (878f517): 8 changes in 7 families (e.g. `ISO 228` → `ISO-228` as printed), no cross_check change; flange-only PN
   (aecaeb9): 0. The large crane.json line diff is re-serialisation; the parsed JSON differs only in the logged values.
+
+## 2026-10-11 03:26 · Consistency pass · Bray merged; earlier rounds re-scored
+- `gold/bray-consistency` e5eb473 merged; validator 0 errors / 0 warnings; tests OK. 13 changes: SPEC 3 (SA16
+  accessory's 205/211/212 are single-door models → `additional_specs.models`, family_prices request_quote), standards
+  scope 3, PN/class 3 (Tri Lok-Cx 40 bar, Tri Lok 150 bar, Single Door 40 bar), standards spelling 5.
+- New `spec:` cb6232e (accessory pages listing another family's models; highest PN when several) → sent to the
+  sioux-chief session and to the crane/cimberio labellers (`gold/<site>-consistency2`).
+- Key changed, so every stored Bray run was re-scored on it (rule: compare rounds on the same key):
+  r1 → r2: specs 65.6 → 65.6; variant recall 0 → 27.3; price availability 0 → 62.5; all other metrics unchanged.
