@@ -384,3 +384,12 @@ first-pass session compares (before/after agreement) and fixes; < 80% before-fix
 ## 2026-10-11 05:24 · Phase 2 · Round 8 Bray result
 - Bray r8 (heading identifier lists): identical key metrics to r7, as predicted offline (no Bray heading opens with an
   identifier list; "Series 20/21"-style names give nothing). 0 errors / 23 warnings, 0 crashes. Crane pending.
+
+## 2026-10-11 05:33 · Phase 2 · Round 9 Bray offline check; Round 10 hypothesis (round/10 in ~/wt-r10, stacked on r9)
+- r9 offline: on cached Crane sheets the new temperature rows match gold on all 9 labelled families where they fire;
+  one sheet ("-10 to 130 500 13804 0.525", a merged dimension row) gave max 13804 -> extension now stops at a new
+  range or a jump > 100 degrees (test added). No Bray family without a PDF temperature has such a row.
+- r10 gap: crane applications 0% (7/7 missing); gold values come from sheet prose ("WRAS Approved for use with potable
+  water up to 85°C"). Change (general): `specs.applications_from_text` — sheet lines that state a use ("approved
+  for", "suitable for", "for use with", "designed for", "applications") mapped to the SPEC 6 vocabulary; only when
+  the sheet has no labelled applications value. Tests: `TestApplicationsFromSheetProse` (2).
