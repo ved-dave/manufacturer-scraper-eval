@@ -444,3 +444,40 @@ first-pass session compares (before/after agreement) and fixes; < 80% before-fix
   keys don't contain in enough quantity to measure a general fix (images: per-site gallery markup) or changes with
   a high risk of site-specific tuning on only two usable dev sites (Apollo and Dixon blocked). Recorded as weaknesses.
 - Final scraper state tagged `pre-final-test`. No scraper change after this point.
+
+## 2026-10-11 06:20 · Phase 4 · Final test started (once)
+- Re-read AUTONOMOUS_RUN.md §4. Code = tag `pre-final-test` (6b876e5). One run each with `--allow-holdout` on
+  sioux-chief and cimberio (the held-out sites with merged keys). Milwaukee and Caleffi have no answer key in the repo,
+  so they cannot be scored and are not run. Legacy agent scored on the same keys afterwards.
+
+## 2026-10-11 06:25 · Phase 4 · Cimberio final result (no scraper changes)
+- Run at pre-final-test: 82 requests, 0 crashes; validation 0 errors / 0 warnings; scored vs gold/cimberio.json.
+- New scraper: family recall 96.9, precision 66.0, primary doc recall 25.0 (precision 100), images 0, spec accuracy
+  34.5, completeness 42.9, variants 0, price availability 0, conflict precision 0.
+- Legacy agent (same key; specs/variants/prices/precision not scorable from its CSV): family recall 100, primary doc
+  recall 53.6, images any-version 100 (best-version 0).
+- Bugs found, described not fixed (rule): see REPORT.md §4 (shared datasheets dropped as site chrome; store/CDN host
+  documents and images skipped as off-allowlist; variants/prices live in those skipped PDFs).
+
+## 2026-10-11 15:20 · Phase 4 · Sioux Chief final result (no scraper changes)
+- Run once at pre-final-test with `--allow-holdout`: 06:19:49 → ~15:15 UTC (~8 h 55 min), ~13,000 requests
+  (6,546 pages, 635 PDFs, 5,681 images), 0 crashes. Validation with evidence: 0 errors / 0 warnings.
+- New scraper vs gold/sioux-chief.json: family recall 91.6 (precision 100, 5,634 duplicate families), primary doc
+  recall 46.4 (precision 100), secondary 90.0, doc type 75.0, CAD 14.3, images 13.5, spec accuracy 15.4, completeness
+  29.0, variants 3.4, price availability 3.4, conflict 0/8.
+- Legacy agent (same key, `test/sioux-chief/output.csv`, 15,017 rows): family 100, primary/secondary docs 100, CAD 100,
+  images 100; specs/variants/prices/precision not scorable.
+- Root cause (described, not fixed): one page per part number → one family per page. Also the main cause of the long
+  run (shared PDFs re-parsed per page; parsed PDFs are not memoised).
+
+## 2026-10-11 15:20 · Phase 4 · Read-only diagnostics (no scraper changes)
+- Legacy agent scored on dev keys (Bray, Crane) for comparison. Gap analysis: for each key asset, did our crawl see
+  it and why was it missed; 66/80 misses were seen in crawl and filtered, 9 never seen. 60 s py-spy CPU sample of the
+  Sioux Chief run: server wait ~34%, rate-limit sleep ~29%, PDF parsing ~28%. Results in REPORT.md §3-4.
+- Why: the owner asked for accuracy, speed and old-vs-new comparisons during the run; none of this changes the
+  scraper or the keys.
+
+## 2026-10-11 15:25 · Phase 5 · Report and PR
+- REPORT.md completed (plain-language summary first). Tests: scraper 46 OK (1 skipped: reportlab not installed),
+  harness 21 OK, 0 tracked symlinks. Run outputs and reports stay gitignored; numbers are in the report.
+- One PR auto/integration → main, not merged.
