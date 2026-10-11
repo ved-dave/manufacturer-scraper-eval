@@ -111,3 +111,33 @@ first-pass session compares (before/after agreement) and fixes; < 80% before-fix
 - Blind session 58603f6a… pushed `blind/cimberio` (c08c7db; validator 0 errors / 0 warnings). Per family spec
   fields / docs / CAD / images / variants: 778pvw 9/2/0/0/3, 30xlc 11/1/0/1/3, 1220nl 8/2/0/2/9, 778pvws 9/2/0/3/3,
   747nl 8/1/1/2/6, 746 10/1/1/1/3. First-pass labeller told to run stage 2 and apply the new SPEC 4/5/6 paragraphs.
+
+## 2026-10-11 02:58 · Phase 1 · Crane first pass done; blind re-label launched
+- Labeller 7a66dd43… pushed `gold/crane-auto` (408d7c1 `spec:`, e78609d gold): validator 0 errors / 15 warnings
+  (market_flag `non_na` for a UK site whose URLs have no locale prefix). Family index: sitemap 217, crawl 216, both 216,
+  sitemap-only 1 (`/product/uncategorized/commpac/`), crawl-only 0. Coverage swap D15 → FM638/FM639 (3 multi-variant
+  families). Bimstore BIM links (account needed) → crane `cad_viewer_hosts`.
+- Blind sample: f621, 257, 140, f634, d171aexs, d103b-cast-iron. Blind session
+  https://outpostai.devinenterprise.com/sessions/cb0b968126bd4643bb5b75a4458f4f20 (branch `blind/crane`).
+
+## 2026-10-11 02:58 · Phase 2 · Round 1 (baseline) — Bray only (Crane/Apollo keys not merged yet)
+- Code: auto/integration before any scraper logic change. Full Bray run; validation 0 errors / 22 warnings.
+- Scored on the updated Bray key (SPEC 4/5/6/7 consistency pass merged):
+  family recall 97.1 · precision 82.0 · primary doc recall 61.0 / precision 100 · image recall 80.5 · spec accuracy 64.8 ·
+  completeness 84.4 · variant recall 0 · price availability 0 · conflict precision 10.7.
+- Matches the AUTONOMOUS_RUN baseline within 3 points (doc recall 64 → 61 and image 82 → 80.5 are due to the key's
+  SPEC 4/5 re-check adding documents/images).
+- Run flags: price_status_without_variant 119, pdf_cap_reached 32, site_chrome_document_skipped 248, 5 product pages
+  redirect off-site.
+
+## 2026-10-11 02:58 · Phase 2 · Round 2 hypothesis — variants from identifier tables + family_prices
+- What fails: variants 0% and price availability 0%. The scraper only makes variants from schema.org SKUs or grouped
+  SKU pages; Bray lists identifiers in spec-sheet rows ("SRH Model # SRH1 SRH2 SRH3") and has no variant field for the
+  12 identifier-less "Request a Quote" families, whose status was only a flag.
+- General fix (helps an unknown manufacturer because model/part-number tables and quote-only pages are the two most
+  common ways manufacturers publish orderable items and price status): new `variants.py` reads (a) rows labelled with
+  an identifier heading (Model #, Part No., Catalog No., SKU, Order code…) followed by ≥ 2 identifiers and (b) tables
+  with an identifier column (with a size column → variant.size), from the family's pages, else its own spec sheets;
+  bare "Item"/"Part" (parts lists) and dimension tables are rejected. Page price status is attached to each variant;
+  families with no variants get `family_prices` (SPEC 7). Tests: TestVariants (3).
+- Expected: price availability 0 → ~80+ (12 family_prices + SRH variants), variant recall 0 → ~20 (SRH 3 of 14).
