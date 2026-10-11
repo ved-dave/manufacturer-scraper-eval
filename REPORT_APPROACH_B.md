@@ -279,3 +279,13 @@ Macro over the three sites: 74.60 → 74.63; no metric drops more than 2 points.
 Both runs complete and validate with 0 errors. Dixon: Cloudflare 403 on every page request; Apollo: a "Bot
 Verification" page. After 8 blocked responses the host is not asked again; every remaining item is recorded as
 blocked in the decisions log. 0 families: with only `url,url_type` there is nothing to read specs or groupings from.
+
+## 9. Bray: the 3 missed families
+
+All three product pages are in the old agent's list; our page-role rules dropped them without flagging them as unsure.
+- `series-70-hazardous-location`: dropped as "non-product section by URL". `NON_PRODUCT_WORDS` (shared with the
+  current scraper's discovery code) matches `location` as any hyphen-separated word, not only as a path section.
+- `air-release-ezi-vac`, `series-pva`: dropped as listing pages (listing score −4 outweighed 3 spec pairs and spec
+  downloads).
+Not fixed: all 4 improvement rounds were used. Both are general rule fixes (match non-product words only as whole
+path segments; let spec tables + spec downloads outweigh listing cues), worth about +3 Bray family recall.
