@@ -326,6 +326,15 @@ def pdf_candidates(doc, kind):
                 out[fld].append({'kind': kind, 'value': v, 'unit': unit, 'conditions': cond, 'raw': cells[1],
                                  'source': _spec_source(kind, doc['url'], line, doc['sha256'], doc['_retrieved_at'],
                                                         page=pg, section=cells[0])})
+    if kind == 'sheet' and 'temperature_range' not in out:
+        for line in doc['_text'].splitlines():
+            found = S.temperature_from_unit_label(line)
+            if found:
+                v, unit, quote = found
+                out['temperature_range'].append({'kind': kind, 'value': v, 'unit': unit, 'conditions': None, 'raw': quote,
+                                                 'source': _spec_source(kind, doc['url'], quote, doc['sha256'], doc['_retrieved_at'],
+                                                                        page=page_of(quote), section='temperature rating')})
+                break
     if kind == 'sheet' and 'sizes_available' not in out:
         found = S.sizes_from_tables(doc.get('_tables', []))
         if found:

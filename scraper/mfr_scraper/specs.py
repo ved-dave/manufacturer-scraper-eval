@@ -188,6 +188,38 @@ def parse_temperature(raw):
     return None
 
 
+TEMP_UNIT_LABEL = re.compile(r'(?:^|\s)((?:max(?:imum)?\.?\s+|operating\s+|working\s+|service\s+)*temp(?:erature)?\.?)\s*'
+                             r'\(\s*°?\s*([CF])\s*\)?\s*\)?\s+(-?\d.*)$', re.I)
+BARE_READING = re.compile(r'(-?\d+(?:\.\d+)?)(?:\s*(?:to|-)\s*(-?\d+(?:\.\d+)?))?')
+
+
+def temperature_from_unit_label(line):
+    """'TEMPERATURE (°C) -10 to 100 110 120' (pressure/temperature table rows): the unit is in the label only.
+
+    The row's leading reading (a range or a single value), extended by the bare readings that follow it up to the next
+    range (further temperature steps of the same rating row). Returns ({min, max}, unit, quote) or None."""
+    t = line.replace('º', '°').replace('−', '-').replace('–', '-').replace('˚', '°')
+    m = TEMP_UNIT_LABEL.search(t)
+    if not m:
+        return None
+    unit, rest = m.group(2).upper(), m.group(3)
+    readings = list(BARE_READING.finditer(rest))
+    if not readings:
+        return None
+    first = readings[0]
+    lo = float(first.group(1))
+    hi = float(first.group(2)) if first.group(2) else lo
+    for r in readings[1:]:
+        if r.group(2):
+            break
+        hi = max(hi, float(r.group(1)))
+    if lo > hi:
+        return None
+    if not first.group(2) and len(readings) == 1:
+        return {'min': None, 'max': lo}, unit, line.strip()
+    return {'min': lo, 'max': hi}, unit, line.strip()
+
+
 # SPEC 6 controlled vocabulary for end_connections: (pattern on source wording, term). Order matters.
 CONNECTION_WORDS = [
     (r'\bnptf?\b|\bf?npt\b|\bm?npt\b|\bfip\b|\bmip\b|national pipe thread|taper pipe thread', 'NPT'),

@@ -297,6 +297,23 @@ class TestVariantsFromHeadingList(unittest.TestCase):
             self.assertEqual(from_name(n), [], n)
 
 
+
+class TestTemperatureUnitInLabel(unittest.TestCase):
+    """Round 9: pressure/temperature rows carry the unit only in the label ('TEMPERATURE (°C) -10 to 120')."""
+    def test_rows(self):
+        from mfr_scraper.specs import temperature_from_unit_label as T
+        self.assertEqual(T('TEMPERATURE (°C) -10 to 100 110 120')[:2], ({'min': -10.0, 'max': 120.0}, 'C'))
+        self.assertEqual(T('TEMPERATURE (°C) -10 to 120 -10 to 82')[:2], ({'min': -10.0, 'max': 120.0}, 'C'))
+        self.assertEqual(T('5" CL125 MAX TEMPERATURE (°C) -10 to 90 -10 to 130')[:2], ({'min': -10.0, 'max': 90.0}, 'C'))
+        self.assertEqual(T('MAX TEMPERATURE (°F) 250')[:2], ({'min': None, 'max': 250.0}, 'F'))
+
+    def test_rejects(self):
+        from mfr_scraper.specs import temperature_from_unit_label as T
+        for line in ('Pressure/Temperature Ratings', 'TEMPERATURE (°C)', 'Suitable for a wide temperature range -10°C to 130°C',
+                     'Temperature sensor (C) wiring'):
+            self.assertIsNone(T(line), line)
+
+
 if __name__ == '__main__':
     unittest.main()
 
