@@ -405,3 +405,7 @@ first-pass session compares (before/after agreement) and fixes; < 80% before-fix
   one ("approved for use in fire protection" on a fittings brochure whose gold lists media); Bray single-door check
   valve gets "wastewater" (gold: chemical, power, HVAC, marine) and triple-offset sees "vacuum" from "vacuum to
   high-pressure applications". To be measured, not assumed.
+
+## 2026-10-11 05:38 · Phase 2 · Round 9 Bray result
+- Bray r9 (temperature rows with the unit in the label): identical key metrics to r8, as the offline check predicted.
+  0 errors / 23 warnings, 0 crashes. Crane r8 running, r9/r10 queued.
