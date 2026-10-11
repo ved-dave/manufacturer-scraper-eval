@@ -420,3 +420,11 @@ first-pass session compares (before/after agreement) and fixes; < 80% before-fix
 ## 2026-10-11 05:53 · Phase 2 · Round 10 Bray result
 - Bray r10 (applications from sheet prose): spec accuracy 67.1 -> 66.6, completeness 85.2 -> 85.9, conflict precision
   12.9 -> 12.5; all within the 2-point rule. 0 errors / 23 warnings, 0 crashes. Crane r9 then r10 pending.
+
+## 2026-10-11 06:04 · Phase 2 · Round 9 decision: KEPT
+| metric | bray r8 | bray r9 | crane r8 | crane r9 | macro r8 | macro r9 |
+|---|---|---|---|---|---|---|
+| spec accuracy | 67.1 | 67.1 | 56.2 | 59.6 | 61.7 | 63.4 |
+| completeness | 85.2 | 85.2 | 76.5 | 79.6 | 80.9 | 82.4 |
+| conflict precision | 12.9 | 12.9 | 20.0 | 33.3 | 16.5 | 23.1 |
+- All other key metrics identical; validation 0 errors (23 / 220 warnings); 0 crashes. Crane r10 running.
