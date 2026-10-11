@@ -29,7 +29,7 @@ Append-only. One entry per decision, round or problem. Times are UTC.
 - `.gitignore`: `*.evidence/files/` → `**/*.evidence/files/` (the old root-anchored pattern missed
   `harness/gold/*.evidence/files/`, HARNESS_ISSUES sioux-chief #1 / bray #5) and `*.zip` (Rule 9).
 
-## 2026-10-11 03:00 · Phase 1 · Labelling sessions launched (labeller role, separate sessions)
+## 2026-10-11 02:30 · Phase 1 · Labelling sessions launched (labeller role, separate sessions)
 Each child works from `auto/integration`, never opens `scraper/`/runs/reports, pushes its own branch; the
 orchestrator merges. First-pass labellers stop after the first pass with the 6 blind families
 (`random.Random(42).sample(sorted(15 family_ids), 6)`), then a separate blind session re-labels them, then the
@@ -47,7 +47,7 @@ first-pass session compares (before/after agreement) and fixes; < 80% before-fix
 - From here this session takes the engineer role and opens `scraper/` for the first time (labelling now runs only
   in the separate sessions above).
 
-## 2026-10-11 03:10 · Phase 2 setup · Generality test + crash isolation (engineer role)
+## 2026-10-11 02:32 · Phase 2 setup · Generality test + crash isolation (engineer role)
 - Read `scraper/README.md` and the pipeline for the first time (all labelling runs in separate sessions).
 - Added `TestGenerality` (rule 4): fails if any of bray, crane, cranefs, sioux, apollo, aalberts, compano, caleffi,
   cimberio, milwaukee, dixon appears (case-insensitive) in `scraper/mfr_scraper/*.py`. It failed on 9 lines —
@@ -58,3 +58,14 @@ first-pass session compares (before/after agreement) and fixes; < 80% before-fix
   one family (`family_crashed`) is flagged with the URL + exception and logged with a traceback, and the run continues.
   Unit test `TestCrashIsolation`. No metric effect expected (infrastructure, not a scored round).
 - Round 1 (baseline) Bray run started in the background with the cold cache (1 req/s).
+
+## 2026-10-11 02:37 · Phase 1 · Sioux Chief vocabulary pass merged
+- Session da2097dc… pushed `gold/sioux-chief-vocab` (000e486 `spec:` + b744a12 gold). Merged into auto/integration (4f13cc3).
+- Orchestrator (now in the engineer role) did **not** open `gold/sioux-chief.json`; it merged by git, read only the
+  SPEC.md diff, and ran the gold validator (0 errors, 8 warnings — the known sibling-product near-duplicate image pairs)
+  and harness tests (OK). The child's summary message listed the source-wording → term mapping table (vocabulary only).
+- SPEC change: SPEC 6 "Mapping strictness" (no context-derived vocabulary terms; hub vs prose joining method;
+  slash-separated alternatives record each; fields with no mappable wording are omitted, kept in `*_other`).
+  Applies to all sites → consistency pass (Crane/Apollo/Cimberio labellers are told to pull SPEC from auto/integration
+  before finalising; Bray is re-checked in the consistency pass together with SPEC 7 `family_prices`).
+- No blind re-label (mechanical mapping, sources unchanged), as decided.
