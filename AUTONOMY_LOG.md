@@ -285,3 +285,11 @@ first-pass session compares (before/after agreement) and fixes; < 80% before-fix
 - Fix: symlink untracked, `.gitignore` → `scraper/cache`, real cache dir recreated; test
   `TestRepoHygiene` fails if any symlink or anything under scraper/cache is tracked. Later runs re-fetch at
   1 req/s (live pages may differ slightly from the earlier rounds' fetches; noted as a comparability risk).
+
+## 2026-10-11 04:10 · Phase 2 · Round 5 hypothesis (stacked on r4: round/4 = d6df3f2 in ~/wt-r4)
+- Gap: crane price availability 16.2: 10 of 15 gold families are variant-less with `family_prices`
+  `not_published`, but the scraper only emitted `family_prices` when a status other than not_published was
+  shown. SPEC 7 says availability is always filled.
+- Change (general): every variant-less family gets `family_prices` from `family_price_page` (first page with a
+  published status, else the main page → not_published); the accessory post-pass keeps a not_published status too.
+  Test: `TestFamilyPriceAlwaysFilled`.
