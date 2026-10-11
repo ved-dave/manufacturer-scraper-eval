@@ -58,6 +58,21 @@ def from_rows(rows):
     return out if len(out) >= 2 else []
 
 
+NAME_LIST = re.compile(r'^\s*([A-Z0-9][A-Z0-9\-.]*)((?:\s*/\s*[A-Z0-9][A-Z0-9\-.]*)+)(?=\s|$)', re.I)
+
+
+def from_name(name):
+    """A product heading that opens with a slash-separated list of identifiers ("F646L / F641L / F656L 50mm to 200mm")
+    names each orderable figure (SPEC 3). Series names ("Series 20/21") do not open with identifiers and give nothing."""
+    m = NAME_LIST.match(name or '')
+    if not m:
+        return []
+    toks = [m.group(1)] + [t.strip() for t in m.group(2).split('/') if t.strip()]
+    if len(toks) < 2 or not all(_is_id(t) and re.search(r'[A-Z]', t, re.I) and re.search(r'\d', t) for t in toks):
+        return []
+    return list(dict.fromkeys(toks))
+
+
 LINE_LABEL = re.compile(r'((?:model|part|catalog|cat\.|item|order(?:ing)?|product|article|stock)\s*(?:no\.?|nos\.?|numbers?|#|codes?)'
                         r'|\bmodels?|\bskus?)\s*:?\s+((?:[A-Z0-9][A-Z0-9\-./]{1,24}[,;]?\s+){1,}[A-Z0-9][A-Z0-9\-./]{1,24})\s*$', re.I)
 

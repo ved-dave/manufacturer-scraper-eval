@@ -282,6 +282,21 @@ class TestHostsAndVocab(unittest.TestCase):
         self.assertIn('Water', unmapped)                              # plain "water" is not assumed potable
 
 
+
+class TestVariantsFromHeadingList(unittest.TestCase):
+    """Round 8: identifiers listed in the product heading are the family's orderable figures."""
+    def test_heading_lists(self):
+        from mfr_scraper.variants import from_name
+        self.assertEqual(from_name('F646L / F641L / F656L 50mm to 200mm'), ['F646L', 'F641L', 'F656L'])
+        self.assertEqual(from_name('FM638 / FM639'), ['FM638', 'FM639'])
+        self.assertEqual(from_name('D2003 / D2004 3/8" to 1"'), ['D2003', 'D2004'])
+
+    def test_series_and_singles_rejected(self):
+        from mfr_scraper.variants import from_name
+        for n in ('Series 5000/6000', 'Series 20/21', 'KM 20/21', 'D171 1/4" to 2 1/2"', 'D220W-D220CW', '3/8 / 1/2 valve', ''):
+            self.assertEqual(from_name(n), [], n)
+
+
 if __name__ == '__main__':
     unittest.main()
 
