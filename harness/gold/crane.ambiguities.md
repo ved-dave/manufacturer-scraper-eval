@@ -115,3 +115,33 @@ Gold kept (and why):
 3. Parallel BSP (ISO 228) → `threaded`, not `BSPT` (blind disagreed before the rule existed).
 4. Range-wide catalog statements (malleable brochure cover list, Kitemark/BS EN 10242) used as family sources for 140/257.
 5. Option codes (AT suffix, D933.PF, bare-shaft B figures) treated as options, not variants.
+
+## Consistency pass (SPEC changes of 2026-10-11)
+Standards source spelling (878f517): 8 changes in 7 families; cross_check unchanged everywhere (it already compared spelling-insensitively). The 140/257 catalog spellings "BS EN 10242" (thin space in the PDF) and "BS 143 & 1256" stay as before: a spacing-only difference and an abbreviated second number (recorded as BS 1256).
+PN qualifying a flange (aecaeb9): 0 changes. Checked all 15: every pressure_rating comes from a "PRESSURE RATING:" / "Pressure rating" row or a P/T table, never from a flange-drilling PN. Flange-only PNs seen (F621 "BS EN 1092-2 PN10 or PN16", F646L/FM638/F634 "between EN 1092-2 PN16 flanges") were never used as the rating; FM638 keeps the stated "25 Bar".
+
+| family | field | before -> after | paragraph |
+|---|---|---|---|
+| d933 | standards (alt_values, page) | BS EN 10226-2, ISO 7-1, BS 2779, ISO 228, DVGW, BS EN 331 -> BS EN 10226-2, ISO 7-1, BS 2779, ISO 228, DVGW, BS EN331 | SPEC 6 Standards scope: source spelling (878f517) |
+| 140 | standards | BS 21, ISO 7 -> BS21, ISO7 | SPEC 6 Standards scope: source spelling (878f517) |
+| f646l-f641l-f656l-f651l-f676l-f671l | standards | BS EN 593, BS EN 1092-2, ANSI B16.1 -> BS EN593, BS EN 1092-2, ANSI B16.1 | SPEC 6 Standards scope: source spelling (878f517) |
+| fm638-fm639 | standards | BS EN 558, BS EN 593, BS EN 12266-1, ISO 5211, BS EN 1092-2 -> BS EN 558, BS EN 593, BS EN 12266-1, ISO 5211, BS EN1092-2 | SPEC 6 Standards scope: source spelling (878f517) |
+| fm638-fm639 | standards (alt_values, page) | BS EN 1092-2 -> BS EN1092-2 | SPEC 6 Standards scope: source spelling (878f517) |
+| d103b-cast-iron | standards | ISO 228 -> ISO-228 | SPEC 6 Standards scope: source spelling (878f517) |
+| d103b | standards | ISO 228 -> ISO-228 | SPEC 6 Standards scope: source spelling (878f517) |
+| 257 | standards | BS 21, ISO 7 -> BS21, ISO7 | SPEC 6 Standards scope: source spelling (878f517) |
+| 140 | pressure_rating | unchanged | SPEC 6 PN qualifying a connection (aecaeb9) |
+| 257 | pressure_rating | unchanged | SPEC 6 PN qualifying a connection (aecaeb9) |
+| d103b | pressure_rating | unchanged | SPEC 6 PN qualifying a connection (aecaeb9) |
+| d103b-cast-iron | pressure_rating | unchanged | SPEC 6 PN qualifying a connection (aecaeb9) |
+| d171aexs | pressure_rating | unchanged | SPEC 6 PN qualifying a connection (aecaeb9) |
+| d901 | pressure_rating | unchanged | SPEC 6 PN qualifying a connection (aecaeb9) |
+| d921 | pressure_rating | unchanged | SPEC 6 PN qualifying a connection (aecaeb9) |
+| d933 | pressure_rating | unchanged | SPEC 6 PN qualifying a connection (aecaeb9) |
+| dm11 | pressure_rating | unchanged | SPEC 6 PN qualifying a connection (aecaeb9) |
+| f611 | pressure_rating | unchanged | SPEC 6 PN qualifying a connection (aecaeb9) |
+| f621 | pressure_rating | unchanged | SPEC 6 PN qualifying a connection (aecaeb9) |
+| f634 | pressure_rating | unchanged | SPEC 6 PN qualifying a connection (aecaeb9) |
+| f646l-f641l-f656l-f651l-f676l-f671l | pressure_rating | unchanged | SPEC 6 PN qualifying a connection (aecaeb9) |
+| fa648l-fa644l-fa658l-fa654l-fa678l-fa674l | pressure_rating | unchanged | SPEC 6 PN qualifying a connection (aecaeb9) |
+| fm638-fm639 | pressure_rating | unchanged | SPEC 6 PN qualifying a connection (aecaeb9) |
