@@ -7,7 +7,7 @@ scraper/cache/
 scraper/runs-dev/
 scraper/devdata/
 # downloaded PDFs/CAD/HTML are large; keep extracted text + manifest only
-*.evidence/files/
+**/*.evidence/files/
 # generated run outputs and score reports
 harness/runs/*
 !harness/runs/.gitkeep
@@ -15,3 +15,4 @@ harness/reports/*
 !harness/reports/.gitkeep
 # evidence file archives (keep outside git)
 /*-evidence-files.zip
+*.zip
