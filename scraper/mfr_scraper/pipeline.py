@@ -640,6 +640,10 @@ class SiteRun:
                 variants.append(v)
         if not variants:
             variants = self.table_variants(pages, family_docs)
+        if not variants and V.from_name(pages[0].name):
+            variants = [{'sku': sku, 'size': None, 'page_url': pages[0].url, 'prices': [self.page_price(pages[0])]}
+                        for sku in V.from_name(pages[0].name)]
+            self.flag('variants_from_heading_list', pages[0].url)
         fam['variants'] = variants
         if not variants:   # SPEC 7: a family without identifiers carries its price status itself, always filled
             fam['family_prices'] = [self.page_price(family_price_page(pages))]
