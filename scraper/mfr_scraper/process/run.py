@@ -31,7 +31,6 @@ RELATED_SECTION = re.compile(r'related|similar|you may also|also like|accessor|r
                              r'popular|recently viewed|customers also', re.I)
 CHART_IMAGE = re.compile(r'chart|graph|curve|(pressure|temp\w*|flow|loss|performance)[\s_-]*diagram', re.I)
 DIMENSION_WORDS = re.compile(r'dimension|drawing|\bdims?\b', re.I)
-SIZE_TOKEN = re.compile(r'^(?:dn|nps|pn|sch|class)\d+$', re.I)   # nominal sizes / ratings, not model codes
 DOC_SHARED_LIMIT = 10     # a document on more families than this that names none of them is not product-specific
 IMAGE_SHARED_LIMIT = 2
 PROGRESS_EVERY = 200
@@ -276,8 +275,8 @@ class ProcessRun(SiteRun):
         cand = {'url': url, 'link_text': link_text, 'section': section, 'type': kind, 'found_on': found_on}
         named = self.names_family(_filename(url), text, c.get('link_text'))
         other = self.names_other(_filename(url), text, c.get('link_text'))
-        if other and (not named or (kind == 'image' and len(other[1]) > len(named[1])
-                                    and not self.names_strongly(_filename(url), text, c.get('link_text')))):
+        if other and (not named or (len(other[1]) > len(named[1]) and not (
+                kind == 'image' and self.names_strongly(_filename(url), text, c.get('link_text'))))):
             return self.decide('asset', 'drop', f'names another family ({other[0]}: "{other[1]}")', url=url, candidate=cand)
         named = named and named[0]
         loc = N.locale_of_url(url)
@@ -295,9 +294,6 @@ class ProcessRun(SiteRun):
                 return self.decide('asset', 'keep', f'in page chrome but {named}', url=url, candidate=cand)
             return self.decide('asset', 'drop', 'in page chrome (header/footer/nav) and does not name the family', url=url, candidate=cand)
         if site_wide:
-            if kind == 'document' and in_chrome is False and section:
-                return self.decide('asset', 'keep', f'site-wide file, but linked from the page content (section "{section}")',
-                                   url=url, candidate=cand)
             if named:
                 return self.decide('asset', 'keep', f'site-wide file but {named}', url=url, candidate=cand)
             return self.decide('asset', 'drop', f'site-wide (on >{CHROME_SHARE:.0%} of pages) and does not name the family', url=url, candidate=cand)
@@ -682,8 +678,7 @@ class ProcessRun(SiteRun):
         idx = collections.defaultdict(set)
         for r in refs:
             for c in r['_codes']:
-                if not SIZE_TOKEN.match(c):
-                    idx[c].add(r['family_id'])
+                idx[c].add(r['family_id'])
         self.code_index = sorted(idx.items(), key=lambda x: -len(x[0]))
         merges = []
         for gi, ev in evidence.items():
