@@ -293,3 +293,11 @@ first-pass session compares (before/after agreement) and fixes; < 80% before-fix
 - Change (general): every variant-less family gets `family_prices` from `family_price_page` (first page with a
   published status, else the main page → not_published); the accessory post-pass keeps a not_published status too.
   Test: `TestFamilyPriceAlwaysFilled`.
+
+## 2026-10-11 04:20 · Phase 2 · Round 6 hypothesis (stacked on r5: round/5 = 5e37c4a in ~/wt-r5)
+- Gap: crane temperature accuracy 15%. Pages state "-10 - 120°C" / "-10 to 120°C" with the unit only on the upper
+  bound; `parse_temperature` only saw "- 120°C" and produced `{min: null, max: -120}` (wrong sign, lost min).
+- Change (general): a range pattern "A (-|to) B °unit" with optional signs is parsed first (only if A ≤ B); else the
+  old per-reading logic. Test: `TestTemperatureRangeUnitOnce` (6 cases incl. the unchanged formats).
+- Queued next gaps (crane): `sizes_available` never filled from size columns of dimension tables (15/15 missing);
+  PDF row "TEMPERATURE (°C) -10 to 120" not read; applications from "potable water"/"chilled water" prose.
