@@ -69,3 +69,12 @@ first-pass session compares (before/after agreement) and fixes; < 80% before-fix
   Applies to all sites → consistency pass (Crane/Apollo/Cimberio labellers are told to pull SPEC from auto/integration
   before finalising; Bray is re-checked in the consistency pass together with SPEC 7 `family_prices`).
 - No blind re-label (mechanical mapping, sources unchanged), as decided.
+
+## 2026-10-11 02:40 · Phase 1 · Bray blind image/doc_type re-label done; comparison handed to a labeller
+- Blind session edea5461… pushed `blind/bray-imgdoc` (6 families, documents + images only, never saw the Bray key).
+- Because this orchestrator now holds the engineer role (has read `scraper/`), it does not edit gold. A separate
+  labeller session (https://outpostai.devinenterprise.com/sessions/a490187bc4a1439f88014943e4a0f6ce, branch
+  `gold/bray-imgdoc-consistency`) computes before/after agreement, fixes gold, clarifies SPEC 5 if < 85%, and applies the
+  run's SPEC changes (SPEC 7 `family_prices`, SPEC 6 mapping strictness) to all Bray families.
+- Decision: the Bray consistency pass is done before Phase 2 scores are compared across rounds; rounds scored on the
+  old Bray key are re-scored on the new key so before/after numbers always use the same key.
