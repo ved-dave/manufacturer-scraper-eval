@@ -145,3 +145,12 @@ PN qualifying a flange (aecaeb9): 0 changes. Checked all 15: every pressure_rati
 | f646l-f641l-f656l-f651l-f676l-f671l | pressure_rating | unchanged | SPEC 6 PN qualifying a connection (aecaeb9) |
 | fa648l-fa644l-fa658l-fa654l-fa678l-fa674l | pressure_rating | unchanged | SPEC 6 PN qualifying a connection (aecaeb9) |
 | fm638-fm639 | pressure_rating | unchanged | SPEC 6 PN qualifying a connection (aecaeb9) |
+
+### Consistency pass 2 (SPEC commit cb6232e, 2026-10-11)
+SPEC 3 accessory pages (models of another labelled family are not the accessory's variants): 0 changes. None of the 15 families is an accessory; every variant SKU is the family's own figure number or part number (FA648L…, F646L…, FM638/FM639, D103B 0JG934xx, D103B Cast Iron), and no SKU is a variant of another labelled family.
+SPEC 6 several PNs in one source → highest PN, class+PN rows recorded by the PN: 0 changes. No pressure_rating source lists more than one PN (d933's PN16 is the page and PN25 the sheet, two sources, kept as conflict). The class+PN rows F611/F621 "PN16 / CLASS 125" and F646L… "PN16 & ANSI Class 125" are already value 16 bar with the class in raw_text. FA648L… "ANSI 125" (class only) is unchanged.
+
+| family | field | before -> after | paragraph |
+|---|---|---|---|
+| all 15 | variants / family_prices | unchanged | SPEC 3 accessory models (cb6232e) |
+| all 15 | pressure_rating | unchanged | SPEC 6 several PNs / class+PN (cb6232e) |
