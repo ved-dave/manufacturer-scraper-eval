@@ -131,6 +131,16 @@ Male/female is not recorded. A connection type counts once, even if the product 
 Record every term the source supports; do not infer a sector from a service. "Water" alone maps to
 `potable water` only if the source says potable/drinking; otherwise keep it in `applications_other`.
 
+**Mapping strictness (decided 2026-10-11).** Map source wording to a term only when it names the term or
+wording listed for it above; do not derive a term from context. Pipe or tube types a product holds,
+room or building types (kitchens, hospitals, shower areas), "fire-rated" walls/applications, and
+"hot and cold water" without potable/drinking/domestic stay in `applications_other`. For an end, map
+the connection named (`2" Sch. 40 hub` → `hub`); a joining method the sheet describes for that same
+end in prose is not a second term. Wording that lists alternatives for one end (`MSWT/Press/Push`)
+records each (`solder`, `press`, `push-fit`). If no source wording for a field maps to a term, omit the
+field from `specs` and keep the wording only in `*_other`; a source whose wording maps to no term is
+no longer a source for the field, and `cross_check` follows the remaining sources.
+
 **Single size.** A family available in one size records `size_range` with `min` = `max`.
 
 Every value stores: `value`, `unit` (normalized), `raw_text`, `sources[]` (each: url, type page|pdf, PDF page number, section, verbatim quote, snapshot hash, retrieval time).
