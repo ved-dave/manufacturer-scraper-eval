@@ -428,3 +428,19 @@ first-pass session compares (before/after agreement) and fixes; < 80% before-fix
 | completeness | 85.2 | 85.2 | 76.5 | 79.6 | 80.9 | 82.4 |
 | conflict precision | 12.9 | 12.9 | 20.0 | 33.3 | 16.5 | 23.1 |
 - All other key metrics identical; validation 0 errors (23 / 220 warnings); 0 crashes. Crane r10 running.
+
+## 2026-10-11 06:19 · Phase 2 · Round 10 decision: KEPT
+| metric | bray r9 | bray r10 | crane r9 | crane r10 | macro r9 | macro r10 |
+|---|---|---|---|---|---|---|
+| spec accuracy | 67.1 | 66.6 | 59.6 | 61.5 | 63.4 | 64.1 |
+| completeness | 85.2 | 85.9 | 79.6 | 82.7 | 82.4 | 84.3 |
+| conflict precision | 12.9 | 12.5 | 33.3 | 33.3 | 23.1 | 22.9 |
+- Macro completeness +1.9 (>= 1 point); largest single-site drop 0.5 (Bray spec accuracy) < 2; others identical;
+  validation 0 errors; 0 crashes; scraper + harness tests and the generality test pass.
+
+## 2026-10-11 06:19 · Phase 2 · STOP
+- Decision: stop engineering after 10 rounds. Rounds 2-10 all kept. Remaining gaps (Bray family precision 82%,
+  image recall ~79% on both sites, conflict precision 13-33%, Crane variants 74%) need either evidence the dev
+  keys don't contain in enough quantity to measure a general fix (images: per-site gallery markup) or changes with
+  a high risk of site-specific tuning on only two usable dev sites (Apollo and Dixon blocked). Recorded as weaknesses.
+- Final scraper state tagged `pre-final-test`. No scraper change after this point.
