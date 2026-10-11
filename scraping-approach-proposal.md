@@ -100,14 +100,50 @@ Combine their strengths: collect everything relevant, then decide item by item o
 | 0 (done) | Gap analysis: key items the legacy agent found that we missed, per site (read-only) | Know what share of misses is "filtered" vs "never seen" | < ½ session |
 | 1 | Wider dev set from the repo's sites: Sioux Chief and Cimberio move to dev (their final test is spent); Milwaukee and Caleffi get new held-out keys | Keys validate; blind re-label agreement ≥ 80% | **In progress** |
 | 2 | Layers 1+2 (Approach B PoC): process the old agent's links; evidence-based grouping and keep/drop; rejected list; speed fixes; reader ready for the enriched fields | Image and doc recall ≥ 95% on dev (Bray, Crane, Sioux Chief, Cimberio); precision drop ≤ 2 points; a ~6,000-product site in < 4 h; beats the current scraper | **In progress** |
-| 3 | Layer 3: AI model on uncertain items only, with quote verification | Spec accuracy and conflict precision up ≥ 5 points; cost per site known | 1–2 sessions |
+| 3a | Layer 3: AI model on uncertain items only, with quote verification and answer caching (self-healing Level 1) | Spec accuracy and conflict precision up ≥ 5 points; cost per site known | 1–2 sessions (later) |
+| 3b | Self-healing Levels 2–3: promote repeated AI answers to data rules; agent PRs for code-level gaps (see "Self-healing loop") | Unsure items and AI cost per site fall run over run; no dev-key metric drops | 1–2 sessions (later) |
 | 4 | Fair test on unseen sites (Milwaukee, Caleffi once they have keys) vs old agent and current scraper | Beats both on recall *and* structure | ½ session + labelling |
 
 \*Rough estimates in Devin sessions, not measured.
 
+## Self-healing loop (Phase 3, to be tested later)
+**Idea:** the AI resolves the items the rules can't decide, and what it learns is turned back into deterministic
+rules. Over time fewer items are unsure, AI cost falls, and the system stays repeatable and auditable.
+
+### Three levels, safest first
+| Level | What happens | Who/what applies it | Gate |
+|---|---|---|---|
+| **1. Resolve** | At run time, the AI answers an unsure item (e.g. "does this PDF belong to the 640 Series?") with a verbatim quote from the stored document. Answers are cached by content hash, so a question is never paid for twice. | Automatic | Quote must be found in the stored text; otherwise the item stays unsure. Cost budget per site. |
+| **2. Learn data rules** | When the AI resolves many similar items the same way, the pattern becomes a **data rule** (not code): a label synonym ("Working Press." → `pressure_rating`), a section rule ("Literature" tab → product documents), or a per-site profile entry (e.g. PDFs under one folder are named after their family). | Automatic, gated | The rule must reproduce the AI's decisions on a held-back set of its unsure items (e.g. ≥ 95% agreement) **and** change no decision that was already confident. Global rules (shared dictionaries) must also pass a regression check on the dev answer keys. Per-site rules can be promoted without keys. |
+| **3. Fix code** | Unsure items that no data rule can express (a new page layout, a new table format) are batched into a task for a coding agent, which writes the fix as a PR. | Agent PR, human review | Tests, harness validation and dev-key scores must pass; a person approves the merge. |
+
+### Guardrails
+- **Answer keys never teach.** The AI and the rule learner never see answer keys at run time; keys only measure.
+- **No quote, no answer.** Every AI decision cites verified source text.
+- **Versioned and reversible.** Every promoted rule records the AI decisions it came from and the run that promoted
+  it; any rule can be traced and rolled back. Each run records which rule versions it used.
+- **No silent overrides.** A new rule that would change a confident decision goes to review instead.
+- **Held-out sites stay untouched**, so the final test still measures generalisation.
+- **Bounded cost:** only items the rules marked unsure go to the AI, within a per-site budget.
+
+### Prerequisite (in the current PoC)
+Unsure items are written to `<site>.decisions.jsonl` with full context: the candidate, the family it might belong
+to, evidence for and against (with snippets and sources), and why the rules couldn't decide. They're counted per
+site and per kind. That's the AI's work queue and the basis for the cost estimate.
+
+### Storage (with `DATA_MODEL.md`)
+Two more tables: `ai_decisions` (question, answer, quote, source version, model, cost, cached key) and `rules` (kind,
+scope = global or site, definition, source decisions, status = proposed / promoted / retired, version). `runs.stats`
+records the rule versions used.
+
+### How it's measured
+Per run and per site: unsure items (count and share), AI calls and cost, rules proposed / promoted / retired, and the
+usual harness scores. Success means the unsure share and AI cost trend down while scores hold or improve.
+
 ## Decisions for the team
 1. ~~Layer 1 source~~: decided: the old agent (with the `OLD_AGENT_IMPROVEMENTS.md` fields when available).
-2. **AI layer:** which model, and what cost per site is acceptable?
+2. **AI layer:** which model, and what cost per site is acceptable? Should promoted per-site rules (self-healing
+   Level 2) apply automatically, or be queued for review at first?
    Hosted model vs local model (local is cheaper and private, but weaker).
 3. **Repeatability:** is some run-to-run variation acceptable for the uncertain items
    (mitigations: fixed model version, temperature 0, cached answers)?
