@@ -78,3 +78,12 @@ first-pass session compares (before/after agreement) and fixes; < 80% before-fix
   run's SPEC changes (SPEC 7 `family_prices`, SPEC 6 mapping strictness) to all Bray families.
 - Decision: the Bray consistency pass is done before Phase 2 scores are compared across rounds; rounds scored on the
   old Bray key are re-scored on the new key so before/after numbers always use the same key.
+
+## 2026-10-11 02:48 · Phase 1 · Cimberio first pass done; blind re-label launched
+- Labeller 2298a5a8… pushed `gold/cimberio-auto` first pass (75b1ffd): validator 0 errors / 8 warnings (`refines`
+  heuristic on material_body, logged in HARNESS_ISSUES); family index 32 families, all found by both sitemap and crawl;
+  coverage CAD/BIM 3, multi-variant 15, prices shown 13; no swaps. Added `store-herjth7887.mybigcommerce.com`
+  (Cimberio's own BigCommerce store, hosts the price-book PDF) to sites.json allowed_hosts.
+- Blind sample (Random(42), 6): 778pvw, 30xlc, 1220nl, 778pvws, 747nl, 746. Blind session:
+  https://outpostai.devinenterprise.com/sessions/58603f6a53e14b3f9e2fb0aa794dcf75 (branch `blind/cimberio`, never
+  opens the cimberio key). Orchestrator did not open any cimberio gold file (held-out).
