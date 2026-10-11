@@ -106,3 +106,8 @@ first-pass session compares (before/after agreement) and fixes; < 80% before-fix
 - SPEC 7: 12 variant-less Bray families now carry `family_prices` (request_quote). SPEC 6 strictness applied.
 - Gold validator: 0 errors, 0 warnings; harness tests OK.
 - Consequence for Phase 2: Bray round-1 baseline is scored on this updated key.
+
+## 2026-10-11 02:57 · Phase 1 · Cimberio blind re-label done
+- Blind session 58603f6a… pushed `blind/cimberio` (c08c7db; validator 0 errors / 0 warnings). Per family spec
+  fields / docs / CAD / images / variants: 778pvw 9/2/0/0/3, 30xlc 11/1/0/1/3, 1220nl 8/2/0/2/9, 778pvws 9/2/0/3/3,
+  747nl 8/1/1/2/6, 746 10/1/1/1/3. First-pass labeller told to run stage 2 and apply the new SPEC 4/5/6 paragraphs.
