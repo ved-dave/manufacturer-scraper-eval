@@ -20,3 +20,10 @@ Most issues from the first pass were adopted on `main` (robots override, `refine
 4. **Sheet-only model lists vs the variant rule (resolved).** The SRH sheet lists "SRH1 SRH2 SRH3" with no page identifiers. Ved ruled that SPEC section 3 ("page or spec sheet") wins, so SRH has 3 variants. Open point for SPEC: say explicitly that accessory part numbers (e.g. bracket kits), part-numbering templates and single example part numbers are not variants.
 5. **`.gitignore` still does not ignore `harness/gold/*.evidence/files/`** (see sioux-chief #1). Excluded via `.git/info/exclude` on this branch.
 6. **No allowed_hosts change.** No cited image comes from `newbrayprod.azurewebsites.net`, so `config/sites.json` is unchanged.
+
+
+## apollo (gold labelling, 2026-10-11)
+
+1. **Site blocked.** Every URL on `aalberts-ips.us` (incl. robots.txt and sitemap.xml) returns a LiteSpeed reCAPTCHA "Bot Verification" page, to the labeller's HTTP client and to a normal Chrome browser (visible image challenge), over 45 minutes of single, spaced retries. No answer key built; details and evidence in `apollo.ambiguities.md`. Apollo should be handled like Dixon (scraper expected to report it as blocked) until the site is reachable.
+2. **No gold form for a blocked site.** `validate --gold` errors when `family_index` is empty, so a blocked site cannot have a valid gold stub. `gold/apollo.json` was therefore not committed. Suggest either keeping blocked sites out of `gold/` (current Dixon practice) or accepting a stub with `site_profile.blocked: true` and no families, scored only on whether the agent reports the block.
+3. **No allowed_hosts change.** Nothing beyond the blocked pages and the `aalberts.compano.com` login redirect was reachable, so `config/sites.json` is unchanged.
