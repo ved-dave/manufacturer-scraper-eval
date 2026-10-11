@@ -1,0 +1,453 @@
+--- page 1 ---
+BRAY.COM
+SERIES 5A, 5B AND 5C
+VALVE STATUS MONITOR
+THE HIGH PERFORMANCE COMPANY
+
+--- page 2 ---
+2 | BRAY.COM
+SERIES 5A, 5B AND 5C
+1
+Enclosure
+The compact weatherproof switchbox is certified NEMA 
+Type 4, 4x and IP66/67. 
+2
+High Visibility Position Indicator
+Visual open and closed indication is provided with an 
+impact resistant dome style indicator. Inverting the open 
+and closed visual output is easily done by removing the 
+dome and rotating it 90 degrees. There is no need to 
+remove the cover and expose internal wiring of the VSM 
+to change position indication.
+3
+Stub Shaft Secondary Seal
+Ensures indicator area is separate from the VSM’s 
+internals. Provides a secondary seal to prevent water 
+ingress should the dome or dome seal become 
+compromised due to adverse site conditions.
+4
+Captive Cover Bolts
+The cover is attached to the base by captive stainless 
+steel bolts placed outside the sealing area.
+5
+O-Ring Seal For Watertight Enclosure
+The O-ring seal between the cover and base 
+provides a weatherproof seal preventing internal 
+corrosion.
+6
+Sensor Cams
+Splined cam design allows for easy and 
+accurate setting of switch activation 
+without the use of tools.
+	
+> Certifications
+	
+> IP66/67/68
+	
+> NEMA Type 4X
+	
+> cULus
+	
+> UL50E Salt Spray
+	
+> ATEX
+	
+> IECEx
+	
+> CE
+FEATURES
+SERIES 5A
+>	 Weatherproof
+>	 Low weight and compact
+INTRODUCTION
+The Bray Series 5A, 5B and 5C Valve Status Monitors (VSM) 
+provide reliable visual and electrical position indication on 
+any VDI/VDE 3845-compliant quarter-turn device. Series 5A 
+offers lightweight, compact housing to fit the tightest spots. 
+Series 5B features a larger body to accommodate up to 20 
+terminal points and six switches for increased customization. 
+Our explosion-proof Series 5C provides unparalleled protection 
+and reliability during service in the harshest environments. Our 
+solutions enable end users to better monitor their process, no 
+matter the conditions.
+7
+Limit Switches
+Multiple switch options and configurations to meet 
+connectivity requirements.
+8
+Terminals
+Clearly marked terminal blocks are angled towards the 
+user to ensure easy access.
+9
+Conduit Entries
+Conduit entries available in either imperial or metric 
+threads.
+10
+Grounding
+Green color-coded, easy-access grounding bolt.
+10
+2
+6
+8
+9
+4
+1
+7
+3
+5
+
+--- page 3 ---
+BRAY SERIES 5A, 5B AND 5C VALVE STATUS MONITORS | 3
+Double Seal
+Secondary seal allows 
+for the unit to remain 
+weather tight in the 
+unlikely event of a 
+dome failure.
+Cam Adjustment - No Tools Required
+Adjust the cams by simply pressing, turning, 
+and releasing at a new position. No tools 
+required.
+Easy Access Terminals
+Angled up for easier field wiring.
+SERIES 5B
+>	 Weatherproof
+>	 Up to 6 switches and 20 
+terminal points
+Protective Washer
+Prevents chipping or 
+scratching of coating when 
+removing/attaching bolts.
+SERIES 5C
+>	 Explosion-proof
+>	 Multiple switch options
+
+--- page 4 ---
+4 | BRAY.COM
+ENCLOSURE MATERIALS
+OPTIONAL INDICATOR COLOR SCHEMES
+Our rugged high-visibility indicator is now available in multiple color schemes to give you the flexibility to meet your local customer 
+demands. It can be ordered from the factory or retrofitted in the field.
+CHOOSE YOUR ENCLOSURE MATERIAL
+The Bray switchboxes are designed for any environment and application. The weatherproof options are available in two material 
+alternatives: a die-cast aluminum housing coated with 2-layers of polyester or a new fiberglass reinforced PBT body. Regardless of 
+your choice, you can expect Bray’s product robustness with exceptional corrosion, wear, impact and ultraviolet resistance.
+INDICATOR COLOR OPTIONS 5A AND 5B
+Standard
+Red Closed / Yellow Open
+Black Text
+2
+Red Closed / Green Open
+White Text
+3
+Yellow closed / Black Open
+Inverse Color Text
+4
+Green Closed / Red Open
+White Text
+Part Number Modifier
+No slash E and number required for the standard 
+configuration (English/Red Closed/Yellow Open). Slash E# 
+required for non standard indicator color options.
+Example: 5A005-126A2517/E2
+E2 = English with Red Closed/Green Open indicator
+STANDARD
+OPTION 2
+OPTION 3
+OPTION 4
+5A Resin
+5A Aluminum
+5B Resin
+5B Aluminum
+
+--- page 5 ---
+BRAY SERIES 5A, 5B AND 5C VALVE STATUS MONITORS | 5
+MOUNTING
+UNIVERSAL NAMUR MOUNTING BRACKET
+Bray’s VSMs can be mounted to most NAMUR compliant rack and pinion, scotch yoke and other quarter-turn actuators.
+FLEXIBLE MOUNTING OPTIONS
+Users have the ability to mount the VSMs in both perpendicular and parallel 
+orientations without changing brackets to better align with the customer conduit 
+connection. The visual indication can also be inverted by rotating the indicator 90 
+degrees.
+	
+>
+Common mounting 
+F05 pattern ISO5211
+	
+>
+Stainless steel adjustable bracket for both NAMUR 30 x 80 
+and 30 x 130 mounting pads (fits all 92/93/98 actuators) 
+	
+>
+Stainless steel or resin 
+fixed bracket NAMUR 30 
+x 80
+	
+>
+Resin fixed bracket 
+NAMUR 30 x 130
+
+--- page 6 ---
+6 | BRAY.COM
+HAZARDOUS LOCATIONS
+HAZARDOUS LOCATION PROTECTION
+Hazardous locations, defined as any location where there is risk of explosion or fire, require the toughness and dependability of the 
+Bray Series 5A/B/C Valve Status Monitors (VSMs). Protection methods differ depending on the demands of the environment and 
+customer application. The Bray Valve Status Monitors offer options for Intrinsically Safe protection, as well as Explosion-proof and 
+dust protection. 
+COMMUNICATION PROTOCOLS
+Users can integrate the Series 5B and 5C VSMs into their 
+communications network using industry-standard network 
+protocols AS-i, DeviceNet™, and PROFIBUS DP. These 
+protocols replace the chaotic web of cables used for a mixed 
+signal control system with as little as a single network cable, 
+reducing design complexity and cost. Most users can reduce 
+their installation and commissioning cost by as much as 50% 
+per automated valve package compared to conventional 
+cabling systems. 
+To communicate on the network of choice, the S5B/C VSMs 
+utilize a network interface card- the CommPro module. These 
+interchangeable modules provide the powerful capabilities of 
+network protocols with an easy-to-use interface. The CommPro 
+modules clearly marked terminals allow for easy wiring and 
+rapid commissioning, also available as a “plug & play” option 
+with factory wired pin connectors. Discrete position control is 
+achieved using two solenoid outputs for added convenience 
+without additional cost.
+User features include:
+	
+>
+Module status LED and calibration button to test outputs 
+and indicate faults.
+	
+>
+Network status LED for connection signal.
+	
+>
+VSM position LED to locally indicate open/close status.
+	
+>
+Local node address selection and display (available for 
+DeviceNet™ and Profibus)
+5A/5B: Intrinsically Safe
+The Series Bray 5A and 5B Intrinsically Safe (Ex ia) valve 
+status monitors are designed to limit the electrical and thermal 
+energy to prevent ignition. The Series 5 A/B I.S. share the 
+same customer features and benefits as our standard Valve 
+Status Monitor. Industry-leading Pepperl+Fuchs NAMUR 
+switches make the Series 5A and 5B VSMs a safe, reliable valve 
+monitoring solution with unmatched adaptability.
+NEC 500
+Class I Division 1 
+Groups A, B, C, & D T6
+Class II Division 1 
+Groups E, F, G T85°C
+NEC 505
+Class I, Zone 0, AEx ia IIC T6
+Class I, Zone 1, AEx ia IIC T6
+CEC
+Ex ia IIC Gb T6
+ATEX
+II 1G Ex ia IIC Ga T6
+II 2G Ex ia IIC Gb T6
+IECEx
+NEC 500
+Class I Division 1 
+Groups A, B, C & D T6
+Class I Division 1 
+Groups B, C & D T6 (cUL only)
+Class II Division 1 
+Groups E, F, G T85°C
+ATEX
+II 2 G Ex db IIB + H2 T6 Gb
+II 2 D Ex tb IIIC T85°C Db
+IP66/67/68
+IECEx
+5C: Explosion-Proof
+The Series 5C certified Flameproof (Ex d) and dust protection 
+(Ex t) valve status monitor are designed to contain any 
+explosions that may occur within the enclosure. The Series 5C 
+valve status monitor shares much of its design with the Series 
+5A/5B VSM. The Series 5C design incorporates an additional 
+rear conduit entry and explosion-proof housing for several 
+switch options, offering exceptional safety, flexibility and 
+durability. The Series 5C also features improved certificates 
+including dust protection, a higher gas rating, and ATEX/ IECEx 
+for more global applications.
+DeviceNet™
+AS-i
+Profibus DP
+
+--- page 7 ---
+BRAY SERIES 5A, 5B AND 5C VALVE STATUS MONITORS | 7
+5X000X-126X X XXX / E X
+SWITCH OPTIONS
+INDICATION SWITCH OPTIONS 
+Bray’s VSM product line is offered with multiple indication 
+switch options to better suit the end user's requirements.
+Series 5A  
+Max Qty. 
+Series 5B 
+Max Qty. 
+Series 5C 
+Max Qty. 
+MECHANICAL  
+SWITCHES
+SPDT Mechanical Switch
+2
+6
+6
+SPDT Mechanical Gold Plated Switch (Low Power)
+2
+6
+6
+DPDT-DB Mechanical Switch
+N/A
+2
+2
+PROXIMITY
+SWITCHES
+PNP N.O., 3-Wire Switch
+2
+6
+6
+NPN N.O., 3-Wire Switch
+2
+6
+6
+PNP N.C., 3-Wire Switch
+2
+6
+6
+NPN N.C., 3-Wire Switch
+2
+6
+N/A
+140V, 2-Wire Switch
+2
+6
+6
+250V, 2-Wire Switch
+2
+6
+N/A
+SPDT Reed Switch
+2
+6
+N/A
+NAMUR Intrinsically Safe
+2
+6
+N/A
+COMMPRO
+DeviceNet (with SPDT switches)
+N/A
+4
+4
+AS-i (with SPDT switches)
+N/A
+4
+4
+ProfiBus DP (with SPDT switches)
+n/A
+4
+4
+Thread Type
+0
+Imperial
+5
+Metric
+Housing Size
+A
+Type 4, 4X, IP66/67, 
+Max 2 Switches  
+B
+Type 4, 4X, IP66/67, 
+Max 6 Switches  
+C
+Ex d, Ex t, IP68
+Max 6 Switches
+Switch Option
+A SPDT Mechanical Switch
+B
+SPDT Mechanical Gold Plated 
+Switch (Low Power)
+C PNP N.O., 3-Wire Switch
+D NPN N.O., 3-Wire Switch
+E PNP N.C., 3-Wire Switch
+F 140V, 2-Wire Switch
+G 250V, 2-Wire Switch
+H NAMUR Intrinsically Safe Switch
+K SPDT Reed Switch
+M DeviceNet Module
+N AS-i Module
+P Profibus DP Module
+R NPN N.C., 3-Wire Switch
+S DPDT-DB Mechanical Switch
+Switch 
+Configuration
+2
+2 Switches
+3
+3 Switches, 
+Independent
+4
+4 Switches, 
+Independent
+5
+4 Switches 
+(2 Independent, 
+2 Auxiliary)
+6
+6 Switches 
+(4 Independent, 
+2 Auxiliary)
+Body 
+Material
+536
+Polyester-
+coated 
+Die Cast 
+Aluminum
+517
+Engineered 
+Resin
+Indicator 
+Language
+E
+English
+Indicator 
+Color
+Standard
+Red Closed/
+Yellow Open
+2
+Red Closed/
+Green Open
+3
+Yellow Closed/
+Black Open
+4
+Green Closed/
+Red Open
+
+--- page 8 ---
+THE HIGH PERFORMANCE COMPANY
+HEADQUARTERS 
+Bray International, Inc.
+13333 Westland East Blvd.
+Houston, Texas 77041
+Tel: +1.281.894.5454
+All statements, technical information, and recommendations in this bulletin are for general 
+use only. Consult Bray representatives or factory for the specific requirements and material 
+selection for your intended application. The right to change or modify product design or 
+product without prior notice is reserved. Patents issued and applied for worldwide. 
+Bray® is a registered trademark of Bray International, Inc.
+© 2021 BRAY INTERNATIONAL. ALL RIGHTS RESERVED. BRAY.COM
+SINCE 1986, BRAY HAS PROVIDED FLOW CONTROL SOLUTIONS 
+FOR A VARIETY OF INDUSTRIES AROUND THE WORLD. 
+VISIT BRAY.COM TO LEARN MORE ABOUT 
+BRAY PRODUCTS AND LOCATIONS NEAR YOU.
+BRAY.COM
+EN_BR_BRO_CT_1068 S5A-B-C VSM_20220411
