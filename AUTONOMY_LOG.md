@@ -324,3 +324,13 @@ first-pass session compares (before/after agreement) and fixes; < 80% before-fix
 | conflict precision | 10.7 | 12.9 | 0 | 0 | 5.4 | 6.5 |
 - Other metrics unchanged; no drops; validation 0 errors both sites; 0 crashes; tests OK. Crane r3 ran on a cold
   cache (re-fetched) and reproduced crane r2 exactly.
+
+## 2026-10-11 04:55 · Phase 2 · Round 4 decision: KEPT (round/4 = d6df3f2, merge pending until the running bray r7 job finishes)
+| metric | bray r3 | bray r4b | crane r3 | crane r4 | macro r3 | macro r4 |
+|---|---|---|---|---|---|---|
+| variant recall | 27.3 | 100 | 22.2 | 22.2 | 24.7 | 61.1 |
+| price availability | 62.5 | 95.8 | 16.2 | 16.2 | 39.4 | 56.0 |
+- All other key metrics identical on both sites; validation 0 errors; 0 crashes.
+
+## 2026-10-11 04:55 · Phase 2 · Round 6 Bray result
+- Bray r6 (r5 + temperature range fix): spec accuracy 66.3 -> 67.1, everything else identical. Crane pending.
