@@ -20,6 +20,9 @@ Commit `spec: option codes are not variants; BSP parallel threads -> threaded; P
 2. SPEC 6 end_connections: BSPT = taper threads (and bare "BSP"); parallel pipe threads (BSP parallel, G, ISO 228, BS 2779) → `threaded` + verbatim in `end_connections_other`.
 3. SPEC 6: PN designation → `pressure_rating` = PN number in bar; class-only (ANSI 125) → max of the same sheet's P/T table; cross-check compares the designations.
 
+Stage 2 commit `spec: standards include thread/flange standards the product is made to (blind re-label disagreement)`:
+4. SPEC 6 Standards scope: every standard the source says the product conforms to or is designed, tested, threaded, drilled or flanged to; "formerly ..." standards excluded. Cause of the only sub-80% row (standards 0/6 before fixes).
+
 ## Checkpoint self-review (after DEVIN_TASK steps 1–3; done unattended)
 - (a) Family definition matches SPEC 3: one record per product page (one figure or a heading group such as "FA648L / FA644L / ..."); variants = identifiers in the page heading or the sheet's own tables.
 - (b) family_index from 2 independent sources: product-sitemap.xml (via sitemap_index.xml) and a crawl of the top navigation category menus → category pages → product links. 217 in sitemap, 216 via crawl, 216 in both (1 sitemap only: /product/uncategorized/commpac/, which redirects to /product/commpac/commpac/ and is not linked from the menus; 0 crawl only after reconciliation). Recorded in gold_meta.family_index_method.
@@ -40,18 +43,18 @@ Commit `spec: option codes are not variants; BSP parallel threads -> threaded; P
 - FA648L "ANSI 125" only | 16 bar from the sheet P/T table; page and sheet both say ANSI 125 → agree | SPEC 6 (added).
 - BSP Male/Female Parallel ISO-228 (D103B) | `threaded` + end_connections_other | SPEC 6 (added).
 - Page "taper threaded"/"parallel threaded" with no standard (D921) | `threaded`; sheet list [BSPT, threaded, NPT] contains it → refines | none (SPEC 6 as written).
-- Sheet adds US thread (ANSI B1.20.1, "add suffix AT") | NPT included in the sheet list (offered option) → refines vs page | end_connections lists every connection the sheet offers.
+- Sheet adds US thread (ANSI B1.20.1, "add suffix AT") | Stage 2 (SPEC 6 Mapping strictness): "ANSI B1.20.1" is not listed NPT wording → end_connections_other, NPT removed (d171aexs, d921, d933); the standard is listed in `standards` | SPEC 6 (as merged).
 - material_trim | closure member only (disc/ball/plug); stems not recorded | "trim = disc/ball/plug; stem is not trim".
 - material_seals | O-rings / gaskets / stem packing material names; "Asbestos Free" packing (DM11) is not a material → omitted | none.
 - Liner on butterfly valves | material_seat | "a resilient liner is the seat".
 - Temperature by liner (EPDM -10..120, nitrile -10..82) | one family range -10..120 with `conditions`, no overrides (expressible as a range) | none.
 - FM638 body differs by size (EN-GJS-400-15 DN50-300, EN-GJS-450-10 DN350-600) | comma list | SPEC 6 material rule.
-- standards | design/conformance standards only (BS EN 593, BS 7350, MSS SP 67...); thread and flange standards stay in end_connections raw_text/other | "standards = what the product is designed/tested to; connection standards are end-connection detail".
+- standards | Stage 2 `spec:` commit: every standard the product conforms to or is designed/tested/threaded/drilled/flanged to, "formerly ..." standards excluded; re-labelled in all 15 families | SPEC 6 Standards scope (added).
 - certifications | WRAS approval, UL listing, BSI Kitemark | WRAS counts as a certification.
 - applications | only explicit service terms: "potable water" from WRAS potable wording; D103B "heating and chilled water systems" from the IOM; malleable brochure cover "IDEAL FOR" list → fire protection (sprinkler), chilled water, hydronic heating, natural gas, compressed air, steam; "Hot Water", "Fuel Transfer", "building services" → applications_other | none.
 - Malleable fittings brochure ("Brochure & Datasheets") | doc_type catalog (secondary); page outranks it, brochure-wide statements (standards, Kitemark, cover list) cited for 140/257 | "a range catalog is 'other PDF' even if linked as datasheet".
-- 140 reducing bush sizes | sizes_available = the 40 "a x b" pairs; size_range min/max = first/last pair | HARNESS_ISSUES crane #4.
-- 140 per-size PDF drawings under the CAD heading | cad_file, formats [pdf] (not documents) | none.
+- 140 reducing bush sizes | sizes_available = the 40 "a x b" pairs; size_range = larger end 1/2 .. 6 (changed in Stage 2, blind was right: numeric and comparable) | HARNESS_ISSUES crane #4.
+- 140 / 257 per-size PDF drawings under the CAD heading | documents, other_doc (SPEC 5: outline drawing with no technical-data block; PDF is not a CAD format). Changed in Stage 2 | none.
 - 257 / 140 sizes have no identifiers | no variants | SPEC 3.
 - D103B page size "½ Inch – ¾ Inch" vs sheet title "DN15/DN20" | same sizes, unit in (sheet tables use inches) → agree | none.
 - D103B - Cast Iron | size_range in DN (both state DN20/DN50), sizes_available in inches (Kvs list and table) | none.
@@ -63,3 +66,52 @@ Commit `spec: option codes are not variants; BSP parallel threads -> threaded; P
 
 ## Blind re-label families (random.Random(42).sample(sorted(family_ids), 6))
 f621, 257, 140, f634, d171aexs, d103b-cast-iron
+
+## Applying the 2026-10-11 SPEC paragraphs from auto/integration (all 15 families)
+- SPEC 4 Image edge cases (candidates = URLs the page references): every image switched from the un-referenced un-resized original (e.g. `..._0423-BF.jpg`) to the largest referenced rendition (`...-BF-scaled.jpg`, 2560 px), in all families whose gallery uses -scaled files (d103b, dm11, d171aexs, f611, f621, f634, fm638-fm639, 140, 257, d921, d901, d933, butterflies). Images that are already referenced originals are unchanged. No image dropped (no callout/collage cases).
+- SPEC 5 Classify by content: 140 per-size outline PDFs (8) and 257-2.50.pdf → other_doc documents (were CAD entries); malleable brochure stays catalog (24 pp, many products); FODRV flow brochure (charts) and pn-pressure chart → other_doc (unchanged); stress-corrosion statement → other_doc (bulletin); grouped datasheets (D102B/D103B/D104B, F611/F626, D921/D923, D931/D933/D934, D171A/D171AEXS) stay spec_sheet: ≤ 4 pages, one technical block for one figure family and its siblings, not a per-series product guide. CAD zip formats: PDFs inside zips no longer counted as a format; Creo `.prt.1` → prt (257).
+- SPEC 6 Mapping strictness: NPT removed where the source only says "ANSI B1.20.1" (d171aexs, d921, d933 → end_connections_other); butterfly pages that only say "to suit / compatible with ... flanges" are no longer `lug` sources (f611, f621, fa648l…, f646l… → end_connections pdf_only); applications: "Sprinkler Systems" (fire protection) and "Heating Water"/"heating" (hydronic heating) moved to applications_other (140, 257, d103b).
+- SPEC 7 family_prices: already applied in the first pass (13 no-variant families carry `not_published` in family_prices).
+- Also fixed after re-checking: material values drop non-material qualifiers ("(Epoxy Paint)", "(WRAS Approved)", "Epoxy coated") — f611, f621, fa648l…, f646l…; f634 disc page "Stainless Steel SS316 or CF8M" vs sheet "Stainless Steel 316 ASTM A531 CF8M" → refines; d103b-cast-iron material_body: page title "3 Port Valve – Cast Iron" is a page source → agree; 257 size_unit omitted (257 table header has no unit).
+
+## Blind re-label (6 families)
+Blind branch `blind/crane` (crane.blind.json). BEFORE = raw blind vs first-pass commit e78609d; AFTER = blind vs final gold. Script: `python gold/crane.blind.compare.py <gold> gold/crane.blind.json` (lists, sets and value strings compared case-insensitively; documents/images/variants as URL/SKU set overlap).
+
+| row | BEFORE | AFTER |
+|---|---|---|
+| documents found | 20/29 (69%) | 29/29 (100%) |
+| doc_type (common docs) | 20/20 (100%) | 29/29 (100%) |
+| images | 1/33 (3%) | 17/17 (100%) |
+| variants | 10/10 (100%) | 10/10 (100%) |
+| cross_check | 51/62 (82%) | 58/63 (92%) |
+| spec: applications | 1/3 | 2/3 |
+| spec: certifications | 4/4 | 4/4 |
+| spec: end_connections | 4/6 | 5/6 |
+| spec: material_body | 5/6 | 6/6 |
+| spec: material_seals | 4/4 | 4/4 |
+| spec: material_seat | 2/3 | 3/3 |
+| spec: material_trim | 4/4 | 4/4 |
+| spec: pressure_rating | 6/6 | 6/6 |
+| spec: size_range | 5/6 | 6/6 |
+| spec: size_unit | 5/6 | 5/5 |
+| spec: sizes_available | 6/6 | 6/6 |
+| spec: standards | 0/6 | 5/6 |
+| spec: temperature_range | 4/4 | 4/4 |
+| **family spec fields overall** | **50/64 (78%)** | **60/63 (95%)** |
+
+BEFORE < 80% → cause: SPEC 6 silent on standards scope (gold: conformance only; blind: also thread/flange standards) → `spec:` commit (Standards scope), standards re-labelled in all 15 families, re-measured once (AFTER).
+
+Blind right (gold fixed, source re-checked): images (-scaled referenced renditions, SPEC 4); 140/257 per-size PDFs as other_doc documents; d171aexs end_connections (no NPT); 140 size_range 1/2..6; 257 size_unit omitted; f621 material qualifiers; f634 trim refines; d103b-cast-iron material_body page source; standards scope; applications without hydronic heating.
+Gold kept (and why):
+- d103b-cast-iron end_connections `threaded` (blind `BSPT`): "BSP Female Parallel ISO-228" is a parallel thread; SPEC 6 (commit 408d7c1) maps parallel pipe threads to `threaded`; the blind file predates that rule.
+- 140 applications without `fire protection` (blind derived it from the UL-listed fittings list): SPEC 6 Mapping strictness — no source wording names fire protection ("Sprinkler Systems" is not listed wording) → applications_other.
+- d171aexs standards include ANSI B1.20.1: the sheet says "US END CONNECTION: ANSI B1.20.1:1983"; SPEC 6 Standards scope lists standards the product is threaded to.
+- 140/257 certifications `pdf_only` and material_body `page_only` (blind `agree`): the page only has download link titles ("UL Certificate", "Kitemark"), which are not spec statements, and the catalog states no material for these figures.
+- f621 end_connections `pdf_only` (blind `agree`): the page row "To suit flange connections BS EN 1092-2 ..." describes mating flanges and names no lug term (SPEC 6 Mapping strictness).
+
+## Top 5 ambiguities
+1. Standards scope (resolved by spec commit): thread/flange standards are now standards.
+2. Grouped sibling sheets (D102B/D103B/D104B etc.): which identifiers are variants, and whether a shared ≤ 4-page sheet is a spec_sheet.
+3. Parallel BSP (ISO 228) → `threaded`, not `BSPT` (blind disagreed before the rule existed).
+4. Range-wide catalog statements (malleable brochure cover list, Kitemark/BS EN 10242) used as family sources for 140/257.
+5. Option codes (AT suffix, D933.PF, bare-shaft B figures) treated as options, not variants.

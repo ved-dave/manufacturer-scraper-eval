@@ -37,8 +37,6 @@ Most issues from the first pass were adopted on `main` (robots override, `refine
 2. **`market_flag` warning for a single-locale non-US site.** cranefs.com is a UK (en-GB) site with no locale prefix. Gold uses `non_na`; the validator warns "URL locale None suggests na" for all 15 families. A per-site default market (e.g. `market: non_na` in sites.json) would remove the false warning.
 3. **Grouped sheets that cover sibling families.** Many Crane sheets cover 2-3 figures that each have their own page (D102B/D103B/D104B, F611/F626, D931/D933/D934). SPEC 3 says variants are identifiers "on the page or in the family's spec sheet", which would make D102B a variant of D103B. Gold excludes identifiers that have their own family page (written into SPEC 3 in this branch).
 4. **Size lists for reducing fittings.** For reducing bushes (Fig. 140) the size is a pair ("1/2 x 1/8"). `size_range` min/max hold strings, so gold uses the larger end (1/2 .. 6) for `size_range` and keeps the full pairs in `sizes_available`. SPEC could state this.
-||||||| e34e4bf
-||||||| 27fcf85
 
 
 ## crane (blind re-label)
