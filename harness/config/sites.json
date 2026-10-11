@@ -16,6 +16,6 @@
     "sioux-chief": {"split": "test",      "input_url": "https://www.siouxchief.com/",     "allowed_hosts": ["www.siouxchief.com", "cdn.siouxchief.com"]},
     "apollo":      {"split": "dev",       "input_url": "https://aalberts-ips.us/",        "allowed_hosts": ["aalberts-ips.us", "aalberts.compano.com"]},
     "caleffi":     {"split": "challenge", "input_url": "https://www.caleffi.com/",        "allowed_hosts": ["www.caleffi.com"]},
-    "cimberio":    {"split": "challenge", "input_url": "https://cimberiovalve.us/",       "allowed_hosts": ["cimberiovalve.us", "cdn11.bigcommerce.com"]}
+    "cimberio":    {"split": "challenge", "input_url": "https://cimberiovalve.us/",       "allowed_hosts": ["cimberiovalve.us", "cdn11.bigcommerce.com", "store-herjth7887.mybigcommerce.com"]}
   }
 }
