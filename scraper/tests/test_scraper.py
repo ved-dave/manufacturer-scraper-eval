@@ -335,3 +335,10 @@ class TestVariants(unittest.TestCase):
         self.assertEqual(V.from_rows([['Size', 'A', 'B'], ['2"', '4.5', '3.1'], ['3"', '5.5', '3.6']]), [])
         self.assertEqual(V.from_lines('Model shown: 30 series\nModels 2 3'), [])
         self.assertEqual(V.from_lines('Item No. 1 2 3'), [])
+
+
+class TestPdfCap(unittest.TestCase):
+    """Round 3: families with one datasheet per model (10+ primary PDFs) lost sheets to a cap of 10."""
+    def test_cap_keeps_multi_datasheet_families(self):
+        from mfr_scraper.settings import MAX_PDFS_PER_FAMILY
+        self.assertGreaterEqual(MAX_PDFS_PER_FAMILY, 25)
