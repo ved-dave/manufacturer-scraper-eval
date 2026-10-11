@@ -1,0 +1,319 @@
+Trunnion Mounted Ball Valves | Bray
+About
+Contact Us
+Careers
+Customer Portal
+Nearby Locations
+LinkedIn
+YouTube
+Products
+Products
+Butterfly Valves
+Resilient Seated
+High Performance
+Triple Offset
+Lined
+Ball Valves
+3-Piece
+Threaded
+Flanged
+Trunnion Mounted
+Severe Service
+Multi-Port
+Lined Ball
+Accessories
+Knife Gate Valves
+Bidirectional
+Unidirectional
+Slurry
+Pinch Valves
+Pinch Valve
+Control Valves
+Ball Valves
+Butterfly Valves
+Pinch Valve
+Check Valves
+Check
+Lined
+Accessories
+Relief Valves
+Air Release / Vacuum Break Valve
+Actuators
+Electric Actuator
+Pneumatic Actuator
+Hydraulic Actuator
+Electro-Hydraulic Actuator
+Manual Operators
+Control Accessories
+Proximity Sensors
+Filter Regulators
+Positioners
+Solenoids
+Switch Boxes
+Cryogenic
+McCannalok Cryogenic
+Triple Offset Valve
+Solutions
+Solutions
+Industry
+Chemical & Petrochemical
+Food & Beverage
+HVAC
+Industrial Gas
+Marine & Shipbuilding
+Mining
+Oil & Gas
+Pharma & Biotech
+Power
+Pulp & Paper
+Semiconductor
+Sugar & Ethanol
+Water & Wastewater
+Integrated Solutions
+Automation
+Isolation
+Control
+Ethernet/IP
+Cx Line
+DIGI-ID™
+Precision Cleaning
+Company
+Company
+About
+Quality
+History
+Careers
+Contact Us
+Sustainability
+Subsidiaries
+Patents
+Locations
+North America
+Latin America
+Europe & Middle East
+Asia
+Africa
+Pacific
+Partnership
+California Transparency in Supply Chains Act
+Conflict-free Sourcing Program
+Purchase Order Terms and Conditions
+Supplier Code of Conduct
+Supplier Diversity
+Child & Forced Labor Policy
+The Criminal Finance Act (UK)
+Reach SVCH Compliance Declaration
+Resources
+Resources
+Documents
+Manual & Guides
+Brochures
+Technical Bulletin
+Specifications
+Knowledge Center
+Success Stories
+Application Guides
+Webinars
+Published Papers
+Videos
+Software
+DeviceNet
+Valve Sizing Software
+Configuration Tools
+ProfiBUS (GSD Files)
+Actuator Sizing Program
+Check Valve Sizing Program
+S98 Interactive Demo
+Materials Selection
+Materials Selection
+Request a Quote
+Trunnion Mounted Ball Valve
+Series 1B
+Double Block and Bleed Safety for High-Pressure Systems
+Closer Look
+Request a Quote
+Description
+Specifications
+Downloads
+Features & Benefits
+Product Insights
+ISO 5211 Mounting Pad for Easy Automation
+Emergency Stem Sealant Injection
+Emergency stem sealant injection: this standard feature allows the valve’s stem housing to be adapted with a grease fitting to inject sealant during emergency scenarios, providing protection against unplanned spikes in operating conditions.
+Emergency seat sealant injection: this optional feature allows the valve’s end connections to be adapted with a grease fitting to inject sealant. This creates a positive seal in the case of seat leakage due to service impurities or unplanned spikes in operating conditions.
+Drain and vent ports: drain ports located at the bottom of the valve release any fluid trapped in the body cavity of a closed valve. Vent ports located at the top of the body cavity eliminate any gas trapped in the body cavity of a fully closed valve. Both play a key safety role in double block and bleed and/or double isolation and bleed valve configurations.
+Double block and bleed: this safety feature eliminates the buildup of pressure due to high pressure media trapped in the valve’s body cavity, even while the valve is in the fully closed position.
+Firesafe design: secondary metal seat design provides a firesafe shut off per api 607. Additionally, secondary graphite body seals and flexible graphite packing prevents leakage through the body joints and stuffing box, respectively.
+Internal trunnion design: upper and lower bearing plates hold the ball in place, preventing the ball from floating axially and avoiding excess load on the seats. External trunnion design available in certain sizes.
+Pressure energized stem packing: our proprietary energizer ring, located above the primary o-ring stem seal, provides insurance in the rare event that the o-ring is damaged by using the media pressure to create an upward compressive force on the packing. This upward force on the packing combined with the downward compressive force created by tightening the packing gland results in a larger net compressive force on the packing and better seal than a typical packing design.
+Double seals on body joints: primary elastomeric seals ensure zero leakage in standard operating conditions. Secondary graphite seals ensure proper body joint sealing per api 607 in extreme temperature scenarios.
+Anti-static devices: standard anti-static devices ensure electrical continuity between the ball, stem, and body, eliminating the possibility of sparks within the valve created by static electrical charges.
+Valve position indication: clear stamping on the outer diameter of the mounting flange identifies the open or closed position of the valve based on the stem key orientation.
+Iso 5211 mounting pad: robust iso 5211 mounting pad provides quick conversion between the valve and the automation package.
+Blowout-proof stem design: valves are designed with stem/body connection preventing stem blowout under line pressure.
+Specifications
+Size Range
+2 to 24" (50 – 600mm)
+Body Materials
+ASTM A105, ASTM A350 Gr. LF2, ASTM A182 Gr F316
+Temperature Range
+-50 to 600°F (-45 to 315°C)
+Stem Materials
+ASTM A479 Type 410
+17-4PH
+XM-19
+ASTM A182 F316
+Maximum Allowable Operating Pressure
+ASME CL150, 300, 600, 900, 1500
+Seat Materials
+RPTFE, Nylon, Devlon, PEEK, Tek-Fil, TFM
+Shutoff Rating
+Zero Leakage
+Ball Materials
+ASTM A105 w/ENP
+ASTM A350 Gr. LF2 w/ENP
+ASTM A182 Gr. F316
+ASTM A182 Gr. F316 w/ENP
+Body Style
+Two Piece, Three Piece
+Design Standard
+API 6D, ASME B16.34
+End Connections
+Flanged, Butt Weld
+Testing Standard
+API 598, API 6D
+Certifications
+API 607, ISO 15848-1
+Ports
+Full
+Face to Face
+ASME B16.10
+Fugitive Emissions Standard
+ISO 15848-1, ISO 15848-2
+applications
+Oil and Gas Pipeline, Offshore Platforms, Onshore Terminals, Emergency Shutdown, Suction and Discharge Isolation, Block and Bypass, Pumping, Compression and Reinjection Units, Metering Stations, Pig Traps, Surge-Relief Skids, Decoking Isolation, Buried Services, Produced Water (Brine) Services
+Downloads
+Select a  Document Type
+All
+Product Brochure
+Safety Manual
+Sales Data Sheet
+IOM Manual
+Select a  Language
+All
+English
+Portuguese
+Spanish
+Sales Data Sheet
+HIPPS-Compliant Fast-Acting Valve Solutions
+Download
+English
+Product Brochure
+Trunnion Mounted Ball Valve Series 1B
+Download
+English
+IOM Manual
+Trunnion Mounted Ball Valve
+Download
+English
+IOM Manual
+Trunnion Mounted Ball Valve Cast Steel
+Download
+English
+Safety Manual
+Series 1B Trunnion Mounted Ball Valve
+Download
+English
+Our Portfolio
+Looking for More Solutions?
+Discover Our Range of Products Built for Your Industry's Challenges
+Flanged Ball Valve
+Series F15/F30
+Inquire
+Details
+Flanged Ball Valve
+Series F15/F30 Metal Seated
+Inquire
+Details
+Ball Valve Accessory
+Resolute Ball™
+Inquire
+Details
+Multi-Port Ball Valve
+Series MPT/MPC
+Inquire
+Details
+Multi-Port Ball Valve
+Series MPF
+Inquire
+Details
+Severe Service Ball Valve
+Series M1
+Inquire
+Details
+Multi-Port Ball Valve
+Series MPT/MPC
+Inquire
+Details
+Threaded Ball Valve
+Series S70/S90
+Inquire
+Details
+Multi-Port Ball Valve
+Series 3HP
+Inquire
+Details
+Ball Valve Accessory
+Media Containment Unit
+Inquire
+Details
+View All Products
+Explore More Bray Insights
+Learn Even More About How Bray’s Solutions Can Impact Your Business
+ISO-Certified Cleanroom Solutions for Superior Valve Integrity
+Cleanroom Valve Services
+Bray's state-of-the-art cleanroom facilities deliver ISO Class 6 to ISO Class 9 precision cleaning around the globe where valves are cleaned, inspected, bagged & tagged to meet the most stringent global standards, ensuring contamination-free valves.
+Discover Our Precision Cleaning Solutions
+Contact Us
+Request A Quote
+Back to Top
+;
+Connect with Your Local Sales Expert
+Clear
+Search
+Cancel
+Use My Location
+From valve automation to isolation, our solutions tackle the toughest flow control challenges with precision and innovation.
+Contact Us
+Nearby locations
+Products
+Butterfly Valves
+Ball Valves
+Knife Gate Valves
+Control Valves
+Check Valves
+Actuators
+Control Accessories
+Cryogenic
+Pinch Valves | Bray
+Solutions
+Industry
+Integrated Solutions
+Company
+About
+Locations
+Partnership
+Sustainability
+Customer Portal
+Follow Us
+LinkedIn
+Resources
+Documents
+Knowledge Center
+Software
+Materials Selection
+YouTube
+© 2026 Bray International, All RIghts Reserved
+Terms & Conditions
+Sales Terms & Conditions
+Privacy Policy
