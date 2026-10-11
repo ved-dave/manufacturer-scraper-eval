@@ -59,17 +59,22 @@ def from_rows(rows):
 
 
 LINE_LABEL = re.compile(r'((?:model|part|catalog|cat\.|item|order(?:ing)?|product|article|stock)\s*(?:no\.?|nos\.?|numbers?|#|codes?)'
-                        r'|\bmodels?|\bskus?)\s*:?\s+((?:[A-Z0-9][A-Z0-9\-./]{1,24}\s+){1,}[A-Z0-9][A-Z0-9\-./]{1,24})\s*$', re.I)
+                        r'|\bmodels?|\bskus?)\s*:?\s+((?:[A-Z0-9][A-Z0-9\-./]{1,24}[,;]?\s+){1,}[A-Z0-9][A-Z0-9\-./]{1,24})\s*$', re.I)
 
 
 def from_lines(text):
-    """'Model #  SRH1  SRH2  SRH3' lines in PDF/page text -> [(sku, None, line)]."""
+    """'Model #  SRH1  SRH2  SRH3' lines, or a 'Models' heading line followed by '201, 203, 205', -> [(sku, None, quote)]."""
     out = []
-    for line in text.splitlines():
+    lines = [l.strip() for l in text.splitlines() if l.strip()]
+    for i, line in enumerate(lines):
         m = LINE_LABEL.search(line)
-        if not m:
+        if m:
+            toks = [t for t in re.split(r'[,;\s]+', m.group(2)) if t]
+            if len(toks) >= 2 and all(_is_id(t) for t in toks):
+                out += [(t, None, line) for t in toks]
             continue
-        toks = m.group(2).split()
-        if len(toks) >= 2 and all(_is_id(t) for t in toks):
-            out += [(t, None, line.strip()) for t in toks]
+        if _is_label(line) and i + 1 < len(lines):
+            toks = [t for t in re.split(r'[,;\s]+', lines[i + 1]) if t]
+            if len(toks) >= 2 and all(_is_id(t) for t in toks):
+                out += [(t, None, lines[i + 1]) for t in toks]
     return out

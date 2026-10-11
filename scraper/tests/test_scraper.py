@@ -335,3 +335,49 @@ class TestVariants(unittest.TestCase):
         self.assertEqual(V.from_rows([['Size', 'A', 'B'], ['2"', '4.5', '3.1'], ['3"', '5.5', '3.6']]), [])
         self.assertEqual(V.from_lines('Model shown: 30 series\nModels 2 3'), [])
         self.assertEqual(V.from_lines('Item No. 1 2 3'), [])
+
+
+class TestPdfCap(unittest.TestCase):
+    """Round 3: families with one datasheet per model (10+ primary PDFs) lost sheets to a cap of 10."""
+    def test_cap_keeps_multi_datasheet_families(self):
+        from mfr_scraper.settings import MAX_PDFS_PER_FAMILY
+        self.assertGreaterEqual(MAX_PDFS_PER_FAMILY, 25)
+
+
+class TestVariantHeadingLists(unittest.TestCase):
+    """Round 4: a 'Models' spec label with the identifiers on the next line, comma-separated."""
+    def test_heading_then_list(self):
+        from mfr_scraper import variants as V
+        got = V.from_lines('Size Range\n2" - 24"\nModels\n201, 203, 205, 210\nMaterials')
+        self.assertEqual([s for s, _, _ in got], ['201', '203', '205', '210'])
+
+    def test_same_line_commas(self):
+        from mfr_scraper import variants as V
+        self.assertEqual([s for s, _, _ in V.from_lines('Models: A-10, A-20, A-30')], ['A-10', 'A-20', 'A-30'])
+
+    def test_heading_then_prose_rejected(self):
+        from mfr_scraper import variants as V
+        self.assertEqual(V.from_lines('Models\nSeries 70 and Series 71 actuators'), [])
+        self.assertEqual(V.from_lines('Models\n2, 4'), [])
+
+
+class TestVariantPlaceholders(unittest.TestCase):
+    """Round 4: URL slugs are not identifiers; accessory pages listing another family's models get no variants."""
+    def test_accessory_subset_moved(self):
+        from mfr_scraper.pipeline import accessory_families
+        pr = [{'availability': 'request_quote'}]
+        valve = {'canonical_url': 'v', 'variants': [{'sku': s, 'prices': pr} for s in ('201', '205', '211', '212')]}
+        acc = {'canonical_url': 'a', 'variants': [{'sku': s, 'prices': pr} for s in ('205', '211')]}
+        other = {'canonical_url': 'o', 'variants': [{'sku': 'X-1', 'prices': pr}]}
+        changed = accessory_families([valve, acc, other])
+        self.assertEqual(changed, [acc])
+        self.assertEqual(acc['variants'], [])
+        self.assertEqual(acc['family_prices'], pr)
+        self.assertEqual(len(valve['variants']), 4)
+        self.assertEqual(len(other['variants']), 1)
+
+    def test_slug_is_not_identifier(self):
+        from mfr_scraper import variants as V
+        self.assertFalse(V._is_id('SINGLE-DOOR-CHECK-VALVE'))
+        self.assertFalse(V._is_id('SERIES-752-752HP-KNIFE-GATE-VALVE'))
+        self.assertTrue(V._is_id('FM638'))

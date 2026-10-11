@@ -3,7 +3,7 @@ __pycache__/
 *.pyc
 .venv/
 # scraper working data (re-creatable; may contain third-party files)
-scraper/cache/
+scraper/cache
 scraper/runs-dev/
 scraper/devdata/
 # downloaded PDFs/CAD/HTML are large; keep extracted text + manifest only
