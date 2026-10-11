@@ -2,6 +2,7 @@
 
 Labelled 2026-10-11 against SPEC on main. Locale `en-us`. Independent of any scraper output (no scraper code, runs, reports or PRs opened).
 
+Family spec source (`spec_source_summary`, 15 families): both 9, PDF-only 1, page-only 1, none 4 (the 4 are replacement parts or accessories whose page and documents state no scored spec field).
 Spec source share (15 families, family-level fields, after blind fixes): agree 27, refines 3, conflict 1, pdf_only 15, page_only 19 (65 fields). Variant overrides: 6 (all agree). Variants: 77.
 
 ## Conflicts
@@ -32,6 +33,8 @@ Spec source share (15 families, family-level fields, after blind fixes): agree 2
 - **ZSR** | "ETL certified to CSA and UL standards" -> certifications [ETL]; "Certified to CSA C22-2 No.24", "Conforms to UL Standard 873" -> standards | SPEC 6 standards scope
 - **Parts without scored specs** | F19346 (stem; its documents describe the 132 QuickSetter valve, so no valve specs are copied), NA10979 alarm station (only 24 V AC), F69591 sensor, R0001458 washer: no scored spec fields
 - **NA162** | sizes/connections from the page ("union slip nut" -> union, page_only). Pressure 200 psi, 0-250°F and NSF/ANSI 372 come from the Presscon range block of selector 03511, which lists NA16265L by code (pdf_only). This reverses the pre-blind decision; see Blind re-label
+
+- **551 vs 5517 temperature example** | neither series 551 nor 5517 is in the en-us product index (no page carries either series code in its Series field), so neither is sampled and no page/PDF conflict is recorded for them. The page/PDF conflict check was run on all 15 sampled families; see Conflicts | SPEC 6a
 
 ## Blind re-label
 Six families drawn with `random.Random(42)` from the 15 (172, 3048, 5024, 5350 body, NA162, NA39753) were re-labelled by a separate session (https://outpostai.devinenterprise.com/sessions/9b0cbd24772341ca827bfcd4bab3fb61) from an evidence-text packet only, with no access to this file or caleffi.json. Its output is `caleffi.blind.json`, its notes are in `caleffi.blind.md`, and `caleffi.blind.compare.py` produces the table.
@@ -71,4 +74,4 @@ Six families drawn with `random.Random(42)` from the 15 (172, 3048, 5024, 5350 b
 2. Price workbook cited as `pdf` (schema has no spreadsheet source type).
 3. Family definition (series + product name) on a site whose Series field spans unrelated products.
 4. Sell sheets with a CODE table and a technical-data block: spec_sheet or brochure.
-5. Multi-column catalog tables (01090) where the product's column must be identified by hand.
+5. Cross-checking against a multi-product catalog (01090 for 5024): gold says `agree`, the blind labeller said `page_only`. The product's column in the catalog also has to be identified by hand. Proposed wording is in HARNESS_ISSUES.md.
