@@ -42,3 +42,11 @@ Most issues from the first pass were adopted on `main` (robots override, `refine
 ## crane (blind re-label)
 - config/sites.json: added `bimstore.co.uk` and `bimstore.co` to `global_cad_viewer_hosts` (Crane BIM/Revit links go to BIMstore; recorded as gated cad_viewer, never logged into).
 - validate.py market_flag check uses only the URL locale, so an en-GB-only site with no locale prefix WARNs "suggests na" even though SPEC 1 says en-GB -> non_na.
+||||||| e34e4bf
+
+
+## apollo (gold labelling, 2026-10-11)
+
+1. **Site blocked.** Every URL on `aalberts-ips.us` (incl. robots.txt and sitemap.xml) returns a LiteSpeed reCAPTCHA "Bot Verification" page, to the labeller's HTTP client and to a normal Chrome browser (visible image challenge), over 45 minutes of single, spaced retries. No answer key built; details and evidence in `apollo.ambiguities.md`. Apollo should be handled like Dixon (scraper expected to report it as blocked) until the site is reachable.
+2. **No gold form for a blocked site.** `validate --gold` errors when `family_index` is empty, so a blocked site cannot have a valid gold stub. `gold/apollo.json` was therefore not committed. Suggest either keeping blocked sites out of `gold/` (current Dixon practice) or accepting a stub with `site_profile.blocked: true` and no families, scored only on whether the agent reports the block.
+3. **No allowed_hosts change.** Nothing beyond the blocked pages and the `aalberts.compano.com` login redirect was reachable, so `config/sites.json` is unchanged.
