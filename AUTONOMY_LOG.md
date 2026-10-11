@@ -252,3 +252,13 @@ first-pass session compares (before/after agreement) and fixes; < 80% before-fix
 - Crane r1: family R/P 100/100, primary docs R/P 100/100, images 78.0, specs 42.2, completeness 64.2, variants 0,
   price availability 0, conflict precision 0. Macro (bray+crane) r1: fam R 98.5, fam P 91.0, docs R 80.5,
   images 79.3, specs 53.9, completeness 74.3, variants 0, price 0, conflict 5.4.
+
+## 2026-10-11 03:54 · Phase 2 · Round 4 first attempt regressed → reworked
+- Bray r3 → r4 (heading-list pattern only): variant recall unchanged at 27.3, price availability 62.5 → 58.3. Root cause:
+  (1) single-door never reached the table extractor because the v0 fallback made placeholder "variants" from its URL
+  slug (`SINGLE-DOOR-CHECK-VALVE` ×2; also `SERIES-752-752HP-…`, `SERIES-39-…`); (2) the new pattern took
+  `205, 211, 212` from the SA-16 accessory page, which lists models of the check valve (SPEC 3 accessory rule).
+- Rework (general): a URL tail is only used as an identifier if it passes the identifier test (has a digit, ≤25
+  chars), duplicates within a family are dropped; post-pass `accessory_families`: a family whose identifiers are a
+  strict subset of another family's loses them and keeps its price status in `family_prices`. Tests:
+  `TestVariantPlaceholders` (2). Re-running Bray as r4b.
