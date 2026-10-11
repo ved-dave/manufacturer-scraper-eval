@@ -217,3 +217,7 @@ first-pass session compares (before/after agreement) and fixes; < 80% before-fix
   sioux-chief session and to the crane/cimberio labellers (`gold/<site>-consistency2`).
 - Key changed, so every stored Bray run was re-scored on it (rule: compare rounds on the same key):
   r1 → r2: specs 65.6 → 65.6; variant recall 0 → 27.3; price availability 0 → 62.5; all other metrics unchanged.
+
+## 2026-10-11 03:27 · Consistency pass · cb6232e on Crane and Cimberio
+- `gold/crane-consistency2` (2d171f5) and `gold/cimberio-consistency2` (d356fd9) merged: cb6232e changes nothing
+  in either key (log entries only). Validators unchanged (crane 0/15 warnings, cimberio 0/8). Sioux Chief pending.
