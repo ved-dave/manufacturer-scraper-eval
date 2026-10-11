@@ -1,0 +1,51 @@
+=== page 1 ===
+(cid:31)
+BA3WDSLH
+STAINLESS STEEL BODY
+3-WAY DIVERTER, SINGLE REDUCED PORT
+1000# WOG 3/8”-2”
+“L” PORT, FNPT ENDS, PTFE PACKING,
+LOCKING HANDLE
+MATERIALS LIST
+ITEM PART MATERIALS
+1 Body ASTM A351 GR.CF8M
+2 Ball ASTM A351 GR.CF8M
+3 End Cap ASTM A351 GR.CF8M
+4 S(cid:31)eat RTFE
+5 Body Seal PTFE
+6 Stem SS316
+7 Stem Packing PTFE
+8 Handle SS304
+9 Handle Cover Plastic
+10 Thrust Washer PTFE
+11 Gland Nut SS304
+12 Flow Indicator SS304
+13 Handle Washer SS304
+14 Handle Nut SS304
+15 Locking Pad SS304
+(cid:31)
+DIMENSIONS
+UNITS 3/8" 1/2" 3/4" 1" 1 1/4" 1 1/2" 2"
+INCHES 0.50 0.50 0.63 0.77 0.98 1.27 1.50
+ØD
+MM 13 13 16 20 25 32 38
+INCHES 2.36 2.36 2.99 3.39 3.82 4.49 5.59
+L
+MM 60 60 76 86 97 114 142
+INCHES 2.20 2.20 2.52 2.60 2.76 3.36 3.46
+H
+MM 56 56 64 66 70 85 88
+INCHES 3.90 3.90 4.92 4.95 5.71 5.71 8.07
+E
+MM 99 99 125 126 145 145 205
+INCHES 0.59 0.59 0.75 0.84 0.87 1.00 1.18
+W1
+MM 15 15 19 21 22 25 30
+INCHES 1.12 1.12 1.38 1.38 1.38 1.50 1.50
+W2
+MM 29 29 35 35 35 38 38
+T 10-24 UNC 10-24 UNC 10-24 UNC 10-24 UNC 10-24 UNC 1/4"-20 UNC 1/4"-20 UNC
+The information presented on this sheet is correct at time of publication. Milwaukee Valve reserves the right to change design and/or materials
+without notice. For our Installation, Operation and Maintenance Manual and the most current product information go to www.milwaukeevalve.com.
+State of California Prop 65 WARNING: Cancer and Reproductive Harm. For more information visit www.p65warnings.ca.gov.
+Rev. 02/22

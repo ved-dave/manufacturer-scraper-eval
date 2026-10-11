@@ -1,0 +1,134 @@
+=== page 1 ===
+BAL-7
+30BBOF BRONZE AND 30BSOF BRONZE
+WITH STAINLESS STEEL TRIM
+ORDERING INFORMATION FULL-PORT, THREE-PIECE BALL VALVES
+1⁄ ” 30BSOF-02-LS-VB
+2
+External Options:
+LL = Patented* Stainless
+Latch-Lock Handle
+LO = Patented** Locking
+Size:
+Stainless Oval Handle –
+1/4"–2"
+Spring-Loaded
+LS = Patented** Stainless
+Latch-Lock Handle –
+Series: Spring-Loaded
+30 = 3-Piece Industrial OS = Stainless Oval Handle
+XH = Extended Handle
+(2" extension standard.
+Other lengths available to
+Body Material:
+customer specifications.)
+B = Bronze
+Ball/Stem Material:
+Internal Options:
+B = Chrome-Plated Brass Ball
+Seat Material: AD = Assemble Dry
+w/ Brass Stem
+01 = Virgin PTFE GB = Grounded Ball***
+S = Stainless Steel
+02 = Reinforced PTFE GS = Grounded Stem***
+03 = Steam Service VB = Vented Ball
+Modified PTFE***
+Note: If specifying more
+End Connection Type: than one internal option,
+O = NPT Female list ALPHABETICALLY.
+Port Size:
+1 = Solder End
+F = Full Port
+(bronze only)
+*– U.S. Patent No. 5,014,528 NOTE:The information presented in this brochure
+**– U.S. Patent No. 5,183,073 is correct at time of printing. Milwaukee Valve
+***– Must Be Ordered With SS Ball and Stem. reserves the right to change design, dimensions
+For Steam Service, Please Consult Factory. and/or material specifications without notice.
+Valves built to take it… since 1901
+Milwaukee Valve Company R
+16550 West Stratton Drive
+New Berlin, Wisconsin 53151
+MILWAUKEE VALVE
+Telephone 262/432-2700
+FAX 262/432-2701
+www.milwaukeevalve.com BAL-7
+©Milwaukee Valve Company, 1998 Rev. 0905
+=== page 2 ===
+30BBOF AND 30BSOF
+THREE-PIECE BALL VALVES MATERIAL LIST
+Unique, patented (U.S. Patent No. 5,014,528), tamper-proof,
+PART 30BBOF-02 30BSOF-02
+stainless latch-lock handle (optional)
+The 30BBOF and 30BSOF Series ball valves are 2 13 5 3 7 1. Body Bronze – Bronze –
+ASTM B584 ASTM B584
+the most advanced 3-piece ball valves available. All sizes have integral actuator mounting pads
+2. Endcap Bronze – Bronze –
+Designed with extensive end-user and distributor on center body section ASTM B584 ASTM B584
+input, they include such standard features as: full-port 3. Stem Brass – Stainless Steel
+design, multi-piece V-Ring stem packing for longer Standard multiple-piece ASTM B16 ASTM A276 – Type 316
+6
+leak-free life; full NPT thread depths and superior V-Ring stem packing 8 4. Ball Brass w/ Chrome Plate Stainless Steel
+ASTM B16 ASTM A276 – Type 316
+ASTM-grade materials of construction. 12
+5. Handle Nut Low-Carbon Steel Stainless Steel 18-8
+The 3-piece design makes in-line maintenance
+ASTM-grade materials Zinc-plated
+and repairs possible. Reassembly is simplified 6. Handle Assembly AISI 1010 Steel Stainless Steel 18-8
+with a combined body gasket and seat. Patents are Zinc-plated
+pending on seat design for the 30BBOF/30BSOF, 7. Lock Washer Carbon-Steel Plated Stainless Steel – Type 316
+which utilize special high-cycle-life seats with
+Unique combination seat & 8. Packing Nut Brass Stainless Steel
+the lowest operating torques. And when one or body-seal design on ALL sizes ASTM B16 ASTM A276 – Type 316
+both ends are dismantled to service the valve, 9. Body Capscrews SAE J429 Gr. 8 SAE J429 Gr. 8
+the actuator does not require removal. This Zinc-plated Zinc-plated
+combination provides the most economical 10. Body Nuts SAE J429 Gr. 8 SAE J429 Gr. 8
+Standard pressure-relieving Zinc-plated Zinc-plated
+actuated ball valve available.
+ball on 30BSOF prevents seat 9 11. Seats (02) 15% Glass Filled 15% Glass Filled
+damage (due to temperature Reinforced PTFE Reinforced PTFE
+Conforms to: WW-V 35, Class A,
+cycles) 12. Thrust Washer PTFE PTFE
+Style 1, End Connection A (threaded) 11 4
+10
+or End Connection C (soldered). 1 13. Packing PTFE PTFE
+Full ANSI NPT (L1+ L3)
+thread depths
+PERFORMANCE DATA DIMENSIONS
+PRESSURE/TEMPERATURE RATINGS (02 TRIM) TORQUE RATING AND C V E
+L N = NUMBER OF ACTUATOR
+MOUNTING PAD HOLES
+MAXIMUM
+VALVE BREAKAWAY
+SIZE TORQUE (in lbs.) Cv(GPM) P
+M
+1/4–3/8" 50 10 D
+1/2" 50 10
+3/4" 70 31
+DIMENSIONS – INCHES AND MILLIMETERS (30 SERIES BALL VALVES)
+1" 125 49 A
+F
+1/4" 3/8" 1/2" 3/4" 1" 1-1/4" 1-1/2" 2"
+1-1/4" 210 85 SIZE
+IN MM IN MM IN MM IN MM IN MM IN MM IN MM IN MM
+1-1/2" 360 110 A 0.69 17.5 0.69 17.5 .69 17.5 .75 19.1 1.00 25.4 1.25 31.8 1.50 38.1 2.00 50.8
+B 1.40 35.6 1.40 35.6 1.40 35.6 1.72 43.7 1.94 49.3 1.38 35.1 2.62 66.5 3.05 77.5
+2" 600 360 B G
+C 2.81 71.4 2.81 71.4 2.81 71.4 3.44 87.4 3.87 98.3 4.75 121.0 5.24 133.0 6.10 154.9
+C D 2.52 64.0 2.52 64.0 2.52 64.0 2.79 70.9 2.93 74.4 3.18 80.8 3.37 85.6 3.60 91.4
+E 5.88 149.0 5.88 149.0 5.88 149.0 5.88 149.0 5.88 149.0 7.75 197.0 7.75 197.0 7.75 197.0
+TAPPED THREADS: K F* — — 0.51 12.7 .63 16.0 1.07 27.2 1.33 33.8 1.68 42.7 1.92 48.8 2.41 61.2
+G* — — 0.40 10.16 .50 12.7 .56 14.2 .68 17.3 .81 20.6 .87 22.1 1.06 26.9
+SPECIFICATIONS
+H 1.58 40.10 1.58 40.10 1.58 40.1 1.58 40.1 1.58 40.1 1.46 37.1 1.63 41.4 2.25 57.2
+I 0.32 8.10 0.32 8.10 .32 8.1 .32 8.1 .32 8.1 .56 14.2 .76 19.3 1.05 26.7
+J 0.64 16.30 0.64 16.30 .64 16.3 .64 16.3 .64 16.3 1.13 28.7 1.53 38.9 2.10 53.3
+H
+K 10—24 10—24 10—24 10—24 10—24 1/4—20 1/4—20 1/4—20
+L 0.28 7.0 0.28 7.0 .276 7.0 .276 7.0 .276 7.0 .356 9.0 .356 9.0 .356 9.0
+Approved valves shall be Milwaukee Valve 30BBOF Series or 30BSOF Series or approved equal. Valves shall be M 0.33 8.4 0.33 8.4 .330 8.4 .330 8.4 .330 8.4 .330 8.4 .330 8.4 .330 8.4
+of full-port design and include multiple-piece V-Ring stem packing, full ANSI NPT thread depths and ASTM-grade N 3 3 3 3 3 4 4 4
+body/tailpiece materials. All valve sizes shall accommodate actuator mounting on the valve’s center section. Each I P 1.25 31.75 1.25 31.75 1.25 31.75 1.25 31.75 1.25 31.75 1.375 34.93 1.50 38.10 1.50 38.10
+valve shall be tested for zero leakage. Approved valves to accommodate tamper-proof latch-lock handle where LBS KILOS LBS KILOS LBS KILOS LBS KILOS LBS KILOS LBS KILOS LBS KILOS LBS KILOS
+WT.
+necessary or required. J 1.64 3.60 1.64 3.60 1.64 3.60 2.69 5.91 3.50 7.70 5.61 12.33 7.83 17.23 12.74 28.04
+* These dimensions apply only to soldered end valves.

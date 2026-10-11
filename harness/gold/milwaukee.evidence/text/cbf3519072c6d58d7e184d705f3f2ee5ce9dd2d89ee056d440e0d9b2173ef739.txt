@@ -1,0 +1,57 @@
+=== page 1 ===
+510T Bronze Check Valve
+1/4”-2”
+150 SWP - 300 WOG †
+Horizontal Swing • Threaded Ends
+TFE Disc
+Conforms to: MSS SP-80
+MATERIAL LIST
+No. PART MATERIAL SPECIFICATION
+1 Body Bronze ASTM B62
+2 Cap Bronze ASTM B62
+3 Lever Brass Commercial
+4 Disc TFE
+ASTM B16
+Brass
+1/4” to 3/4”
+5 Disc Holder
+ASTM B62
+Bronze
+1” to 2”
+6 Pin St. Steel Commercial
+7 Plug (not shown) Brass ASTM B16
+8 Retaining Ring St. Steel Commercial
+9 Disc Nut Brass ASTM B16
+DIMENSIONS - INCHES/MILLIMETERS
+Units Size A B Cv
+Inches 1/4 2.13 1.32
+3.3
+mm 54 34
+Inches 3/8 2.13 1.32
+6.0
+mm 54 34
+Inches 1/2 2.31 1.32
+10.0
+mm 59 34
+Inches 3/4 2.63 1.69
+18.0
+mm 67 43
+Inches 1 3.25 2.00
+31.0
+mm 83 51
+Inches 1 1/4 3.56 2.13
+54.0
+Note: Not intended for use in potable water. mm 91 54
+Inches 1 1/2 4.00 2.38
+76.0
+mm 102 60
+Inches 2 4.75 2.81
+131.0
+mm 121 71
+† Non-Shock
+The information presented on this sheet is correct at time of publication. Milwaukee Valve reserves the right
+to change design and/or materials without notice. For our Installation, Operation and Maintenance Manual
+and the most current product information go to www.milwaukeevalve.com. State of California Prop 65
+WARNING: Cancer and Reproductive Harm. For more information visit www.p65warnings.ca.gov. www.milwaukeevalve.com
+BI-50
+Rev 10

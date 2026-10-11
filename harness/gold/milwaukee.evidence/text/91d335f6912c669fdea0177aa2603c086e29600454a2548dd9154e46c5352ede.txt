@@ -1,0 +1,96 @@
+1150
+Bronze Gate Valve, 150 SWP – 300 WOG, Threaded Ends
+Conforms to MSS SP-80 , Type 2
+Not Intended for Use in Potable Water
+Gland Packed
+Non-Shock
+Product Documents
+Submittal Documents
+Product Submittal
+IOMs
+IOM
+3D CAD Files
+View 3D CAD Drawing(s)
+Description
+Material
+Bronze
+ANSI/Pressure Rating
+150 SWP – 300 WOG
+End Connection
+Threaded
+Stem Type
+Rising Stem
+Bonnet Type
+Threaded
+Seat Material
+Bronze
+Disc Material
+Solid Wedge
+Product Size
+1/4", 3/8", 1/2", 3/4", 1", 1-1/4", 1-1/2", 2", 2-1/2", 3", 4"
+Valve Type
+Gate Valve
+Add to quote
+Category:
+Gate Valves
+Weights, Dimensions, and Box Quantity
+Size
+Unit Weight
+Unit Dims.
+LxWxH
+Box Quantity
+Box Dims.
+LxWxH
+1/4"
+0.76
+1.75 x 0.25 x 4.38
+10
+9 x 6 x 3
+3/8"
+0.8
+1.81 x 0.375 x 4.38
+10
+9 x 6 x 3
+1/2"
+0.8
+2 x 0.5 x 4.38
+10
+8.5 x 8.5 x 4.125
+3/4"
+1.52
+2.13 x 0.75 x 5.84
+6
+10.5 x 6 x 3.25
+1"
+2.12
+2.56 x 1 x 7.06
+6
+1-1/4"
+4.26
+2.81 x 1.5 x 9.5
+4
+10.5 x 10 x 3
+1-1/2"
+3.44
+2.78 x 1.25 x 8.78
+4
+2"
+6.6
+3.31 x 2 x 11.5
+2
+12 x 7 x 3.5
+2 1/2"
+10.9
+4.19 x 2.5 x 514.31
+1
+16 x 5.5 x 5.5
+3"
+15.67
+4.63 x 3 x 16.63
+1
+16 x 5.5 x 5.5
+4"
+33.25
+5.5 x 4 x 15.5
+1
+19 x 12 x 10.125

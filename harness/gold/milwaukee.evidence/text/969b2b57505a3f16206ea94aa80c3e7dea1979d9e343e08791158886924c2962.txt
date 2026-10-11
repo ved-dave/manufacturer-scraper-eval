@@ -1,0 +1,18 @@
+=== page 1 ===
+
+=== page 2 ===
+Mclaughlin to Sales, re: Soldering Considerations UP Valves, Rev. B, 12/10/15; page 2 of 2
+Beyond this, the engineer or installer should make sure that the flux either
+contains no ammonia compounds, or at least has a very low level of these (<5%
+by weight for example), as they can release corrosive materials into the valve
+which could in turn create adverse corrosion issues. Fluxes that are certified
+compliant to ASTM B 813 are acceptable with ammonium chloride levels up to
+10% by weight.
+If more guidance is required, we recommend our customers contact their flux
+suppliers for guidance, and rely on their own experience first, e.g. if you're using
+a product giving you satisfactory results, that is good justification to continue,
+and to share data with other Milwaukee Valve customers who might likewise
+have good success with certain products. Milwaukee Valve sales personnel can
+assist in connecting users to foster such a dialogue.
+If you have any questions, please contact the writer at 262 432 2853, Bob
+Rudman at 262 432 2728, or Gary Schommer at 262 432 2854.

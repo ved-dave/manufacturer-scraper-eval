@@ -1,0 +1,583 @@
+=== page 1 ===
+BA-100/100S* P2 Bronze Ball Valve
+½”-3”
+Two Piece
+Standard Port (1”-3”) Full Port (1/2”-3/4”)
+200 psig @ 250°F†
+BA-100 400S* P2 1/ "- 2 "
+Press x Press Ends
+2
+Press x Threaded Ends Available (Consult Factory)
+BRONZEBALLVALVE Blow-Out PrMoSoSf SSPt-1e1m0
+TWO-PIECE,FULL-PORT (1/4”-3/4”) STANDARD PORT (1”-2”) Conforms to MSS SP-110
+200PSIG@ 250°F
+*Not intended for use in potable water.
+PRESS ENDS
+BLOW-OUT PROOF STEM
+8 11
+3 6 5
+4 D 7
+A
+2
+1
+OPEN 9
+10
+E
+DIMENSIONS
+The information presented on this sheet is correct at time of publication. Milwaukee Valve reserves the right to change design and/or materials
+without notice. For our Installation, Operation and Maintenance Manual and the most current product information go to www.milwaukeevalve.com.
+State of California Prop 65 WARNING: Cancer and Reproductive Harm. For more information visit www.p65warnings.ca.gov.
+BV-2
+Rev. 7
+MILWAUKEEVALVECOMPANY,INC
+SWP 150
+R
+WOG 600
+B
+With Press Ends
+Note: 2 1/2” & 3” are built
+from BA-150/150S
+(1) For steam service specify see BA400S3
+E
+PRESSURE-TEMPERATUREDATA
+VALVESRATEDFORVACUUMSERVICETO29INCHESHg.
+WORKINGTEMPERATURE-C 10 38 66 93 121 149 177 204 1 9 10
+700 4830
+psi600 4140 K P a
+E - 500 3450E -
+R R U U S S400 2760S S E E R R
+P300 2070P
+G G N N
+KI200 1380KI
+R R
+O O
+W100 690 W
+2
+12
+DIME0NS5I0ON10S0 150 200 250 300 350 400 450
+WORKINGTEMPERATURE-F
+1/2” 3/4” 1S”eatMate1r-ia1l/R4a”ting1-1/2” 2” 2-1/2” 3”
+UNITS
+DN15 DN20 DN25 DN32 DN40 DN50 DN65 DN80
+INCHES 0.50 0.76 0.88 1.07 1.32 1.57 2.00 2.31 Press End Adapter (4151 Series)
+A (DIA)
+mm 13 19 22 27 33 40 51 59
+STD INCHES 0.87 0.98 0.98 1.02 1.42 1.58 1.80 2.10
+Insertion
+mm 22 25 25 26 36 40 46 53 12
+B INCHES 5.19 6.17 7.17 7.57 8.44 10.30 12.02 13.94 13
+mm 132 157 182 192 214 262 305 354 14
+INCHES 1.91 2.32 2.68 2.82 3.00 3.36 3.47 3.88 15
+D
+mm 47 59 68 72 76 85 88 99
+INCHES 3.82 4.55 4.56 6.33 6.33 7.19 7.19 7.19
+E
+mm 94 116 116 161 161 183 183 183
+Note: DN (Diameter Nominal)=Metric equivalent size.
+†Non-Shock
+NEPO
+MATERIAL LIST
+ITEM PART MATERIAL ASTM SPEC
+1 Body Cast Bronze B584
+C84400
+Brass B283
+C37700
+2 Tailpiece
+Cast Bronze (1 1/4” & up) B584
+C84400
+Brass w/Hard Chrome B283
+Plating C37700
+3 Ball
+316 Stainless Steel (1) A276
+S31600
+4 Seat RPTFE, 15% Glass filled
+Brass B21
+C46400
+5 Stem H02
+316 Stainless Steel (1) A276
+S31600
+6 Thrust Washer RPTFE, 25% Glass Filled
+7 Packing PTFE
+8 Packing Nut Brass B16
+C36000
+H02
+9 Handle Steel w/Zinc Plating Commercial
+10 Handle Grip Vinyl
+11 Handle Nut Steel w/Zinc Plating Commercial
+Brass Fitting w/EPDM B283
+12 Press Adapters O-Ring (1/2" - 2") C27450
+600 Copper (2 1/2” - 3”) B88 W 1 S 5 W O 0 P G MILWAUKEEVALVEC R OMPANY,INC 13 O-Ring EPDM
+14 Backing Seal Acetal
+15 Backing Ring 304 Stainless Steel A276
+(1) Ball and stem are stainless for BA100S P2
+=== page 2 ===
+BA100/150
+OPTIONS
+BA300/350
+BA400/450
+CL
+OH & LO Milwaukeeofferstwostylesofovalhandles, Chain
+standardovalandapadlockingovaldesign. Lever
+Oval handles can prevent accidental valve operations, Chainleverhandlekitsaredesigned
+since they have less projection than a lever handle, and forinstallationswhereoverhead
+require more turning force to operate. OSHA requires the ballvalvesneedtobeoperated
+use of oval handles in many installations for safety onaregularbasis. Alength
+ofchainisattachedtoeither
+reasons. The locking handle design will accommodate a
+endofthehandle,sothatthe standard 5/16” pad-lock or other types of valve lockouts.
+operatorneedsonlytopulldownontheappropriate
+chaintoopenorclosethevalve.
+L L
+BA100/150 H
+OPTIONS BA300/350 OPTIONS BA100/150
+BA300/350 BA400/450
+BA400/450
+CL CL
+OH
+OH & LO Milwaukeeofferstwostylesofovalhandles, Chain OH & LO Milwaukeeofferstwostylesofovalhandles, Chain standardovalandapadlockingovaldesign. Lever Oval standardovalandapadlockingovaldesign. Lever
+O s re in v q a c u e l i r h e t a h m n e d y o l r e h e s a v t c u e a r n n le i n p s g s re f p v o r e r o c n j e e t c a t t o c io c o n id p t e e h n r a a t n a te l a . v O a le l S v v e e H r A o h p r a e e n r q a d u t l i e i o r , e n a s s n , t d h e b f C o a h r l a l in v in s a t l l a v e l e v la s e t r i n o h e n a e s n d w d t l h o e e b k re e its o o a v p r e e e r r h a d e t e e a s d d igned Han L dle SH S u O s ret i s n v aq e a c ui e l o ni r h f e t l a h o e m n e v s d y a o l s l r e h e h s a a v t c u n e a r d n n l l e e i n p s s g s r e i n f p v o r e m r o c n j a e e t n c a t y t o c i o i c o n n id p s t t e e h a n r a l a l t a n a te t l i a o . v n O a le s l S v v f e e H o r A r o h p s r a a e e n f r q e a d u t t l y i e i o r , e n a s s n , t d h e o b f C o n a h r l a l a in v in r s a e t l l a g v e l e u v la s e la t r i n r o h e n b a e s a n d s w d is t l h o e . e b k A re e its le o o a n v p r g e e e t r r h h a d e t e e a s d d igned
+use of oval handles in many installations for safety onaregularbasis. Alength Sreteaseolns. The locking handle design will accommodate a ofchainisattachedtoeither
+reasons. The locking handle design will accommodate a e o n f d ch o a f in th i e s h a a tt n a d ch le e , d so to th e a it t h t e h r eW Hsatannddalred 5/16” pad-lock or other types of valve lockouts. o e p n e d r o a f to th r e ne h e a d n s dl o e n , l s y o to th p a u t ll th d e ownontheappropriate
+standard 5/16” pad-lock or other types of valve lockouts. operatorneedsonlytopulldownontheappropriate The“SH”handleoptionaddsa316 chaintoopenorclosethevalve.
+chaintoopenorclosethevalve. stainlesssteelhandleandnuttoa L L
+standardbronzeballvalve. Thisoptionis H
+L L intendedforharshenvironmentslike
+H H areassubjecttosaltwaterspray,high
+humidity,harshcleaningchemicals,etc.
+OH
+OPTIONOvalS
+OH Handle
+SH L Stainless Oval TH Steel
+Handle SH W Handle L Stainless Tee T st h a e in “ le S s H s ” s h t a e n e d lh le a o n p d t le ion an a d dd n s ut a to 31 a 6
+Steel Handle standardbroXnzebHallvalve. Thisoptionis
+W The“SH”ha H n a d n le d o l p e tionadds L a31 O 6 Locking XM ins T t e a e lla h t a io n n dl s e p s a o c f e fe s rH a t v h i e ng s s am as e oval i a h n r u t e e m a n i s d d i e s ty u d , b f h j o e a r c r h s t a h to r c s s l h e a a e lt n n w i v n a i g r t o e c n r Eh m s ex p e m r n t a ie t c s y a , n l l h i s k s i , e g ie h otcn. stainlesssteelhandleandnuttoa Oval Ehxantedlness,iownithHaasnligdhltelyshorterend Stem
+s
+in
+ta
+te
+n
+n
+d
+d
+a
+e
+r
+d
+d
+f
+b
+o
+r
+r
+o
+h
+n
+a
+ze
+rs
+b
+h
+a
+e
+ll
+n
+v
+v
+a
+ir
+l
+o
+v
+n
+e
+m
+.
+e
+T
+n
+h
+t
+i
+s
+s
+l
+o
+ik
+p
+e
+tioniHsandle wtoitehndMdeimmenosrioyn.Teehandles
+The “XH” stem extension is simple H areassubjecttosaltwaterspray,high OPTIONS Sr o et p qo e up r i a re te m ,s o o re a h cc a i n d d e l n e ta fo l r o c p e e t n o ingscan d a e n s dB i g e n Aff e e1 d c t0 f iv o e r 0 i d n /e1 s s ta 5ig ll 0 a n t . i o T n h s is w o h p e ti r o e n p is ipe
+humidity,harshcleaningchemicals,etc. The “XM” stem e b x e te r n e s d io u n c i e s d a . ll-metallic with insuBlaAtio3n 0wo0u/ld3 m5a0ke standard
+L a d n e s a ig d n ju e s d ta f b o l r e i n m s e ta m lla o t r i y o n s s to w p. h T er h e is p o ip p e ti o C n is L h p a la n s Bd ti l c eA s s 4 h in ie 0o l p d 0e h /r e a4 l b p 5l s e0 . t o T h k e e e e p x t t e h r e n a T l H insulation would make standard handles insulation away from the stem
+W inoperable. The adjustable memory stop extension, providing years of trouble Tee OH & LO Milwaukeeofferasllotwwso tshtey lveaslvoe foopveanlinhga tno dblee sli,mited to a Chain free operation. Handle standardovalapnrdesaetp pa LodslioticoO kn.in Tghios voapltidoen sciagnn .be ordered Lever
+Oval handles can prevent accwiditehn otra wl vitaholvuet tohpe emL ra oetmc iook nriys n ,s gtop. Chainleverhandlekitsaredesigned ins T t e a e lla h t a io n n dl s e p s a o c f e fe s r a t v h i e ng s s am as e oval TH
+H r
+s
+e
+in
+q
+c
+u
+e
+ir e
+th
+m
+ey
+o r
+h
+e
+a v
+tu
+e
+r n
+le
+in
+s
+g
+s
+f
+p
+o
+r
+r
+o
+c
+j
+e
+e c
+t
+t
+o
+io
+o
+n
+p
+t
+e
+h
+r
+a
+a
+n
+te
+a
+. O
+le
+S
+ve
+H
+r
+A
+h
+r
+a
+e
+O
+H
+n
+q
+d
+a
+v
+u
+l
+n
+e a
+ir
+,
+d
+l
+e
+a
+s le
+n
+t
+d
+h e b
+fo
+a
+r
+ll
+in
+v
+s
+a
+t
+l
+a
+v
+l
+e
+la
+s
+ti
+n
+o
+e
+n
+e
+s
+d
+w
+t
+h
+o
+e
+b
+re
+e
+o
+o
+v
+p
+e
+e
+r
+r
+h
+a
+e
+te
+a
+d
+d
+t
+h
+o
+a
+e
+n
+n
+d
+d
+le
+d
+s,
+im
+w
+e
+it
+n
+h
+s
+a
+io
+s
+n
+l
+.
+ig
+T
+h
+e
+t
+e
+ly
+h
+s
+a
+h
+n
+o
+d
+r
+l
+t
+e
+e
+s
+rend
+Tee use of oval handles in many installations for safety o o f n c a ha re in gu is la a r tt b a a c s h is e . d A to le e n it g h t e h r r o e p q e u r i a re te m ,s o o re a h cc a i n d d e l n e ta fo l r o c p e e t n o ingscan
+Handle reasons. The locking handle design will accommodate a endofthehandle,sothatthe bereduced.
+LO standard 5/16” pad-lock or other types of valve loLckouts. operatorneedsonlytopulldownontheappropriate
+Locking Teehandlesofferthesame chaintoopenorclosethevalve. Oval installationspacesavingsasoval W L L handles,withaslightlyshorterend
+Handle toenddimension.Teehandles H
+requiremorehandleforceto
+operate,soaccidentalopeningscan H
+bereduced.
+0 L
+OH
+W
+Oval
+Handle SH L Stainless H Steel
+W Handle
+The“SH”handleoptionaddsa316
+stainlesssteelhandleandnuttoa standardbronzeballvalve. Thisoptionis
+intendedforharshenvironmentslike
+H areassubjecttosaltwaterspray,high
+humidity,harshcleaningchemicals,etc.
+The information presented on this sheet is correct at time of publication. Milwaukee Valve reserves the right to change design and/or materials TH
+without notice. For our Installation, Operation and Maintenance Manual and the most current product information go to www.milwaukeevalve.com.
+State of California Prop 65 WARNING: Cancer and Reproductive Harm. For more information visit www.p65warnings.ca.gov. Tee
+Handle LO
+BV-37 Locking Teehandlesofferthesame
+installationspacesavingsasoval Oval handles,withaslightlyshorterend
+Handle toenddimension.Teehandles
+requiremorehandleforceto
+operate,soaccidentalopeningscan
+bereduced.
+L
+W
+H
+54
+90
+0 54
+OPTIONS
+XH
+XM Extension
+ExtensionHandle Stem
+withMemory The “XH” stem extension is simple
+Stop and effective design. This option is
+designed for installations where pipe
+The “XM” stem extension is all-metallic with insulation would make standard an adjustable memory stop. This option is handles inoperable. The external
+designed for installations where pipe plastic shield helps to keep the
+insulation would make standard handles insulation away from the stem
+inoperable. The adjustable memory stop extension, providing years of trouble
+allows the valve opening to be limited to a free operation.
+preset position. This option can be ordered with or without the memory stop.
+0
+BA100/150
+BA300/350
+BA400/450
+LD MS
+Locking Memory
+Device Stop
+The“MS”MemoryStopoffersthe
+The “LD” convenienceofapresetstop Locking Handle 90 whenthevalveisusedina offers the end user balancingapplication.The
+the security of a pad memorystopcanbeset
+lockable handle. The fromthefullclosedposition,
+handle can be locked in either toanypresetopeningpoint.
+the full open position, or full closed by adding a standard
+padlock. The locking handle design
+will accommodate a standard 5/16”
+pad-lock or other types of valve
+lockouts. The handle and locking device are also manufactured of stainless steel material for additional strength and corrosion resistance.
+54
+90
+0 54
+BA100/150
+BA300/350
+BA400/450
+LD MS
+Locking Memory
+Device Stop
+The“MS”MemoryStopoffersthe
+The “LD” convenienceofapresetstop Locking Handle 90 whenthevalveisusedina offers the end user balancingapplication.The
+the security of a pad memorystopcanbeset lockable handle. The fromthefullclosedposition, handle can be locked in either toanypresetopeningpoint.
+the full open position, or full
+closed by adding a standard padlock. The locking handle design will accommodate a standard 5/16” pad-lock or other types of valve OPTIONS
+lockouts. The handle and locking
+device are also manufactured of stainless steel material for additional strength and corrosion resistance.
+XH
+XM Extension
+ExtensionHandle Stem withMemory The “XH” stem extension is simple
+Stop and effective design. This option is
+designed for installations where pipe The “XM” stem extension is all-metallic with insulation would make standard
+an adjustable memory stop. This option is handles inoperable. The external
+designed for installations where pipe plastic shield helps to keep the
+insulation would make standard handles insulation away from the stem inoperable. The adjustable memory stop extension, providing years of trouble allows the valve opening to be limited to a free operation.
+preset position. This option can be ordered
+with or without the memory stop.
+0
+54 90
+0 54
+BA100/150
+BA300/350
+BA400/450
+2 1/4” Height
+OPTIONS
+XH
+XM Extension ExtensionHandle Stem
+withMemory The “XH” stem extension is simple
+Stop LD and effective design. This option is MS
+designed for installations where pipe The “XM” stem extension is all-metallic with Loincskuliantigon would make standard Memory
+an adjustable memory stop. This option is Dehvanicdlees inoperable. The external Stop
+designed for installations where pipe plastic shield helps to keep the
+insulation would make standard handles insulation away from the stem The“MS”MemoryStopoffersthe
+i a n l o lo p w e s r a th b e le . v a T l h v e e a o d p j e u n s i t n a g b l t e o m be e m lim or i y te s d t o to p a T L o o f h fe c e k r s “ i L n t D g h e ” H e a n n d d le u e fsr x ee t er e n o s p i e o r n a , t p io r n o . viding years of trouble 90 c w o h n e b v n e a n t la h ie n e n c v i c n a e g lv o e a f p i a s pl p u ic r s e a e s t d i e o t n in s . t T a o h p e preset position. This option can be ordered the security of a pad memorystopcanbeset
+with or without the memory stop. lockable handle. The fromthefullclosedposition,
+handle can be locked in either toanypresetopeningpoint.
+the full open position, or full
+closed by adding a standard
+padlock. The locking handle design
+will accommodate a standard 5/16”
+pad-lock or other types of valve
+lockouts. The handle and locking
+device are also manufactured of stainless
+steel material for additional strength and corrosion resistance.
+0
+54
+90
+0
+54
+UPBA100/150 / BA100/150
+OPTIONS
+UPBA300/350 / BA300/350
+UPBA400/450 / BA400/450
+TIH ® Extension Handle
+The ® extension handle is XLD
+Locking
+designed to prevent condensation and other extraneous Extension moisture from entering the insulated piping system,
+while also minimizing thermal energy loss from The –XLD extended locking the system via metal extension tubes, levers, and handle is made of robust similar parts.
+plated steel and provides
+The design incorporates a unique memory 2 1/4” height additional safety benefits for
+stop feature that requires no disassembly the user. The handle can be
+or removal of the handle to engage and locked in both the open and
+make adjustments. closed positions. Extension
+length provides for handle
+clearance above standard
+piping insulation
+thicknesses.
+BA100/150
+OPTIONS BA300/350
+BA400/450
+CL OH & LO Milwaukeeofferstwostylesofovalhandles, Chain
+standardovalandapadlockingovaldesign. Lever
+Oval handles can prevent accidental valve operations, Chainleverhandlekitsaredesigned since they have less projection than a lever handle, and forinstallationswhereoverhead
+require more turning force to operate. OSHA requires the ballvalvesneedtobeoperated
+use of oval handles in many installations for safety onaregularbasis. Alength ofchainisattachedtoeither reasons. The locking handle design will accommodate a endofthehandle,sothatthe
+standard 5/16” pad-lock or other types of valve lockouts. operatorneedsonlytopulldownontheappropriate chaintoopenorclosethevalve.
+L L H
+OH
+BA100/150 Oval
+BA300/350 Handle
+SH
+BA400/450 L Stainless
+Steel
+W Handle
+The“SH”handleoptionaddsa316
+stainlesssteelhandleandnuttoa
+standardbronzeballvalve. Thisoptionis intendedforharshenvironmentslike H areassubjecttosaltwaterspray,high
+humidity,harshcleaningchemicals,etc.
+2 1/4” Height
+TH
+Tee
+Handle
+LO
+Locking Teehandlesofferthesame
+installationspacesavingsasoval
+Oval handles,withaslightlyshorterend
+Handle toenddimension.Teehandles
+requiremorehandleforceto
+operate,soaccidentalopeningscan bereduced.
+Rev. 9 L
+W
+LD MS
+Locking Memory
+Device Stop
+H The“MS”MemoryStopoffersthe
+The “LD” convenienceofapresetstop
+Locking Handle 90 whenthevalveisusedina
+offers the end user balancingapplication.The
+the security of a pad memorystopcanbeset
+lockable handle. The fromthefullclosedposition,
+handle can be locked in either toanypresetopeningpoint.
+the full open position, or full
+closed by adding a standard
+padlock. The locking handle design
+will accommodate a standard 5/16”
+pad-lock or other types of valve
+lockouts. The handle and locking
+device are also manufactured of stainless
+steel material for additional strength and
+corrosion resistance.

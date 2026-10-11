@@ -1,0 +1,40 @@
+=== page 1 ===
+TWO PIECE THREADED END BALL VALVE
+INSTALLATION, OPERATION AND MAINTENANCE INSTRUCTIONS
+INSTALLATION
+1) Thoroughly clean and prepare the piping system before valve installation.
+2) Remove the valve end caps if present, and inspect the valve ports and seating
+surfaces for cleanliness just prior to installation.
+3) Support the valve to prevent unnecessary stresses induced by connecting pipe.
+4) Be sure the rating of the valve is compatible with the intended service conditions.
+5) Operate the valve from the full open to closed position.
+6) PTFE thread sealant is recommended when making up connections. Consult the sealant
+manufacturer's instructions for proper use. Install on pipe and not the valve.
+7) Care should be used to not over tighten the valve onto the pipe, as it is possible to distort
+the internal parts of the valve.
+8) Because bronze is a softer metal than steel, always put the pipe in a vise and turn the
+valve onto the pipe end. Always use a smooth-jawed wrench on the valve end on the
+same side of the valve to which the pipe or fitting is being installed to prevent distortion of
+the internal parts of the valve or transmission of torque and stress into the body joint. Pipe
+Wrenches should be used on pipe and fittings only.
+9) Take precaution also to prevent loosening body to tailpiece connection by reverse rotation
+during installment/alignment. Such loosening could compromise body to tailpiece sealing.
+10) Verify the tightness of the packing nut after installation.
+OPERATION
+1) Ball valves are designed to be opened by rotating the lever handle in a counterclockwise
+direction, and closing in a clockwise direction. The handle indicates the ball port
+direction.
+2) Under certain conditions, throttling flow in the near-closed position can destroy the valve
+seats. Consult Factory for throttling service.
+INSPECTION & MAINTENANCE
+1) Periodic inspection and preventative maintenance is not required other than
+adjustment of stem packing, and cycling of the valve from open to closed position.
+2) If a valve develops a packing leak, adjust the packing nut to increase the pressure on
+the stem packing. The packing nut should be turned in a clockwise direction
+approximately 1/4 turn, or until the leakage stops. It is not recommended that valves
+be repacked while under pressure. Remove system pressure before starting.
+3) Repair or replacement of two piece ball valves internal parts is not recommended.
+Damage can occur to the body and tailpiece during disassembly that would make the
+valve inoperable.
+REPAIR PARTS
+Under normal conditions, repair parts are not required.

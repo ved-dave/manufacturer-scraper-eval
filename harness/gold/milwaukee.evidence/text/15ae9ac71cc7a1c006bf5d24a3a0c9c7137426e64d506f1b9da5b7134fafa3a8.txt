@@ -1,0 +1,39 @@
+=== page 1 ===
+16550 West Stratton Drive
+New Berlin, WI 53151
+262 432 2800 Phone
+262-432-2701 Fax
+TM
+Product Installation Instructions
+1. Cut copper tube, being sure to cut the tube square to tube centerline.
+2. Deburr pipe on the inside and outside to prevent damaging of O-ring. Clean the tube end of all
+dirt, oil and grease.
+3. Check both ends of valve for proper O-ring insertion. No oil or lubrication of O-ring is needed.
+4. Using a twisting motion, slide valve onto the pipe until it firmly stops.
+5. Mark insertion depth on tube.
+To avoid injuries, keep fingers away from jaws during pressing cycle
+6. Using recommended tool (Rigid Pressing Tool):
+• Insert correct size jaws into tool (follow manufactures instructions)
+• Squeeze jaw arms to open jaw set.
+• Place open jaws around valve end. Make sure the contour of the jaw set is properly
+aligned with the contour of the valve end. Check insert depth.
+• Make sure the tool is square to the tubing and press the trigger. Once the pressing cycle
+begins the rollers contact the jaws arms which will clamp the valve end to the tubing.
+Releasing the trigger will not stop the pressing process. This assures consistent,
+repeatable pressed connection integrity.
+• Press jaw arms to open jaw set, remove tool from tube.
+7. Fitting must be repressed if tool stops in the middle of the pressing process. Failure to do so may
+result in a leaking connection.
+8. Inspect the pressed fitting. Look for the following areas :
+• Misaligned tubes
+• Not fully inserted tubes, double check depth marks from step 5.
+• Incorrect jaw alignment with the fitting.
+Attempting to re-press a connection can cause product damage and connection failure.
+9. Test system in accordance with the normal practice and local codes. Press Adapters (P2 or P1
+Ends) are rated at 200 CWP. Valves with integral press ends are rated 250 CWP (1/2”-2”) or
+200 CWP (2 ½”-4”).
+Note: Product is design for copper tubing systems only, Types K,L, & M per ASTM B88.
+* 2 ½” & 3” are designed to work with XLC Installation Jaws.
+The information presented on this sheet is correct at the time of publication. Milwaukee Valve reserves the right to change
+design, and or material specification without notice. For the most current information access www.milwaukeevalve.com
+UPINR-Rev 0326

@@ -1,0 +1,90 @@
+507
+Bronze Check Valve, 300 SWP – 600 WOG, Threaded Ends
+Conforms to MSS SP-80 , Type 3
+Not Intended for Use in Potable Water
+Non-Shock
+Product Documents
+Submittal Documents
+Product Submittal
+IOMs
+IOM
+3D CAD Files
+View 3D CAD Drawing(s)
+Description
+Valve Type
+Check Valve
+Material
+Bronze
+ANSI/Pressure Rating
+300 SWP – 600 WOG
+End Connection
+Threaded
+Body Style
+Horizontal Swing Y/Pattern
+Seat Material
+Bronze
+Disc Material
+Bronze Regrinding
+Product Size
+1/4", 3/8", 1/2", 3/4", 1", 1-1/4", 1-1/2", 2", 2-1/2", 3"
+Add to quote
+Category:
+Check Valves
+Weights, Dimensions, and Box Quantity
+Size
+Unit Weight
+Unit Dims.
+LxWxH
+Box Quantity
+Box Dims.
+LxWxH
+1/4"
+0.58
+2.25 x 0.25 x 1.63
+10
+9.125 x 3.9375 x 2.0625
+3/8"
+0.56
+2.25 x 0.375 x 1.63
+10
+9.125 x 3.9375 x 2.0625
+1/2"
+0.9
+2.63 x 0.5 x 1.75
+10
+6 x 6 x 3.25
+3/4"
+1.26
+3 x 0.75 x 1.94
+6
+6 x 6 x 3.25
+1"
+2.18
+3.69 x 1 x 2.5
+6
+8.5 x 8.5 x 4.125
+1-1/4"
+3.1
+4.38 x 1.25 x 3
+4
+8.5 x 8.5 x 4.125
+1-1/2"
+4.14
+4.63 x 1.5 x 3.31
+4
+9 x 8 x 3
+2"
+7.36
+5.88 x 2 x 4
+2
+9 x 6 x 3
+2 1/2"
+10.78
+7 x 2.5 x 4.75
+1
+9.25 x 6.75 x 3.875
+3"
+15.24
+7.88 x 3 x 5.5
+1
+10.25 x 7.375 x 4.0625

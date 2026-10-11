@@ -1,0 +1,30 @@
+=== page 1 ===
+INSTALLATION- GATE. GLOBE AND CHECK VALVES
+1) Thoroughly clean and prepare the piping system before valve installation.
+2) Remove the valve end caps if present, and inspect the valve ports and seating surfaces for
+cleanliness just prior to installation.
+3) Support the valve to prevent unnecessary stresses induced by connecting pipe.
+4) Be sure the rating of the valve is compatible with the intended service conditions.
+5) Operate the valve from the full open to close position.
+6) Verify the tightness of the packing nut after installation.
+7) Recommend Gate and Globe Valve installation with stem in vertical position, operator
+on top.
+NOTE 1: Check valves may be installed in both horizontal and vertical lines with upward flow or in any
+intermediary position, as long as the hinge pin on swing checks is horizontal. Make sure they are
+sufficiently distant from pump outlets or other turbulence including devices. See Technical Bulletin.
+NOTE 2: Check valves may be shipped with internal packaging to prevent disc damage in transit.
+Remove any packing material prior to installation.
+OPERATION
+1) Gate and Globe valves are manually operated. Gate valves are designed to be in the fully open
+or fully closed position. To open, turn the handle in a counterclockwise direction. To close, turn
+in a clockwise direction.
+2) Check valves are automatic.
+INSPECTION & MAINTENANCE
+1) Periodic inspection and preventative maintenance is not required other than adjustment of
+stem packing, and cycling of the valve from open to closed position.
+2) If a valve develops a packing leak, adjust the packing nut to increase the pressure on the stem
+packing. The packing nut should be turned in a clockwise direction approximately¼ turn, or until
+the leaking stops. Do not repack valves under pressure.
+REPAIR PARTS
+Repair parts are not available for UltraPure products.
+Rev. 08/22
