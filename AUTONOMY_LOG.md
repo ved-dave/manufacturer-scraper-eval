@@ -28,3 +28,21 @@ Append-only. One entry per decision, round or problem. Times are UTC.
 - `apollo` split `challenge` → `dev` (AUTONOMOUS_RUN §1).
 - `.gitignore`: `*.evidence/files/` → `**/*.evidence/files/` (the old root-anchored pattern missed
   `harness/gold/*.evidence/files/`, HARNESS_ISSUES sioux-chief #1 / bray #5) and `*.zip` (Rule 9).
+
+## 2026-10-11 03:00 · Phase 1 · Labelling sessions launched (labeller role, separate sessions)
+Each child works from `auto/integration`, never opens `scraper/`/runs/reports, pushes its own branch; the
+orchestrator merges. First-pass labellers stop after the first pass with the 6 blind families
+(`random.Random(42).sample(sorted(15 family_ids), 6)`), then a separate blind session re-labels them, then the
+first-pass session compares (before/after agreement) and fixes; < 80% before-fix spec agreement → `spec:` clarification.
+| Task | Session | Branch |
+|---|---|---|
+| Crane key | https://outpostai.devinenterprise.com/sessions/7a66dd4390d44a7d84310c0bbeb111ec | gold/crane-auto |
+| Apollo key (Apollo brand only) | https://outpostai.devinenterprise.com/sessions/1501569f7beb45ab935132c541c94241 | gold/apollo-auto |
+| Cimberio key (held-out) | https://outpostai.devinenterprise.com/sessions/2298a5a862d04a138d305acd277cf4ad | gold/cimberio-auto |
+| Sioux Chief vocabulary pass | https://outpostai.devinenterprise.com/sessions/da2097dccfab4f8dbdbb4c4837e93625 | gold/sioux-chief-vocab |
+| Bray blind image/doc_type re-label (6 families from the earlier blind draw) | https://outpostai.devinenterprise.com/sessions/edea5461d1184f10aa77ca1c5893268f | blind/bray-imgdoc |
+- Decision: SPEC clarifications made by concurrent labellers are applied to the other sites' gold files by one
+  consistency session after all keys are in (avoids five sessions editing each other's gold).
+- Decision: Sioux vocabulary pass is mechanical mapping (sources unchanged), so no blind re-label; logged as such.
+- From here this session takes the engineer role and opens `scraper/` for the first time (labelling now runs only
+  in the separate sessions above).
