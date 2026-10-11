@@ -346,3 +346,10 @@ first-pass session compares (before/after agreement) and fixes; < 80% before-fix
   such families have no variants. Tests: `TestVariantsFromHeadingList` (2).
 - Seen but not addressed: multi-family datasheets (D102B/D103B/D104B) put several part-number tables on one sheet;
   the scraper takes all of them (variant precision 46%). Separating them needs table-to-heading layout analysis.
+
+## 2026-10-11 05:09 · Phase 2 · Round 5 decision: KEPT (round/5 = 5e37c4a; merge pending until bray r7 finishes)
+| metric | bray r4b | bray r5 | crane r4 | crane r5 | macro r4 | macro r5 |
+|---|---|---|---|---|---|---|
+| price availability | 95.8 | 95.8 | 16.2 | 43.2 | 56.0 | 69.5 |
+- All other key metrics identical on both sites; validation 0 errors (crane 220 warnings, bray 23); 0 crashes.
+- Crane r4 (cold cache) had reproduced crane r3 exactly: round 4 doesn't touch Crane (no heading lists/accessory subsets there).
