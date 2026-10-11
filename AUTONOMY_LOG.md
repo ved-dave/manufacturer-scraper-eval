@@ -192,3 +192,14 @@ first-pass session compares (before/after agreement) and fixes; < 80% before-fix
 - Bookkeeping: round 2 candidate committed on local branch `round/2` (a8db6a8, worktree ~/wt-r2) so Crane can be
   scored with exactly the round 2 code while the round 3 Bray run (r2 + cap) uses a different host in parallel.
   Rounds are still judged one at a time against the previous kept state.
+
+## 2026-10-11 03:23 · Consistency pass · Cimberio merged
+- `gold/cimberio-consistency` 5e26384 merged (d4557a7); validator 0 errors / 8 warnings (unchanged); tests OK.
+  Changes: Standards scope 10 (spelling as the sources print it); SPEC 3, BSPT/threaded, PN/class, SPEC 4/5/6/7: 0.
+- New `spec:` commits: 878f517 (standards keep each source's spelling; spacing/hyphen-only differences are the same
+  standard when cross-checked), aecaeb9 (a PN describing only a flange connection is not the pressure rating when the
+  source states a working pressure). Sent to the bray and sioux-chief consistency sessions; crane labeller asked to
+  apply them on `gold/crane-consistency`.
+- Problem: my earlier HARNESS_ISSUES.md conflict resolution (apollo merge) left diff3 base-marker lines
+  `||||||| e34e4bf`; my sed removed only <<<<<<< / ======= / >>>>>>>. Removed them now; future conflict resolutions
+  also strip `|||||||` lines.

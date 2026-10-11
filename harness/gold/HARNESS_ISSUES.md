@@ -43,7 +43,6 @@ Most issues from the first pass were adopted on `main` (robots override, `refine
 ## crane (blind re-label)
 - config/sites.json: added `bimstore.co.uk` and `bimstore.co` to `global_cad_viewer_hosts` (Crane BIM/Revit links go to BIMstore; recorded as gated cad_viewer, never logged into).
 - validate.py market_flag check uses only the URL locale, so an en-GB-only site with no locale prefix WARNs "suggests na" even though SPEC 1 says en-GB -> non_na.
-||||||| e34e4bf
 
 
 ## apollo (gold labelling, 2026-10-11)
