@@ -164,7 +164,9 @@ no longer a source for the field, and `cross_check` follows the remaining source
 or is designed, tested, threaded, drilled or flanged to (e.g. BS EN 593, BS 7350, BS EN 10226-2, ISO 7-1, ISO 228,
 BS EN 1092-2, ANSI B16.1), one entry per standard number as written (year and part suffixes as given). Standards
 named only as "formerly ..." and test standards of other products are not listed. Thread or flange standards are
-recorded here in addition to the `end_connections` term.
+recorded here in addition to the `end_connections` term. Spelling-only differences (spaces, hyphens, e.g. `MSS SP-110` / `MSS-SP-110`, `PS117-2004` / `PS1172004`)
+do not make a different standard: each source's list keeps that source's spelling, and `cross_check` compares them as
+the same entry (decided 2026-10-11).
 
 **PN and class designations (decided 2026-10-11).** A PN designation (PN16, PN25) is recorded as
 `pressure_rating` value = the PN number, unit `bar`, `raw_text` the designation. When a source gives only a class
