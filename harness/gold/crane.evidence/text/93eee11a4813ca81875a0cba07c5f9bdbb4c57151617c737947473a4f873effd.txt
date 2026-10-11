@@ -1,0 +1,196 @@
+TECHNICAL HELPLINE: +44 (0)1473 277400 
+E: enquiries@cranefs.com  W: www.cranefs.com
+14
+BALL VALVES
+ZONE VALVES
+Every effort has been made to ensure that the information contained in this publication is accurate at the time of publishing. Crane Ltd assumes no responsibility or liability for typographical errors or 
+omissions or for any misinterpretation of the information within the publication and reserves the right to change without notice.
+Features & Benefits 
+•	 Offers zone, terminal bypass and end of line applications
+•	 Simple integration into the BMS using the Crane FS Modulating (ACT991M), 3 Point (ACT991TP) 
+and Thermic (ACT992TH 140N) actuators
+•	 Easy mounting to pipework or terminal units in confined spaces due to the compact and 
+lightweight design
+•	 Isolation function with Class IV leakage up to 225kPa
+•	 PN16 rated product, suitable for building services applications and services with up to 30% Glycol
+Dimensions D102B
+PART NO
+KVS (m3/h) CLOSE OFF (kPa)
+a
+b
+c
+d
+e
+f
+0JG93477X
+0.25
+225
+52
+1/2"
+22.5
+27
+15.6
+65
+0JG93478Y
+0.4
+0JG93479A
+0.6
+0JG93480S
+1.0
+0JG93481T
+1.6
+0JG93482U
+2.5
+56
+3/4"
+23.6
+25.8
+0JG93605M
+4
+150
+78
+20.5
+41
+15.6
+71
+0JG93606N
+6
+Materials
+DESCRIPTION
+MATERIAL
+Body
+Brass CW617N
+Bonnet
+Reinforced technopolymer
+Plug
+Fortron 
+Stem
+Stainless steel
+O-rings
+EPDM
+Pressure/Temperature Ratings
+TEMPERATURE (°C) 	
+PRESSURE (BAR) 	
+5°C to 95°C
+16 Bar
+Vaild as of 24/04/23
+D102B/D103B/D104B
+DN15/DN20
+PN16
+2/3/4 Port Valve
+SPECIFICATION: The control valve shall consist of a two / three / four-port characterised 
+control valve. Shall provide Class IV leakage during isolation function up to at least 225kPa.
+Valve position to be controlled through a compatible actuator of the same manufacturer as 
+the control valve, typically by a M30x1.5 threaded connection. Shall be manufactured from 
+Brass, with PPS plug and Stainless-Steel springs. Shall be rated to PN16 and operate at 
+temperatures to 95°C. As per Crane FS D102B / D103B / D104B.
+Dimensional Drawings
+Dimensions D104B
+PART NO KVS DIRECT 
+WAY (m3/h)
+KVS ANGLE  
+WAY (m3/h)
+CLOSE 
+OFF (kPa)
+a
+b
+c
+d
+e
+f
+0JG93490U
+0.25
+0.25
+225
+52
+1/2"
+40
+27
+15.6
+88.4
+0JG93491V
+0.4
+0.4
+0JG93492W
+0.6
+0.6
+0JG93493X
+1.0
+0.6
+0JG93494Y
+1.6
+1.0
+0JG93495A
+2.5
+1.6
+56
+3/4"
+50
+25.8
+98.4
+Dimensions D103B
+PART NO
+KVS DIRECT 
+WAY (m3/h)
+KVS ANGLE 
+WAY (m3/h)
+CLOSE 
+OFF (kPa)
+a
+b
+c
+d
+e
+f
+0JG93483V
+0.25
+0.25
+225
+52
+1/2"
+25
+27
+15.6
+65
+0JG93484W
+0.4
+0.4
+0JG93485X
+0.6
+0.6
+0JG93486Y
+1.0
+0.6
+0JG93487A
+1.6
+1.0
+0JG93488B
+2.5
+1.6
+56
+3/4”
+34
+25.8
+75.4
+0JG93618S
+4
+2.5
+150
+78
+35.5
+41
+92.1
+0JG93619T
+6
+4
+D102B
+D102B+ACT992TH
+D103B
+D103B+ACT992TH
+D104B
+D104B+ACT992TH
+PRESSURE RATING: PN16  
+MEDIUM: Group 2 Liquids
+END CONNECTIONS: BSP Male Parallel Thread ISO-228
+0JG93556V 1/2” BSP x15mm & 0JG93662W 3/4” BSP x15mm solder 
+adaptors are available when female end connection is required

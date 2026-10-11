@@ -1,0 +1,182 @@
+Every effort has been made to ensure that the information contained in this publication is accurate at the time of publishing. Crane Ltd assumes no responsibility or liability for typographical errors or  
+omissions or for any misinterpretation of the information within the publication and reserves the right to change without notice.
+28
+TECHNICAL HELPLINE: +44 (0)1473 277400   
+E: enquiries@cranefs.com  W: www.cranefs.com
+GENERAL VALVES
+BUTTERFLY VALVES
+Semi-Lugged Lever Operated  
+Butterfly Valves 
+Features & Benefits
+•	WRAS approved for potable water applications -10°C to 80°C
+•	Robust, ductile iron valve body for long life service
+•	Valve body semi-lugged to fit PN16 or ANSI Class 125 flanges
+•	The anti-blow out stem design provides a safe and secure operation
+•	Integrated notch plate for a more compact design and aluminium lever to 
+reduce risk of corrosion
+•	Fully bonded epoxy paint system for superior corrosion resistance
+•	Suitable for applications where Level 3 C3 (Medium) corrosion protection 
+is required
+•	Suitable for use with flanges conforming to BS EN 1092-2 PN10 or PN16 
+and ANSI B16.1 Class 125
+•	Maintenance free valve design, reducing downtime
+•	Suitable for a wide temperature range -10°C to 100°C
+F621 
+F621
+DN50 PICTURED
+PRESSURE RATING: PN16 / CLASS 125
+TEST PRESSURES:  
+Shell: 24 Bar   Seat: 17.6 Bar
+SPECIFICATION: Lever operated epoxy coated Ductile Iron Body.  
+Semi-lugged. Aluminium Bronze disc. EPDM liner. To suit flange connections 
+BS EN 1092-2 PN10 or PN16 and ANSI B16.1 Class 125. Valves may be 
+used for flow regulation. Valve design conforms to BS EN 593. Face to face 
+conforms to BS EN 558.
+MEDIUM:  
+Suitable for Group 2 liquids as defined by the Pressure Equipment Directive 
+2014/68/EU* WRAS approved valves.
+Dimensional Drawing
+Dimensions & Weights 
+PN16
+Vaild as of 081220
+Pressure/Temperature Ratings
+MAX TEMPERATURE (°C)	
+-10 to 100	
+PRESSURE (BAR) 	
+ 16 	
+ 
+F621
+Intermediate pressure ratings shall be determined  
+by interpolation. 
+WRAS approved -10 to 80˚C
+50
+2.4
+109
+246
+72
+43
+32
+212.5
+100
+52.9
+98
+DN50 PN16 / 
+2” CL125
+65
+3.3
+131.5 278.5
+82
+46
+32
+212.5
+120
+64.6
+167
+DN65 PN16 / 
+2.1/2” CL125
+80
+3.6
+134
+294
+95
+46
+32
+212.5
+127
+79
+258
+DN80 PN16 /
+ 3” CL125
+100
+4.5
+163
+343
+115
+52
+32
+212.5
+156
+104.4
+512
+DN100 PN16 /  
+4” CL125
+125
+6.3
+169
+359
+125
+56
+32
+212.5
+190
+123.5
+872
+DN125 PN16 /  
+5” CL125
+150
+8.4
+179
+392
+142
+56
+40
+245
+212
+155.8 1,347
+DN150 PN16 /  
+6” CL125
+200
+13.4
+224
+465
+170
+60
+40
+378
+268
+202.7 2,675
+DN200 PN16 /  
+8” CL125
+SIZE 
+(mm)
+WEIGHT 
+(kg)
+A 
+(mm)
+A1 
+(mm)
+B 
+(mm)
+C 
+(mm)
+D 
+(mm)
+E 
+(mm)
+F 
+(mm)
+G 
+(mm)
+Kv
+FLANGE SLOTS 
+TO SUIT
+*Kv coefficient denotes valves in fully open position
+Materials
+PART 	
+MATERIAL 	
+Body 	
+Ductile Iron ASTM A536 64-45-12 (Epoxy Paint)
+Disc	
+Aluminium Bronze C954 ASTM B148 
+Liner 	
+EPDM (WRAS Approved) Temp. -10 to 100°C (80°C WRAS)
+Shaft 	
+Stainless Steel Type 410 
+Taper Pin 	
+Stainless Steel Type 410 
+O-Ring 	
+Buna-N 
+Bushing 	
+PTFE 
+Lever 	
+Aluminium Alloy (Epoxy Paint)

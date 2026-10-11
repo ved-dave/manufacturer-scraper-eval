@@ -1,0 +1,144 @@
+Every effort has been made to ensure that the information contained in this publication is accurate at the time of publishing. Crane Ltd assumes no responsibility or liability for typographical errors or  
+omissions or for any misinterpretation of the information within the publication and reserves the right to change without notice.
+15
+TECHNICAL HELPLINE: +44 (0)1473 277400   
+E: enquiries@cranefs.com  W: www.cranefs.com
+BALANCING VALVES
+DOUBLE REGULATING VALVE
+Vaild as of 220324
+Double Regulating Valve (DRV) 
+Features & Benefits
+•	The Double Regulating Valve offers an accuracy of ± 5% on all 
+settings for precise flow regulation
+•	Y-Pattern globe valves with characterised throttling disc tending 
+towards equal percentage performance. 
+•	Double regulating feature allows valve opening to be set with an 
+Allen key
+•	Operation of the valve is by means of the Microset handwheel
+•	WRAS approved. 
+•	The D921 has sufficient authority to give effective regulation over the 
+range of flows covered by matching flow measurement devices/valves
+•	The D923 low flow regulating valve has an authority matched 
+to the range of ultra-low flows covered by the D902 flow
+measurement device
+D921 / D923 
+Materials 
+PART 	
+MATERIAL 	
+SPECIFICATION 
+Body	
+Bronze	
+BS EN 1982 CC491K
+Bonnet	
+DZR Copper Alloy	
+BS EN 12165 CW602N
+Stem	
+DZR Copper Alloy	
+BS EN 12165 CW602N
+Disc	
+DZR Copper Alloy	
+BS EN 12165 CW602N
+O-Ring Seal	
+EPDM Rubber
+Handwheel	
+Plastic
+Dimensions, Coefficients & Weights 
+Pressure/Temperature Ratings
+SPECIFICATION: Conforms to BS 7350*:1990
+END CONNECTIONS: Sizes 1" to 2" taper threaded to BS EN 10226-2 (ISO 7-1) formerly BS 21. 
+Sizes 1/2" & 3/4" DN15 & DN20 parallel threaded to BS EN ISO 228-1(formerly BS 2779).
+Adaptor kits for use with copper tube also available. Also available threaded to ANSI B1.20.1.
+Please add suffix AT to denote American Thread i.e. D921AT/D923AT
+Dimensional Drawing
+TEMPERATURE (°C) 	
+-10 to 100 	
+110 	
+120 
+PRESSURE (BAR) 	
+25 	
+23.4 	
+21.8 
+Threaded
+TEMPERATURE (°C) 	
+-10 to 30 	
+65 	
+120 
+PRESSURE (BAR) 	
+16 	
+10 	
+5 
+Compression
+Intermediate pressure ratings shall be determined by 
+interpolation.
+Maximum temperature 120° C.
+Note: In line with BS EN 1254/2 the maximum pressure must 
+not exceed 16 bar when using compression adaptors.
+A
+(all sizes)
+FIG. NO. 	
+SIZE 	
+ 	
+	
+FLOW 	
+HEAD LOSS 	 WEIGHT  	
+	
+	
+A	
+B 	
+(Kv)	
+ (K) 	
+(kg) 
+D921 	
+1/2"/DN15 	
+87    	
+105 	
+2.14 	
+23.11 	
+0.54 
+ 	
+3/4"/DN20 	
+96  	
+106 	
+3.61 	
+26.14 	
+0.58 
+ 	
+1"/DN25 	
+100  	
+127 	
+6.37 	
+21.45 	
+0.88 
+ 	
+11/4"/DN32 	
+114  	
+128 	
+12.30 	
+17.42 	
+1.05 
+ 	
+11/2"/DN40 	
+125  	
+143 	
+21.30 	
+10.66 	
+1.43 
+ 	
+2"/DN50 	
+146  	
+144 	
+31.30 	
+12.63 	
+1.88 
+D923 	
+1/2"/DN15 	
+87  	
+105 	
+2.26 	
+20.72 	
+0.54
+FULLY OPEN
+DIMENSIONS (mm)
+B
+WRAS approved -10 to 85˚C
+PN25

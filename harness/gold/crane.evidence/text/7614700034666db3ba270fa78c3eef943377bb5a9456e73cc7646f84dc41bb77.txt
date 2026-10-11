@@ -1,0 +1,612 @@
+INSTALLATION, OPERATING AND MAINTENANCE INSTRUCTIONS
+GLOBE VALVES
+D4 / D7 / D10 / D14 / D15 / D16 / D46 / D52 / D71 / D72 / 
+DM6 / DM11 / F372 / FM369 Bronze and Iron Globe Valves
+Globe valves are mainly used to connect 
+or disconnect the medium in the pipeline 
+and are generally used to regulate the 
+flow. They usually require fewer turns to 
+operate than a gate valve and the seats do 
+not slide against each other, so are less 
+prone to wear. They are recommended 
+where frequent operation is required.
+Preparation 
+•	 Ensure valve is suitable for service conditions 
+e.g. pressure, temperature, service media. 
+•	 Remove dust caps/flange protectors, 
+where fitted.
+•	 Prior to installation, a check of the identification 
+plate and body marking must be made to 
+ensure that the correct valve is being installed.
+INTRODUCTION
+GENERAL INSTALLATION
+D4 GLOBE VALVE
+•	 The complete piping system must be flushed 
+through prior to commissioning to ensure all 
+foreign matter is removed. Subsequent valve 
+failure is frequently caused by dirt and other 
+matter left in the pipeline.
+•	 Valves are precision manufactured items and as 
+such, should not be subjected to misuse such 
+as careless handling, allowing dirt to enter the 
+valve through the end ports, lack of cleaning 
+both valve and system before operation and 
+excessive force during assembly.
+
+
+THERMOSTATIC MIXING VALVES: D1088 & D1089
+2
+INSTALLATION, OPERATING AND MAINTENANCE INSTRUCTIONS
+CRANE FLUID SYSTEMS GLOBE VALVES
+2
+Valve Size
+Turns
+Valve Size
+Turns
+Valve Size
+Turns
+¼" – 1½"
+1.5
+2"
+2
+2½" – 4"
+2.5
+ORDERING CODES
+Flanged Joints
+Flanges may be damaged by over tightening the 
+bolts. The following procedures will reduce this 
+risk:
+•	 Full-face gaskets reduce the stresses in flat 
+face flanges.
+•	 Low strength carbon steel bolting has 
+traditionally been used to restrict the load 
+imposed on grey iron flanges, but should not 
+be used for temperatures above 200° C.
+•	 Always use the correct size and number of bolts.
+•	 Find out the correct assembly torque for the 
+specific gasket and conditions applicable, and 
+use a torque wrench to achieve this. Use the 
+correct tightening sequence.
+•	 Do not match a flat-faced flange to a raised 
+face flange.
+•	 The flange gaskets should be suitable for 
+operating conditions or maximum pressure/
+temperature ratings.
+•	 The flange gaskets should be checked to 
+ensure freedom from defects or damage.
+•	 Care should be taken to provide correct 
+alignment of the flanges being assembled. 
+The valve should not be used to correct mis-
+aligned pipework. A suitable lubricant on bolt 
+threads is recommended. In assembly, flange 
+bolts should be tightened sequentially to make 
+the initial contact of flanges and gaskets flat 
+and parallel followed by gradual and uniform 
+tightening in an opposite bolting sequence to 
+avoid bending one flange relative to the other, 
+particularly on flanges with raised faces.
+•	 Flanged joints depend on compressive 
+deformation of the gasket material between the 
+flange surfaces.
+Threaded Joints
+•	 Confirm that the pipe threading length is 
+correct to avoid excessive penetration of the 
+pipe into the valve which would otherwise 
+cause damage.
+•	 The valves are supplied with taper threads 
+and, with the use of a thread sealant will give a 
+pressure tight seal.
+•	 To avoid distortion of the valve, when fitting 
+and tightening the pipe, the valve must be 
+gripped using the flats provided at the same 
+end as the pipe is being fitted.
+•	 Care should be taken to avoid ‘pipe ending’. 
+This is a condition that occurs when the pipe 
+is screwed in too far resulting in distortion of 
+the valve seat. The use of a thread gauge is 
+recommended to check the thread dimensions.
+•	 The male thread on the pipe must have fully 
+formed, correctly gauged, undamaged threads.
+•	 Screw the pipe into valve and hand tighten, 
+then tighten by the number of turns shown 
+below (up to one additional turn is permitted 
+for alignment).
+
+
+3
+THERMOSTATIC MIXING VALVES: D1088 & D1089
+INSTALLATION, OPERATING AND MAINTENANCE INSTRUCTIONS
+CRANE FLUID SYSTEMS GLOBE VALVES
+3
+Valve Location
+•	 It should be considered at the design stage 
+where valves will be located to give access for 
+operation, cleaning and maintenance.
+Layout and Sitting
+•	 Globe Valves are not designed for use as “end 
+of line” services, where mounted on the end of 
+a pipeline we strongly recommend the use of a 
+blanking flange.
+•	 It is bad practice to install valves with the hand 
+wheels pointing downwards, as damage may 
+be caused to the gland packing and stem seal, 
+by debris in the system.
+•	 The valve must be installed with the direction 
+arrow on the body coincident with the direction 
+flow in the pipeline.
+•	 Conventionally, valves are installed in 
+horizontal pipework. This is however, not a 
+constraint and they may be mounted in vertical 
+or inclined pipework.
+Piping Supports
+•	 Valves must be provided with adequate 
+support. Adjoining pipework must be 
+supported to avoid the imposition of pipeline 
+strains on the valve body, which would impair 
+its performance. 
+•	 These must be carefully aligned and at the 
+correct distance between centres for the size 
+and type of pipe. Please refer to the current 
+best practice for details of correct spans and 
+installation details.
+•	 The operating conditions shall be consistent 
+with the requirements in the performance 
+specification.
+•	 Handwheels cannot be used for lifting.
+•	 Globe valves are designed to seat with 
+the Crane standard handwheel. Levers, 
+wrenches or other tools should not generally 
+be used to operate a valve. Excessive torque 
+can cause damage to seating faces and/or 
+stem/handwheel. With valves DN200 and 
+above, the use of a ‘pinch bar’ is acceptable 
+providing the bar length does not exceed 1.5 x 
+the handwheel diameter.
+•	 The valve is opened by anti-clockwise rotation 
+of the handwheel to a positive stop. Further 
+effort is not necessary. When fully open it 
+is advantageous to rotate the handwheel 
+clockwise 1/2 turn. To close the valve, the 
+handwheel is rotated clockwise to a positive 
+stop.
+•	 Operators should use suitable personal 
+protective equipment when operating the valve.
+•	 The maximum pressure rating is that on a 
+closed valve.
+•	 Flow direction is usually with pressure under 
+the disc on closure, but may be reversed on 
+hard seated valves to help guarantee a tight 
+shut off. This may be advantageous if the valve 
+is subject to extreme temperature variations, 
+or if its condition deteriorates with time.
+OPERATION
+
+
+THERMOSTATIC MIXING VALVES: D1088 & D1089
+4
+Gland Adjustment
+The gland may need adjustment during 
+installation and then periodically thereafter to 
+maintain a stem gland seal. Check for leaks 
+at gland. If gland is leaking, the following 
+procedure is recommended: 
+•	 Tighten the gland nut(s) - if more nuts 
+are present, tighten a part turn at a time, 
+alternating from one to the other, in a 
+clockwise direction until increased resistance 
+to operate the valve is obtained, or if leakage 
+is present until the leakage stops. The gland 
+nut(s) should be tightened only enough to 
+prevent stuffing box leakage. Over-tightening 
+can cause excessive wear on stem and 
+packing and make valve difficult to operate.
+Other than gland adjustment, Crane Globe 
+Valves are maintenance free. For any technical 
+queries, please contact Crane Technical 
+Department.
+•	 Crane Fluid Systems do not offer spares for 
+this product. 
+•	 If product is disassembled, warranty is void.
+INSTALLATION, OPERATING AND MAINTENANCE INSTRUCTIONS
+4
+•	 For enhanced life of the valve and better 
+operability, it is recommended to do a 
+periodic inspection and maintenance of the 
+valves as explained below:
+The frequency of observation depends on 
+its application. Crane recommends that 
+valve shall be inspected every 50 cycles or 
+three months (whichever earlier) for smooth 
+operation and leak free performance. This is 
+recommended even for stored valves also. 
+It is advisable to maintain a record of the 
+performance of the valve.
+•	 Where the handwheel, and therefore the 
+identification plate, is removed for maintenance 
+they must be refitted after the work is 
+completed. The absence of the identification 
+plate invalidates the valve’s CE status.
+•	 The valve should be at zero pressure and 
+ambient temperature prior to any inspection.
+•	 Maintenance Engineers & Operators should 
+have the appropriate level of competence 
+and are reminded to use correct fitting tools 
+and equipment.
+•	 The risk assessment must take into account the 
+possibility of the limits of use being exceeded 
+whereby a potential hazard could result. 
+•	 A maintenance programme should therefore 
+include checks on the development of 
+unforeseen conditions which could lead 
+to failure.
+•	 Occasionally operate valves that remain open 
+or closed for long periods to ensure they 
+are in good working order, thus avoiding the 
+possibility of being inoperable in a time of 
+emergency.
+•	 The surfaces of valves in service may be 
+subject to extreme temperatures; care should 
+be taken when handling.
+INSPECTION AND MAINTENANCE
+GENERAL CONSIDERATIONS
+CRANE FLUID SYSTEMS GLOBE VALVES
+
+
+5
+THERMOSTATIC MIXING VALVES: D1088 & D1089
+INSTALLATION, OPERATING AND MAINTENANCE INSTRUCTIONS
+These valves have been categorised in accordance with the Pressure Equipment 
+Directive 2014/68/EU.
+The fluid to be transported is limited to those shown in the product table below. 
+On no account can these valves be used on any unstable fluids, or for the fluids 
+groups not specified in the product table.
+Note: Valves that are classified as SEP (Sound Engineering Practice) are not CE 
+marked and therefore do not require a Declaration of Conformity.
+Products conforming to Cat I of the PED 2014/68/EU shall include the CE Mark. 
+Products conforming to Cat II and above of the PED 2014/68/EU shall include the 
+CE Mark and applicable Notified Body Number.
+•	 Valves must be installed into a well-designed 
+system and it is recommended that the 
+system be inspected in accordance with the 
+appropriate national and regional legislation.
+•	 Valves must be installed by competent
+personnel only.
+•	 Maximum operating pressure reduces as 
+service temperature increases. Service 
+temperature and pressure indicated on the 
+identification plate or body marking should not 
+be exceeded – please refer to example below.
+5
+LIMITS OF USE
+CRANE FLUID SYSTEMS GLOBE VALVES
+Fig. No.
+ Material
+PED category by valve size (DN)
+Product Applications
+SEP
+1
+2
+Group 1 Gas
+Group 2 Gas
+Group 1 Liquid
+Group 2 Liquid
+D4 / D4.AT
+Bronze
+8-50
+-
+-
+-
+
+
+
+D7 / D7.AT
+Bronze
+8-32
+40-50
+65-80
+-
+
+
+
+D10
+Bronze
+15-50
+65-80
+-
+-
+
+
+
+D14 / D14.AT
+Bronze
+8-32
+40-80
+-
+-
+
+
+
+D15 / D15.AT
+Bronze
+8-32
+40-80
+-
+-
+
+
+
+D16 / D16.AT
+Bronze
+8-32
+40-80
+-
+-
+
+
+
+D46 / D46.AT
+Bronze
+8-32
+40-50
+65-80
+-
+
+
+
+D52 / D52.AT
+Bronze
+15-25
+-
+32-50
+
+
+
+
+D71
+Bronze
+6-20
+-
+-
+-
+
+
+
+D71.AT
+Bronze
+6-20
+-
+-
+-
+
+
+
+D72
+Bronze
+6-20
+-
+-
+-
+
+
+
+D72.AT
+Bronze
+6-20
+-
+-
+-
+
+
+
+DM6
+Bronze
+15-50
+-
+-
+-
+
+
+
+DM11
+Bronze
+15-40
+50-80
+-
+-
+
+
+
+F372
+Cast Iron
+50-65
+80-125
+150
+-
+
+
+
+FM369
+Cast Iron
+50
+65-125
+150
+-
+
+
+
+•	 The installation should be designed to provide 
+adequate means of draining and venting to avoid 
+harmful effects such as water hammer, vacuum 
+collapse, corrosion and uncontrolled chemical 
+reactions and to permit cleaning, inspection and 
+maintenance in the correct manner.
+
+
+THERMOSTATIC MIXING VALVES: D1088 & D1089
+6
+•	 Valves are not designed to operate under high 
+shock loadings. Where pressure increases 
+occur due to shock loading (water hammer), 
+they should be added to the working pressure 
+to obtain the total pressure acting on the valve. 
+The total must not exceed the pressure rating 
+of the valve. A pressure surge, or shock, is 
+usually caused by the rapid closure of a check 
+valve or quarter turn valve resulting in a sudden 
+reduction in flow rate.
+•	 It is the responsibility of the installer to ensure 
+that the valves do not exceed the allowable 
+limits of pressure. However, the equipment is 
+designed to withstand a momentary pressure 
+surge of up to 10% above the maximum 
+working pressure.
+•	 The product has not been designed to include 
+corrosion, erosion or abrasion allowances. Any 
+queries regarding service applications should 
+be addressed to the Crane Fluid Systems - 
+Technical Sales Department.
+INSTALLATION, OPERATING AND MAINTENANCE INSTRUCTIONS
+6
+LIMITS OF USE ( C O N T I N U E D )
+CRANE FLUID SYSTEMS GLOBE VALVES
+•	 The valves have been designed for loadings, 
+appropriate to its intended use and other 
+reasonably foreseeable operating conditions. 
+Loadings caused by traffic, wind and 
+earthquake have not been taken into account.
+•	 Not suitable for fatigue loading, creep 
+conditions, fire testing, fire hazard 
+environment, corrosive or erosive service, 
+transporting fluids with abrasive solids.
+•	 The piping system shall be designed to reduce 
+the risk of fatigue due to vibration of pipes.
+•	 Crane valves have not been designed as fire 
+safe valves.
+
+
+7
+THERMOSTATIC MIXING VALVES: D1088 & D1089
+INSTALLATION, OPERATING AND MAINTENANCE INSTRUCTIONS
+7
+OPERATING PRESSURE AND TEMPERATURE
+CRANE FLUID SYSTEMS GLOBE VALVES
+*Insulation is essential for external temperatures up to 10°C.
+Example of Identification plate 
+showing service pressure and 
+temperature limitations.
+Fig. No.
+Maximum Operating Pressure Conditions
+Maximum Operating Temperature Conditions
+D4 / D4.AT
+20.0 Bar / 100°C
+9.0 Bar / 180°C
+D7 / D7.AT
+32.0 Bar / 100°C
+14.0 Bar / 198°C
+D10
+15.5 Bar / 66°C
+11.1 Bar / 186°C
+D14 / D14.AT
+DN8-DN50: 32.0 Bar / 120°C
+DN65-DN80: 25.0 Bar / 180°C
+DN8-DN50: 14.0 bar / 260°C
+DN65-DN80: 10.5 bar / 260°C
+D15 / D15.AT
+DN8-DN50: 32.0 Bar / 100°C
+DN65-DN80: 25.0 Bar / 100°C
+DN8-DN50: 14.0 bar / 198°C
+DN65-DN80: 10.5 bar / 186°C
+D16 / D16.AT
+DN8-DN50: 32.0 Bar / 120°C
+DN65-DN80: 25.0 Bar / 180°C
+DN8-DN50: 14.0 bar / 260°C
+DN65-DN80: 10.5 bar / 260°C
+D46 / D46.AT
+40.0 Bar / 120°C
+17.5 Bar / 260°C
+D52 / D52.AT
+64.0 Bar / 66°C
+20.7 Bar / 288°C
+D71
+32.0 Bar / 100°C
+14 Bar / 198°C
+D71.AT
+27.6 Bar / 66°C
+13.8 Bar / 198°C
+D72
+32.0 Bar / 100°C
+14 Bar / 198°C
+D72.AT
+27.6 Bar / 66°C
+13.8 Bar / 198°C
+DM6
+16.0 Bar / 100°C
+7.0 Bar / 170°C
+DM11
+25.0 Bar / 100°C
+10.5 Bar / 186°C
+F372
+13.8 Bar / 65°C
+8.6 Bar / 230°C 
+FM369
+16.0 Bar / 120°C
+12.1 Bar / 220°C 
+
+
+www.cranebsu.com
+CFS_Globe_1023
+IOM_0A 03673V_Rev_A
+The use of chemicals for system dosing must 
+be determined by the user as all aspects of the 
+system must be established and considered, 
+and the effect of the chemicals used (including 
+compounds arising from chemical combinations) 
+must also be established in order to accurately 
+determine compatibility.
+Crane (and its related brands) manufacture 
+hardware (valves, couplings, etc) for the Building 
+Services industry and Utilities industries. 
+However, we are not system designers or 
+operators and cannot make recommendations 
+regarding chemical compatibility for the system, 
+as a result of the above variables. Any comments 
+from Crane regarding chemical compatibility 
+shall relate solely to the Crane product and 
+does not constitute a recommendation on 
+compatibility for the wider system, resultant 
+chemical compounds, components, substances 
+or materials, in whole or in part.
+STRESS CORROSION CRACKING
+For reference, and not exhaustive, certain 
+austenitic stainless steels and aluminium alloys 
+crack in the presence of chlorides, mild steel 
+cracks in the presence of alkali and nitrates, 
+copper alloys crack in ammoniacal solutions and 
+iron with almost any caustic species (hydrogen 
+presence notwithstanding).
+For more information on how SCC can occur, 
+please visit www.cranefs.com
+MIDDLE EAST & NORTH AFRICA 
+SALES OFFICE, 
+BUILDING 4, OFFICE 901, 
+THE GALLERIES, PO BOX 17415,
+DOWNTOWN JEBEL ALI
+DUBAI, UAE
+TELEPHONE: +971 4816 5800
+EXPORT SALES ENQUIRIES: mena-enquiries@cranefs.com
+• Designed and manufactured under quality management systems in accordance with BS EN ISO 9001.
+Every effort has been made to ensure that the information contained in this publication is accurate at the time of publishing. 
+Crane Ltd assumes no responsibility or liability for typographical errors or omissions or for any misinterpretation of the 
+information within the publication and reserves the right to change without notice.
+CRANE HOUSE, EPSILON TERRACE, 
+WEST ROAD, IPSWICH, 
+SUFFOLK IP3 9FJ
+TELEPHONE: +44 (0)1473 277300
+FAX: +44 (0)1473 277301
+UK SALES ENQUIRIES: enquiries@cranefs.com 
+TECHNICAL ENQUIRIES: tech-enquiries@crane-ltd.co.uk
+www.cranefs.com
+To visit our Video Library go to: 
+www.youtube.com/user/CraneBSU
+FM 00311
+EMS 553775

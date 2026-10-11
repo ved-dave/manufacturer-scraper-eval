@@ -1,0 +1,168 @@
+BALL VALVES
+28
+TECHNICAL HELPLINE: +44 (0)1473 277400 
+E: enquiries@cranefs.com  W: www.cranefs.com
+GENERAL VALVES
+Every effort has been made to ensure that the information contained in this publication is accurate at the time of publishing. Crane Ltd assumes no responsibility or liability for typographical errors or  
+omissions or for any misinterpretation of the information within the publication and reserves the right to change without notice.
+BALL VALVES
+Vaild as of 130325
+Dimensions & Weights 
+Materials
+Threaded
+D171AEXS
+Threaded DZR Ball Valve with Extension Stem 
+PN25
+Features & Benefits
+•	Designed to be light, compact and easy to install and operate
+•	Features improved leak resistance and reduced risk of damage from 
+over tightening
+•	WRAS Approved to 85°C
+•	Extension stem (EXS) to enable valve operation whilst the valve and 
+associated pipework is surrounded with insulation or if the valve is in a 
+hard to access area.
+• Conforms to BS EN 13547
+D171A
+Threaded DZR Ball Valve   
+D171A
+D171AEXS
+Pressure/Temperature Ratings
+Dimensional Drawing
+Intermediate pressure ratings shall be determined 
+by interpolation. 
+All dimensions are nominal.
+TEMPERATURE (°C) 	
+-10 to 100 	
+120 
+PRESSURE (BAR) 	
+25	
+21.8 
+PRESSURE RATING: PN25
+TEMPERATURE OPERATING RANGE: -10 to 120°C
+UK END CONNECTION: Taper threaded to BS EN 10226-2 (ISO 7-1) formerly BS 21
+US END CONNECTION: ANSI B1.20.1:1983 (please add suffix AT to denote American Thread)
+OPERATOR: Lever
+SPECIFICATION: DZR Brass (CW602N) Body Ball Valve, in accordance to BS EN 13547, two-piece construction, Floating Stainless Steel SS304 Ball, Anti Blow-out stem, 
+PTFE seats, Threaded Ends, PN25 Rated. Suitable for use on Group 2 Gas, Group 1 and Group 2 Liquids as defined by Pressure Equipment Directive 2014/68/EU, 
+as amended.* Not suitable for use on Group 1 Gases or unstable liquids.
+SIZE
+(inch)
+WEIGHT 
+(A) (kg)
+WEIGHT 
+(AEXS) (kg)
+L
+(mm)
+B 
+(mm)
+H (A) 
+(mm)
+H (AEXS) 
+(mm)
+L1 
+(mm)
+KV
+1/2
+0.252
+0.308
+58.9
+15.0
+43.5
+107.2
+96
+31
+3/4
+0.389
+0.456
+66.9
+20.0
+50.5
+116.2
+111
+45
+1
+0.579
+0.646
+80.4
+25.0
+54.2
+119.9
+111
+63
+1-1/4
+0.917
+1.005
+94
+32.0
+73.5
+137.2
+141
+102
+1-1/2
+1.252
+1.339
+102
+40
+79
+142.7
+141
+375
+2
+2.080
+2.212
+124
+50
+96.5
+163.2
+166
+420
+PART 	
+MATERIAL 	
+QUANTITY 
+Hex-Nut 	
+Stainless Steel 	
+1 
+Lever 	
+Steel Dacromet Plated 	
+1 
+Sleeve 	
+Maroon PVC 	
+1 
+Packing Nut 	
+Brass CW614N 	
+1 
+Packing Gland 	
+PTFE WRAS approved 	
+1 
+Body 	
+DZR Brass BS EN 12165 CW602N 	
+1 
+Seats 	
+PTFE WRAS approved 	
+2 
+Ball (1/2 – 2”)	
+Stainless Steel 304 	
+1
+	
+BS EN 10088-3 1.4301 / AISI 304
+O-Ring 	
+Rubber EPDM WRAS approved 	
+1 
+Seat Retainer 	
+DZR Brass BS EN 12165 CW602N 	
+1 
+Stem 	
+DZR Brass BS EN 12164 CW602N 	
+1 
+Extension Stem Outer 	
+Aluminium 	
+1 
+Extension Stem Inner 	
+Nickel Plated Steel 	
+1
+Adjustment Lever	
+Brass CW617N	
+1
+Stem O-Ring 	
+Rubber EPDM WRAS approved	
+1

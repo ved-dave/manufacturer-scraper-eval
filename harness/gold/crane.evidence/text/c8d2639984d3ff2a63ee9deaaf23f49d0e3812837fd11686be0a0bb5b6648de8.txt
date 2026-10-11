@@ -1,0 +1,13 @@
+Copper Alloy PN designated valves
+Threaded or flanged BS 4504
+Pressure/Temperature Ratings
+ø
+As defined in DOE/PSA Standard Specification (M&E) No 3
+LTHW = A system which operates at temperatures up to 95°C but which is not part
+of an MTHW or HTHW injection system
+MTHW = A pressurised system, either open or closed to the atmosphere, which
+operates at temperatures above 95°C and up to 120°C
+HTHW = A pressurised system closed to the atmosphere which operates at
+temperatures above 120°C and up to 150°C
+Steam = Steam heating and/or distribution systems with working gauge pressure up
+to a maximum of 10 bar

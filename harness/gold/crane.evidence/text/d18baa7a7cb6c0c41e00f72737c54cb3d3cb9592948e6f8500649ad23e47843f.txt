@@ -1,0 +1,379 @@
+Preparation
+•	 Ensure metering station is suitable for service 
+conditions e.g. pressure, temperature, service 
+media. 
+•	 All special packaging material should be 
+removed prior to installation.
+•	 Immediately prior to valve installation, the 
+pipework to which the metering station is to 
+be fastened should be checked for cleanliness 
+and freedom from debris.
+•	 Metering stations are precision manufactured 
+items and as such, should not be subjected to 
+misuse such as careless handling, allowing dirt 
+to enter the metering station through the end 
+ports, lack of cleaning both metering station 
+and system before operation and excessive 
+force during assembly.
+Threaded Joints
+•	 Every effort should be taken to ensure that pipe 
+threading is cut to the correct thread form. We 
+recommend using a thread gauge to confirm 
+correct thread form.
+•	 Thread sealing compounds appropriate to the 
+application must be used but excessive use 
+should be avoided, since this increases thread 
+interference and may cause overstressing 
+of the body ends. Excessive sealant may 
+be extruded into the metering station bore 
+affecting the signal readings and flow 
+measurement accuracy.
+•	 It is important that the internal pipe bore at 
+the point upstream to the metering station is 
+free from internal burrs, weld spatter or other 
+defects which will disrupt the velocity profile of 
+the liquid and induce inaccuracies outside the 
+flowrate accuracy specified.
+GENERAL INSTALLATION
+INSTALLATION, OPERATING AND MAINTENANCE INSTRUCTIONS
+FLOW MEASUREMENT DEVICE
+D901	 FLOW MEASUREMENT DEVICE (FMD)
+D902	 FLOW MEASUREMENT DEVICE ULTRA-LOW FLOW (FMD)
+
+
+THERMOSTATIC MIXING VALVES: D1088 & D1089
+2
+Layout and Siting
+•	 Valves should be located to ensure ease and 
+safety of operation and access allowed for 
+subsequent maintenance of the valve.
+•	 These metering stations should be installed 
+with a minimum of 5 diameters of straight pipe 
+upstream having the same nominal diameter 
+as the metering station and should not include 
+any reducers or any other intrusions into the 
+bore within this specified length. 
+Please note flow measurement devices are 
+designed to give accurate readings when used 
+with copper and steel pipework of same size (i.e. 
+same DN).
+If alternative pipe sizes or materials are used (e.g. 
+plastic piping with smaller internal diameter) then 
+please contact Crane Technical Department for 
+appropriate correction factors.
+•	 These metering stations may be installed close 
+coupled to a gate valve, ball valve or double 
+regulating globe valve.
+•	 When the metering stations are used in 
+isolation, a minimum of 3 diameters of straight 
+pipe must be fitted downstream.
+•	 It is important to ensure that the flow arrow 
+on the metering station is coincident with 
+the direction of flow in the pipeline. If close 
+coupled to a valve the metering station must 
+be upstream, that is the flow passing through 
+the metering station before the valve.
+•	 Conventionally, metering stations are installed 
+in horizontal pipelines but it is acceptable to 
+install in any attitude.
+•	 It is preferable to have the plane of the 
+test points above horizontal to prevent the 
+accumulation of debris.
+•	 Recommended attitudes for the test points are:
+INSTALLATION ( C O N T I N U E D )
+INSTALLATION, OPERATING AND MAINTENANCE INSTRUCTIONS
+CRANE FLUID SYSTEMS CHECK VALVES
+2
+In horizontal pipework at low level
+•	 With the upstream high pressure (red) test 
+point pointing vertically upwards. This will 
+prevent the low pressure (blue) test point from 
+acting as a dirt pocket, since the latter will be 
+horizontal and half way from the bottom of the 
+pipe. Also the high pressure test point can be 
+used to bleed air from the system.
+•	 Where pipework runs close to a wall or there 
+is some other obstruction, it is essential 
+that there is a 100mm clearance to allow a 
+manometer probe to be connected to the test 
+point.
+•	 This may mean that one test point (high 
+pressure or low pressure) has to point up at 45 
+degrees which will still limit the extent to which 
+its opposite serves as a dirt pocket, i.e. keep 
+test points away from the bottom of the pipe.
+In horizontal pipework at high level
+•	 As for low level, where pipework is enclosed 
+in ceilings or voids it may be difficult to reach 
+across other pipework, cable trays etc. in order 
+to connect the manometer probes to the test 
+points on the topside of the pipe.
+•	 Where this difficulty is likely to occur, it may be 
+advantageous to have both test points pointing 
+down at 45 degrees. This will ensure that 
+neither is located as an obvious dirt pocket.
+In vertical pipework
+•	 For vertical pipework, there are no obvious dirt 
+entrapment areas and therefore the orientation 
+of the test points is fully dependent upon the 
+ease of manometer probe connection.
+Piping Supports
+•	 Piping must be provided with adequate 
+support to avoid the imposition of pipeline 
+strains on the metering station, which would 
+impair its performance. The piping supports 
+
+
+3
+THERMOSTATIC MIXING VALVES: D1088 & D1089
+INSTALLATION, OPERATING AND MAINTENANCE INSTRUCTIONS
+•	 On completion of readings, carefully remove 
+insertion probe.
+•	 Re-fit caps to test points.
+•	 The operating conditions shall be consistent with 
+the requirements in the performance specification.
+•	 The only operation required is during the 
+commissioning stage. During this stage all 
+entrained air must be expelled from the system 
+before accurate measurements of differential 
+pressure signals can be taken from the test points.
+•	 The metering stations are fitted as standard with 
+P84 test points. The temperature is restricted to 
+120°C due to the elastomeric seals.
+•	 Each test point is fitted with a captive cap retained 
+by a coloured strap:
+	 Upstream (High Pressure) - Red
+	 Downstream (Low Pressure) - Blue
+Note: For safety reasons all probe insertions during 
+commissioning must be carried out with the system 
+cold. 
+The sequence below should be followed for test 
+probe insertion:
+•	 Carefully remove caps from insertion test points 
+above Red and Blue straps. There should be no 
+leakage from test points when caps are removed. 
+If leakage is evident, and persistent, refit caps and 
+contact Crane.
+•	 Lubricate the Binder insertion probes with soap 
+solution and insert fully into test points.
+•	 Secure insertion probes to threaded portion of 
+test point.
+•	 Take test readings.
+•	 D901 & D902 metering stations are maintenance 
+free. For any technical queries, please contact 
+Crane Technical Department.
+•	 The valve should be at zero pressure and ambient 
+temperature prior to any inspection.
+•	 If there is a service requirement for removing 
+the metering station from the system, 
+Maintenance Engineers & Operators should 
+have the appropriate level of competence and 
+are reminded to use correct fitting tools and 
+equipment.
+•	 Crane do not offer spares for this product. 
+•	 If product is disassembled, warranty is void.
+•	 The surfaces of valves in service may be subject to 
+extreme temperatures; care should be taken when 
+handling.
+OPERATION
+INSPECTION AND MAINTENANCE
+GENERAL CONSIDERATIONS
+CRANE FLUID SYSTEMS CHECK VALVES
+3
+INSTALLATION, OPERATING AND MAINTENANCE INSTRUCTIONS
+must be carefully aligned and at the correct 
+distance between centres for the size and 
+type of pipe. Please refer to the current best 
+practice for details of correct spans and 
+installation details.
+
+
+THERMOSTATIC MIXING VALVES: D1088 & D1089
+4
+Fig. No
+Material
+PED category 
+by valve size (DN)
+Product Applications
+SEP
+1
+2
+Group 1 
+Gas
+Group 2 
+Gas
+Group 1 
+Liquid
+Group 2 
+Liquid
+D901
+DZR Brass BS 
+EN12165 CW602N
+15-40
+50
+-
+-
+
+-
+
+D902
+DZR Brass BS 
+EN12165 CW602N
+15
+-
+-
+-
+
+-
+
+LIMITS OF USE
+•	 Metering stations are not designed to operate 
+under high shock loadings. Where pressure 
+increases occur due to shock loading (water 
+hammer), they should be added to the working 
+pressure to obtain the total pressure acting 
+on the metering stations. The total must not 
+exceed the pressure rating of the metering 
+stations. A pressure surge, or shock, is usually 
+caused by the rapid closure of a check valve 
+or quarter turn valve resulting in a sudden 
+reduction in flow rate.
+•	 It is the responsibility of the installer to ensure 
+that the metering stations do not exceed 
+the allowable limits of pressure. However, 
+the equipment is designed to withstand a 
+momentary pressure surge of up to 10% above 
+the maximum working pressure.
+•	 The product has not been designed to include 
+corrosion, erosion or abrasion allowances. Any 
+•	 Metering stations must be installed into a 
+well-designed system and it is recommended 
+that the system be inspected in accordance 
+with the appropriate national and regional 
+legislation.
+•	 Metering stations must be installed by 
+competent personnel only.
+•	 Maximum operating pressure reduces as 
+service temperature increases. Service 
+temperature and pressure indicated on body 
+marking and in the product specification 
+should not be exceeded.
+•	 The installation should be designed to    
+provide adequate means of draining and 
+venting to avoid harmful effects such as water 
+hammer, vacuum collapse, corrosion and 
+uncontrolled chemical reactions and to permit 
+cleaning, inspection and maintenance in the 
+correct manner.
+These valves have been categorised in 
+accordance with the Pressure Equipment 
+Directive 2014/68/EU.
+The fluid to be transported is limited to those 
+shown in the product table below. On no 
+account can these valves be used on any 
+unstable fluids, or for the fluids groups not 
+specified in the product table.
+Note - Valves that are classified as SEP 
+(Sound Engineering Practice) are not CE 
+marked and therefore do not require a 
+declaration of conformity.
+Products conforming to Cat I of the PED 
+2014/68/EU shall include the CE Mark. 
+INSTALLATION, OPERATING AND MAINTENANCE INSTRUCTIONS
+CRANE FLUID SYSTEMS CHECK VALVES
+4
+
+
+5
+THERMOSTATIC MIXING VALVES: D1088 & D1089
+INSTALLATION, OPERATING AND MAINTENANCE INSTRUCTIONS
+Fig.No.
+Maximum Operating Pressure Conditions
+Maximum Operating Temperature Conditions
+D901/D902
+25 Bar / -10 to 100°C
+WRAS 85°C
+21.8 Bar / 120°C
+LIMITS OF USE ( C O N T I N U E D )
+queries regarding service applications should 
+be addressed to the Crane - Technical Sales 
+Department.
+•	 The metering stations have been designed 
+for loadings, appropriate to its intended use 
+and other reasonably foreseeable operating 
+conditions. Loadings caused by traffic,       
+wind and earthquake have not been taken    
+into account.
+•	 Not suitable for fatigue loading, creep 
+conditions, fire testing, fire hazard 
+environment, corrosive or erosive service, 
+transporting fluids with abrasive solids.
+•	 The piping system shall be designed to reduce 
+the risk of fatigue due to vibration of pipes.
+•	 Crane metering stations have not been 
+designed as fire safe valves.
+The use of chemicals for system dosing must 
+be determined by the user as all aspects of the 
+system must be established and considered, 
+and the effect of the chemicals used (including 
+compounds arising from chemical combinations) 
+must also be established in order to accurately 
+determine compatibility.
+Crane (and its related brands) manufacture 
+hardware (valves, couplings, etc) for the Building 
+Services industry and Utilities industries. 
+However, we are not system designers or 
+operators and cannot make recommendations 
+regarding chemical compatibility for the system, 
+as a result of the above variables. 
+Any comments from Crane regarding 
+chemical compatibility shall relate solely to 
+the Crane product and does not constitute 
+a recommendation on compatibility for the 
+wider system, resultant chemical compounds, 
+components, substances or materials, in whole 
+or in part.
+For reference, and not exhaustive, certain 
+austenitic stainless steels and aluminium alloys 
+crack in the presence of chlorides, mild steel 
+cracks in the presence of alkali and nitrates, 
+copper alloys crack in ammoniacal solutions and 
+iron with almost any caustic species (hydrogen 
+presence notwithstanding).
+For more information on how SCC can occur, 
+please visit www.cranefs.com
+CRANE FLUID SYSTEMS CHECK VALVES
+5
+INSTALLATION, OPERATING AND MAINTENANCE INSTRUCTIONS
+OPERATING PRESSURE AND TEMPERATURE
+STRESS CORROSION CRACKING
+
+
+MIDDLE EAST & NORTH AFRICA 
+SALES OFFICE, 
+BUILDING 4, OFFICE 901, 
+THE GALLERIES, PO BOX 17415,
+DOWNTOWN JEBEL ALI
+DUBAI, UAE
+TELEPHONE: +971 (0) 4816 5800
+EXPORT SALES ENQUIRIES: mena-enquiries@cranefs.com
+www.cranebsu.com
+CFS_D901/D902_0124
+0A_Rev A
+• Designed and manufactured under quality management systems in accordance with BS EN ISO 9001.
+Every effort has been made to ensure that the information contained in this publication is accurate at the time of publishing. 
+Crane Ltd assumes no responsibility or liability for typographical errors or omissions or for any misinterpretation of the 
+information within the publication and reserves the right to change without notice.
+CRANE HOUSE, EPSILON TERRACE, 
+WEST ROAD, IPSWICH, 
+SUFFOLK IP3 9FJ
+TELEPHONE: +44 (0)1473 277300
+FAX: +44 (0)1473 277301
+UK SALES ENQUIRIES: enquiries@cranefs.com 
+TECHNICAL ENQUIRIES: tech-enquiries@crane-ltd.co.uk
+TELEPHONE: +44 (0)1473 277400 
+www.cranefs.com
+To visit our Video Library go to: 
+www.youtube.com/user/CraneBSU
+FM 00311
+EMS 553775

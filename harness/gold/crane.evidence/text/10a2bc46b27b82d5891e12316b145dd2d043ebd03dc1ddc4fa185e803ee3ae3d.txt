@@ -1,0 +1,73 @@
+TECHNICAL HELPLINE: +44 (0)1473 277400 
+e: enquiries@cranefs.com  w: www.cranefs.com
+Stress Corrosion Cracking
+Stress corrosion cracking (SCC) is a known condition, which can sometimes 
+occur when certain conditions are met and occurring simultaneously.
+Conditions
+1. A material susceptible to SCC.
+2. Inherent stress (arising from the manufacturing process) 
+or induced stress (arising from incorrect installation).
+3. A corrosive environment (such as would arise from 
+chemical dosing of a system (using corrosive species 
+such as Silver Peroxide (a compound of Silver Nitrate 
+and Hydrogen Peroxide))) or, indeed, from such items 
+as phenolic foam insulation (which arises when the foam 
+becomes wet and results in the leaching of chloride from 
+the material).
+Components
+Some processes can naturally result in higher levels of 
+inherent stress, by virtue of the extent of metal working 
+involved. Residual stresses will have typically been 
+determined via neutron diffraction analysis and the 
+appropriate heat-treatment(s) applied.
+Forged components are typically less susceptible to 
+inherent stress as the high temperatures they are worked at 
+result in naturally lower stress levels following forging.
+Installation and Operation
+Where SCC does occur, the root cause of the stress factor 
+is typically as a result of induced torsional stress during 
+installation, hoop-stress during joint formation (particularly 
+on compression fittings), or cyclic flexural stress during 
+operation.
+Installation of any Crane product must precisely follow 
+the instructions defined in the IOM, using the correct 
+tools, avoiding the use of augmented jointing material and 
+ensuring over-tightening is avoided.
+Chemical Compatibility
+Typically, ammoniacal compounds or ammonia itself have 
+been seen to be causal in some instances (in addition to the 
+compounds already noted herein).
+The source of such chemicals can be from chemical 
+system dosing, waste material (with biological source), fire 
+retarding treatments, refrigerants, insulative materials, etc.
+Condensate
+A key aspect of Stress Corrosion Cracking is the presence 
+of moisture, particularly on chilled systems where the 
+insulative material and the product will be in almost 
+constant contact with moisture, held at the surface, and 
+representing a significant risk of SCC developing over time.
+This is particularly pertinent with materials such as phenolic 
+foam and similar materials with leachable elements present.
+General Caveat
+Crane (and its related brands) manufacture hardware 
+(valves, couplings, etc) for the Building Services industry 
+and Utilities industries (including Gas and Water industries) 
+however, we are not system designers or operators. The 
+use of chemicals for system dosing must be determined 
+by the user as all aspects of system variables (biocides, 
+inhibitors, system medium, raw water condition (where 
+used), existing micro-biological processes within the 
+system, temperature, mechanical configuration, etc) 
+must be established and considered, and the effect of 
+the chemicals used (including compounds arising from 
+chemical combinations) must also be established in order 
+to accurately determine compatibility. Crane cannot make 
+recommendations regarding chemical compatibility for the 
+system, as a result of the above variables, which includes 
+all components, substances and materials. Any comments 
+from Crane regarding chemical compatibility shall relate 
+solely to the Crane product and does not constitute a 
+recommendation on compatibility for the wider system, 
+resultant chemical compounds, components, substances 
+or materials, in whole or in part.
+31/03/2020 issued by the Engineering Department
