@@ -1,6 +1,6 @@
 # Approach B proof of concept: processing the old agent's link files
 
-**Status: draft. The Sioux Chief rows are filled in when its runs finish (marked TBD).**
+**Status: draft. The Sioux Chief L1 (simulated) numbers are filled in when that run finishes (marked pending).**
 
 ## Summary in plain language
 
@@ -22,7 +22,14 @@ LLM calls; every rule is deterministic.
 - **L1 (simulated from our cache) changes speed, not scores:** 6–21% fewer downloads, all page fetches replaced by
   snapshots, scores within 1 point. The larger L1 benefits (blocked sites, items on pages we never fetched) can't be
   simulated from our cache; they are estimates below.
-- **Phase 2 targets:** image and document recall ≥ 95% are not met on all dev sites. Sioux Chief: TBD.
+- **Sioux Chief, the large part-number site, is worse than the current scraper.** B finds 54% of the key's families
+  (current scraper 93%), with 3,749 families against 700 in the key (current scraper 6,324). The old agent's list
+  contains 100% of them. The cause is one rule: Sioux product pages link to more than 15 related product pages, so
+  the "listing page" rule drops them. 360 of the 700 key families lost every page that way. Grouping itself is mostly
+  right where it acts (84 of 89 multi-page families are correct) but too cautious: 769 "same family?" pairs are left
+  for the resolver.
+- **Phase 2 targets: not met.** Image and document recall ≥ 95% fail on Bray, Cimberio and Sioux Chief; Sioux Chief
+  took 4 h 09 min (target < 4 h); Sioux Chief image precision is 33 points below the current scraper.
 
 ## 1. What was built
 
@@ -114,7 +121,32 @@ specs, variants and prices can't be scored for it. All numbers are % against the
 
 ### sioux-chief
 
-TBD
+| Metric | B (L0 CSV) | B (L1, simulated) | Current scraper | Old agent (inventory) |
+|---|---|---|---|---|
+| Families found | 54 | pending | 93 | 100 |
+| Duplicate families (scorer) | 3,625 | pending | 5,679 | – |
+| Families predicted | 3,749 | pending | 6,324 | – |
+| Labelled families found (of 15) | 11 | pending | 14 | – |
+| Primary docs recall | 43 | pending | 46 | 100 |
+| Primary docs precision | 100 | pending | 100 | – |
+| Secondary docs recall | 33 | pending | 90 | 100 |
+| CAD recall | 71 | pending | 14 | 100 |
+| CAD precision | 100 | pending | 100 | – |
+| Image recall | 22 | pending | 14 | 100 |
+| Image precision | 46 | pending | 79 | – |
+| Best image version rate | 67 | pending | 93 | 100 |
+| Variant recall | 6 | pending | 3 | – |
+| Variant precision | 100 | pending | 100 | – |
+| Spec accuracy | 17 | pending | 15 | – |
+| Spec completeness | 34 | pending | 29 | – |
+| Citation rate | 100 | pending | 100 | – |
+| Conflict detection | 0 of 8 (none flagged) | pending | 0 of 8 (none flagged) | – |
+| Price availability | 6 | pending | 3 | – |
+
+Family precision is 100 for both systems but not informative here: the scorer also matches a family by series code,
+and Sioux Chief's 700 key entries cover nearly every series. "Duplicate families" is the useful measure. B's family
+recall by page is 340 of 700; the cold run's 59% included 75 series-code-only matches, the final code 38.
+The 4 labelled families B misses (865-12ECD, 230-2906101, 304-06, 886-ER) were all dropped as listing pages.
 
 ## 3. Families: predicted vs key
 
@@ -123,13 +155,18 @@ TBD
 | Bray | 103 | 107 | 122 |
 | Crane | 217 | 218 | 218 |
 | Cimberio | 32 | 32 | 47 |
-| Sioux Chief | 700 | TBD | TBD (previous run: ~5,600 extra) |
+| Sioux Chief | 700 | 3,749 (3,625 duplicates) | 6,324 (5,679 duplicates) |
 
 **Correct merges:**
 - Cimberio: the old agent's 1,181 page URLs include 1,149 on `web.cimberio.com` (off-site). B keeps 32 product
   pages, 1:1 with the key. The current scraper makes 47 (duplicates from language and listing pages).
 - Bray: listing and category pages are not made into families (page-role score); 107 vs the current scraper's 122.
-- Sioux Chief: TBD.
+- Sioux Chief: 84 of the 89 families built from several pages stay inside one key family, e.g. 118M204 + 118M206,
+  119Q208 + 119Q210 (shared spec sheet + breadcrumb + identifier stem).
+
+**Wrong merges (Sioux Chief, not fixed):** 5 of 89 multi-page families span 2–3 key families: 250-11 + 250-11A +
+250-11P + 250-12A; 637PX20 + 637PX25; 833-22F + 833-23F + 833-225F + 833-235F + 833-625F; 854-23I + 854-24I + 854-63I +
+854-64I; 862-227I + 862-627I. All were merged by a spec sheet shared across the series.
 
 **Wrong merges found and fixed:**
 - Crane: DA931 + DA941, DM900 + DM921 + DM931, FM469 + FM492 (6 families) were merged by "same breadcrumb leaf + same
@@ -145,24 +182,26 @@ TBD
 | Bray | 1,227 | 25:44 | 1,110 | 21:45 |
 | Crane | 828 before a stall (see note) | stalled at 37 min | 1,505 | 29:28 |
 | Cimberio | 404 | 6:12 | 82 | 1:26 |
-| Sioux Chief | TBD | TBD | TBD | previous run 8:55 h, ~13,000 |
+| Sioux Chief | 20,639 | 4:09:15 | 14,408 | 4:21:23 |
 | Dixon | 9 (8 blocked) | 0:08 | – | – |
 | Apollo | 9 (8 blocked) | 1:11 | – | – |
 
 Note: the cold Crane run hung on one file the server sent a few bytes at a time (200/277 pages done). Every download
 now gives up after 5 minutes (`DOWNLOAD_DEADLINE`, regression test added). The finished Crane run used that cache
-(0 new requests, 3:43). On Bray, about 1,100 of B's 1,227 requests are asset downloads made only to learn type,
+(0 new requests, 3:43). Sioux Chief B: page reads 2 h 07 min, waiting for file downloads
+(one host, one file at a time, 1 s politeness delay) ~1 h 40 min, families ~20 min. The final-code re-run from
+cache took 49 min with 0 requests. On Bray, about 1,100 of B's 1,227 requests are asset downloads made only to learn type,
 size and image dimensions.
 
 ## 5. Phase 2 targets
 
 | Target | Result |
 |---|---|
-| Image recall ≥ 95% on dev sites | Not met: Bray 73, Crane 93, Cimberio 100, Sioux Chief TBD |
-| Document recall ≥ 95% on dev sites | Not met: primary Bray 93, Crane 100, Cimberio 54 (inventory gap); Sioux Chief TBD |
-| Precision drop ≤ 2 pts vs current scraper | Met on Bray, Crane, Cimberio (B is equal or higher on every precision metric) |
-| Sioux Chief < 4 h | TBD |
-| Better than current scraper overall | TBD (better on Cimberio, better grouping on Bray, mixed on Crane) |
+| Image recall ≥ 95% on dev sites | Not met: Bray 73, Crane 93, Cimberio 100, Sioux Chief 22 |
+| Document recall ≥ 95% on dev sites | Not met: primary Bray 93, Crane 100, Cimberio 54 (inventory gap), Sioux Chief 43 |
+| Precision drop ≤ 2 pts vs current scraper | Met on Bray, Crane, Cimberio; not met on Sioux Chief (image precision 46 vs 79) |
+| Sioux Chief < 4 h | Not met: 4 h 09 min cold (current scraper 4 h 21 min) |
+| Better than current scraper overall | Not met: better on Cimberio, better grouping on Bray, mixed on Crane, worse on Sioux Chief (families found 54 vs 93) |
 
 ## 6. Uncertain items (`decision: unsure` in `<site>.decisions.jsonl`)
 
@@ -170,14 +209,14 @@ Each record has the question, the candidate (URL, link text, section, type), the
 series_code, identifiers), evidence for and against (short quotes with sources), why the rules couldn't decide,
 the default action taken, and a cache key: the Phase 3 resolver's work queue.
 
-| Kind | Bray | Crane | Cimberio | Default action |
-|---|---|---|---|---|
-| asset_to_family | 265 | 82 | 0 | keep |
-| page_vs_pdf_conflict | 254 | 130 | 8 | keep both, flag conflict |
-| doc_type | 70 | 19 | 0 | keep as spec_sheet |
-| spec_value | 20 | 5 | 0 | keep first-ranked source |
-| family_grouping | 0 | 26 | 10 | keep separate |
-| page_role | 10 | 0 | 0 | drop |
+| Kind | Bray | Crane | Cimberio | Sioux Chief | Default action |
+|---|---|---|---|---|---|
+| asset_to_family | 265 | 82 | 0 | 386 | keep |
+| page_vs_pdf_conflict | 254 | 130 | 8 | 663 | keep both, flag conflict |
+| doc_type | 70 | 19 | 0 | 566 | keep as spec_sheet |
+| spec_value | 20 | 5 | 0 | 7 | keep first-ranked source |
+| family_grouping | 0 | 26 | 10 | 769 | keep separate |
+| page_role | 10 | 0 | 0 | 0 | drop |
 
 ### Five examples per kind
 
@@ -235,7 +274,7 @@ Estimates, not measurements. "Macro" = the 10-metric keep-rule average over Bray
 | asset_to_family | On labelled families, the default (keep) is already right for 48 of 55 Bray items and 4 of 4 Crane items. 7 Bray items are kept but the key drops them. The other 283 are on unlabelled families. | ≤ +1 to +2 Bray doc/image precision |
 | doc_type | Document label correctness (not a keep-rule metric). | 0 to +1 |
 | spec_value | 25 values; spec accuracy covers ~13 fields × 15 labelled families per site. | ~+1 spec accuracy |
-| family_grouping | 0 on these keys (default "keep separate" is right: Crane/Cimberio family precision 100). The value is on sites with one page per part number. | Sioux Chief: TBD |
+| family_grouping | 0 on these keys (default "keep separate" is right: Crane/Cimberio family precision 100). The value is on sites with one page per part number. | Sioux Chief: 769 pairs (e.g. 117-12 vs 117-03, 117Q22 vs 117-03). Merging the right ones cuts duplicates, but family recall is capped by the listing-rule drops (§9), so first fix that rule. Roughly +0 to +5 Sioux family recall; large duplicate reduction |
 | page_role | 10 Bray pages (company, policy, materials pages); default drop is right for all 10. Bray's 3 missed families are not in this queue (see §8). | 0 |
 
 ## 7. L1: measured (simulated from our cache) and estimated
@@ -280,15 +319,19 @@ Both runs complete and validate with 0 errors. Dixon: Cloudflare 403 on every pa
 Verification" page. After 8 blocked responses the host is not asked again; every remaining item is recorded as
 blocked in the decisions log. 0 families: with only `url,url_type` there is nothing to read specs or groupings from.
 
-## 9. Bray: the 3 missed families
+## 9. Families dropped as listing pages (Bray, Sioux Chief)
 
 All three product pages are in the old agent's list; our page-role rules dropped them without flagging them as unsure.
 - `series-70-hazardous-location`: dropped as "non-product section by URL". `NON_PRODUCT_WORDS` (shared with the
   current scraper's discovery code) matches `location` as any hyphen-separated word, not only as a path section.
 - `air-release-ezi-vac`, `series-pva`: dropped as listing pages (listing score −4 outweighed 3 spec pairs and spec
   downloads).
+Sioux Chief: 2,921 pages were dropped as "listing page", including every page of 360 of the 700 key families
+(e.g. `Products/865-12ECD`, signals: download, breadcrumb, commerce words, listing −4). The rule fires when a page
+links to more than 15 pages at the same or deeper level of its section; Sioux product pages link to that many related
+products. 2,340 of the 2,921 had a spec table or spec download.
 Not fixed: all 4 improvement rounds were used. Both are general rule fixes (match non-product words only as whole
-path segments; let spec tables + spec downloads outweigh listing cues), worth about +3 Bray family recall.
+path segments; let spec tables + spec downloads outweigh listing cues), worth about +3 Bray family recall and up to +46 points of Sioux Chief family recall by page (340 → up to 700 of 700).
 
 ## 10. Recommendations
 
@@ -301,7 +344,7 @@ path segments; let spec tables + spec downloads outweigh listing cues), worth ab
 2. **Fix discovery gaps in the agent separately.** Cimberio's price list and half its main documents were never
    listed; no L1 field fixes that.
 3. **Fix the processing rules that lose listed items** (no new data needed): non-product URL words as whole path
-   segments; spec tables outweighing listing cues (+3 Bray families); combo-photo naming (Bray images); multi-product
+   segments; spec tables outweighing listing cues (+3 Bray families, up to 360 Sioux Chief families: the biggest single fix); combo-photo naming (Bray images); multi-product
    documents without false spec conflicts (round 3, Crane secondary docs 55 vs 71).
 4. **Phase 3 resolver: start with `page_vs_pdf_conflict`** (largest queue, about +2–3 macro points), then
-   `family_grouping` on part-number sites (Sioux Chief: TBD). The decisions log already has the fields the resolver needs.
+   `family_grouping` on part-number sites (Sioux Chief: 769 pairs). The decisions log already has the fields the resolver needs.

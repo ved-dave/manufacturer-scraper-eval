@@ -527,3 +527,15 @@ Measured on bray, crane, cimberio (Sioux Chief re-processed from cache at the en
   agent's inventory; html_snapshot, page facts, link context, file facts, image width/height). L1 runs use
   snapshots, skip dead links, and skip image downloads when L1 gives the largest version's size (`83b857e`).
 - Regression fix (`b2b4242`): crane had 6 wrong merges (DA931+DA941, DM900+DM921+DM931, FM469+FM492...) because `core_of` read "931" as a size suffix. Now only codes with a digit before the trailing letters lose a trailing number (640WP02 -> 640WP). Crane families 208 -> 218 (key: 217); scores unchanged (macro 74.60 -> 74.60, no drops).
+
+### Sioux Chief (final)
+- Cold runs: B 4:09:15, 20,639 requests (pages 2 h 07 min, file downloads ~1 h 40 min on one host); current scraper
+  4:21:23, 14,408 requests. The cold B run used pre-round code; scores come from a re-run of the final code from cache
+  (49 min, 0 requests).
+- Regression fix with test (`2d9a2ec`): the cold B run had 1 validation error (spec PDF found_on a page that was not a
+  family page). Root cause: `accessory_families` cleared the variants of a grouped family whose SKUs were a subset of
+  another family's table, so its second page lost its variant entry. Process mode now keeps variants that come
+  from more than one grouped page. Final run: 0 errors.
+- Result: families found 54 (current 93), 3,749 families vs 700 (current 6,324). 360 of 700 key families had every
+  page dropped by the listing-page rule (more than 15 same-section links). Not fixed: no improvement rounds left; recorded as the top
+  recommendation. Grouping: 84 of 89 multi-page families correct, 5 wrong (series-wide spec sheets), 769 unsure pairs.
