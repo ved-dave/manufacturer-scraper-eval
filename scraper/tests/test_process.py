@@ -257,5 +257,26 @@ class TestDownloadDeadline(unittest.TestCase):
         self.assertEqual(f.session.request.call_count, 1)
 
 
+class L1SpecTableTest(unittest.TestCase):
+    def test_false_keeps_single_spec_value(self):
+        from mfr_scraper.process.run import apply_spec_table
+        s = {'spec_pair': 1, 'breadcrumb': 1}
+        apply_spec_table(s, False)
+        self.assertEqual(s, {'spec_pair': 1, 'breadcrumb': 1})
+        s = {'spec_pairs': 3}
+        apply_spec_table(s, False)
+        self.assertEqual(s, {})
+        s = {'spec_pair': 1}
+        apply_spec_table(s, True)
+        self.assertEqual(s, {'spec_pairs': 3})
+
+    def test_simulated_has_spec_table_is_two_rows(self):
+        from mfr_scraper import page as P
+        from mfr_scraper.process.simulate_l1 import page_facts
+        html = ('<html><body><table><tr><th>Body material</th><td>Brass</td></tr>'
+                '<tr><th>Max pressure</th><td>200 psi</td></tr></table></body></html>')
+        self.assertTrue(page_facts(P.soup_of(html), 'https://x.example/p')['has_spec_table'])
+
+
 if __name__ == '__main__':
     unittest.main()

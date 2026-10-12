@@ -50,7 +50,7 @@ def page_facts(soup, final):
             'breadcrumb': P.breadcrumbs(soup) or None, 'canonical_url': canonical_of(soup, final),
             'lang': P.html_lang(soup) or None,
             'hreflang': {k: quote(v, safe=":/?&=%#+,;@!$'()*~") for k, v in P.hreflang_alternates(soup, final).items()} or None,
-            'jsonld_product': ld, 'has_spec_table': len(P.label_value_pairs(soup)) >= 3}
+            'jsonld_product': ld, 'has_spec_table': len(P.label_value_pairs(soup)) >= 2}
 
 
 def build(site, links_path, out):

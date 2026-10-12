@@ -44,6 +44,15 @@ def _filename(url):
     return unquote(urlsplit(url).path.rsplit('/', 1)[-1])
 
 
+def apply_spec_table(signals, has_spec_table):
+    """L1 has_spec_table: true counts as a spec table; false removes only that signal, not a single spec value seen on the page."""
+    if has_spec_table is True:
+        signals.pop('spec_pair', None)
+        signals['spec_pairs'] = 3
+    elif has_spec_table is False:
+        signals.pop('spec_pairs', None)
+
+
 class ProcessRun(SiteRun):
     def __init__(self, site, links_path, level=None, out_dir=None, input_url=None, refresh=False, offline=False,
                  log=print, allowed_hosts=None, fetcher=None, prefetch=True):
@@ -203,12 +212,7 @@ class ProcessRun(SiteRun):
                     rec.skus = [str(ld['sku'])] + rec.skus
             if facts.h1 and not rec.name:
                 rec.name = facts.h1
-            if facts.has_spec_table is True:
-                signals.pop('spec_pair', None)
-                signals['spec_pairs'] = 3
-            elif facts.has_spec_table is False:
-                signals.pop('spec_pair', None)
-                signals.pop('spec_pairs', None)
+            apply_spec_table(signals, facts.has_spec_table)
             if facts.n_links_same_section is not None:
                 signals.pop('listing_like', None)
                 if facts.n_links_same_section > 15:
