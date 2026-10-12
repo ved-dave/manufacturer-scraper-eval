@@ -1,0 +1,130 @@
+{
+  "mode": "siterun",
+  "family_index": {
+    "recall": 0.8929,
+    "precision": 1.0,
+    "gold": 700,
+    "pred": 603,
+    "duplicate_families": 50,
+    "dedup_rate": 0.9259,
+    "missed_examples": [
+      "https://www.siouxchief.com/Products/120-TM3F-1",
+      "https://www.siouxchief.com/Products/291-30500",
+      "https://www.siouxchief.com/Products/300-12",
+      "https://www.siouxchief.com/Products/301-061",
+      "https://www.siouxchief.com/Products/304-06",
+      "https://www.siouxchief.com/Products/304-20",
+      "https://www.siouxchief.com/Products/305-RT",
+      "https://www.siouxchief.com/Products/306-10",
+      "https://www.siouxchief.com/Products/308-2",
+      "https://www.siouxchief.com/Products/310-12"
+    ]
+  },
+  "labelled": {
+    "labelled_families": 15,
+    "labelled_families_found": 14,
+    "unmatched_labelled_families": [
+      "sioux-chief-304-06"
+    ],
+    "documents_primary": {
+      "recall": 0.4643,
+      "precision": 0.4643,
+      "gold": 28,
+      "pred": 28
+    },
+    "documents_secondary": {
+      "recall": 0.8667,
+      "precision": 0.8966,
+      "gold": 30,
+      "pred": 29
+    },
+    "doc_type_accuracy": 0.7179,
+    "cad": {
+      "recall": 1.0,
+      "precision": 1.0,
+      "gold": 7,
+      "pred": 7
+    },
+    "cad_type_accuracy": 1.0,
+    "images": {
+      "recall": 0.5135,
+      "precision": 0.5229,
+      "gold": 111,
+      "pred": 109
+    },
+    "image_best_version_rate": 0.7193,
+    "image_duplicate_pairs_in_pred": 0,
+    "variants": {
+      "recall": 0.8324,
+      "precision": 0.4776,
+      "gold": 179,
+      "pred": 312
+    },
+    "specs_overall": 0.1955,
+    "spec_completeness": 0.3645,
+    "specs_by_field": {
+      "applications": 0.25,
+      "certifications": 0.3318,
+      "end_connections": 0.5438,
+      "material_body": 0.3088,
+      "material_seals": 0.3333,
+      "material_trim": 0.0,
+      "pressure_rating": 0.0,
+      "size_range": 0.1429,
+      "size_unit": 0.1429,
+      "sizes_available": 0.0,
+      "standards": 0.1573,
+      "temperature_range": 0.0
+    },
+    "specs_by_gold_display_source": {
+      "pdf": 0.2316,
+      "page": 0.0476
+    },
+    "specs_missing_by_field": {
+      "size_range": 10,
+      "sizes_available": 14,
+      "size_unit": 10,
+      "standards": 8,
+      "certifications": 4,
+      "material_seals": 4,
+      "end_connections": 2,
+      "pressure_rating": 2,
+      "temperature_range": 3,
+      "applications": 3,
+      "material_body": 4,
+      "material_trim": 4
+    },
+    "specs_extra_unverified": 5,
+    "spec_citation_rate": 1.0,
+    "spec_cross_check_rate": 1.0,
+    "refines_detection": {
+      "gold": 8,
+      "pred_agrees": 1,
+      "recall": 0.125
+    },
+    "conflict_detection": {
+      "tp": 0,
+      "fn": 8,
+      "fp": 0,
+      "recall": 0.0,
+      "precision": null
+    },
+    "price": {
+      "variants_with_gold_price": 179,
+      "families_with_gold_family_price": 0,
+      "availability_correct": 149,
+      "amount_checked": 0,
+      "amount_correct": 0,
+      "currency_correct": 0,
+      "price_type_correct": 0,
+      "availability_accuracy": 0.8324,
+      "amount_accuracy": null
+    }
+  },
+  "spec_violations": {
+    "errors": 0,
+    "warnings": 8,
+    "first_errors": []
+  },
+  "site": "sioux-chief"
+}

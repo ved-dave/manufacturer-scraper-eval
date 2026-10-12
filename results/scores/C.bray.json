@@ -1,0 +1,63 @@
+{
+  "mode": "legacy_csv",
+  "family_index": {
+    "recall": 1.0,
+    "gold": 103,
+    "site_page_rows_that_are_families": 0.1005
+  },
+  "labelled": {
+    "documents_primary_recall": 1.0,
+    "documents_primary_gold": 41,
+    "documents_secondary_recall": 1.0,
+    "documents_secondary_gold": 79,
+    "document_label_correct": 1.0,
+    "cad_recall": 1.0,
+    "cad_gold": 3,
+    "cad_label_correct": 0.0,
+    "images": {
+      "best_version": 40,
+      "rendition_only": 0,
+      "missing": 1,
+      "recall_any_version": 0.9756,
+      "best_version_rate": 0.9756
+    },
+    "not_scorable": [
+      "specs",
+      "prices",
+      "variants",
+      "precision (no family linkage in legacy format)"
+    ]
+  },
+  "noise": {
+    "rows": 2211,
+    "by_type": {
+      "archive": 5,
+      "document": 10,
+      "image": 627,
+      "pdf": 493,
+      "site_page": 1075,
+      "spreadsheet": 1
+    },
+    "non_english_rows": 585,
+    "off_allowlist_rows": 28,
+    "image_rendition_duplicates": 57,
+    "unknown_kind_rows": 15,
+    "examples": {
+      "non_english": [
+        "https://www.bray.com/de/cx-line/2-cx-ptfe-lined-butterfly-valve",
+        "https://www.bray.com/de/cx-line/3-cx-resilient-seated-butterfly-valve",
+        "https://www.bray.com/de/cx-line/4-cx-double-offset-butterfly-valve",
+        "https://www.bray.com/de/cx-line/km-20-21-flanged-ball-valve",
+        "https://www.bray.com/de/cx-line/tri-lok-cx-triple-offset-butterfly-valve"
+      ],
+      "off_allowlist": [
+        "https://amresist.com/product/mr-series-manual-actuators/",
+        "https://amresist.com/wp-content/uploads/2017/04/acris-pfa-lined-ball-valves-600x600.jpg",
+        "https://amresist.com/wp-content/uploads/2017/04/acris-pfa-lined-ball-valves.jpg",
+        "https://amresist.com/wp-content/uploads/2017/04/acris8inopenacbluealt2-rgb.png",
+        "https://amresist.com/wp-content/uploads/2017/04/favicon-180x180.png"
+      ]
+    }
+  },
+  "site": "bray"
+}

@@ -1,0 +1,95 @@
+mode: siterun
+family_index:
+  recall: 1.0
+  precision: 1.0
+  gold: 32
+  pred: 23
+  duplicate_families: 3
+labelled:
+  labelled_families: 15
+  labelled_families_found: 15
+  unmatched_labelled_families: []
+  documents_primary:
+    recall: 0.5357
+    precision: 1.0
+    gold: 28
+    pred: 15
+  documents_secondary:
+    recall: 1.0
+    precision: 1.0
+    gold: 8
+    pred: 8
+  doc_type_accuracy: 0.3913
+  cad:
+    recall: 1.0
+    precision: 0.75
+    gold: 3
+    pred: 4
+  cad_type_accuracy: 1.0
+  images:
+    recall: 1.0
+    precision: 0.1491
+    gold: 17
+    pred: 114
+  image_best_version_rate: 0.8824
+  image_duplicate_pairs_in_pred: 0
+  variants:
+    recall: 0.0
+    precision: 0.0
+    gold: 66
+    pred: 27
+  specs_overall: 0.5302
+  spec_completeness: 0.7211
+  specs_by_field:
+    applications: 0.2778
+    certifications: 1.0
+    end_connections: 0.3667
+    material_body: 0.2872
+    material_seals: 0.0
+    material_trim: 0.0
+    pressure_rating: 0.8667
+    size_range: 0.6
+    size_unit: 0.8667
+    sizes_available: 0.3333
+    standards: 0.1868
+    temperature_range: 1.0
+  specs_by_gold_display_source:
+    pdf: 0.5515
+    page: 0.4091
+  specs_missing_by_field:
+    sizes_available: 10
+    applications: 8
+    material_body: 8
+    material_trim: 3
+    material_seals: 3
+    end_connections: 5
+    size_unit: 2
+    size_range: 1
+    standards: 1
+  specs_extra_unverified: 5
+  spec_citation_rate: 1.0
+  spec_cross_check_rate: 1.0
+  refines_detection:
+    gold: 17
+    pred_agrees: 0
+    recall: 0.0
+  conflict_detection:
+    tp: 0
+    fn: 7
+    fp: 3
+    recall: 0.0
+    precision: 0.0
+  price:
+    variants_with_gold_price: 66
+    families_with_gold_family_price: 0
+    availability_correct: 0
+    amount_checked: 54
+    amount_correct: 0
+    currency_correct: 0
+    price_type_correct: 0
+    availability_accuracy: 0.0
+    amount_accuracy: 0.0
+spec_violations:
+  errors: 0
+  warnings: 1
+site: cimberio

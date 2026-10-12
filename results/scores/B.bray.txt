@@ -1,0 +1,95 @@
+mode: siterun
+family_index:
+  recall: 0.9709
+  precision: 0.9346
+  gold: 103
+  pred: 107
+  duplicate_families: 0
+labelled:
+  labelled_families: 15
+  labelled_families_found: 14
+  unmatched_labelled_families: ['series-70-haz']
+  documents_primary:
+    recall: 0.8537
+    precision: 1.0
+    gold: 41
+    pred: 35
+  documents_secondary:
+    recall: 0.8101
+    precision: 0.9697
+    gold: 79
+    pred: 66
+  doc_type_accuracy: 0.8081
+  cad:
+    recall: 1.0
+    precision: 1.0
+    gold: 3
+    pred: 3
+  cad_type_accuracy: 1.0
+  images:
+    recall: 0.7805
+    precision: 0.8421
+    gold: 41
+    pred: 38
+  image_best_version_rate: 1.0
+  image_duplicate_pairs_in_pred: 0
+  variants:
+    recall: 1.0
+    precision: 1.0
+    gold: 11
+    pred: 11
+  specs_overall: 0.6665
+  spec_completeness: 0.8516
+  specs_by_field:
+    applications: 0.6381
+    certifications: 0.625
+    end_connections: 0.9857
+    material_body: 0.5981
+    material_seals: 0.6059
+    material_seat: 0.7037
+    material_trim: 0.4593
+    pressure_rating: 0.6667
+    size_range: 0.8
+    size_unit: 0.9
+    sizes_available: 0.0
+    standards: 0.4875
+    temperature_range: 0.7917
+  specs_by_gold_display_source:
+    pdf: 0.6568
+    page: 0.7067
+  specs_missing_by_field:
+    material_body: 2
+    temperature_range: 1
+    certifications: 1
+    standards: 4
+    sizes_available: 3
+    material_trim: 3
+    material_seals: 3
+    pressure_rating: 2
+  specs_extra_unverified: 6
+  spec_citation_rate: 1.0
+  spec_cross_check_rate: 1.0
+  refines_detection:
+    gold: 11
+    pred_agrees: 5
+    recall: 0.4545
+  conflict_detection:
+    tp: 4
+    fn: 12
+    fp: 22
+    recall: 0.25
+    precision: 0.1538
+  price:
+    variants_with_gold_price: 11
+    families_with_gold_family_price: 13
+    availability_correct: 23
+    amount_checked: 0
+    amount_correct: 0
+    currency_correct: 0
+    price_type_correct: 0
+    availability_accuracy: 0.9583
+    amount_accuracy: None
+spec_violations:
+  errors: 0
+  warnings: 21
+site: bray

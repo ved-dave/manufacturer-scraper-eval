@@ -1,0 +1,58 @@
+{
+ "site": "crane",
+ "profile_version": "sp-1",
+ "created_at": "2026-10-12T16:00:58Z",
+ "family_shape": "model_pages",
+ "reason": "95% of sampled product pages are one model each; each page is its own family unless rules R1-R4 join them",
+ "summary": "a family is one product page for one model; rules R1-R4 join pages only on strong evidence",
+ "sample": {
+  "pages_read": 60,
+  "templates": [
+   "/product/*/*",
+   "/category/*"
+  ],
+  "card_templates": [],
+  "card_pages": 0,
+  "product_pages_scored": 38
+ },
+ "shapes": {
+  "family_pages": {
+   "coverage": 0.053,
+   "contradictions": 0.0,
+   "examples": [
+    "https://www.cranefs.com/product/butterfly-valves/f646g-f641g-f656g-f651g-f676g-f671g/",
+    "https://www.cranefs.com/product/butterfly-valves/fa648l-fa644l-fa658l-fa654l-fa678l-fa674l/"
+   ]
+  },
+  "model_pages": {
+   "coverage": 0.947,
+   "contradictions": 0.0,
+   "examples": [
+    "https://www.cranefs.com/product/balancing-valves/d901/",
+    "https://www.cranefs.com/product/balancing-valves/d934/",
+    "https://www.cranefs.com/product/balancing-valves/dm925g/"
+   ]
+  },
+  "category_cards": {
+   "coverage": 0.0,
+   "contradictions": 0.0,
+   "examples": []
+  },
+  "item_tables": {
+   "coverage": 0.0,
+   "contradictions": 0.0,
+   "examples": []
+  },
+  "shared_sheet": {
+   "coverage": 0.211,
+   "contradictions": 0.0,
+   "examples": [
+    "https://www.cranefs.com/product/bends/156/",
+    "https://www.cranefs.com/product/caps/185/",
+    "https://www.cranefs.com/product/elbows/197/"
+   ]
+  }
+ },
+ "card_spec": null,
+ "families": []
+}
