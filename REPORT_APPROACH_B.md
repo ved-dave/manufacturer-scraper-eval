@@ -28,6 +28,10 @@ LLM calls; every rule is deterministic.
   the "listing page" rule drops them. 360 of the 700 key families lost every page that way. Grouping itself is mostly
   right where it acts (84 of 89 multi-page families are correct) but too cautious: 769 "same family?" pairs are left
   for the resolver.
+- **Option A (post-round, section 11):** routing "listing" pages that have product URLs and spec evidence to the
+  unsure queue instead of dropping them raises Sioux Chief families found from 54 to 88 (current scraper 93) and
+  secondary docs from 33 to 87, with Bray, Crane and Cimberio unchanged. 5,725 families against 700 remain:
+  grouping is now the main gap.
 - **Phase 2 targets: not met.** Image and document recall ≥ 95% fail on Bray, Cimberio and Sioux Chief; Sioux Chief
   took 4 h 09 min (target < 4 h); Sioux Chief image precision is 33 points below the current scraper.
 
@@ -351,7 +355,59 @@ path segments; let spec tables + spec downloads outweigh listing cues), worth ab
 2. **Fix discovery gaps in the agent separately.** Cimberio's price list and half its main documents were never
    listed; no L1 field fixes that.
 3. **Fix the processing rules that lose listed items** (no new data needed): non-product URL words as whole path
-   segments; spec tables outweighing listing cues (+3 Bray families, up to 360 Sioux Chief families: the biggest single fix); combo-photo naming (Bray images); multi-product
+   segments; spec tables outweighing listing cues (tried as option A, section 11: Sioux Chief families found 54 → 88); combo-photo naming (Bray images); multi-product
    documents without false spec conflicts (round 3, Crane secondary docs 55 vs 71).
 4. **Phase 3 resolver: start with `page_vs_pdf_conflict`** (largest queue, about +2–3 macro points), then
    `family_grouping` on part-number sites (Sioux Chief: 769 pairs). The decisions log already has the fields the resolver needs.
+
+## 11. Option A: listing-page rule fix (post-round experiment, outside the 4-round rule)
+
+Run after the PR's main results, at the user's request. The numbers in sections 1–10 are unchanged; this section
+reports the fix separately. Re-processed from cache (no new fetching).
+
+**Rule** (`listing_with_product_evidence` in `process/run.py`): a page with the listing cue (more than 15
+same-section links) is kept and queued as `page_role` unsure (default action `keep`) when all of these hold:
+- its URL names it a product page (`url_word`: `/product(s)/`, `/p/`, `/item/`, `/model/`, `/series/`);
+- it has strong product evidence (`spec_pairs`, `spec_download` or `jsonld_product`);
+- it passes the product threshold without the listing penalty.
+
+Otherwise it is still dropped. The `url_word` condition was added after checking the decision logs: without it, the
+rule would also keep 24 Crane `/category/...` pages and 24 Bray `/solutions/...`/category pages that have spec-like
+facet tables. None of those 48 pages are in the answer keys. That first version was stopped before scoring.
+
+**Sioux Chief** (% of answer key):
+
+| Metric | B (final) | B + option A | Current scraper |
+|---|---|---|---|
+| Families found | 54 | **88** | 93 |
+| Families predicted (key: 700) | 3,749 | 5,725 | 6,324 |
+| Labelled families found (of 15) | 11 | 14 | 14 |
+| Primary docs recall | 43 | 43 | 46 |
+| Secondary docs recall | 33 | **87** | 90 |
+| CAD recall | 71 | 71 | 14 |
+| Image recall | 22 | 27 | 14 |
+| Image precision | 46 | 50 | 79 |
+| Best image version rate | 67 | 60 | 93 |
+| Variant recall | 6 | 4 | 3 |
+| Spec accuracy / completeness | 17 / 34 | 18 / 35 | 15 / 29 |
+| Price availability | 6 | 4 | 3 |
+| Offline processing time | 49 min | 57 min | – |
+
+- **Keep rule:** macro 42.26 → 46.63 (+4.37); no key metric drops more than 2 points; 0 validation errors.
+- **Pages rescued:** 2,052 product pages, covering 318 of the 360 key families that had lost every page to the
+  listing rule. 869 listing drops remain, all without strong product evidence.
+- **Variants and price:** 10 → 8 of 179 key variants. Not investigated.
+- **Bray, Crane, Cimberio:** identical scores. No page there meets all three conditions. Bray's two listing-dropped
+  key families (`/check-valves/air-release-ezi-vac`, `/pinch-valves/series-pva`) are not rescued, because their URLs
+  have no product word.
+- **Unsure queue (Sioux Chief):**
+  - `page_role` +2,052 (default keep).
+  - `family_grouping` 769 → 1,648: more product pages means more "same family?" pairs.
+  - Multi-page families 88 → 100.
+
+**What it shows:**
+- Recall now nearly matches the current scraper (88 vs 93), with documents, CAD, images and specs equal or better.
+- The duplicate problem remains: 5,725 families against 700. Each part-number page is still its own family unless
+  the evidence ties it to another.
+- The next lever is family grouping (the resolver on `family_grouping`, or a stronger deterministic series rule),
+  not page discovery or page roles.

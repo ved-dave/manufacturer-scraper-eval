@@ -548,3 +548,12 @@ Measured on bray, crane, cimberio (Sioux Chief re-processed from cache at the en
   image precision 46 → 33 and best version 67 → 52 (no download for size-known images, so no perceptual-hash
   dedup); 58,732 → 47,459 fetch attempts, 49:08 → 36:28 offline. Keep-rule script: macro 42.26 → 42.16, no key-metric
   drop > 2. Note: the L1 redo script's score/validate steps used a wrong relative path; scores were re-run by hand.
+- Option A (post-round, user-approved, outside the 4-round rule): `listing_with_product_evidence`. A listing-cue page
+  with a product URL word and strong product evidence that passes the threshold without the penalty is kept and
+  queued `page_role` unsure (default keep).
+  - The first version, without the `url_word` condition, was stopped. The R5 decision logs showed it would keep
+    24 Crane `/category/` and 24 Bray category pages, none in the keys.
+  - Results: Sioux Chief families found 54 → 88 and secondary docs 33 → 87; macro 42.26 → 46.63; no key-metric drop
+    > 2; 0 validation errors. Bray, Crane and Cimberio are identical.
+  - A follow-up commit moved the override after the normal keep branch: 3,929 already-kept pages had been logged as
+    unsure. The product set is unchanged; Sioux Chief was re-run to confirm.
