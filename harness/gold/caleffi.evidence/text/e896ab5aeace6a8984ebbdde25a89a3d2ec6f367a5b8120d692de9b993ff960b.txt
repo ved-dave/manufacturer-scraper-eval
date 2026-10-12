@@ -1,0 +1,225 @@
+=== page 1 ===
+™
+Z-one Relay
+Multi-zone pump switching relays
+ZSR series
+01285/16 NA
+Replaces 01285/14 NA
+Function
+The ZSR series is a zone pump and boiler operating control for
+multiple zone hydronic heating systems. The ZSR series interfaces
+with low voltage thermostats, or any other low voltage controllers
+having a switching action. The ZSR series controls up to 6 zone
+pumps (depending on model selected) and a primary pump. It
+has LED indicators to provide functional status and easy system
+troubleshooting.
+Features
+• Compatible with 2, 3 and 4-wire thermostats or other low
+voltage controllers with switching action
+• 120 VAC input
+• Heavy duty, sealed relays
+• 1 primary pump output and 3 to 6 (model dependent) zone pump
+outputs (120 VAC/5A each)
+• Zone priority selectable with 1-hour time-out feature
+• Convenient R,W,C and T,T,COM dual labeling at thermostat
+terminals
+• System pump status (on/off) during priority selectable
+• Dry contacts (XX,AUX, ZONE 1 E/S) capable of switching line
+voltage
+• High capacity 12 VA or 20 VA transformer (model dependent)
+• Automatic resettable fuse on 24 V circuit
+• Selectable post purge
+Certified to CSA C22-2 No.24 • Selectable pump exercising
+Conforms to UL Standard 873 • 3 pump ground terminals for simplifed wiring
+4009064
+• Expandable to unlimited number of zones using simple 3-wire
+connection between controls
+• Large screw terminals for ease of wiring.
+• Front panel LED indicator light for functional status
+• 100% factory tested with 3 year warranty
+• ETL certified to CSA and UL standards
+Product range
+Code ZSR103 Z-one™ Relay pump switching relays, 12 VA maximum transformer load ............................................................................three zone
+Code ZSR104 Z-one™ Relay pump switching relays, 12 VA maximum transformer load ..............................................................................four zone
+Code ZSR106 Z-one™ Relay pump switching relays, 20 VA maximum transformer load ...............................................................................six zone
+Technical specifications Dimensions
+Materials
+Housing plastic: ABS
+Front display lights: LED
+Electrical knockouts (12) 1/2" size
+Performance POWER
+ZONE 1
+P Tr o a w n e sf r o s rm up e p r ly v : o ltage: 120 VAC, 50 2 / 4 6 0 V A H C z I ZSCN i P xAU Ss TUw P itTO cR W hIiOE n R g1 N P re R: 0 l I aRO yIRSs6 K T - OOIn FS p EE uLR tE: V C1 ICT2 IRN 0IV GCA SCH O5C0K/6 -0 DH ISzC 2O0NAN EMCATX ALL Z Z Z O O O N N N E E E 2 3 4 A
+Maximum transformer load: 12 VA (ZSR103/4), 20 VA (ZSR106) 4009064Ctoo nUfLo r8m73s Milwaukee, WI 53208 USA Z Z O O N N E E 5 6PUOMNP
+Electrical switch rating: 20A max combined
+Electrical switch rating pump output: 120 VAC, 5A each
+Dry contact rating, XX, AUX, ZONE 1 E/S: 120 VAC, 2A each
+Replaceable fuses: Type 2AG, 5A slow blow B C
+Temperature limits for:
+Shipping and storage max: 110°F (43°C) C
+Maximum Operating: 110°F (43°C)
+Maximum humidity: 90% non-condensing
+Approvals: ETL certified to CSA C22-2 No. 24, conforms to UL873
+Code Zones A B C Wgt. (lbs)
+ZSR103 3 9 1/4" 11" 3" 2.0
+ZSR104 4 9 1/4" 11" 3" 2.0
+ZSR106 6 9 1/4" 11" 3" 2.0
+=== page 2 ===
+AUX X X ZONE 1 R W C R W C R W C R W C R W C R W C D P
+E / S T T COM T T COM T T COM T T COM T T COM T T COM COMMS
+AUX X X ZONE 1 R W C R T-WSTACT 1 RT-SWTATC 2 RT-SWTATC 3 RT-SWTAT C4 RT-STWAT C5 T-STAT 6D P
+E / S T T COM T T COM T T COM T T COM T T COM T T COM COMMS
+Maintenance and Repair: The Caleffi Z-one™ multi-zone Tp-uSmTpA Tc o1ntroTl -STAT 2 TT-hSeT AZTS 3R sTe-rSieTsA To 4f coTn-tSroTl AiTs 5 T-STAT 6
+comes with two spare fuses. If control fails or is damaged, replace control programmed by positioning five MASTER SLAVE POWER
+with functional one. AUX X X ZO E N / E S 1 R T W T CO C M R T d op ip e W Tra s t w CioO Cit nM c s h . eR T s fWo T r C t O Ch M e R T folloWw T in C g O C M R TMAS W TTERCO C MPRIO R TRITY W T O S NCLAO C VME OFF D PCOOM P WMESR
+Boiler connections: T-STAT 1 T M -S a T s A te T r 2 / T S - l S a T v A e: T 3alloTw-SsT AfTo r4 PRIO T R - I S TY TR EA O M N TO 5TE ENTA-BSLET AO O NT F F 6 OFF ZONE1
+XX = Dry contact rated up to 120 VAC, 2 Amps, unlimited expansion to addRitiEoMnOaTl E ENABLE ON EXERCISE O O N FF OFF ZONE1
+which is typically connected to TT on boiler AUX X X ZONE 1 R ZWVR Cor ZRSR WrelaCys. ROnlyW onCeE XERR P C O IS S WE T P O U N R C GE Z R O M N A E S # TW 1 E R O O N FCF R WSL O A F V F EC PODZWOENPRE2
+c p Z a f A o n o r O r i U y n o N h t r c X r i e E t o a y a l l . l , t 1 X i t n o c g E Z l X o / d S O s o e N m = Zs E O E e N D / 1 s wE S r . t 1 y h ic Z e c o h n o n o n e t a t a w n 1 c y a t c t a r e z a n R r T o . tT e b n -d T e S e T h W T e u R T e c A n p A a a T Z C N t l b o l O O C s 1 S l e M N 1 F d i 2 E O n a 0 R c T R T 1 s lu V - M a S E d A E / T p i W C n T S R r AT g , i o RT c C 2 r a A i O C t 2 n A y N M mS z b o F e p R T n TO s u e -,R S , s wM e t T W y T d ilEA p l R i Tc t c C o l a O o C 3 l c M s ly l e o E u s / w R s T S T e e i -t d hS a T W T AT C O C 4 M T T R T T -S - M P 1 s w S T w T r e T a A , W i T i o r s t A e T Z C c t r T e O i h O C a 1t r M e y O . c C N 5 d t M O E i v T o e TN 1 f R - Z T f T w S/ ( w - w T h O S S T i e A i l t l T F W n h T T C R F A o O Z 1 2: T C p M O 1 O W C h e 6 N M o r 0 h a T E u Te P t r e - 6 O n 1 S t S i a T m w p TT s A r P a e ioT UC p s - r o RO r 3i s t i u GM o y w t E r ) i D s i . t Z t y P w T c T C O W Oh - N O i a t S S e h E c n M T P R d e T # h d E T P M 1 n A M o U i O S sT a R p O n CN l G l T O r O4 E w i E E o PM o X N R i E r Z t E l i l h I N O , t O R y r e A T N T C u R e B r E I i I - m p s S T L # S z o Y E E 1a T o n O O O O O T i A n n N N N N F d e O T C o F s e F O n , 5 F m M a . a a r n e n y M T dT t A z e - S o St m T o n T E O O O O p T e R AT F F F F o s F F F F ST C r a t T O h 6 r A M i a l T y Z Zt O O N N E E 2 3 SLAV Z ZE O O Z Z C O O N N O N N E E M E E 1 2 M 3 4 S POWER
+DHW contact on boiler controls equipped with these features. ZRSemRo1te 0En6 MaAbS 6 TleE ROZNo n/ OeFF: WSLhAeVnE remote enaPblOe WmEodRe iPsR OIONR,IT tYh OeN boardZ ONE4OFF
+ZONE5
+AUX = Dry contact, rated up to 120 VAC, 2 Amps, close when any zone w 6 ill Z ho o ld PnR o eIO ff R a IT ll Y z O o N nes waiting O fo F r F an external 24 - 1R2EM0 OVTAE CEN vAoBLltEa gONe from OFFZONE3 ZONE1
+calls and can be used as signal to a variable spTeReAdN sSeFlfO rReMguElRated pump the boiler. EXERCISE ON ZONE5OFF
+or other controls. E s R w x E i e M tc r O c h T i eE E s Xd e E E N oR ZO A nC B I NS Sf L o E E r /R O O 3 N N O 0 1 F s F e 0 c : o 6W nd h s e f n o O O l F Fl e o F F x w e i r n c g is 7 e 2 m h o o d u e rs Pi o ZsO f O SO i T n N N a P E c U, 1 t R i e v Ga i E ty c Z . hO NcEir#c1 uOlaNtor is Z ONE6 OFFZO ZO N N E E 4 6 ZONE2
+Communication connections: POSPT oPsUtR GPEu rZgOeN EZ#
+6
+o1 nO
+Z
+eN
+o
+#
+n
+1
+e
+ON / OFOFF:F When post puZrgOeN isE O2N, Zone 1 pump ZONE5
+ZONE3
+continues operating for 2 minutes after the priority zone is switched OFF.
+AUX X X ZO E N / E S 1 R T W T CO C M R T W T CO C M R T W T C boC o aO Cn rM n d e s c R TD t t t e o rW T m D i , n C P a O Cl M s t o t oR PT , m G aW rTo tc u h Cn i O Cn dM g t o t R T e G rm ro i u Wn Tn a d l C. o O C U f M sP s eO la W1 v E8 e R IN TDR C A O N GRM SP O F MU O SND R S MER R 2 E 4 M - O 1 TE 2 0 E N V A A B C LE P P Pr R iU I m O M R Pa IT r1 Y y puPmUMpP o2utpuZPtU: SMPR3 1P0UM6P4 PUMP5 ZON P E UM 3 P6 PR P I U M M A P RY S D T U A R T I U N S G Z ONE6 ZONE4
+T-STAT 1 T-STAT 2 T-STAg lo Ta c u a T3g t R e e d A t NhT in e-S Sr c FmT lo OoA s RsT e tM a p 4tE r o wR x i i r m Te- i Sa ty nT d t A o T it h L 5 i s g P h h O o W v u N E o Tld R l - t S a I b N g Te e A sT w h i i6 r eL in l G d g R e . O d U N N if D S ZS R 2 E 4 R M L - O 1 TE 2 1 0 E N V N A 0 A B C LE 6 P P L R U IO M LR P IT N 1 Y N P L UMP ru P Lr nN i2m s. a r I N t y s P L Up s M t u a P L m tN 3 u p s N d ru u P L n r U i s n M g L Pw N 4 p h 6 r e i o N n Z r i P Lt o a y U nMn ( L y o Pe nN 5z \o o N f n f) e P L c U a pM L n uP m Nb 6p e N ZO P LN R P LI U E M M 4 A P R N NY L P S D R T U I A O R NT R I U N IT S G Y P O N RIORIT O F F Y ZONE5
+Input Power: MASTER POWERIN SLAVE6 G R Z OU o N n DS e POR 2 E 4 WM - O 1 ETE 2 R 0 E N V A A B C LE P P p L R U r IO o M= R g P IT r L1 a Y in m e m P( e hU d oM tP u l s 2e i g n ) g o t P h fU e M1 P j 2 u 03 m p V e A r PC U p M i t n oP s 4 . powPeUr MtPh5e ZOPNUMEP56 PR P I U M O N M A P RY O F F S D T U A R T I U N S G ZONE6
+L = Line (hot leg) of 120 VAC sPuRpIOpRlyITY ON L N OFF L N LpumpN L N L N L N L N L N L N PRIORITY
+N = = N G e r u o t u r n al d of 120 VACREMOT E E X E E N R A C B IS LE E O O N N O O F F F F ZONE1 N St = a t N u e s u D tr u al r i le n g g o P f r 1 io 2 r 0 i t V y A O C N to / O po F w F e : r If t h p e ri o p r u it m y p is Z e O n N ab E le 6 d and the jumper O N O F F
+N co o n te tr : o w ls h , e a n ll c c o o n n t n r e o c ls t Pin m Og u S 2T s t P o b Ur e Rm G p oE o rZ w eO e ZN r - e Eo d #n1 e b O y N the same 12 O 0 F P F OVWAECR IcNircuit. GR Z OU O N N D E S 2 R 2 E 4 M - O i d1 TsE 2u 0 E r p N Vin Ala A B gC LcE e Z d O P N o P R EU nIO M 1 Rt P h I d T 1 eY e m O a N Pn Ud p M. i n PW s 2 , h e th n e jP uU p mM ri pP m e3 a r r i y s p p Pl u aU m cMeP p d4 w on il l OP c FU o FM n P t p in i5n u s e , t t h o PeU o Mp p Pri e m6 ra a t r e y PR P I U M M A P RY S D T U A R T I U N S G
+TRANSFORMER Z ZPo o On n We e E p R u pIN m um p p o s u tp Gr u uR t nO s U : NwDShen R 2 E 4 M - O 1 TE 2 0 E N V A A B C LE P P R U IO M R P IT 1 Y L PUM N P2 PUMP3 ZONE PU 3 MP4 L pu P m U N M p P w 5 ill bLe P O UM FN P F 6 duLring P R Z P N I O U M M N A P R E Y L 1 deNma S D n T U d A L R . T I U N S G N L N L N L N P O N RIORIT O F F Y
+LcorreNsponding thermostat L N L N L N L N L N L N L N L N PRIORITY
+ZSR ini 1 tia 0 tes 6 a demand. ZONE4 W a d A i R re N ct I N s G ho : r N t E o V n E th R e C 2 O 4 N V N A E C C O N s T u R p p & l O F Fy C . DIRECTLY, this will be
+6 Zone
+ZONE5
+GROUND = Connect the ground from the pump to the ground terminal.
+WARNING: When connecting 2 or more Z-one controls, all
+PRIORITY PUMP = Runs when zone #1 calls. Can be programmed to controls must be powered by the same 120 VAC circuit.
+ZONE6
+be the priority zone. L = Line (hot leg) of 120 VAC to power the pump,
+N = Neutral leg of 120 VAC to power the pump. Remote Enable allows
+WARNING: When replacing fuses, make sure power is
+for input of 24-120 VAC from a boiler to allow the zone pumps to
+disconnected to control box.
+operate. When power is removed from Remote Enable, zone pumps
+REMOTE ENABLE PRIORITY will not be allowed to operate. This is usefuPlR dIMuArRinYg warmS TwAeTUaSth er
+POWERIN GROUNDS 24 - 120 VAC PUMP1 PUMP2 shuPt UdMoPw3n to PsUtoMpP 4zone PpUuMmPp5s froPmUM rPun6ning oPr UifM yPour boilerD UcRoInNtGrols
+L N L N L N L N are LusedN to haLndleN prioriLty (DNHW) dLemaNnd andL neeNd the zon P e R IO p R u I m TY ps
+to be off during the priority demand. Even with power remoO Nved fro O F
+F
+m
+Remote Enable, the ZSR board stays powered to supply power to the
+thermostats.
+=== page 3 ===
+DHWaquastat
+TT DHW
+outdoor
+temperature sensor
+SPECIFICATION SUMMARY
+Z-one™ Relay, ZSR series
+Multi-zone pump switching relay. Compatible with 2, 3 and 4-wire thermostats or low voltage controllers with switching action.
+Power supply 120 VAC, 50/60 Hz. Zone priority selectable with 1 hour time-out feature. System pump status (on/off) during
+priority selectable. Transformer voltage: 24 VAC. R,W,C and T,T,COM dual labeling at thermostat terminals. Dry contacts
+(XX,AUX,T,T,ZONE 1 E/S) capable of switching line voltage. Automatic resettable fuse on 24 V circuit. Expandable to unlimited
+number of zones using 3-wire connection between controls. Large screw terminals. Front panel LED indicator light for functional
+status. ETL certified to CSA C22-2 No. 24, conforms to UL873. Provided with heavy duty, sealed relays, 1 primary pump output
+and 3 to 6 (model dependent) zone pump outputs (120 VAC/5A each), high capacity 12 VA transformer on 3 and 4 zone models,
+and 20 VA transformer on 6 zone models, and 3 pump ground terminals. Temperature limits for shipping, storage and operating:
+110 degrees F (43 degrees C). Maximum humidity: 90 percent non-condensing. Electrical switch rating: 20A maximum combined.
+Electrical switch rating pump output: 120 VAC, 5A each. Dry contact rating XX,AUX,T,T,ZONE 1 E/S: 120 VAC, 2A each.
+2
+pmuP
+boiler
+high limit
+control
+DHW
+aquastat
+L
+N
+1
+pmuP
+3
+pmuP
+4
+pmuP
+5
+pmuP
+6
+pmuP
+Traditional boiler, indirect DHW with priority,
+zone pumps
+AUXXXZO
+E
+N
+/
+E
+S
+1 R
+T
+W
+TCO
+C
+M
+R
+T
+W
+TCO
+C
+M
+R
+T
+W
+TCO
+C
+M
+R
+T
+W
+TCO
+C
+M
+R
+T
+W
+TCO
+C
+M
+R
+T
+W
+TCO
+C
+M
+D
+COM
+P
+MS
+T-STAT 1 T-STAT 2 T-STAT 3 T-STAT 4 T-STAT 5 T-STAT 6 POWER
+PRIO M R A IT S Y T O ER N S O L F A F VE ZONE1
+REMOT E E X E E N R A C B IS LE E O ON N O O F F F F ZONE2
+TRANSFORMER POST PURGE ZONE#1 ON OFF ZONE3
+ZSR106 ZONE4 6 Zone
+ZONE5
+ZONE6
+L POW N ERIN GROUNDS R2E4M L -O 1TE2 0E NV N AABCLE P P L R U IO M R P IT N 1 Y P L UMP N 2 P L UMP N 3 P L UMP N 4 P L UMP N 5 P L UMP N 6 P L RPIUMMAPR N Y P ON SDR TUI A ORT RIUNIT SG OFF Y
+Hydronic diagram is for illustration purposes only, some components have been removed for simplicity.
+We reserve the right to make changes and improvements to the products and related data in this publication, at any time and without prior notice.
+Caleffi North America, Inc.
+3883 W. Milwaukee Road
+Milwaukee, WI 53208
+Tel: 414-238-2360 · Fax: 414-238-2366
+sales@caleffi.com · www.caleffi.com
+© Copyright 2016 Caleffi North America, Inc.

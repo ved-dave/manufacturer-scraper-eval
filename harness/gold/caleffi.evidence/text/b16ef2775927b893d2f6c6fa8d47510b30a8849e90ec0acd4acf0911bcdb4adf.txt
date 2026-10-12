@@ -1,0 +1,211 @@
+=== page 1 ===
+CALEFFI
+20 | | 0 || | | | | || | | | |||| | | | | | | | || | | | | | | | 1 | || | 0 |2 | || 4 | || 0| || p || s |3 | i ||| b || a || r | || 7 | 4 | | | || | | | | | 1 | | | || | 5 0 | | 6 | | | 6 0 | | | | || 0 || | | | | | | | | | | | | | | || | | | | | | | | | |||08
+CALEFFI
+A A
+E
+B
+D
+C
+B’
+A A
+E
+B
+D
+C
+AutoFill™ automatic filling valve
+5350 series
+01085/23 NA
+Replaces 01085/16 NA
+Function
+The 5350 series AutoFill™ automatic filling valve is a pressure reducing
+valve which when installed on the water inlet piping in closed hydronic
+systems will maintain system pressure at a set value, automatically filling
+up with water as required. It fast fills the system to set pressure then
+automatically shuts off the water feed. This product is factory pre-set
+to 15 psi system pressure. To adjust the set pressure, simply turn the
+adjustment knob while observing the integral downstream pressure
+gauge. This product has the characteristic of being pre-adjustable,
+which means that it can be adjusted at the right pressure value before
+the system charging phase. After installation, the system pressure will
+automatically adjust itself to the set value and the water feed will stop
+when the set pressure is reached. The internal cartridge containing all
+the controlling components is pre-assembled as a self-contained unit,
+to facilitate inspection and maintenance procedures.
+The 5350 series is available with conventional union NPT and union sweat
+connections and the Presscon™ press copper tail-piece with union nut
+makes installation and maintenance fast, easy and efficient. Special slots
+in the EPDM O-ring allows fluid to leak during system testing if unpressed
+and provide a perfect leak proof seal when completely pressed.
+Product range
+5350 series AutoFill™ automatic filling valve .............................................................connections ¾" NPT male, sweat union; ¾" and 1" press union
+Code NA10273 Replacement pressure gauge, 2 inch dial, 0 - 100 psi range.........................................................................connection 1/8" NPT male
+Code 535004 Replacement cartridge
+Dimensions
+Technical specifications
+Materials - body: brass
+-cover: glass fiber reinforced nylon PA66G30
+-control spindle: stainless steel
+-moving parts: brass -diaphragm and seals: NBR -filter: stainless steel Performance
+Suitable fluids: water
+Max. working pressure: 365 psi (25 bar)
+Downstream pressure setting range: 6–90 psi (0.5–6 bar)
+Factory setting: 15 psi (1.035 bar)
+Max. working temperature: 140°F (60°C)
+Max. flow rate: 24 gpm at 21 psid pressure drop
+Pressure gauge scale: 0–100 psi (0–7 bar)
+Filter mesh size: 0.51 mm (35 mesh)
+Environmental: indoor only
+Connections:
+Main connections: 3⁄4" NPT male union
+3⁄4" sweat union
+3⁄4" and 1" press
+Lay length (press connection): size ¾": 47⁄16"
+size 1": 4 ¾" Code A B B’ C D E Wt. (lb.)
+Pressure gauge: 1⁄8" NPT female
+535051A 3⁄4" NPT 51⁄2" 31⁄2" 13⁄16" 47⁄16" 21⁄8" 2.3
+535056A 3⁄4" press 61⁄4" 31⁄2" 13⁄16" 47⁄16" 21⁄8" 2.3
+535059A 3⁄4" SWT 51⁄2" 31⁄2" 13⁄16" 47⁄16" 21⁄8" 2.3
+535066A 1" press 6½" 31⁄2" 13⁄16" 47⁄16" 21⁄8" 2.4
+B’
+=== page 2 ===
+40
+2 0 | | 0 | | | | | | | | | | | || | | | | | | | | | | | | | | | || 1 | | || | 0 | 2 | || | || | | p | | | s 3 | | i | | | b | | a || r | | | 7 | 4 | | || | | | | | | | | | | | 5 6 | | | 6 | | | | | | | 0 | | | | | | | | | | | | | | | | | | | | | | | | | | | | | 0 8
+|
+||
+System pressure setting 100 20 | | 0 || | | | | | | || | |||| | | | | | | | | | | | | | || 1 | | || | 0 | 2 | || 4 | | 0 | | | p | | | s 3 | | i | | | b | | a || r | | | 7 | 4 | | || | | | | | 1 | | | | | | | | 5 0 6 | | | 6 | 0 | | | | | | | 0 | | | | | | | | | | | | | | | || | | | | | | | | | | ||08
+Pre-adjustment Non-sticking materials
+AutoFill™ automatic filling The central support assembly (1), containing the moving parts, is
+valves in the 5350 series made of plastic material with a low adherence coefficient. This solution
+come standard with an reduces lime scale formation which is the main cause of failure.
+operating adjustment knob
+and an integral downstream
+outlet pressure gauge. This
+a r p c p d o o i e d r s e t n r j p a u s t r l i a t n s e s i y u v t o u e m o o r n d l e u u e a s o t n l i c l n o y t , a o n t r n h k p , e e n e w s b o u o r i e t a l b u t h i t t n l i a e t f g o h e d t n e i a g j n u . t a v s 7 u u T a t r g l p e h e u e s d e e s . i 20 | | 0 || | | | | | | || | |||| | | | | | | | | | | | | | || 1 | | || | 0 | 2 | || 4 | | 0 | | | p | | | s 3 | | i | | | b | | a || r | | | 7 | 4 | | || | | | | | 1 | | | | | | | | 5 0 6 | | | 6 | 0 | | | | | | | 0 | | | | | | | | | | | | | | | || | | | | | | | | | | ||08
+Compensated seat
+The Caleffi AutoFill™ 5350
+series automatic filling valve is
+designed with compensated 2
+seats. This means the set
+pressure value remains 1
+constant, regardless of
+variations in inlet pressure. In
+the figure, the thrust towards
+the opening is counterbalanced 1
+by the force created by the
+closing pressure acting on the 2 Low head loss
+compensating piston. Since The internal fluid-dynamic shape of the automatic filling valve results in
+the piston surface area is equal low pressure losses.
+t fo o r c th e e s c v a a n lv c e e l o o p u e t n e in a g c , h t o h t e h e tw r. o High pressures 20 | | 0 |||| | | || | | | ||||||| | | || | | | | | | | | 1 ||||| 0 |2||| 4 ||0 |||| p || s |3| i ||| b || a || r ||| 7 |4| | ||| | | | | |1 | | | | | || 5| 0 6 || 6 ||0 | | | | 0 | | | || || || || | | |||||| | | | | | | | | ||||08
+The zone exposed to inlet pressure is constructed to operate under
+High flow fast filling
+high pressure. The PTFE anti-extrusion rings (2) on the compensating
+The Caleffi AutoFill™ 5350 series automatic filling valve has large internal piston allow it to be used continuously at 365 psi (25 bar) maximum
+fluid passages allowing high flow filling with minimum pressure drop inlet pressure.
+through the valve body. The table below shows flow rates with the
+corresponding pressure drop at different flow rates.
+1
+Velocity (f/s) 2 4 6 8 10
+Flow (gpm) 8 14 20 24
+Pressure drop (psi) 8 13 17 21 20 | | 0 |||| | | || | | | ||||||| | | || | | | | | | | | 1 ||||| 0 |2||| 4 ||0 |||| p || s |3| i ||| b || a || r ||| 7 |4| | ||| | | | | |1 | | | | | || 5| 0 6 || 6 ||0 | | | | 0 | | | || || || || | | |||||| | | | | | | | | ||||08
+Removable self-contained cartridge Pressure gauge
+1
+The cartridge, replacement code 535004, containing the diaphragm, The pressure gauge, replacement code NA10273,
+strainer, seat, valve port and compensating piston, is pre-assembled comes standard in the AutoFill™ 5350 series automatic
+as a “self-contained unit” with a cover and can be easily removed for filling valve and has a 1/8" NPT male connection with a
+inspection and maintenance procedures, or replacement if necessary. 2" dial and 0–100 psi (0–7 bar) pressure range.
+2
+20 | | 0 || | | | | || | | | |||| | | | | | | | | | | | | | | | 1 | | || | 0 |2 | || 4 | | 0 | | || p || s |3 | i ||| b || a || r | || 7 | 4 | | | || | | | | | 1 | | | | | | | 5 | 0 6 | | 6 | | 0 | | | | 0 | | | | | | | | | | | | | | | | | || | | | | | | | | | |||08
+=== page 3 ===
+VENT
+TNEV
+TNEV
+VENT
+TNEV
+TNEV
+VENT
+TNEV
+Installation
+1. F illing valve can be installed in either horizontal or vertical position. 4. The system pressure is factory pre-set to 15 psi (1.035 bar).
+Do not install upside down. Do not install outdoors. a. To properly reset to a higher desired system pressure (greater than 15
+psi), start by opening the inlet shut-off valve while keeping the outlet
+shut-off valve closed. Adjust the operating knob clockwise (+) to
+increase the system pressure to the desired value as indicated on the
+TNEV outlet gauge, approximately 7 psi per revolution.
+b. To reset to a lower system (lower than 15 psi), turn the operating
+knob counterclockwise (-) until it stops turning, 0 psi. Then, open
+the inlet shut-off valve while keeping the outlet shut-off valve
+closed. Adjust the operating knob clockwise (+) to increase the
+2. Caleffi recommends the AutoFill™ 5350 series filling valve be installed system pressure to the desired value as indicated on the outlet
+with separately-purchased shut-off ball valves, code NA39589, gauge, approximately 7 psi per revolution.
+upstream and downstream. 5. When the desired system pressure is indicated on the gauge, open
+3. T he AutoFill™ 5350 series filling valve does not have an internal the outlet shut-off valve, filling the system.
+check valve to prevent reverse flow of water. For this reason, 6. The system will begin filling in fast-fill mode, then automatically stop
+a backflow preventer installed upstream is recommended. Use filling when system pressure reaches the setting value. Thereafter,
+a Caleffi code 573503A, or other brand that complies with the internal mechanism will automatically control system pressure to
+applicable codes. the desired value.
+Maintenance
+When checking, cleaning or replacing the complete regulating cartridge:
+1. Isolate the filling valve. 4. Check and clean the filter.
+2. The special construction of the filling unit does not require any 5. W hen the cartridge is screwed back into the body, the pressure
+adjustment of the system pressure, which can be left at the set value. setting will return to the original value.
+3. Remove the upper cover. The upper cover is integral with the internal 6. Reopen the shut-off valves. The pressure will return to the original
+regulating cartridge. set value.
+3 5
+Code 535004
+Code NA10273
+=== page 4 ===
+T T
+P
+T
+F
+Shut-off valve F Flow switch Flow meter 3-way valve
+Ball valve Zone valve Temperature probe
+P Pressure switch
+Ball stop Pump T Safety thermostat
+Control pocket
+Thermometer
+FlowCal™
+Regulator
+Air separator balancing valve
+Differential pressure
+Expansion vessel
+by-pass valve
+T
+E05L16A XXCAAMMPT
+VENT
+T T
+P
+T
+F
+Shut-off valve F Flow switch Flow meter 3-way valve
+Ball valve Zone valve Temperature probe
+P Pressure switch
+Ball stop Pump T Safety thermostat
+Control pocket
+Thermometer
+FlowCal™ Regulator
+Air separator
+balancing valve
+Differential pressure Expansion vessel
+by-pass valve
+T
+E05L16AXXCAAMMPT
+VENT
+Application diagram
+SPECIFICATION SUMMARIES
+AutoFill™ 5350 series
+Automatic filling valve with compensated seat and self-contained cartridge. Connections 3⁄4" NPT male, 3⁄4" sweat; 3⁄4" and 1" press with unions. Brass
+body and internal moving parts. Glass fiber reinforced nylon PA66G30 cover. Stainless steel filter, mesh size 0.51 mm (35 mesh). NBR diaphragm and
+seals. Maximum working temperature 140°F (60°C). Maximum upstream pressure 365 psi (25 bar). Downstream pressure setting range from 6–90 psi
+(0.5–6 bar). Self-contained cartridge can be removed for maintenance purposes, replacement code 535004. Environmental: indoor installation only.
+Complete with: adjustment knob with downstream pressure regulating indicator showing increasing or decreasing pressure direction for manual setting,
+pressure gauge with 2" dial, scale 0–100 psi (0–7 bar), connections 1⁄8" NPT male, replacement code NA10273. Valve pressure gauge connection
+1⁄8" NPT female.
+We reserve the right to change our products and their relevant technical data, contained in this publication, at any time and without prior notice.
+Caleffi North America, Inc.
+3883 W. Milwaukee Road
+Milwaukee, WI 53208
+Tel: 414-238-2360 · Fax: 414-238-2366
+sales@caleffi.com · www.caleffi.com/usa/en-us
+© Copyright 2023 Caleffi North America, Inc.

@@ -1,0 +1,332 @@
+=== page 1 ===
+NA10334 G2.02
+www.caleffi.com
+Z-one™ Relay Multi-Zone Pump Control
+© Copyright 2023 Caleffi
+ZSR10X series
+Function
+The ZSR Z-one™ series is a multi-zone pump and boiler
+operating control for multiple zone hydronic heating or
+cooling systems. The ZSR series interfaces with low voltage
+thermostats, or any other low voltage controllers having a
+switching action. The ZSR series controls up to 3, 4, 5 or 6
+heating circulator pumps (depending on model selected), a
+primary pump and has LED indicators to provide functional
+status and easy system troubleshooting.
+Certified to CSA C22-2 No.24
+Conforms to UL Standard 873
+4009064
+• Compatible with low voltage 2, 3, or 4 wire thermostats
+• R, W, C and T T COM dual labeling at thermostat terminals
+• Z-oneLink™ unlimited zone expansion
+• 120 VAC pump outputs
+• Remote Enable input 24 - 120 VAC
+• Selectable Priority with 1 hour time-out
+• Selectable Post Purge and Exercise
+• Dry contacts for ZONE 1 (DHW), capable of switching line voltage
+• High capacity transformer
+• Large terminal connections
+• Simplified wiring with extra ground terminals
+• Heavy duty sealed relays
+• All pumps fuse protected (with spare fuse)
+Product range
+Code ZSR103 Z-one Relay pump control......................................................................three zone
+Code ZSR104 Z-one Relay pump control .......................................................................four zone
+Code ZSR106 Z-one Relay pump control......................................................................... six zone
+Technical specifications
+Materials
+Housing plastic: ABS
+Front display lights: LED
+Electrical knockouts: (12) 1/2” size
+Performance
+Power supply: 120 VAC, 50/60 Hz
+Transformer voltage: 24 VAC
+Maximum transformer load: 40 VA
+Electrical switch rating pump output: 120 VAC, 5A each (20A max combined)
+Dry contact rating, Zone 1 ES, XX, AUX: 120 VAC max, 2A each
+Replaceable fuses: Type 2AG, 5A slow blow
+Working temperature range: 32°F (0°C)—115°F (45°C)
+Maximum humidity: 90% non-condensing
+Approvals: Conforms to UL873 / Certified to CSA C22 No 24, listed by ETL
+1
+=== page 2 ===
+SAFETY INSTRUCTION: This safety alert symbol will be used in this manual to draw
+attention to safety related instructions. When used, the safety alert symbol means
+ATTENTION! BECOME ALERT! YOUR SAFETY IS INVOLVED! FAILURE TO FOLLOW
+THESE INSTRUCTIONS MAY RESULT IN A SAFETY HAZARD.
+CONSIGNE DE SÉCURITÉ Ce symbole d’alerte de sècuritè sera utilisè dans ce manuel
+pour attirer l’attention sur les instructions relatives à la sècuritè. Lorsqu’il est utilisè,
+ce symbole signifie. ATTENTION! DEVENEZ ALERTE ! VOTRE SÈCURITÈ EST EN
+JEU ! NE PAS SUIVRE CES INSTRUCTIONS PEUT PROVOOUER UN RISOUE DE
+SÈCURITÈ.
+WARNING: This product can expose you to chemicals including lead, which
+is known to the State of California to cause cancer and birth defects or other
+reproductive harm. For more information go to www.P65Warning.ca.gov.
+AVERTISSEMENT: Ce produit peut vous exposer à des produits chimiques comme
+le plomb, qui est connu dans l’État de Californie pour causer le cancer, dommages
+à la naissance ou autre. Pour plus d’informations rendez-vous www.P65Warnings.
+ca.gov.
+CAUTION: All work must be performed by qualified personnel trained in the
+proper application, installation, and maintenance of systems in accordance with all
+applicable codes ordinances.
+ATTENTION: Tous les travaux doivent être effectués par du personnel qualifié,
+formé à l’utilisation, à l’installation et à l’entretien adéquats des systèmes,
+conformément à tous les codes et ordonnances applicables.
+WARNING: Electrical shock hazard. Disconnect power before installation to prevent
+electrical shock or equipment damage. Make sure all connections are in accordance
+with the electrical wiring diagram and in accordance with national and local electrical
+codes.
+AVERTISSEMENT: Risque de choc électrique. Débranchez l’alimentation avant
+l’installation pour éviter les chocs électriques ou les dommages matériels. Assurez-
+vous que toutes les connexions sont conformes au schéma de câblage électrique
+et aux codes électriques nationaux et locaux.
+WARNING: Avoid electrical noise interference. Do not install near large conductors,
+electrical machinery, or welding equipment. Avoid locations where excessive
+moisture, corrosive fumes, vibration, or explosive vapors are present.
+AVERTISSEMENT: Évitez les intérferences de bruit électrique. Ne pas installer
+à proximité de gros conducteurs, de machines électriques ou d’équipements de
+soudage. Évitez les endroits où une humidité excessive, des fumées corrosives, des
+vibrations ou des vapeurs explosives sont présentes.
+CALEFFI HYDRONIC SOLUTIONS SHALL NOT BE LIABLE FOR DAMAGES
+RESULTING FROM MISAPPLICATION OR MISUSE OF ITS PRODUCTS.
+CALEFFI NE SERA PAS RESPONSABLE DES DOMMAGES RÉSULTANT D’UNE
+MAUVAISE APPLICATION OU D’UNE MAUVAISE UTILISATION DE SES PRODUITS.
+2
+=== page 3 ===
+Installation
+Inspect packages for damage. If damaged, notify the appropriate carrier immediately. If
+undamaged, open the package and inspect the device for obvious damage. Return damaged
+products.
+• Use only copper conductor supply wire suitable for at least 105° C and 300V minimum.
+• All circuits must have a common disconnect and be connected to the same pole of the
+disconnect.
+Maintenance and Repair
+The Caleffi Z-one multi-zone pump control comes with a resettable fuse on the low voltage side
+and replaceable fuses on each 120 VAC output If control fails or is damaged, replace control with
+functional one.
+Mounting
+Mount the Caleffi Z-one multi-zone pump control to a suitable surface. Slotted holes are provided for
+mounting purposes. Do not mount to a surface that exceeds 115°F (45°C). The unit must be only
+located in dry interior locations. It is not suitable for installation in hazardous locations and should not
+be placed close to any electromagnetic fields.
+CAUTION: If unit is below 32°F (0°C), expose to room temperature for 15 minutes
+before pressing cover release tabs. Failure to do so could cause damage to the
+enclosure.
+Cover removal
+Hold either the left or the right Insert screwdriver and push tab Roll cover off base.
+end of the box up and at an inward, cover should release
+angle. from base.
+Scan to view
+Remove cover of relay box. Hang relay box and fasten tight to
+Identify the four mounting desired locations. Complete wiring
+holes on relay box, mark on connections in accordance with
+the wall the desired location terminal locations. Place cover
+of mounting. Drill, anchor, back on relay box.
+and fasten four screws for
+Installation Tip
+mounting.
+3
+ZSR
+Z-one™
+Pump
+Control
+=== page 4 ===
+Transformer installation
+Mount box on stable surface Remove transformer(s) from Slide bottom end of transformer
+using level. packaging. into bottom latch.
+Snap top of transformer into Feed wiring through hole near
+latch arms. the top of the transformer and
+insert transformer plug into the
+socket.
+Dimensions
+POWER
+ZONE 1
+I ZSCNixPA U SsTUw PitTOcRhWIiOnEg1 RN rPe:R 0 lIaROyISRs6 K T- O OInF S pEEuLRtEV:C I1CT2IRN0ICGV SAHCO 5C0K/ 6- 0DHISzC O20NAN EMCATX ALL Z Z Z O O O N N N E E E 2 3 4 A Code Zones A B C Wgt. (lbs)
+4009064Ctoo nUfLo r8m73s Milwaukee, WI 53208 USA Z Z O O N N E E 5 6POUNMP ZSR103 3 9¼” 11” 3” 3.2
+ZSR104 4 9¼” 11” 3” 3.2
+ZSR106 6 9¼” 11” 3” 3.2
+B C
+C
+4
+=== page 5 ===
+Dip switch settings
+The ZSR series of control is programmed by
+positioning five dip switches for the following
+operations.
+MASTER SLAVE
+Master / Slave: allows for unlimited expansion to
+PRIORITY ON OFF additional ZSR or ZVR relays boards.
+REMOTE ENABLE ON OFF Priority ON / OFF: When priority switch is ON, upon
+demand to TSTAT 1 , ZONE 1 will operate as priority
+EXERCISE ON OFF and all other zones are temporarily switched off (with
+POST PURGE ZONE#1 ON OFF 1 hour time-out). When priority is OFF, any zones
+that were active when ZONE 1 was switched on will
+remain on.
+Remote Enable ON / OFF: When remote enable mode is ON, the ZSR board will hold off all zones
+until it receives an external 24 - 120 VAC signal to the Remote Enable terminals.
+Exercise ON / OFF: When exercise mode is ON, each circulator is switched on for 30 seconds
+following 72 hours of inactivity.
+Post Purge Zone #1 ON / OFF: When post purge is ON, Zone 1 pump continues operating for 2
+minutes after the priority zone is switched off.
+Boiler Connections
+XX = Dry contact rated up to 120 VAC, 2 Amps, which is typically
+connected to T T on boiler control, closes when any zone calls including
+priority. ZONE 1 / ES (DHW) = Dry contact, rated up to 120 VAC, 2
+AUX X X ZONE 1 Amps, close with any call to ZONE 1, it is typically used to close DHW
+E / S contact on boiler controls equipped with these features. AUX = Dry
+contact, rated up to 120 VAC, 2 Amps, close when any zone calls and
+can be used as signal to a variable speed self regulated pump or other controls.
+Thermostats
+When a zone has a demand
+from a thermostat (T T / RW ) the
+control will send 120 VAC to the
+R W C R W C R W C R W C corresponding zone pump, primary
+T T COM T T COM T T COM T T COM pump and the (X X) dry contact
+T-STAT 1 T-STAT 2 T-STAT 3 T-STAT 4 will close to signal the boiler of a
+heating demand. AUX dry contact
+will also close as a signal to a variable speed self regulated pump or other controls. ZONE 1 can be
+used for priority. When the priority dip switch is ON, a demand from T-STAT 1 will activate PRIORITY
+PUMP 1 and all other zone pumps will be switched OFF. The Priority has a 1 hour time out and will
+go back to operating zones 2 - 6. The ZONE 1 (DHW) dry contact will also close. Depending upon
+“Status During Priority” jumper, the primary pump will either be ON or OFF.
+Jumper
+Status During Priority ON / OFF: When status jumper
+PRIMARY STATUS
+is placed on the ON pins, the primary pump will continue
+PUMP DURING
+to operate during ZONE 1 priority demand. When jumper
+L N PRIORITY
+is placed on the OFF pins, the primary pump will be OFF
+during ZONE 1 priority demand.
+5
+=== page 6 ===
+Communication terminals
+Z-oneLink™ unlimited expansion allows connecting additional ZSR & ZVR
+series relay controls to a Master ZSR or ZVR. Communication is accomplished
+by connecting three wires (thermostat wire) to the communication terminals
+located in the upper right hand corner. The dip switch is positioned to D P
+Master / COMMS Slave position. A demand for heat from any zone will fire COMMS
+the boiler and start the pump. Only one relay board can be the Master and
+Priority, Slave is used for subsequent boards.
+Wiring terminals
+REMOTE ENABLE PRIORITY
+POWERIN GROUNDS 24 - 120 VAC PUMP1 PUMP2
+L N L N L N L N
+Large screw terminal connections makes wiring easy. Three extra ground screw terminals connection
+allows fast grounding of pumps eliminating the need for extra wire connectors. Pump terminals have
+120 VAC outputs for simplified pump connection.
+The Remove Enable feature allows the ZSR to be controlled from an external power source. If the
+Remove Enable dip switch is positioned to ON, the ZSR must have 24 - 120 VAC supplied to the
+Remote Enable terminals in order for the zone pumps to run. A typical application is to connect the
+boiler’s circulator output to the Remote Enable terminals so the zone pumps will not run during warm
+weather shutdown. This feature can also be used to hold off the zone pumps if the boiler is equipped
+with a DHW pump output.
+Pump 1 will be become the Priority pump when the Priority dip switch is positioned to ON.
+6
+=== page 7 ===
+Example Wiring Diagram
+Please reference Z-one™ Relay wiring guide for complete listing of wiring diagrams.
+space heating thermostats
+AUXXX ZO E N / E S 1 R T W TCO C M R T W TCO C M R T W TCO C M R T W TCO C M D COM P MS
+T-STAT 1 T-STAT 2 T-STAT 3 T-STAT 4
+MASTER SLAVE POWER
+PRIORITY ON OFF
+REMOTE ENABLE ON OFF ZONE1
+EXERCISE ON OFF
+POST PURGE ZONE#1 ON OFF ZONE2
+ZONE3
+TRANSFORMER
+ZSR104 ZONE4
+4 Zone
+POWERIN GROUNDS R2E4M -O 1T2E 0E NVAABCLE P P R U IO M R P IT 1 Y PUMP2 PUMP3 PUMP4 PR P I U M M A P RY S D T U A R T I U N S G
+L N L N L N L N L N L N L N PRIORITY
+L
+N
+C2 C4
+C1 C3 PRIMARY
+PUMP
+C1 C2 C3 C4
+VENT
+PRIMARY
+PUMP
+7
+=== page 8 ===
+Non-Condensing boiler with
+indirect DHW
+space heating thermostats
+aqDuHaWstat
+AUXXXZO
+E
+N
+/
+E
+S
+1 R
+T
+W
+TCO
+C
+M
+R
+T
+W
+TCO
+C
+M
+R
+T
+W
+TCO
+C
+M
+R
+T
+W
+TCO
+C
+M
+R
+T
+W
+TCO
+C
+M
+R
+T
+W
+TCO
+C
+M
+D
+COM
+P
+MS
+T-STAT 1 T-STAT 2 T-STAT 3 T-STAT 4 T-STAT 5 T-STAT 6
+space
+d h e e m at a in n g d MASTER SLAVE POWER
+d he o a m t e in s g t ic d e w m a a te n r d REMOT E E P X R E E I N O R A C R B I I S T L Y E E O O O N N N O O O F F F F F F ZONE1
+boiler POST PURGE ZONE#1 ON OFF ZONE2
+reset
+controller ZONE3
+L
+N
+ZCZRTT TRANSFORMER
+ZSR106 ZONE4
+G 6 Zone ZONE5
+tem ou p t e d r o a o tu r re ZONE6
+sensor
+L POW N ERIN GROUNDS R2E4M L -O 1T2E 0E NV N AABLCE P P L R U IO M R P IT N 1 Y P L UMP N 2 P L UMP N 3 P L UMP N 4 P L UMP N 5 P L UMP N 6 P L RPIUMMAPR N Y P SDR TUI A ORT RIUNIT SGY
+L
+N
+C2 C4
+C1 C3 C5
+C1 C2 C3 C4 C5
+VENT
+TT
+LEAVE THIS MANUAL WITH THE USER.
+Laissez ce manuel à la disposition de I’utilisateur.
+Caleffi North America, Inc.
+3883 West Milwaukee Road
+1-2023 Milwaukee, WI 53208
+T: 414.238.2360 F: 414.238.2366
+8

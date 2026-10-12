@@ -1,0 +1,148 @@
+=== page 1 ===
+CALEFFI
+www.caleffi .com
+NA38445.03
+AutoFill™ Automatic fi lling valve
+© Copyright 2018 Caleffi 5350 Series
+Installation, commissioning and servicing instructions
+Function
+The 5350 series AutoFill™ automatic fi lling valve is a pressure reducing valve which when installed
+on the water inlet piping in closed hydronic systems will maintain system pressure at a set value,
+automatically fi lling up with water as required. Fast fi lls the system to set pressure then automatically
+shuts off the water feed. This product is factory pre-set to 15 psi system pressure. To adjust the
+set pressure, simply turn the adjustment knob while observing the integral dowmstream pressure
+gauge. This product has the characteristic of being pre-adjustable, which means that it can
+be adjusted at the right pressure value before the system charging phase. After installation,
+the system pressure will automatically adjust itself to the set value and the water feed will stop when
+the set pressure is reached. The internal cartridge containing all the controlling components is pre-
+assembled as a self-contained unit, to facilitate inspection and maintenance procedures.
+These items are designed for use in closed hydronic systems. Do not use in plumbing applications.
+T h ese items do not meet the low-lead plumbing standards of U.S. and Canada.
+Product range
+5350 Series AutoFill Automatic filling valve with pressure gauge and pressure setting
+adjustment knob with NPT male, Press, and Sweat connections, size 3/4” and 1".
+Technical Characteristics
+. Materials: -Body: brass
+-Cover: Glass fi ber reinforced nylon PA66G30
+-Control spindle: stainless steel
+-Moving parts: brass
+-Diaphragm & seals: NBR
+-Filter: stainless steel
+. Max working pressure: 365 psi (25 bar)
+. Downstream pressure setting range: 6–90 psi (0.5–6 bar)
+. Factory setting: 15 psi (1.035 bar)
+. Max. working temperature: 140°F (60°C)
+. Pressure gauge scale: 0–100 psi (0–7bar)
+. Filter mesh size: 0.51 mm (35 mesh)
+-Environmental: indoor only
+. Suitable fl uids: water
+. Connections: -NPT male union: 3/4” & 1"
+-Sweat union: 3/4” & 1"
+-PEX crimp union: 3/4" & 1"
+-Press: 3/4" & 1"
+-Lay length (press connection): size 3/4": 4-7/16"
+size 1": 4-3/4"
+-Pressure gauge: 1/8” NPT
+=== page 2 ===
+SAFETY INSTRUCTION
+This safety alert symbol will be used in this manual to draw attention to safety related instructions. When used, the
+safety alert symbol means ATTENTION! BECOME ALERT! YOUR SAFETY IS INVOLVED! FAILURE TO
+FOLLOW THESE INSTRUCTIONS MAY RESULT IN A SAFETY HAZARD.
+WARNING: This product can expose you to chemicals including lead, which is known to the State
+of California to cause cancer and birth defects or other reproductive harm. For more
+information go to www.P65Warnings.ca.gov.
+CAUTION: All work must be preformed by qualifi ed personnel trained in the proper application,
+installation, and maintenance of systems in accordance with all applicable codes and
+ordinances.
+CAUTION: If the automatic fi lling unit is not installed, commissioned and maintained properly,
+according to the instructions contained in this manual, it may not operate correctly
+and may endanger the user.
+CAUTION: Make sure that all the connecting pipework is water tight.
+CAUTION: When making the water connections, make sure that the unit connecting pipework is
+not mechanically overstressed. Over time this could cause breakages, with
+consequent water losses which, in turn, could cause harm to property and/or people.
+CAUTION: Water temperatures higher than 100°F (38°C) can be dangerous. During the
+installation, commissioning and maintenance of the automatic fi lling valve, take the
+necessary precautions to ensure that such temperatures do not endanger people.
+CAUTION: In the case of highly aggressive water, arrangements must be made to treat the water
+before it enters the unit, in accordance with current legislation. Otherwise the unit may
+be damaged and will not operate correctly.
+20 | | 0 || | | | | | | || | |||| | | | | | | | | | | | | | || 1 | | || | 0 | 2 | || 4 | | 0 | | | p | | | s 3 | | i | | | b | | a || r | | | 7 | 4 | | || | | L | | | 1 | | | | | | | | 5 0 6 | | | 6 | 0 e | | | | | | | 0 | | | | | | | | | | | | | | | || | | a | | | | | | | | || v 08 e this manu a p P A T c p d n o h a r e i u r s e e n e r l t p o s o - t f r l s p p i a e a o F n u e r d v y i r u l e r l o e r j o e s t a a u d l h u u s t u g s i e u t s n o t i a t o o l r g m n y u u e n m , g a s t e , r c h a e e d e n w a e t s . j r n i t u i . c u T t o s h l b h t u fi t i m e i n l t t s l h l i g e n e a e a t g n d i d n g v t j v j u a u a k 7 a s l s u u n l t v p t g e e o m e s e d b s i e . a i n n n t t d k h n e a o n 5 b 3 i n f 5 e te 0 a g t s u ra e re l r i s d e s o ro w c ta o n t m s io tr e n e a a s l t m a o n p o d e u a r t a r le d ti t o w n i . t h 20 | | 0 || | | | | | | || | |||| | | | | | | | | | | | | | || 1 | | || | 0 | 2 | || 4 | | 0 | | | p | | | s 3 | | i | | | b | | a || r | | | 7 | 4 | | || | | | | | 1 | | | | | | | | 5 0 6 | | | 6 | 0 | | | | | | | 0 | | | | | | | | | | | | | | | || | | | | | | | | | | ||08
+1
+2
+1 20 | | 0 |||| | | || | | | ||||||| | | || | | | | | | | | 1 ||||| 0 |2||| 4 ||0 |||| p || s |3| i ||| b || a || r ||| 7 |4| | ||| | | | | |1 | | | | | || 5| 0 6 || 6 ||0 | | | | 0 | | | || || || || | | |||||| | | | | | | | |||||08
+2
+20 | | 0 |||| | | || | | | ||||||| | | || | | | | | | | | 1 ||||| 0 |2||| 4 ||0 |||| p || s |3| i ||| b || a || r ||| 7 |4| | ||| | | | | |1 | | | | | || 5| 0 6 || 6 ||0 | | | | 0 | | | || || || || | | |||||| | | | | | | | |||||08
+=== page 3 ===
+Removable self-contained cartridge
+The cartridge, containing the diaphragm, strainer, seat, valve port and compensating piston, is pre-assembled as a “self-contained unit” with a cover
+and can be easily removed for inspection and maintenance procedures.
+1. Filling valve can be installed in either horizontal or vertical position.
+Do not install upside down. Do not install outdoors.
+2. Caleffi recommends the AutoFill 5350 series fi lling valve be installed
+with separately-purchased shutoff ball valves, code NA39589,
+upstream and downstream.
+3. The AutoFill 5350 series fi lling valve does not have an internal check VENT
+valve to prevent reverse fl ow of water. For this reason, a backfl ow
+preventer installed upstream is recommended. Use a Caleffi code
+573503A, or other brand that complies with applicable codes.
+4. The system pressure is factory pre-set to 15 psi (1.035 bar).
+a. To properly reset to a higher desired system pressure
+(greater than 15 psi), start by opening the inlet shutoff valve while
+keeping the outlet shutoff valve closed. Adjust the operating knob
+clockwise (+) to increase the system pressure to the desired value
+as indicated on the outlet gauge, approximately 7 psi per revolution.
+b. To reset to a lower system (lower than 15 psi), turn the operating
+knob counterclockwise (-) until it stops turning, 0 psi. Then, open the
+inlet shutoff valve while keeping the outlet shutoff valve closed. Adjust
+the operating knob clockwise (+) to increase the system pressure to
+the desired value as indicated on the outlet gauge, approximately 7
+psi per revolution.
+5. When the desired system pressure is indicated on the gauge, slowly
+open the outlet shutoff valve, fi lling the system.
+6. During the fi lling, in fast-fi ll mode, the valve will automatically control
+the system pressure until it reaches the desired value, without the
+need to monitor the fi lling operation itself. After installation, the internal
+mechanism will automatically control system pressure to the desired
+value.
+TNEV
+Installation
+TNEV
+Maintenance
+When checking, cleaning or replacing the complete regulating cartridge:
+3 5
+1. Isolate the fi lling valve.
+2. The special construction of the fi lling unit does not require any adjustment
+of the system pressure, which can be left at the set value.
+3. Remove the upper cover. The upper cover is integral with the internal
+regulating cartridge.
+4. Check and clean the fi lter.
+5. When the cartridge is screwed back into the body, the pressure setting
+will return to the original value.
+6. Reopen the shut-off valves. The pressure will return to the original set
+value.
+=== page 4 ===
+T T
+P
+T
+F
+Shut-off valve Zone valve Regulator
+Ball valve Pump Expansion vessel
+Ball stop FlowCal balancing valve
+3-way valve
+Thermometer Flow meter
+P Pressure switch
+Differential pressure Temperature probe
+by-pass valve Control pocket
+T
+Safety thermostat
+F Flow switch Air separator
+T
+Application diagram
+E05L16A XXCAAMMPT
+VENT
+Caleffi North America, Inc.
+3883 W. Milwaukee Road
+Milwaukee, WI 53208
+T: 414.238.2360 F: 414.238.2366
+7-23-18

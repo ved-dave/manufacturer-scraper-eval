@@ -1,0 +1,52 @@
+=== page 1 ===
+PLUMBVENT™
+Low-lead automatic air vent
+CALEFFI
+NA502640A
+Submittal Data 03701 NA — Issue Date 072018
+Application Dimensions
+Float type automatic air vent designed to vent air from water at high
+points in plumbing system piping. Example applications include risers,
+domestic hot water storage tanks and recirculation system pump inlets.
+Typical Specification
+Furnish and install on the plans described herein, a Caleffi PLUMBVENT™
+automatic air vent as manufactured by Caleffi. Each air vent must be
+designed with a DZR low-lead brass body and cover. Each air vent must
+include a Moplen EP548S float and peroxide-cured EPDM seals. Provided
+with integral hygroscopic (anti-drip) safety cap. Each air vent shall be Caleffi
+model NA502640A or approved equal. (See product instructions for specific
+installation information.)
+We reserve the right to change our products and their relevant technical data, contained in this publication, at any time and without prior notice. Contractors should request production drawings if prefabricating the system.
+Job name ______________________________________ Size ________________________________________
+Job location ______________________________________ Quantity ________________________________________
+Engineer ______________________________________ Approval ________________________________________
+Mechanical contractor ________________________________ Service ________________________________________
+Contractor’s P.O. No. ________________________________ Tag No. ________________________________________
+Representative ________________________________ Notes ________________________________________
+B
+E
+C
+D
+A
+Technical specifications
+Materials
+- Body & cover:
+DZR low-lead brass (<0.25% Lead content)
+Wt
+- Float: Moplen EP548S Code A B C D E (lb)
+- Seals: peroxide-cured EPDM
+NA502640A ½" MNPT 3 5/8 " 1 9/16 " 3/4 " 2 7/8 " 0.6
+Performance
+Max. working pressure: 150 psi (10 bar)
+Max. discharge pressure: 90 psi (6 bar)
+Max. discharge flow rate: 1.75x10-9 scfm (50 Nl/m)
+Max. working temperature: 240°F (115°C)
+Connections
+- NPT male: ½"
+Certifications
+NSF/ANSI 372-2011, Drinking Water System Components Lead Content
+Reduction of Lead in Drinking Water Act, California Health and Safety Code
+116875 S.3874 (AB1953), Reduction of Lead in Drinking Water Act and
+Vermont S152, certified by ICC-ES, file PMG-1360.
+www.caleffi.com
+2018

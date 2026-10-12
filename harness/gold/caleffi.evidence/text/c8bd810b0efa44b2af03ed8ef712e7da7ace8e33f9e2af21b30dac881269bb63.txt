@@ -1,0 +1,1915 @@
+=== page 1 ===
+
+=== page 2 ===
+CCaalelefffifi N Norothrt hA mAemriecrai,c Ian,c I.n c.
+93885803 S Wou. tMh i5lw4tha Sutkreeeet Rd
+FMrailnwklainu,k WeeI ,5 3W1i3s2c onsin 53208
+TT:: 441144.4.22318.1.020306 0F :F 4:1 441.442.21.3288.7283 66
+Dear Hydronic and Plumbing Professional,
+Water is the essential fluid in all hydronic systems. Its quality affects the system’s efficiency,
+reliaDbeiliatyr, Hlifyed erxopneicc tParnocfye, sasnido nthael, effectiveness of any chemical additives.
+There is a “physical” aspect to water quality, and a “chemical” aspect.
+Welcome to the 2nd edition of idronics – Caleffi’s semi-annual design journal for
+Theh pyhdyrsoicnaicl apsrpoefcets sinivoonlvaelss. p rocedures for ridding systems of gasses and solid impurities. The
+devices involved include dirt separators, air vents and magnetic separators. These have been
+discTuhsese 1ds ti ne dpirteiovnio uosf iisdsruoensic osf widarosn ricesle, aasnedd m ino sJta rneuceanrytl y2 0in0 7id raonndic ds i#s1tr5ib. uTote cdo tmop olevmere nt that
+info8rm0,a0t0io0n p, tehoep floec iuns N oof rtthhis A ismseurei coaf .i dItr ofoncicuss ies do no nth teh ec htoempiicc ahl yadsrpaeucltisc osfe wpaartaert iqouna. lFitryo.m
+A Technical Journal Thet hneee fde efodrb wacakte rre tcreeaivtmede,n itt ’ins teovdidaye’ns th wyder oatntiaci nsyesdt eomurs gaopaple oarfs e txop blaei nwinidge ltyh ere bcoegnneifzitesd .
+A 20a1n4d pporlol poef r C a o p ff p e l e ic w at i i t o h n C o a f l e th ff i i s ™ m woedbeinrna rd aetsteignnd eteesc h(cnoiqnturaec ftoorr sh aynddro dneicsi gsnyesrtse)m gsa.v e the
+from following responses to the questions:
+If you haven’t yet received a copy of idronics #1, you can do so by sending in the
+Caleffi Hydronic Solutions Wheantt adcoh yeodu rcehaodoesre r etos ptroenats eth cea inrdit,ia ol rf ilbl yw raetegri?s tering online at www.caleffi.us. The
+pu•b Olicna mtioons tw inilslt balela mtioanisle d to y ou free of c6h4a%rge. You can also download the
+co•m Opnle steo mjoeu rinnsatla lalast iao nPsD F file from our W2e8b% s ite.
+• Never 8%
+Caleffi North ameriCa, iNC WheTnh iyso us etcreoant din eitdiailt ifoilln w aadtedrr,e wshsaets m aiert haondd ddoir ty oinu hpyredfreor?n ic systems. Though not a new
+3883 W. Milwaukee Rd top• iAc dtod ochuer minicdaulss t r y, the use o f modern h5i0g%h-efficiency equipment demands a
+Milwaukee, Wisconsin 53208 USA tho • r D o e u m gh in u er n a d liz e e rs tan ding of the harmful ef 2 f 2 e % cts of air and dirt, as well as knowledge
+on how to eliminate them. Doing so helps ensure the systems you design will
+• Soften 22%
+operate at peak efficiency and provide long trouble-free service.
+Tel: 414-238-2360 • Combination or different method 6%
+FAX: 414-238-2366 TheWre ew terrues at lysoo um wainlyl f“inwdri tteh-iisn ”i sqsuuees toiofn isd rsounbimcsit tae du sdeufruinl ge dthuisc aptoiolln. Tahl etosoe l raenspdo an sheasn adnyd
+quersetifoenrse nrecvee faoler dy othuart fwuthuilree m hoysdtr ohyndicro snyics theemat dinegs pigronfse.s Wsioen aallss ou nednecrosutarnadg eth yeo nue teod s feonr dw ater
+E-mail: idronics@caleffi.com treautms efnete,d mbaancyk doon nthoits k insoswu ew ohfic ihd raopnpircosa uchseinsg a treh ere aqtutaircehde odr rperaedfeerrre rde.s ponse card or by
+e-mailing us at idronics@caleffi.com.
+Website: www.caleffi.com This issue of idronics was developed to address these concerns. It discusses problems that
+can develop within hydronic systems when water quality is ignored. It lays out procedures
+To receive future idronics issues for converting raw water into high quality water. Emphasis is placed on demineralization for
+Sincerely,
+FREE, register online www.caleffi.com preparing water for use in hydronic systems. It concludes with procedures for testing, flushing,
+washing, demineralizing, and final adjustment of water quality. The objective is to ensure that the
+water within the system can provide optimal performance over many years of operation.
+© Copyright 2016 We Mhoaprke Oyolsuo enn joy the 18th issue of idronics and encourage you to send us feedback by
+Caleffi North America, Inc. emaGiliennge uras la Mt aidnroangiecrs,@caleffi.com.
+Caleffi North America, Inc.
+Printed: Milwaukee, Wisconsin USA
+Mark Olson
+General Manager & CEO
+InDEX
+1. INTRODUCTION 4. COMMISSIONING HYDRONIC SYSTEMS
+DEFInInG WATER QUALITY FOR HIGH WATER QUALITY
+PRESSURE-TEST THE SYSTEM
+2. CHARACTERISTICS THAT DETERMINE DEBRIS FLUSHInG & CHEMICAL CLEAnInG
+InTERnAL WASHInG
+WATER QUALITY
+FInAL FILL & DEMInERALIZATIOn
+TURBIDITY
+(a) OnCE-THROUGH METHOD
+MICROBIAL CORROSIOn
+(b) RECIRCULATIOn METHOD
+SCALInG
+DEMInERALIZED MAKE-UP WATER
+CHEMICAL nATURE OF SALTS
+PH ADJUSTMEnT
+TREATMEnT FOR HARD WATER SCALInG
+FILM-FORMInG WATER TREATMEnT
+DISSOLVED MInERALS
+TREATMEnT TO REMOVE MInERALS (e.g., DEMInERALIZATIOn)
+SUMMARY
+COnDUCTIVITY TESTInG
+GALVAnIC CORROSIOn APPENDIX A: SCHEMATIC SYMBOLS
+3. DEMINERALIZING DEVICES
+Mixed Sources
+Disclaimer: Caleffi makes no warranty that the information presented in idronics meets the mechanical, electrical or other code requirements applicable within a Products from well-managed
+given jurisdiction. The diagrams presented in idronics are conceptual, and do not represent complete schematics for any specific installation. Local codes may forests, controlled sources and
+require differences in design, or safety devices relative to those shown in idronics. It is the responsibility of those adapting any information presented in idronics to recycled wood or fiber.
+verify that such adaptations meet or exceed local code requirements.
+=== page 3 ===
+Water Quality in Hydronic Systems
+1. INTRODUCTION Water in its pure form contains only hydrogen and
+oxygen. Pure water is colorless, tasteless and odorless.
+Unfortunately “pure” water does not exist in nature.
+The water within a hydronic system serves as a “conveyor
+Due to its solvent characteristics, all water from wells,
+belt” for heat. It moves heat from where it is generated to
+springs or municipal distribution systems contains
+where it is needed in the system.
+other materials. Examples include dissolved minerals
+such as calcium and magnesium; sediment such as fine
+Water has one of the highest heat absorption abilities of silica sand or organic particles; dissolved gases such
+any known material. A given volume of water can store as oxygen, carbon dioxide and hydrogen sulfide; and
+almost 3,500 times more heat than the same volume of microorganisms such as bacteria or algae. There can be
+air when both materials undergo the same temperature wide variations in the impurities contained in water from
+change. This has huge implications regarding the amount one geographic location to another.
+of water versus the amount of air that must be circulated
+through a heating or cooling distribution system to deliver
+figure 1-2
+the desired heating or cooling effect. It’s the underlying
+reason that a ¾” tube carrying water can transport the
+same amount of heat as an 8” x 14” duct carrying air,
+assuming both distribution systems are sized using
+industry standards.
+figure 1-1
+There can also be wide variations in the material
+chemistry of systems that are filled with water. Many new
+hydronic systems contain several different metals such
+as cast iron, copper, brass, aluminum, common steel and
+stainless steel. Most new systems also have components
+that contain small amounts of dirt or insects from previous
+storage, transport or on-site handling. Systems assembled
+with soldered copper will have residue from solder flux.
+Systems using steel or iron piping typically contain thread
+cutting oil or oily films created during manufacturing.
+Water is also the “life-blood” of hydronic systems.
+Some hydronic systems also contain intentionally added
+Accordingly, just as we strive to maintain the health of our
+chemicals, such as propylene glycol or ethylene glycol
+own circulatory systems, it’s important to maintain the
+antifreeze solutions. These chemicals can interact with
+“health” of water and water-based solutions that circulate
+the chemicals in the water, as well as the wetted internal
+through the hydronic systems we create and maintain.
+surfaces of solid materials.
+3
+=== page 4 ===
+The dissolved oxygen content of the water in hydronic The combination of initial water chemistry, solid materials
+systems (not to be confused with the oxygen atoms within the system, added chemicals and dissolved
+contained in H O molecules) also plays a role in what oxygen content can lead to a range of chemical reactions
+2
+chemical reactions take place. The presence of dissolved within the system. The resulting chemical interactions
+oxygen should be minimized through proper initial purging between these materials can have profound effects on
+and ongoing capture and elimination of dissolved gases the performance and life of the system.
+using high-efficiency air separators.
+DEFINING WATER QUALITY
+Older hydronic systems, especially those converted In addition to H O molecules, the “ideal” water for use in
+2
+from steam to hot water, often contain sludge formed by hydronic systems would contain very little (but not zero)
+oxidized iron. This sludge contains very fine particles that soluble substances (e.g., molecules or ions of other
+can become lodged between moving parts in valves and materials that coexist with H O molecules). Examples
+2
+circulators, which impedes or totally stops the required of the latter include calcium, magnesium, sodium, iron,
+motion. Figure 1-3 shows an accumulation of iron oxide chlorine, sulfur, oxygen, carbon dioxide and nitrogen.
+particles on the permanent magnet rotor of a modern The “ideal” water would also be free of insoluble
+circulator. Figure 1-4 shows debris and scale that have substances such as oils, grease, fine sand or metallic
+jammed within a valve. particles. It would be non-aggressive toward any of the
+metal, polymer or elastomeric materials in the system. It
+figure 1-3 would also have very low electrical conductivity (to be
+discussed later) and would not contain microorganisms
+such as bacteria or algae.
+Water in this “ideal” form is virtually impossible to find,
+especially when sourced from wells or municipal water
+systems.
+As is true with many other design and installation issues,
+hydronic heating professionals need to provide realistic
+approximations of ideal conditions. In the case of water,
+they need to know if the water that’s readily available at
+the site of the hydronic system is suitable for use in that
+system, either as it exists directly from its source, or after
+it has been modified by various processes. The goal is
+to operate the system with water that will not adversely
+affect the performance, reliability or life expectancy of the
+hydronic system.
+figure 1-4
+Water quality in hydronic systems can be divided into two
+categories:
+• Physical water quality
+• Chemical water quality
+Physical water quality relates to issues such as capturing
+and eliminating air and dirt from the system.
+Over the last 25 years, there have been significant
+improvements in how north American hydronic heating
+professionals deal with physical water quality issues
+4
+=== page 5 ===
+such as air and dirt removal. Devices such as microbubble
+air separators and magnetic dirt separators have found
+figure 1-5a
+increasing application in north American systems.
+These devices have improved the performance of
+hydronic heating and cooling systems, and lengthened
+their service lives. Figure 1-5 shows an example of a
+magnetic dirt separator being “blown down” to remove
+the ferrous oxide sludge captured from within an older
+hydronic system.
+Air and dirt removal techniques and hardware have
+been extensively covered in past issues of idronics.
+The latest information on air and dirt removal, including
+magnetic particle separation, is available in idronics
+#15. This publication can be downloaded for free at:
+http://www.caleffi.com/usa/en-us/technical-magazine
+figure 1-6
+figure 1-5b
+Chemical water quality deals with modifying or eliminating
+various chemical substances in water so that it is well-
+suited for use in a hydronic system. Examples of the
+latter include reducing chemical impurities, adjusting the
+pH value of the water and ensuring that chemicals added
+to the water, such as a glycol-based antifreeze, do not
+cause eventual performance and reliability issues.
+5
+=== page 6 ===
+Ideally, every new system would have its chemical water be detected as a low pH value, indicating the water has
+quality adjusted to optimal conditions. Doing so could turned acidic. It might also appear as small “pinhole” leaks
+eliminate subsequent scaling and corrosion problems through tubing or other thin-wall components. The latter
+over the life of the system. usually indicates widespread internal corrosion that may
+require extensive component replacement or repiping.
+Unfortunately, many existing north American hydronic
+systems are installed with little if any attention to This issue of idronics focuses on chemical water quality.
+chemical water quality. Many are just filled with whatever It discusses the basic theory related to the chemical
+water is available on site. Some will provide many years interactions that are often seen in hydronic systems. It
+of operation because of a “lucky” set of circumstances will also cover methods and materials for adjusting water
+involving the purity of the water source, the materials with poor chemical quality so that it is well-suited for use
+used in the system, the care taken when assembling the in closed-loop hydronic systems.
+system and its subsequent operation and maintenance.
+Other systems will experience premature component
+failure, such as shown in figure 1-7, or widespread
+corrosion issues due to an “unlucky” combination of
+these factors.
+figure 1-7
+Courtesy of Rich Swatton
+If on-site water goes into a system equipped with good air
+and dirt removal details, that system will probably operate
+fine initially. However, with age, problems associated with
+poor chemical water quality can appear. That appearance
+may be noted as visible discoloration or odor when a
+sample of water is drawn from the system. It might also
+6
+=== page 7 ===
+2. CHARACTERISTICS THAT
+figure 2-1
+DETERMINE WATER QUALITY
+pressure gauges
+Water in its purest form would only
+contain H O molecules. However,
+2
+due to its ability to act as a solvent, it ball valve ball valve
+is very difficult to create or maintain
+water in this pure form. As water
+comes in contact with other materials
+in the atmosphere or in the ground, it 40 mesh ! 200 mesh !
+“dissolves” these materials. sediment! sediment!
+Þlter Þlter sub-micron!
+Molecules of these other substances
+Þlter
+coexist with molecules of water. The
+ßushing! ßushing!
+presence of these other substances
+valve valve
+is usually not detectable by looking
+at the water. A glass of water that size particles. This degree of filtration is achievable when
+appears perfectly clear could still specific replaceable cartridges are used in cannister-
+contain millions of molecules of other substances. type filtering devices. It can also be accomplished using
+activated carbon filters.
+This section discusses several undesirable characteristics
+of water that result from its ability to dissolve and transport A common approach is called “step down filtration.” It
+other materials. These characteristics are discussed in uses one or more blow down type filtering devices to
+the context of water use in hydronic heating or cooling capture larger suspended particles upstream of the
+systems. The underlying cause of the undesirable submicron filter, as shown in figure 2-1. This approach
+characteristic is presented. Methods for correcting these prolongs the life of the submicron filter. The upstream
+undesirable characteristics are also discussed. filters can remove particles sizes from 700 down to
+approximately 15 microns depending on the mesh size of
+TURBIDITY their screens, and can be quickly backwashed.
+Turbidity is a measure of the optical clarity of water. It is
+caused by the scattering of light due to very fine particles MICROBIAL CORROSION
+suspended within water. Some ground water sources contain microbes that
+can establish themselves in copper tubing when water
+Water drawn from sources such as wells, lakes, or rivers temperatures remain between 75 and 135 ºF. The
+usually contains very fine particles of organic and inorganic microbes feed on carbon contained in drawing lubricant
+matter. Examples include silt, clay, silica, microorganisms, residue within the copper tubing. Once established, these
+and decomposing plant material. These materials affect microbes will acidify the grain boundaries in the copper.
+the clarity of the water, making it appear slightly (or This causes a slow erosion of the copper, and could lead
+significantly) cloudy when a sample is viewed through a to pinhole leaks over the course of 10-15 years.
+clear container. The turbidity of water can vary drastically,
+especially if the water comes from surface sources. It is also possible to have microbes that feed upon iron
+components within a hydronic system. They are often
+By definition, turbidity is caused by suspended particles carried into the system by untreated well water, or water
+that are less than 1 micron in diameter. Larger particles from surface sources. Their presence is usually indicated
+in the range of 10 to 100 microns are referred to as by water having a reddish or brown color. Some bacteria
+suspended solids. will also produce slimes inside the system and pungent
+odors when water samples are evaluated.
+Turbidity should not be confused with water color. It is
+possible to have a sample of water that shows a color tint Cutting oils and residual solder flux can both serve as
+due to the specific ions it contains, but without turbidity. food sources for certain bacteria. The best defense
+against microbial corrosion is to remove the food source
+If water showing signs of turbidity is being considered when the system is commissioned. This is be done by
+for use in a hydronic system, that water should be sent combining the effects of high performance air and dirt
+through a filtering system capable of removing sub-micron separation (to remove as much dissolved oxygen and
+7
+=== page 8 ===
+“dirt” from the system as possible), followed by chemical CHEMICAL NATURE OF SALTS
+cleaning, and use of a film-forming additive. The latter Salts are formed when positively charged ions (called
+two methods are described in section 4. cations) combine with negatively charged ions (called
+anions), such that the resulting compound is electrically
+neutral. Many salts will dissolve in water. This causes the
+SCALING
+salt to divide into positive and negatively charged ions.
+Scaling is caused by minerals such as calcium and
+These ions can move about within water, as depicted in
+magnesium, which enter a hydronic system with the
+figure 2-3.
+fill water. These minerals typically exist as chemical
+compounds called “salts,” which are dissolved in the
+water. Examples include: calcium carbonate (CaCO ), As the temperature of the water changes, its ability to
+3
+calcium phosphate (Ca 3 (PO 4 ) 2 ), calcium sulfate (CaSO 4 ), hold these ions in solution changes. Some salts, such as
+calcium chloride (CaCl 2 ), magnesium chloride (MgCl2), or sodium chloride (naCl) are more soluble in warmer water.
+sodium chloride (naCl), and silica. As the temperature of the water increases, it can contain
+more of these soluble salts, or ions formed when these
+The common term used to describe the presence of these salts dissolve.
+salts in groundwater or municipal water is “hardness.”
+The greater the amount of salts, the “harder” the water.
+Water hardness can vary significantly with location. Figure Other salts formed from calcium or magnesium become
+2-2 shows a map of typical water hardness for different less soluble as water temperature increases. As the
+locations within north America. The hardness of water ability of water to hold these compounds “in solution”
+is referred to by two types of measurements: grains per decreases with increasing temperature, they eventually
+gallon (gpg) or parts per million (ppm). The conversion precipitate out to form deposits on surrounding metallic
+formula: 1 gpg x 17.1 = 1 ppm. and non-metallic surfaces.
+figure 2-2
+Alaska
+Slightly Hard
+< 60 ppm
+Moderatly Hard
+61 - 120 ppm
+Hard
+121 - 180 ppm
+Very Hard
+181 - 250 ppm
+Extremely Hard
+> 250 ppm
+Hawaii
+Map adapted from the United States Geological Survey
+8
+=== page 9 ===
+It’s also why scale forms on the wetted internal surfaces
+figure 2-3
+of boiler heat exchangers. Figure 2-4 shows a severely
+SO
+-- scaled stainless steel firetube heat exchanger from a
+4 Cl- modulating/condensing boiler.
+Cl- HCO-
+3 Na-
+The “flakes” seen in figure 2-4 are formed on the hottest
+portion of the heat exchanger due to precipitation of
+Na-
+Mg++ dissolved minerals such as calcium and magnesium.
+Cl-
+SO
+-- Expansion and contraction of the heated surfaces
+4 eventually cause the accumulated scale to flake off from
+HCO- these surfaces and accumulate on the baffle plate below.
+3 Na- HCO-
+3
+Cl- SO -- Figure 2-5 shows a similar situation. Dissolved minerals
+4 have precipitated out of solution and formed scale against
+Mg++ the hottest surfaces within a water-tube boiler heat
+Na- Na-
+exchanger. In this case, those surfaces are the inside of the
+water tubes toward the radial center of the heat exchanger.
+Na- Na-
+HCO-
+Cl-
+3
+The scale that accumulates on boiler heat transfer
+surfaces will have a major effect on the rate of heat
+The higher the temperature of the surface in contact with transfer across those surfaces. The accumulating scale
+the water, the greater the potential for scale formation. creates significant thermal resistance between the water
+This is why scale often forms on the bottom of tea kettles. and the metal wall of the boiler heat exchanger.
+figure 2-4
+mineral scaling on hottest surfaces
+scaling "ßakes" accumulation
+9
+=== page 10 ===
+heat exchanger. Any of these can ruin the boiler’s heat
+exchanger and lead to a costly replacement.
+The accumulation of scale also increases the flow
+resistance through the boiler’s heat exchanger, reducing
+flow rate. Insufficient flow often leads to inadequate heat
+delivery and loss of comfort.
+mineral scaling on inner tube
+surfaces facing combustion zone
+The estimated increase in fuel use due to scale formation,
+based on research at the University of Illinois and U.S.
+Bureau of Standards, is shown in figure 2-6.
+The added thermal resistance causes a corresponding
+increase of the combustion side surface temperature of
+the boiler heat exchanger. This can overheat surfaces,
+leading to warpage (as seen in figure 2-7), metal
+blistering (as illustrated in figure 2-8), mechanical stress
+failure, or holes burned through the walls of the boiler’s
+70
+60
+50
+40
+30
+20
+10
+0
+0 0.1 0.2 0.3 0.4 0.5
+10
+)%(
+esu
+leuf
+desaercni
+figure 2-5
+figure 2-7
+figure 2-8
+steel wall of !
+boiler heat !
+exchanger
+figure 2-6
+scale accumulation !
+ßame ! reduces heat !
+temperature ! transfer - leads !
+>1800 ¼F to localized!
+"hot spot"
+"blister" failure of steel!
+wall due to overheating
+scale thickness (inches)
+=== page 11 ===
+figure 2-9 figure 2-10
+Courtesy of Ray Parent
+Figure 2-9 shows how scaling can also constrict the flow
+figure 2-11
+path through a copper tube.
+Scale formation is often associated with “hard water” in
+potable water plumbing systems. These systems handle fresh
+water, which may provide a continuous source of dissolved
+minerals, and thus, present significant opportunity for scaling.
+However, scaling can also occur within hydronic systems.
+TREATMENT FOR HARD WATER SCALING
+The most common treatment for hard water is to “soften”
+it using an ion exchange process. This is the process
+commonly used in residential water softeners.
+++
+During softening, the positively charged calcium ions (Ca ),
+++ ++
+magnesium ions (Mg ), and manganese ions (Mn ) that
+are present in the water make their way into thousands of
+tiny resin beads contained in a standing column. Figure
+2-10 shows a magnified view of these resin beads, which
+are porous and only about 0.6 mm in diameter.
+The resin beads are made of organic polymers that have
+a higher affinity (e.g., attraction) for calcium, magnesium
+and manganese than they do for sodium. The chemical
+reaction that occurs within the resin bead column
+exchanges two sodium ions (na+) for each calcium,
+magnesium or manganese ion captured. The net result
+is an exchange of sodium ions for calcium, magnesium
+and manganese ions. The sodium ions bond to other ions
+within the beads, creating salts such as sodium sulfate.
+These salts do not have the scaling potential of the ions
+originally in the water, but they do leave the water with
+significant electrical conductivity, which is not desirable.
+Figure 2-11 illustrates the ion exchange that occurs in a
+typical water softener.
+11
+=== page 12 ===
+Although water softening is commonly used to control scaling
+in potable water systems, it is not recommended for use with
+water that will be used in hydronic systems. The reason is water brown indicates!
+resin beads that are!
+that the sodium added to soften the water also causes it containing
+"loaded" with ions
+to remain electrically conductive. This can accelerate other minerals
+undesirable conditions such as galvanic corrosion.
+DISSOLVED MINERALS
+The ion exchange process used in common water
+softeners exchanges the mineral salts that cause scaling
+with a sodium-based salt that does not cause scaling.
+It does not strip all ions from the water. Although often
+adequate for correcting hard water in potable water
+plumbing systems, softening is not the preferred method demineralized!
+water
+for improving water quality in hydronic systems.
+TREATMENT TO REMOVE MINERALS
+(E.G., DEMINERALIZATION)
+The preferred process for removing nearly all minerals
+from water is known as demineralization. As its name
+implies, demineralization is a process that strips the
+source water of dissolved minerals. These minerals are
+soluble in water and exist as positively charged molecules
+called cations, or negatively charged molecules called
+anions. Demineralization causes these cations and
+anions to be “exchanged” with either hydrogen cations
+(H+) or hydroxide anions (OH-). The latter two ions then
+recombine to form H 0 (e.g., pure water). In effect, the
+2
+original cations and anions “disappear” from the source
+water and are replaced with molecules of pure water.
+As in “ion exchange” water softening, demineralization
+is done by passing the source water through a vertical
+column filled with very small polymer (e.g., plastic) resin
+beads. These beads create an inert fill media through
+which water can flow, as shown in figure 2-12.
+The resin beads are created with specific ions that are
+chemically bonded to porous polymer materials. These ions
+are “fixed” within the beads. They can react with other ions
+but cannot leave the beads.
+Some beads are formulated with ions that attract positively
+charged cations in the water. These “fixed” ions attract the
+++
+undesirable cations such as calcium (Ca ), magnesium
+++ + ++
+(Mg ) and sodium (na ). When a cation such as (Ca )
+enters a bead, it is captured, and as a result, two hydrogen
++
+cations (H ) are released from the bead. The two positive
+++
+charges of the entering cation (Ca ) are balanced by the
++
+positive charges of the two exiting cations (H ). This ion
+12
+nmuloc
+rezilarenimed
+figure 2-12
+orange and yellow !
+indicates resin beads !
+capable of absorbing ions
+figure 2-13
+=== page 13 ===
+exchange also occurs when a single magnesium cation demineralized when pushed upward through a column by
+++ +
+(Mg ) enters a resin bead and is exchanged for two (H ) a pressure source.
++
+cations. A sodium cation (na ) being captured within a
++
+bead only releases one (H ) cation. In all cases, the total
+The resin beads used in demineralization eventually reach
+positive charges of the cations captured equal the total
+a point where they are “fully loaded” with undesirable ions
+positive charges of the hydrogen cations released from
+and can no longer exchange these ions for ions that will
+the bead. Thus, the bead remains electrically neutral.
+combine to form pure water. This process is illustrated
+in figure 2-14, with the brown circles representing resin
+Other beads are created with ions that attract negatively beads that are fully loaded.
+charged ions (e.g., anions) in the water. For example,
+-
+when a chlorine anion (Cl ) enters a bead, the resulting
+The resin bead column eventually reaches a condition
+reaction captures it and releases a single hydroxide
+- -- where the number of mineral ions in the discharge water
+anion (OH ). When a carbonate ion (CO ) enters a
+3
+rises beyond acceptable limits. This is called “leakage,”
+bead, it is captured, and the resulting reaction releases
+- and represents a condition where the resin beads either
+two hydroxide ions (OH ). The total negative charges of
+have to be regenerated or replaced.
+the captured anions are balanced by the total negative
+charges of the anions leaving the bead.
+It is possible to chemically regenerate the resin beads in a
+demineralizer column, restoring their ability to further absorb
+The hydrogen cations (H+) immediately react with the
+undesirable cations and anions. However, the strong acids
+hydroxide anions (OH-) to form H 0 (pure water), as
+2
+and base chemicals needed and the processes involved
+shown in figure 2-13.
+do not lend themselves to small applications. Instead, the
+“spent” beads are discarded and replaced with new beads.
+nearly all cations and anions in the water passing The spent resin beads are not toxic. They only contain the
+through a modern demineralizer cartridge are stripped ions that were in the source water. In most cases, they can
+from the water. This can be verified by measuring the be disposed of in recyclable trash.
+electrical conductivity of the demineralized water, which
+will be discussed later.
+CONDUCTIVITY TESTING
+The presence of ions in water affects its electrical
+This ion exchange process is independent of the flow
+conductivity. In the absence of all ions, water has zero
+direction through the resin bead column. Although the
+electrical conductivity. Water with zero ion content is only
+illustrations in this section show water pushed downward
+possible through distillation or reverse osmosis. Such
+through a demineralizer column, water can also be
+water is NOT desirable in hydronic systems. Water that
+has been totally stripped
+of ions can combine with
+figure 2-14
+brown indicates! carbon dioxide to form
+resin beads that are! carbonic acid. This can
+"loaded" with ions
+lead to metal erosion
+water water water water and other corrosion
+containing containing containing containing
+reactions. This can lead
+minerals minerals minerals minerals
+to metal erosion and other
+corrosion reactions. Water
+with zero conductivity
+would also prevent proper
+operation of low water
+cutoff devices, such as
+those required by code in
+many hydronic systems.
+demineralized! demineralized! demineralized! partially!
+water water water demineralized!
+water
+13
+=== page 14 ===
+The ion content of water can be determined by testing its to allow an electrical current to pass through the water at
+electrical conductivity. the probe of a low-water cutoff. A suggested maximum
+value for the TDS of water in a hydronic system is 30 PPM.
+This limits electrical conductivity, and thus, discourages
+One common way to express the degree to which water
+galvanic corrosion, as well as other corrosion reactions that
+has been demineralized is through an index called Total
+depend on electrical currents passing through water.
+Dissolved Solids (TDS). The fewer the ions in the water,
+the lower the TDS reading. TDS values are expressed in
+The TDS value of water can also be determined using
+parts per million (abbreviated as PPM), or in milligrams
+a Caleffi meter nA575002 shown in figure 2-15. This
+per liter (mg/L), which is equivalent to PPM.
+particular meter can also be set to read the pH value and
+temperature of the water.
+In a laboratory, the TDS value can be determined by
+boiling off a precisely measured weight of water and then GALVANIC CORROSION
+weighing the solid residue left behind. Most untreated
+When different metals are in contact with each other, and
+water from rivers, lakes or wells will have a TDS value
+an electrically conducting fluid (such as water with a high
+between 50 and 500 PPM. In contrast, sea water can have
+concentration of ions) is in contact with both metals, an
+a TDS value as high as 40,000 mg/L or 40,000 PPM.
+electric current will flow between them. This is called a
+galvanic cell, and the chemical reactions that occur are
+To ensure proper operation of low-water cutoff devices, the similar to those in a battery. One metal acts as the anode
+water used in hydronic systems should have a TDS reading of the galvanic cell, while the other metal serves as the
+of at least 10 PPM. This provides sufficient mineral content cathode. Electrons flow from the anode to the cathode.
+The loss of electrons by the anode will cause it to corrode
+at a higher rate than if it were not part of a galvanic cell. The
+gain of electrons by the cathode will cause it to corrode,
+figure 2-15
+but at a rate slower than if it was not part of a galvanic
+cell. The latter reaction is sometimes intentionally used to
+reduce the rate of metal corrosion in large steel structures
+such a bridges, towers and underground storage tanks. It
+is called cathodic protection.
+An example of galvanic corrosion is when a copper pipe
+fitting is screwed into a steel thread, and both materials
+are wetted by a fluid that is electrically conducting (such
+as water with a high concentration of dissolved minerals
+existing as ions). The steel serves as the anode, the
+copper serves as the cathode, and the water containing
+a high concentration of ions provides the pathway for the
+electrical current, as shown in figure 2-16.
+figure 2-16
+electron ßow
+electrically conducting water
+steel copper
+anode cathode
+corrosion (metal loss)
+14
+=== page 15 ===
+The loss of electrons from the steel will eventually show as a cathode. The loss of electrons from the magnesium
+pitting and the characteristic orange color of oxidized iron. anode is intentional and serves to extend the life of the
+steel tank. Over time, the magnesium anode is consumed
+(e.g., “sacrificed”) by this reaction and should be replaced
+The strength of the galvanic cell depends upon the
+to prolong the life of the steel tank.
+electrode potential of the two metals involved and the
+electrical conductivity of the water that contacts them.
+It is obviously not practical to construct hydronic
+systems entirely of highly noble metals such as gold
+or high nickel copper alloys. Materials such as copper,
+High nobility metals (cathodes)! steel and cast iron have been, and will continue to be,
+the most common metals used in hydronic systems.
+(resistant to galvanic corrosion)
+The most cost-effective way to minimize galvanic
+corrosion in hydronic systems is to ensure that the
+GOLD!
+water in the system is minimally conductive. This can
+TITANIUM! be done by demineralizing the water to remove all but
+a trace of ions. The small amount of ions that remain
+316 STAINLESS STEEL!
+minimize the overall corrosion potential of the water
+SILVER! and allow enough conductivity for proper functioning
+of low-water cutoff devices.
+70/30 COPPER NICKEL!
+430 STAINLESS STEEL!
+It is also good practice to use metals with intermediate
+90/10 COPPER NICKEL!
+nobility between two metals that have significantly higher
+BRONZE (SILICON)! and lower nobility. For example, a brass or bronze union
+used between a copper tube and a cast iron or steel
+COPPER!
+threaded component will reduce the rate at which the lower
+YELLOW BRASS!
+nobility metal (in this case, cast iron or steel) is corroded.
+LOW ALLOY STEEL!
+MILD STEEL & CAST IRON!
+ALUMINUM ALLOYS!
+ZINC!
+MAGNESIUM
+Low nobility metals (anodes)!
+(susceptible to galvanic corrosion
+The electrode potential of the metals is often referred to
+as their “nobility,” which is shown in figure 2-17.
+Highly noble metals such as gold, titanium and high nickel
+content copper alloys act as strong cathodes. Lower
+nobility metals such as cast iron, low carbon steels, zinc
+and magnesium serve as strong anodes.
+Magnesium, in particular, is often used as a “sacrificial
+anode” in tank-type water heaters. If the water in the
+heater contains dissolved minerals (e.g., ions), a galvanic
+cell will be set up between the magnesium anode and
+any wetted areas of the steel tank wall, which serve as
+15
+ytilibon
+gnisaercni
+figure 2-17
+=== page 16 ===
+3. DEMINERALIZING DEVICES The bodies of the HYDROFILL units are made of
+engineered polymer. The head of the unit is rotated
+to disconnect it from the cylindrical body, as seen in
+Demineralized water is often specified for use in commercial
+figure 3-3.
+hydronic systems. It is possible to buy demineralized
+water and have it trucked to the site, as depicted in figure figure 3-3
+3-1. However, this can be expensive based on location,
+site access, on-site handling requirements, temperature
+at time of delivery and other logistics.
+figure 3-1
+Courtesy of PURETEC Industrial Water
+In most cases, it is significantly less expensive to create
+demineralized water on-site rather than purchasing
+demineralized water and having it delivered to the site.
+The body is designed to hold highly permeable bags
+Caleffi has developed a family of products that make
+containing the resin beads needed to demineralize water.
+the benefits of demineralized water available to hydronic
+These bags are simply lowered into the top of the body,
+heating professionals. The anchor product is the
+as shown in figure 3-4.
+HYDROFILL demineralizer, which is easy to transport,
+operate and maintain. Figure 3-2 shows the larger and
+figure 3-4
+smaller versions of the HYDROFILL.
+figure 3-2
+16
+=== page 17 ===
+The smaller HYDROFILL holds two resin bags. The larger 4. COMMISSIONING HYDRONIC SYSTEMS FOR
+HydroFILL column holds 4 bags. Once the resin within HIGH WATER QUALITY
+these bags is “spent,” the head of the HYDROFILL is
+opened and the bags are lifted out. These bags only
+The benefits of using demineralized water in hydronic
+contain polymer resin beads and the ions that have been
+systems have been discussed. The hardware required to
+stripped from the site water. These are the same ions that
+produce demineralized water has also been introduced.
+were present in the site water. The spent resin bags can
+However, simply filling a newly assembled hydronic
+be disposed of in recyclable trash.
+system with demineralized water will not achieve optimal
+fluid quality. This section describes several procedures
+The HYDROFILL also comes with a meter that shows the that lead to internally clean systems operating with
+total dissolved solids (TDS) value of the water leaving optimal water quality.
+its upper port. This meter, shown in figure 3-5, can be
+used to verify the effectiveness of the resin beads and
+PRESSURE-TEST THE SYSTEM
+determine when the resin beads require replacement.
+The resin bags should be changed when the meter Pressure testing should be a routine aspect of commissioning
+indicates water is leaving the HYDROFILL with a TDS any hydronic system. It verifies if the system is free of leaks.
+value that is approaching the limits allowed by the If leaks are detected, they can be located and corrected
+boiler or chiller manufacturer’s water specifications. In before any liquid is added to the system.
+the absence of such specifications, a suggested criteria
+for resin changeout is when the HYDROFILL TDS meter
+Pressure testing should be done using air rather than
+reaches 30 PPM.
+water. If any leaks are found, the air pressure can be
+quickly released so that the leak can be repaired. If
+figure 3-5
+water is used for pressure testing, it will have to be
+drained before any type of soldered or welded joint
+can be repaired. Using water for pressure testing also
+brings the risk of freeze damage if the testing is done
+during cold weather. Air leakage also doesn’t carry the
+risk of water damage to surrounding materials should
+a leak remain uncorrected for several minutes after the
+pressure test begins.
+Air pressure testing begins by closing the caps on any
+automatic air venting devices in the system. This includes
+air separators, combined air and dirt separators, and any
+float-type vents in the system. Also be sure the drain
+ports on any purging valves are closed.
+If the system will be tested to a pressure approaching
+or exceeding the rated opening pressure of the system’s
+pressure relief valve, the outlet of that valve should be
+temporarily plugged.
+Procedures for using the HYDROFILL to provide An easy way to add air to the system is through a
+demineralized water in small and large systems are Schrader valve that has been adapted to a female hose
+described in the next section. thread fitting, such as shown in figure 4-1.
+Be sure a hose washer is inserted into the adapter fitting
+and screw it to the male hose threads on a drain valve.
+Add air using a portable air compressor.
+17
+=== page 18 ===
+figure 4-1a
+a pressure rating that is at least 25% higher than this
+suggested test pressure. If there are system components
+that are not rated for this pressure, they must be removed
+or temporarily isolated during the pressure test, or a lower
+test pressure must be used. If the test will be conducted
+at 1.5 times the rated relief valve pressure, the pressure
+relief valve must be temporarily plugged during the test.
+Once the system reaches the desired test pressure,
+turn off the compressor, watch the pressure gauge
+and carefully listen for any escaping air. If the gauge
+pressure drops steadily, or if hissing sounds are heard,
+a leak is present.
+Air hissing from a joint is an obvious leak. If no hissing
+is detected, the preferred procedure for finding leaks is
+to prepare a 50% solution of dishwashing detergent and
+water, and put this in a spray applicator bottle. Spray this
+solution on the joints in the system and watch for bubbles.
+figure 4-1b It is best to check all accessible fittings in succession,
+and while there is still at least 20 psi air pressure in the
+system. Identify all leaks and take the necessary steps to
+correct them. Repressurize the system with air to verify
+that all leaks have been corrected.
+When pressure testing, keep in mind that temperature
+changes to the air or hardware in the system will affect
+the pressure gauge reading. Air entering the system from
+a compressor is partially heated due to compression. As it
+cools within the system, its pressure will slowly decrease.
+Likewise, if the system is filled with compressed air when
+some or all the components are warm due to heating
+from soldering or influence from adjacent equipment, the
+pressure will drop as these components cool. Ideally, the
+system pressure should be verified as stable over 15-30
+minutes when the components and air within the system
+remain at the same temperature.
+Once the system is verified as leak-free, allow the air to
+escape by opening the cap on any automatic air vents
+and/or opening a drain valve. Verify that any temporary
+plugs installed in pressure relieve valves or piping from
+those valves have been removed. The system is now
+ready for a wash.
+With exception of specifications that require certain test DEBRIS FLUSHING & CHEMICAL CLEANING
+pressures, there is no universally accepted pressure to newly assembled hydronic systems, as well as older
+which all hydronic systems should be tested. A suggested systems that have been significantly modified, should
+test pressure is 1.5 times the pressure relief valve rating, be flushed to remove solid particles from the inside of
+assuming that all components in the piping system have the system.
+18
+=== page 19 ===
+Examples of debris found in many newly assembled In older systems, especially those that once operated with
+systems include solder balls, metal chips and shavings, steam rather than liquid water, there may also be scale
+casting sand, sawdust, drywall dust, insects, paper labels fragments, as seen in figure 4-3, and iron oxide sludge.
+and dirt that entered the piping during transportation, The system may also contain strands of hemp thread
+storage or handling on the installation site. Figure 4-2 sealant or globs of hardened pipe dope.
+shows an example of the debris flushed from a small,
+newly assembled hydronic system.
+Chemical cleaning removes oils or greases from the
+figure 4-2 internal surfaces of piping and other components in new
+systems. These substances come from thread cutting,
+residual soldering flux or small amounts of machining oil
+remaining inside components.
+The preferred method for chemically cleaning the inside of
+a hydronic system is by circulating a hydronic detergent
+mixed with hot water through the system. When the
+cleaning solution has been sufficiently circulated, it is
+drained from the system, carrying the dissolved oil and
+grease residue with it.
+Both debris flushing and chemical cleaning can usually be
+accomplished with the same procedure.
+Experience has shown that flow velocities in the range of
+5 to 6 feet per second are needed to entrain the type of
+debris particles often found in hydronic piping systems.
+figure 4-4ab
+figure 4-3
+3 ball valves
+closed
+open open
+(a)
+inlet outlet
+2 ball valves!
++ 1 check valve
+check valve
+open open
+(b)
+Courtesy of Ken Shockley, Battersby Danielson Associates
+19
+=== page 20 ===
+The system needs to be equipped with appropriate valves One is to install three ball valves, as shown in figure 4-4a.
+for adding fluid and removing both air and dirty fluid. Another is to install a check valve in combination with
+There are several ways to do this. two ball valves, as shown in figure 4-4b. The pressure
+differential created by the purging flow holds the check
+valve in its closed position.
+figure 4-5
+It’s also possible to use a specialty valve, such as the
+Caleffi nA256011 purging valve shown in figure 4-5, to
+achieve the same functionality as the three ball valves.
+When possible, purging valves should be located
+upstream of components such as circulators and heat
+exchangers. This minimizes the chance of flushing debris
+in the piping through these components.
+During flushing and purging, hoses are connected to
+the inlet and outlet purging valves, and both valves are
+opened. The “inline” ball valve between the inlet and
+outlet valves (shown in figures 4-4a and 4-5) is closed.
+This forces fluid through the system in one direction,
+allowing air and returning fluid to exit the system very
+close to where it entered. Be sure the flow direction of
+filling and purging is the same as that allowed by any
+check valves in the flow path.
+Flushing and purging begins by forcing water into the
+inlet purging valve at a high rate. In many projects, this
+flow can be created using the pressure available from the
+building’s plumbing system.
+figure 4-6
+Courtesy of Little Giant Pumps
+20
+=== page 21 ===
+If the building’s plumbing system is not operational, or figure 4-8
+incapable of generating the required pressure, the flow
+needed for purging can be created using a flushing
+pump. In smaller systems, a portable submersible sump
+pump with a motor between 1/6 and 1/3 horsepower is
+usually sufficient. An example of such a pump is shown
+in figure 4-6.
+Larger residential or commercial systems, or geothermal
+earth loops, may require a filling/flushing pump with more
+power. One option is to use a “flush cart,” such as shown
+in figure 4-7. This cart is equipped with a 1/2 HP motor.
+figure 4-7 Courtesy of PurgeRite
+within the piping. The objective is to force the air and
+debris from the system through the outlet purging valve.
+If the system contains multiple branches, it is best to
+close all but one branch at a time to maintain the highest
+possible flow velocity within each branch as it is filled
+and purged.
+If the system contains instruments such as flow
+meters or heat meters, care must be taken not to force
+debris through them. The debris could jam in small
+orifices or otherwise affect sensitive moving parts
+within these devices. If the flushing water enters the
+system close to the inlet of these devices, there is a
+minimal chance of debris being forced through them.
+However, if this is not the case, manufacturers of such
+equipment generally recommend that their hardware
+be removed from the system or fully bypassed until
+the initial flushing is complete.
+One should also be careful not to flush debris into the
+small fluid passages of brazed-plate heat exchangers,
+compact mod/con boiler heat exchangers or the coaxial
+heat exchangers used on some heat pumps. Ideally,
+these components should be piped and equipped with
+If even higher flow rates are needed, a swimming pool
+isolating valves, and they should also be equipped with
+filter pump in the range of 1.5 to 2 HP can be used.
+their own device-flushing valves that can be operated
+to fill and flush without using the potentially dirty water
+Large industrial or commercial hydronic systems, or that has passed through the remainder of the system.
+extensive geothermal earth loop systems, can be filled
+and flushed using large engine-driven fluid handling
+The flushing water pumped into the inlet purging valve will
+devices, such as the one shown in figure 4-8.
+eventually begin flowing from the outlet purging valve. The
+outlet flow should be directed through a hose into a clean
+The high flow rate of the entering water will push air plastic bucket or barrel where debris can be easily seen.
+through the piping. It will also entrain much of the debris
+21
+=== page 22 ===
+Maintain flow until all branches have been individually The solution needs to fully disperse within the system. A
+flushed. Then open all branches simultaneously to achieve minimum circulation time of 1 hour is suggested for good
+maximum flow rate through the system. If debris has been mixing in smaller systems. Manufacturers of hydronic
+returned to the outlet bucket, stop the flushing and empty cleaning solutions often recommend that the system
+the debris from the bucket, or switch to another (clean) be brought up to normal operating temperatures during
+bucket. The goal is to observe when the flushing water this time to maximize the effectiveness of their cleaning
+is returning from the system with no entrained debris or solution. If an existing system is suspected of containing
+air bubbles. At that point, the piping system is filled with hard scale, cleaning times can be extended, in some
+“relatively clean” but untreated water. cases up to one week of continuous circulation.
+INTERNAL WASHING After the recommended circulation of the cleaning
+The next step is to add a chemical cleaning solution to solution, the system needs to be drained. Whenever
+the system and circulate it. The cleaning solution can be possible, allow the cleaning water to drain by gravity
+added to systems by pouring it into a clean flush cart tank into pails. When gravity flow stops, additional cleaning
+and circulating it through the system using the flush cart water can be forced from the system using compressed
+pump, as illustrated in figure 4-9. air injected at the inlet purging valve to force fluid from
+the outlet purging valve or other accessible drain valve
+locations in the system. Be sure all air vents are closed
+figure 4-9 before flushing with compressed air.
+ON
+closed The wash water should be disposed of based on the
+instructions provided by the supplier of the cleaning
+solution.
+open open
+FINAL FILL & DEMINERALIZATION
+The system is now ready for a final fill. The method used to
+refill the system, purge it and provide demineralized water
+will depend on the size of the piping and the associated
+required purging flow rate. The two procedures that follow
+are based on use of the Caleffi HYDROFILL for effective
+water +
+demineralization of the water.
+cleaning solution
+(A) ONCE-THROUGH METHOD
+If the allowable flow rate through the HYDROFILL is
+flush pump cart
+sufficient to purge air from the piping, the once-through
+with13 gallon tank
+method can be used. The minimum suggested purging
+velocity in piping up to 2-inch size is 2 feet per second.
+The larger HYDROFILL unit can provide up to 12 gallons
+per minute flow of demineralized water. This should be
+adequate to purge piping up to 1.5-inch size. The smaller
+Turn on the flush pump and open both the inlet and outlet
+HYDROFILL can provide up to 6 gallons per minute flow.
+purging valves. The inline ball valve should remain closed.
+This should be adequate to purge piping up to 1-inch size.
+The cleaning solution will be injected into the system as
+an equal amount of water comes back into the tank.
+These flow rates are based on delivering demineralized
+water to the system with a TDS reading between 10 and
+Circulators in the system can also be turned on to
+30 PPM in a single pass through the HYDROFILL. The
+create higher flow rates and ensure good dispersal of
+small residual ion content of the water provides sufficient
+the cleaning solution through tightly fitting components
+electrical conductivity for proper operation of low-water
+within the circulators.
+cutoff (LWCO) controllers.
+22
+=== page 23 ===
+The objective of the once-through fill procedure is Maintain flow through the HYDROFILL into the system
+to provide sufficient flow to remove bulk air from the until a steady stream of water exits the outlet purging
+system, but also not to waste excessive amounts of valve. The bulk air should now be purged from the system.
+demineralized water. Close the inlet and outlet purging valves simultaneously.
+The HYDROFILL unit would be connected as shown in During fill and purging, periodically check the TDS meter
+figure 4-10. on the HYDROFIL to verify that it does not rise above 30
+PPM. See figure 4-11.
+Untreated water from a pressurized source passes through
+a short hose connected to the bottom hose connection
+on the HYDROFILL. It is demineralized as it flows upward
+through the resin beads and exits from the upper hose
+connection. It flows through another short hose to the
+inlet purging valve on the system.
+As the demineralized water enters the system, air is
+pushed out through the open outlet purging valve. A hose
+from this valve is routed to a clean pail or barrel to capture
+any water leaving the system during purging.
+23
+nepo
+closed
+nepo
+figure 4-10 figure 4-11
+inlet purging valve outlet
+purging
+demineralized
+valve
+water
+TDS meter
+pressurized
+source of figure 4-12
+water
+ON
+closed
+untreated
+water
+open open
+demineralized water
+fill pump cart
+with13 gallon tank
+=== page 24 ===
+If the system has many branches that require individual When the system is fully purged, connect the HYDROFILL
+purging, and thus, prolong the time over which purging unit, as shown in figure 4-13.
+is required, it is possible to fill a clean pump cart tank
+with demineralized water from the HYDROFILL, and then
+A short hose runs from the outlet purging valve on the
+continue the purging process using the cart pump to
+system to the lower connection on the HYDROFILL.
+circulate demineralized water through the system until all
+Another short hose runs from the upper connection on
+air is purged. This is shown in figure 4-12.
+the HYDROFILL to the inlet purging valve on the system.
+Leave the latter hose loosely connected at the inlet purging
+(B) RECIRCULATION METHOD valve to allow air to escape as the hose fills with water.
+When the flow rate needed to purge the system is more
+than the maximum allowable flow rate through the The inline ball valve between the inlet and outlet purging
+HYDROFILL, the water can be demineralized after it is valve should be partially closed to force some flow
+added to the system. through the HYDROFIIL.
+This approach requires recirculation through the Open the outlet purging valve to allow water to flow
+HYDROFILL and periodic sampling of the system water from the system into the bottom of the HYDROFILL. The
+to verify its TDS level. system’s automatic make-up water system should supply
+this flow. The water level will rise up through the resin
+bead column and out through the loose end of the other
+Begin by filling the system with untreated water. Execute hose. Hold a bucket under the loose hose connection to
+the previously described purging procedure to remove as catch this water. Tighten the hose connection to the inlet
+much bulk air as possible using untreated water. purging valve. The HYDROFILL and its attached hoses
+should now be filled with untreated water.
+24
+nepo
+ON
+partially closed
+nepo
+water
+sample
+valve
+inlet purging valve outlet
+purging
+valve
+TDS meter
+TDS
+testing
+nepo
+partially closed
+nepo
+figure 4-13
+figure 4-14
+larger pipe diameter
+=== page 25 ===
+Turn on the system circulator(s) to create flow in the A make-up water assembly consisting of a backflow
+system. With the inline ball valve closed, this flow will be preventer, pressure-reducing valve and pressure gauge is
+directed through the HYDROFILL. commonly used to automatically feed small quantities of
+fresh water into the system.
+Keep in mind that the TDS reading on the HYDROFILL Over time, a standard make-up water assembly would
+monitor is that of the water leaving the HYDROFILL and allow untreated water to enter a system as demineralized
+not necessarily that of all the water in the system. water is lost. The untreated water could bring undesirable
+compounds, such as calcium carbonate, back into
+the system. To prevent this, Caleffi offers an enhanced
+Allow this recirculation flow to continue for several
+make-up water assembly nA573022 that includes a
+minutes. Then, draw a sample of system water from
+demineralizer cartridge. This assembly is shown in figure
+another drain valve in the system into a clean plastic or
+4-15.
+glass cup. Test the TDS level of this sample using a hand-
+held meter such as the one shown in figure 4-14.
+figure 4-15
+In most cases, the initial TDS level will drop rapidly as
+the untreated water makes its first pass through the
+HYDROFILL. The rate at which the TDS level drops will
+decrease with time. The ideal range for TDS is 10 to 30
+PPM. Continue circulating the system water through
+the HYDROFILL, periodically sampling and testing the
+system water until the TDS level is acceptable.
+When the demineralization process is finished, the
+demineralized water within the HYDROFILL can remain
+in it, unless it will be subject to freezing temperatures
+before its next use. In the latter case, the water should
+be drained through the valve at the bottom of the column.
+This assembly uses a special 10-inch cartridge insert
+Once the demineralization process has been completed,
+containing the color changing resin beads necessary to
+the system should be operated with the heat source
+demineralize water passing through it at relatively low
+on and all air separation and venting devices active.
+flow rates. The cartridge assembly can be isolated by
+Whenever possible, the heat source should produce
+closing the two ball valves. The clear housing can then be
+an outlet temperature of 140ºF or higher. This heating
+unscrewed to remove and replace the cartridge.
+and circulation should be maintained for at least one
+hour. Raising the temperature of the water helps force
+dissolved gases out of solution. These gas molecules
+The Caleffi cartridge will appear blue color when new.
+will coalesce to form microbubbles that can be
+Its internal color will change to amber as the resin
+captured by a high-performance air separator, such
+beads approach a spent condition. Each cartridge can
+as a Caleffi Discal, and ejected from the system. The
+demineralize approximately 30 gallons of water. This
+elimination of these gases helps stabilize the pH of
+should provide several years of normal make-up water
+the demineralized water.
+supply, assuming only minor water losses from the
+system occur.
+DEMINERALIZED MAkE-UP WATER
+Most closed-loop hydronic systems lose small amounts PH ADJUSTMENT
+of water over time. These losses come from weepage The pH of a liquid is a number that expresses it acidity
+at air vents, valve packings or circulator flange gaskets. or alkalinity. A pH of 7.0 is neutral (e.g., neither acidic or
+Fluid loss also occurs when a component such as a alkaline). pH valves lower than 7.0 indicate acidity, while
+circulator is replaced. pH values greater than 7.0 indicate alkalinity. The pH
+scale ranges from 1 to 14, as shown in figure 4-16.
+25
+=== page 26 ===
+The use of a “film-forming” water treatment product,
+figure 4-16
+specifically formulated for the multiple metals found
+in many new hydronic systems, further increases the
+long-term protection against oxygen-related corrosion.
+Figure 4-17 shows examples of products formulated to
+provide such protection.
+figure 4-17
+The pH scale is logarithmic. This means that a pH of 5.0 is
+10 times more acidic than a pH of 6.0, etc.
+Demineralizing water can lower its pH. Although
+demineralization removes most ions from water, it does
+not remove dissolved gases such as nitrogen, oxygen,
+and carbon dioxide. The latter gas will quickly react with
+the demineralized water to form a very weak carbonic
+acid (H CO ), which lowers the water’s pH.
+2 3
+It is possible for the pH value of demineralized water to
+initially drop into the range of 5 to 6 depending on the
+amount of carbonic acid formed. This pH value is lower Film-forming water treatments create extremely thin
+than desired. Fortunately, the pH of water in closed-loop molecular films on metal surfaces that minimize interaction
+hydronic systems has demonstrated a tendency to rise between those metals and any oxygen molecules in the
+with time. This time can be minimized by operating the system water. These films do not inhibit heat transfer.
+system at its design heating temperature after it is filled Because it strips out mineral impurities, the use of
+with demineralized water. Doing so helps drive dissolved demineralized water enhances the effectiveness of film-
+carbon dioxide molecules out of solution to form forming water treatments.
+microbubbles. These bubbles can then be captured and
+ejected from the system by a high efficiency air separator SUMMARY:
+such as a Caleffi Discal.
+Water is the life-blood of every hydronic system. The
+quality of that water can significantly affect that system’s
+If system components such as the boiler require a efficiency and service life. The physical water quality
+specific pH value when the system is installed, it is issues most relevant to closed hydronic systems relate
+possible to increase the water’s pH by adding a “pH to air and dirt. These are discussed at length in idronics
+boost” chemical. This chemical may be part of an overall #15. Caleffi provides a wide range of products to reduce
+water treatment formulation, such as a film-forming the air and dirt content of water within hydronic systems.
+product to be discussed next. If the “pH boost” chemical
+used in not part of such an overall formulation, it should
+The chemical water quality issues most relevant to
+be checked for compatibility with any other chemicals
+closed hydronic systems are based on dissolved
+used in the system.
+mineral content. These include avoidance of scaling and
+reducing the electrical conductivity of water to minimum
+FILM-FORMING WATER TREATMENTS levels. The latter greatly reduces the potential for several
+Regardless of the water used, small amounts of oxygen types of corrosion.
+can enter closed-loop hydronic systems over time due to
+molecular diffusion through polymer tubing, gaskets and The products now available from Caleffi allow
+pump seals. Good system detailing, such as the use of demineralized water to be easily produced and installed in
+high-performance air separating devices and magnetic a wide range of hydronic systems. They provide a perfect
+dirt separators, reduces the potential for this oxygen to complement to the air and dirt separation products Caleffi
+negatively affect water quality. is well known for.
+26
+=== page 27 ===
+GENERIC COMPONENTS CALEFFI COMPONENTS
+circulator 3 m - i w xi a n y g m va o l t v o e rized DISCAL central
+air separators
+circulator w/ 4 m - i w xi a n y g m va o l t v o e rized inline check valve
+manifold station with
+balancing valves
+union
+3-way
+circulator w/ air vent thermostatic mixing
+internal check valve valve
+swing check valve
+spring-loaded VENT preventer
+gate valve check valve
+pressure-
+reducing distribution
+globe valves purging valve valve station
+ball valve pressure-
+reducing
+pressure gauge valve
+(3/4")
+primary/secondary
+pressure
+relief zone valve
+valve (2 way) geothermal
+manifold
+h d o ra s i e n b va ib lve pressure & station
+temperature
+relief valve zone valve
+diverter tee (3 way) t r h a e d r ia m to o r s t v a a t l i v c e
+cap m b va a e l l v a te e n r c e i d n g t z ( h 2 o e n w r e m a y v o ) a e lv le e ctric t r h a e d r ia m to o r s t v a a t l i v c e
+d e i x a p p a h n r s a i g o m n - t t a y n p k e b p r la a t z e ed-
+heat differential
+exchanger pressure
+bypass valve
+DIRTCAL
+dirt
+separators
+Comp. DIRTMAG
+dirt
+separators Hydro
+Separator
+reversing conventional boiler DISCALDIRT valve air & dirt separator
+FLOCAL DISCALDIRT
+balancing air & dirt mixing units
+valve separator
+QuickSetter
+balancing solar
+valve w/ circulation
+station
+motorized
+ball valve
+(2 way)
+Modulating / condensing boiler
+motorized
+ball valve
+(3 way)
+high-temperature
+high-temperature solar 3-way thermostatic
+solar DISCAL mixing valve
+air separators
+isolar
+differential
+boiler high-temperature temperature
+p va ro lv te e ction s re o l l i a e r f v p a re lv s e sure controller
+high-temperature high-
+solar air vent temperature
+solar
+high-temperature expansion
+shut-off valve for tank
+solar air vent
+indirect water heater (with trim)
+27
+rotaropave resnednoc
+TXV
+edom
+gnitaeh
+APPENDIX A: SCHEMATIC SYMBOLS
+HYDROFILL fill & flush
+valve
+HYDROFILL
+dual isolation
+valve for panel radiators
+panel radiator
+with dual isolation valve
+SEP4
+reversible HydroCal
+water-to-water Separator
+heat pump
+D a se i I r S p & C a r A d a i L t r o t D r IRTMAG S H e y p d a r r o a C to a r l
+=== page 28 ===
+HYDROFILL™
+water treatment unit
+CALEFFI
+NA5709 series
+Function
+HYDROFILL™ is a water treatment filling unit that produces from site
+sourced water, demineralized water of an ideal grade for use in closed
+hydronic heating and cooling systems. Salts and other soluble minerals
+are almost entirely eliminated so as to prevent premature equipment
+malfunction including reduced efficiency or component failure due to lime
+scale formation – a common affliction of heat exchangers. The treated
+water results in low electrical conductivity to minimize corrosion due to
+galvanic attack. Also, by eliminating the variability of site produced water
+having different mineral content values from location to location, using
+treated water makes for more reliable dosing when chemical additives are
+used – such as glycol.
+Product range
+Code NA570912 HYDROFILL™ water treatment filling unit including two disposable resin filter bags 6 gpm filling rate
+Code NA570924 HYDROFILL™ water treatment filling unit with cart including four disposable resin filter bags 12 gpm filling rate
+Code NA570971 HYDROFILL™ one disposable resin filter bag in plastic bucket with lid
+Code NA570974 HYDROFILL™ four disposable resin filter bags in plastic bucket with lid
+Technical specifications
+Filling unit body Disposable filter bags
+Materials: Material:
+- Body and cover: PP-H A GF50 - Bag: nylon
+- Screen: stainless steel - Contents: mixed bed exchange resins
+- Seals: EPDM Filter resin capacity:
+Shut-off ball valve - Two bags: 0.42 cu. ft.
+- Body: brass - Four bags: 0.84 cu. ft.
+- Ball: stainless steel
+- Seals: EPDM Performance
+TDS meter
+Medium: tap water
+- Range: 0-999 ppm
+Maximum working pressure: 120 psi
+- Resolution: 1 ppm
+Working temperature range: 40 – 100°F
+- Accuracy: ±2%
+Storage temperature range: 15°F – 120°F
+- Battery: 2 x 1.5V button cell (LR44/ 357A)
+TDS of water after treatment: < 30 ppm
+- Battery life: approx. 1000 hours of continuous use
+Connections: 3/4” GHT
+Filling unit cart
+Materials:
+- Frame: stainless steel
+- Hardware: stainless steel
+- Wheels: semi pneumatic rubber
+28
+=== page 29 ===
+29
+54001AN 54001AN
+Dimensions
+A
+D
+B C
+Code A B C D Wgt. Lbs.
+nA570924 13½” 21” 27” 42½” 98
+Characteristic components
+54001AN 54001AN
+A
+D
+B C
+Code A B C D Wgt. Lbs.
+nA570912 13” 11” 12” 22” 44
+Construction details
+Large yellow lever enables quick and easy
+4 3 opening of the tank. Lever includes a
+2 3 pressure release valve. In one motion as
+the lid is turned to the full open position,
+5 the tank depressurizes and opens to the
+full diameter of the tank.
+Highly accurate built-in TDS meter 0 - 999
+5 4 ppm with resolution of 1 ppm due to its
+advanced microprocessor technology.
+Auto-Off function conserves battery
+1. Water IN connection
+power. The unit shuts off automatically
+2. Water OUT connection
+6 after 10 minutes of non-use. Replaceable
+3. Quick opening lever to
+battery with a life of approximately 1000
+release pressure and open
+hours of continuous use.
+4. TDS-Meter
+5. Handles to carry and open
+Pre-packed resin bags save time and
+7 6. Tank
+simplify resin change process. No more
+7. Resin Bags
+time-consuming, inconvenient filling up of
+8. Cart (NA570924 only)
+narrow tanks and no more spilled, wasted
+resin. Resin change process is simple as
+8 removing the used bags and inserting
+new ones. Each bag is made from a water
+permeable material and contains a pre-
+proportioned amount of high capacity
+1
+premium grade virgin mixed bed resin.
+Innovative flow distribution screen design
+evenly distributes the inlet water over
+the entire column of resin. Producing
+up to 30% more treated water from a
+single resin refill compared to other types
+Water treatment capacity of demineralization tanks. Reduced
+operational cost through less frequent
+Water Hardness NA570912 NA570924
+resin replacement. Less waste, less time
+classification (ppm) (gallons) (gallons)
+spent on changing resin.
+Slightly hard < 60 1,750 3,500
+Moderately hard 61 - 120 1,375 2,750
+Operation
+Hard 121 - 180 1,000 2,000 Site water flows up through a column of mixed bed resin beads which are
+Very hard 181 - 250 475 950 charged with negative and positive ions. The effectiveness of removing
+minerals from site water through exchange depends on the TDS of input
+Extremely Hard > 250 250 500
+water and the time the site water has in contact with the resin beads.
+Capacities based on treating water containing 180 ppm (10.5 gpg) total dissolved solids (expressed as calcium The column height of resin and the water flow rate will determine the
+carbonate), consisting of 25% sodium, 50% alkalinity, 77°F (25°C), delivering 30 ppm of treated water effectiveness of the ion exchange.
+=== page 30 ===
+HYDROFLUSH™
+fill and flush cart
+CALEFFI
+NA25510
+Function
+The HYDROFLUSH™ pump cart is portable and leak-tested for a safe,
+quick and clean way to fill and flush solar, geothermal and hydronic
+systems. Assembled with a leak test pressure gauge, the fill and flush
+cart makes it easy to test a system
+.
+The HYDROFLUSH™ Cart was designed for easy maneuvering, with 10
+inch tires and back arm bars, this cart will maneuver any stair or landscape
+and ease the process loading into a van or truck. Another feature of the
+cart is the attached pump. The 1/2 HP (120 V AC) pump, produces up
+to 100 psi, provides the power needed to clear all of the air out of any
+hydronic system.
+Large 13 gallon tank allows for mixing cleaning chemicals to wash a
+system clean. Connection on tank lid allows cleaning solution back
+into tank. Stainless steel inlet filter keeps debris from returning into the
+system. Large tank is suited for mixing glycol on-site and filling at high rate
+to purge air from the system
+Product range
+NA25510 HYDROFLUSH™ fill and flush cart ...............................................................................................................................connections 3/4" GHT
+Dimensions:
+Technical specifications
+Fill and Flush Cart
+Materials - cart frame: welded steel chassis, powder-coat frame
+B
+- diaphragm and seals: NBR
+A
+- filter: stainless steel C
+- tires: 10" rubber
+Ratings
+Max. tank medium temperature: 150°F
+Suitable fluids: water, glycol, and hydronic cleaning fluids
+Connections
+- isolating ball valves: 3/4” garden hose thread
+- transfer hoses: 6’ with 3/4” GHT (2 ea)
+- liquid filled pressure gauge: 2” dial, 0–100 psi D
+Pump
+Materials - body: cast iron, with threaded ports
+- motor bracket: aluminum with brass insert
+- impeller: brass
+Performance
+Pump delivery flow: 1-13 gpm
+Pump feet of head: 220
+Max. pump pressure: 0-100 psi
+Pump power: 1/2 HP (120 V AC)
+Connections - valves: 3/4” garden hose thread Code A B C D Weight Capacity
+- drain pipe: 3/4" GHT
+NA25510 20 ½" 20 ¼" 13 ¾" 46 ¾" 65 lbs. 13 gallon
+30
+=== page 31 ===
+Multi-parameter
+TDS, pH & temperature tester kit
+CALEFFI
+NA575002
+Function
+One sensor measures 3 parameters; TDS, pH, and temperature. No need
+to switch sensors for different measurements. Accuracy up to ±0.01 for
+pH; ±1% full-scale for TDS for a wide variety of applications. Long-lasting
+pH sensor with PVDF reference junction having a large volume of polymer
+gel reference which gives long, clog-free sensor lifespan. Stainless steel
+pin-style conductivity sensors which is durable and compatible with a
+wide range of samples. Adjustable TDS factor and temperature coefficient
+provide accurate readings under changing conditions Push-button
+calibration is more precise than trimpot adjustment, no screwdrivers
+necessary. Automatic temperature compensation (ATC) gives accurate
+readings even with fluctuating temperatures Waterproof, dust-proof
+housing meets IP67 rating, plus it floats. Hold function freezes reading
+until you can record it and auto shutoff extends the life of battery.
+Product range
+NA575002 Multi-parameter tester kit with carry case and calibration packets ...........................................................................TDS, pH & Temperature
+Technical specifications Characteristic components
+Range
+TDS: 0 - 1,000 ppm 1. Waterproof battery compartment
+pH: 0.1 - 14.0 pH uses common button cells
+Temperature: 32 - 122°F (0 - 50°C)
+2. ATC for accurate readings even in
+Resolution varying conditions
+TDS: 1 ppm 3. Accurate readings with high
+pH: 0.1 pH resolution
+Temperature: ±0.1°
+4. LCD display with unit of
+Accuracy measurement, self-diagnostic
+TDS: ±1% full-scale messages and temperature
+pH: ±0.1 pH readout
+Temperature: ±0.9°F (±0.5°C) 5. Scroll-menu with four control push-
+Calibration button mode operations for simple,
+TDS: 2 points quick and accurate calibration
+pH: 3 points procedures
+Temperature: 1 points 6. Twist-and-lock sensor replacement
+with no tools required
+Temperature compensation ATC 32 - 122°F (0 - 50°C) or manual
+7. TDS sensor module with 2-pin
+Operating temperature 32 - 122°F (0 - 50°C)
+stainless steel for minimal bubble
+Power entrapment
+Alkaline battery: 4 x 1.5V button cell (LR44/ 357A) 8. Temperature sensor within
+Battery life: approx. 250 hours of continuous use dome-shaped casing for faster
+Dimensions Unit only: 6½" x 1½" dia (16.5 x 3.8 cm) temperature compensation
+Weight Unit only: 3.25 oz (90 g)
+9. pH sensor with fast response
+Carry case 13¾" x 10" x 3½" tough glass bulb, minimal clogging
+Calibration packets pH packets assortment (4, 7 &10 pH) with easy to clean single-junction
+conductitivty fluid sensor
+31
+=== page 32 ===
+®
+magnetic dirt separator
+CALEFFI
+5463, 5465M & NA5465, series
+Function
+In heating and air conditioning control systems, the circulation of
+water containing impurities may result in rapid wear and damage
+to components such as pumps and control valves. It also causes
+blockages in heat exchangers, heating elements and pipes, resulting in
+lower thermal efficiency within the system.
+The DIRTMAG® magnetic dirt separator removes both ferrous and non-
+ferrous impurities continuously, featuring powerful removable magnets
+that remove up to 100% of the ferrous impurities, including magnetite,
+that can form in a hydronic system. The DIRTMAG® has 2 ½ times the
+removal performance of a standard dirt separator.
+Product range
+5463 series DIRTMAG® magnetic dirt separator, in brass ..................................................................connections 1" to 2" NPT female and sweat
+5463 series DIRTMAG® magnetic dirt separator, in brass .......................................................................................connections 1" and 1¼" press
+5465M series DIRTMAG® magnetic dirt separator, in steel ...................................................................................connections 2" to 4" ANSI flanged
+NA5465M series DIRTMAG® magnetic dirt separator, in steel, ASME .......................................................................connections 2" to 6" ANSI flanged
+Technical specifications Steel body dirt separators and magnetic dirt separators
+Brass body dirt separators and magnetic dirt separators Materials - body: epoxy resin painted steel
+- top cap: brass
+Materials - body, dirt collection chamber and top plug: brass
+- internal element:
+- internal element: glass reinforced nylon PA66G30
+5465M, NA5465M s tainless steel and HDPE
+- hydraulic seal: EPDM
+- hydraulic seal: non-asbestos fiber
+- drain valve: brass
+- drain valve: brass
+- magnet (5463 series): neodymium rare-earth
+- magnet( M series): neodymium rare - earth
+Performance
+- magnet probe drywell: brass
+Suitable fluids: water, glycol solution
+Max. percentage of glycol: 50%
+Max. working pressure: 150 psi (10 bar) Performance
+Temperature range: 32–250°F (0–120°C) Suitable fluids: water, glycol solution
+Particle separation capacity: to 5 μm (0.2 mil) Max. percentage of glycol: 50%
+Ferrous impurities separation efficiency Max. working pressure: 150 psi (10 bar)
+(magnetic models): up to 100% removal Temperature range (vessel): 32—270°F (0—132°C)
+Particle separation capacity: to 5 μm (0.2 mil)
+Connections - main: 1", 1¼", 1½" and 2" NPT female
+Ferrous impurities separation efficiency
+1", 1¼", 1½" and 2" sweat (magnetic models): up to 100% removal
+1" and 1¼", press
+Connections - flanged: 2"–6" ANSI B16.5 150 CLASS RF
+- top: ½" NPT female (with plug)
+- drain: ¾" garden hose connection Agency approval
+NA546M series designed and built in accordance with Section VIII,
+Division 1 of the AMSE Boiler and Pressure Vessel Code and tagged
+and registered with the National Board of Boiler and Pressure Vessel
+Inspectors, with ASME U stamp.
+32
+=== page 33 ===
+Operating principle DIRTMAG®
+Non-ferrous and ferrous impurities, including magnetite, in hydronic systems
+can deposit onto heat exchanger surfaces and accumulate in pump cavities
+causing reduced thermal efficiency and premature wear. The small and often
+microscopic magnetic particles, called magnetite, form when iron or steel
+corrodes. Highly abrasive, the extremely fine particles are difficult to remove
+by traditional means. DIRTMAG® separators offer highly efficient separation
+of typical dirt as well as magnetite. The versatile DIRTMAG® magnetic dirt
+separator removes both ferrous and non-ferrous impurities continuously. In
+addition to removing sand and rust impurities with an internal element in a
+low-velocity-zone chamber, the DIRTMAG® features a powerful removable
+magnet below the flow line for fast and
+effective capture of ferrous impurities. The
+magnet removes up to 100% of the ferrous
+impurities, including magnetite, that can form
+in a hydronic system.
+For the brass DIRTMAG®, the ferrous
+impurities are captured by a strong
+neodymium rare-earth magnetic field created
+by a powerful removable magnet around the
+For the steel DIRTMAG®, the ferrous impurities are captured by a concentrated
+body below the flow line.
+magnetic field created by a stack of neodymium rare-earth magnets positioned
+inside a brass dry-well below the flow stream.
+33
+A
+E
+D
+C
+NPT B
+A
+E
+D
+C
+Sweat B B
+G
+C
+F
+H A
+D
+E
+PTmmaaxx 1110 B0I - b D a ICR r ECTIO P NTm Ama Laxx 1100 5baCr
+Code A B C D E Wt. lb (kg)
+546306A 1" NPT 45⁄16" 11⁄4" 5" 2" 4.2 (1.9)
+546328A 1" SWT 51⁄16" 11⁄4" 5" 2" 4.2 (1.9)
+546366A 1" Press 71⁄16" 11⁄4" 5" 2" 4.2 (1.9)
+546307A 11⁄4" NPT 47⁄8" 11⁄4" 6" 2" 5.3 (2.8)
+546335A 11⁄4" SWT 53⁄16" 11⁄4" 6" 2" 4.2 (1.9)
+Code A B C D E F G H C (g a a p l) . W (lb t ) . ( W kg t. )
+546367A 11⁄4" Press 73⁄16" 11⁄4" 6" 2" 4.2 (1.9)
+546550AM 2" 133" 1" 169⁄16" 231⁄4" 65⁄8" 1" 6" 1.8 41 20
+546308A 11⁄2" NPT 47⁄8" 11⁄4" 6" 2" 6.2 (2.8) 546560AM 21⁄2" 133⁄4" 1" 169⁄16" 231⁄4" 65⁄8" 1" 7" 1.8 41 20
+546341A 11⁄2" SWT 53⁄4" 11⁄4" 6" 2" 4.9 (2.2) 5
+5
+4
+4
+6
+6
+5
+5
+8
+10
+0
+A
+A
+M
+M 3
+4
+"
+"
+1
+1
+8
+81
+3
+⁄
+⁄
+2
+8
+"
+"
+1
+1
+"
+"
+2
+2
+1
+1
+"
+"
+3
+3
+0
+01
+1
+⁄
+⁄2
+2"
+"
+8
+8
+5
+5
+⁄
+⁄8
+8
+"
+"
+1
+1
+"
+" 7
+9
+1⁄
+"
+2"
+4
+4
+.
+.
+8
+8
+5
+5
+8
+8
+2
+2
+6
+6
+546309A 2" NPT 51⁄8" 11⁄4" 6" 2" 6.2 (2.8) NA546550AM 2" 133" 1" 169⁄16" 231⁄4" 65⁄8" 1" 6" 1.8 41 20
+546354A 2" SWT 61⁄8" 11⁄4" 6" 2" 5.5 (2.5)
+NA546560AM 21⁄2" 133⁄4" 1" 169⁄16" 231⁄4" 65⁄8" 1" 7" 1.8 41 20
+NA546580AM 3" 183⁄8" 1" 21" 301⁄2" 85⁄8" 1" 71⁄2" 4.8 58 26
+NA546510AM 4" 181⁄2" 1" 21" 301⁄2" 85⁄8" 1" 9" 4.8 58 26
+NA546512AM 5" 25" 1" 231⁄16" 3411⁄16"123⁄4" 1" 10" 13.7 141 65
+NA546515AM 6" 25" 1" 231⁄16" 3411⁄16"123⁄4" 1" 11" 13.7 151 70
+A
+E
+D
+C
+NPT B
+A
+E
+D
+C
+Sweat B
+B
+G
+C
+F
+H A
+D
+E
+Dimensions
+BI-DIRECTIONAL
+TPmmaaxx 11100 baCrPTmmaaxx 1100 5baCr
+Draining off dirt and ferrous impurities
+To purge the ferrous impurities
+The dirt separator collection chamber has a drain in the steel DIRTMAG®, the
+flexible magnetic stack is
+valve. Using the handle provided it is possible to
+removed from the brass dry-
+drain off the accumulated dirt particles even with
+well and, with the system still
+the system in operation.
+running, the drain valve is
+For the brass DIRTMAG®, captured impurities are opened. Aided by the system
+easily flushed by unclamping the magnetic collar pressure, the dirt and ferrous
+and purging. impurities, including magnetite,
+flushes out quickly and
+effectively.
+=== page 34 ===
+DISCAL ®
+magnetic air & dirt separator
+CALEFFI
+NA546 & 5461 series
+Function
+Air and dirt separators are used to continuously remove the air and debris
+contained in the hydronic circuits of heating and cooling systems. The air
+discharge of these devices is very high. They are capable of automatically
+removing all of the air present in the system down to the microbubble level.
+The DISCALDIRTMAG® air and dirt separator also removes both ferrous and
+non-ferrous impurities continuously, featuring powerful removable magnets that
+remove up to 100% of the ferrous impurities, including magnetite, that can form
+hydronic system. The DISCALDIRTMAG® has 2½ times the ferrous impurities
+removal performance of a standard air and dirt separator.
+The impurities collect at the bottom of the device and can be flushed through
+the integral drain shut-off valve. The circulation of fully de-aerated and cleaned
+water enables the equipment to operate under optimum conditions, free from
+noise, corrosion, localized or mechanical damage.
+Product range
+5461 series DISCALDIRTMAG® air and dirt separator with magnet in brass .......................................................................connections 1" NPT male
+5461 series DISCALDIRTMAG® air and dirt separator with magnet in brass .............................................................connections ¾", 1"& 1¼" sweat
+NA546M series DISCALDIRTMAG® magnetic air and dirt separator, in steel, ASME ..................................................connections 2½" –6" ANSI flanged
+NA546TM series DISCALDIRTMAG® magnetic air and dirt separator, in steel, ASME .........................................................connections 2" NPT threaded
+Technical specifications
+Brass body magnetic air and dirt separators Steel body magnetic air and dirt separators
+Materials - body: brass Materials - body: epoxy resin painted steel
+- internal element: glass reinforced nylon, PA66GF30 - air vent body: brass
+- air vent float: PP - internal element: stainless steel and HDPE
+- air vent float guide pin: stainless steel - air vent float: PP
+- air vent float linkages: stainless steel - air vent float guide pin & linkages: stainless steel
+- spring: stainless steel - spring: stainless steel
+- seals: EPDM - seals: EPDM
+- bottom drain shut-off valve: brass - bottom & side drain shut-off valve: brass
+- magnet: neodymium rare-earth - magnet: neodymium rare-earth
+- magnet probe drywell: brass
+Performance
+Suitable fluids: water, glycol solution Performance
+Max. percentage of glycol: 50% Suitable fluids: water, glycol solution
+Max. working pressure: 150 psi (10 bar) Max. percentage of glycol: 50%
+Temperature range: 32–250°F (0–120°C) Max. working pressure: 150 psi (10 bar)
+Air separation efficiency: 100% removal to microbubble level Temperature range (vessel): 32–270°F (0–132°C)
+Particle separation capacity: to 5 µm (0.2 mil) Air separation efficiency: 100% removal to microbubble level
+Ferrous impurities separation efficiency: up to 100% removal Particle separation capacity: to 5 µm (0.2 mil)
+Connections - main: ¾", 1", 1¼" sweat; 1" NPT male Ferrous impurities separation efficiency (M models): up to 100% removal
+- drain shut-off valve: 3/4" GHT Connections - flanged: 2½"–12" ANSI B16.5 150 CLASS RF
+- threaded: 2"
+- bottom drain valve: 1" NPT female
+Agency approval
+NA546M series designed and built in accordance with Section VIII,
+Division 1 of the AMSE Boiler and Pressure Vessel Code and tagged
+and registered with the National Board of Boiler and Pressure Vessel
+Inspectors, with ASME U stamp.
+34
+=== page 35 ===
+F
+Operating principle DISCALDIRTMAG®
+Microbubble air separation
+The air and dirt separator uses the combined action of several physical
+principles. The active part is the internal element concentric mesh surfaces.
+These elements create the whirling movement required to facilitate the
+release of micro-bubbles and their adhesion to these surfaces.
+The bubbles, fusing with each other, increase in volume until the hydrostatic
+thrust is such as to overcome the adhesion force to the structure. They rise
+towards the top of the unit from which they are released through a float-
+operated automatic air vent valve.
+Microparticle dirt separation
+The DISCALDIRTMAG® dirt removing element
+separates and collects any impurities present
+in the system. Impurities in the fluid upon
+striking the surfaces of the internal element,
+get separated and drop to the bottom of the
+body in the dirt collection chamber where they
+collect. In addition, the large internal volume
+of slows down the velocity of the fluid thus For the steel DISCALDIRTMAG®, the ferrous impurities are captured by a
+helping, by gravity, to separate the particles concentrated magnetic field created by a stack of neodymium rare-earth
+it contains. DISCALDIRTMAG® features a powerful magnets positioned inside a brass dry-well below the flow stream.
+removable magnet below the flow line for fast and effective capture of ferrous
+impurities. The magnet removes up to 100% of the ferrous impurities, including
+magnetite, that can form in a hydronic system.
+The dirt separator collection chamber has a drain To purge the ferrous impurities in
+valve. Using the handle provided it is possible to the steel DISCALDIRTMAG®, the
+drain off the accumulated dirt particles even with flexible magnetic stack is removed
+from the brass dry-well and, with the
+the system in operation.
+system still running, the drain valve
+For the brass DISCALDIRTMAG®, captured is opened. Aided by the system
+impurities are easily flushed by unclamping the pressure, the dirt and ferrous
+magnetic collar and purging. impurities, including magnetite,
+flushes out quickly and effectively.
+35
+A
+D
+E
+G
+B
+25583
+H
+Dimensions
+C
+3 1/8”
+B
+C
+Code Connections A B C D E F W (lb t ) . ( W kg t. ) Code A B C D E F G H C (g a a p l) . W (lb t ) . ( W kg t. )
+546195A Sweat 3⁄4" 73⁄8" 21⁄8" 5" 51⁄2" 123⁄4" 8.5 3.9 NA546050TM 2" 133" 23⁄16" 149⁄16" 281⁄4" 65⁄8" 1" 1311⁄16" 3.6 28 12.7
+546196A Sweat 1" 73⁄8" 21⁄8" 5" 51⁄2" 123⁄4" 8.5 3.9 NA546060AM 21⁄2" 133⁄4" 23⁄16" 149⁄16" 281⁄4" 65⁄8" 1" 1311⁄16" 3.6 42 18.6
+546116A NPT male 1" 73⁄8" 21⁄8" 5" 51⁄2" 123⁄4" 8.5 3.9 NA546080AM 3" 183⁄8" 23⁄16" 17" 341⁄2" 85⁄8" 1" 171⁄2" 7.6 73 33.1
+546197A Sweat 11⁄4" 63⁄16" 21⁄8" 5" 51⁄2" 123⁄4" 8.5 3.9 NA546100AM 4" 181⁄2" 23⁄16" 17" 341⁄2" 85⁄8" 1" 171⁄2" 7.8 78 35.4
+NA546120AM 5" 25" 23⁄16" 211⁄16" 4611⁄16"123⁄4" 1" 255⁄8" 22.4 181 82.1
+NA546150AM 6" 25" 23⁄16" 211⁄16" 4611⁄16"123⁄4" 1" 255⁄8" 23.0 188 85.3
+A
+E
+D
+F
+A
+B
+C
+E
+D
+F
+Draining off dirt and ferrous impurities
+=== page 36 ===
+Hydronic Water Quality Experts
+Water is the “life-blood” of hydronic systems. Just as we strive to maintain the health of our own
+circulatory systems, it’s important to maintain the “health” of water and water-based solutions
+that circulate through the hydronic systems we construct and maintain.
+At Caleffi, hydronic water health has long been our product focus. We produce components that
+remove air, dirt, and ferrous impurities to keep systems operating reliably. But important too is
+™
+the quality of the water used in filling the system. Now Caleffi offers the HYDROFILL to remove
+minerals in solution and produce an ideal grade of water for use in today’s modern hydronic systems.
+Our CUBOROSSO water quality laboratory is dedicated to researching ways to improve
+water quality in hydronic systems.
+Components for today's modern hydronic systems
+Heating & Cooling
+www.caleffi.com - Milwaukee, WI USA

@@ -1,0 +1,1108 @@
+{
+ "labeller": "independent blind session https://outpostai.devinenterprise.com/sessions/9b0cbd24772341ca827bfcd4bab3fb61",
+ "input": "evidence-text packet only (no gold access)",
+ "families": [
+  {
+   "family_id": "caleffi-172",
+   "variants": [
+    {
+     "sku": "1725C1AHE",
+     "size": "3/4\""
+    },
+    {
+     "sku": "1725C1AHE IN",
+     "size": "3/4\""
+    },
+    {
+     "sku": "1725D1AHE",
+     "size": "3/4\""
+    },
+    {
+     "sku": "1725D1AHE IN",
+     "size": "3/4\""
+    },
+    {
+     "sku": "1725E1AHE",
+     "size": "3/4\""
+    },
+    {
+     "sku": "1725E1AHE IN",
+     "size": "3/4\""
+    },
+    {
+     "sku": "1725F1AHE",
+     "size": "3/4\""
+    },
+    {
+     "sku": "1725F1AHE IN",
+     "size": "3/4\""
+    },
+    {
+     "sku": "1725G1AHE",
+     "size": "3/4\""
+    },
+    {
+     "sku": "1725G1AHE IN",
+     "size": "3/4\""
+    },
+    {
+     "sku": "1725H1AHE",
+     "size": "3/4\""
+    },
+    {
+     "sku": "1725H1AHE IN",
+     "size": "3/4\""
+    },
+    {
+     "sku": "1725I1AHE",
+     "size": "3/4\""
+    },
+    {
+     "sku": "1725I1AHE IN",
+     "size": "3/4\""
+    },
+    {
+     "sku": "1725L1AHE",
+     "size": "3/4\""
+    },
+    {
+     "sku": "1725L1AHE IN",
+     "size": "3/4\""
+    },
+    {
+     "sku": "1725M1AHE",
+     "size": "3/4\""
+    },
+    {
+     "sku": "1725M1AHE IN",
+     "size": "3/4\""
+    },
+    {
+     "sku": "1725N1AHE",
+     "size": "3/4\""
+    },
+    {
+     "sku": "1725N1AHE IN",
+     "size": "3/4\""
+    },
+    {
+     "sku": "1725O1AHE",
+     "size": "3/4\""
+    },
+    {
+     "sku": "1725O1AHE IN",
+     "size": "3/4\""
+    }
+   ],
+   "documents": [
+    {
+     "filename": "01155_NA.pdf",
+     "doc_type": "spec_sheet"
+    },
+    {
+     "filename": "NA10814.pdf",
+     "doc_type": "iom_manual"
+    },
+    {
+     "filename": "NA11011.pdf",
+     "doc_type": "other_doc"
+    },
+    {
+     "filename": "Idronics_7_NA_Mixing%20in%20hydronic%20systems.pdf",
+     "doc_type": "other_doc"
+    },
+    {
+     "filename": "Idronics_16_NA_Circulation%20in%20hydronic%20systems.pdf",
+     "doc_type": "other_doc"
+    }
+   ],
+   "cad": [],
+   "images": [
+    {
+     "url": "https://www.caleffi.com/sites/default/files/product/cover/1725D1AHE.jpg",
+     "keep": true,
+     "image_type": "product_photo",
+     "why": "product view; largest referenced rendition, no phash duplicate within distance 2"
+    },
+    {
+     "url": "https://www.caleffi.com/sites/default/files/styles/container100_xxxl/public/media/external-image/1725D1AHE.png.webp?itok=YMLdpECH",
+     "keep": true,
+     "image_type": "product_photo",
+     "why": "product view; largest referenced rendition, no phash duplicate within distance 2"
+    },
+    {
+     "url": "https://www.caleffi.com/sites/default/files/styles/file_cover/public/media/external-image/1725D1AHE.png.webp?itok=NaA2e_bu",
+     "keep": false,
+     "image_type": "other",
+     "why": "shortest side < 300 px (160 px file_cover thumbnail)"
+    },
+    {
+     "url": "https://www.caleffi.com/sites/default/files/styles/file_cover/public/product/cover/1725C1A.jpg.webp?itok=CrlT8PCR",
+     "keep": false,
+     "image_type": "other",
+     "why": "shortest side < 300 px (160 px file_cover thumbnail); also a different product (related-product thumbnail)"
+    }
+   ],
+   "specs": {
+    "size_range": {
+     "value": {
+      "min": "3/4",
+      "max": "3/4"
+     },
+     "unit": "in",
+     "cross_check": "agree",
+     "display_source": "pdf",
+     "alt_values": [],
+     "quote": "[01155_NA.pdf.txt] ¾” supply and return connections | [page0.txt] 3/4\" NPT male"
+    },
+    "sizes_available": {
+     "value": [
+      "3/4"
+     ],
+     "unit": "in",
+     "cross_check": "agree",
+     "display_source": "pdf",
+     "alt_values": [],
+     "quote": "[01155_NA.pdf.txt] ¾” supply and return connections | [page0.txt] Connection: 3/4\" NPT male."
+    },
+    "size_unit": {
+     "value": "in",
+     "unit": null,
+     "cross_check": "agree",
+     "display_source": "pdf",
+     "alt_values": [],
+     "quote": "[01155_NA.pdf.txt] ¾” supply and return connections | [page0.txt] Connection: 3/4\" NPT male."
+    },
+    "material_body": {
+     "value": "brass",
+     "unit": null,
+     "cross_check": "pdf_only",
+     "display_source": "pdf",
+     "alt_values": [],
+     "quote": "[01155_NA.pdf.txt] Three-way mixing valve unit: | [01155_NA.pdf.txt] Body: brass"
+    },
+    "end_connections": {
+     "value": [
+      "NPT"
+     ],
+     "unit": null,
+     "cross_check": "agree",
+     "display_source": "pdf",
+     "alt_values": [],
+     "quote": "[01155_NA.pdf.txt] Connections: - primary circuit: 3/4” NPT Male | [page0.txt] Connection: 3/4\" NPT male.",
+     "raw_text": "primary 3/4\" NPT male; to mixing valve unit 1\" female with nut; manifold outlets 3/4\" male (end_connections_other)"
+    },
+    "pressure_rating": {
+     "value": 150,
+     "unit": "psi",
+     "cross_check": "agree",
+     "display_source": "pdf",
+     "alt_values": [],
+     "quote": "[01155_NA.pdf.txt] Max. working pressure: 150 psi (10 bar) | [page0.txt] Maximum working pressure\n:\n150 psi"
+    },
+    "temperature_range": {
+     "value": {
+      "min": null,
+      "max": 195
+     },
+     "unit": "°F",
+     "cross_check": "agree",
+     "display_source": "pdf",
+     "alt_values": [],
+     "quote": "[01155_NA.pdf.txt] Primary inlet max. temperature: 195°F (90°C) | [page0.txt] Maximum inlet temperature\n:\n195 °F"
+    }
+   },
+   "variant_overrides": {},
+   "notes": "Family page = 172 HE (high-efficiency pump) models: 22 part numbers (3-13 outlets, each with an 'IN' inverted row). The 'IN' suffix is described in a note, but each IN code is its own row in the part-number table, so they are variants (not options). Variant size = the 3/4\" NPT connection; outlet count is the differentiator (additional_specs). 01155_NA (2 pp, 172 series tech data, written for the 3-speed UPS 15-58 version) = spec_sheet; its family-level values (brass, 150 psi, 195°F inlet) agree with the page. temperature_range = primary inlet max (rating); control range 80-130°F (page + sheet) kept in additional_specs (mixing-valve precedent). material_body = mixing valve unit/manifold body brass (pump body cast iron is a component). NA11011 Revit content guide = other_doc (instructions for BIM files, not the product); Idronics 7/16 design journals = other_doc. Page shows '3D models bim' but no CAD file link in the packet -> cad empty. 'hydronic distribution systems'/'floor radiant panels' map to no applications term."
+  },
+  {
+   "family_id": "caleffi-3048",
+   "variants": [
+    {
+     "sku": "304843A",
+     "size": "1/2\""
+    },
+    {
+     "sku": "304853A",
+     "size": "3/4\""
+    },
+    {
+     "sku": "304840A",
+     "size": "1/2\""
+    },
+    {
+     "sku": "304850A",
+     "size": "3/4\""
+    },
+    {
+     "sku": "304860A",
+     "size": "1\""
+    },
+    {
+     "sku": "304847A",
+     "size": "1/2\""
+    },
+    {
+     "sku": "304857A",
+     "size": "3/4\""
+    },
+    {
+     "sku": "304867A",
+     "size": "1\""
+    },
+    {
+     "sku": "304848A",
+     "size": "1/2\""
+    },
+    {
+     "sku": "304858A",
+     "size": "3/4\""
+    },
+    {
+     "sku": "304868A",
+     "size": "1\""
+    },
+    {
+     "sku": "304846A",
+     "size": "1/2\""
+    },
+    {
+     "sku": "304856A",
+     "size": "3/4\""
+    },
+    {
+     "sku": "304866A",
+     "size": "1\""
+    },
+    {
+     "sku": "304849A",
+     "size": "1/2\""
+    },
+    {
+     "sku": "304859A",
+     "size": "3/4\""
+    },
+    {
+     "sku": "304869A",
+     "size": "1\""
+    }
+   ],
+   "documents": [
+    {
+     "filename": "01403_NA.pdf",
+     "doc_type": "spec_sheet"
+    },
+    {
+     "filename": "03506_NA.pdf",
+     "doc_type": "submittal"
+    },
+    {
+     "filename": "03667_NA.pdf",
+     "doc_type": "spec_sheet"
+    },
+    {
+     "filename": "NA10884.pdf",
+     "doc_type": "iom_manual"
+    }
+   ],
+   "cad": [],
+   "images": [
+    {
+     "url": "https://www.caleffi.com/sites/default/files/product/cover/304843A.jpg",
+     "keep": true,
+     "image_type": "product_photo",
+     "why": "product view; largest referenced rendition, no phash duplicate within distance 2"
+    },
+    {
+     "url": "https://www.caleffi.com/sites/default/files/styles/container100_xxxl/public/media/external-image/304843A.png.webp?itok=TdzArLQN",
+     "keep": false,
+     "image_type": "product_photo",
+     "why": "same image as 304843A.jpg (phash distance 0); kept the larger product/cover original"
+    },
+    {
+     "url": "https://www.caleffi.com/sites/default/files/product/cover/304840A.jpg",
+     "keep": true,
+     "image_type": "product_photo",
+     "why": "product view; largest referenced rendition, no phash duplicate within distance 2"
+    },
+    {
+     "url": "https://www.caleffi.com/sites/default/files/styles/container100_xxxl/public/media/external-image/304840A.png.webp?itok=zqTzYuYZ",
+     "keep": false,
+     "image_type": "product_photo",
+     "why": "same image as 304840A.jpg (phash distance 0); kept the larger product/cover original"
+    },
+    {
+     "url": "https://www.caleffi.com/sites/default/files/product/cover/304857A.jpg",
+     "keep": true,
+     "image_type": "product_photo",
+     "why": "product view; largest referenced rendition, no phash duplicate within distance 2"
+    },
+    {
+     "url": "https://www.caleffi.com/sites/default/files/styles/container100_xxxl/public/media/external-image/304857A.png.webp?itok=gLqCaYbx",
+     "keep": false,
+     "image_type": "product_photo",
+     "why": "same image as 304857A.jpg (phash distance 0); kept the larger product/cover original"
+    },
+    {
+     "url": "https://www.caleffi.com/sites/default/files/product/cover/304856A.jpg",
+     "keep": true,
+     "image_type": "product_photo",
+     "why": "product view; largest referenced rendition, no phash duplicate within distance 2"
+    },
+    {
+     "url": "https://www.caleffi.com/sites/default/files/styles/container100_xxxl/public/media/external-image/304856A.png.webp?itok=533vQSX_",
+     "keep": false,
+     "image_type": "product_photo",
+     "why": "same image as 304856A.jpg (phash distance 0); kept the larger product/cover original"
+    },
+    {
+     "url": "https://www.caleffi.com/sites/default/files/product/cover/304859A.jpg",
+     "keep": true,
+     "image_type": "product_photo",
+     "why": "product view; largest referenced rendition, no phash duplicate within distance 2"
+    },
+    {
+     "url": "https://www.caleffi.com/sites/default/files/styles/container100_xxxl/public/media/external-image/304859A.png.webp?itok=WqVrnfAa",
+     "keep": false,
+     "image_type": "product_photo",
+     "why": "same image as 304859A.jpg (phash distance 0); kept the larger product/cover original"
+    }
+   ],
+   "specs": {
+    "size_range": {
+     "value": {
+      "min": "1/2",
+      "max": "1"
+     },
+     "unit": "in",
+     "cross_check": "agree",
+     "display_source": "pdf",
+     "alt_values": [],
+     "quote": "[01403_NA.pdf.txt] sizes ½”, ¾”, 1” NPT male | [page1.txt] 1\" NPT male"
+    },
+    "sizes_available": {
+     "value": [
+      "1/2",
+      "3/4",
+      "1"
+     ],
+     "unit": "in",
+     "cross_check": "agree",
+     "display_source": "pdf",
+     "alt_values": [],
+     "quote": "[01403_NA.pdf.txt] sizes ½”, ¾”, 1” NPT male | [page1.txt] 1/2\" NPT male | [page1.txt] 3/4\" NPT male | [page1.txt] 1\" NPT male"
+    },
+    "size_unit": {
+     "value": "in",
+     "unit": null,
+     "cross_check": "agree",
+     "display_source": "pdf",
+     "alt_values": [],
+     "quote": "[01403_NA.pdf.txt] sizes ½”, ¾”, 1” | [page1.txt] 1\" NPT male"
+    },
+    "material_body": {
+     "value": "DZR low-lead brass CW724R-M",
+     "unit": null,
+     "cross_check": "refines",
+     "display_source": "pdf",
+     "alt_values": [
+      {
+       "value": "DZR low lead brass",
+       "source": "page",
+       "quote": "Material\n:\nDZR low lead brass"
+      }
+     ],
+     "quote": "[01403_NA.pdf.txt] Body, retaining ring and lock nut: DZR low-lead* brass CW724R-M"
+    },
+    "end_connections": {
+     "value": [
+      "NPT",
+      "solder",
+      "press",
+      "PEX crimp",
+      "PEX expansion",
+      "union"
+     ],
+     "unit": null,
+     "cross_check": "agree",
+     "display_source": "pdf",
+     "alt_values": [
+      {
+       "value": [
+        "NPT",
+        "union",
+        "PEX crimp",
+        "PEX expansion",
+        "press",
+        "solder"
+       ],
+       "source": "pages",
+       "quote": "1/2\" NPT female / 1/2\" NPT male / 1/2\" PEX crimp / 1/2\" PEX expansion / 1/2\" Press / 1/2\" Sweat, union"
+      }
+     ],
+     "quote": "[01403_NA.pdf.txt] Main inlet/outlet: 1/2”, 3/4”, 1” NPT male, sweat, press, | [01403_NA.pdf.txt] PEX crimp (ASTM F1807)\nor PEX expansion (ASTM F1960) union; | [03506_NA.pdf.txt] 1/2” and 3/4” NPT female union"
+    },
+    "pressure_rating": {
+     "value": 160,
+     "unit": "psi",
+     "cross_check": "conflict",
+     "display_source": "pdf",
+     "alt_values": [
+      {
+       "value": 175,
+       "unit": "psi",
+       "source": "page",
+       "quote": "Maximum working pressure\n:\n175 psi"
+      },
+      {
+       "value": 175,
+       "unit": "psi",
+       "source": "03667_NA.pdf (sell sheet)",
+       "quote": "MAX. WORKING PRESSURE 175 psi (12 bar)"
+      }
+     ],
+     "quote": "[01403_NA.pdf.txt] Max. working pressure: 160 psi (11 bar) | [03506_NA.pdf.txt] Max. working pressure: 160 psi (11 bar)"
+    },
+    "temperature_range": {
+     "value": {
+      "min": 32,
+      "max": 180
+     },
+     "unit": "°F",
+     "cross_check": "agree",
+     "display_source": "pdf",
+     "alt_values": [],
+     "quote": "[01403_NA.pdf.txt] Operating temperature range: 32 to 180°F (0 to 82°C) | [page0.txt] Medium temperature range\n:\n32–180 °F"
+    },
+    "certifications": {
+     "value": [
+      "ASSE 1024",
+      "CSA 64.5"
+     ],
+     "unit": null,
+     "cross_check": "pdf_only",
+     "display_source": "pdf",
+     "alt_values": [],
+     "quote": "[01403_NA.pdf.txt] certified to ASSE\n1024 and CSA 64.5 by ICC-ES"
+    },
+    "standards": {
+     "value": [
+      "ASSE 1024",
+      "CSA 64.5",
+      "NSF/ANSI/CAN 61",
+      "NSF/ANSI/CAN 372",
+      "ASTM F1807",
+      "ASTM F1960"
+     ],
+     "unit": null,
+     "cross_check": "pdf_only",
+     "display_source": "pdf",
+     "alt_values": [],
+     "quote": "[01403_NA.pdf.txt] The backflow preventer is certified to ASSE 1024 and CSA 64.5, and complies | [01403_NA.pdf.txt] with NSF/ANSI/CAN 372, low lead laws, and NSF/ANSI/CAN 61 (180°F/82°C | [01403_NA.pdf.txt] PEX crimp (ASTM F1807)\nor PEX expansion (ASTM F1960) union;"
+    },
+    "applications": {
+     "value": [
+      "potable water",
+      "residential",
+      "commercial"
+     ],
+     "unit": null,
+     "cross_check": "pdf_only",
+     "display_source": "pdf",
+     "alt_values": [],
+     "quote": "[01403_NA.pdf.txt] for residential domestic water supply lines or commercial\nlow-hazard backflow applications | [01403_NA.pdf.txt] Water flowing in the distribution piping of potable water"
+    }
+   },
+   "variant_overrides": {},
+   "notes": "Family = series 3048 across its 5 connection pages (FNPT, MNPT, PEX, press, sweat); 17 part numbers. 01403_NA (4 pp, one family, tech data) = spec_sheet; 03506_NA = submittal; 03667_NA 2-pp sell sheet with code table and ratings = spec_sheet; NA10884 = iom_manual. Pressure: spec sheet and submittal 160 psi (11 bar) vs page and sell sheet 175 psi -> conflict, 01403 displayed. Certifications = what the sheet says is 'certified' (ASSE 1024, CSA 64.5 by ICC-ES); NSF/ANSI/CAN 61/372 'complies' -> standards only. IOM says 'CSA B64.6' (vs sheet 'CSA 64.5') -- IOM not a cross-check source. Codes IPC/IRC/UPC are plumbing codes, not standards (additional_specs). 'hydronic or irrigation systems' appears only as an example of where back-syphon occurs, not as the product's service -> not mapped. Page Certifications/Applications sections are empty."
+  },
+  {
+   "family_id": "caleffi-5024",
+   "variants": [
+    {
+     "sku": "502420",
+     "size": "1/4\""
+    }
+   ],
+   "documents": [
+    {
+     "filename": "01090_NA.pdf",
+     "doc_type": "catalog"
+    },
+    {
+     "filename": "03194_EN_WATER%20TREATMENT%20IN%20HEATING%20AND%20COOLING%20SYSTEMS.pdf",
+     "doc_type": "catalog"
+    },
+    {
+     "filename": "38459_NA.pdf",
+     "doc_type": "iom_manual"
+    },
+    {
+     "filename": "502420%20%28pdf%29.pdf",
+     "doc_type": "other_doc"
+    }
+   ],
+   "cad": [
+    {
+     "filename": "502420%20%28dwg%29.dwg",
+     "format": "dwg",
+     "variant_sku": "502420"
+    },
+    {
+     "filename": "502420%20%28dxf%29.dxf",
+     "format": "dxf",
+     "variant_sku": "502420"
+    },
+    {
+     "filename": "502420%20%28igs%29.igs",
+     "format": "igs",
+     "variant_sku": "502420"
+    },
+    {
+     "filename": "502420%20%28stp%29.stp",
+     "format": "stp",
+     "variant_sku": "502420"
+    }
+   ],
+   "images": [
+    {
+     "url": "https://www.caleffi.com/sites/default/files/product/cover/502420.jpg",
+     "keep": true,
+     "image_type": "product_photo",
+     "why": "product view; largest referenced rendition, no phash duplicate within distance 2"
+    },
+    {
+     "url": "https://www.caleffi.com/sites/default/files/styles/container100_xxxl/public/media/external-image/502420.png.webp?itok=7YwqHpTd",
+     "keep": true,
+     "image_type": "product_photo",
+     "why": "product view; largest referenced rendition, no phash duplicate within distance 2"
+    },
+    {
+     "url": "https://www.caleffi.com/sites/default/files/styles/container100_xxxl/public/media/external-image/502420_dim~-~page-1.png.webp?itok=NwQXl9V2",
+     "keep": true,
+     "image_type": "dimensional_drawing",
+     "why": "dimension drawing (_dim) of the product, 1181 px"
+    },
+    {
+     "url": "https://www.caleffi.com/sites/default/files/styles/container100_xxxl/public/media/external-image/502420_sez~-~page-1.png.webp?itok=aaPk4pHr",
+     "keep": true,
+     "image_type": "product_photo",
+     "why": "section/cutaway view (_sez); distinct phash from other views"
+    },
+    {
+     "url": "https://www.caleffi.com/sites/default/files/styles/file_cover/public/media/external-image/502420.png.webp?itok=fghjD-CQ",
+     "keep": false,
+     "image_type": "other",
+     "why": "shortest side < 300 px (160 px file_cover thumbnail)"
+    },
+    {
+     "url": "https://www.caleffi.com/sites/default/files/styles/file_cover/public/media/external-image/502420_dim~-~page-1.png.webp?itok=0nrd1vGH",
+     "keep": false,
+     "image_type": "other",
+     "why": "shortest side < 300 px (160 px file_cover thumbnail)"
+    },
+    {
+     "url": "https://www.caleffi.com/sites/default/files/styles/file_cover/public/media/external-image/502420_sez~-~page-1.png.webp?itok=5v-8Vtv7",
+     "keep": false,
+     "image_type": "other",
+     "why": "shortest side < 300 px (160 px file_cover thumbnail)"
+    },
+    {
+     "url": "https://www.caleffi.com/sites/default/files/styles/file_cover/public/product/cover/502630.jpg.webp?itok=LJcFlUVP",
+     "keep": false,
+     "image_type": "other",
+     "why": "shortest side < 300 px (160 px file_cover thumbnail); also a different product (related-product thumbnail)"
+    }
+   ],
+   "specs": {
+    "size_range": {
+     "value": {
+      "min": "1/4",
+      "max": "1/4"
+     },
+     "unit": "in",
+     "cross_check": "page_only",
+     "display_source": "page",
+     "alt_values": [
+      {
+       "value": "1/4",
+       "source": "01090_NA.pdf (catalog)",
+       "quote": "Series 5024 Automatic air vent, horizontal relief Size 1/4” straight thread"
+      }
+     ],
+     "quote": "[page0.txt] 1/4\" G (ISO 228-1A) M"
+    },
+    "sizes_available": {
+     "value": [
+      "1/4"
+     ],
+     "unit": "in",
+     "cross_check": "page_only",
+     "display_source": "page",
+     "alt_values": [],
+     "quote": "[page0.txt] 1/4\" G (ISO 228-1A) M"
+    },
+    "size_unit": {
+     "value": "in",
+     "unit": null,
+     "cross_check": "page_only",
+     "display_source": "page",
+     "alt_values": [],
+     "quote": "[page0.txt] 1/4\" G (ISO 228-1A) M"
+    },
+    "material_body": {
+     "value": "brass",
+     "unit": null,
+     "cross_check": "page_only",
+     "display_source": "page",
+     "alt_values": [
+      {
+       "value": "brass",
+       "source": "01090_NA.pdf (catalog)",
+       "quote": "Automatic air vent. 1/4” M threaded connections. Brass body and cover."
+      }
+     ],
+     "quote": "[page0.txt] Material\n:\nbrass"
+    },
+    "end_connections": {
+     "value": [
+      "threaded"
+     ],
+     "unit": null,
+     "cross_check": "page_only",
+     "display_source": "page",
+     "alt_values": [],
+     "quote": "[page0.txt] 1/4\" G (ISO 228-1A) M | [page0.txt] connection: 1/4\" straight thread M.",
+     "raw_text": "1/4\" G (ISO 228-1A) M (end_connections_other: G / ISO 228-1A parallel thread)"
+    },
+    "pressure_rating": {
+     "value": 10,
+     "unit": "bar",
+     "cross_check": "page_only",
+     "display_source": "page",
+     "alt_values": [
+      {
+       "value": "150 psi (10 bar)",
+       "source": "01090_NA.pdf (catalog)",
+       "quote": "Maximum working pressure: 150 psi (10 bar). Maximum venting pressure: 90 psi (6 bar). Maximum\nworking temperature: 240°F (115°C)."
+      }
+     ],
+     "quote": "[page0.txt] Maximum working pressure\n:\n10 bar"
+    },
+    "temperature_range": {
+     "value": {
+      "min": 0,
+      "max": 115
+     },
+     "unit": "°C",
+     "cross_check": "page_only",
+     "display_source": "page",
+     "alt_values": [
+      {
+       "value": "max 240°F (115°C)",
+       "source": "01090_NA.pdf (catalog)"
+      }
+     ],
+     "quote": "[page0.txt] Medium temperature range\n:\n0–115 °C"
+    },
+    "standards": {
+     "value": [
+      "ISO 228-1A"
+     ],
+     "unit": null,
+     "cross_check": "page_only",
+     "display_source": "page",
+     "alt_values": [],
+     "quote": "[page0.txt] 1/4\" G (ISO 228-1A) M"
+    }
+   },
+   "variant_overrides": {},
+   "notes": "Technical brochure 01090_NA covers 7 series (501, 5022, 5023, 5024, 5026, 5027, 5080) over 5 pages with a per-series spec block -> catalog (SPEC 5 rule 2), so it ranks below the page and is not a cross-check partner: all fields page_only, catalog values kept in alt_values (all consistent). 03194 is a 44-page range overview with per-code technical tables -> catalog. 38459_NA is the instruction sheet for 5026/5027 (does not mention 5024) -> iom_manual, not a spec source. CAD '(pdf).pdf' drawing is not a CAD format -> document other_doc. Max air discharge pressure: page 4 bar, catalog 90 psi (6 bar) -- not a scored field, noted. Certifications/Applications tabs on the page are empty. Catalog 'for heating systems and radiators' maps to no applications term (applications_other)."
+  },
+  {
+   "family_id": "caleffi-5350-body",
+   "variants": [
+    {
+     "sku": "535951A",
+     "size": "1\""
+    }
+   ],
+   "documents": [
+    {
+     "filename": "01085_NA.pdf",
+     "doc_type": "spec_sheet"
+    },
+    {
+     "filename": "NA38445.pdf",
+     "doc_type": "iom_manual"
+    }
+   ],
+   "cad": [],
+   "images": [
+    {
+     "url": "https://www.caleffi.com/sites/default/files/product/cover/535951A.jpg",
+     "keep": true,
+     "image_type": "product_photo",
+     "why": "product view; largest referenced rendition, no phash duplicate within distance 2"
+    },
+    {
+     "url": "https://www.caleffi.com/sites/default/files/styles/container100_xxxl/public/media/external-image/535951A.png.webp?itok=Rs5Uxg1D",
+     "keep": false,
+     "image_type": "product_photo",
+     "why": "same image as product/cover/535951A.jpg (phash distance 0, same 2000 px); kept the cover file"
+    },
+    {
+     "url": "https://www.caleffi.com/sites/default/files/styles/file_cover/public/product/cover/535051A.jpg.webp?itok=WCJtqwvc",
+     "keep": false,
+     "image_type": "other",
+     "why": "shortest side < 300 px (160 px file_cover thumbnail); also a different product (related-product thumbnail)"
+    }
+   ],
+   "specs": {
+    "size_range": {
+     "value": {
+      "min": "3/4",
+      "max": "1"
+     },
+     "unit": "in",
+     "cross_check": "conflict",
+     "display_source": "pdf",
+     "alt_values": [
+      {
+       "value": {
+        "min": "1",
+        "max": "1"
+       },
+       "source": "page",
+       "quote": "1\" G (ISO 228-1A) M"
+      }
+     ],
+     "quote": "[01085_NA.pdf.txt] Main connections: 3⁄4\" NPT male union | [01085_NA.pdf.txt] 3⁄4\" and 1\" press"
+    },
+    "sizes_available": {
+     "value": [
+      "3/4",
+      "1"
+     ],
+     "unit": "in",
+     "cross_check": "refines",
+     "display_source": "pdf",
+     "alt_values": [
+      {
+       "value": [
+        "1"
+       ],
+       "source": "page",
+       "quote": "1\" G (ISO 228-1A) M"
+      }
+     ],
+     "quote": "[01085_NA.pdf.txt] 3⁄4\" sweat union\n3⁄4\" and 1\" press"
+    },
+    "size_unit": {
+     "value": "in",
+     "unit": null,
+     "cross_check": "agree",
+     "display_source": "pdf",
+     "alt_values": [],
+     "quote": "[01085_NA.pdf.txt] 3⁄4\" and 1\" press | [page0.txt] 1\" G (ISO 228-1A) M"
+    },
+    "material_body": {
+     "value": "brass",
+     "unit": null,
+     "cross_check": "pdf_only",
+     "display_source": "pdf",
+     "alt_values": [],
+     "quote": "[01085_NA.pdf.txt] Materials - body: brass"
+    },
+    "end_connections": {
+     "value": [
+      "NPT",
+      "union",
+      "solder",
+      "press"
+     ],
+     "unit": null,
+     "cross_check": "conflict",
+     "display_source": "pdf",
+     "alt_values": [
+      {
+       "value": [
+        "threaded",
+        "union"
+       ],
+       "source": "page",
+       "quote": "connection: 1\" straight thread M, union."
+      }
+     ],
+     "quote": "[01085_NA.pdf.txt] Main connections: 3⁄4\" NPT male union\n3⁄4\" sweat union\n3⁄4\" and 1\" press",
+     "raw_text": "sheet: 3/4\" NPT male union, 3/4\" sweat union, 3/4\" and 1\" press; page: 1\" G (ISO 228-1A) M body only (end_connections_other: G / ISO 228-1A)"
+    },
+    "pressure_rating": {
+     "value": 365,
+     "unit": "psi",
+     "cross_check": "pdf_only",
+     "display_source": "pdf",
+     "alt_values": [],
+     "quote": "[01085_NA.pdf.txt] Max. working pressure: 365 psi (25 bar)"
+    },
+    "temperature_range": {
+     "value": {
+      "min": null,
+      "max": 140
+     },
+     "unit": "°F",
+     "cross_check": "pdf_only",
+     "display_source": "pdf",
+     "alt_values": [],
+     "quote": "[01085_NA.pdf.txt] Max. working temperature: 140°F (60°C)"
+    },
+    "standards": {
+     "value": [
+      "ISO 228-1A"
+     ],
+     "unit": null,
+     "cross_check": "page_only",
+     "display_source": "page",
+     "alt_values": [],
+     "quote": "[page0.txt] 1\" G (ISO 228-1A) M"
+    },
+    "applications": {
+     "value": [
+      "commercial"
+     ],
+     "unit": null,
+     "cross_check": "page_only",
+     "display_source": "page",
+     "alt_values": [],
+     "quote": "[page0.txt] Automatic filling valve (commercial applications)"
+    }
+   },
+   "variant_overrides": {},
+   "notes": "Page is the 5350 body-only item (535951A, 1\" G male, union). The 4-page 5350 technical brochure 01085_NA is the family spec sheet (displayed per SPEC 6a) but lists complete valves 535051A/535056A/535059A/535066A, which belong to the separate related 5350 AutoFill page, so they are not variants here. Result: size_range conflict (sheet 3/4-1 vs page 1), end_connections conflict (page G thread not on sheet). Sheet 'closed hydronic systems' maps to no applications term. IOM NA38445 adds PEX crimp union and 'Do not use in plumbing applications' -- not a cross-check source."
+  },
+  {
+   "family_id": "caleffi-na162",
+   "variants": [
+    {
+     "sku": "NA16265L",
+     "size": "3/4\""
+    },
+    {
+     "sku": "NA16266L",
+     "size": "1\""
+    },
+    {
+     "sku": "NA16265LC",
+     "size": "3/4\""
+    },
+    {
+     "sku": "NA16266LC",
+     "size": "1\""
+    }
+   ],
+   "documents": [
+    {
+     "filename": "03511_NA.pdf",
+     "doc_type": "catalog"
+    },
+    {
+     "filename": "NA10347.pdf",
+     "doc_type": "iom_manual"
+    }
+   ],
+   "cad": [],
+   "images": [
+    {
+     "url": "https://www.caleffi.com/sites/default/files/product/cover/na16265l.jpg",
+     "keep": true,
+     "image_type": "product_photo",
+     "why": "product view; largest referenced rendition, no phash duplicate within distance 2"
+    },
+    {
+     "url": "https://www.caleffi.com/sites/default/files/styles/container100_xxxl/public/media/external-image/na16265l.png.webp?itok=h0AZZIj0",
+     "keep": false,
+     "image_type": "product_photo",
+     "why": "same image as product/cover/na16265l.jpg (phash distance 0, same 591 px); kept the cover file"
+    },
+    {
+     "url": "https://www.caleffi.com/sites/default/files/styles/file_cover/public/media/external-image/na16265l.png.webp?itok=FkwShGGH",
+     "keep": false,
+     "image_type": "other",
+     "why": "shortest side < 300 px (160 px file_cover thumbnail)"
+    }
+   ],
+   "specs": {
+    "size_range": {
+     "value": {
+      "min": "3/4",
+      "max": "1"
+     },
+     "unit": "in",
+     "cross_check": "page_only",
+     "display_source": "page",
+     "alt_values": [],
+     "quote": "[page0.txt] 3/4\" Press | [page0.txt] 1\" Press"
+    },
+    "sizes_available": {
+     "value": [
+      "3/4",
+      "1"
+     ],
+     "unit": "in",
+     "cross_check": "page_only",
+     "display_source": "page",
+     "alt_values": [],
+     "quote": "[page0.txt] Connection: 3/4\" Press. | [page0.txt] Connection: 1\" Press."
+    },
+    "size_unit": {
+     "value": "in",
+     "unit": null,
+     "cross_check": "page_only",
+     "display_source": "page",
+     "alt_values": [],
+     "quote": "[page0.txt] Connection: 1\" Press."
+    },
+    "material_body": {
+     "value": "copper",
+     "unit": null,
+     "cross_check": "page_only",
+     "display_source": "page",
+     "alt_values": [
+      {
+       "value": "annealed copper",
+       "source": "03511_NA.pdf (catalog)",
+       "quote": "Annealed copper body"
+      }
+     ],
+     "quote": "[page0.txt] Long copper press tail piece with 1\" brass union nut"
+    },
+    "end_connections": {
+     "value": [
+      "press",
+      "union"
+     ],
+     "unit": null,
+     "cross_check": "page_only",
+     "display_source": "page",
+     "alt_values": [],
+     "quote": "[page0.txt] Connection: 3/4\" Press. | [page0.txt] Long Press with 1\" union slip nut"
+    },
+    "pressure_rating": {
+     "value": 200,
+     "unit": "psi",
+     "cross_check": "pdf_only",
+     "display_source": "pdf",
+     "alt_values": [],
+     "quote": "[03511_NA.pdf.txt] MAX. WORKING PRESSuRE 200 psi (14 bar)"
+    },
+    "temperature_range": {
+     "value": {
+      "min": 0,
+      "max": 250
+     },
+     "unit": "°F",
+     "cross_check": "pdf_only",
+     "display_source": "pdf",
+     "alt_values": [],
+     "quote": "[03511_NA.pdf.txt] Temperature range of 0°F—250°F with pressure | [03511_NA.pdf.txt] MAX. WORKING TEMPERATuRE: 250°F (120°C)"
+    },
+    "certifications": {
+     "value": [
+      "NSF/ANSI 372"
+     ],
+     "unit": null,
+     "cross_check": "pdf_only",
+     "display_source": "pdf",
+     "alt_values": [],
+     "quote": "[03511_NA.pdf.txt] Low-lead are certified to NSF/ANSI 372."
+    }
+   },
+   "variant_overrides": {},
+   "notes": "Variants: NA16265L from the page heading/breadcrumb (size from the catalog line 'NA16265L ¾\" long press with 1\" union slip nut') + the 3 part-number rows. 03511_NA ('Sell sheet', 4 pp Presscon product selector for many products with codes) = catalog, the only PDF with ratings, so pressure/temperature/certification are pdf_only from a range-wide catalog statement. 'conforming to ASTM-B88' qualifies the copper pipe, not this product -> no standard. 'hydronic systems' maps to no applications term. NA10347 = Presscon install/test guide -> iom_manual. Material from the product name ('copper press tail piece'), union nut brass kept as other material."
+  },
+  {
+   "family_id": "caleffi-na39753",
+   "variants": [
+    {
+     "sku": "NA39753",
+     "size": "1\""
+    },
+    {
+     "sku": "NA39588",
+     "size": "1 1/4\""
+    },
+    {
+     "sku": "NA59600",
+     "size": "2\""
+    }
+   ],
+   "documents": [],
+   "cad": [],
+   "images": [
+    {
+     "url": "https://www.caleffi.com/sites/default/files/product/cover/NA39753.jpg",
+     "keep": true,
+     "image_type": "product_photo",
+     "why": "product view; largest referenced rendition, no phash duplicate within distance 2"
+    },
+    {
+     "url": "https://www.caleffi.com/sites/default/files/styles/container100_xxxl/public/media/external-image/NA39753.png.webp?itok=dYdEwFAE",
+     "keep": false,
+     "image_type": "product_photo",
+     "why": "same image as product/cover/NA39753.jpg (phash distance 0, same 2000 px); kept the cover file"
+    },
+    {
+     "url": "https://www.caleffi.com/sites/default/files/styles/file_cover/public/product/cover/NA39589.jpg.webp?itok=uDGmraPo",
+     "keep": false,
+     "image_type": "other",
+     "why": "shortest side < 300 px (160 px file_cover thumbnail); also a different product (related-product thumbnail)"
+    }
+   ],
+   "specs": {
+    "size_range": {
+     "value": {
+      "min": "1",
+      "max": "2"
+     },
+     "unit": "in",
+     "cross_check": "page_only",
+     "display_source": "page",
+     "alt_values": [],
+     "quote": "[page0.txt] Size:\n1”, 1-¼”, 2”"
+    },
+    "sizes_available": {
+     "value": [
+      "1",
+      "1 1/4",
+      "2"
+     ],
+     "unit": "in",
+     "cross_check": "page_only",
+     "display_source": "page",
+     "alt_values": [],
+     "quote": "[page0.txt] Size:\n1”, 1-¼”, 2”"
+    },
+    "size_unit": {
+     "value": "in",
+     "unit": null,
+     "cross_check": "page_only",
+     "display_source": "page",
+     "alt_values": [],
+     "quote": "[page0.txt] Connection: 1 1/4\" NPT female."
+    },
+    "end_connections": {
+     "value": [
+      "NPT"
+     ],
+     "unit": null,
+     "cross_check": "page_only",
+     "display_source": "page",
+     "alt_values": [],
+     "quote": "[page0.txt] Connection Type:\nNPT Female"
+    }
+   },
+   "variant_overrides": {},
+   "notes": "Accessory (replacement drain ball valve). The 'Compatible with' series (546/NA546, 5465/NA5465, 548/NA548, 5495/NA549, 551, NA546, NA549) are models of other families -> additional_specs, not variants. No PDFs or CAD linked; no material/pressure/temperature stated."
+  }
+ ]
+}
