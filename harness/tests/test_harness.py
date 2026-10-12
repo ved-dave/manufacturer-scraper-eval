@@ -241,6 +241,7 @@ class TestScore(unittest.TestCase):
         r = score_siterun(g, copy.deepcopy(g), 'bray')
         lab = r['labelled']
         self.assertEqual(r['family_index']['recall'], 1.0)
+        self.assertEqual(r['family_index']['dedup_rate'], 1.0)
         self.assertEqual(lab['documents_primary']['recall'], 1.0)
         self.assertEqual(lab['documents_primary']['precision'], 1.0)
         self.assertEqual(lab['images']['recall'], 1.0)
@@ -249,6 +250,19 @@ class TestScore(unittest.TestCase):
         self.assertEqual(lab['spec_completeness'], 1.0)
         self.assertEqual(lab['conflict_detection']['recall'], 1.0)
         self.assertEqual(lab['price']['amount_accuracy'], 1.0)
+
+    def test_duplicate_families_lower_dedup_rate(self):
+        g = gold_fixture()
+        p = copy.deepcopy(g)
+        dup = copy.deepcopy(p['families'][0])
+        dup['family_id'] += '-2'
+        dup['canonical_url'] = dup['variants'][0]['page_url']           # same key family found twice
+        p['families'].append(dup)
+        fi = score_siterun(g, p, 'bray')['family_index']
+        self.assertEqual(fi['precision'], 1.0)                          # duplicates don't lower precision
+        self.assertEqual(fi['duplicate_families'], 1)
+        n = len(g['family_index'])
+        self.assertEqual(fi['dedup_rate'], round(n / (n + 1), 4))
 
     def test_degraded_prediction(self):
         g = gold_fixture()

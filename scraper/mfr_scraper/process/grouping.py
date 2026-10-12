@@ -6,6 +6,7 @@ lists several models (a whole-family page) stays its own family. Rules, each rec
   R2  the same spec sheet/submittal linked from a small set of pages that share breadcrumb leaf and model code
       (a series-wide sheet such as "778 series" does not merge 778V with 778VS: different model codes)
   R3  an "other sizes" / variant block linking the pages to each other (same breadcrumb leaf)
+  R4  each page lists the other's part number in its own item table (same breadcrumb leaf + identifier stem)
 Pages that share leaf and stem but no other evidence are reported as unsure (family_grouping).
 """
 import collections
@@ -79,8 +80,9 @@ def page_info(rec):
             'single': bool(ident) and not is_whole_family(rec)}
 
 
-def group_pages(recs, ctx_of=lambda r: {}):
-    """-> (groups [[rec]], evidence {group index: [str]}, unsure [dict])."""
+def group_pages(recs, ctx_of=lambda r: {}, links=()):
+    """-> (groups [[rec]], evidence {group index: [str]}, unsure [dict]).
+    links: verified (url_a, url_b, evidence) answers from the resolver, merged as they are."""
     n = len(recs)
     parent = list(range(n))
     why = collections.defaultdict(list)
@@ -140,6 +142,23 @@ def group_pages(recs, ctx_of=lambda r: {}):
             if j is None or j == i or not SIZE_SECTION.search(sec) or not info[j]['single'] or info[j]['leaf'] != info[i]['leaf']:
                 continue
             union(i, j, f'R3 "{sec}" block links the pages (breadcrumb leaf "{info[i]["leaf"]}")')
+    # R4
+    cells = [{c.strip().upper() for row in r.tables for c in row} if info[i]['single'] else set() for i, r in enumerate(recs)]
+    by_ident = collections.defaultdict(list)
+    for i, inf in enumerate(info):
+        if inf['single'] and inf['stem']:
+            by_ident[inf['identifier']].append(i)
+    for i, inf in enumerate(info):
+        if not (inf['single'] and inf['stem']):
+            continue
+        for j in (j for c in cells[i] for j in by_ident.get(c, ())):
+            if j > i and inf['identifier'] in cells[j] and (info[j]['leaf'], info[j]['stem']) == (inf['leaf'], inf['stem']):
+                union(i, j, f'R4 item tables list each other: {recs[i].url} lists {info[j]["identifier"]}, '
+                            f'{recs[j].url} lists {inf["identifier"]} (breadcrumb leaf "{inf["leaf"]}")')
+    for ua, ub, ev in links:
+        i, j = by_url.get(N.match_key(ua)), by_url.get(N.match_key(ub))
+        if i is not None and j is not None and i != j:
+            union(i, j, ev)
 
     roots = collections.OrderedDict()
     for i in range(n):

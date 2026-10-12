@@ -5,6 +5,7 @@
     python -m mfr_scraper run --site <site> --url <product-url> # specific pages
     python -m mfr_scraper discover --site <site>              # templates + product URL count only
     python -m mfr_scraper process --site <site> --links <file> # Approach B: link file (L0 csv / L1 jsonl) -> SiteRun
+    python -m mfr_scraper resolve --site <site> --decisions <run>/<site>.decisions.jsonl  # Phase 3: answer unsure items
 
 Sites in the test/challenge splits are held out: running on them requires --allow-holdout,
 which should only be used for final evaluation, never while tuning the scraper.
@@ -24,7 +25,7 @@ def peak_rss_mb():
 
 def main(argv=None):
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
-    ap.add_argument('command', choices=['run', 'discover', 'process'])
+    ap.add_argument('command', choices=['run', 'discover', 'process', 'resolve'])
     ap.add_argument('--site', required=True, help='name for outputs; an evaluation site, or any name with --input-url')
     ap.add_argument('--input-url', help="manufacturer homepage (needed for sites not in harness/config/sites.json)")
     ap.add_argument('--use-config-hosts', action='store_true', help='use configured allowed hosts instead of auto-detection')
@@ -35,6 +36,12 @@ def main(argv=None):
     ap.add_argument('--links', help='process: link file, L0 (url,url_type CSV) or L1 (JSONL)')
     ap.add_argument('--level', choices=['L0', 'L1'], help='process: link file level (default: by extension)')
     ap.add_argument('--offline', action='store_true', help='process: never request; use only cached responses')
+    ap.add_argument('--resolutions', help='process: apply verified resolver answers (<site>.resolutions.jsonl)')
+    ap.add_argument('--decisions', help='resolve: the run\'s <site>.decisions.jsonl')
+    ap.add_argument('--model', default='claude-sonnet-4-5', help='resolve: model id')
+    ap.add_argument('--budget-usd', type=float, default=10.0, help='resolve: stop asking new questions past this spend')
+    ap.add_argument('--usd-per-mtok', type=float, nargs=2, default=[3.0, 15.0], metavar=('IN', 'OUT'),
+                    help='resolve: model price per million input / output tokens')
     ap.add_argument('--allow-holdout', action='store_true', help='permit test/challenge sites (final eval only)')
     args = ap.parse_args(argv)
 
@@ -43,12 +50,23 @@ def main(argv=None):
         print(f"'{args.site}' is in the {split} split (held out). Use --allow-holdout only for final evaluation.")
         return 2
 
+    if args.command == 'resolve':
+        if not args.decisions:
+            ap.error('resolve needs --decisions <file>')
+        from pathlib import Path
+        from .process.resolve import anthropic_backend, resolve
+        out = Path(args.decisions).with_name(f'{args.site}.resolutions.jsonl')
+        resolve(args.site, args.decisions, out, anthropic_backend(args.model), args.model,
+                Path(args.out) / 'resolver-cache' / f'{args.site}.json', args.budget_usd, *args.usd_per_mtok, limit=args.limit)
+        print(f'wrote {out}')
+        return 0
+
     if args.command == 'process':
         if not args.links:
             ap.error('process needs --links <file>')
         from .process.run import ProcessRun, write_process_outputs
         runner = ProcessRun(args.site, args.links, level=args.level, out_dir=args.out, input_url=args.input_url,
-                            refresh=args.refresh, offline=args.offline)
+                            refresh=args.refresh, offline=args.offline, resolutions=args.resolutions)
         run = runner.run()
         path = write_process_outputs(run, runner.decisions, args.out)
         print(f'\nwrote {path} and {args.site}.decisions.jsonl')

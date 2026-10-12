@@ -161,16 +161,18 @@ def family_price_page(pages):
     return next((r for r in pages if r.price['availability'] != 'not_published'), pages[0])
 
 
-def accessory_families(families, keep_grouped_pages=False):
+def accessory_families(families, keep_grouped_pages=False, grouped=()):
     """SPEC 3: models listed on an accessory page that are variants of another family are not its variants.
 
     A family whose identifiers are a strict subset of another family's identifiers loses them; its price status
     moves to family_prices (SPEC 7). With keep_grouped_pages, a family whose variants are its own grouped pages
-    (more than one page_url) keeps them: those pages are the family's provenance. Returns the families changed."""
+    (more than one page_url), or whose canonical_url is in grouped, keeps them: those pages are the family's
+    provenance. Returns the families changed."""
     sets = [{N.norm_token(v['sku']) for v in f.get('variants') or []} for f in families]
     changed = []
     for f, mine in zip(families, sets):
-        if keep_grouped_pages and len({v.get('page_url') for v in f.get('variants') or []}) > 1:
+        if keep_grouped_pages and (len({v.get('page_url') for v in f.get('variants') or []}) > 1
+                                   or f.get('canonical_url') in grouped):
             continue
         if mine and any(mine < other for other in sets):
             prices = [p for v in f['variants'] for p in v.get('prices') or []]

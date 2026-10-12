@@ -23,6 +23,7 @@ from ..pdfcache import ParsedPdfCache
 from ..settings import (AGENT_NAME, AGENT_VERSION, CACHE_DIR, CHROME_MIN_PAGES, CHROME_SHARE, MAX_IMAGES_PER_FAMILY,
                         MAX_PDFS_PER_FAMILY, N, PHASH_SAME_IMAGE, PRODUCT_SCORE_THRESHOLD)
 from . import grouping as G
+from .resolve import same_family_links
 from .context import canonical_of, link_context
 from .fetching import AssetPrefetcher, HostQueueFetcher
 from .readers import read_links
@@ -65,10 +66,27 @@ def apply_spec_table(signals, has_spec_table):
         signals.pop('spec_pairs', None)
 
 
+def grouped_variants(fam, pages, price_of):
+    """Every page grouped into a family is one of its variants (its part number), so the family's pages and
+    provenance stay complete even when the page carries no SKU the variant extractor recognises."""
+    have_pages = {v.get('page_url') for v in fam['variants']}
+    have_skus = {N.norm_token(v['sku']) for v in fam['variants']}
+    for r in pages:
+        ident = G.identifier_of(r)
+        if r.url in have_pages or not ident or N.norm_token(ident) in have_skus:
+            continue
+        fam['variants'].append({'sku': ident, 'size': None, 'page_url': r.url, 'prices': [price_of(r)]})
+        have_skus.add(N.norm_token(ident))
+    if fam['variants']:
+        fam.pop('family_prices', None)
+    fam['_grouped'] = True
+
+
 class ProcessRun(SiteRun):
     def __init__(self, site, links_path, level=None, out_dir=None, input_url=None, refresh=False, offline=False,
-                 log=print, allowed_hosts=None, fetcher=None, prefetch=True):
+                 log=print, allowed_hosts=None, fetcher=None, prefetch=True, resolutions=None):
         super().__init__(site, refresh=refresh, log=log, out_dir=out_dir, input_url=input_url)
+        self.resolved_links = same_family_links(resolutions) if resolutions else []
         self.fetcher = fetcher or HostQueueFetcher(site, cache_name=f'{site}.process', refresh=refresh, log=log,
                                                    offline=offline)
         self.pdf_cache = ParsedPdfCache(root=CACHE_DIR / 'parsed-pdf.process')
@@ -709,7 +727,7 @@ class ProcessRun(SiteRun):
             counts.update({N.match_key(u, drop_asset_params=True) for u, _ in r.doc_links} | {N.image_key(c[0]) for c in r.image_cands})
         chrome = {k for k, c in counts.items() if c / len(recs) > CHROME_SHARE and c >= 3} if len(recs) >= CHROME_MIN_PAGES else set()
         # 4. family grouping
-        groups, evidence, g_unsure = G.group_pages(products, lambda r: self.ctx.get(r.url))
+        groups, evidence, g_unsure = G.group_pages(products, lambda r: self.ctx.get(r.url), self.resolved_links)
         self.doc_fam_counts, family_counts = collections.Counter(), collections.Counter()
         for g in groups:
             self.doc_fam_counts.update({N.match_key(u, drop_asset_params=True) for r in g for u, _ in r.doc_links})
@@ -743,6 +761,7 @@ class ProcessRun(SiteRun):
             fam['series_code'] = self._cur['series_code']
             if len(g) > 1:
                 fam['name'] = self._cur['name']
+                grouped_variants(fam, g, self.page_price)
             self.spec_conflicts(fam)
             ids[fam['family_id']] += 1
             if ids[fam['family_id']] > 1:
@@ -754,8 +773,11 @@ class ProcessRun(SiteRun):
                 self.log(f'  families {i}/{len(groups)}')
         self._cur = None
         n_orphans = self.assign_orphans(families, kept_refs, recs)
-        for fam in accessory_families(families, keep_grouped_pages=True):
+        for fam in accessory_families(families, keep_grouped_pages=True,
+                                      grouped={f['canonical_url'] for f in families if f.get('_grouped')}):
             self.flag('accessory_models_not_variants', fam['canonical_url'])
+        for fam in families:
+            fam.pop('_grouped', None)
         self.evidence.write_manifest()
 
         def pct(pred):

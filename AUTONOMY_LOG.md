@@ -558,3 +558,18 @@ Measured on bray, crane, cimberio (Sioux Chief re-processed from cache at the en
   - A follow-up commit moved the override after the normal keep branch: 3,929 already-kept pages had been logged as
     unsure. The product set is unchanged. The Sioux Chief re-run confirmed it: identical scores and identical
     SiteRun apart from `retrieved_at` timestamps, `page_role` unsure 2,052, 0 validation errors, 55:38 offline.
+- Grouping R4 + resolver (post-round, user-approved "B"):
+  - Added `duplicate_families`/`dedup_rate` to the family scorer and the keep-rule script. The first version counted
+    every key overlap, so it was changed to a best-match assignment.
+  - Measured grouping clues on the 1,648 Sioux Chief `family_grouping` questions:
+    - stem + leaf: 47% right;
+    - same title + same non-size specs: 96% right, 55% of true pairs;
+    - reciprocal item tables: 542 right, 2 wrong, 70% of true pairs.
+    Kept the last clue as R4, with same-leaf and same-stem guards.
+  - First R4 Sioux Chief run: 10 `found_on` errors, because grouped pages without a recognised SKU were missing from
+    the variants. Fixed with `grouped_variants`, plus a test. The re-run gave 0 errors.
+  - Result: 5,725 → 4,574 families; dedup 0.107 → 0.137; variants 8 → 34 of 179; `family_grouping` unsure
+    1,648 → 497. The keep rule fails on the Sioux Chief main-doc and spec-completeness drops (`643WG2` canonical
+    shift, `304-06` series-only match). Bray, Crane and Cimberio are identical.
+  - Resolver (`resolve` command) built and unit-tested: quote check, cache, budget, no answer keys. Not run, because
+    no model credential was available.

@@ -217,6 +217,19 @@ class TestGrouping(unittest.TestCase):
         a = self.rec('https://x.example/p/S30', 'Series 30', ['Valves'], tables=table)
         self.assertFalse(G.page_info(a)['single'])
 
+    def test_pages_listing_each_other_in_item_tables_merge(self):   # sioux-chief 113-32 / 113-33
+        crumbs = ['Products', 'Valves', 'Sillcocks/Hydrants']
+        items = [['Item No', 'Description'], ['113-32', '1/2" MIP'], ['113-33', '3/4" MIP']]
+        a = self.rec('https://x.example/Products/113-32', '113-32', crumbs, tables=items)
+        b = self.rec('https://x.example/Products/113-33', '113-33', crumbs, tables=items)
+        c = self.rec('https://x.example/Products/113-40', '113-40', crumbs, tables=[['Item No', 'Description'], ['113-40', 'x'], ['113-32', 'y']])
+        d = self.rec('https://x.example/Products/113-41', '113-41', ['Products', 'Drains'], tables=[['113-41', 'x'], ['113-32', 'y']])
+        groups, ev, unsure = G.group_pages([a, b, c, d])
+        self.assertEqual(sorted(len(g) for g in groups), [1, 1, 2])     # c is listed by nobody, d is in another category
+        merged = next(i for i, g in enumerate(groups) if len(g) == 2)
+        self.assertEqual({r.url for r in groups[merged]}, {a.url, b.url})
+        self.assertTrue(ev[merged][0].startswith('R4 '))
+
     def test_grouped_pages_keep_their_variants(self):   # sioux-chief: spec PDF found_on a grouped page lost its variant
         from mfr_scraper.pipeline import accessory_families
         pr = [{'availability': 'request_quote'}]
@@ -227,6 +240,55 @@ class TestGrouping(unittest.TestCase):
         self.assertEqual([v['page_url'] for v in grouped['variants']], ['g', 'g-r'])
         self.assertEqual(accessory_families([table, grouped]), [grouped])
 
+
+    def test_every_grouped_page_becomes_a_variant(self):   # sioux-chief 871-4 + 871-16: spec PDF found_on 871-16
+        from mfr_scraper.process.run import grouped_variants
+        a = self.rec('https://x.example/Products/871-4', '871-4', ['Cleanouts'])
+        b = self.rec('https://x.example/Products/871-16', '871-16', ['Cleanouts'])
+        fam = {'variants': [], 'family_prices': [{'availability': 'not_published'}]}
+        grouped_variants(fam, [a, b], lambda r: {'availability': 'not_published'})
+        self.assertEqual([(v['sku'], v['page_url']) for v in fam['variants']], [('871-4', a.url), ('871-16', b.url)])
+        self.assertNotIn('family_prices', fam)
+
+class TestResolver(unittest.TestCase):
+    def setUp(self):
+        import tempfile
+        from pathlib import Path
+        self.dir = Path(tempfile.mkdtemp())
+        dec = {'decision': 'unsure', 'unsure_kind': 'family_grouping', 'cache_key': 'k1', 'question': 'same?',
+               'candidate': {'url': 'https://x.example/a'}, 'family': {'canonical_url': 'https://x.example/b'}}
+        (self.dir / 'd.jsonl').write_text(json.dumps(dec) + '\n' + json.dumps({**dec, 'cache_key': 'k1'}) + '\n')
+        self.texts = {'https://x.example/a': 'Brass Boiler Drain\n1/2" MIP', 'https://x.example/b': 'Brass Boiler Drain\n3/4" MIP'}
+
+    def run_resolver(self, reply, budget=1.0):
+        from unittest import mock
+        from mfr_scraper.process import resolve as R
+        calls = []
+
+        def ask(prompt):
+            calls.append(prompt)
+            return reply, 1000, 100
+        with mock.patch.object(R, 'page_text', lambda f, u: self.texts.get(u)), mock.patch.object(R, 'HostQueueFetcher'):
+            out, stats = R.resolve('x', self.dir / 'd.jsonl', self.dir / 'r.jsonl', ask, 'm', self.dir / 'c.json',
+                                   budget, 3.0, 15.0, log=lambda *a: None)
+        return out, stats, calls
+
+    def test_verified_answer_is_cached_and_applied(self):
+        from mfr_scraper.process.resolve import same_family_links
+        reply = '{"answer": "same", "quote_a": "brass boiler  drain", "quote_b": "Brass Boiler Drain", "reason": "sizes"}'
+        out, stats, calls = self.run_resolver(reply)
+        self.assertEqual((len(out), len(calls), stats['verified']), (1, 1, 1))     # duplicate question asked once
+        self.assertEqual(same_family_links(self.dir / 'r.jsonl')[0][:2], ('https://x.example/a', 'https://x.example/b'))
+        _, stats, calls = self.run_resolver(reply)
+        self.assertEqual((len(calls), stats['cached']), (0, 1))                    # never paid for twice
+
+    def test_unverifiable_quote_stays_unsure(self):
+        out, stats, _ = self.run_resolver('{"answer": "same", "quote_a": "Bronze Gate Valve", "quote_b": "Brass Boiler Drain"}')
+        self.assertEqual((out[0]['answer'], out[0]['verified'], stats['quote_failed']), ('unsure', False, 1))
+
+    def test_budget_stops_new_questions(self):
+        out, stats, calls = self.run_resolver('{"answer": "different"}', budget=0.0)
+        self.assertEqual((len(calls), stats['budget_stop'], out[0]['answer']), (0, 1, 'unsure'))
 
 
 class TestDownloadDeadline(unittest.TestCase):

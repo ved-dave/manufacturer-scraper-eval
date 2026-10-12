@@ -415,3 +415,66 @@ facet tables. None of those 48 pages are in the answer keys. That first version 
   the evidence ties it to another.
 - The next lever is family grouping (the resolver on `family_grouping`, or a stronger deterministic series rule),
   not page discovery or page roles.
+
+## 12. Family grouping rule R4 and resolver (post-round experiment, outside the 4-round rule)
+
+**Duplicate metric.** `family_index` now reports `duplicate_families` and `dedup_rate` (1.0 = one predicted family per
+key family). Each predicted family is assigned to its single best-matching key family, and repeats are counted. The
+keep-rule script reports `dedup`. Before R4: Bray and Cimberio 1.00, Crane 0.995, Sioux Chief 0.107 (current scraper
+0.103). So duplicates are the Sioux Chief gap for both systems.
+
+**R4 (deterministic).** Two single-product pages are merged only when:
+- each page lists the other's part number in its own item table;
+- both pages have the same breadcrumb leaf;
+- both identifiers have the same stem.
+
+Every merge records its evidence. On the 1,648 Sioux Chief `family_grouping` questions from Option A, this clue was
+right 542 times and wrong 2 times (both 615-series pairs). It covered 70% of the pairs the key calls the same family.
+Every page grouped into a family is also recorded as one of that family's variants, which keeps provenance complete.
+The first R4 run gave 10 `found_on` validation errors, and this fixed them.
+
+**Sioux Chief** (% of the key unless noted; offline from cache):
+
+| | Option A | R4 | Current scraper |
+|---|---|---|---|
+| Families produced (key: 700) | 5,725 | 4,574 | 6,324 |
+| Duplicates score | 0.107 | 0.137 | 0.103 |
+| Families found | 88.3 | 90.1 | 92.9 |
+| Multi-page families | 100 | 687 | – |
+| Variants found / correct (of 179) | 4.5 / 100 | 19.0 / 89.5 | 3 |
+| Price availability | 4 | 19 | 3 |
+| Images found / correct | 27 / 50 | 40 / 61 | 14 / 79 |
+| Main docs found / correct | 42.9 / 100 | 39.3 / 91.7 | 46 |
+| Other docs correct | 100 | 96.3 | – |
+| CAD | 71 | 57 | 14 |
+| Spec completeness | 34.6 | 31.8 | 29 |
+| `family_grouping` unsure | 1,648 | 497 | – |
+| Validation errors | 0 | 0 | 0 |
+| Offline processing time | 55:38 | 51:32 | – |
+
+- **Keep rule: fails.** The macro score rises 68.41 → 69.18 across the 4 sites. Sioux Chief main docs (found and correct) and
+  spec completeness each drop more than 2 points.
+- **Drop causes:**
+  - Key family `643WG2` spans the 643–647 WG series, and we still split it. With R4, its best match moved from a
+    `645WGC2` piece to a `643WG2` piece, which carries fewer files: main docs 3 → 2, and it also explains the CAD
+    and spec-completeness change. No file is lost; the other pieces still carry the files.
+  - Key family `304-06` (Deburring Tool) was not matched before. It now matches a non-key `304-1` cutting-tool family
+    on series only, which adds 2 false docs and 4 false variants. The `304-1` group itself (304-1, -08, -12, -12B) is
+    a legitimate R4 merge of pages outside the key.
+- **Bray, Crane, Cimberio:** identical scores. R4 never fires there.
+
+**Resolver (Phase 3, level 1): built, not run.** `python -m mfr_scraper resolve --decisions <file>` answers
+`family_grouping` unsure records from the cached page text only.
+- An answer is kept only if both quoted passages appear in the stored pages. Everything else stays unsure.
+- Answers are cached by question key and prompt version, and each record stores the model, cost and cached flag.
+- The run stops at `--budget-usd`.
+- `process --resolutions <file>` merges only verified "same" answers.
+- It never reads the answer keys.
+
+No model credential was available in this session, so it has not run. Estimate: about 3.4k input tokens per question,
+about $0.012 with Sonnet, so about $6 for the 497 remaining Sioux Chief questions.
+
+**What it shows:** item tables are a precise grouping clue. Variants rise 4 → 19 and duplicates fall by 1,151
+families. Duplicates are still at 0.137, though, and what's left (for example 643WG vs 644WG) needs judgement, so it's
+the resolver's job. The scorer also still credits only one piece of a split family, so canonical choice alone can
+move document and spec scores by several points.
