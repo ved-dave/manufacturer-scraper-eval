@@ -479,11 +479,12 @@ families. Duplicates are still at 0.137, though, and what's left (for example 64
 the resolver's job. The scorer also still credits only one piece of a split family, so canonical choice alone can
 move document and spec scores by several points.
 
-## 13. Resolver run on Sioux Chief (partial: 323 of 497 questions)
+## 13. Resolver run on Sioux Chief (stopped at 323 of 497 questions)
 
 The run used `resolve --backend claude-code --model sonnet`: Claude Code in print mode, signed in with the owner's Claude
-subscription, with no tools and no project context. The run hit the subscription's usage limit at 323 questions. It
-waits and resumes on its own, and this section will be updated with all 497.
+subscription, with no tools and no project context. The run hit the subscription's usage limit at 323 questions and
+was then stopped at the owner's decision (see "Why the run was stopped" below). The machine was signed out of the
+Claude account afterwards.
 
 **Answers:** 256 verified "different", 59 verified "same", 4 unparseable and 4 with quotes not found in the pages
 (those 8 stay unsure). At API prices this is about $0.027 per question, measured on the first 3; Claude Code adds
@@ -520,3 +521,19 @@ Series sillcock" with 118-C208). The quotes are real, so the quote check cannot 
   - At 58% precision on "same", this prompt is not good enough for automatic merging. Next: a stricter prompt that
     excludes parts and accessory pages (`fg-2`). It would have to be labelled as tuned on Sioux Chief and checked on
     another site before promotion.
+
+**Why the run was stopped (owner's decision, not resumed):**
+- Each "same family?" answer can merge at most two families into one. Even a perfect resolver on all 497 questions
+  could take Sioux Chief from 4,574 families to about 4,077 at best, against 700 in the key.
+- By the key, only about 1 in 4 of these pairs is truly the same family (77 of the 315 answered). So a perfect resolver
+  would remove about 120 families (estimate).
+- **Most duplicate families never become a question.** The unsure queue only holds pairs that already share a
+  part-number stem and category. The resolver cannot fix duplicates it is never asked about.
+- The answer key treats replacement-parts and accessory lines as their own families (`gold_meta` and
+  `sioux-chief.ambiguities.md`: "Accessories sold under their own catalog name are their own family"). That is the
+  main reason the "same" answers disagree with the key.
+
+**Conclusion:** the resolver is not the main lever for Sioux Chief grouping. The next lever is a better grouping clue
+that covers pairs the rules never ask about. A candidate (not tested) is the site's own category cards: the key's
+families were built from them (family = category + catalog name on the card). They are site data, not the key. Check
+first whether the old agent's link list contains those category pages.

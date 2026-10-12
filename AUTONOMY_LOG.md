@@ -581,4 +581,6 @@ Measured on bray, crane, cimberio (Sioux Chief re-processed from cache at the en
     - Key agreement, measured after the run: "same" 58%, "different" 83%.
   - Applying the 59 links: 4,574 → 4,515 families, dedup 0.137 → 0.139, variants 19.0 → 20.1. Keep rule passes;
     0 validation errors.
-  - The remaining 174 resume after the limit resets.
+  - Stopped there at the owner's decision; the remaining 174 were not asked. Each answer can merge at most 2
+    families, so even a perfect run could not get near 700, and most duplicates never become a question. Signed out
+    of Claude Code afterwards. Next lever (not tested): the site's category cards as a grouping clue.
