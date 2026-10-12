@@ -544,3 +544,7 @@ Measured on bray, crane, cimberio (Sioux Chief re-processed from cache at the en
   2+), and `has_spec_table: false` removed even a single recognised spec value, so pages fell under the product
   threshold. Now false only removes the spec-table signal, and the simulator uses 2+ rows. All L1 sites were
   regenerated and re-run; Bray's earlier L1 "+1 family correct" came from the same mechanism and is gone (macro 74.60 → 74.60).
+- Sioux Chief L1 after the fix: 0 validation errors; families, documents, CAD, specs, variants identical to the CSV run;
+  image precision 46 → 33 and best version 67 → 52 (no download for size-known images, so no perceptual-hash
+  dedup); 58,732 → 47,459 fetch attempts, 49:08 → 36:28 offline. Keep-rule script: macro 42.26 → 42.16, no key-metric
+  drop > 2. Note: the L1 redo script's score/validate steps used a wrong relative path; scores were re-run by hand.

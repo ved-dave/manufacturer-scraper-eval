@@ -1,6 +1,5 @@
 # Approach B proof of concept: processing the old agent's link files
 
-**Status: draft. The Sioux Chief L1 (simulated) numbers are filled in when that run finishes (marked pending).**
 
 ## Summary in plain language
 
@@ -19,8 +18,9 @@ LLM calls; every rule is deterministic.
   made about as many requests as the current scraper on Bray, and more on Cimberio.
 - **Blocked sites give nothing.** Dixon and Apollo block our page requests, so both produce 0 families (runs complete
   and validate with 0 errors).
-- **L1 (simulated from our cache) changes speed, not scores:** 6–21% fewer downloads, all page fetches replaced by
-  snapshots, scores within 1 point. The larger L1 benefits (blocked sites, items on pages we never fetched) can't be
+- **L1 (simulated from our cache) changes speed, not scores:** 6–20% fewer fetches (Sioux Chief 19%), all page
+  fetches replaced by snapshots, Sioux Chief offline processing 49 → 36 min. Scores are unchanged except image
+  precision (Bray −3, Sioux Chief −13), because images with known sizes skip the duplicate check. The larger L1 benefits (blocked sites, items on pages we never fetched) can't be
   simulated from our cache; they are estimates below.
 - **Sioux Chief, the large part-number site, is worse than the current scraper.** B finds 54% of the key's families
   (current scraper 93%), with 3,749 families against 700 in the key (current scraper 6,324). The old agent's list
@@ -123,25 +123,25 @@ specs, variants and prices can't be scored for it. All numbers are % against the
 
 | Metric | B (L0 CSV) | B (L1, simulated) | Current scraper | Old agent (inventory) |
 |---|---|---|---|---|
-| Families found | 54 | pending | 93 | 100 |
-| Duplicate families (scorer) | 3,625 | pending | 5,679 | – |
-| Families predicted | 3,749 | pending | 6,324 | – |
-| Labelled families found (of 15) | 11 | pending | 14 | – |
-| Primary docs recall | 43 | pending | 46 | 100 |
-| Primary docs precision | 100 | pending | 100 | – |
-| Secondary docs recall | 33 | pending | 90 | 100 |
-| CAD recall | 71 | pending | 14 | 100 |
-| CAD precision | 100 | pending | 100 | – |
-| Image recall | 22 | pending | 14 | 100 |
-| Image precision | 46 | pending | 79 | – |
-| Best image version rate | 67 | pending | 93 | 100 |
-| Variant recall | 6 | pending | 3 | – |
-| Variant precision | 100 | pending | 100 | – |
-| Spec accuracy | 17 | pending | 15 | – |
-| Spec completeness | 34 | pending | 29 | – |
-| Citation rate | 100 | pending | 100 | – |
-| Conflict detection | 0 of 8 (none flagged) | pending | 0 of 8 (none flagged) | – |
-| Price availability | 6 | pending | 3 | – |
+| Families found | 54 | 54 | 93 | 100 |
+| Duplicate families (scorer) | 3,625 | 3,625 | 5,679 | – |
+| Families predicted | 3,749 | 3,749 | 6,324 | – |
+| Labelled families found (of 15) | 11 | 11 | 14 | – |
+| Primary docs recall | 43 | 43 | 46 | 100 |
+| Primary docs precision | 100 | 100 | 100 | – |
+| Secondary docs recall | 33 | 33 | 90 | 100 |
+| CAD recall | 71 | 71 | 14 | 100 |
+| CAD precision | 100 | 100 | 100 | – |
+| Image recall | 22 | 21 | 14 | 100 |
+| Image precision | 46 | 33 | 79 | – |
+| Best image version rate | 67 | 52 | 93 | 100 |
+| Variant recall | 6 | 6 | 3 | – |
+| Variant precision | 100 | 100 | 100 | – |
+| Spec accuracy | 17 | 17 | 15 | – |
+| Spec completeness | 34 | 34 | 29 | – |
+| Citation rate | 100 | 100 | 100 | – |
+| Conflict detection | 0 of 8 (none flagged) | 0 of 8 (none flagged) | 0 of 8 (none flagged) | – |
+| Price availability | 6 | 6 | 3 | – |
 
 Family precision is 100 for both systems but not informative here: the scorer also matches a family by series code,
 and Sioux Chief's 700 key entries cover nearly every series. "Duplicate families" is the useful measure. B's family
@@ -292,9 +292,10 @@ the same code.
 | Bray | 0 errors, 311 warnings | 2,779 → 2,221 (−20%) | 0 (1,075 snapshots) | image precision 86 → 83 |
 | Crane | 0 errors, 3 warnings | 3,900 → 3,183 (−18%) | 0 (277 snapshots) | none |
 | Cimberio | 0 errors, 2,189 warnings | 572 → 540 (−6%) | 0 (32 snapshots) | none |
-| Sioux Chief | TBD | TBD | TBD | TBD |
+| Sioux Chief | 0 errors, 1,218 warnings | 58,732 → 47,459 (−19%) | 0 (6,851 snapshots) | image precision 46 → 33, best version 67 → 52, image recall 22 → 21; all other metrics unchanged |
 
-Macro over the three sites: 74.60 → 74.60; no metric drops more than 2 points. All L1 SiteRuns validate with
+Macro over Bray, Crane and Cimberio: 74.60 → 74.60; Sioux Chief: 42.26 → 42.16. No key metric drops more than 2
+points (image precision is not a key metric). All L1 SiteRuns validate with
 0 errors.
 
 - **Regression found on Sioux Chief and fixed (`f4ca6bb`):** the first L1 run lost 718 key pages (families found
@@ -303,7 +304,7 @@ Macro over the three sites: 74.60 → 74.60; no metric drops more than 2 points.
   under the product threshold and were dropped as listings. Now `false` only removes the spec-table signal, and the
   simulator uses 2+ rows. The Bray "families correct 93 → 94" from the first L1 run came from the same mechanism and
   is gone after the fix. All L1 numbers here are after the fix.
-- **Bray image precision −3:** with width/height in L1 the image isn't downloaded, so the perceptual-hash duplicate
+- **Image precision (Bray 86 → 83, Sioux Chief 46 → 33):** with width/height in L1 the image isn't downloaded, so the perceptual-hash duplicate
   check doesn't run, and 3 "-copy"/mobile renditions are kept as extra images. An L1 producer should emit a content
   hash, or the processor should still hash images it would keep.
 - **Why scores barely move:** the simulated L1 contains what the processor already rebuilds by fetching the page.
@@ -313,7 +314,8 @@ Macro over the three sites: 74.60 → 74.60; no metric drops more than 2 points.
 - **Blocked sites.** Dixon and Apollo: 0 families today because every page request is blocked. The old agent
   reached those pages, so its snapshots would be the only input that can produce families there.
 - **Cold-run time.** Page fetching was 1,053 s of Bray's 1,544 s cold run (68%); snapshots remove it, so ~17 min of
-  26. Sioux Chief: TBD.
+  26. Sioux Chief: page reading was 2 h 07 min of the 4 h 09 min cold run, so ~2 h with snapshots, under the 4 h
+  target (estimate). Offline processing from the same cache: 49:08 (CSV) → 36:28 (L1).
 - **Re-runs.** `etag`/`last_modified`/`content_length` allow skipping unchanged files; not exercised (no second crawl).
 - **Discovery.** Items the old agent never listed (Cimberio's price list, half its main documents) are not fixed by
   L1 fields; that needs better discovery in the agent.
@@ -344,7 +346,7 @@ path segments; let spec tables + spec downloads outweigh listing cues), worth ab
    the only way to get anything from sites that block us (Dixon, Apollo), and it removes all page fetching (68% of
    Bray's cold run). (b) `found_on`/`section`/`in_chrome`/`link_text`: exact link context even when a page can't be
    re-fetched. (c) image `width`/`height`/`srcset` plus a content hash (without the hash, duplicate renditions slip
-   through: Bray image precision −3). (d) `etag`/`last_modified`/`content_length` for cheap re-runs. Page facts
+   through: Bray image precision −3, Sioux Chief −13). (d) `etag`/`last_modified`/`content_length` for cheap re-runs. Page facts
    (`breadcrumb`, `jsonld_product`, `has_spec_table`) are useful but we already rebuild them from the snapshot.
 2. **Fix discovery gaps in the agent separately.** Cimberio's price list and half its main documents were never
    listed; no L1 field fixes that.
