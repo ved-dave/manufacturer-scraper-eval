@@ -58,8 +58,8 @@ specs, variants and prices can't be scored for it. All numbers are % against the
 | Metric | B (L0 CSV) | B (L1, simulated) | Current scraper | Old agent (inventory) |
 |---|---|---|---|---|
 | Families found | 97 | 97 | 97 | 100 |
-| Families correct (precision) | 93 | 94 | 82 | – |
-| Families predicted | 107 | 106 | 122 | – |
+| Families correct (precision) | 93 | 93 | 82 | – |
+| Families predicted | 107 | 107 | 122 | – |
 | Primary docs recall | 93 | 93 | 93 | 100 |
 | Primary docs precision | 100 | 100 | 100 | – |
 | Secondary docs recall | 95 | 95 | 95 | 100 |
@@ -289,15 +289,20 @@ the same code.
 
 | Site | L1 file validation | Fetch attempts L0 → L1 | Page fetches L1 | Macro-relevant score changes |
 |---|---|---|---|---|
-| Bray | 0 errors, 311 warnings | 2,779 → 2,205 (−21%) | 0 (1,075 snapshots) | families correct 93 → 94; image precision 86 → 83 |
-| Crane | 0 errors, 3 warnings | 3,926 → 3,183 (−19%) | 0 (277 snapshots) | none |
+| Bray | 0 errors, 311 warnings | 2,779 → 2,221 (−20%) | 0 (1,075 snapshots) | image precision 86 → 83 |
+| Crane | 0 errors, 3 warnings | 3,900 → 3,183 (−18%) | 0 (277 snapshots) | none |
 | Cimberio | 0 errors, 2,189 warnings | 572 → 540 (−6%) | 0 (32 snapshots) | none |
 | Sioux Chief | TBD | TBD | TBD | TBD |
 
-Macro over the three sites: 74.60 → 74.63; no metric drops more than 2 points. All L1 SiteRuns validate with
+Macro over the three sites: 74.60 → 74.60; no metric drops more than 2 points. All L1 SiteRuns validate with
 0 errors.
 
-- **Bray families +1:** `has_spec_table: false` and no product JSON-LD on `/resources` stop it from being a family.
+- **Regression found on Sioux Chief and fixed (`f4ca6bb`):** the first L1 run lost 718 key pages (families found
+  54 → 43). The simulator set `has_spec_table` only for 3+ label/value rows (the documented definition is 2+), and
+  the processor treated `false` as "no spec values at all", removing even a single recognised spec value. Pages fell
+  under the product threshold and were dropped as listings. Now `false` only removes the spec-table signal, and the
+  simulator uses 2+ rows. The Bray "families correct 93 → 94" from the first L1 run came from the same mechanism and
+  is gone after the fix. All L1 numbers here are after the fix.
 - **Bray image precision −3:** with width/height in L1 the image isn't downloaded, so the perceptual-hash duplicate
   check doesn't run, and 3 "-copy"/mobile renditions are kept as extra images. An L1 producer should emit a content
   hash, or the processor should still hash images it would keep.
