@@ -84,6 +84,39 @@ def anthropic_backend(model, api_key=None):
     return ask
 
 
+def claude_code_backend(model, binary='claude', limit_wait_s=600, max_limit_waits=36):
+    """Claude Code in print mode, signed in with a Claude subscription: no tools, no project context, our prompt only.
+    On a usage-limit reply it waits and retries (up to max_limit_waits * limit_wait_s)."""
+    import subprocess
+    import tempfile
+    workdir = tempfile.mkdtemp(prefix='resolver-')
+    cmd = [binary, '-p', '--output-format', 'json', '--model', model, '--tools', '', '--setting-sources', '',
+           '--system-prompt', 'You answer with one JSON object only.']
+
+    def ask(prompt):
+        errors = limit_waits = 0
+        while True:
+            p = subprocess.run(cmd, input=prompt, capture_output=True, text=True, cwd=workdir, timeout=600)
+            try:
+                j = json.loads(p.stdout)
+            except ValueError:
+                j = {}
+            if p.returncode == 0 and j and not j.get('is_error'):
+                u = j.get('usage') or {}
+                tin = sum(u.get(k) or 0 for k in ('input_tokens', 'cache_read_input_tokens', 'cache_creation_input_tokens'))
+                return j.get('result') or '', tin, u.get('output_tokens') or 0
+            msg = str(j.get('result') or p.stderr or p.stdout)[-300:]
+            if 'limit' in msg.lower() and limit_waits < max_limit_waits:
+                limit_waits += 1
+                time.sleep(limit_wait_s)
+                continue
+            errors += 1
+            if errors >= 4:
+                raise RuntimeError(f'claude code: {msg}')
+            time.sleep(10 * errors)
+    return ask
+
+
 def parse_answer(raw):
     m = re.search(r'\{.*\}', raw or '', re.S)
     try:
@@ -120,14 +153,19 @@ def resolve(site, decisions_path, out_path, ask, model, cache_path, budget_usd, 
                 stats['budget_stop'] += 1
                 out.append({**rec, 'answer': 'unsure', 'verified': False, 'reason': 'budget reached'})
                 continue
-            raw, tin, tout = ask(prompt)
+            try:
+                raw, tin, tout = ask(prompt)
+            except Exception:
+                cache_path.parent.mkdir(parents=True, exist_ok=True)
+                cache_path.write_text(json.dumps(cache))
+                raise
             cost = (tin * usd_per_mtok_in + tout * usd_per_mtok_out) / 1e6
             spent += cost
             a = {**parse_answer(raw), 'tokens_in': tin, 'tokens_out': tout}
             cache[ck] = a
             cached = False
             stats['asked'] += 1
-            if stats['asked'] % 50 == 0:
+            if stats['asked'] % 10 == 0:
                 cache_path.write_text(json.dumps(cache))
                 log(f'  [{site}] asked {stats["asked"]}, spent ${spent:.2f}')
         ok = a['answer'] == 'unsure' or (quote_ok(a.get('quote_a'), ta) and quote_ok(a.get('quote_b'), tb))

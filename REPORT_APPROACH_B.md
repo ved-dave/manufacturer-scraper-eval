@@ -478,3 +478,45 @@ about $0.012 with Sonnet, so about $6 for the 497 remaining Sioux Chief question
 families. Duplicates are still at 0.137, though, and what's left (for example 643WG vs 644WG) needs judgement, so it's
 the resolver's job. The scorer also still credits only one piece of a split family, so canonical choice alone can
 move document and spec scores by several points.
+
+## 13. Resolver run on Sioux Chief (partial: 323 of 497 questions)
+
+The run used `resolve --backend claude-code --model sonnet`: Claude Code in print mode, signed in with the owner's Claude
+subscription, with no tools and no project context. The run hit the subscription's usage limit at 323 questions. It
+waits and resumes on its own, and this section will be updated with all 497.
+
+**Answers:** 256 verified "different", 59 verified "same", 4 unparseable and 4 with quotes not found in the pages
+(those 8 stay unsure). At API prices this is about $0.027 per question, measured on the first 3; Claude Code adds
+prompt overhead. The cost to the owner is $0 beyond the subscription.
+
+**Agreement with the answer key** (measured after the run, never used by the resolver):
+
+| Resolver said | Answers | Key agrees |
+|---|---|---|
+| same | 59 | 34 (58%) |
+| different | 256 | 213 (83%) |
+
+The main error is a replacement-parts page judged the same family as the product it serves (for example 118-01 "parts for 118
+Series sillcock" with 118-C208). The quotes are real, so the quote check cannot catch this.
+
+**Applying the 59 verified "same" links** (offline re-run, R4 → R4 + resolver):
+
+| | R4 | R4 + resolver |
+|---|---|---|
+| Families produced (key: 700) | 4,574 | 4,515 |
+| Duplicates score | 0.1367 | 0.1385 |
+| Families found | 90.1 | 90.3 |
+| Multi-page families | 687 | 657 |
+| Variants found / correct | 19.0 / 89.5 | 20.1 / 90.0 |
+| Images found / correct | 39.6 / 61.1 | 40.5 / 61.6 |
+| Price availability | 19.0 | 20.1 |
+| Validation errors | 0 | 0 |
+| Offline processing time | 51:32 | 53:16 |
+
+- **Keep rule:** passes (Sioux Chief macro 46.05 → 46.39, no key-metric drop above 2 points).
+- **What it shows:**
+  - The gain is small, because most answers are "different".
+  - The scorecard does not count the roughly 25 wrong merges against us.
+  - At 58% precision on "same", this prompt is not good enough for automatic merging. Next: a stricter prompt that
+    excludes parts and accessory pages (`fg-2`). It would have to be labelled as tuned on Sioux Chief and checked on
+    another site before promotion.

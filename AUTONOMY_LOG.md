@@ -573,3 +573,12 @@ Measured on bray, crane, cimberio (Sioux Chief re-processed from cache at the en
     shift, `304-06` series-only match). Bray, Crane and Cimberio are identical.
   - Resolver (`resolve` command) built and unit-tested: quote check, cache, budget, no answer keys. Not run, because
     no model credential was available.
+- Resolver live run (owner's Claude subscription via Claude Code, `--backend claude-code`):
+  - Added a Claude Code print-mode backend (no tools, no settings, own system prompt; waits on usage-limit replies).
+    The cache is now saved every 10 questions and on backend errors.
+  - Sioux Chief: the usage limit was hit at 323 of 497 questions.
+    - Answers: 256 "different", 59 "same", 8 unsure.
+    - Key agreement, measured after the run: "same" 58%, "different" 83%.
+  - Applying the 59 links: 4,574 → 4,515 families, dedup 0.137 → 0.139, variants 19.0 → 20.1. Keep rule passes;
+    0 validation errors.
+  - The remaining 174 resume after the limit resets.

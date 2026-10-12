@@ -39,6 +39,8 @@ def main(argv=None):
     ap.add_argument('--resolutions', help='process: apply verified resolver answers (<site>.resolutions.jsonl)')
     ap.add_argument('--decisions', help='resolve: the run\'s <site>.decisions.jsonl')
     ap.add_argument('--model', default='claude-sonnet-4-5', help='resolve: model id')
+    ap.add_argument('--backend', choices=['api', 'claude-code'], default='api',
+                    help='resolve: Anthropic API (ANTHROPIC_API_KEY) or a signed-in Claude Code CLI')
     ap.add_argument('--budget-usd', type=float, default=10.0, help='resolve: stop asking new questions past this spend')
     ap.add_argument('--usd-per-mtok', type=float, nargs=2, default=[3.0, 15.0], metavar=('IN', 'OUT'),
                     help='resolve: model price per million input / output tokens')
@@ -54,9 +56,9 @@ def main(argv=None):
         if not args.decisions:
             ap.error('resolve needs --decisions <file>')
         from pathlib import Path
-        from .process.resolve import anthropic_backend, resolve
+        from .process.resolve import anthropic_backend, claude_code_backend, resolve
         out = Path(args.decisions).with_name(f'{args.site}.resolutions.jsonl')
-        resolve(args.site, args.decisions, out, anthropic_backend(args.model), args.model,
+        resolve(args.site, args.decisions, out, (claude_code_backend if args.backend == 'claude-code' else anthropic_backend)(args.model), args.model,
                 Path(args.out) / 'resolver-cache' / f'{args.site}.json', args.budget_usd, *args.usd_per_mtok, limit=args.limit)
         print(f'wrote {out}')
         return 0
