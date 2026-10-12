@@ -1,0 +1,123 @@
+=== page 1 ===
+BA-350TE-2G/350STE-2G* 1/2” - 3” *Not intended for use
+in potable water.
+Bronze Ball Valve
+Three Piece
+Full Port
+600 WOG
+Extended Tube Ends with 1/8” NPT
+Two Gauge Ports
+Inline Repairable
+Blow-Out Proof Stem
+MSS SP-110
+Dimensions
+1/2” 3/4” 1” 1-1/4” 1-1/2” 2” 2-1/2” 3”
+Units
+DN15 DN20 DN25 DN32 DN40 DN50 DN65 DN75
+INCHES 28.14 27.96 27.90 27.12 26.90 26.54 29.50 29.50
+A
+mm 715 710 709 689 683 674 749 749
+INCHES 14.07 13.98 13.95 13.56 13.45 13.27 14.75 14.75
+B
+mm 357 355 354 344 342 337 375 375
+INCHES 6.46 6.11 5.82 5.44 5.23 4.79 4.25 4.25
+C
+mm 164 155 148 138 133 122 108 108
+INCHES 3.75 4.50 6.25 6.25 6.25 7.13 8.00 8.00
+D
+mm 95 114 159 159 159 181 203 203
+INCHES 1.85 2.20 2.65 2.79 2.97 3.47 5.44 5.44
+E
+mm 47 56 67 71 75 88 138 138
+INCHES 0.50 0.75 1.00 1.25 1.50 2.00 2.50 2.50
+ØF
+mm 13 19 25 32 38 51 64 64
+INCHES 1.41 1.51 1.80 2.16 2.38 3.00 5.38 5.38
+G
+mm 36 38 46 55 60 76 137 137
+INCHES 0.81 1.51 1.80 2.16 2.38 3.00 4.66 4.66
+G1
+mm 21 38 46 55 60 76 118 118
+The information presented on this sheet is correct at time of publication. Milwaukee Valve reserves the right to change design and/or materials
+without notice. For our Installation, Operation and Maintenance Manual and the most current product information go to www.milwaukeevalve.com.
+State of California Prop 65 WARNING: Cancer and Reproductive Harm. For more information visit www.p65warnings.ca.gov.
+Rev 1
+=== page 2 ===
+BA-350 Series
+Material List
+Part Materials ASTM Spec.
+1 Body Bronze B584
+Bronze, Copper
+2 Sil Brazed Tube -
+Tube
+Chrome Plated
+B16
+3 Ball Brass
+316 Stainless Steel A276
+Brass B16
+4 Stem
+316 Stainless Steel A276
+5 Seat 15% Glass RPTFE -
+6 O-Ring Viton MIL-R-83248
+7 Washer, Thrust 25% Glass RPTFE -
+8
+Packing, Male PTFE -
+9 Packing “V” PTFE -
+10 Packing, Female PTFE -
+11 Packing Follower Brass B16
+Washer,
+12 17-7 PH S.S. Commercial
+Belleville
+13 Nut Locker S.S. 301 Commercial
+14 Handle Assy Stainless Steel A276
+Available Options
+Hex Head Cap
+15 SAE, Grade 8 Commercial • Male Tube Ends - Type “K” (Standard)
+Screw
+• Female Tube Ends - Type “L” (-F) or
+16 Nut, Jam Steel, Zinc Plating Commercial Type “K” (-K) Cleaned For Oxygen
+Service In Accordance With NFPA 99C
+Washer, Internal
+17 Stainless Steel Commercial CSA-41 (-OC)
+Tooth
+• Stainless-Steel Ball and Stem (-S)
+Socket Head Commercial • Stainless-Steel Locking Lever (-LD)
+18 Zinc Plated
+Cap Screw Carbon Steel • Oval Handle (-OH)
+• Oval Locking Handle (-LO)
+19 Gland Nut Brass B16
+• Stem Extension (-XH)
+20 Hex Nut Commercial SAE 5140 • Insulator/MS Handle (-TIH)
+• Gauge Port (-G)
+*Not intended for use in potable water.
+• Two Gauge Ports (-2G)
+Pressure temperature charts containing valve seat and
+body ratings are available from the factory. Please contact
+the factory for accurate application data.
+The information presented on this sheet is correct at time of publication. Milwaukee Valve reserves the right to change design and/or materials
+without notice. For our Installation, Operation and Maintenance Manual and the most current product information go to www.milwaukeevalve.com.
+State of California Prop 65 WARNING: Cancer and Reproductive Harm. For more information visit www.p65warnings.ca.gov.
+Rev 1
+=== page 3 ===
+BA-350 Series
+Specifi cations:
+Approved valves shall be Milwaukee Valve BA-350 Series. Valves shall meet or exceed the requirements
+of MSS SP-110. Valves shall be 3-piece, bronze body, full-port design (1/2” - 2 1/2”) 3” standard port
+and include fl exible RPTFE seats and adjustable PTFE packing. Valves shall have a blow-out-proof stem.
+Valves shall be provided from the factory with Type “K” Male or Female or Type “L” Female end copper-
+tube extensions. When required, the valves shall be factory cleaned for oxygen service in conformance
+with MVES 60-02, NFPA 99C CSA-41. Each cleaned valve shall include protective caps on the copper-
+tube ends, and be sealed in protective bags to prevent contamination prior to installation.
+BA-350 Series Medical Gas Valve Confi gurator
+Trim End Gauge Handle
+Series - - - End Style - - - OC
+Material Connection Ports Option
+Blank - TE - Tube Blank - Blank Oxygen
+BA-350 Blank -Std
+Brass End Male -None Cleaned
+LD -
+S- Stainless F - Female G -1 Port Locking
+Lever
+2G - 2 Port
+Example: BA-350S-TE-F-G-LD-OC Stainless Steel trim, female ends, one gauge port, locking handle
+cleaned for oxygen

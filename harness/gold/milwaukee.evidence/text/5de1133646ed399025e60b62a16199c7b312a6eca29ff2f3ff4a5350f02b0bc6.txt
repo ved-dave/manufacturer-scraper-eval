@@ -1,0 +1,58 @@
+=== page 1 ===
+INSTALLATION OPERATION & MAINTENANCE MANUAL
+BA300/350 SERIES THREE-PIECE BALL VALVES
+INSTALLATION
+1) Threaded End: Use standard piping practices to install valves with threaded ends. When tightening
+valve to pipe, apply wrench to end cap nearest the pipe being worked.
+2) Solder End: All standard solder end valves must be partially disassembled prior to soldering. Follow
+steps 1, 2, 4 and 5 of "Disassembly". Solder ends are per ANSI B16.11. CAUTION: If the body seats
+are removed for soldering, do not mix them. When reassembling the valve, put each seat back into
+the groove from which it was removed. CARE SHALL BE TAKEN NOT TO SCRATCH SEATS OR
+SEALING SURFACES.
+MAINTENANCE
+1) Routine maintenance may consist of tightening the gland nut ¼ turn periodically to compensate for
+the wear caused by the stem turning against the packing. When tightening packing on the actuated
+valves where the valve is connected to the actuator with a no-play (clamped) coupling, loosen the
+coupling before tightening in the gland nut. Retighten the coupling. Overhaul maintenance consists of
+replacing seats and seals.
+DISSASEMBLY
+These ball valves are designed to be serviced in or out of the line. These instructions are for in-line
+disassembly. (For bench disassembly, which may be more convenient, follow a similar sequence.)
+1) Comply fully with the above CAUTIONS.
+2) Cycle the valve. Leave in the open position. This is to prevent the ball from rolling out or damage. The
+body section will not swing out in the closed position.
+3) Remove the top handle nut, washer and handle.
+4) Loosen all four body bolts. Remove from the valve.
+5) Spread end caps and remove the body and the o-rings from the line. Be careful not to damage the o-
+ring and sealing surfaces.
+6) Remove seats from the seat pockets located in end caps. Use extreme care when prying them out.
+Damage such as scratches to the bottom of the groove will cause leaks.
+7) Turn the stem so that the valve is fully closed. Remove the ball.
+8) Remove the gland nut.
+9) Press the stem from the top into the valve body and remove it through the end of the body. Remove
+thrust water.
+10) Carefully pry out and discard the old packing; be careful not damage the sealing surfaces.
+=== page 2 ===
+ASSEMBLY
+The following instructions are for in-line assembly. For bench assembly, which may be easier, follow a
+similar sequence by holding the valve in a vise by one end of the cap. Do not use excessive clamping
+force. Care shall be taken not to damage end connections. Use care not to cut or scratch the seats or
+sealing surfaces.
+1) Place thrust washer over threaded portion of the stem. Insert the stem through the valve body into the
+packing box. Guide the stem into the stem hole being careful not to scratch the packing chamber.
+Hold the stem in place and insert packing from the top of the valve over the threaded portion of the
+stem. Install gland nut over packing and hand tighten.
+2) Align the stem blade with the ball slot. Insert the ball, and rotate the stem to the open position.
+3) Working at either end, place o-rings into o-ring grooves located in end caps.
+4) Working at either end, place a seat into seat pockets located in the end caps. Make sure the sealing
+surface of the seat is facing the ball. Repeat for opposite end.
+5) Place the entire body assembly back into the properly aligned and interlocked position between the
+end caps, being careful not to scratch the seats.
+6) Valve must be in a closed position during assembly and bolt tightening.
+7) Bolt the valve together with body bolts and nuts. Tighten these bolts evenly and alternately to
+specified torque (consult factory for values). Cycle the valve using a crescent wrench to center the
+seats in their pockets.
+8) Tighten gland nut.
+9) Attach the handle and secure it with the washer and handle nut.
+10) Check bolt torques 24 hours after initial assembly to compensate for cold flow of Teflon seats.
+Rev 10/6/26

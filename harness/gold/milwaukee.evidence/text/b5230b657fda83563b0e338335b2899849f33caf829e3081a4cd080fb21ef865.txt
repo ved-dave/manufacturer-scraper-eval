@@ -1,0 +1,78 @@
+510T
+Bronze Check Valve, 150 SWP – 300 WOG, Threaded Ends
+Conforms to MSS SP-80 , Type 4
+Product Documents
+Submittal Documents
+Product Submittal
+IOMs
+IOM
+3D CAD Files
+View 3D CAD Drawing(s)
+Description
+Valve Type
+Check Valve
+Material
+Bronze
+ANSI/Pressure Rating
+150 SWP – 300 WOG
+End Connection
+Threaded
+Body Style
+Horizontal Swing
+Seat Material
+Bronze
+Disc Material
+TFE
+Product Size
+1/4", 3/8", 1/2", 3/4", 1", 1-1/4", 1-1/2", 2"
+Add to quote
+Category:
+Check Valves
+Weights, Dimensions, and Box Quantity
+Size
+Unit Weight
+Unit Dims.
+LxWxH
+Box Quantity
+Box Dims.
+LxWxH
+1/4"
+0.52
+2.13 x 0.25 x 1.44
+10
+9.125 x 3.9375 x 2.0625
+3/8"
+0.48
+2.13 x 0.375 x 1.44
+10
+9.125 x 3.9375 x 2.0625
+1/2"
+0.56
+2.31 x 0.5 x 1.44
+10
+9.125 x 3.9375 x 2.0625
+3/4"
+0.86
+2.63 x 0.75 x 1.69
+6
+9.125 x 3.9375 x 2.0625
+1"
+1.38
+3.25 x 1 x 2
+6
+6 x 6 x 3.25
+1-1/4"
+1.76
+3.56 x 1.25 x 2.13
+4
+6 x 6 x 3.25
+1-1/2"
+2.67
+4 x 1.5 x 2.38
+4
+8.5 x 8.5 x 4.125
+2"
+4.56
+4.75 x 2 x 2.81
+2
+9 x 6 x 3

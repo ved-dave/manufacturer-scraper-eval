@@ -1,0 +1,66 @@
+=== page 1 ===
+Three-Piece Maintenance Design Ball Valve NPT &
+Socket Weld IOM 30 Series
+I. Initial Inspection
+A. Remove valve from packaging: remove thread protectors and discard.
+B. Inspect pipe thread for any damage caused in shipment or handling.
+C. Confirm valve size is correct for installation.
+II. Installation – NPT Ends
+A. Confirm Male NPT threads on piping to be assembled to valve meet gauging specifications of ASME
+B1.20.1 (NPT) or B1.20.3 (NPTF)
+B. Thread sealant/lubricant is required to establish a bubble-tight seal between piping threads and valve
+thread. It will not be possible to establish a leak-free seal without thread sealant.
+C. Hand-engage piping to each side of valve, and hand tighten.
+D. Attach a pipe wrench to the Hexagon shape of the valve tailpiece having the NPT thread being engaged.
+DO NOT hold the body or opposite tailpiece while torqueing pipe into tailpiece.
+E. Tighten piping into valve thread using reasonable torque to seal – DO NOT OVER-TORQUE.
+F. Use same method to install piping into alternate valve NPT port.
+III. Installation – Standard Length Socket Weld or Butt Weld Ends
+A. CAUTION: NEVER ATTEMPT TO WELD INTO PIPING WHILE ASSEMBLED!!
+B. Remove the Socket head cap screws that attach each tailpiece to the valve body.
+C. Inspect body seal for damage-replace with a new factory seal if required.
+D. Inspect Socket Weld and Butt Weld end for any damage.
+E. Weld pipe to tailpiece using appropriate wire/filler materials.
+F. Allow assembly to cool.
+G. Repeat for opposite side.
+H. Allow piping to cool to room temperature, then carefully slide body assembly with body seals between
+tailpieces, and hand tighten all socket head cap screws that attach tailpieces to body. Torque socket-
+head cap screws on each side of valve
+Size-Reduced Port Final Torque
+using an Across-Tailpiece torqueing 1/2" 175 In-Lbs
+sequence, increasing bolt torque on 3/4" 200 In-Lbs
+each sequence. Final bolt Torque: 1” 250 In-Lbs
+1-1/4” 300 In-Lbs
+1-1/2” 350 In-Lbs
+2” 350 In-Lbs
+=== page 2 ===
+III. Operation
+a. After Installation, confirm handle has adequate clearance by rotating 90 degrees from open to closed
+position and back to open.
+b. All ball valves are designed for on-off operation only. DO NOT attempt to “throttle” with ball valves, unless
+they are specifically designed for and tagged “FOR THROTTLING SERVICE”.
+c. If application is in STEAM PIPING, be cautious when operating valve-handle will be HOT!
+IV. Initial Pressurization of System
+a. Upon initial pressurization of piping system, check all connections for leaks and correct if required.
+b. Once system reaches “Steady State” conditions of operating pressure and operating temperature, it will be
+necessary to make initial stem packing adjustment. Tighten Part #9, “Stem Packing Nut” to 20-25 in-lbs on
+1/4”-3/4” sizes and 35-40 in-lbs on 1”-2” sizes.
+V. Maintenance
+a. Milwaukee’s Ball Valves require no maintenance other than periodic stem packing adjustment in
+applications where many cycles of on-off operation occur on a weekly basis.
+b. In high-cycle applications, check stem packing area regularly to confirm there is no leakage from stem
+packing. If leakage occurs, follow #IV-B to correct.
+Re-assembly
+Install new Packing (#7)
+A. Install new Thrust Washer (#6) and insert stem into body cavity and up through Packing. Push up until
+Thrust Washer contacts body. Align stem flats with body bore.
+B. Install Packing (Nut (#9). Torque to 30 in-lbs.
+C. Install one new Seat (#5) into body cavity, push until seated at base of cavity.
+D. Inspect ball for damage. If no defects on spherical surface, align stem slot with stem flats and push into
+body cavity.
+E. Install new Seat (#5) on opposite side of ball.
+F. Install new Body Seals (#8).
+G. Reinstall Body Assembly into piping, spreading piping slightly to prevent damage to body seals.
+H. Hand tighten socket head cap screws that attach tailpiece to body.
+I. Torque socket-head cap screws on each side of valve using an Across-Tailpiece torqueing sequence,
+increasing bolt torque on each sequence. Final bolt torque to be as noted above in Section III.

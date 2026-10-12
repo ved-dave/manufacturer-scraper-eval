@@ -1,0 +1,60 @@
+F-2983-M
+Cast Iron Globe Valve, 250 SWP – 500 WOG, Flanged Ends
+Conforms to MSS SP-85, Type 1
+Not Intended for Use in Potable Water
+IBBM
+Non-Shock
+Solid Disc
+Tapping
+Bypass with Globe Valve
+Product Documents
+Submittal Documents
+Product Submittal
+IOMs
+IOM
+3D CAD Files
+View 3D CAD Drawing(s)
+Description
+Material
+Cast Iron
+ANSI/Pressure Rating
+250 SWP – 500 WOG
+End Connection
+Flanged
+Bonnet Type
+Bolted
+Seat Material
+Bronze
+Disc Material
+Cast Iron
+Product Size
+2-1/2", 3", 4", 6"
+Valve Type
+Globe Valve
+Add to quote
+Category:
+Globe Valves
+Weights, Dimensions, and Box Quantity
+Size
+Unit Weight
+Unit Dims.
+LxWxH
+Box Quantity
+Box Dims.
+LxWxH
+2-1/2"
+80
+11.5 x 2.5 x 13.56
+15
+3"
+118
+12.5 x 3 x 13.88
+12
+4"
+168
+14 x 4 x 16.63
+9
+6"
+371
+17.5 x 6 x 26.25
+4

@@ -1,0 +1,41 @@
+=== page 1 ===
+CAST IRON GATE, GLOBE AND CHECK VALVE
+INSTALLATION, OPERATION AND MAINTENANCE INSTRUCTIONS
+INSTALLATION
+1) Recommended gate and globe valve installation is with the valve stem vertical and the operator
+above the valve in horizontal piping. Installation in other orientations may result in increased wear
+and reduced service life.
+2) Thoroughly clean and prepare the piping system before valve installation.
+3) Remove the valve end caps if present and inspect the valve ports and seating surfaces for
+cleanliness just prior to installation.
+4) Support the valve to prevent unnecessary stresses induced by connecting pipe.
+5) Be sure the rating of the valve is compatible with the intended service conditions. Recommended
+aptitude is with the stem in the vertical position.
+6) Bolt flange in line per recommendations of applicable ASME/ANSI standard, e.g., ASME/ANSI
+B16.1. Use full face gaskets.
+7) Operate the valve from the full open to closed position.
+8) Verify the tightness of the packing nut/gland after installation.
+NOTE 1: Check valves may be installed in both horizontal and vertical lines with upward flow or in any
+intermediary position, as long as the hinge pin on swing checks is horizontal. Make sure they are
+sufficiently distant from pump outlets or other turbulence including devices. See Technical Bulletin.
+NOTE 2: Check valves may be shipped with internal packaging to prevent disc damage in transit.
+Remove any packing material prior to installation.
+OPERATION
+1) Gate and globe valves are manually operated. To open, turn the handle in a
+counterclockwise direction. To close, turn the handle in a clockwise direction.
+2) Check valves are automatic.
+INSPECTION & MAINTENANCE
+1) Periodic inspection and preventative maintenance is not required other than
+adjustment of stem packing, and cycling of the valve from open to closed position.
+2) If a valve develops a packing leak, adjust the packing gland nut to increase the pressure on
+the stem packing. The packing nuts should be turned in a clockwise direction
+approximately 1/4 turn, or until the leakage stops. Do not repack under pressure.
+3) Whenever a new stem is installed, the packing should be changed also.
+REPAIR PARTS
+Under normal conditions, repair parts are not required. Parts that may be considered
+recommended spare parts are as follows:
+Gate Valves-Packing, Bonnet Gasket
+Globe Valves-Packing, Bonnet Gasket
+Check Valves-Disc Kit, Hanger Kit, or Repair Kit
+When ordering parts provide the figure number of the valve, size, part needed and age of the valve.
+Rev 0926

@@ -1,0 +1,32 @@
+=== page 1 ===
+INSTALLATION- BALL VALVE, SOLDER END
+1) Thoroughly clean and prepare the piping system before valve installation.
+2) Remove the valve end caps if present, and inspect the valve ports and seating surfaces for
+cleanliness just prior to installation.
+3 Support the valve to prevent unnecessary stresses induced by connecting pipe.
+4 Be sure the rating of the valve is compatible with the intended service conditions
+5 Operate the valve from the full open to closed position.
+6 Solder end ball valves should be installed with the valve in a partially open position. Extreme
+care must be used to prevent overheating of the valve causing damage to seats and seals.
+Consult solder and flux manufactures catalog to be certain you are complying with low lead
+statutes.
+7) Use care to direct the flame away from the valve body. Use care to prevent the flame from
+making contact with the valve body as damage can occur. The use of a heat sink is highly
+recommended.
+8) Verify the tightness of the packing nut after installation, and valve cools.
+OPERATION
+1) Ball valves are designed to be opened by rotating the lever handle in a counterclockwise
+direction, and closing in a clockwise direction. The handle indicates the ball port direction.
+2) Under certain conditions, throttling flow in the near-closed position can destroy the valve seats
+Consult factory for throttling service.
+INSPECTION & MAINTENANCE
+3) Periodic inspection and preventative maintenance is not required other than adjustment of
+stem packing, and cycling of the valve from open to closed position.
+4) If a valve develops a packing leak, adjust the packing nut to increase the pressure on the stem
+packing. The packing nut should be turned in a clockwise direction approximately¼ turn, or until
+leakage stops. Do not repack valves under pressure.
+5) Repair or replacement of two piece ball valves internal parts is not recommended. Damage can
+occur to the body and tailpiece during disassembly that would make the valve inoperable.
+REPAIR PARTS
+Not available for UltraPure valves
+Rev 0620

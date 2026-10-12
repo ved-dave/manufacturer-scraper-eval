@@ -1,0 +1,63 @@
+=== page 1 ===
+1150 Bronze Gate Valve
+1/4”-4”
+150 SWP - 300 WOG †
+Solid Wedge Disc • Rising Stem
+Threaded Bonnet • Threaded Ends
+Conforms to: MSS SP-80*
+MATERIAL LIST
+No. PART MATERIAL SPECIFICATION
+1 Body Bronze ASTM B62
+2 Bonnet Bronze ASTM B62
+3 Wedge Disc Bronze ASTM B62
+4 Stem Bronze ASTM B62
+5 Packing Graphite Commercial
+6 Gland Brass ASTM B124 C37700
+7 Packing Nut Brass ASTM B283 C37700
+8 Handwheel Mall. Iron Commercial
+9 Name Plate Aluminum Commercial
+10 Handwheel Nut Brass Commercial
+DIMENSIONS - INCHES/MILLIMETERS
+Units Size A B C Cv
+Inches 1/4 1.75 4.38 2.00
+5.6
+mm 45 111 51
+Inches 3/8 1.81 4.38 2.00
+10.7
+mm 46 111 51
+Inches 1/2 2.00 4.38 2.00
+17.6
+mm 51 111 51
+Inches 3/4 2.18 5.84 2.50
+32.0
+mm 55 149 64
+Inches 1 2.56 7.06 2.75
+54.0
+mm 65 180 70
+Inches 1 1/4 2.78 8.78 3.44
+97.0
+mm 71 223 87
+Inches 1 1/2 2.81 9.50 3.75
+135.0
+mm 72 241 95
+Inches 2 3.31 11.50 3.75
+230.0
+mm 84 292 95
+Inches 2 1/2 4.19 14.31 4.75
+337.0
+mm 106 364 121
+Inches 3 4.63 16.63 5.25
+536.0
+mm 118 422 133
+Inches 4 5.50 15.50 5.25
+Note: Not intended for use in potable water. 960.0
+mm 140 394 133
+† Non-Shock
+* 4” is not covered in MSS SP-80. It has a split wedge and
+bolted bonnet.
+The information presented on this sheet is correct at time of publication. Milwaukee Valve reserves the right
+to change design and/or materials without notice. For our Installation, Operation and Maintenance Manual
+and the most current product information go to www.milwaukeevalve.com. State of California Prop 65
+WARNING: Cancer and Reproductive Harm. For more information visit www.p65warnings.ca.gov. www.milwaukeevalve.com
+BI-12
+Rev 10
