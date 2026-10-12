@@ -556,4 +556,5 @@ Measured on bray, crane, cimberio (Sioux Chief re-processed from cache at the en
   - Results: Sioux Chief families found 54 → 88 and secondary docs 33 → 87; macro 42.26 → 46.63; no key-metric drop
     > 2; 0 validation errors. Bray, Crane and Cimberio are identical.
   - A follow-up commit moved the override after the normal keep branch: 3,929 already-kept pages had been logged as
-    unsure. The product set is unchanged; Sioux Chief was re-run to confirm.
+    unsure. The product set is unchanged. The Sioux Chief re-run confirmed it: identical scores and identical
+    SiteRun apart from `retrieved_at` timestamps, `page_role` unsure 2,052, 0 validation errors, 55:38 offline.

@@ -394,6 +394,8 @@ facet tables. None of those 48 pages are in the answer keys. That first version 
 | Offline processing time | 49 min | 57 min | – |
 
 - **Keep rule:** macro 42.26 → 46.63 (+4.37); no key metric drops more than 2 points; 0 validation errors.
+- **Reproduced:** a second offline run with the final code gave identical scores and an identical SiteRun, apart from
+  `retrieved_at` timestamps.
 - **Pages rescued:** 2,052 product pages, covering 318 of the 360 key families that had lost every page to the
   listing rule. 869 listing drops remain, all without strong product evidence.
 - **Variants and price:** 10 → 8 of 179 key variants, all in one key family (`643WG2`). In B (final), its WG2 pages
