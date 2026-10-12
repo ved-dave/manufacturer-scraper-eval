@@ -278,5 +278,22 @@ class L1SpecTableTest(unittest.TestCase):
         self.assertTrue(page_facts(P.soup_of(html), 'https://x.example/p')['has_spec_table'])
 
 
+
+class ListingWithProductEvidenceTest(unittest.TestCase):
+    def test_listing_cue_with_spec_evidence_is_kept(self):
+        from mfr_scraper.process.run import listing_with_product_evidence as f
+        self.assertTrue(f({'spec_pairs': 3, 'breadcrumb': 1, 'url_word': 1, 'listing_like': -4}, 4.0))
+        self.assertTrue(f({'spec_download': 2, 'breadcrumb': 1, 'url_word': 1, 'listing_like': -4}, 4.0))
+
+    def test_category_page_with_facet_table_still_dropped(self):
+        from mfr_scraper.process.run import listing_with_product_evidence as f
+        self.assertFalse(f({'spec_pairs': 3, 'breadcrumb': 1, 'download': 1, 'listing_like': -4}, 4.0))
+
+    def test_plain_listing_still_dropped(self):
+        from mfr_scraper.process.run import listing_with_product_evidence as f
+        self.assertFalse(f({'download': 1, 'breadcrumb': 1, 'url_word': 1, 'commerce_words': 1, 'listing_like': -4}, 4.0))
+        self.assertFalse(f({'spec_download': 2, 'listing_like': -4}, 4.0))
+        self.assertFalse(f({'spec_pairs': 3, 'breadcrumb': 1}, 4.0))
+
 if __name__ == '__main__':
     unittest.main()

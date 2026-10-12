@@ -44,6 +44,18 @@ def _filename(url):
     return unquote(urlsplit(url).path.rsplit('/', 1)[-1])
 
 
+LISTING_OVERRIDE_SIGNALS = ('spec_pairs', 'spec_download', 'jsonld_product')
+
+
+def listing_with_product_evidence(signals, threshold):
+    """A listing cue (many same-section links) on a page whose URL names it a product page (url_word), that has strong
+    product evidence and would pass the product threshold without that cue: not a clear listing, so it is kept and
+    queued as unsure. Category pages with spec-like facet tables have no product URL word and stay dropped."""
+    if 'listing_like' not in signals or 'url_word' not in signals or not any(k in signals for k in LISTING_OVERRIDE_SIGNALS):
+        return False
+    return sum(v for k, v in signals.items() if k != 'listing_like') >= threshold
+
+
 def apply_spec_table(signals, has_spec_table):
     """L1 has_spec_table: true counts as a spec table; false removes only that signal, not a single spec value seen on the page."""
     if has_spec_table is True:
@@ -668,7 +680,15 @@ class ProcessRun(SiteRun):
         for r in recs:
             t = tmpl_of.get(r.url)
             avg, listing = tavg.get(t, 0.0), 'listing_like' in r._signals
-            if r._score >= TH or (r._score >= TH - 2 and avg >= TH and not listing):
+            if listing and listing_with_product_evidence(r._signals, TH):
+                products.append(r)
+                roles['product (listing cue, unsure)'] += 1
+                pos = [{'quote': f'{k} (+{v})', 'source': r.url} for k, v in r._signals.items() if v > 0]
+                self.unsure('page_role', 'Is this a product page or a category listing?',
+                            {'url': r.url, 'link_text': r.name, 'section': ' > '.join(r.crumbs) or None, 'type': 'page', 'found_on': None},
+                            pos, [{'quote': 'links to more than 15 pages in its own section (listing_like -4)', 'source': r.url}],
+                            'listing cue conflicts with product evidence', 'keep', family={})
+            elif r._score >= TH or (r._score >= TH - 2 and avg >= TH and not listing):
                 products.append(r)
                 roles['product'] += 1
                 self.decide('page_role', 'keep', f'product page (score {r._score}, template {t} avg {avg:.1f})', url=r.url, signals=r._signals)
