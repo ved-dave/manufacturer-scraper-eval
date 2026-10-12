@@ -680,7 +680,11 @@ class ProcessRun(SiteRun):
         for r in recs:
             t = tmpl_of.get(r.url)
             avg, listing = tavg.get(t, 0.0), 'listing_like' in r._signals
-            if listing and listing_with_product_evidence(r._signals, TH):
+            if r._score >= TH or (r._score >= TH - 2 and avg >= TH and not listing):
+                products.append(r)
+                roles['product'] += 1
+                self.decide('page_role', 'keep', f'product page (score {r._score}, template {t} avg {avg:.1f})', url=r.url, signals=r._signals)
+            elif listing and listing_with_product_evidence(r._signals, TH):
                 products.append(r)
                 roles['product (listing cue, unsure)'] += 1
                 pos = [{'quote': f'{k} (+{v})', 'source': r.url} for k, v in r._signals.items() if v > 0]
@@ -688,10 +692,6 @@ class ProcessRun(SiteRun):
                             {'url': r.url, 'link_text': r.name, 'section': ' > '.join(r.crumbs) or None, 'type': 'page', 'found_on': None},
                             pos, [{'quote': 'links to more than 15 pages in its own section (listing_like -4)', 'source': r.url}],
                             'listing cue conflicts with product evidence', 'keep', family={})
-            elif r._score >= TH or (r._score >= TH - 2 and avg >= TH and not listing):
-                products.append(r)
-                roles['product'] += 1
-                self.decide('page_role', 'keep', f'product page (score {r._score}, template {t} avg {avg:.1f})', url=r.url, signals=r._signals)
             elif r._score >= TH - 2 and not listing:
                 roles['unsure'] += 1
                 pos = [{'quote': f'{k} (+{v})', 'source': r.url} for k, v in r._signals.items() if v > 0]
