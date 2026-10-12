@@ -1,0 +1,283 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/ved-dave/manufacturer-scraper-eval/harness/schema/link_record.schema.json",
+  "title": "Layer 1 link file record (OLD_AGENT_IMPROVEMENTS.md, level L1)",
+  "description": "One JSON object per line. record=page: one loaded HTML page. record=link: one link found on a loaded page.",
+  "oneOf": [
+    {
+      "$ref": "#/$defs/page"
+    },
+    {
+      "$ref": "#/$defs/link"
+    }
+  ],
+  "$defs": {
+    "url": {
+      "type": "string",
+      "pattern": "^https?://[^\\s]+$"
+    },
+    "nullable_url": {
+      "oneOf": [
+        {
+          "$ref": "#/$defs/url"
+        },
+        {
+          "type": "null"
+        }
+      ]
+    },
+    "nullable_string": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "nullable_int": {
+      "type": [
+        "integer",
+        "null"
+      ],
+      "minimum": 0
+    },
+    "page": {
+      "type": "object",
+      "required": [
+        "record",
+        "site",
+        "url",
+        "status"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "record": {
+          "const": "page"
+        },
+        "site": {
+          "type": "string",
+          "minLength": 1
+        },
+        "url": {
+          "$ref": "#/$defs/url"
+        },
+        "retrieved_at": {
+          "$ref": "#/$defs/nullable_string"
+        },
+        "status": {
+          "$ref": "#/$defs/nullable_int"
+        },
+        "final_url": {
+          "$ref": "#/$defs/nullable_url"
+        },
+        "content_type": {
+          "$ref": "#/$defs/nullable_string"
+        },
+        "content_length": {
+          "$ref": "#/$defs/nullable_int"
+        },
+        "last_modified": {
+          "$ref": "#/$defs/nullable_string"
+        },
+        "etag": {
+          "$ref": "#/$defs/nullable_string"
+        },
+        "page_title": {
+          "$ref": "#/$defs/nullable_string"
+        },
+        "h1": {
+          "$ref": "#/$defs/nullable_string"
+        },
+        "breadcrumb": {
+          "type": [
+            "array",
+            "null"
+          ],
+          "items": {
+            "type": "string"
+          }
+        },
+        "canonical_url": {
+          "$ref": "#/$defs/nullable_url"
+        },
+        "lang": {
+          "$ref": "#/$defs/nullable_string"
+        },
+        "hreflang": {
+          "type": [
+            "object",
+            "null"
+          ],
+          "additionalProperties": {
+            "$ref": "#/$defs/url"
+          }
+        },
+        "jsonld_product": {
+          "type": [
+            "object",
+            "null"
+          ]
+        },
+        "has_spec_table": {
+          "type": [
+            "boolean",
+            "null"
+          ]
+        },
+        "n_links_same_section": {
+          "$ref": "#/$defs/nullable_int"
+        },
+        "meta_description": {
+          "$ref": "#/$defs/nullable_string"
+        },
+        "html_snapshot": {
+          "$ref": "#/$defs/nullable_string"
+        },
+        "crawled_at": {
+          "$ref": "#/$defs/nullable_string"
+        },
+        "agent_version": {
+          "$ref": "#/$defs/nullable_string"
+        },
+        "discovered_via": {
+          "enum": [
+            "sitemap",
+            "crawl",
+            "input",
+            null
+          ]
+        },
+        "depth": {
+          "$ref": "#/$defs/nullable_int"
+        },
+        "sitemap_lastmod": {
+          "$ref": "#/$defs/nullable_string"
+        }
+      }
+    },
+    "link": {
+      "type": "object",
+      "required": [
+        "record",
+        "site",
+        "url",
+        "url_type",
+        "found_on"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "record": {
+          "const": "link"
+        },
+        "site": {
+          "type": "string",
+          "minLength": 1
+        },
+        "url": {
+          "$ref": "#/$defs/url"
+        },
+        "url_type": {
+          "enum": [
+            "page",
+            "pdf",
+            "image",
+            "cad",
+            "bim",
+            "archive",
+            "spreadsheet",
+            "video",
+            "other"
+          ]
+        },
+        "found_on": {
+          "$ref": "#/$defs/nullable_url",
+          "description": "page the link was found on; null only for an inventory entry with no known source page (e.g. sitemap-only asset)"
+        },
+        "link_text": {
+          "$ref": "#/$defs/nullable_string"
+        },
+        "section": {
+          "$ref": "#/$defs/nullable_string"
+        },
+        "in_chrome": {
+          "type": [
+            "boolean",
+            "null"
+          ]
+        },
+        "link_kind": {
+          "enum": [
+            "a",
+            "img",
+            "source",
+            "iframe",
+            "link-rel",
+            "script-data",
+            null
+          ]
+        },
+        "status": {
+          "$ref": "#/$defs/nullable_int"
+        },
+        "final_url": {
+          "$ref": "#/$defs/nullable_url"
+        },
+        "content_type": {
+          "$ref": "#/$defs/nullable_string"
+        },
+        "content_length": {
+          "$ref": "#/$defs/nullable_int"
+        },
+        "last_modified": {
+          "$ref": "#/$defs/nullable_string"
+        },
+        "etag": {
+          "$ref": "#/$defs/nullable_string"
+        },
+        "alt": {
+          "$ref": "#/$defs/nullable_string"
+        },
+        "width": {
+          "$ref": "#/$defs/nullable_int"
+        },
+        "height": {
+          "$ref": "#/$defs/nullable_int"
+        },
+        "srcset": {
+          "type": [
+            "array",
+            "null"
+          ],
+          "items": {
+            "type": "object",
+            "required": [
+              "url"
+            ],
+            "additionalProperties": false,
+            "properties": {
+              "url": {
+                "$ref": "#/$defs/url"
+              },
+              "width": {
+                "$ref": "#/$defs/nullable_int"
+              },
+              "density": {
+                "type": [
+                  "number",
+                  "null"
+                ]
+              }
+            }
+          }
+        },
+        "wrapping_link": {
+          "$ref": "#/$defs/nullable_url"
+        },
+        "crawled_at": {
+          "$ref": "#/$defs/nullable_string"
+        },
+        "agent_version": {
+          "$ref": "#/$defs/nullable_string"
+        }
+      }
+    }
+  }
+}

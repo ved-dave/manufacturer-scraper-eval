@@ -1,0 +1,33 @@
+mode: legacy_csv
+family_index:
+  recall: 1.0
+  gold: 700
+  site_page_rows_that_are_families: 0.9578
+labelled:
+  documents_primary_recall: 1.0
+  documents_primary_gold: 28
+  documents_secondary_recall: 1.0
+  documents_secondary_gold: 30
+  document_label_correct: 1.0
+  cad_recall: 1.0
+  cad_gold: 7
+  cad_label_correct: 1.0
+  images:
+    best_version: 111
+    rendition_only: 0
+    missing: 0
+    recall_any_version: 1.0
+    best_version_rate: 1.0
+  not_scorable: ['specs', 'prices', 'variants', 'precision (no family linkage in legacy format)']
+noise:
+  rows: 15017
+  by_type:
+    bim: 196
+    image: 6981
+    pdf: 857
+    site_page: 6983
+  non_english_rows: 0
+  off_allowlist_rows: 0
+  image_rendition_duplicates: 0
+  unknown_kind_rows: 0
+site: sioux-chief

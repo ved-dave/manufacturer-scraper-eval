@@ -1,0 +1,67 @@
+<!doctype html><html><head><meta charset="utf-8"><title>Scraping workflow: findings and plan</title>
+<style>
+@page{size:Letter;margin:0.38in}
+body{font-family:Helvetica,Arial,sans-serif;font-size:8.9pt;line-height:1.27;color:#1b1b1b;margin:0}
+h1{font-size:15pt;margin:0 0 2px}
+.sub{color:#555;margin:0 0 8px}
+h2{font-size:10.2pt;margin:7px 0 2px;border-bottom:1px solid #ccc;padding-bottom:1px}
+ul{margin:2px 0 2px 16px;padding:0} li{margin:1px 0}
+table{border-collapse:collapse;width:100%;margin:3px 0;font-size:8.5pt}
+th,td{border:1px solid #d4d4d4;padding:2px 5px;text-align:left}
+th{background:#f1f1f1} td.n{text-align:right;white-space:nowrap}
+.good{color:#1a7f37;font-weight:bold}.bad{color:#b42318;font-weight:bold}
+.cols{display:flex;gap:14px}.cols>div{flex:1}
+.note{color:#555;font-size:8.6pt}
+</style></head><body>
+<h1>Product-catalog scraping: what we tested, what we found, what's next</h1>
+<p class="sub">Goal: a scraping workflow that is 97% accurate and works for any manufacturer. All scores are % agreement with hand-checked answer keys.</p>
+
+<h2>How we measured</h2>
+<ul>
+<li><b>Answer keys for 4 manufacturers</b> (Bray, Crane, Cimberio, Sioux Chief). Each key is the complete list of the site's product families, plus about 15 families checked by hand in detail: documents, CAD, images, specs and sizes. A second, independent check was done on each key.</li>
+<li>Dixon and Apollo block automated access, so they have no key.</li>
+<li>We compared a <b>new processing step</b>, which sorts the old agent's existing link lists, with the <b>current scraper</b>.</li>
+</ul>
+
+<h2>Main findings</h2>
+<ul>
+<li><b>The old agent's link list is nearly complete:</b> it holds 98–100% of the answer-key families, documents, CAD and images on Bray, Crane and Sioux Chief. Cimberio is the exception: its list misses about half the main documents and the price list.</li>
+<li><b>Points are lost when the list is sorted, not when it's collected.</b> Fixed rules throw out real product pages, part numbers aren't grouped into families, and specs are read badly.</li>
+</ul>
+
+<table>
+<tr><th>Site</th><th>Measure</th><th>New step</th><th>Current scraper</th></tr>
+<tr><td>Bray</td><td>Families correct</td><td class="n good">93</td><td class="n">82</td></tr>
+<tr><td>Cimberio</td><td>Families correct / other docs / images found</td><td class="n good">100 / 100 / 100</td><td class="n">66 / 12 / 0</td></tr>
+<tr><td>Crane</td><td>Images found / other docs found</td><td class="n">93 / <span class="bad">55</span></td><td class="n">78 / 71</td></tr>
+<tr><td rowspan="3">Sioux Chief<br><span class="note">one page per part number</span></td><td>Families found / families produced (real: 700)</td><td class="n">90 / 4,515</td><td class="n">93 / 6,324</td></tr>
+<tr><td>CAD / images found / sizes found</td><td class="n good">57 / 40 / 20</td><td class="n">14 / 14 / 3</td></tr>
+<tr><td>Main docs / images that are correct</td><td class="n bad">39 / 62</td><td class="n">46 / 79</td></tr>
+<tr><td>All sites</td><td>Specs correct</td><td class="n" colspan="2">15–67% for both (they share the same spec-reading code)</td></tr>
+</table>
+<p class="note">Nothing is at 97% yet. Grouping on part-number sites and reading specs are the two big gaps.</p>
+
+<h2>Experiments on Sioux Chief</h2>
+<table>
+<tr><th>What we tried</th><th>Result</th><th>Verdict</th></tr>
+<tr><td>Keep "listing-looking" pages that show product evidence, and flag them as unsure instead of dropping them</td><td>Families found 54% → 88%; other sites unchanged</td><td class="good">Worked</td></tr>
+<tr><td>Group two part numbers when each page lists the other in its item table</td><td>Right 99.6% of the time; 5,725 → 4,574 families</td><td class="good">Worked, but small next to the gap</td></tr>
+<tr><td>AI helper (Claude) answering "are these two pages the same family?"</td><td>Only 58% right when it said "same"; 4,574 → 4,515 families</td><td class="bad">Not the right lever</td></tr>
+</table>
+
+<h2>What we learned</h2>
+<ul>
+<li><b>When the signals disagree, flag the page as unsure; don't drop it.</b> Fixed thresholds tuned on one site break on the next.</li>
+<li><b>Every manufacturer already publishes its own family structure:</b> family pages (Bray, Crane), category cards (Sioux Chief) or size tables. We should read that structure, not rebuild it from part numbers. On Sioux Chief, the category pages already in the old agent's list link to 99% of the answer key's part-number pages.</li>
+<li><b>The AI helps most when it reads specs and backs each value with a word-for-word quote</b>, not when it makes yes/no grouping calls. Each "same family?" answer can merge at most two families, and most duplicates never become a question.</li>
+</ul>
+
+<h2>Plan to reach 97% across manufacturers</h2>
+<div class="cols"><div><ul>
+<li><b>1. Site profile (2–3 days).</b> For each new site, work out automatically how it defines a family, and save that as readable data. Grouping then follows the site's own catalog. No new code per site.</li>
+<li><b>2. Small additions to the old agent (their side).</b> For each link, also save the page it was found on, a copy of the page, and a fingerprint of each file. This fixes which documents belong to which family, covers sites that block us, and avoids re-downloading.</li>
+</ul></div><div><ul>
+<li><b>3. Specs (about 1 week).</b> A shared dictionary of spec names, plus AI reading of spec tables and PDFs, with every value backed by a quote.</li>
+<li><b>4. Prove it on new sites (about 1 session per key).</b> Answer keys for 3–5 manufacturers we have never tuned on, then a blind run with no changes. That is the real test of "works for any manufacturer".</li>
+</ul></div></div>
+</body></html>

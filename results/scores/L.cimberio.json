@@ -1,0 +1,60 @@
+{
+  "mode": "legacy_csv",
+  "family_index": {
+    "recall": 1.0,
+    "gold": 32,
+    "site_page_rows_that_are_families": 0.0271
+  },
+  "labelled": {
+    "documents_primary_recall": 0.5357,
+    "documents_primary_gold": 28,
+    "documents_secondary_recall": 1.0,
+    "documents_secondary_gold": 8,
+    "document_label_correct": 1.0,
+    "cad_recall": 0.0,
+    "cad_gold": 3,
+    "cad_label_correct": null,
+    "images": {
+      "best_version": 0,
+      "rendition_only": 17,
+      "missing": 0,
+      "recall_any_version": 1.0,
+      "best_version_rate": 0.0
+    },
+    "not_scorable": [
+      "specs",
+      "prices",
+      "variants",
+      "precision (no family linkage in legacy format)"
+    ]
+  },
+  "noise": {
+    "rows": 3519,
+    "by_type": {
+      "image": 1171,
+      "pdf": 1167,
+      "site_page": 1181
+    },
+    "non_english_rows": 1149,
+    "off_allowlist_rows": 3338,
+    "image_rendition_duplicates": 32,
+    "unknown_kind_rows": 0,
+    "examples": {
+      "non_english": [
+        "https://web.cimberio.com/index.php/figura/pdf/1000?_lang=it",
+        "https://web.cimberio.com/index.php/figura/pdf/1002?_lang=it",
+        "https://web.cimberio.com/index.php/figura/pdf/1003?_lang=it",
+        "https://web.cimberio.com/index.php/figura/pdf/1004?_lang=it",
+        "https://web.cimberio.com/index.php/figura/pdf/1005?_lang=it"
+      ],
+      "off_allowlist": [
+        "https://web.cimberio.com/images/imm/",
+        "https://web.cimberio.com/images/imm/011BL34IMM.jpg",
+        "https://web.cimberio.com/images/imm/011BLIMM.jpg",
+        "https://web.cimberio.com/images/imm/011CIMM.jpg",
+        "https://web.cimberio.com/images/imm/011GIMM.jpg"
+      ]
+    }
+  },
+  "site": "cimberio"
+}

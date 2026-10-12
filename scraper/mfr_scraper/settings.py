@@ -26,6 +26,7 @@ HOLDOUT_SPLITS = {'test', 'challenge'}
 
 MIN_DELAY_PER_HOST = 1.0          # seconds between requests to one host
 REQUEST_TIMEOUT = 30
+DOWNLOAD_DEADLINE = 300            # seconds for a whole response body; a trickling server can't stall a run
 MAX_BYTES = {'html': 10_000_000, 'pdf': 40_000_000, 'zip': 60_000_000, 'image': 15_000_000, 'other': 10_000_000}
 
 TEMPLATE_SAMPLE_PAGES = 4         # pages fetched per URL template to decide if it is a product template

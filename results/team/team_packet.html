@@ -1,0 +1,390 @@
+<!doctype html><html><head><meta charset="utf-8"><title>Manufacturer product index: what we built, learned and propose</title><style>@page{size:Letter landscape;margin:0.35in}
+body{font-family:-apple-system,"Segoe UI",Helvetica,Arial,sans-serif;font-size:8.6pt;color:#1a1a1a;margin:0;line-height:1.35}
+h1{font-size:16pt;margin:0 0 2px}.sub{color:#555;margin:0 0 8px}
+h2{font-size:11.5pt;margin:10px 0 3px;border-bottom:1.5px solid #2b6cb0;padding-bottom:2px;color:#1d4e89}
+h3{font-size:10pt;margin:0}.a-section__note{color:#555;margin:2px 0 5px}
+.a-grid{display:flex;gap:6px;margin:4px 0}.a-metric{flex:1;border:1px solid #cfd8e3;border-radius:5px;padding:5px 7px;background:#f5f8fc}
+.a-metric__label{color:#555;font-size:8pt}.a-metric__value{font-size:14pt;font-weight:700;color:#1d4e89}.a-metric__delta{font-size:7.8pt;color:#555}
+ul.a-prose{margin:4px 0;padding-left:16px}ul.a-prose li{margin:1px 0}p.a-prose{margin:2px 0 4px;color:#444}
+table{border-collapse:collapse;width:100%;margin:2px 0}th,td{border-bottom:1px solid #e1e5ea;padding:2px 4px;text-align:left;vertical-align:top}
+thead th{background:#eef2f7;font-size:7.8pt}td[data-numeric],th[data-numeric]{text-align:right;white-space:nowrap}
+tbody th{font-weight:500;min-width:165px}.a-label{color:#777;font-size:7.4pt}.a-visually-hidden{display:none}
+.a-panel{break-inside:avoid;margin-bottom:8px}.a-panel__head{display:flex;justify-content:space-between;align-items:baseline}
+tr{break-inside:avoid}dl{margin:2px 0}dl div{display:flex;gap:8px;margin:1px 0}dt{font-weight:600;min-width:170px}dd{margin:0}
+.foot{color:#666;font-size:7.4pt;margin-top:8px;border-top:1px solid #ddd;padding-top:4px}
+.pb{break-before:page}h2{font-size:13pt}h3{font-size:10pt;margin:8px 0 3px;color:#1d4e89}
+p{margin:3px 0}ol,ul{margin:3px 0;padding-left:18px}li{margin:1px 0}code{font-size:8pt;background:#f1f3f6;padding:0 2px}
+.grid{display:flex;gap:6px;margin:6px 0}.m{flex:1;border:1px solid #cfd8e3;border-radius:5px;padding:5px 7px;background:#f5f8fc}
+.m .l{color:#555;font-size:8pt}.m .v{font-size:15pt;font-weight:700;color:#1d4e89}.m .d{font-size:7.8pt;color:#555}
+td.n,th.n{text-align:right;white-space:nowrap}.note{color:#666;font-size:7.8pt}
+.cover{border-bottom:2px solid #1d4e89;margin-bottom:6px;padding-bottom:4px}</style></head><body>
+<div class="cover"><h1>Manufacturer product index: what we built, what we learned, what we propose</h1>
+<p class="sub">Team packet · October 2026 · Everything from the rulebook and answer keys through the current scraper, the Approach B experiments and the proposals. Percentages are against the answer keys unless stated.</p></div>
+<section><h2>1. Summary</h2>
+<p><strong>The goal.</strong> Turn manufacturer websites into a clean product index that is about 97% accurate and works for any manufacturer without custom code. The index has one record per product family, holding its documents, CAD files, images, specs, sizes/part numbers and prices.</p>
+<p><strong>What we did, in order:</strong></p>
+<ol>
+<li><strong>Wrote the rulebook (SPEC v1)</strong>: what counts as a family, a document, a good image, a spec value or a price.</li>
+<li><strong>Built answer keys for 4 manufacturers</strong> (Bray, Crane, Cimberio, Sioux Chief) and a scorer, so every version is measured the same way.</li>
+<li><strong>Built a new scraper</strong> (the "current scraper") and improved it over 10 rounds. It then failed the test on sites it had never seen.</li>
+<li><strong>Ran a gap analysis</strong> against the old agent's original data. Most misses were items we had seen and then filtered out.</li>
+<li><strong>Designed "collect wide, sort smart"</strong> and tested it (Approach B). The old agent's link list goes in, and a new sorting step produces the index. We ran 10 experiments on it, including an AI helper.</li>
+<li><strong>Built the site-profile step</strong>, which reads how each manufacturer groups its own products. On Sioux Chief it cut families from 4,574 to 603 (700 real ones), but a few merged cards still hurt document accuracy (section 10a).</li>
+</ol>
+<div class="grid">
+<div class="m"><div class="l">Old agent's list already contains</div><div class="v">98–100%</div><div class="d">of key families, docs, CAD and images on 3 of 4 sites</div></div>
+<div class="m"><div class="l">Answer-key double-check agreement</div><div class="v">82–100%</div><div class="d">two labellers, working blind</div></div>
+<div class="m"><div class="l">Sioux Chief families found</div><div class="v">54% → 90%</div><div class="d">across our experiments (current scraper 93%)</div></div>
+<div class="m"><div class="l">Specs correct, any version</div><div class="v">15–67%</div><div class="d">the biggest remaining gap</div></div>
+</div>
+<p><strong>The five things we learned:</strong></p>
+<ol>
+<li><strong>Finding links is mostly solved; sorting them is the problem.</strong> The old agent finds nearly everything. Every tool loses its points afterwards: deciding what a page is, grouping part numbers into families, choosing files and reading specs.</li>
+<li><strong>Fixed rules break on new sites.</strong> Rules such as "more than 15 links = category page" or "assets on other domains are junk" worked on the two sites we tuned on, then failed on the next ones.</li>
+<li><strong>Every manufacturer already says what its families are</strong>, through family pages, category cards or size tables. We should read that structure, not guess it from part numbers.</li>
+<li><strong>AI helps only where it's aimed well.</strong> Asking it "are these two pages the same family?" was 58% right and couldn't scale. Reading spec tables and settling conflicts, with a verified quote, is the better use.</li>
+<li><strong>Tuning on a few sites flatters you.</strong> Ten rounds of gains on 2 sites didn't carry over to new ones. Only scoring on unseen manufacturers proves "works for all".</li>
+</ol>
+<p><strong>What we propose</strong> (section 10):</p>
+<ol>
+<li>A "how is this site organised?" step, run on every site. <strong>Built</strong>; first results in 10a. Next: a shared shape catalogue, so new sites need settings only, not new rules.</li>
+<li>A few free extra fields from the old agent, "found on" and page copies first.</li>
+<li>Better spec reading, with AI backed by quotes.</li>
+<li>Answer keys for 3–5 new manufacturers, to test blind.</li>
+</ol>
+<p>Later, the database tables in DATA_MODEL.md.</p>
+</section>
+
+<section class="pb"><h2>2. The starting point: the old agent's output</h2>
+<p>The old agent crawls a manufacturer's site and writes a CSV with two columns: <code>url</code> and <code>url_type</code>. We have its output files only, not its code.</p>
+<table><thead><tr><th>Site</th><th>Rows in its list</th><th>Families in list</th><th>Main docs in list</th><th>CAD in list</th><th>Images in list</th><th>Notes</th></tr></thead><tbody>
+<tr><td>Bray</td><td class="n">2,211</td><td class="n">100%</td><td class="n">100%</td><td class="n">100%</td><td class="n">98%</td><td>Only 10% of its page rows are product families</td></tr>
+<tr><td>Crane</td><td class="n">1,944</td><td class="n">99%</td><td class="n">100%</td><td class="n">67%</td><td class="n">100%</td><td>78% of page rows are families; CAD labels wrong</td></tr>
+<tr><td>Cimberio</td><td class="n">1,181 pages</td><td class="n">100%</td><td class="n">54%</td><td class="n">0%</td><td class="n">100%</td><td>Price list and half the main docs never listed; 1,149 page rows on an off-site domain</td></tr>
+<tr><td>Sioux Chief</td><td class="n">15,017</td><td class="n">100%</td><td class="n">100%</td><td class="n">100%</td><td class="n">100%</td><td>One page per part number (6,700+ pages for 700 families)</td></tr>
+</tbody></table>
+<p class="note">"In list" means the item appears anywhere in the CSV. It doesn't mean the agent knows which product the item belongs to.</p>
+<p><strong>What it does well:</strong> discovery. Its recall is higher than any crawler we built. It also reached Dixon and Apollo, two sites that block our requests completely.</p>
+<p><strong>What it lacks:</strong></p>
+<ul>
+<li><strong>No relationships.</strong> It doesn't record which page a link was found on, so we can't tell which product a PDF or image belongs to without crawling again.</li>
+<li><strong>No sorting.</strong> There are no families, part numbers, specs or prices, and a lot of noise: on Bray, 9 in 10 page rows aren't products.</li>
+<li><strong>Inconsistent labels.</strong> The same kind of file gets different <code>url_type</code> labels on different sites, for example CAD viewers labelled as "document".</li>
+<li><strong>Some discovery gaps.</strong> Cimberio's price list and about half its main documents are missing.</li>
+</ul>
+</section>
+
+<section><h2>3. The rulebook (SPEC v1)</h2>
+<p>Before measuring anything, we wrote down exactly what a correct answer looks like. It was locked on 9 Oct 2026 and clarified 11 times during the work, each time when two labellers disagreed.</p>
+<table><thead><tr><th>Topic</th><th>Rule in short</th></tr></thead><tbody>
+<tr><td>Unit of record</td><td>One record per <strong>product family</strong>, with one canonical URL. A <strong>variant</strong> is an orderable item with its own part number. Option codes (e.g. ".AT", suffixes) are not variants.</td></tr>
+<tr><td>Crawling</td><td>Polite: about 1 request per second per host, honest user agent, no bot-protection workarounds. Pages that robots.txt disallows are in scope.</td></tr>
+<tr><td>Language</td><td>US/CA English first, then generic English. International English is kept but flagged. Multilingual docs only count if English comes first and is at least 50% of the text.</td></tr>
+<tr><td>Documents</td><td>All PDFs, labelled by type (spec sheet, submittal, IOM manual, brochure, price list…). The type is decided by <strong>content</strong>, not file name.</td></tr>
+<tr><td>Images</td><td>Product photos and dimensional drawings only. Keep the largest version (at least 300 px), with no duplicates, infographics or installation/lifestyle photos.</td></tr>
+<tr><td>CAD</td><td>Direct files are recorded. Hosted or gated CAD libraries are recorded as links only; no forms are filled in.</td></tr>
+<tr><td>Specs</td><td>13 fields (materials, end connections, pressure, temperature, sizes, standards, certifications, applications…), using controlled vocabularies. Page and spec sheet are cross-checked as agree, refines or conflict. Conflicts are kept, never silently resolved.</td></tr>
+<tr><td>Evidence</td><td>Every spec value cites a <strong>verbatim quote</strong> from a stored copy of its source, and the validator checks the quote.</td></tr>
+<tr><td>Price</td><td>From manufacturer sources only, per variant. Availability is always filled: price shown, login required, request a quote, or not published.</td></tr>
+</tbody></table>
+</section>
+
+<section><h2>4. Answer keys and the scorer</h2>
+<p><strong>How each key was built</strong> (one labelling session per site, with a checkpoint for the owner's corrections):</p>
+<ol>
+<li><strong>A complete family list</strong> from the site's sitemap and its category navigation, using a written grouping rule. Family counts: Bray 103, Crane 217, Cimberio 32, Sioux Chief 700.</li>
+<li><strong>15 families per site labelled in depth</strong>, picked at random (seed 42): every document, image, CAD file, variant, price and spec, each backed by a stored quote.</li>
+<li><strong>An ambiguity log</strong> recording every judgement call and its reason.</li>
+<li><strong>A blind second labeller</strong> re-labelled 6 families per key without seeing the first key. Disagreements were resolved by clarifying the rulebook.</li>
+</ol>
+<table><thead><tr><th>Key</th><th>Blind agreement, before → after rulebook fixes</th><th>Main sources of disagreement</th></tr></thead><tbody>
+<tr><td>Crane</td><td>specs 78% → 95%; documents 20/29 → 29/29; images → 17/17</td><td>What "standards" covers; image URLs that no page links to</td></tr>
+<tr><td>Cimberio</td><td>specs 81% → 82%; variants 27/27; images 9/9; CAD 2/2</td><td>The blind labeller missed a public price list; material wording</td></tr>
+<tr><td>Bray (images + doc types)</td><td>doc types 73% → 100%; images 76% → 88%</td><td>Led to the "classify by content" and image edge-case rules</td></tr>
+<tr><td>Sioux Chief</td><td>vocabulary pass only</td><td>Its family grouping was approved by the owner at the checkpoint</td></tr>
+</tbody></table>
+<p><strong>Limits to keep in mind:</strong></p>
+<ul>
+<li>Docs, images, specs and prices are measured on 15 families per site. Family counts use the full list.</li>
+<li>Sioux Chief's 700 is the key's catalog model: one family per category card, split where a card mixes product lines (28 times). Spare-parts lines count as separate families. Only the 15 deep families were checked one by one.</li>
+<li>Apollo and Dixon block automated access, so they have no key. Milwaukee and Caleffi are kept untouched as a future blind test and have no keys yet.</li>
+</ul>
+<p><strong>The scorer</strong> checks every output file against the rulebook: schema, quotes, wrong-language and duplicate checks. It then scores each measure against the key: families found and correct, duplicates, docs, CAD, images (including best version), variants, specs (accuracy and completeness, by field), conflicts, prices. It can also score the old agent's CSV, but only for "is it in the list?". It never fetches anything, so scores are repeatable.</p>
+</section>
+
+<section class="pb"><h2>5. The current scraper: built, tuned, then tested blind</h2>
+<p>A crawler plus extractor written to the rulebook. It finds pages from the sitemap and menus, groups them into families, then reads tables and PDFs. It contains no site-specific code, and a test enforces that.</p>
+<p><strong>10 improvement rounds on the two development sites (Bray, Crane)</strong>, average of both:</p>
+<table><thead><tr><th>Measure</th><th class="n">Round 1</th><th class="n">Round 10</th><th>Main changes</th></tr></thead><tbody>
+<tr><td>Main docs found</td><td class="n">81%</td><td class="n">96%</td><td>Allow up to 30 PDFs per family instead of 10</td></tr>
+<tr><td>Part numbers (variants) found</td><td class="n">0%</td><td class="n">87%</td><td>Read model/part-number tables, model headings and identifier lists</td></tr>
+<tr><td>Price status correct</td><td class="n">0%</td><td class="n">89%</td><td>Every family reports a price status</td></tr>
+<tr><td>Specs correct</td><td class="n">54%</td><td class="n">64%</td><td>Temperature formats, sizes from DN/NPS columns, applications from prose</td></tr>
+<tr><td>Spec completeness</td><td class="n">74%</td><td class="n">84%</td><td></td></tr>
+<tr><td>Families found / correct, images</td><td class="n">99 / 91 / 79</td><td class="n">unchanged</td><td></td></tr>
+</tbody></table>
+<p><strong>Then the blind test</strong>, run once on sites it had never seen:</p>
+<table><thead><tr><th>Measure</th><th class="n">Sioux Chief: scraper</th><th class="n">Sioux Chief: old agent list</th><th class="n">Cimberio: scraper</th><th class="n">Cimberio: old agent list</th></tr></thead><tbody>
+<tr><td>Families found</td><td class="n">92%</td><td class="n">100%</td><td class="n">97%</td><td class="n">100%</td></tr>
+<tr><td>Families produced (key)</td><td class="n">6,270 (700)</td><td class="n">–</td><td class="n">47 (32)</td><td class="n">–</td></tr>
+<tr><td>Main docs found</td><td class="n">46%</td><td class="n">100%</td><td class="n">25%</td><td class="n">54%</td></tr>
+<tr><td>CAD found</td><td class="n">14%</td><td class="n">100%</td><td class="n">–</td><td class="n">0%</td></tr>
+<tr><td>Images found</td><td class="n">14%</td><td class="n">100%</td><td class="n">0%</td><td class="n">100%</td></tr>
+<tr><td>Part numbers found</td><td class="n">3%</td><td class="n">–</td><td class="n">0%</td><td class="n">–</td></tr>
+<tr><td>Specs correct</td><td class="n">15%</td><td class="n">–</td><td class="n">35%</td><td class="n">–</td></tr>
+<tr><td>Run time</td><td class="n">~9 h</td><td class="n">–</td><td class="n">2 min</td><td class="n">–</td></tr>
+</tbody></table>
+<p><strong>Why it failed:</strong></p>
+<ol>
+<li><strong>Sioux Chief has one page per part number.</strong> The scraper treated each page as a separate family (6,270 vs 700), which scattered docs, images and sizes across them.</li>
+<li><strong>Cimberio stores its images and most datasheets on its store/CDN domains.</strong> The scraper refused to follow those links.</li>
+<li><strong>Shared datasheets were discarded as "site chrome"</strong>, even when their text named the product.</li>
+<li><strong>The image filter was too strict</strong> (about 79% found even on the development sites).</li>
+<li><strong>It was slow:</strong> fetching one file at a time and parsing the same PDFs again and again.</li>
+</ol>
+<p>We fixed the speed part afterwards. Each PDF is now parsed once, keyed by its content fingerprint: on Bray a run went from 13 min to 7 min, and to 1 min 40 s on a re-run, with byte-identical output.</p>
+</section>
+
+<section><h2>6. Gap analysis: what we missed compared with the original data</h2>
+<p>For every document, image and CAD file in the keys, we asked three questions: did the old agent list it, did our crawl see it, and why did we miss it?</p>
+<table><thead><tr><th>Site</th><th class="n">Key items</th><th class="n">We found</th><th class="n">Missed: seen, then filtered out</th><th class="n">Missed: fetched, then dropped</th><th class="n">Missed: never seen</th></tr></thead><tbody>
+<tr><td>Bray</td><td class="n">164</td><td class="n">153</td><td class="n">6</td><td class="n">3</td><td class="n">2</td></tr>
+<tr><td>Crane</td><td class="n">136</td><td class="n">113</td><td class="n">21</td><td class="n">2</td><td class="n">0</td></tr>
+<tr><td>Cimberio</td><td class="n">56</td><td class="n">10</td><td class="n">39</td><td class="n">0</td><td class="n">7</td></tr>
+<tr><td><strong>Total</strong></td><td class="n">356</td><td class="n">276</td><td class="n"><strong>66 (83% of misses)</strong></td><td class="n">5</td><td class="n">9</td></tr>
+</tbody></table>
+<p><strong>What it means:</strong> we didn't need a better crawler. We needed to stop throwing things away. The old agent had 9 items that our crawl never saw. Everything else we missed, we had already seen and filtered out. That led to the new design.</p>
+</section>
+
+<section class="pb"><h2>7. The new design: "collect wide, sort smart"</h2>
+<p>The old agent <em>collects too much and doesn't sort it</em>. The current scraper <em>sorts well but filters too hard</em>. The new design combines their strengths:</p>
+<table><thead><tr><th>Layer</th><th>Job</th><th>Who</th></tr></thead><tbody>
+<tr><td><strong>1. Collect</strong></td><td>Every page, PDF, image and CAD link, on any host (CDNs included), with where each was found.</td><td>The old agent (decided). Today it supplies bare CSVs, later the extra fields in section 10b.</td></tr>
+<tr><td><strong>2. Sort with rules</strong></td><td>Group pages into families; drop obvious junk; keep obvious matches; read easy fields. Every item gets a <strong>keep / drop / unsure</strong> decision with a reason, and nothing is dropped silently.</td><td>The new processing step (Approach B), deterministic</td></tr>
+<tr><td><strong>3. AI for unsure items only</strong></td><td>"Does this file belong to product X?", free-text specs, page-vs-PDF conflicts. The AI must quote the source text exactly, and the quote is checked.</td><td>Resolver, with cached answers and a budget limit</td></tr>
+<tr><td><strong>Output + audit</strong></td><td>One record per family in the existing format, plus a list of everything rejected and why.</td><td>Scored by the same harness</td></tr>
+</tbody></table>
+<p><strong>Self-healing loop</strong> (designed, not yet tested). The AI answers unsure items. When it answers many similar items the same way, the pattern becomes a reusable <strong>data rule</strong>: a spec-name synonym, a section rule or a per-site profile entry. Cases a data rule can't express go to a coding agent as a reviewed PR. Over time there are fewer unsure items and AI cost falls.</p>
+<p>Guardrails:</p>
+<ul>
+<li>Answer keys only measure, never teach.</li>
+<li>No quote, no answer.</li>
+<li>Every rule is versioned and can be rolled back.</li>
+<li>A new rule can't silently change a confident decision.</li>
+<li>Held-out sites stay untouched.</li>
+<li>Cost is bounded per site.</li>
+</ul>
+</section>
+
+<section><h2>8. Approach B: what we built and what each experiment showed</h2>
+<p><strong>Built:</strong></p>
+<ul>
+<li>A <code>process</code> command that takes the old agent's link file and writes the index in the same format as the current scraper.</li>
+<li>A decisions log: every keep, drop or unsure decision, with its reason and evidence.</li>
+<li>Blocked-site tracking: after 8 blocked replies in a row, it stops asking that host.</li>
+<li>Fetching that works on several hosts at once while staying polite to each.</li>
+<li>A reader for today's CSV (L0) and for the richer format we propose (L1), with a validator.</li>
+<li>An L1 simulator, and a resolver (AI helper) with quote checking, caching and a budget.</li>
+</ul>
+<p>Rule for every experiment (the <strong>keep rule</strong>): the average score must rise, and no key measure on any site may drop more than 2 points.</p>
+<h3>Every experiment, in order</h3><div class="a-table-scroll"><table class="a-table"><caption class="a-visually-hidden">What each experiment changed and its result</caption><thead><tr><th scope="col">Experiment</th><th scope="col">What changed</th><th scope="col">Result</th><th scope="col">Decision</th></tr></thead><tbody><tr><th scope="row">First version</th><td>A new step that sorts the old agent's link list into families, documents, images and specs.</td><td>Better grouping than the current scraper on Bray and Cimberio. On Sioux Chief, 46% of families were lost to the "listing page" rule.</td><td>Starting point</td></tr><tr><th scope="row">Round 1</th><td>Match part numbers as whole words; a performance chart is not a product photo.</td><td>Average score 72.1 → 74.1. Cimberio image accuracy 15% → 50%. Bray images found fell 5 points.</td><td>Kept</td></tr><tr><th scope="row">Round 2</th><td>Keep shared documents linked from the product's own page.</td><td>Average 74.1 → 74.4. Bray main docs 85% → 93%, other docs 81% → 95%.</td><td>Kept</td></tr><tr><th scope="row">Round 3</th><td>Keep documents that cover several products.</td><td>Crane other docs 55% → 94%, but specs got worse. Average 74.4 → 73.8.</td><td>Rejected, undone</td></tr><tr><th scope="row">Round 4</th><td>Keep an image named by the family's own series code.</td><td>Average 74.4 → 74.6. Crane images found 85% → 93%.</td><td>Kept</td></tr><tr><th scope="row">Crane fix</th><td>Stop reading "931" in DA931 as a size, which had merged different products.</td><td>Crane 208 → 218 families (key: 217). Scores unchanged.</td><td>Kept</td></tr><tr><th scope="row">Richer link list (L1)</th><td>Pretend the old agent also saved page copies and file details.</td><td>Same accuracy, 19% fewer downloads, Sioux Chief re-run 49 → 36 min. Image accuracy fell (no duplicate check without downloading).</td><td>Information only</td></tr><tr><th scope="row">Listing-rule fix (Option A)</th><td>Don't drop a "listing-looking" page if its web address and content say it's a product; flag it as unsure instead.</td><td>Sioux Chief families found 54% → 88%, other docs 33% → 87%. Other sites unchanged.</td><td>Kept</td></tr><tr><th scope="row">Item-table grouping rule</th><td>Merge two part-number pages when each lists the other in its item table.</td><td>Right 99.6% of the time. Sioux Chief 5,725 → 4,574 families, sizes found 4% → 19%, images 27% → 40%. Main docs and CAD fell because of how one split family is scored.</td><td>In the PR (formally failed the keep rule)</td></tr><tr><th scope="row">Claude helper</th><td>Ask Claude "are these two pages the same family?" for pairs the rules couldn't settle.</td><td>323 of 497 answered before the usage limit. Only 58% right when it said "same". 4,574 → 4,515 families.</td><td>Stopped: not the right lever</td></tr></tbody></table></div>
+<h3>Targets we set for this phase, and where we are</h3>
+<table><thead><tr><th>Target</th><th>Result</th></tr></thead><tbody>
+<tr><td>Image and document recall ≥ 95%</td><td>Not met. Main docs: Bray 93, Crane 100, Cimberio 54 (the list itself is missing docs), Sioux Chief 39–43. Images: Bray 73, Crane 93, Cimberio 100, Sioux Chief 40.</td></tr>
+<tr><td>Precision drop ≤ 2 points vs current scraper</td><td>Met on Bray, Crane, Cimberio. Not met on Sioux Chief images (62 vs 79 correct).</td></tr>
+<tr><td>~6,000-product site in under 4 h</td><td>Not met on bare CSVs (4 h 09 min). Estimated about 2 h with page copies from the old agent. Re-runs from saved copies take 36–57 min.</td></tr>
+<tr><td>Better than the current scraper overall</td><td>Better on Bray and Cimberio, level on Crane. On Sioux Chief it's mixed: ahead on CAD, images and sizes, behind on main docs and image accuracy.</td></tr>
+</tbody></table>
+<h3>Speed and requests (first runs, nothing saved)</h3>
+<table><thead><tr><th>Site</th><th class="n">New step: requests / time</th><th class="n">Current scraper: requests / time</th></tr></thead><tbody>
+<tr><td>Bray</td><td class="n">1,227 / 26 min</td><td class="n">1,110 / 22 min</td></tr>
+<tr><td>Cimberio</td><td class="n">404 / 6 min</td><td class="n">82 / 1.5 min</td></tr>
+<tr><td>Sioux Chief</td><td class="n">20,639 / 4 h 09 min</td><td class="n">14,408 / 4 h 21 min</td></tr>
+<tr><td>Dixon, Apollo</td><td class="n">blocked after 8 requests; 0 families</td><td class="n">–</td></tr>
+</tbody></table>
+<p class="note">With bare CSVs the new step has to download pages and files just to find out what they are. On Bray, about 1,100 of its 1,227 requests were downloads made only to learn a file's type, size or image dimensions. Richer old-agent output removes most of that.</p>
+<h3>The unsure queue: what the rules couldn't decide</h3>
+<table><thead><tr><th>Question type</th><th class="n">Bray</th><th class="n">Crane</th><th class="n">Cimberio</th><th class="n">Sioux Chief</th><th>Default action</th></tr></thead><tbody>
+<tr><td>Does this file belong to this family?</td><td class="n">265</td><td class="n">82</td><td class="n">0</td><td class="n">386</td><td>keep</td></tr>
+<tr><td>Page and PDF disagree on a spec</td><td class="n">254</td><td class="n">130</td><td class="n">8</td><td class="n">663</td><td>keep both, flag</td></tr>
+<tr><td>Which document type?</td><td class="n">70</td><td class="n">19</td><td class="n">0</td><td class="n">566</td><td>keep as spec sheet</td></tr>
+<tr><td>Which spec value?</td><td class="n">20</td><td class="n">5</td><td class="n">0</td><td class="n">7</td><td>keep first-ranked source</td></tr>
+<tr><td>Same family?</td><td class="n">0</td><td class="n">26</td><td class="n">10</td><td class="n">769 → 497*</td><td>keep separate</td></tr>
+</tbody></table>
+<p class="note">*Rose to 1,648 after the listing-rule fix, then fell to 497 after the item-table rule.</p>
+<h3>The AI helper test, in detail</h3>
+<p>We used Claude (Sonnet, through a subscription login) on Sioux Chief's 497 "same family?" questions. It answered 323 before the usage limit, and we stopped there.</p>
+<ul>
+<li><strong>Verified "different": 256, of which 83% were right. Verified "same": 59, of which 58% were right.</strong> Mostly it merged spare-parts pages with the product they serve. The quotes were real, so the quote check couldn't catch that kind of judgement error.</li>
+<li><strong>Why it can't close the gap:</strong> each answer merges at most two families, and most duplicate families never become a question at all. A perfect run would still leave about 4,100 families against 700.</li>
+<li><strong>Cost:</strong> free on the subscription; about $13 for 497 questions at API prices.</li>
+</ul>
+</section>
+
+<section class="a-section pb" aria-labelledby="s-site"><h2 class="a-section__title" id="s-site">9. Full numbers by site</h2>
+<p class="a-section__note">Each row is one version, measured against the same answer key. The top two rows are the original data: what the old agent's list contains, and what the current scraper produces. The last row is the latest version. Bold rows are the original data and the latest version. </p>
+<div id="panel-sioux-chief" class="a-panel a-print-reveal" role="tabpanel" aria-labelledby="tab-sioux-chief" tabindex="0"><div class="a-panel__head"><h3 class="a-panel__title">Sioux Chief</h3><span class="a-label">% of the answer key</span></div><p class="a-prose">One web page per part number, so it is the hardest site for grouping. *The first live run used older code, and part of its higher numbers came from loose matches on series code alone. "End of rounds" is the real starting point.</p><div class="a-table-scroll"><table class="a-table" data-a-sticky-columns="1"><caption class="a-visually-hidden">Sioux Chief: every experiment against the answer key</caption><thead><tr><th scope="col">Version</th><th scope="col" data-numeric>Families found</th><th scope="col" data-numeric>Families correct</th><th scope="col" data-numeric>Families produced (key: 700)</th><th scope="col" data-numeric>Duplicates score</th><th scope="col" data-numeric>Main docs</th><th scope="col" data-numeric>Other docs</th><th scope="col" data-numeric>CAD</th><th scope="col" data-numeric>Images found</th><th scope="col" data-numeric>Images correct</th><th scope="col" data-numeric>Sizes found</th><th scope="col" data-numeric>Specs correct</th><th scope="col" data-numeric>Specs complete</th></tr></thead><tbody><tr><th scope="row"><strong>Old agent link list</strong><br><span class="a-label">original data</span></th><td data-numeric>100%</td><td data-numeric>–</td><td data-numeric>–</td><td data-numeric>–</td><td data-numeric>100%</td><td data-numeric>100%</td><td data-numeric>100%</td><td data-numeric>100%</td><td data-numeric>–</td><td data-numeric>–</td><td data-numeric>–</td><td data-numeric>–</td></tr><tr><th scope="row"><strong>Current scraper</strong><br><span class="a-label">original tool</span></th><td data-numeric>93%</td><td data-numeric>100%</td><td data-numeric>6,324</td><td data-numeric>0.10</td><td data-numeric>46%</td><td data-numeric>90%</td><td data-numeric>14%</td><td data-numeric>14%</td><td data-numeric>79%</td><td data-numeric>3%</td><td data-numeric>15%</td><td data-numeric>29%</td></tr><tr><th scope="row">First version<br><span class="a-label">live run, older code*</span></th><td data-numeric>59%</td><td data-numeric>100%</td><td data-numeric>3,304</td><td data-numeric>–</td><td data-numeric>36%</td><td data-numeric>17%</td><td data-numeric>86%</td><td data-numeric>37%</td><td data-numeric>50%</td><td data-numeric>9%</td><td data-numeric>20%</td><td data-numeric>37%</td></tr><tr><th scope="row">End of rounds<br><span class="a-label">re-run from saved copies</span></th><td data-numeric>54%</td><td data-numeric>100%</td><td data-numeric>3,749</td><td data-numeric>–</td><td data-numeric>43%</td><td data-numeric>33%</td><td data-numeric>71%</td><td data-numeric>22%</td><td data-numeric>46%</td><td data-numeric>6%</td><td data-numeric>17%</td><td data-numeric>34%</td></tr><tr><th scope="row">Richer link list (L1)<br><span class="a-label">simulated</span></th><td data-numeric>54%</td><td data-numeric>100%</td><td data-numeric>3,749</td><td data-numeric>–</td><td data-numeric>43%</td><td data-numeric>33%</td><td data-numeric>71%</td><td data-numeric>21%</td><td data-numeric>33%</td><td data-numeric>6%</td><td data-numeric>17%</td><td data-numeric>34%</td></tr><tr><th scope="row">Listing-rule fix (Option A)<br><span class="a-label">kept</span></th><td data-numeric>88%</td><td data-numeric>100%</td><td data-numeric>5,725</td><td data-numeric>0.11</td><td data-numeric>43%</td><td data-numeric>87%</td><td data-numeric>71%</td><td data-numeric>27%</td><td data-numeric>50%</td><td data-numeric>4%</td><td data-numeric>18%</td><td data-numeric>35%</td></tr><tr><th scope="row">Item-table grouping rule<br><span class="a-label">in PR</span></th><td data-numeric>90%</td><td data-numeric>100%</td><td data-numeric>4,574</td><td data-numeric>0.14</td><td data-numeric>39%</td><td data-numeric>87%</td><td data-numeric>57%</td><td data-numeric>40%</td><td data-numeric>61%</td><td data-numeric>19%</td><td data-numeric>16%</td><td data-numeric>32%</td></tr><tr><th scope="row"><strong>Claude helper (323 of 497 questions)</strong><br><span class="a-label">stopped</span></th><td data-numeric>90%</td><td data-numeric>100%</td><td data-numeric>4,515</td><td data-numeric>0.14</td><td data-numeric>39%</td><td data-numeric>87%</td><td data-numeric>57%</td><td data-numeric>40%</td><td data-numeric>62%</td><td data-numeric>20%</td><td data-numeric>16%</td><td data-numeric>32%</td></tr></tbody></table></div></div><div id="panel-bray" class="a-panel a-print-reveal" role="tabpanel" aria-labelledby="tab-bray" tabindex="0"><div class="a-panel__head"><h3 class="a-panel__title">Bray</h3><span class="a-label">% of the answer key</span></div><p class="a-prose">Almost nothing changed after round 2. The remaining misses are two families dropped as listing pages and two combined product photos.</p><div class="a-table-scroll"><table class="a-table" data-a-sticky-columns="1"><caption class="a-visually-hidden">Bray: every experiment against the answer key</caption><thead><tr><th scope="col">Version</th><th scope="col" data-numeric>Families found</th><th scope="col" data-numeric>Families correct</th><th scope="col" data-numeric>Families produced (key: 103)</th><th scope="col" data-numeric>Duplicates score</th><th scope="col" data-numeric>Main docs</th><th scope="col" data-numeric>Other docs</th><th scope="col" data-numeric>CAD</th><th scope="col" data-numeric>Images found</th><th scope="col" data-numeric>Images correct</th><th scope="col" data-numeric>Sizes found</th><th scope="col" data-numeric>Specs correct</th><th scope="col" data-numeric>Specs complete</th></tr></thead><tbody><tr><th scope="row"><strong>Old agent link list</strong><br><span class="a-label">original data</span></th><td data-numeric>100%</td><td data-numeric>–</td><td data-numeric>–</td><td data-numeric>–</td><td data-numeric>100%</td><td data-numeric>100%</td><td data-numeric>100%</td><td data-numeric>98%</td><td data-numeric>–</td><td data-numeric>–</td><td data-numeric>–</td><td data-numeric>–</td></tr><tr><th scope="row"><strong>Current scraper</strong><br><span class="a-label">original tool</span></th><td data-numeric>97%</td><td data-numeric>82%</td><td data-numeric>122</td><td data-numeric>1.00</td><td data-numeric>93%</td><td data-numeric>95%</td><td data-numeric>100%</td><td data-numeric>80%</td><td data-numeric>85%</td><td data-numeric>100%</td><td data-numeric>67%</td><td data-numeric>86%</td></tr><tr><th scope="row">First version<br><span class="a-label">live run</span></th><td data-numeric>97%</td><td data-numeric>94%</td><td data-numeric>107</td><td data-numeric>–</td><td data-numeric>85%</td><td data-numeric>81%</td><td data-numeric>100%</td><td data-numeric>78%</td><td data-numeric>84%</td><td data-numeric>100%</td><td data-numeric>67%</td><td data-numeric>85%</td></tr><tr><th scope="row">Round 1<br><span class="a-label">kept</span></th><td data-numeric>97%</td><td data-numeric>94%</td><td data-numeric>107</td><td data-numeric>–</td><td data-numeric>85%</td><td data-numeric>81%</td><td data-numeric>100%</td><td data-numeric>73%</td><td data-numeric>86%</td><td data-numeric>100%</td><td data-numeric>67%</td><td data-numeric>85%</td></tr><tr><th scope="row">Round 2<br><span class="a-label">kept</span></th><td data-numeric>97%</td><td data-numeric>94%</td><td data-numeric>107</td><td data-numeric>–</td><td data-numeric>93%</td><td data-numeric>95%</td><td data-numeric>100%</td><td data-numeric>73%</td><td data-numeric>86%</td><td data-numeric>100%</td><td data-numeric>67%</td><td data-numeric>86%</td></tr><tr><th scope="row">Round 3<br><span class="a-label">rejected</span></th><td data-numeric>97%</td><td data-numeric>94%</td><td data-numeric>107</td><td data-numeric>–</td><td data-numeric>93%</td><td data-numeric>95%</td><td data-numeric>100%</td><td data-numeric>73%</td><td data-numeric>86%</td><td data-numeric>100%</td><td data-numeric>67%</td><td data-numeric>86%</td></tr><tr><th scope="row">Round 4 + Crane fix<br><span class="a-label">kept (end of rounds)</span></th><td data-numeric>97%</td><td data-numeric>94%</td><td data-numeric>107</td><td data-numeric>–</td><td data-numeric>93%</td><td data-numeric>95%</td><td data-numeric>100%</td><td data-numeric>73%</td><td data-numeric>86%</td><td data-numeric>100%</td><td data-numeric>67%</td><td data-numeric>86%</td></tr><tr><th scope="row">Richer link list (L1)<br><span class="a-label">simulated</span></th><td data-numeric>97%</td><td data-numeric>94%</td><td data-numeric>107</td><td data-numeric>–</td><td data-numeric>93%</td><td data-numeric>95%</td><td data-numeric>100%</td><td data-numeric>73%</td><td data-numeric>83%</td><td data-numeric>100%</td><td data-numeric>67%</td><td data-numeric>86%</td></tr><tr><th scope="row">Listing-rule fix (Option A)<br><span class="a-label">kept</span></th><td data-numeric>97%</td><td data-numeric>94%</td><td data-numeric>107</td><td data-numeric>1.00</td><td data-numeric>93%</td><td data-numeric>95%</td><td data-numeric>100%</td><td data-numeric>73%</td><td data-numeric>86%</td><td data-numeric>100%</td><td data-numeric>67%</td><td data-numeric>86%</td></tr><tr><th scope="row"><strong>Item-table grouping rule</strong><br><span class="a-label">in PR</span></th><td data-numeric>97%</td><td data-numeric>94%</td><td data-numeric>107</td><td data-numeric>1.00</td><td data-numeric>93%</td><td data-numeric>95%</td><td data-numeric>100%</td><td data-numeric>73%</td><td data-numeric>86%</td><td data-numeric>100%</td><td data-numeric>67%</td><td data-numeric>86%</td></tr></tbody></table></div></div><div id="panel-crane" class="a-panel a-print-reveal" role="tabpanel" aria-labelledby="tab-crane" tabindex="0"><div class="a-panel__head"><h3 class="a-panel__title">Crane</h3><span class="a-label">% of the answer key</span></div><p class="a-prose">The Crane fix stopped wrong merges (for example DA931 with DA941), taking families from 208 to 218 against 217 in the key. Round 3 raised "other docs" but made specs worse, so it was undone.</p><div class="a-table-scroll"><table class="a-table" data-a-sticky-columns="1"><caption class="a-visually-hidden">Crane: every experiment against the answer key</caption><thead><tr><th scope="col">Version</th><th scope="col" data-numeric>Families found</th><th scope="col" data-numeric>Families correct</th><th scope="col" data-numeric>Families produced (key: 217)</th><th scope="col" data-numeric>Duplicates score</th><th scope="col" data-numeric>Main docs</th><th scope="col" data-numeric>Other docs</th><th scope="col" data-numeric>CAD</th><th scope="col" data-numeric>Images found</th><th scope="col" data-numeric>Images correct</th><th scope="col" data-numeric>Sizes found</th><th scope="col" data-numeric>Specs correct</th><th scope="col" data-numeric>Specs complete</th></tr></thead><tbody><tr><th scope="row"><strong>Old agent link list</strong><br><span class="a-label">original data</span></th><td data-numeric>99%</td><td data-numeric>–</td><td data-numeric>–</td><td data-numeric>–</td><td data-numeric>100%</td><td data-numeric>100%</td><td data-numeric>67%</td><td data-numeric>100%</td><td data-numeric>–</td><td data-numeric>–</td><td data-numeric>–</td><td data-numeric>–</td></tr><tr><th scope="row"><strong>Current scraper</strong><br><span class="a-label">original tool</span></th><td data-numeric>100%</td><td data-numeric>100%</td><td data-numeric>218</td><td data-numeric>0.99</td><td data-numeric>100%</td><td data-numeric>71%</td><td data-numeric>100%</td><td data-numeric>78%</td><td data-numeric>100%</td><td data-numeric>74%</td><td data-numeric>62%</td><td data-numeric>83%</td></tr><tr><th scope="row">First version<br><span class="a-label">live run</span></th><td data-numeric>100%</td><td data-numeric>100%</td><td data-numeric>208</td><td data-numeric>–</td><td data-numeric>100%</td><td data-numeric>55%</td><td data-numeric>100%</td><td data-numeric>85%</td><td data-numeric>100%</td><td data-numeric>74%</td><td data-numeric>62%</td><td data-numeric>83%</td></tr><tr><th scope="row">Round 1<br><span class="a-label">kept</span></th><td data-numeric>100%</td><td data-numeric>100%</td><td data-numeric>208</td><td data-numeric>–</td><td data-numeric>100%</td><td data-numeric>45%</td><td data-numeric>100%</td><td data-numeric>85%</td><td data-numeric>100%</td><td data-numeric>74%</td><td data-numeric>61%</td><td data-numeric>79%</td></tr><tr><th scope="row">Round 2<br><span class="a-label">kept</span></th><td data-numeric>100%</td><td data-numeric>100%</td><td data-numeric>208</td><td data-numeric>–</td><td data-numeric>100%</td><td data-numeric>55%</td><td data-numeric>100%</td><td data-numeric>85%</td><td data-numeric>100%</td><td data-numeric>74%</td><td data-numeric>62%</td><td data-numeric>83%</td></tr><tr><th scope="row">Round 3<br><span class="a-label">rejected</span></th><td data-numeric>100%</td><td data-numeric>100%</td><td data-numeric>208</td><td data-numeric>–</td><td data-numeric>100%</td><td data-numeric>94%</td><td data-numeric>100%</td><td data-numeric>85%</td><td data-numeric>100%</td><td data-numeric>74%</td><td data-numeric>62%</td><td data-numeric>83%</td></tr><tr><th scope="row">Round 4 + Crane fix<br><span class="a-label">kept (end of rounds)</span></th><td data-numeric>100%</td><td data-numeric>100%</td><td data-numeric>218</td><td data-numeric>–</td><td data-numeric>100%</td><td data-numeric>55%</td><td data-numeric>100%</td><td data-numeric>93%</td><td data-numeric>100%</td><td data-numeric>74%</td><td data-numeric>62%</td><td data-numeric>83%</td></tr><tr><th scope="row">Richer link list (L1)<br><span class="a-label">simulated</span></th><td data-numeric>100%</td><td data-numeric>100%</td><td data-numeric>218</td><td data-numeric>–</td><td data-numeric>100%</td><td data-numeric>55%</td><td data-numeric>100%</td><td data-numeric>93%</td><td data-numeric>100%</td><td data-numeric>74%</td><td data-numeric>62%</td><td data-numeric>83%</td></tr><tr><th scope="row">Listing-rule fix (Option A)<br><span class="a-label">kept</span></th><td data-numeric>100%</td><td data-numeric>100%</td><td data-numeric>218</td><td data-numeric>0.99</td><td data-numeric>100%</td><td data-numeric>55%</td><td data-numeric>100%</td><td data-numeric>93%</td><td data-numeric>100%</td><td data-numeric>74%</td><td data-numeric>62%</td><td data-numeric>83%</td></tr><tr><th scope="row"><strong>Item-table grouping rule</strong><br><span class="a-label">in PR</span></th><td data-numeric>100%</td><td data-numeric>100%</td><td data-numeric>218</td><td data-numeric>0.99</td><td data-numeric>100%</td><td data-numeric>55%</td><td data-numeric>100%</td><td data-numeric>93%</td><td data-numeric>100%</td><td data-numeric>74%</td><td data-numeric>62%</td><td data-numeric>83%</td></tr></tbody></table></div></div><div id="panel-cimberio" class="a-panel a-print-reveal" role="tabpanel" aria-labelledby="tab-cimberio" tabindex="0"><div class="a-panel__head"><h3 class="a-panel__title">Cimberio</h3><span class="a-label">% of the answer key</span></div><p class="a-prose">The old agent's list is missing about half the main documents and the price list, so 54% is the ceiling for main docs whatever we do.</p><div class="a-table-scroll"><table class="a-table" data-a-sticky-columns="1"><caption class="a-visually-hidden">Cimberio: every experiment against the answer key</caption><thead><tr><th scope="col">Version</th><th scope="col" data-numeric>Families found</th><th scope="col" data-numeric>Families correct</th><th scope="col" data-numeric>Families produced (key: 32)</th><th scope="col" data-numeric>Duplicates score</th><th scope="col" data-numeric>Main docs</th><th scope="col" data-numeric>Other docs</th><th scope="col" data-numeric>CAD</th><th scope="col" data-numeric>Images found</th><th scope="col" data-numeric>Images correct</th><th scope="col" data-numeric>Sizes found</th><th scope="col" data-numeric>Specs correct</th><th scope="col" data-numeric>Specs complete</th></tr></thead><tbody><tr><th scope="row"><strong>Old agent link list</strong><br><span class="a-label">original data</span></th><td data-numeric>100%</td><td data-numeric>–</td><td data-numeric>–</td><td data-numeric>–</td><td data-numeric>54%</td><td data-numeric>100%</td><td data-numeric>0%</td><td data-numeric>100%</td><td data-numeric>–</td><td data-numeric>–</td><td data-numeric>–</td><td data-numeric>–</td></tr><tr><th scope="row"><strong>Current scraper</strong><br><span class="a-label">original tool</span></th><td data-numeric>97%</td><td data-numeric>66%</td><td data-numeric>47</td><td data-numeric>1.00</td><td data-numeric>25%</td><td data-numeric>12%</td><td data-numeric>67%</td><td data-numeric>0%</td><td data-numeric>–</td><td data-numeric>0%</td><td data-numeric>34%</td><td data-numeric>43%</td></tr><tr><th scope="row">First version<br><span class="a-label">live run</span></th><td data-numeric>100%</td><td data-numeric>100%</td><td data-numeric>23</td><td data-numeric>–</td><td data-numeric>54%</td><td data-numeric>100%</td><td data-numeric>100%</td><td data-numeric>100%</td><td data-numeric>15%</td><td data-numeric>0%</td><td data-numeric>53%</td><td data-numeric>72%</td></tr><tr><th scope="row">Round 1<br><span class="a-label">kept</span></th><td data-numeric>100%</td><td data-numeric>100%</td><td data-numeric>32</td><td data-numeric>–</td><td data-numeric>54%</td><td data-numeric>100%</td><td data-numeric>100%</td><td data-numeric>100%</td><td data-numeric>50%</td><td data-numeric>0%</td><td data-numeric>53%</td><td data-numeric>72%</td></tr><tr><th scope="row">Round 2<br><span class="a-label">kept</span></th><td data-numeric>100%</td><td data-numeric>100%</td><td data-numeric>32</td><td data-numeric>–</td><td data-numeric>54%</td><td data-numeric>100%</td><td data-numeric>100%</td><td data-numeric>100%</td><td data-numeric>50%</td><td data-numeric>0%</td><td data-numeric>53%</td><td data-numeric>72%</td></tr><tr><th scope="row">Round 3<br><span class="a-label">rejected</span></th><td data-numeric>100%</td><td data-numeric>100%</td><td data-numeric>32</td><td data-numeric>–</td><td data-numeric>54%</td><td data-numeric>100%</td><td data-numeric>100%</td><td data-numeric>100%</td><td data-numeric>50%</td><td data-numeric>0%</td><td data-numeric>53%</td><td data-numeric>72%</td></tr><tr><th scope="row">Round 4 + Crane fix<br><span class="a-label">kept (end of rounds)</span></th><td data-numeric>100%</td><td data-numeric>100%</td><td data-numeric>32</td><td data-numeric>–</td><td data-numeric>54%</td><td data-numeric>100%</td><td data-numeric>100%</td><td data-numeric>100%</td><td data-numeric>50%</td><td data-numeric>0%</td><td data-numeric>53%</td><td data-numeric>72%</td></tr><tr><th scope="row">Richer link list (L1)<br><span class="a-label">simulated</span></th><td data-numeric>100%</td><td data-numeric>100%</td><td data-numeric>32</td><td data-numeric>–</td><td data-numeric>54%</td><td data-numeric>100%</td><td data-numeric>100%</td><td data-numeric>100%</td><td data-numeric>50%</td><td data-numeric>0%</td><td data-numeric>53%</td><td data-numeric>72%</td></tr><tr><th scope="row">Listing-rule fix (Option A)<br><span class="a-label">kept</span></th><td data-numeric>100%</td><td data-numeric>100%</td><td data-numeric>32</td><td data-numeric>1.00</td><td data-numeric>54%</td><td data-numeric>100%</td><td data-numeric>100%</td><td data-numeric>100%</td><td data-numeric>50%</td><td data-numeric>0%</td><td data-numeric>53%</td><td data-numeric>72%</td></tr><tr><th scope="row"><strong>Item-table grouping rule</strong><br><span class="a-label">in PR</span></th><td data-numeric>100%</td><td data-numeric>100%</td><td data-numeric>32</td><td data-numeric>1.00</td><td data-numeric>54%</td><td data-numeric>100%</td><td data-numeric>100%</td><td data-numeric>100%</td><td data-numeric>50%</td><td data-numeric>0%</td><td data-numeric>53%</td><td data-numeric>72%</td></tr></tbody></table></div></div></section>
+
+<section class="pb"><h2>10. Proposals</h2>
+<h3>10a. Site profile: "how is this site organised?" (built, first results measured)</h3>
+<p><strong>What it is.</strong> A new first step in processing. It runs <em>after</em> the old agent and <em>before</em> grouping: old agent collects &rarr; site profile &rarr; grouping and sorting &rarr; scoring. It needs nothing new from the old agent: it reads the existing link list and saved page copies, with no new crawling.</p>
+<p><strong>How it works.</strong> It groups the links by URL pattern and opens 5 pages of each pattern. It looks for a repeated "card" layout (many small boxes, each with a name, a link and a part number). Then it tests five family shapes on about 50 sampled product pages:</p>
+<ul>
+<li><strong>Category cards:</strong> each card on a category page is a family.</li>
+<li><strong>Family pages:</strong> one page lists several part numbers.</li>
+<li><strong>Item tables:</strong> a page lists its sibling part numbers.</li>
+<li><strong>Shared spec sheet:</strong> a hint only, because one sheet can cover several families.</li>
+<li><strong>One page per model.</strong></li>
+</ul>
+<p>Each shape is scored on how many pages it explains and how often it contradicts itself. The winner is written to a short readable file, <code>&lt;site&gt;.profile.json</code>, with the reason and example pages. A person can check or correct it by hand. It takes 3&ndash;15 seconds per site. The answer keys are never used to build it.</p>
+<table><thead><tr><th>Site</th><th>Shape picked</th><th>Evidence from the sample</th></tr></thead><tbody>
+<tr><td>Sioux Chief</td><td>Category cards</td><td>Cards name the family of 100% of sampled pages, with no contradictions. 164 category pages read (out of about 7,000 pages); 698 card families.</td></tr>
+<tr><td>Bray</td><td>Family pages</td><td>88% of sampled pages list several part numbers</td></tr>
+<tr><td>Crane</td><td>One page per model</td><td>95% of sampled pages are one model each</td></tr>
+<tr><td>Cimberio</td><td>One page per model</td><td>91% of sampled pages are one model each</td></tr>
+</tbody></table>
+<p><strong>Grouping follows the profile.</strong> Pages the profile covers go into its families first. Today's rules only handle the rest, and they can never merge two families the profile keeps apart. On Bray, Crane and Cimberio, today's rules already matched the site's shape, so their scores are <strong>exactly unchanged</strong>.</p>
+<p><strong>Sioux Chief results</strong> (% of the answer key; "correct" = share of what we picked that the key agrees with):</p>
+<table><thead><tr><th></th><th data-numeric>Before (item-table rule)</th><th data-numeric>Profile, first version</th><th data-numeric>Profile, fixed</th></tr></thead><tbody>
+<tr><td>Families produced (real: 700)</td><td data-numeric>4,574</td><td data-numeric>572</td><td data-numeric><strong>603</strong></td></tr>
+<tr><td>Duplicates score (1 = none)</td><td data-numeric>0.14</td><td data-numeric>0.93</td><td data-numeric><strong>0.93</strong></td></tr>
+<tr><td>Families found</td><td data-numeric>90</td><td data-numeric>89</td><td data-numeric>89</td></tr>
+<tr><td>Sizes/part numbers found / correct</td><td data-numeric>19 / 90</td><td data-numeric>83 / 40</td><td data-numeric><strong>83</strong> / 48</td></tr>
+<tr><td>CAD found / correct</td><td data-numeric>57 / 100</td><td data-numeric>100 / 78</td><td data-numeric><strong>100 / 100</strong></td></tr>
+<tr><td>Main docs found / correct</td><td data-numeric>39 / 92</td><td data-numeric>46 / 33</td><td data-numeric>46 / <strong>46</strong></td></tr>
+<tr><td>Other docs found / correct</td><td data-numeric>87 / 96</td><td data-numeric>87 / 84</td><td data-numeric>87 / 90</td></tr>
+<tr><td>Images found / correct</td><td data-numeric>40 / 61</td><td data-numeric>47 / 46</td><td data-numeric>51 / 52</td></tr>
+<tr><td>Specs / completeness</td><td data-numeric>16 / 32</td><td data-numeric>19 / 36</td><td data-numeric>20 / 36</td></tr>
+<tr><td>Price info right</td><td data-numeric>19</td><td data-numeric>83</td><td data-numeric>83</td></tr>
+<tr><td>Processing time (saved copies)</td><td data-numeric>52 min</td><td data-numeric>~14 min</td><td data-numeric>27 min</td></tr>
+</tbody></table>
+<ul>
+<li><strong>The big win:</strong> the "6&times; too many families" problem is mostly solved: 4,574 &rarr; 603 against 700 real ones. Sizes, CAD and price info jump with it.</li>
+<li><strong>The fix between versions:</strong> parent category pages repeat their sub-categories' cards under the same names, and the first version merged them. Now a part number listed on several category pages belongs to the most specific one (the page with the fewest cards). That is a general rule about category sites. We found it by comparing with the answer key, and we say so in the report.</li>
+<li><strong>What still fails:</strong> on a few cards, the site lists several product lines under one name, which the answer key splits by hand. For example, one card covers 6 families in the key. A merged family picks up the other families' documents and images. Two of the 15 hand-checked families are like this, so "correct" main docs fall from 92% to 46%. By our keep rule (no key number may drop more than 2 points), it doesn't pass yet. So the profile is <strong>opt-in</strong> (<code>process --profile</code>), not the default.</li>
+<li><strong>Why some profile families are still mixed:</strong>
+<ul>
+<li>One card shows the same product across several pipe types, while the key splits by pipe type.</li>
+<li>The card names a size or connection; the real family name (the series) sits above the card.</li>
+<li>A small card includes related items, such as a tool or accessory, that the key treats as their own family.</li>
+</ul></li>
+</ul>
+<p class="note">Code and full numbers: PR #7, <code>scraper/mfr_scraper/process/profile.py</code>, REPORT_APPROACH_B.md section 14. 85 unit tests pass.</p>
+
+<h3>Proposed next: a shared shape catalogue (written, not yet built or tested)</h3>
+<p>The goal is a profile step that is repeatable and accurate on new manufacturers, with no rules written for a single site.</p>
+<ol>
+<li><strong>Rules live in one harness document</strong> (<code>SITE_PROFILE.md</code>, next to SPEC.md). It lists a small, fixed set of general family shapes: category cards, family pages, item tables, one page per model. It also lists building blocks, such as "series heading above the cards" or "pipe type in the category or product name". For each one it states how to detect it, its pass bar (coverage and contradictions), how families are formed, and its unit tests.</li>
+<li><strong>A site profile holds settings only, never logic.</strong> For example: shape = category cards; card = this box; family name = series heading + card name. The same code runs for every site.</li>
+<li><strong>Code tries first.</strong> If a catalogue shape passes its bar, code builds the profile in seconds, for $0, with no AI.</li>
+<li><strong>New, unrecognised sites go to the site profile agent</strong> (below), which may only choose from the catalogue.</li>
+<li><strong>The catalogue changes only by a reviewed PR.</strong> A new shape must be described in general terms, work on at least 2 manufacturers (including one it wasn't built on), and make no existing site worse (keep rule).</li>
+<li><strong>Proof is blind.</strong> We build answer keys for 3&ndash;5 new manufacturers, run with no tuning, and report the scores as they are.</li>
+</ol>
+<h3>Site profile agent (design only, not built)</h3>
+<p>Code handles every site it recognises. The agent is only for sites where no catalogue shape passes its bar.</p>
+<table><thead><tr><th>Question</th><th>Design</th></tr></thead><tbody>
+<tr><td>When it runs</td><td>Only when code finds no catalogue shape that passes, or the winning shape has too many contradictions. Off by default.</td></tr>
+<tr><td>What it sees</td><td>The catalogue (SITE_PROFILE.md), 10&ndash;20 sample pages from the old agent's list (saved copies), and code's score for each shape. Never the answer key.</td></tr>
+<tr><td>What it returns</td><td>A shape and its settings, chosen from the catalogue. For example, which page element is a card and where the family name sits. Each setting is backed by a word-for-word quote from a sample page.</td></tr>
+<tr><td>What it may not do</td><td>Invent a rule, write code, or list families by hand.</td></tr>
+<tr><td>How its answer is checked</td><td>Code confirms the shape is in the catalogue and every quote appears in the pages. It then rebuilds the families with those settings and scores them on coverage and contradictions.<br><strong>Pass:</strong> the profile is saved, marked "decided by agent".<br><strong>Fail:</strong> it's marked "needs review" and the standard rules are used.</td></tr>
+<tr><td>If nothing in the catalogue fits</td><td>The agent says so and describes the pattern. A person decides whether it becomes a new general shape: a reviewed PR that works on 2+ manufacturers and passes the keep rule.</td></tr>
+<tr><td>Repeatability</td><td>Accepted settings are saved in the profile. Later runs reuse them with no new AI call, so the same input gives the same output.</td></tr>
+<tr><td>Cost</td><td>A few AI calls per new, unrecognised site (estimate); $0 for recognised sites.</td></tr>
+</tbody></table>
+<table><thead><tr><th>Step</th><th>What</th><th>Expected effect (estimate, untested)</th><th>Effort</th></tr></thead><tbody>
+<tr><td>a</td><td>Load the 103 missing category pages; confirm the pipe-type and series clues are on the pages</td><td>Shows whether the first two causes can be fixed from site data</td><td>~15 min</td></tr>
+<tr><td>b</td><td>Write the catalogue, move profiles to settings only, add the two building blocks, send small mixed cards to unsure</td><td>Families mixed by the first two causes split correctly; aim: Sioux Chief passes the keep rule</td><td>2&ndash;3 days</td></tr>
+<tr><td>c</td><td>Answer keys for 3&ndash;5 new manufacturers + blind run</td><td>The real test of "works on new sites"</td><td>~1 session per site</td></tr>
+</tbody></table>
+
+<h3>10b. Free extra fields from the old agent</h3>
+<p>The rule is no new requests: the agent records only what it already has in hand while crawling. Output is one JSON line per page or link (the format and validator already exist).</p>
+<table><thead><tr><th>Priority</th><th>Fields</th><th>What it unlocks</th></tr></thead><tbody>
+<tr><td>1. Relationships</td><td>found_on (page the link was on), link text, section heading, in header/footer/menu, link kind</td><td>Which docs and images belong to which product, without crawling again</td></tr>
+<tr><td>2. HTTP facts</td><td>status, final URL, content type, size</td><td>Dead links and true file types, without downloading</td></tr>
+<tr><td>3. Page facts</td><td><strong>saved page copy</strong>, title, breadcrumb, canonical URL, language, structured product data, has spec table</td><td>Works on sites that block us (Dixon, Apollo), removes page fetching (68% of Bray's run time), and gives cleaner grouping</td></tr>
+<tr><td>4. Image details</td><td>alt text, width/height, srcset, plus a content fingerprint</td><td>Picks the best image without downloading every size. Without the fingerprint, duplicates slip through (measured: −3 to −13 points of image accuracy).</td></tr>
+<tr><td>5. Change detection</td><td>etag, last-modified, sitemap date, crawl time, agent version</td><td>Cheap re-runs: only changed items are re-checked</td></tr>
+</tbody></table>
+<p>Also: one fixed label set for <code>url_type</code>, normalised URLs, and "tag, don't drop": language copies, footer links and off-site links are kept with tags. Acceptance checks: every link's "found on" page exists in the file; run time stays within ±5%; the file passes the validator. Separately, the agent's discovery gaps (Cimberio's price list and documents) need fixing on its side, because no extra field fixes them.</p>
+
+<h3>10c. Better specs (the biggest gap on every site)</h3>
+<ul>
+<li>A shared dictionary of spec names, e.g. "Working Press." means pressure rating.</li>
+<li>Fewer false page-vs-PDF conflicts. Most flagged conflicts are formatting differences, e.g. "-10 to 100" vs "10 - 120°C".</li>
+<li>AI reads spec tables and PDFs, and every value must come with a verified quote. This is where AI is most useful: an estimated +2–3 average points from conflicts alone.</li>
+</ul>
+<p><strong>Effort:</strong> about 1 week.</p>
+
+<h3>10d. Smaller rule fixes already identified (no new data needed)</h3>
+<ul>
+<li>Match "non-product" URL words only as whole path segments. This rescues Bray's "series-70-hazardous-location", for example.</li>
+<li>Let spec tables and spec downloads outweigh "listing page" cues for pages without a product word in the URL. This would cover Bray's 2 remaining dropped families.</li>
+<li>Name combined product photos correctly (Bray images).</li>
+<li>Keep multi-product documents without creating false spec conflicts (Crane other docs: 55% vs 71%).</li>
+<li>Keep fingerprinting images the step decides to keep, even when their size is already known.</li>
+</ul>
+
+<h3>10e. Prove it on new manufacturers</h3>
+<p>Build answer keys for 3–5 varied manufacturers, about one session each, using the same process. Include electrical, plumbing and mechanical makers, one with assets on a CDN and one with part-number pages. Then run blind, with no tuning. Milwaukee and Caleffi stay reserved for the final blind test. This is the only honest way to say "it works for all manufacturers".</p>
+
+<h3>10f. Database for production (DATA_MODEL.md, design only)</h3>
+<p>Three services share Postgres tables and never call each other:</p>
+<ul>
+<li>a <strong>link collector</strong> (the old agent);</li>
+<li>a <strong>processor</strong> (this step);</li>
+<li>a <strong>health checker</strong>, which re-checks links and queues the families that changed.</li>
+</ul>
+<table><thead><tr><th>Tables</th><th>Why</th></tr></thead><tbody>
+<tr><td>sites, links, <strong>page_links</strong> (which page links to which), link_versions (each stored copy with its fingerprint)</td><td>The relationships are the main grouping evidence. Every value traces back to the exact copy it came from.</td></tr>
+<tr><td>families, family_assets (with keep/drop/unsure + reason), variants, spec_values + spec_sources, prices</td><td>The output plus its audit trail. Page and PDF values are both kept; prices sit on the variant, or on the family when it has no variants.</td></tr>
+<tr><td>runs; plus ai_decisions and rules for the self-healing loop</td><td>Runs can be compared and rolled back. Only new or changed links are reprocessed, which is essential at thousands of sites.</td></tr>
+</tbody></table>
+<p>Evaluation stays file-based, through an exporter, so the answer keys keep working. Migration: loader → storage interface → old agent writes to the tables → schedule the services.</p>
+</section>
+
+<section class="pb"><h2>11. Plan, decisions and risks</h2>
+<table><thead><tr><th>Step</th><th>Work</th><th>Success check</th><th>Effort</th></tr></thead><tbody>
+<tr><td>1</td><td>Site-profile step (10a). <strong>Built:</strong> 3 sites unchanged; Sioux Chief 4,574 &rarr; 603 families. Still to do: split mixed cards, or a team decision on the key.</td><td>No regressions on 3 sites, and no key number on Sioux Chief drops more than 2 points</td><td>Done</td></tr>
+<tr><td>1b</td><td>Shape catalogue (10a): rules in SITE_PROFILE.md, profiles as settings only; then the site profile agent for unrecognised sites (chooses from the catalogue only)</td><td>Sioux Chief passes the keep rule; no site gets worse; new shapes only via reviewed PR, proven on 2+ sites</td><td>2–3 days, then 2–3 days for the agent (estimate)</td></tr>
+<tr><td>2</td><td>Old-agent fields (10b), starting with found_on and page copies</td><td>Validator passes; run time ±5%; Dixon/Apollo produce families</td><td>On the old agent's side</td></tr>
+<tr><td>3</td><td>Specs (10c) and rule fixes (10d)</td><td>Spec accuracy and conflict precision up ≥ 5 points</td><td>~1 week</td></tr>
+<tr><td>4</td><td>New answer keys + blind test (10e)</td><td>Scores hold on unseen manufacturers with no tuning</td><td>~1 session per site</td></tr>
+<tr><td>5</td><td>Self-healing loop, then database (7, 10f)</td><td>Unsure items and AI cost fall run over run; no score drops</td><td>After steps 1–4</td></tr>
+</tbody></table>
+<p><strong>Honest status against 97%:</strong> we are not there. Families on page-per-family sites (Bray, Crane, Cimberio) are at 93–100%. On Sioux Chief, the site profile brings families to 603 (700 real), but main-document accuracy is still too low. Specs (15–67%) are far off everywhere. Steps 1–2 target grouping and documents, step 3 targets specs, and step 4 is the proof.</p>
+<p><strong>Decisions the team needs to make:</strong></p>
+<ol>
+<li>Can we get the old agent's code, or ask its owners for the extra fields?</li>
+<li>For the AI layer: which model, what cost per site is acceptable, and should learned rules apply automatically or go to review first?</li>
+<li>Is some run-to-run variation acceptable on the unsure items? It can be reduced with fixed model versions and cached answers.</li>
+<li>What is the speed target for a 6,000-product catalogue?</li>
+<li>Which manufacturers get answer keys next?</li>
+<li>Should spare-parts lines count as separate families (as the keys do now) or join their product?</li>
+<li>Who reviews and approves new shapes in the catalogue, and is a person needed to confirm each new site's profile at first?</li>
+<li>When a site's own category card covers several product lines, is that one family (as the site shows it) or several (as the key splits it)?</li>
+</ol>
+<p><strong>Risks:</strong></p>
+<ul>
+<li>Collecting wider means more for the sorter to get wrong. This is why there's a precision gate.</li>
+<li>AI answers can be confidently wrong, even with real quotes, as the 58% result showed. Use AI for reading, not for structural decisions.</li>
+<li>Blocked sites can't be scored.</li>
+<li>Results on only a few sites misled us once already.</li>
+</ul>
+</section>
+
+<section><h2>Appendix: where everything lives</h2>
+<p class="note">Repository: github.com/ved-dave/manufacturer-scraper-eval. The Approach B work is in PR #7 (not merged).</p>
+<table><thead><tr><th>Document</th><th>Contents</th></tr></thead><tbody>
+<tr><td>SPEC.md</td><td>The rulebook</td></tr>
+<tr><td>harness/ (gold/, mfr_harness/)</td><td>Answer keys, ambiguity logs, blind re-label notes, validator and scorer</td></tr>
+<tr><td>REPORT.md</td><td>The current scraper: 10 rounds, blind test, gap analysis</td></tr>
+<tr><td>scraping-approach-proposal.md</td><td>"Collect wide, sort smart" design and the self-healing loop</td></tr>
+<tr><td>OLD_AGENT_IMPROVEMENTS.md</td><td>Field-by-field request for the old agent</td></tr>
+<tr><td>DATA_MODEL.md</td><td>Production database design</td></tr>
+<tr><td>REPORT_APPROACH_B.md, AUTONOMY_LOG.md</td><td>Every Approach B experiment, with numbers and decisions</td></tr>
+</tbody></table>
+</section>
+<p class="foot">Sources: manufacturer-scraper-eval repository (SPEC.md, REPORT.md, REPORT_APPROACH_B.md, scraping-approach-proposal.md, OLD_AGENT_IMPROVEMENTS.md, DATA_MODEL.md, harness score files). All scores use the unchanged answer keys.</p></body></html>

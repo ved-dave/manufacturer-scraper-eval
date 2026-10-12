@@ -489,3 +489,102 @@ first-pass session compares (before/after agreement) and fixes; < 80% before-fix
 - Bray end-to-end, fetch cache warm: 13:08 → 7:10 wall time (cold parse cache). Output identical with timestamps
   masked. Peak RSS 1,087 → 1,106 MB. Warm parse cache: 1:40 and 285 MB, also identical. Held-out scores stay tied to `pre-final-test`; no held-out site was re-run.
 - Kept.
+
+## Approach B PoC
+
+### 2026-10-11 · Setup and decisions
+- Branch `approachb/poc` from `main`. Milwaukee and Caleffi not opened, run or scored; `sites.json` splits unchanged;
+  answer keys unchanged. No LLM calls.
+- Built: `harness/schema/link_record.schema.json` + `mfr_harness.validate_links`; L0/L1 readers
+  (`scraper/mfr_scraper/process/readers.py`) feeding one `ProcessRun`; `python -m mfr_scraper process --site <s> --links <file>`.
+  Writes the existing SiteRun JSON, `<site>.decisions.jsonl` (keep/drop/unsure + reason; unsure items carry candidate,
+  family, evidence for/against, why undecided, default action, cache key), and blocked requests per item.
+- Decision: assets are followed on any host, but the SiteRun validator only accepts the site's allowed hosts
+  (SPEC rule), so off-allowlist files go to the unsure queue or are dropped with a reason. sites.json not widened.
+- Decision: score comparisons for rounds use cache-backed offline re-runs (same inputs, no network), because a cold
+  run per round per site would take ~10 h with Sioux Chief. Cold runs are reported once per system.
+
+### Rounds (keep rule: macro average of the AUTONOMOUS_RUN key metrics rises, no site drops > 2 points on any key metric)
+Measured on bray, crane, cimberio (Sioux Chief re-processed from cache at the end).
+- Round 1 (`7cf3950`): whole-token product-code matching; series sheets no longer merge distinct models
+  (778V vs 778VS); performance charts are not product photos. Macro 72.13 → 74.05. Drops: bray image recall 78.0 → 73.2,
+  crane image recall 92.7 → 85.4 (valve+actuator photos named by two codes). Crane drop fixed by round 4; bray drop
+  remains (two "s5a/s5b_92-93" combo photos). Kept: cimberio image precision 15 → 50, crane CAD precision 46 → 100.
+- Round 2 (`43aadf1`): shared documents linked from the product's page content are kept; "Recommended Specs" is not a
+  related-products section. Macro 74.05 → 74.36. Bray primary docs 85 → 93, secondary 81 → 95. Drop: bray conflict
+  precision 15.4 → 12.5 (2.9 pt on a 13-item metric). Kept, with this drop reported.
+- Round 3 (`9b50997`): multi-product documents naming this family kept; site-wide docs in page content kept; nominal
+  sizes (DN15) are not model codes. Macro 74.36 → 73.80; crane conflict precision 50 → 33. Rework 1 (shared docs not
+  used as spec sources): macro 70.17, specs −10 to −25 pts. Rework 2 (only brochures/manuals excluded from specs):
+  74.02, crane conflict still 33, cimberio completeness −2.7. REJECTED, reverted (`68c27ca`). Crane secondary docs
+  94 → 55 as a result (not a key metric).
+- Round 4 (`5bcbf15`): an image named by the family's own series code survives a second family's code. On top of
+  round 2: macro 74.36 → 74.60, no drops > 2. Crane image recall 85 → 93. Kept.
+- Regression fixes with tests: trickling download hung the crane run ~10 min → `DOWNLOAD_DEADLINE` 300 s (`d28cfd4`).
+
+### L1 measured (owner request)
+- `mfr_scraper.process.simulate_l1` builds an L1 file from the old agent's CSV plus our fetch cache (only URLs in the
+  agent's inventory; html_snapshot, page facts, link context, file facts, image width/height). L1 runs use
+  snapshots, skip dead links, and skip image downloads when L1 gives the largest version's size (`83b857e`).
+- Regression fix (`b2b4242`): crane had 6 wrong merges (DA931+DA941, DM900+DM921+DM931, FM469+FM492...) because `core_of` read "931" as a size suffix. Now only codes with a digit before the trailing letters lose a trailing number (640WP02 -> 640WP). Crane families 208 -> 218 (key: 217); scores unchanged (macro 74.60 -> 74.60, no drops).
+
+### Sioux Chief (final)
+- Cold runs: B 4:09:15, 20,639 requests (pages 2 h 07 min, file downloads ~1 h 40 min on one host); current scraper
+  4:21:23, 14,408 requests. The cold B run used pre-round code; scores come from a re-run of the final code from cache
+  (49 min, 0 requests).
+- Regression fix with test (`2d9a2ec`): the cold B run had 1 validation error (spec PDF found_on a page that was not a
+  family page). Root cause: `accessory_families` cleared the variants of a grouped family whose SKUs were a subset of
+  another family's table, so its second page lost its variant entry. Process mode now keeps variants that come
+  from more than one grouped page. Final run: 0 errors.
+- Result: families found 54 (current 93), 3,749 families vs 700 (current 6,324). 360 of 700 key families had every
+  page dropped by the listing-page rule (more than 15 same-section links). Not fixed: no improvement rounds left; recorded as the top
+  recommendation. Grouping: 84 of 89 multi-page families correct, 5 wrong (series-wide spec sheets), 769 unsure pairs.
+- Regression fix with tests (`f4ca6bb`): the first Sioux Chief L1 run lost 718 key pages (families found 54 → 43)
+  as "listing page". The simulator set `has_spec_table` only for 3+ label/value rows (OLD_AGENT_IMPROVEMENTS.md says
+  2+), and `has_spec_table: false` removed even a single recognised spec value, so pages fell under the product
+  threshold. Now false only removes the spec-table signal, and the simulator uses 2+ rows. All L1 sites were
+  regenerated and re-run; Bray's earlier L1 "+1 family correct" came from the same mechanism and is gone (macro 74.60 → 74.60).
+- Sioux Chief L1 after the fix: 0 validation errors; families, documents, CAD, specs, variants identical to the CSV run;
+  image precision 46 → 33 and best version 67 → 52 (no download for size-known images, so no perceptual-hash
+  dedup); 58,732 → 47,459 fetch attempts, 49:08 → 36:28 offline. Keep-rule script: macro 42.26 → 42.16, no key-metric
+  drop > 2. Note: the L1 redo script's score/validate steps used a wrong relative path; scores were re-run by hand.
+- Option A (post-round, user-approved, outside the 4-round rule): `listing_with_product_evidence`. A listing-cue page
+  with a product URL word and strong product evidence that passes the threshold without the penalty is kept and
+  queued `page_role` unsure (default keep).
+  - The first version, without the `url_word` condition, was stopped. The R5 decision logs showed it would keep
+    24 Crane `/category/` and 24 Bray category pages, none in the keys.
+  - Results: Sioux Chief families found 54 → 88 and secondary docs 33 → 87; macro 42.26 → 46.63; no key-metric drop
+    > 2; 0 validation errors. Bray, Crane and Cimberio are identical.
+  - A follow-up commit moved the override after the normal keep branch: 3,929 already-kept pages had been logged as
+    unsure. The product set is unchanged. The Sioux Chief re-run confirmed it: identical scores and identical
+    SiteRun apart from `retrieved_at` timestamps, `page_role` unsure 2,052, 0 validation errors, 55:38 offline.
+- Grouping R4 + resolver (post-round, user-approved "B"):
+  - Added `duplicate_families`/`dedup_rate` to the family scorer and the keep-rule script. The first version counted
+    every key overlap, so it was changed to a best-match assignment.
+  - Measured grouping clues on the 1,648 Sioux Chief `family_grouping` questions:
+    - stem + leaf: 47% right;
+    - same title + same non-size specs: 96% right, 55% of true pairs;
+    - reciprocal item tables: 542 right, 2 wrong, 70% of true pairs.
+    Kept the last clue as R4, with same-leaf and same-stem guards.
+  - First R4 Sioux Chief run: 10 `found_on` errors, because grouped pages without a recognised SKU were missing from
+    the variants. Fixed with `grouped_variants`, plus a test. The re-run gave 0 errors.
+  - Result: 5,725 → 4,574 families; dedup 0.107 → 0.137; variants 8 → 34 of 179; `family_grouping` unsure
+    1,648 → 497. The keep rule fails on the Sioux Chief main-doc and spec-completeness drops (`643WG2` canonical
+    shift, `304-06` series-only match). Bray, Crane and Cimberio are identical.
+  - Resolver (`resolve` command) built and unit-tested: quote check, cache, budget, no answer keys. Not run, because
+    no model credential was available.
+- Resolver live run (owner's Claude subscription via Claude Code, `--backend claude-code`):
+  - Added a Claude Code print-mode backend (no tools, no settings, own system prompt; waits on usage-limit replies).
+    The cache is now saved every 10 questions and on backend errors.
+  - Sioux Chief: the usage limit was hit at 323 of 497 questions.
+    - Answers: 256 "different", 59 "same", 8 unsure.
+    - Key agreement, measured after the run: "same" 58%, "different" 83%.
+  - Applying the 59 links: 4,574 → 4,515 families, dedup 0.137 → 0.139, variants 19.0 → 20.1. Keep rule passes;
+    0 validation errors.
+  - Stopped there at the owner's decision; the remaining 174 were not asked. Each answer can merge at most 2
+    families, so even a perfect run could not get near 700, and most duplicates never become a question. Signed out
+    of Claude Code afterwards. Next lever (not tested): the site's category cards as a grouping clue.
+
+### Site profile (owner request: "build the site profile tool")
+- Built `profile` command and `process --profile` (opt-in). Shapes: Sioux Chief category_cards, Bray family_pages, Crane and Cimberio model_pages.
+- Bray/Crane/Cimberio unchanged. Sioux Chief: 4,574 → 603 families, duplicates score 0.14 → 0.93, variants found 19 → 83, CAD 57 → 100; main-doc precision 92 → 46, so keep rule fails vs R4 and the profile stays opt-in. Details in REPORT_APPROACH_B.md §14.

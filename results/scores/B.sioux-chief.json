@@ -1,0 +1,133 @@
+{
+  "mode": "siterun",
+  "family_index": {
+    "recall": 0.5871,
+    "precision": 1.0,
+    "gold": 700,
+    "pred": 3304,
+    "duplicate_families": 3834,
+    "missed_examples": [
+      "https://www.siouxchief.com/Products/113-32",
+      "https://www.siouxchief.com/Products/117-C223E",
+      "https://www.siouxchief.com/Products/118-01",
+      "https://www.siouxchief.com/Products/120-TM3F-1",
+      "https://www.siouxchief.com/Products/131-G0Y3HR101",
+      "https://www.siouxchief.com/Products/230-8006125",
+      "https://www.siouxchief.com/Products/231-1506101",
+      "https://www.siouxchief.com/Products/234-QP",
+      "https://www.siouxchief.com/Products/239",
+      "https://www.siouxchief.com/Products/242-10"
+    ]
+  },
+  "labelled": {
+    "labelled_families": 15,
+    "labelled_families_found": 12,
+    "unmatched_labelled_families": [
+      "sioux-chief-886-er",
+      "sioux-chief-304-06",
+      "sioux-chief-865-12ecd"
+    ],
+    "documents_primary": {
+      "recall": 0.3571,
+      "precision": 0.5556,
+      "gold": 28,
+      "pred": 18
+    },
+    "documents_secondary": {
+      "recall": 0.1667,
+      "precision": 1.0,
+      "gold": 30,
+      "pred": 5
+    },
+    "doc_type_accuracy": 0.8667,
+    "cad": {
+      "recall": 0.8571,
+      "precision": 0.75,
+      "gold": 7,
+      "pred": 8
+    },
+    "cad_type_accuracy": 1.0,
+    "images": {
+      "recall": 0.3694,
+      "precision": 0.5,
+      "gold": 111,
+      "pred": 82
+    },
+    "image_best_version_rate": 0.5122,
+    "image_duplicate_pairs_in_pred": 0,
+    "variants": {
+      "recall": 0.0894,
+      "precision": 0.6154,
+      "gold": 179,
+      "pred": 26
+    },
+    "specs_overall": 0.2018,
+    "spec_completeness": 0.3738,
+    "specs_by_field": {
+      "applications": 0.25,
+      "certifications": 0.3214,
+      "end_connections": 0.3901,
+      "material_body": 0.2476,
+      "material_seals": 0.3333,
+      "material_trim": 0.0,
+      "pressure_rating": 0.0,
+      "size_range": 0.2143,
+      "size_unit": 0.1429,
+      "sizes_available": 0.0714,
+      "standards": 0.2343,
+      "temperature_range": 0.0
+    },
+    "specs_by_gold_display_source": {
+      "pdf": 0.2511,
+      "page": 0.0
+    },
+    "specs_missing_by_field": {
+      "size_range": 10,
+      "sizes_available": 13,
+      "size_unit": 10,
+      "standards": 6,
+      "certifications": 3,
+      "material_seals": 4,
+      "end_connections": 4,
+      "pressure_rating": 2,
+      "temperature_range": 3,
+      "material_body": 5,
+      "applications": 3,
+      "material_trim": 4
+    },
+    "specs_extra_unverified": 2,
+    "spec_citation_rate": 1.0,
+    "spec_cross_check_rate": 1.0,
+    "refines_detection": {
+      "gold": 8,
+      "pred_agrees": 1,
+      "recall": 0.125
+    },
+    "conflict_detection": {
+      "tp": 0,
+      "fn": 8,
+      "fp": 1,
+      "recall": 0.0,
+      "precision": 0.0
+    },
+    "price": {
+      "variants_with_gold_price": 179,
+      "families_with_gold_family_price": 0,
+      "availability_correct": 16,
+      "amount_checked": 0,
+      "amount_correct": 0,
+      "currency_correct": 0,
+      "price_type_correct": 0,
+      "availability_accuracy": 0.0894,
+      "amount_accuracy": null
+    }
+  },
+  "spec_violations": {
+    "errors": 1,
+    "warnings": 9,
+    "first_errors": [
+      "861-2px:provenance:https://cdn.siouxchief.com/prodscmwebsite/SpecSheets/861 SERIES - SQUAREMAX NO-FLANGE SQUARE FLOOR SINK - SPEC SHEET.PDF: spec PDF is not linked from one of this family's pages (found_on)"
+    ]
+  },
+  "site": "sioux-chief"
+}

@@ -1,0 +1,34 @@
+mode: legacy_csv
+family_index:
+  recall: 0.9862
+  gold: 217
+  site_page_rows_that_are_families: 0.7762
+labelled:
+  documents_primary_recall: 1.0
+  documents_primary_gold: 13
+  documents_secondary_recall: 1.0
+  documents_secondary_gold: 49
+  document_label_correct: 1.0
+  cad_recall: 0.6667
+  cad_gold: 33
+  cad_label_correct: 0.0
+  images:
+    best_version: 41
+    rendition_only: 0
+    missing: 0
+    recall_any_version: 1.0
+    best_version_rate: 1.0
+  not_scorable: ['specs', 'prices', 'variants', 'precision (no family linkage in legacy format)']
+noise:
+  rows: 1944
+  by_type:
+    archive: 217
+    cad: 1
+    image: 1009
+    pdf: 440
+    site_page: 277
+  non_english_rows: 0
+  off_allowlist_rows: 0
+  image_rendition_duplicates: 555
+  unknown_kind_rows: 217
+site: crane

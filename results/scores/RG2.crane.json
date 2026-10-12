@@ -1,0 +1,117 @@
+{
+  "mode": "siterun",
+  "family_index": {
+    "recall": 1.0,
+    "precision": 1.0,
+    "gold": 217,
+    "pred": 218,
+    "duplicate_families": 1,
+    "dedup_rate": 0.9954,
+    "missed_examples": []
+  },
+  "labelled": {
+    "labelled_families": 15,
+    "labelled_families_found": 15,
+    "unmatched_labelled_families": [],
+    "documents_primary": {
+      "recall": 1.0,
+      "precision": 1.0,
+      "gold": 13,
+      "pred": 13
+    },
+    "documents_secondary": {
+      "recall": 0.551,
+      "precision": 1.0,
+      "gold": 49,
+      "pred": 27
+    },
+    "doc_type_accuracy": 0.95,
+    "cad": {
+      "recall": 1.0,
+      "precision": 1.0,
+      "gold": 33,
+      "pred": 33
+    },
+    "cad_type_accuracy": 1.0,
+    "images": {
+      "recall": 0.9268,
+      "precision": 1.0,
+      "gold": 41,
+      "pred": 38
+    },
+    "image_best_version_rate": 1.0,
+    "image_duplicate_pairs_in_pred": 0,
+    "variants": {
+      "recall": 0.7407,
+      "precision": 0.7407,
+      "gold": 27,
+      "pred": 27
+    },
+    "specs_overall": 0.6148,
+    "spec_completeness": 0.8272,
+    "specs_by_field": {
+      "applications": 0.4286,
+      "certifications": 0.8,
+      "end_connections": 0.4667,
+      "material_body": 0.7714,
+      "material_seals": 0.6727,
+      "material_seat": 0.2122,
+      "material_trim": 0.25,
+      "pressure_rating": 0.8667,
+      "size_range": 0.7333,
+      "size_unit": 0.8571,
+      "sizes_available": 0.5158,
+      "standards": 0.3337,
+      "temperature_range": 0.8462
+    },
+    "specs_by_gold_display_source": {
+      "pdf": 0.6291,
+      "page": 0.3726
+    },
+    "specs_missing_by_field": {
+      "sizes_available": 7,
+      "applications": 2,
+      "material_seals": 2,
+      "size_range": 3,
+      "end_connections": 2,
+      "size_unit": 2,
+      "material_seat": 3,
+      "pressure_rating": 1,
+      "temperature_range": 2,
+      "material_trim": 2,
+      "standards": 2
+    },
+    "specs_extra_unverified": 1,
+    "spec_citation_rate": 1.0,
+    "spec_cross_check_rate": 1.0,
+    "refines_detection": {
+      "gold": 22,
+      "pred_agrees": 8,
+      "recall": 0.3636
+    },
+    "conflict_detection": {
+      "tp": 2,
+      "fn": 8,
+      "fp": 2,
+      "recall": 0.2,
+      "precision": 0.5
+    },
+    "price": {
+      "variants_with_gold_price": 27,
+      "families_with_gold_family_price": 10,
+      "availability_correct": 30,
+      "amount_checked": 0,
+      "amount_correct": 0,
+      "currency_correct": 0,
+      "price_type_correct": 0,
+      "availability_accuracy": 0.8108,
+      "amount_accuracy": null
+    }
+  },
+  "spec_violations": {
+    "errors": 0,
+    "warnings": 221,
+    "first_errors": []
+  },
+  "site": "crane"
+}

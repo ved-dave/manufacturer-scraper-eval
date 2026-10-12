@@ -105,19 +105,27 @@ def fetch_page(fetcher, url, log):
         soup = P.soup_of(r.text())
         lang = P.html_lang(soup)
         alts = P.hreflang_alternates(soup, r.final_url)
+    return page_rec_from_soup(soup, r.final_url, r.sha256, r.body, lang, alts), None
+
+
+def page_rec_from_soup(soup, final_url, sha, body, lang=None, alts=None):
+    """PageRec from parsed HTML (a fetched page, or an L1 html_snapshot)."""
+    lang = lang if lang is not None else P.html_lang(soup)
+    alts = alts if alts is not None else P.hreflang_alternates(soup, final_url)
+
     text = P.visible_text(soup)
     rec = PageRec(
-        url=r.final_url, name=P.product_name(soup), crumbs=P.breadcrumbs(soup), lang=lang or 'en', alternates=alts,
+        url=final_url, name=P.product_name(soup), crumbs=P.breadcrumbs(soup), lang=lang or 'en', alternates=alts,
         pairs=P.label_value_pairs(soup),
-        doc_links=[(u, t) for u, t in P.links(soup, r.final_url)
+        doc_links=[(u, t) for u, t in P.links(soup, final_url)
                    if A.DOC_EXT.search(u) or A.cad_from_url(u) or re.search(r'\.zip(\?|$)', u, re.I)],
-        image_cands=P.image_candidates(soup, r.final_url), iframes=P.iframes(soup, r.final_url),
-        price=P.price_signals(soup, text), skus=P.product_skus(soup), sha=r.sha256, tables=P.table_rows(soup), text=text,
+        image_cands=P.image_candidates(soup, final_url), iframes=P.iframes(soup, final_url),
+        price=P.price_signals(soup, text), skus=P.product_skus(soup), sha=sha, tables=P.table_rows(soup), text=text,
         retrieved_at=now_iso())
-    rec._body = r.body  # kept for evidence
-    rec._final_host = urlsplit(r.final_url).hostname or ''
-    rec._viewer_links = [u for u, _ in P.links(soup, r.final_url)]
-    return rec, None
+    rec._body = body  # kept for evidence
+    rec._final_host = urlsplit(final_url).hostname or ''
+    rec._viewer_links = [u for u, _ in P.links(soup, final_url)]
+    return rec
 
 
 # ------------------------------------------------------------------ families
@@ -153,14 +161,19 @@ def family_price_page(pages):
     return next((r for r in pages if r.price['availability'] != 'not_published'), pages[0])
 
 
-def accessory_families(families):
+def accessory_families(families, keep_grouped_pages=False, grouped=()):
     """SPEC 3: models listed on an accessory page that are variants of another family are not its variants.
 
     A family whose identifiers are a strict subset of another family's identifiers loses them; its price status
-    moves to family_prices (SPEC 7). Returns the families changed."""
+    moves to family_prices (SPEC 7). With keep_grouped_pages, a family whose variants are its own grouped pages
+    (more than one page_url), or whose canonical_url is in grouped, keeps them: those pages are the family's
+    provenance. Returns the families changed."""
     sets = [{N.norm_token(v['sku']) for v in f.get('variants') or []} for f in families]
     changed = []
     for f, mine in zip(families, sets):
+        if keep_grouped_pages and (len({v.get('page_url') for v in f.get('variants') or []}) > 1
+                                   or f.get('canonical_url') in grouped):
+            continue
         if mine and any(mine < other for other in sets):
             prices = [p for v in f['variants'] for p in v.get('prices') or []]
             status = next((p for p in prices if p['availability'] != 'not_published'), prices[0] if prices else None)
@@ -632,7 +645,7 @@ class SiteRun:
                     cands[f] += lst
         specs = {}
         for f in N.SPEC_KINDS:
-            m = merge_field(f, cands.get(f, []))
+            m = self.merge_spec(f, cands.get(f, []))
             if m:
                 if m.pop('_pdf_disagreement', False):
                     self.flag('pdf_vs_pdf_disagreement_kept_spec_sheet', f'{main.url} [{f}]')
@@ -671,6 +684,9 @@ class SiteRun:
         for r in pages:   # page snapshots for evidence (quotes are checked against these)
             self.evidence.save(r.url, r.sha, 'html', r._body, r.text, 'text/html', r.retrieved_at)
         return fam
+
+    def merge_spec(self, fname, cands):
+        return merge_field(fname, cands)
 
     def page_price(self, r):
         pr = dict(r.price)

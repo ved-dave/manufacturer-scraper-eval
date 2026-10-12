@@ -1,3 +1,4 @@
+import collections
 """Score an agent's output against a site's answer key (gold).
 
     # new agent (SiteRun JSON)
@@ -103,9 +104,18 @@ def score_families_index(gold, pred_fams):
             for i in hits:
                 hits_per_entry[i] = hits_per_entry.get(i, 0) + 1
     hit_entries = set(hits_per_entry)
-    dup = sum(c - 1 for c in hits_per_entry.values())
+    # duplicates: predicted families whose best-matching key family (most shared pages, then series) is already taken
+    best = collections.Counter()
+    for pf in pred_fams:
+        pk, ps = family_keys(pf), family_series(pf)
+        score, i = max(((len(e['keys'] & pk) * 2 + (1 if ps and ps == e['series'] else 0), i)
+                        for i, e in enumerate(entries)), default=(0, None))
+        if score:
+            best[i] += 1
+    dup = sum(c - 1 for c in best.values())
     out = prf(len(hit_entries), len(entries), matched_pred, len(pred_fams))
     out['duplicate_families'] = dup
+    out['dedup_rate'] = round(len(hit_entries) / (len(hit_entries) + dup), 4) if hit_entries else None  # 1.0 = one predicted family per key family
     out['missed_examples'] = [entries[i]['url'] for i in range(len(entries)) if i not in hit_entries][:10]
     return out
 
