@@ -396,7 +396,9 @@ facet tables. None of those 48 pages are in the answer keys. That first version 
 - **Keep rule:** macro 42.26 → 46.63 (+4.37); no key metric drops more than 2 points; 0 validation errors.
 - **Pages rescued:** 2,052 product pages, covering 318 of the 360 key families that had lost every page to the
   listing rule. 869 listing drops remain, all without strong product evidence.
-- **Variants and price:** 10 → 8 of 179 key variants. Not investigated.
+- **Variants and price:** 10 → 8 of 179 key variants, all in one key family (`643WG2`). In B (final), its WG2 pages
+  formed a family with canonical `643WG2`. Rescued sibling pages now pull those SKUs into the `...WG7` families, so no
+  predicted family matches the key's `643WG2` canonical. That is a grouping and canonical-choice effect, not lost data.
 - **Bray, Crane, Cimberio:** identical scores. No page there meets all three conditions. Bray's two listing-dropped
   key families (`/check-valves/air-release-ezi-vac`, `/pinch-valves/series-pva`) are not rescued, because their URLs
   have no product word.
