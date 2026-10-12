@@ -1,0 +1,147 @@
+=== page 1 ===
+DISCAL ®
+magnetic air and dirt separator
+CALEFFI
+5461 Series, Brass
+Submittal Data 02921.2 NA — Issue Date 10/2015
+Application Dimensions
+In heating and air conditioning control systems, the circulation of
+water containing impurities may result in rapid wear and damage
+B
+to components such as pumps and control valves. It also causesC
+blockages in heat exchangers, heating elements and pipes, resulting
+in lower thermal efficiency within the system. The DISCAL DIRTMAG®
+magnetic air and dirt separator removes both ferrous and non-ferrous
+impurities continuously, featuring powerful removable magnets that
+remove up to 100% of the ferrous impurities, including magnetite, that
+can form in a hydronic system. DISCAL DIRTMAG® has 2 ½ times the
+removal performance of a standard dirt separator. The air discharge
+capacity is very high, with the capability of automatically removing
+100% of the air present in the system down to micro-bubble level.
+Typical Specification
+Furnish and install on the plans and described herein, a Caleffi
+DISCALDIRTMAG® magnetic air and dirt separator as manufactured by
+Caleffi. Each separator must be designed with a brass body with large
+internal volume, seals in EPDM, blowdown drain port, and removable glass-
+reinforced nylon fiber mesh (PA66GF30) internal element screen/coalscing
+medium to automatically remove all air present in the system and all dirt
+present in the system, with particle separating capacity to 5μm (0.2 mil), and
+an external neodymium rare-earth magnet belt, removable for purging, with
+up to 100% ferrous impurities, including magnetitie, separation efficiency. Each air and dirt separator shall be a Caleffi model 5461 or approved equal.
+(See product instructions for specific installation information.)
+We reserve the right to change our products and their relevant technical data, contained in this publication, at any time and without prior notice. Contractors should request production drawings if prefabricating the system.
+Job name ______________________________________ Size ________________________________________
+Job location ______________________________________ Quantity ________________________________________
+Engineer ______________________________________ Approval ________________________________________
+Mechanical contractor ________________________________ Service ________________________________________
+Contractor’s P.O. No. ________________________________ Tag No. ________________________________________
+Representative ________________________________ Notes ________________________________________
+A
+E
+D
+F
+A
+B
+C
+E
+D
+F
+Technical Data
+Materials - body: brass
+- dirt separation chamber: brass
+- air vent body: brass Hydraulic characteristics
+- internal element: glass reinforced nylon, PA66GF30
+- air vent float: PP
+- air vent float guide pin: stainless steel
+- air vent float linkages: stainless steel
+- spring: stainless steel
+- seals: EPDM
+- bottom drain shut-off valve: brass
+- magnet: neodymium rare-earth Performance
+Suitable fluids: water, glycol solution
+Max. percentage of glycol: 50%
+Max. working pressure: 150 psi (10 bar)
+Temperature range: 32–250°F (0–120°C)
+Air separation efficiency: 100% removal to microbubble level
+Particle separation capacity: to 5 µm (0.2 mil)
+Ferrous impurities separatiion efficiency: up to 100% removal
+Connections - main: ¾", 1", 1-¼" sweat; 1" NPT male
+- drain shut-off valve: ¾" garden hose connection
+FLOW RATE
+Size ¾" 1" 1¼"
+4.0 f/s GPM 8 9 10
+Cv 19 32 40
+2015
+65.0
+)mpg(
+)s/l(
+G
+(kPa)
+33.0 93.0 44.0 05.0 96.0 38.0 79.0 1.1 52.1 4.1 7.1 9.1 2.2 5.2 8.2 3.3 9.3 4.4 0.5 6.5
+∆P (ft of water) (ft of water)
+1 0.9 3
+0.8 2.5 0.7 2
+0.6 1.8 0 0.4 .5 5 1 1 . . 4 6 0.4 1.2
+0.35 1
+0.3 0.9
+0.25 0 0 . . 8 7
+0.2 0.6
+0 0 . . 1 1 6 8 0.5 0.14 0.45
+0.12 0 0 . . 3 4 5
+0 0.0 .1 9 0.3
+0.08 0.25
+0.07 0.2
+0.06 0.18
+0.05 0.16 0.045 0.14
+0.04 0.12 0.035 0.1
+0.03 0.09
+0.025 0 0 . . 0 0 8 7
+0.02 0.06
+5 01 02 05 001
+1 0.9
+0.8 0.7
+0.6 0.5 0.45 0.4
+0.35
+0.3
+0.25
+0.2
+0.18 0.16 0.14
+0.12
+0.1 0.09
+0.08
+0.07
+0.06
+0.05 0.045
+0.04 0.035
+0.03
+0.025
+0.02
+6 7 8 9 21 41 61 81 52 03 53 04 54 06 07 08 09
+2 2 6
+1.8 1.8
+1.6 1.6 5
+1.4 1.4 4.5 1.2 1.2 4 3.5
+2.2
+41.0
+7.2
+71.0
+0.3
+91.0
+5.3
+22.0
+0.4
+52.0
+3.4
+72.0
+”4/3
+”1
+”4/1
+1
+Code Connections A B C D E F W (lb t ) . ( W kg t. )
+546195A Sweat 3⁄4" 73⁄8" 21⁄8" 5" 51⁄2" 123⁄4" 8.5 3.9
+546196A Sweat 1" 73⁄8" 21⁄8" 5" 51⁄2" 123⁄4" 8.5 3.9
+546197A Sweat 11⁄4" 63⁄16" 21⁄8" 5" 51⁄2" 123⁄4" 8.5 3.9
+546116A NPT male 1" 73⁄8" 21⁄8" 5" 51⁄2" 123⁄4" 8.5 3.9
+Caleffi North America, Inc. 3883 West Milwaukee Road / Milwaukee, WI 53208
+Tel: 414-238-2360 / Fax: 414-238-2366 / wwwwww.c.caalelefffifi..ccoomm
+©Copyright 2015 Caleffi

@@ -1,0 +1,637 @@
+URL: https://www.caleffi.com/en-us/low-temperature-manifold-mixing-station-with-high-efficiency-pump-172-caleffi-1725c1ahe
+retrieved_at: 2026-10-11T17:15:47Z
+sha256: 109449b60b97fc1e764b96207f33809df502d7f7c075daf4032f2a54a83127a6
+
+Low temperature manifold mixing station (with high efficiency pump) | Caleffi S.p.a.
+Skip to main content
+Suggestions will appear as you type
+Files suggestions
+Family suggestions
+Subfamily suggestions
+Products suggestions
+Are you looking for a document?
+Click here.
+Show all results
+Header main navigation
+Products
+Products
+Education and Resources
+Education and Resources
+Education and Resources
+Education and Resources:
+idronics™
+Coffee with Caleffi™
+Ask Caleffi Podcast
+Cross Reference Tool
+Company
+Company
+Company
+Company:
+Corporate
+The Group
+History
+Certifications
+Mission
+Portfolio
+The Caleffi Green
+Blog
+Header secondary navigation
+News & Events
+Contacts
+Back to menu
+EMEA
+EMEA
+EMEA
+Albania - Albanian
+Belgium - French
+Belgium - Dutch
+Croatia - Croatian
+Czech Republic - Czech
+France - French
+Germany - German
+Greece - Greek
+Hungary - Hungarian
+Italy - Italian
+Macedonia - Macedonian
+Netherlands - Dutch
+Poland - Polish
+Portugal - Portuguese
+Romania - Romanian
+Serbia - Serbian
+Slovakia - Slovak
+Slovenia - Slovenian
+Spain - Spanish
+Switzerland - French
+Switzerland - German
+Turkey - Turkish
+Ukraine - Ukrainian
+The Americas
+The Americas
+The Americas
+Brazil - Portuguese
+North America - English
+South America - Spanish
+Asia Pacific
+Asia Pacific
+Asia Pacific
+China - Chinese
+Visit our International site
+Home
+/
+Products
+/
+Distribution Manifolds and Mixing Stations
+/
+Thermostatic Manifold Mixing Stations
+/
+Low Temperature
+/
+... /
+1725C1AHE
+Series
+172
+Low temperature manifold mixing station (with high efficiency pump)
+Go to
+Product Description
+Product Description
+Technical data
+Drawings and specifications
+Applications
+Product
+Download
+Download high resolution
+Share
+Close
+Share
+Facebook
+Linkedin
+Twitter
+Copy link
+https://www.caleffi.com/en-us/low-temperature-manifold-mixing-station-with-high-efficiency-pump-172-caleffi-1725c1ahe
+Product Description
+Low temperature manifold mixing station (with high efficiency pump)
+Supply manifold complete with:
+Flow meters
+Adjustable balancing valves
+Return manifold complete with:
+Shut-off valves that can be replaced by thermo-electric actuators
+Includes Grundfos UPMS 25-58 pump
+Models with "IN" suffix are built inverted with tubing connections going upward
+Technical data
+Outlet center distance
+:
+2 "
+Maximum inlet temperature
+:
+195 °F
+Temperature adjustment range
+:
+80 – 130 °F
+Maximum working pressure
+:
+150 psi
+Download
+pdf
+Technical brochure
+pdf
+Instruction sheet
+pdf
+Instruction sheet
+Revit Content Instruction Guide
+pdf
+Idronics
+Idronics 7- Mixing in hydronic systems
+pdf
+Idronics
+Idronics 16 - Circulation in hydronic systems
+Drawings and specifications
+Part number
+Connection
+Outlet Connection
+Type of pump
+Actions
+1725C1AHE
+3/4" NPT male
+3 outlets
+UPMS 25-58
+Expand details for 1725C1AHE
+Collapse details for 1725C1AHE
+3D models
+bim
+Tender text
+Show
+Copy
+CALEFFI, 1725C1AHE.
+Low temperature manifold mixing station (with high efficiency pump)
+Supply manifold complete with:
+Flow meters
+Adjustable balancing valves
+Return manifold complete with:
+Shut-off valves that can be replaced by thermo-electric actuators
+Includes Grundfos UPMS 25-58 pump
+Models with "IN" suffix are built inverted with tubing connections going upward
+Connection: 3/4" NPT male. Outlet Connection: 3 outlets. Maximum working pressure: 150 psi. Temperature adjustment range: 80 – 130 °F. Maximum inlet temperature: 195 °F. Outlet center distance: 2 ". Type of pump: UPMS 25-58.
+1725C1AHE IN
+3/4" NPT male
+3 outlets
+UPMS 25-58
+Expand details for 1725C1AHE IN
+Collapse details for 1725C1AHE IN
+3D models
+bim
+Tender text
+Show
+Copy
+CALEFFI, 1725C1AHE IN.
+Low temperature manifold mixing station (with high efficiency pump)
+Supply manifold complete with:
+Flow meters
+Adjustable balancing valves
+Return manifold complete with:
+Shut-off valves that can be replaced by thermo-electric actuators
+Includes Grundfos UPMS 25-58 pump
+Models with "IN" suffix are built inverted with tubing connections going upward
+Connection: 3/4" NPT male. Outlet Connection: 3 outlets. Maximum working pressure: 150 psi. Temperature adjustment range: 80 – 130 °F. Maximum inlet temperature: 195 °F. Outlet center distance: 2 ". Type of pump: UPMS 25-58.
+1725D1AHE
+3/4" NPT male
+4 outlets
+UPMS 25-58
+Expand details for 1725D1AHE
+Collapse details for 1725D1AHE
+3D models
+bim
+Tender text
+Show
+Copy
+CALEFFI, 1725D1AHE.
+Low temperature manifold mixing station (with high efficiency pump)
+Supply manifold complete with:
+Flow meters
+Adjustable balancing valves
+Return manifold complete with:
+Shut-off valves that can be replaced by thermo-electric actuators
+Includes Grundfos UPMS 25-58 pump
+Models with "IN" suffix are built inverted with tubing connections going upward
+Connection: 3/4" NPT male. Outlet Connection: 4 outlets. Maximum working pressure: 150 psi. Temperature adjustment range: 80 – 130 °F. Maximum inlet temperature: 195 °F. Outlet center distance: 2 ". Type of pump: UPMS 25-58.
+1725D1AHE IN
+3/4" NPT male
+4 outlets
+UPMS 25-58
+Expand details for 1725D1AHE IN
+Collapse details for 1725D1AHE IN
+3D models
+bim
+Tender text
+Show
+Copy
+CALEFFI, 1725D1AHE IN.
+Low temperature manifold mixing station (with high efficiency pump)
+Supply manifold complete with:
+Flow meters
+Adjustable balancing valves
+Return manifold complete with:
+Shut-off valves that can be replaced by thermo-electric actuators
+Includes Grundfos UPMS 25-58 pump
+Models with "IN" suffix are built inverted with tubing connections going upward
+Connection: 3/4" NPT male. Outlet Connection: 4 outlets. Maximum working pressure: 150 psi. Temperature adjustment range: 80 – 130 °F. Maximum inlet temperature: 195 °F. Outlet center distance: 2 ". Type of pump: UPMS 25-58.
+1725E1AHE
+3/4" NPT male
+5 outlets
+UPMS 25-58
+Expand details for 1725E1AHE
+Collapse details for 1725E1AHE
+3D models
+bim
+Tender text
+Show
+Copy
+CALEFFI, 1725E1AHE.
+Low temperature manifold mixing station (with high efficiency pump)
+Supply manifold complete with:
+Flow meters
+Adjustable balancing valves
+Return manifold complete with:
+Shut-off valves that can be replaced by thermo-electric actuators
+Includes Grundfos UPMS 25-58 pump
+Models with "IN" suffix are built inverted with tubing connections going upward
+Connection: 3/4" NPT male. Outlet Connection: 5 outlets. Maximum working pressure: 150 psi. Temperature adjustment range: 80 – 130 °F. Maximum inlet temperature: 195 °F. Outlet center distance: 2 ". Type of pump: UPMS 25-58.
+1725E1AHE IN
+3/4" NPT male
+5 outlets
+UPMS 25-58
+Expand details for 1725E1AHE IN
+Collapse details for 1725E1AHE IN
+3D models
+bim
+Tender text
+Show
+Copy
+CALEFFI, 1725E1AHE IN.
+Low temperature manifold mixing station (with high efficiency pump)
+Supply manifold complete with:
+Flow meters
+Adjustable balancing valves
+Return manifold complete with:
+Shut-off valves that can be replaced by thermo-electric actuators
+Includes Grundfos UPMS 25-58 pump
+Models with "IN" suffix are built inverted with tubing connections going upward
+Connection: 3/4" NPT male. Outlet Connection: 5 outlets. Maximum working pressure: 150 psi. Temperature adjustment range: 80 – 130 °F. Maximum inlet temperature: 195 °F. Outlet center distance: 2 ". Type of pump: UPMS 25-58.
+1725F1AHE
+3/4" NPT male
+6 outlets
+UPMS 25-58
+Expand details for 1725F1AHE
+Collapse details for 1725F1AHE
+3D models
+bim
+Tender text
+Show
+Copy
+CALEFFI, 1725F1AHE.
+Low temperature manifold mixing station (with high efficiency pump)
+Supply manifold complete with:
+Flow meters
+Adjustable balancing valves
+Return manifold complete with:
+Shut-off valves that can be replaced by thermo-electric actuators
+Includes Grundfos UPMS 25-58 pump
+Models with "IN" suffix are built inverted with tubing connections going upward
+Connection: 3/4" NPT male. Outlet Connection: 6 outlets. Maximum working pressure: 150 psi. Temperature adjustment range: 80 – 130 °F. Maximum inlet temperature: 195 °F. Outlet center distance: 2 ". Type of pump: UPMS 25-58.
+1725F1AHE IN
+3/4" NPT male
+6 outlets
+UPMS 25-58
+Expand details for 1725F1AHE IN
+Collapse details for 1725F1AHE IN
+3D models
+bim
+Tender text
+Show
+Copy
+CALEFFI, 1725F1AHE IN.
+Low temperature manifold mixing station (with high efficiency pump)
+Supply manifold complete with:
+Flow meters
+Adjustable balancing valves
+Return manifold complete with:
+Shut-off valves that can be replaced by thermo-electric actuators
+Includes Grundfos UPMS 25-58 pump
+Models with "IN" suffix are built inverted with tubing connections going upward
+Connection: 3/4" NPT male. Outlet Connection: 6 outlets. Maximum working pressure: 150 psi. Temperature adjustment range: 80 – 130 °F. Maximum inlet temperature: 195 °F. Outlet center distance: 2 ". Type of pump: UPMS 25-58.
+1725G1AHE
+3/4" NPT male
+7 outlets
+UPMS 25-58
+Expand details for 1725G1AHE
+Collapse details for 1725G1AHE
+3D models
+bim
+Tender text
+Show
+Copy
+CALEFFI, 1725G1AHE.
+Low temperature manifold mixing station (with high efficiency pump)
+Supply manifold complete with:
+Flow meters
+Adjustable balancing valves
+Return manifold complete with:
+Shut-off valves that can be replaced by thermo-electric actuators
+Includes Grundfos UPMS 25-58 pump
+Models with "IN" suffix are built inverted with tubing connections going upward
+Connection: 3/4" NPT male. Outlet Connection: 7 outlets. Maximum working pressure: 150 psi. Temperature adjustment range: 80 – 130 °F. Maximum inlet temperature: 195 °F. Outlet center distance: 2 ". Type of pump: UPMS 25-58.
+1725G1AHE IN
+3/4" NPT male
+7 outlets
+UPMS 25-58
+Expand details for 1725G1AHE IN
+Collapse details for 1725G1AHE IN
+3D models
+bim
+Tender text
+Show
+Copy
+CALEFFI, 1725G1AHE IN.
+Low temperature manifold mixing station (with high efficiency pump)
+Supply manifold complete with:
+Flow meters
+Adjustable balancing valves
+Return manifold complete with:
+Shut-off valves that can be replaced by thermo-electric actuators
+Includes Grundfos UPMS 25-58 pump
+Models with "IN" suffix are built inverted with tubing connections going upward
+Connection: 3/4" NPT male. Outlet Connection: 7 outlets. Maximum working pressure: 150 psi. Temperature adjustment range: 80 – 130 °F. Maximum inlet temperature: 195 °F. Outlet center distance: 2 ". Type of pump: UPMS 25-58.
+1725H1AHE
+3/4" NPT male
+8 outlets
+UPMS 25-58
+Expand details for 1725H1AHE
+Collapse details for 1725H1AHE
+3D models
+bim
+Tender text
+Show
+Copy
+CALEFFI, 1725H1AHE.
+Low temperature manifold mixing station (with high efficiency pump)
+Supply manifold complete with:
+Flow meters
+Adjustable balancing valves
+Return manifold complete with:
+Shut-off valves that can be replaced by thermo-electric actuators
+Includes Grundfos UPMS 25-58 pump
+Models with "IN" suffix are built inverted with tubing connections going upward
+Connection: 3/4" NPT male. Outlet Connection: 8 outlets. Maximum working pressure: 150 psi. Temperature adjustment range: 80 – 130 °F. Maximum inlet temperature: 195 °F. Outlet center distance: 2 ". Type of pump: UPMS 25-58.
+1725H1AHE IN
+3/4" NPT male
+8 outlets
+UPMS 25-58
+Expand details for 1725H1AHE IN
+Collapse details for 1725H1AHE IN
+3D models
+bim
+Tender text
+Show
+Copy
+CALEFFI, 1725H1AHE IN.
+Low temperature manifold mixing station (with high efficiency pump)
+Supply manifold complete with:
+Flow meters
+Adjustable balancing valves
+Return manifold complete with:
+Shut-off valves that can be replaced by thermo-electric actuators
+Includes Grundfos UPMS 25-58 pump
+Models with "IN" suffix are built inverted with tubing connections going upward
+Connection: 3/4" NPT male. Outlet Connection: 8 outlets. Maximum working pressure: 150 psi. Temperature adjustment range: 80 – 130 °F. Maximum inlet temperature: 195 °F. Outlet center distance: 2 ". Type of pump: UPMS 25-58.
+1725I1AHE
+3/4" NPT male
+9 outlets
+UPMS 25-58
+Expand details for 1725I1AHE
+Collapse details for 1725I1AHE
+3D models
+bim
+Tender text
+Show
+Copy
+CALEFFI, 1725I1AHE.
+Low temperature manifold mixing station (with high efficiency pump)
+Supply manifold complete with:
+Flow meters
+Adjustable balancing valves
+Return manifold complete with:
+Shut-off valves that can be replaced by thermo-electric actuators
+Includes Grundfos UPMS 25-58 pump
+Models with "IN" suffix are built inverted with tubing connections going upward
+Connection: 3/4" NPT male. Outlet Connection: 9 outlets. Maximum working pressure: 150 psi. Temperature adjustment range: 80 – 130 °F. Maximum inlet temperature: 195 °F. Outlet center distance: 2 ". Type of pump: UPMS 25-58.
+1725I1AHE IN
+3/4" NPT male
+9 outlets
+UPMS 25-58
+Expand details for 1725I1AHE IN
+Collapse details for 1725I1AHE IN
+3D models
+bim
+Tender text
+Show
+Copy
+CALEFFI, 1725I1AHE IN.
+Low temperature manifold mixing station (with high efficiency pump)
+Supply manifold complete with:
+Flow meters
+Adjustable balancing valves
+Return manifold complete with:
+Shut-off valves that can be replaced by thermo-electric actuators
+Includes Grundfos UPMS 25-58 pump
+Models with "IN" suffix are built inverted with tubing connections going upward
+Connection: 3/4" NPT male. Outlet Connection: 9 outlets. Maximum working pressure: 150 psi. Temperature adjustment range: 80 – 130 °F. Maximum inlet temperature: 195 °F. Outlet center distance: 2 ". Type of pump: UPMS 25-58.
+1725L1AHE
+3/4" NPT male
+10 outlets
+UPMS 25-58
+Expand details for 1725L1AHE
+Collapse details for 1725L1AHE
+3D models
+bim
+Tender text
+Show
+Copy
+CALEFFI, 1725L1AHE.
+Low temperature manifold mixing station (with high efficiency pump)
+Supply manifold complete with:
+Flow meters
+Adjustable balancing valves
+Return manifold complete with:
+Shut-off valves that can be replaced by thermo-electric actuators
+Includes Grundfos UPMS 25-58 pump
+Models with "IN" suffix are built inverted with tubing connections going upward
+Connection: 3/4" NPT male. Outlet Connection: 10 outlets. Maximum working pressure: 150 psi. Temperature adjustment range: 80 – 130 °F. Maximum inlet temperature: 195 °F. Outlet center distance: 2 ". Type of pump: UPMS 25-58.
+1725L1AHE IN
+3/4" NPT male
+10 outlets
+UPMS 25-58
+Expand details for 1725L1AHE IN
+Collapse details for 1725L1AHE IN
+3D models
+bim
+Tender text
+Show
+Copy
+CALEFFI, 1725L1AHE IN.
+Low temperature manifold mixing station (with high efficiency pump)
+Supply manifold complete with:
+Flow meters
+Adjustable balancing valves
+Return manifold complete with:
+Shut-off valves that can be replaced by thermo-electric actuators
+Includes Grundfos UPMS 25-58 pump
+Models with "IN" suffix are built inverted with tubing connections going upward
+Connection: 3/4" NPT male. Outlet Connection: 10 outlets. Maximum working pressure: 150 psi. Temperature adjustment range: 80 – 130 °F. Maximum inlet temperature: 195 °F. Outlet center distance: 2 ". Type of pump: UPMS 25-58.
+1725M1AHE
+3/4" NPT male
+11 outlets
+UPMS 25-58
+Expand details for 1725M1AHE
+Collapse details for 1725M1AHE
+3D models
+bim
+Tender text
+Show
+Copy
+CALEFFI, 1725M1AHE.
+Low temperature manifold mixing station (with high efficiency pump)
+Supply manifold complete with:
+Flow meters
+Adjustable balancing valves
+Return manifold complete with:
+Shut-off valves that can be replaced by thermo-electric actuators
+Includes Grundfos UPMS 25-58 pump
+Models with "IN" suffix are built inverted with tubing connections going upward
+Connection: 3/4" NPT male. Outlet Connection: 11 outlets. Maximum working pressure: 150 psi. Temperature adjustment range: 80 – 130 °F. Maximum inlet temperature: 195 °F. Outlet center distance: 2 ". Type of pump: UPMS 25-58.
+1725M1AHE IN
+3/4" NPT male
+11 outlets
+UPMS 25-58
+Expand details for 1725M1AHE IN
+Collapse details for 1725M1AHE IN
+3D models
+bim
+Tender text
+Show
+Copy
+CALEFFI, 1725M1AHE IN.
+Low temperature manifold mixing station (with high efficiency pump)
+Supply manifold complete with:
+Flow meters
+Adjustable balancing valves
+Return manifold complete with:
+Shut-off valves that can be replaced by thermo-electric actuators
+Includes Grundfos UPMS 25-58 pump
+Models with "IN" suffix are built inverted with tubing connections going upward
+Connection: 3/4" NPT male. Outlet Connection: 11 outlets. Maximum working pressure: 150 psi. Temperature adjustment range: 80 – 130 °F. Maximum inlet temperature: 195 °F. Outlet center distance: 2 ". Type of pump: UPMS 25-58.
+1725N1AHE
+3/4" NPT male
+12 outlets
+UPMS 25-58
+Expand details for 1725N1AHE
+Collapse details for 1725N1AHE
+3D models
+bim
+Tender text
+Show
+Copy
+CALEFFI, 1725N1AHE.
+Low temperature manifold mixing station (with high efficiency pump)
+Supply manifold complete with:
+Flow meters
+Adjustable balancing valves
+Return manifold complete with:
+Shut-off valves that can be replaced by thermo-electric actuators
+Includes Grundfos UPMS 25-58 pump
+Models with "IN" suffix are built inverted with tubing connections going upward
+Connection: 3/4" NPT male. Outlet Connection: 12 outlets. Maximum working pressure: 150 psi. Temperature adjustment range: 80 – 130 °F. Maximum inlet temperature: 195 °F. Outlet center distance: 2 ". Type of pump: UPMS 25-58.
+1725N1AHE IN
+3/4" NPT male
+12 outlets
+UPMS 25-58
+Expand details for 1725N1AHE IN
+Collapse details for 1725N1AHE IN
+3D models
+bim
+Tender text
+Show
+Copy
+CALEFFI, 1725N1AHE IN.
+Low temperature manifold mixing station (with high efficiency pump)
+Supply manifold complete with:
+Flow meters
+Adjustable balancing valves
+Return manifold complete with:
+Shut-off valves that can be replaced by thermo-electric actuators
+Includes Grundfos UPMS 25-58 pump
+Models with "IN" suffix are built inverted with tubing connections going upward
+Connection: 3/4" NPT male. Outlet Connection: 12 outlets. Maximum working pressure: 150 psi. Temperature adjustment range: 80 – 130 °F. Maximum inlet temperature: 195 °F. Outlet center distance: 2 ". Type of pump: UPMS 25-58.
+1725O1AHE
+3/4" NPT male
+13 outlets
+UPMS 25-58
+Expand details for 1725O1AHE
+Collapse details for 1725O1AHE
+3D models
+bim
+Tender text
+Show
+Copy
+CALEFFI, 1725O1AHE.
+Low temperature manifold mixing station (with high efficiency pump)
+Supply manifold complete with:
+Flow meters
+Adjustable balancing valves
+Return manifold complete with:
+Shut-off valves that can be replaced by thermo-electric actuators
+Includes Grundfos UPMS 25-58 pump
+Models with "IN" suffix are built inverted with tubing connections going upward
+Connection: 3/4" NPT male. Outlet Connection: 13 outlets. Maximum working pressure: 150 psi. Temperature adjustment range: 80 – 130 °F. Maximum inlet temperature: 195 °F. Outlet center distance: 2 ". Type of pump: UPMS 25-58.
+1725O1AHE IN
+3/4" NPT male
+13 outlets
+UPMS 25-58
+Expand details for 1725O1AHE IN
+Collapse details for 1725O1AHE IN
+3D models
+bim
+Tender text
+Show
+Copy
+CALEFFI, 1725O1AHE IN.
+Low temperature manifold mixing station (with high efficiency pump)
+Supply manifold complete with:
+Flow meters
+Adjustable balancing valves
+Return manifold complete with:
+Shut-off valves that can be replaced by thermo-electric actuators
+Includes Grundfos UPMS 25-58 pump
+Models with "IN" suffix are built inverted with tubing connections going upward
+Connection: 3/4" NPT male. Outlet Connection: 13 outlets. Maximum working pressure: 150 psi. Temperature adjustment range: 80 – 130 °F. Maximum inlet temperature: 195 °F. Outlet center distance: 2 ". Type of pump: UPMS 25-58.
+Applications
+Caleffi Rep Locator
+Webapp
+Find your nearest Caleffi Representative
+Related product
+Series
+172
+Low temperature manifold mixing station (with 3-speed pump)
+Discover
+Footer main navigation
+Products
+Education and Resources
+Company
+Blog
+Footer secondary navigation
+News & Events
+Contacts
+Footer menu
+Cookies
+Privacy
+Accessibility
+P.I. IT04104030962 - © 1961 - 2026
+Caleffi S.p.a. | All rights reserved

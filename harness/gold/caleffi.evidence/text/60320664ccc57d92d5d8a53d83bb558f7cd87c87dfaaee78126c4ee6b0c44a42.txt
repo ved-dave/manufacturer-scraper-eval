@@ -1,0 +1,67 @@
+=== page 1 ===
+CALEFFI
+www.caleffi.com 38459.04
+Automatic Air Vent 5026 Series
+Automatic Air Vent with check valve 5027 Series
+© Copyright 2008 Caleffi
+Function
+Float type automatic air vent designed to vent air that is released
+from the water while being heated. Check valve on 5027 series
+allows for easy replacement of air vent without purging the system.
+Technical Characteristics
+Connection: 1/8” NPT Male
+1/4” NPT Male
+Material: Body Brass
+Seals EPDM
+Maximum Working Pressure: Hot Water: 150 psi (10 bar)
+Maximum Venting Pressure: 90 psi (6 bar)
+Maximum Working Temperature: 240°F (115°C)
+SAFETY INSTRUCTION
+This safety alert symbol will be used in this manual to draw attention to safety related
+instructions. When used, the safety alert symbol means ATTENTION! BECOME ALERT!
+YOUR SAFETY IS INVOLVED! FAILURE TO FOLLOW THESE INSTRUCTIONS MAY
+RESULT IN ASAFETYHAZARD.
+CAUTION: All work must be performed by qualified personnel trained in the
+proper application, installation, and maintenance of systems in accordance
+with all applicable codes and ordinances.
+CAUTION: Over-tightening and breakage can occur with the use of Teflon®
+pipe joint compounds. Teflon® provides lubricity so that care must be
+exercised not to over-tighten joints. Failure to follow these instructions
+could result in property damage and /or personal injury.
+WARNING: System fluids are under pressure or temperature can be
+hazardous. Be sure the pressure has been reduced to zero and the
+system temperature is below 100°F (38°C). Failure to follow these
+instructions could result in property damage and/or personal injury.
+=== page 2 ===
+Installation
+The vent is installed in the vertical position, on the air
+separator, on manifolds, on riser pipes and generally in
+parts of the system where a concentration of air pockets is
+to be expected.
+Check valve on 5027 series should be installed prior to air
+vent. Insure air vent is properly lined-up with female check
+valve guide.
+Correct Wrong
+CAUTION: Uncontrolled venting of water can occur with the automatic
+air vent if dirt, scale, pipe joint compound or any other foreign materials
+becomes trapped in the operating mechanism. Keep vent cap closed
+during filling to prevent dirt from flowing into vent mechanism. Failure to follow
+these instructions could result in property damage and/or personal injury.
+Operation Instructions
+The automatic air vent can be used for manual or automatic venting of sealed hydronic
+systems.
+•For normal automatic venting, open cap one full turn for a slow release of air. A fast release
+of the air will allow dirt or scale in the water to plug the operating mechanism. The small hole
+in the side of the cap allows air to escape.
+•To shutoff automatic air vent, screw cap down tight.
+CAUTION: Corrosion or leakage can cause damage or injury.
+Periodically inspect for signs of corrosion or leakage. If corrosion or
+leakage is note, the vent must be replaced. Failure to follow these
+instructions could result in property damage and/or personal injury.
+Service Instructions
+There is no service required for the automatic air vent.
+CALEFFI
+Caleffi North America, Inc.
+3883 West Milwaukee Road
+Milwaukee, WI 53208
+T: 414.238.2360 F: 414.238.2366

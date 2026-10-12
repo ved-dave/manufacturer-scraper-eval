@@ -1,0 +1,1421 @@
+=== page 1 ===
+Thermostatic radiator valves
+for towel warmer style radiators
+CALEFFI
+338–343, 200 series
+01009/23 NA
+Replaces 01009/13 NA
+Function
+Convertible radiator valves are typically used in North America for
+controlling the fluid to towel warmer style radiators. These special valves
+can be converted from manual to thermostatic operation by simple
+replacement of the adjusting knob with a thermostatic control head.
+This means that the ambient temperature of any room in which they are
+installed can be constantly maintained at the set value.
+These valves have a special tailpiece with rubber hydraulic seal,
+permitting quick, safe connection to the radiator without the use of
+additional sealing materials.
+The radiator isolation and balancing valves have a removal protective
+cap, when removed exposes the allen head screw for adjusting the valve
+plug position.
+Product range
+VALVES:
+For copper, single and multi-layer PEX pipes
+338 series Angled convertible radiator valve body .................................. metric connections 1/2" radiator x 3/4" conical pipe
+339 series Straight convertible radiator valve body .................................. metric connections 1/2" radiator x 3/4" conical pipe
+342 series Angled radiator isolation and balancing valves ............................. metric connections 1/2" radiator x 3/4" conical pipe
+343 series Straight radiator isolation and balancing valves. . . . . . . . . . . . . . . . . . . . . . . . . . . . . metric connections 1/2" radiator x 3/4" conical pipe
+THERMOSTATIC CONTROL HEADS:
+200 series Thermostatic control head, built-in sensor with liquid-filled element .........graduated scale *–5 corresponding to 45–82°F (7–28°C)
+Technical specification of radiator valve bodies and Control adjustment scale, control head 200000
+isolation/balancing valves
+0 * 1 2 3 4 5
+Materials - body: brass chrome plated
+-valve control stem: stainless steel
+-seals: peroxide-cured EPDM 32°F 45°F 55°F 60°F 68°F 75°F 82°F
+-valve control knob and cap: ABS (RAL 9010) 0°C 7°C 12°C 16°C 20°C 24°C 28°C
+Performance
+Suitable fluids: water, glycol solutions
+Max. percentage of glycol: 30%
+Max. differential pressure assembled with control head: 15 psi (1 bar)
+Max. working pressure: 150 psi (10 bar)
+Temperature range: 40–212°F (5–100°C)
+Technical specification of control head 200000
+Scale of adjustment: 0–5
+Setting temperature range: 45–82°F (7–28°C)
+Frost protection cut-in: 45°F (7°C)
+Max. ambient temperature: 120°F (50°C)
+Approval:
+Combined with 338/339 valve bodies: UNI EN 215: 1990
+=== page 2 ===
+4· · · 3 · · ·2 4· · · 3 · · ·2
+B
+C
+A
+E
+D
+D C
+F
+B A
+E
+F
+B
+C
+A
+E
+D
+D C
+B A
+E
+4· · · 3 · · ·2 4· · · 3 · · ·2
+B
+C
+A
+E
+D
+D C
+F
+B A
+E
+F
+B
+C
+A
+E
+D
+D C
+B A
+E
+C
+F
+B A
+C
+4· · · 3 · · ·2
+E D
+A
+F
+E
+4· · · 3 · · ·2
+4· · · 3 · · ·2
+B
+D
+B
+C
+A
+4· · · 3 · · ·2 B
+C
+A D
+E
+4· · · 3 · · ·2 B
+C
+A
+E
+D
+A
+B
+C
+4· · · 3 · · ·2 4· · · 3 · · ·2
+B
+C
+D
+A
+E
+D
+D C
+F
+B A
+E
+F
+B
+C
+A
+E
+D
+D C
+B A
+E
+4· · · 3 · · ·2 4· · · 3 · · ·2
+B
+C
+A
+E
+D
+D C
+F
+B A
+E
+F
+B
+C
+A
+E
+D
+D C
+B A
+E
+Dimensions
+Code A B C D E F Wt. (lb.) Code A B C D E F Wt. (lb.)
+338452
+str
+1
+a
+⁄2
+ig
+"
+ht co
+3
+n
+⁄4
+i
+"
+c al
+21⁄8" 7⁄8" 21⁄32" 315⁄16" 0.5 339452
+str
+1
+a
+⁄2
+ig
+"
+ht co
+3
+n
+⁄4
+i
+"
+c al
+21⁄8" 1" 23⁄16" 41⁄16" 0.5
+Code A B C D E Wt. (lb.) Code A B C D E Wt. (lb.)
+342452 1⁄2" straight 3⁄4" conical 21⁄8" 7⁄8" 11⁄2" 0.5 343452 1⁄2" straight 3⁄4" conical 21⁄8" 1" 13⁄4" 0.5
+Code A B C
+200000 M30 x 1.5 31⁄8" 2"
+=== page 3 ===
+Manual
+Isolation &
+Balancing
+CALEFFI Thermostatic
+3 ······
+Valve closed
+Pipe from floor
+Isolation &
+Balancing
+Manual
+Pipe from wall
+Pipe from wall CALEFFI Thermostatic
+3 ······
+Principle of Operation
+The thermostatic control head is a proportional temperature controller, The valve control stem (2) is stainless steel with an EPDM o-ring double
+containing a liquid-filled bellows thermostatic sensor. seal. This allows for replacement of the control head (3) even with the
+The valve plug is normally in the spring-to-open (normally open) system operating. The valve plug (4) is shaped to provide an optimal
+position (1) without the control head, or when the control head is in flow characteristic throughout the opening and closing stroke under
+the maximum open position (setting 5). Under operation the ambient proportional thermostatic operation. The wide passageway between
+room temperature of air passing around the sensor rises causing the the seat and the valve plug causes reduced head losses in manual
+liquid in the bellows to expand, pushing the valve control stem down operation.
+against the return spring. This closes the valve, reducing fluid flow to
+the radiator to cool the room, in proportion to the deviation from the
+desired temperature setting. When the room temperature decreases, 2
+the reverse occurs; the bellows contracts, which in turn allows the valve
+1 3
+spring to open the valve, increasing the fluid flow to the radiator to warm
+the room.
+4
+NOTE: The valve must be installed with the valve plug closing against
+incoming flow.
+Convertible valve with
+manual control
+(339452 pictured)
+Valve open
+Manual
+Pipe from floor
+Manual Convertible valve with
+Pipe from wall thermostatic control head
+(339452 with 200000 pictured)
+Pipe from wall
+Isolation and balancing valve 6
+The isolation and balancing valve,
+without spring-return action, is
+Tailpiece with rubber seal adjusted to either shutoff flow
+5
+(isolation) or modulate flow rate
+The radiator connection thread coupling union
+(balancing) with a 5 mm (3/16")
+is equipped with a special shaped rubber ring
+allen head wrench (6). The valve
+(5). This system ensures a hydraulic seal
+must be installed with the plug
+without using additional sealing materials
+closing against incoming flow,
+such as hemp or PTFE tape.
+as shown.
+(343452 pictured)
+Tamper-proof cap
+The thermostatic control head can be
+protected against tampering and theft
+by mounting the tamper-proof cap, code
+209000, on the knob as shown.
+The cover is fastened with two screws
+with special heads that can only be
+tightened or loosened with the special
+hex key, code 209001.
+=== page 4 ===
+∆p (kPa) ∆p ft of hd (psi) 30 10 (4.35)
+20 7 (3) 10 3.5 (1.5)
+5 1.6 (.7)
+2 .7 (.3)
+1 .35 (.15)
+0.5 .16 (.07)
+0.2 .07 (.03)
+0.1 .03 (.015)
+1/4
+1/2
+1 2 Fully open
+1/4
+1/2 1 2
+Fully
+open
+)40.(
+200.
+)80.(
+500.
+)22.(
+310.
+)44.(
+820.
+)88.(
+550.
+)2.2(
+41.
+)4.4(
+82.
+)8.8(
+55.
+etar
+wolF
+)mpg(
+s/l
+Flow rates at 4°F Proportional band*
+∆p(kPa) ∆pft of hd (psi) ∆p(kPa) ∆pft of hd (psi) 30 10 (4.35) 16.7 (7.25) 20 7 (3) 7 (3)
+10 3.5 (1.5) 3.5 (1.5)
+5 1.6 (.7) 1.6 (.7)
+2 .7 (.3) .7 (.3) 1 .35 (.15) .35 (.15) 0.5 .16 (.07) .16 (.07)
+0.2 .07 (.03) .07 (.03) 0.1 .03 (.015) .03 (.015)
+∆p(kPa) ∆pft of hd (psi)
+100 33.4 (14.5) 16.7 (7.25) 50 16.7 (7.25) 7 (3) 20 7 (3) 3.5 (1.5)
+10 3.5 (1.5) 1.6 (.7) 5 1.6 (.7) .7 (.3) 2 .7 (.3)
+.35 (.15) 1 .35 (.15)
+0.5 .16 (.07) .16 (.07)
+0.2 .07 (.03) .07 (.03)
+0.1 .03 (.015) .03 (.015)
+100 33.4 (14.5)
+50 16.7 (7.25)
+20 7 (3)
+10 3.5 (1.5) 5 1.6 (.7) 2 .7 (.3)
+1 .35 (.15)
+0.5 .16 (.07)
+0.2 .07 (.03)
+0.1 .03 (.015)
+)40.(
+200.
+)80.(
+500.
+)80.(
+500.
+)22.(
+310.
+)22.(
+310.
+)44.(
+820.
+)44.(
+820.
+)88.(
+550.
+)88.(
+550.
+)2.2(
+41.
+)2.2(
+41.
+)4.4(
+82.
+)4.4(
+82.
+)8.8(
+55.
+)8.8(
+55.
+)2.31(
+38.
+etar
+wolF
+)mpg(
+s/l
+)40.(
+200.
+)40.(
+200.
+)80.(
+500.
+)80.(
+500.
+)22.(
+310.
+)22.(
+310.
+)44.(
+820.
+)44.(
+820.
+)88.(
+550.
+)88.(
+550.
+)2.2(
+41.
+)2.2(
+41.
+)4.4(
+82.
+)4.4(
+82.
+)8.8(
+55.
+)8.8(
+55.
+etar
+wolF
+etar
+wolF
+)mpg(
+s/l
+)mpg(
+s/l
+Flow rates at 4°F Proportional band*
+∆p (kPa) ∆pft of hd (psi)
+)80.(
+500.
+)22.(
+310.
+)44.(
+820.
+)88.(
+550.
+)2.2(
+41.
+)4.4(
+82.
+)8.8(
+55.
+)2.31(
+38.
+etar
+wolF
+)mpg(
+s/l
+∆p (kPa) ∆pft of hd (psi)
+etar
+wolF
+)mpg(
+s/l
+∆p(kPa) ∆pft of hd (psi)
+30 10 (4.35) 20 7 (3)
+10 3.5 (1.5) 5 1.6 (.7)
+2 .7 (.3)
+1 .35 (.15)
+0.5 .16 (.07)
+0.2 .07 (.03)
+0.1 .03 (.015)
+50 20 1/4
+10 1/2
+5 1
+2 2 1 Fully open * * 0.5
+0.2 0.1
+Cv = 4.6 Kv = 4.0
+50 20 1/4 10 1/2
+1 5 2 2 Fully open * *
+1
+0.5
+0.2
+0.1
+Cv = 3.1 Kv = 2.7 Cv = 2.5 Kv = 2.2
+Cv = 2.0 Kv = 1.8
+)40.(
+200.
+)80.(
+500.
+)22.(
+310.
+)44.(
+820.
+)88.(
+550.
+)2.2(
+41.
+)4.4(
+82.
+)8.8(
+55.
+etar
+wolF
+)mpg(
+s/l
+Flow rates at 4°F Proportional band*
+∆p (kPa) ∆p ft of hd (psi) ∆p(kPa) ∆pft of hd (psi)
+30 10 (4.35) 16.7 (7.25) 20 7 (3) 7 (3) 10 3.5 (1.5) 3.5 (1.5)
+5 1.6 (.7) 1.6 (.7)
+2 .7 (.3) .7 (.3)
+1 .35 (.15) .35 (.15) 0.5 .16 (.07) .16 (.07) 0.2 .07 (.03) .07 (.03)
+0.1 .03 (.015) .03 (.015)
+∆p(kPa) ∆pft of hd (psi) 100 33.4 (14.5) 16.7 (7.25)
+50 16.7 (7.25) 7 (3) 20 7 (3) 3.5 (1.5) 10 3.5 (1.5) 1.6 (.7)
+5 1.6 (.7) .7 (.3) 2 .7 (.3) .35 (.15) 1 .35 (.15)
+0.5 .16 (.07) .16 (.07)
+0.2 .07 (.03) .07 (.03)
+0.1 .03 (.015) .03 (.015)
+100 33.4 (14.5)
+50 16.7 (7.25)
+20 7 (3)
+10 3.5 (1.5)
+5 1.6 (.7) 2 .7 (.3) 1 .35 (.15)
+0.5 .16 (.07)
+0.2 .07 (.03)
+0.1 .03 (.015)
+)40.(
+200.
+)80.(
+500.
+)80.(
+500.
+)22.(
+310.
+)22.(
+310.
+)44.(
+820.
+)44.(
+820.
+)88.(
+550.
+)88.(
+550.
+)2.2(
+41.
+)2.2(
+41.
+)4.4(
+82.
+)4.4(
+82.
+)8.8(
+55.
+)8.8(
+55.
+)2.31(
+38.
+etar
+wolF
+)mpg(
+s/l
+)40.(
+200.
+)40.(
+200.
+)80.(
+500.
+)80.(
+500.
+)22.(
+310.
+)22.(
+310.
+)44.(
+820.
+)44.(
+820.
+)88.(
+550.
+)88.(
+550.
+)2.2(
+41.
+)2.2(
+41.
+)4.4(
+82.
+)4.4(
+82.
+)8.8(
+55.
+)8.8(
+55.
+etar
+wolF
+etar
+wolF
+)mpg(
+s/l
+)mpg(
+s/l
+Flow rates at 4°F Proportional band*
+∆p (kPa) ∆pft of hd (psi)
+)80.(
+500.
+)22.(
+310.
+)44.(
+820.
+)88.(
+550.
+)2.2(
+41.
+)4.4(
+82.
+)8.8(
+55.
+)2.31(
+38.
+etar
+wolF
+)mpg(
+s/l
+∆p (kPa) ∆pft of hd (psi)
+etar
+wolF
+)mpg(
+s/l
+∆p(kPa) ∆pft of hd (psi)
+30 10 (4.35)
+20 7 (3)
+10 3.5 (1.5)
+5 1.6 (.7)
+2 .7 (.3)
+1 .35 (.15)
+0.5 .16 (.07)
+0.2 .07 (.03)
+0.1 .03 (.015)
+1/4
+1/2
+1
+2
+Fully
+open
+1/4
+1/2
+1 2
+Fully open
+50 20 10
+5
+2
+* 1 * 0.5 0.2
+0.1
+Cv = 4.6 Kv = 4.0
+50
+20 10 5
+2 * * 1
+0.5
+0.2
+0.1
+Cv = 3.1 Kv = 2.7 Cv = 2.5 Kv = 2.2
+Cv = 2.0 Kv = 1.8
+)40.(
+200.
+)80.(
+500.
+)22.(
+310.
+)44.(
+820.
+)88.(
+550.
+)2.2(
+41.
+)4.4(
+82.
+)8.8(
+55.
+etar
+wolF
+)mpg(
+s/l
+Flow rates at 4°F Proportional band*
+∆p(kPa) ∆pft of hd (psi) ∆p(kPa) ∆pft of hd (psi)
+30 10 (4.35) 16.7 (7.25)
+20 7 (3) 7 (3)
+10 3.5 (1.5)
+3.5 (1.5)
+5 1.6 (.7) 1.6 (.7)
+2 .7 (.3) .7 (.3)
+1 .35 (.15) .35 (.15)
+0.5 .16 (.07) .16 (.07)
+0.2 .07 (.03) .07 (.03)
+0.1 .03 (.015) .03 (.015)
+∆p(kPa) ∆pft of hd (psi) 100 33.4 (14.5) 16.7 (7.25)
+50 16.7 (7.25) 7 (3) 20 7 (3) 3.5 (1.5)
+10 3.5 (1.5) 1.6 (.7)
+5 1.6 (.7) .7 (.3)
+2 .7 (.3) .35 (.15) 1 .35 (.15)
+0.5 .16 (.07) .16 (.07)
+0.2 .07 (.03) .07 (.03)
+0.1 .03 (.015) .03 (.015)
+100 33.4 (14.5) 50 16.7 (7.25)
+20 7 (3)
+10 3.5 (1.5)
+5 1.6 (.7) 2 .7 (.3) 1 .35 (.15) 0.5 .16 (.07)
+0.2 .07 (.03) 0.1 .03 (.015)
+)40.(
+200.
+)80.(
+500.
+)80.(
+500.
+)22.(
+310.
+)22.(
+310.
+)44.(
+820.
+)44.(
+820.
+)88.(
+550.
+)88.(
+550.
+)2.2(
+41.
+)2.2(
+41.
+)4.4(
+82.
+)4.4(
+82.
+)8.8(
+55.
+)8.8(
+55.
+)2.31(
+38.
+etar
+wolF
+)mpg(
+s/l
+)40.(
+200.
+)40.(
+200.
+)80.(
+500.
+)80.(
+500.
+)22.(
+310.
+)22.(
+310.
+)44.(
+820.
+)44.(
+820.
+)88.(
+550.
+)88.(
+550.
+)2.2(
+41.
+)2.2(
+41.
+)4.4(
+82.
+)4.4(
+82.
+)8.8(
+55.
+)8.8(
+55.
+etar
+wolF
+etar
+wolF
+)mpg(
+s/l
+)mpg(
+s/l
+Flow rates at 4°F Proportional band*
+∆p(kPa) ∆p ft of hd (psi)
+)80.(
+500.
+)22.(
+310.
+)44.(
+820.
+)88.(
+550.
+)2.2(
+41.
+)4.4(
+82.
+)8.8(
+55.
+)2.31(
+38.
+etar
+wolF
+)mpg(
+s/l
+∆p (kPa) ∆pft of hd (psi)
+etar
+wolF
+)mpg(
+s/l
+∆p(kPa) ∆pft of hd (psi)
+30 10 (4.35)
+20 7 (3)
+10 3.5 (1.5)
+5 1.6 (.7)
+2 .7 (.3)
+1 .35 (.15)
+0.5 .16 (.07)
+0.2 .07 (.03)
+0.1 .03 (.015)
+50
+20 1/4
+10 1/2
+5 1
+2 2
+1 Fully
+open
+* *
+0.5
+0.2
+0.1
+Cv = 4.6 Kv = 4.0
+50
+1/4 20 1/2 10
+1 5 2
+2 Fully open * *
+1
+0.5
+0.2
+0.1
+Cv = 3.1 Kv = 2.7 Cv = 2.5 Kv = 2.2
+Cv = 2.0 Kv = 1.8
+)40.(
+200.
+)80.(
+500.
+)22.(
+310.
+)44.(
+820.
+)88.(
+550.
+)2.2(
+41.
+)4.4(
+82.
+)8.8(
+55.
+etar
+wolF
+)mpg(
+s/l
+Flow rates at 4°F Proportional band*
+∆p(kPa) ∆pft of hd (psi) ∆p(kPa) ∆pft of hd (psi)
+30 10 (4.35) 16.7 (7.25)
+20 7 (3)
+7 (3)
+10 3.5 (1.5) 3.5 (1.5)
+5 1.6 (.7)
+1.6 (.7)
+2 .7 (.3) .7 (.3)
+1 .35 (.15) .35 (.15)
+0.5 .16 (.07) .16 (.07)
+0.2 .07 (.03) .07 (.03)
+0.1 .03 (.015) .03 (.015)
+∆p(kPa) ∆pft of hd (psi)
+100 33.4 (14.5) 16.7 (7.25) 50 16.7 (7.25) 7 (3)
+20 7 (3) 3.5 (1.5) 10 3.5 (1.5) 1.6 (.7)
+5 1.6 (.7) .7 (.3)
+2 .7 (.3) .35 (.15) 1 .35 (.15)
+0.5 .16 (.07) .16 (.07)
+0.2 .07 (.03) .07 (.03)
+0.1 .03 (.015) .03 (.015)
+100 33.4 (14.5) 50 16.7 (7.25) 20 7 (3)
+10 3.5 (1.5)
+5 1.6 (.7)
+2 .7 (.3) 1 .35 (.15) 0.5 .16 (.07) 0.2 .07 (.03)
+0.1 .03 (.015)
+)40.(
+200.
+)80.(
+500.
+)80.(
+500.
+)22.(
+310.
+)22.(
+310.
+)44.(
+820.
+)44.(
+820.
+)88.(
+550.
+)88.(
+550.
+)2.2(
+41.
+)2.2(
+41.
+)4.4(
+82.
+)4.4(
+82.
+)8.8(
+55.
+)8.8(
+55.
+)2.31(
+38.
+etar
+wolF
+)mpg(
+s/l
+)40.(
+200.
+)40.(
+200.
+)80.(
+500.
+)80.(
+500.
+)22.(
+310.
+)22.(
+310.
+)44.(
+820.
+)44.(
+820.
+)88.(
+550.
+)88.(
+550.
+)2.2(
+41.
+)2.2(
+41.
+)4.4(
+82.
+)4.4(
+82.
+)8.8(
+55.
+)8.8(
+55.
+etar
+wolF
+etar
+wolF
+)mpg(
+s/l
+)mpg(
+s/l
+Flow rates at 4°F Proportional band*
+∆p (kPa) ∆pft of hd (psi)
+)80.(
+500.
+)22.(
+310.
+)44.(
+820.
+)88.(
+550.
+)2.2(
+41.
+)4.4(
+82.
+)8.8(
+55.
+)2.31(
+38.
+etar
+wolF
+)mpg(
+s/l
+∆p (kPa) ∆p ft of hd (psi)
+etar
+wolF
+)mpg(
+s/l
+50
+20
+10
+5
+2
+* 1 *
+0.5
+0.2
+0.1
+Cv = 4.6 Kv = 4.0
+50 20
+10 5
+2 * *
+1
+0.5
+0.2
+0.1
+Cv = 3.1 Kv = 2.7 Cv = 2.5 Kv = 2.2
+∆p(kPa) ∆pft of hd (psi)
+30 10 (4.35) 20 7 (3)
+10 3.5 (1.5) 5 1.6 (.7)
+2 .7 (.3)
+1 .35 (.15)
+0.5 .16 (.07) 0.2 .07 (.03) 0.1 .03 (.015)
+Cv = 2.0 Kv = 1.8
+1/4 1/2 1
+2 Fully open
+1/4
+1/2
+1 2
+Fully open
+)40.(
+200.
+)80.(
+500.
+)22.(
+310.
+)44.(
+820.
+)88.(
+550.
+)2.2(
+41.
+)4.4(
+82.
+)8.8(
+55.
+etar
+wolF
+)mpg(
+s/l
+Flow rates at 4°F Proportional band*
+∆p(kPa) ∆pft of hd (psi) ∆p (kPa) ∆p ft of hd (psi)
+30 10 (4.35) 16.7 (7.25)
+20 7 (3) 7 (3) 10 3.5 (1.5)
+3.5 (1.5) 5 1.6 (.7) 1.6 (.7) 2 .7 (.3) .7 (.3)
+1 .35 (.15) .35 (.15) 0.5 .16 (.07) .16 (.07)
+0.2 .07 (.03) .07 (.03)
+0.1 .03 (.015) .03 (.015)
+∆p(kPa) ∆pft of hd (psi)
+100 33.4 (14.5) 16.7 (7.25)
+50 16.7 (7.25) 7 (3)
+20 7 (3) 3.5 (1.5)
+10 3.5 (1.5) 1.6 (.7)
+5 1.6 (.7) .7 (.3)
+2 .7 (.3) .35 (.15) 1 .35 (.15) 0.5 .16 (.07) .16 (.07)
+0.2 .07 (.03) .07 (.03)
+0.1 .03 (.015) .03 (.015)
+100 33.4 (14.5)
+50 16.7 (7.25)
+20 7 (3)
+10 3.5 (1.5)
+5 1.6 (.7)
+2 .7 (.3)
+1 .35 (.15)
+0.5 .16 (.07)
+0.2 .07 (.03)
+0.1 .03 (.015)
+)40.(
+200.
+)80.(
+500.
+)80.(
+500.
+)22.(
+310.
+)22.(
+310.
+)44.(
+820.
+)44.(
+820.
+)88.(
+550.
+)88.(
+550.
+)2.2(
+41.
+)2.2(
+41.
+)4.4(
+82.
+)4.4(
+82.
+)8.8(
+55.
+)8.8(
+55.
+)2.31(
+38.
+etar
+wolF
+)mpg(
+s/l
+)40.(
+200.
+)40.(
+200.
+)80.(
+500.
+)80.(
+500.
+)22.(
+310.
+)22.(
+310.
+)44.(
+820.
+)44.(
+820.
+)88.(
+550.
+)88.(
+550.
+)2.2(
+41.
+)2.2(
+41.
+)4.4(
+82.
+)4.4(
+82.
+)8.8(
+55.
+)8.8(
+55.
+etar
+wolF
+etar
+wolF
+)mpg(
+s/l
+)mpg(
+s/l
+Flow rates at 4°F Proportional band*
+∆p (kPa) ∆pft of hd (psi)
+)80.(
+500.
+)22.(
+310.
+)44.(
+820.
+)88.(
+550.
+)2.2(
+41.
+)4.4(
+82.
+)8.8(
+55.
+)2.31(
+38.
+etar
+wolF
+)mpg(
+s/l
+∆p (kPa) ∆pft of hd (psi)
+etar
+wolF
+)mpg(
+s/l
+∆p(kPa) ∆pft of hd (psi)
+30 10 (4.35) 20 7 (3)
+10 3.5 (1.5)
+5 1.6 (.7) 2 .7 (.3)
+1 .35 (.15)
+0.5 .16 (.07)
+0.2 .07 (.03)
+0.1 .03 (.015)
+1/4 1/2
+1
+2
+Fully
+open
+50
+20
+10
+1/4
+5 1/2 1 2 2
+1 * * Fully open 0.5
+0.2
+0.1
+Cv = 4.6 Kv = 4.0
+50
+20
+10
+5
+2 * *
+1 0.5
+0.2
+0.1
+Cv = 3.1 Kv = 2.7 Cv = 2.5 Kv = 2.2
+Cv = 2.0 Kv = 1.8
+)40.(
+200.
+)80.(
+500.
+)22.(
+310.
+)44.(
+820.
+)88.(
+550.
+)2.2(
+41.
+)4.4(
+82.
+)8.8(
+55.
+etar
+wolF
+)mpg(
+s/l
+Flow rates at 4°F Proportional band*
+∆p(kPa) ∆pft of hd (psi) ∆p(kPa) ∆pft of hd (psi)
+30 10 (4.35) 16.7 (7.25) 20 7 (3)
+7 (3) 10 3.5 (1.5) 3.5 (1.5) 5 1.6 (.7) 1.6 (.7)
+2 .7 (.3) .7 (.3)
+1 .35 (.15) .35 (.15)
+0.5 .16 (.07) .16 (.07) 0.2 .07 (.03) .07 (.03) 0.1 .03 (.015) .03 (.015)
+∆p (kPa) ∆p ft of hd (psi)
+100 33.4 (14.5) 16.7 (7.25)
+50 16.7 (7.25) 7 (3)
+20 7 (3) 3.5 (1.5) 10 3.5 (1.5) 1.6 (.7) 5 1.6 (.7) .7 (.3)
+2 .7 (.3) .35 (.15) 1 .35 (.15) 0.5 .16 (.07) .16 (.07)
+0.2 .07 (.03) .07 (.03)
+0.1 .03 (.015) .03 (.015)
+100 33.4 (14.5)
+50 16.7 (7.25)
+20 7 (3)
+10 3.5 (1.5)
+5 1.6 (.7)
+2 .7 (.3) 1 .35 (.15) 0.5 .16 (.07)
+0.2 .07 (.03)
+0.1 .03 (.015)
+)40.(
+200.
+)80.(
+500.
+)80.(
+500.
+)22.(
+310.
+)22.(
+310.
+)44.(
+820.
+)44.(
+820.
+)88.(
+550.
+)88.(
+550.
+)2.2(
+41.
+)2.2(
+41.
+)4.4(
+82.
+)4.4(
+82.
+)8.8(
+55.
+)8.8(
+55.
+)2.31(
+38.
+etar
+wolF
+)mpg(
+s/l
+)40.(
+200.
+)40.(
+200.
+)80.(
+500.
+)80.(
+500.
+)22.(
+310.
+)22.(
+310.
+)44.(
+820.
+)44.(
+820.
+)88.(
+550.
+)88.(
+550.
+)2.2(
+41.
+)2.2(
+41.
+)4.4(
+82.
+)4.4(
+82.
+)8.8(
+55.
+)8.8(
+55.
+etar
+wolF
+etar
+wolF
+)mpg(
+s/l
+)mpg(
+s/l
+Flow rates at 4°F Proportional band*
+∆p (kPa) ∆pft of hd (psi)
+)80.(
+500.
+)22.(
+310.
+)44.(
+820.
+)88.(
+550.
+)2.2(
+41.
+)4.4(
+82.
+)8.8(
+55.
+)2.31(
+38.
+etar
+wolF
+)mpg(
+s/l
+∆p (kPa) ∆pft of hd (psi)
+etar
+wolF
+)mpg(
+s/l
+Hydraulic charateristics
+Convertible radiator valve with angled connections, code 338452 Convertible radiator valve with angled connections, code 338452
+with thermostatic control head, proportional band 4°F with manual operation
+Convertible radiator valve with straight connections, code 339452 Convertible radiator valve with straight connections, code 339452
+with thermostatic control head, proportional band 4°F with manual operation
+50
+20 10 5
+2
+* 1 *
+0.5 0.2 0.1
+Cv = 4.6 Kv = 4.0
+Isolation and balancing valve with angled connections, Isolation and balancing valve with straight connections,
+code 342452 and control head code 343452
+50
+20
+10 5 2 * *
+1 0.5
+0.2
+0.1
+Cv = 3.1 Kv = 2.7 Cv = 2.5 Kv = 2.2
+* Proportional band is the difference between the thermostatic radiator valve control head setting and the actual room temperature.
+**7 full turns with 5 mm (3/16") allen head wrench fully, opens the code 342452 and 343452 valves.
+Cv = 2.0 Kv = 1.8
+=== page 5 ===
+CALEFFI
+1234
+CALEFFI
+11223344 1234
+Installation
+Thermostatic control heads should be installed in the horizontal position. The sensitive element of the thermostatic control head must not be
+installed in niches, alcoves, behind curtains or directly exposed to
+sunlight, any of which would sense incorrect temperature values.
+Converting valves from manual to thermostatic control
+Before installing the thermostatic control head, turn the control knob to the number 5 position.
+Locking and restricting the thermostat control temperature
+Temperature restriction
+1.Turn the knob to 2.Turn the knob to 3. Re-lock the ring.
+the fully open position the new maximum The valve will now have
+(Pos. 5). Using a open position required a temperature range
+screw-driver, unlock (e.g. Pos. 3). Turn restriction from 0 to the
+the ring, pressing the ring counter- set value.
+it fully towards the clockwise up to
+valve body. the stop.
+Locking the temperature
+1.Turn the knob to 2.Position the 3. Re-lock the ring.
+the fully open position valve at the required The valve will now
+(Pos. 5). Using a temperature and turn be locked at the set
+screw-driver, unlock the ring clockwise up temperature.
+the ring, pressing to the stop.
+it fully towards the
+valve body.
+Resetting the temperature restriction and temperature lock
+1.Using a screw- 2.Turn the knob to 3. Re-lock the ring.
+driver, unlock the the fully open position The valve will now
+ring, pressing it and the ring counter- no longer have any
+fully towards the clockwise, up to the temperature restriction
+valve body. stop. The RESET or lock.
+arrows will match up.
+=== page 6 ===
+Fittings
+681 682
+Universal PEX fittings Universal PEX-AL-PEX fittings
+681 series fittings are compatible with 682 series fittings are compatible with any
+any ASTM F876 single layer PEX. Max. ASTM F1281 multilayer PEX-AL-PEX pipe.
+working pressure: 150 psi. Working Max. working pressure: 150 psi. Working
+temperature for ASTM F876 PEX piping: temperature for ASTM F1281 multilayer
+-41–180ºF. Chrome plated. PEX-AL-PEX piping: -41–167ºF with tubing
+rated 200ºF.
+Code Description Code Description
+681524 1⁄2" nominal PEX, 3⁄4" straight thread female nut 682540 1⁄2" nominal PEX-AL-PEX, 3⁄4" straight thread female nut
+NA102
+Sweat connection fitting.
+Code Description
+NA10262 1⁄2" sweat, 3⁄4" straight thread female nut
+437
+Compression fitting, for ½" hard copper.
+With o-ring seal. Max. working pressure:
+150 psi (10 bar). Temperature range:
+-13–250ºF (-25–120ºC). Chrome plated.
+For connecting copper to valve 338 and
+339 series.
+Code Description
+437516 1⁄2" compression, 3⁄4" straight thread female nut
+=== page 7 ===
+SPECIFICATION SUMMARIES
+338 series
+Radiator valve body convertible from standard manual operation to thermostatic control heads and thermo-electric actuators. Angled connections
+for copper and single and multilayer PEX pipes. Radiator connection 1/2" straight threads with tailpiece equipped with peroxide-cured EPDM seal.
+Pipe connection 3/4" conical. Brass body. Chrome plated. Control knob white RAL 9010, for manual control, in ABS. Stainless steel control stem.
+Double seal on control stem with EPDM o-rings. Maximum working temperature 212°F (100°C). Maximum working pressure 150 psi (10 bar).
+339 series
+Radiator valve body convertible from standard manual operation to thermostatic control heads and thermo-electric actuators. Straight connections
+for copper and single and multilayer PEX pipes. Radiator connection 1/2" straight threads with tailpiece equipped with peroxide-cured EPDM seal.
+Pipe connection 3/4" conical. Brass body. Chrome plated. Control knob white RAL 9010, for manual control, in ABS. Stainless steel control stem.
+Double seal on control stem with EPDM o-rings. Maximum working temperature 212°F (100°C). Maximum working pressure 150 psi (10 bar).
+342 series
+Isolation and balancing valve. Angled connections for copper and single and multilayer PEX pipes. Radiator connection 1/2" straight threads
+with tailpiece equipped with peroxide-cured EPDM seal. Pipe connection 3/4" conical. Brass body. Chrome plated. Cap white RAL 9010 in ABS.
+Double seal on control stem with EPDM o-rings. Maximum working temperature 212°F (100°C). Maximum working pressure 150 psi (10 bar).
+343 series
+Isolation and balancing valve. Straight connections for copper and single and multilayer PEX pipes. Radiator connection 1/2" straight threads
+with tailpiece equipped with peroxide-cured EPDM seal. Pipe connection 3/4" conical. Brass body. Chrome plated. Cap white RAL 9010 in ABS.
+Double seal on control stem with EPDM o-rings. Maximum working temperature 212°F (100°C). Maximum working pressure 150 psi (10 bar).
+200 series
+Thermostatic control head for thermostatic and convertible radiator valves. Sensor incorporated with liquid-filled element. Maximum ambient temperature
+120°F (50°C). Graduated scale from * to 5 corresponding to a temperature range of 45 to 82°F (7 to 28°C), with possibility of temperature restriction and
+locking. Frost protection cut-in at 45°F (7°C).
+209 series
+Tamper-proof cap for thermostatic control head 200 series, for use in public places.
+We reserve the right to change our products and their relevant technical data, contained in this publication, at any time and without prior notice.
+Caleffi North America, Inc.
+3883 W. Milwaukee Road
+Milwaukee, WI 53208
+Tel: 414-238-2360 · Fax: 414-238-2366
+sales@caleffi.com · www.caleffi.com
+© Copyright 2023 Caleffi North America, Inc.

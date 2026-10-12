@@ -1,0 +1,777 @@
+=== page 1 ===
+Motorized ball valves with 3-wire control
+CALEFFI
+6442 - 6443 series
+01131/23 NA
+Replaces 01131/16 NA
+Function
+Zone valves are used to automatically shut-off the flow, redirect or
+modulate hot and chilled water in hydronic heating and air conditioning
+systems. The motorized three-way diverting / mixing valve permits two
+position diverting or three-way mixing with 3-wire floating outdoor
+reset controller for injection mixing.
+The motorized three-way bypass valve permits a system to operate
+with a continuous flow regardless if the zone valve is in the open or in
+the by-pass position.
+The high flow and high close-off performance characteristics of
+these zone valves, combined with the compact size, makes them
+particularly suitable to fit inside baseboard or directly in fan coil units.
+The 6442 and 6443 series motor drives for 40 seconds. Power is
+then dropped by an internal switch. Power is required to drive in both
+directions. These valves are used in all types of systems because of
+the following characteristics:
+• Zero leakage across the valve
+• Quick opening and closing valve operation
+• Operates at very high differential pressures
+• Loss of power stays in last position (open, closed or mid-stroke)
+• Low pressure drop through the valve
+• Union connections for simple installation and removal
+The 6442 and 6443 series is available with NPT male, sweat or press
+union connections.
+Caleffi code 290030 full-port ball valve is designed for isolating
+the 6442-6443 series valves that have 1” metric “G” thread union
+connections. The isolation valve installs in between the valve body
+and the tailpiece fitting assembly. Male x Female configuration and
+bi-directional full ball valve flow capacity provides flexibility for using
+one or two isolation valves for the primary functioning valve. An
+optional stem extension is also available for those projects that require
+pipe insulation.
+Product range
+6442 series Zone valve 2-way with 24V 3-wire control with micro-switch...................connections ¾”, & 1” sweat, NPT male and press union
+6443.. 3BY series Zone valve 3-way by-pass with 24V 3-wire with micro-switch.................connections ¾”, & 1” sweat, NPT male and press union
+6443 series Zone valve 3-way diverting with 24V 3-wire with micro-switch................connections ¾”, & 1” sweat, NPT male and press union
+644004 Zone valve actuator, 24V 3-wire control with micro-switch
+Technical specifications
+Valve body Actuator
+Materials Materials
+Body: brass Protective shell: self-extinguishing polycarbonate
+Ball: chrome plated brass Color: gray RAL 9002
+Ball seal: PTFE with peroxide-cured EPDM O-Rings
+Stem seal: two peroxide-cured EPDM O-Rings
+Press fittings: Copper
+Performance Performance
+Suitable fluids: water, glycol solutions Synchronous motor: 24 VAC (± 10%) - 50/60 Hz
+Max percentage of glycol: 50% Power consumption: 4 VA
+Max working pressure: 150 psi (10 bar) Protection class: IP 44 (vertical control stem)
+Temperature range: 20–230°F (-5–110°C) IP 40 (horizontal control stem)
+Max pressure differential: 150 psi (10 bar) Starting (inrush) current: 170 mA
+Holding current: 0 mA
+Connections Micro-switch contact rating: 5 A (24V)
+Main connections: ½”, ¾”, & 1” NPT male, sweat or Time to rotate 90°, both directions: 40 s
+press with unions Ambient temperature range: 32 – 130°F (0–55°C)
+Lay length (press connections): size ¾ inch: 3 ¼” Dynamic starting torque: 70 in·lb (8 N·m)
+size 1 inch: 3 ½” Wire lead length: 36 in. (100 cm)
+=== page 2 ===
+Dimensions
+2 3/16”
+C
+D
+A
+B
+A
+C
+A A
+A D
+B
+E
+D
+A A
+A
+B E
+F
+D
+A A
+A
+B
+F
+C
+A A
+A
+B
+E
+3 ¾”
+C
+”61/7
+3
+A
+2 3/8”
+B
+CALEFFI
+A
+A B A B
+AB AB
+CALEFFI
+2 3/8”
+”61/7
+3
+3 ¾”
+3 ¾” 3 ¾”
+”61/7
+3
+”61/7
+3
+2 3/16”
+2 3/8” 2 3/8”
+3 ¾” 3 ¾” 2 3/16”
+”61/7
+3
+”61/7
+3
+A B
+C C
+AB
+94
+36
+A B
+AB
+94
+36
+6442 series
+2-way
+2 3/16”
+C
+Wt
+Code A B C D (lb)
+644259A ¾" sweat 4 7⁄16" 2 3⁄8" 1 7⁄16” 2.3
+644269A 1" sweat 5 9⁄16" 2 3⁄8" 1 ½” 2.3
+Actuator is in OPEN position with brown wire powered. 644256A ¾" press 4 ¾" 2 3⁄8" 1 7⁄16” D2.4
+644266A 1" press 5 ¼" 2 3⁄8" 1 ½” 2.4
+644250A ¾" NPT 4 5⁄8" 2 3⁄8" 1 7⁄16” 2.3
+644260A 1" NPT 5 ¼" 2 3⁄8" 1 ½” 2.3
+6443.. 3BY code,
+3-way by-pass
+version
+Actuator is in CLOSED position with black wire powered.
+A
+B
+A
+C
+A A
+A
+D
+B
+E
+D
+A A
+A
+B E
+F
+D
+A A
+A
+B
+F
+C
+A A
+A
+B
+E
+3 ¾”
+C
+”61/7
+3
+A
+2 3/8”
+B
+CALEFFI
+A
+A B A B
+AB AB
+CALEFFI
+2 3/8”
+”61/7
+3
+3 ¾”
+3 ¾” 3 ¾”
+”61/7
+3
+”61/7
+3
+2 3/16”
+2 3/8” 2 3/8”
+3 ¾” 3 ¾” 2 3/16”
+”61/7
+3
+”61/7
+3
+Wt
+Code A B C D E (lb)
+644359A 3BY ¾" sweat 4 5⁄8” 2 3⁄8" 1 7⁄16” 2 5⁄16” 2.5
+644369A 3BY 1" sweat 5 ¼” 2 3⁄8" 1 ½” 2 5⁄8” 2.5
+644356A 3BY ¾" press 5 1⁄16” 2 3⁄8" 1 7⁄16” 3 1⁄8” 2.6
+644366A 3BY 1" press 5 ¼" 2 3⁄8" 1 ½” 2 5⁄8” 2.6
+644350A 3BY ¾" NPT 4 7⁄16" 2 3⁄8" 1 7⁄16” 2 1⁄8” 2.5
+644360A 3BY 1" NPT 5 9⁄16" 2 3⁄8" 1 ½” 2 ¾” 2.5
+C
+C
+=== page 3 ===
+A B
+AB
+94
+36
+2 3/16”
+C
+D
+Dimensions
+3-way 6443.. code,
+diverter version
+Actuator is in CLOSED position with black wire powered.
+A
+B
+A
+C
+A A
+A
+D
+B
+E
+D
+A A
+A
+B E
+F
+D
+A A
+A
+B
+F
+C
+A A
+A
+B
+E
+3 ¾”
+C
+”61/7
+3
+A
+2 3/8”
+B
+CALEFFI
+A
+A B A B
+AB AB
+CALEFFI
+2 3/8”
+”61/7
+3
+3 ¾”
+3 ¾” 3 ¾”
+”61/7
+3
+”61/7
+3
+2 3/16”
+2 3/8” 2 3/8”
+3 ¾” 3 ¾” 2 3/16”
+”61/7
+3
+”61/7
+3
+C
+C
+Wt
+Code A B C D E F (lb)
+644359A ¾" sweat 2 3⁄8" 4 5⁄8" 2 3⁄8" 1 7⁄16” 2 5⁄16” 2.5
+644369A 1" sweat 3 1⁄16" 6 ¼" 2 3⁄8” 1 7⁄8” 3 1⁄16” 2.5
+644356A ¾" press 2 3⁄8" 5 1⁄16" 2 3⁄8” 1 7⁄16” 3 1⁄8” 2.6
+644366A 1" press 3 1⁄16” 5 ¼” 2 3⁄8” 1 7⁄8” 2 5⁄8” 2.6
+644350A ¾" NPT 2 3⁄8" 4 7⁄16" 2 3⁄8” 1 7⁄16” 2 1⁄8” 2.5
+644360A 1" NPT 3 1⁄16” 5 9⁄16" 2 3⁄8” 1 7⁄8” 2 ¾” 2.5
+=== page 4 ===
+Construction details Directions of flow and position indicator
+Valve body
+Removing the actuator exposes the slot on the top of the control
+stem. This engages the actuator pin, permiting the opening/closing of
+· Union seals
+the valve manually with a screwdriver. The position of the pin shows the
+The valves have unions with a flat seat and integral
+direction of flow with relation to the position of the ball, which is especially
+EPDM O-ring seal. There is no gasket to lose or hold onto during
+helpful when testing or checking the system.
+installation.
+The position of the slot for each valve type is illustrated in each
+diagram below and shows the direction of flow.
+Two-way valve 6442 series
+· Stem seal (A)
+Two EPDM O-rings (A) provide high temperature and oxygen
+electrolysis resistance from high boiler feed and open system
+applications.
+· Full-port ball (B)
+Allows for higher flow with little pressure drop and high 150 psi
+close-off pressure. Three-way valve with by-pass 6443.. 3BY code
+Actuator
+· ON/OFF mode
+The valves can be used in ON/
+OFF mode with a single signal for
+opening or closing from a three-
+wire thermostat/timer-thermostat
+or an ordinary switch.
+· Modulating mode
+The 644004 actuator can be
+ACTUATOR CLOSED POSITION
+controlled by any type of three-
+(black wire powered)
+wire floating controller for outdoor
+reset on radiant systems, for
+example. Not recommended for Three-way diverter valve 6443 series
+two-way valves because ball is not Flow diversion can be modulating with the electrical characteristics of
+characterized. the three-wire control actuator.
+· Drive transmission
+The tapered coupling between the stem of the valve (C) and the shaft of
+the gear motor (D) produces a constant mesh of the two components.
+This allows for automatic compensation of the mechanical slack from
+shaft wear with force (E) on the stem applied by the pressure of the
+medium. Sector gear (F) is extra thick for better motor drive and no
+stripped gears.
+· Valve actuator coupling
+The actuator is easy to install or remove with steel clip (G), providing
+direct coupling with automatic locking.
+· Cam and limit micro-
+switches
+The cam (A) that works
+the limit micro-switches
+(B) can move vertically
+and is supported by a
+tapered spring (C). This
+keeps the contact with the
+micro-switches constant,
+compensating for wear of
+the parts over time. This internal switch shuts off the motor at the
+end of travel.
+· Micro-switch
+The actuator comes complete with a micro-switch that can be used All the valves are supplied with the slot/indicator in the horizontal
+A to stop a pump on closinBg the valve and vice versa. It activates at position.
+approximately 80% valve opening. All directions of flow can be reversed.
+AB
+94
+36
+FORATURA A “T” Utilizzo ON/OFF tramite termostato a tre fili
+o modulante su comando da un regolatore a tre punti
+Rotazione di 90
+A B B A
+AB
+AB AB
+CALEFFI
+A B
+AB
+CALEFFI
+A B
+CALEFFI CALEFFI
+FORATURA A “T”
+Utilizzo ON/OFF tramite termostato a tre fili
+o modulante su comando da un regolatore a tre punti
+Rotazione di 90
+A B B A
+AB
+AB AB
+CALEFFI
+A B
+AB
+CALEFFI
+A B
+CALEFFI CALEFFI
+A B
+AB
+94
+36
+D
+A
+B A B
+A B
+AB
+94
+36
+13 Cv
+ACTUATOR OPEN POSITION ACTUATOR CLOSED POSITION
+(brown wire powered) (black wire powered)
+F
+12 Cv 2.1 Cv
+G
+ACTUATOR CLOSED POSITION
+C (black wire powered)
+E
+B
+ON/OFF mode with thermostat (three wires or modulating)
+when operated by a three-wire floating
+90° Rotation
+C
+A B A B A B A B
+AB AB
+4.5 Cv 4.5 Cv
+AB AB
+ACTUATOR OPEN POSITION ACTUATOR CLOSED POSITION
+(brown wire powered) (black wire powered)
+=== page 5 ===
+Hydraulic characteristics
+Two-way zone valve 6442 series, sizes 3/4” and 1” Three-way zone valve with by-pass code 6443.. 3BY
+on “by-pass” operation, sizes 3/4”, 1”
+2.1 Cv (1.8 Kv) ∆p (psi) (kPa)
+01.
+2
+52.
+5
+06.
+01
+01.1
+02
+13.0 Cv (11.2 Kv)
+5
+30
+4
+3 20
+2
+10
+1
+5
+0.5
+3
+0.4
+0.3 2
+0.2
+1
+0.1
+0,5
+0.05
+0,3
+0.04
+0.03 0,2
+0.02
+0,1
+0.01
+Three-way diverter valve 6443.. code, sizes 3/4” and 1”
+4.5 Cv (3.9 Kv) ∆p (psi) (kPa)
+5
+30 4
+3 20
+2
+10
+1
+5
+0.5
+3 0.4
+0.3 2
+0.2
+1
+0.1
+0,5
+0.05
+0,3 0.04
+0.03 0,2
+0.02
+0,1
+0.01
+)mpg(
+)s/l(
+G
+∆p (psi) (kPa)
+1
+01.
+2
+51. 52.
+5
+5.
+01
+1
+02
+2.2
+05
+51.3
+5
+30
+4
+3 20
+2
+10
+1
+5
+0.5
+3
+0.4
+0.3 2
+0.2
+1
+0.1
+0,5
+0.05
+0,3
+0.04
+0.03 0,2
+0.02
+0,1
+0.01
+Three-way zone valve with by-pass code 6443.. 3BY
+on “open” operation, sizes 3/4”, 1”
+12 Cv (10.3 Kv) ∆p (psi) (kPa)
+5
+30 4
+3 20
+2
+10
+1
+5
+0.5
+3 0.4
+0.3 2
+0.2
+1
+0.1
+0,5
+0.05
+0,3 0.04
+0.03 0,2
+0.02
+0,1
+0.01
+CALEFFI
+5.0
+CALEFFI
+50.
+1 )mpg(
+)s/l(
+G
+A B A B
+AB AB
+1
+01.
+2
+51. 52.
+5
+5.
+01
+31
+28.
+31
+28. 1
+02
+53
+53
+2.2
+05
+51.3
+)mpg(
+)s/l(
+G
+5.0
+50.
+1
+01.
+2
+52.
+5
+06.
+01
+01.1
+02 )mpg(
+)s/l(
+G
+=== page 6 ===
+Installation
+1. The two-way valve can be
+installed either on the supply
+pipe or on the return pipe.
+4b. For installations with chilled water having the risk of
+condensation, the actuator must be installed with the
+control stem vertical.
+5. The actuator can be
+installed on the valve body
+in either of the two positions
+shown. Attach with a
+stainless steel clip.
+6. For installing in a box
+leave a gap of at least 2
+in (50 mm) between the
+actuator and frame for
+replacement, if necessary,
+or maintenance.
+DAOL
+DAOL
+DAOL
+DAOL
+2. The three-way valve with
+by-pass must be installed on
+the supply pipe.
+DAOL
+DAOL
+DAOL
+DAOL
+3. The three-way diverter valves can be installed as shown:
+a. On the supply in the diverter b. On the return in the mixer
+/mixer position (common position (that is inlets on A
+inlet AB and outlets A or B) and B and common outlet
+and ON/OFF mode AB) and ON/OFF mode
+4. The valve must be
+installed with the control
+stem in the horizontal or
+vertical position, never
+upside down.
+DAOL
+DAOL
+DAOL
+DAOL
+DAOL
+DAOL
+DAOL
+DAOL
+A B
+A B
+AB
+AB
+Horizontal stem Vertical stem
+A B A B A B A B
+AB AB AB AB
+CALEFFI CALEFFI
+CALEFFI
+CALEFFI 356
+CALEFFI IFFELAC IFFELAC
+IFFELAC
+IFFELAC
+7. Provide for constant ventilation to
+prevent the actuator from reaching high
+temperatures.
+IFFELAC
+IFFELAC
+IFFELAC
+IFFELAC
+MA x8a,M0
+min. 30 mm
+min. 2 in (50 mm)
+CALEFFI
+COLPOESNE
+NL
+=== page 7 ===
+Wiring diagrams
+1. C onnection diagram for room SPDT thermostat (RT) and
+electric supply.
+The illustrated connection permits opening and closing the valve
+according to the ambient thermostat signal.
+M
+2. Connection diagram for single contact thermostat (RT) or
+on-off switching device.
+If the termostat has only a single contact, or on-off switch is used,
+install a SPDT relay as shown below.
+ESOLC NEPO
+ACTUATOR
+Max
+5A
+N
+RT
+L
+M
+ESOLC NEPO
+M
+ACTUATOR
+Max 5A
+N RT
+L
+ESOLC NEPO
+ACTUATOR
+Max
+5A
+N
+RT
+L
+M
+ESOLC NEPO
+3. Pump disconnection diagram when no zone is in operation.
+This diagram, using the micro-switch, turns off the pump when the
+zone valve is closed.
+If the pump has an input current greater than 5 A (24 V), use an
+intermediate relay.
+ACTUATOR
+Max
+5A
+N RT
+L
+Micro-switches
+The motor is equipped with limit micro-switches that shut off the
+motor when reaching the valve open/closed positions.
+M The micro-switch activates at approximately 80% valve opening.
+ESOLC NEPO
+ACTUATOR
+Max
+5 A
+N
+24 VAC
+RT Relay
+L
+Replacement parts and accessories
+Replacement fittings
+Refer to current Caleffi Plumbing and Hydronics Catalog, fittings and
+miscellaneous components section for replacement tailpiece, union nut and
+washer parts.
+Isolation ball valve
+Low lead Male x Female union fits 1" valves
+between body and tailpiece. See below.
+290030.................................................isolation ball valve 1" M x 1" F union Isolation ball valves, installed on 6442 series valve
+=== page 8 ===
+Shut-off valve
+RT
+Thermostatic valve
+Manual valve
+Electric pump
+RT Room thermostat
+Differential by-pass
+Air vent valve
+Differential by-pass
+valve
+RT
+RT
+CALEFFI
+CALEFFI
+CALEFFI
+Application diagrams
+In systems with zone control, the zone valve shuts off the circuits serving the heat exchanger terminal emitters when the temperature in the room
+reaches the desired temperature set point on the thermostat. Switching off this circuit can, however, cause changes in pressure and flow rate
+throughout the system. Therefore, it is essential to make sure these changes are kept under control within acceptable limits.
+System with 6442 series two-way zone valves and differential by-pass valve
+The system works with variable flow rate and it is necessary to keep the pressure differential generated by the zone valves closing under control.
+This increase, which can reach unacceptable limits for the system to work properly, creates an increase in the flow rate to the circuits still open and
+can result in problems for the pumps and the boiler. It is therefore necessary to keep the pressure differentials under control by means of differential
+by-pass valves or variable speed pumps.
+System with code 6443.. 3BY three-way zone valve with by-pass
+=== page 9 ===
+find BIM Revit files and system templates at
+https://bim.caleffi.com/en-us
+https://get.caleffi.info/specpoint
+SPECIFICATION SUMMARIES
+6442 series
+Motorized two-way ball zone valve with three-wire power open/power closed control. Connections: ¾” and 1” sweat with
+unions, ¾” and 1” press with unions, or ¾” and 1” NPT with unions. Brass body. Full-port chrome-plated brass ball. Ball seal
+made of PTFE with O-Ring in peroxide-cured EPDM. Control stem seal with double O-Ring in peroxide-cured EPDM. Union
+seals with O-Ring in EPDM. Suitable fluids: water and glycol solutions. Maximum percentage of glycol 50%. Maximum working
+pressure 150 psi (10 bar). Temperature range 20 degrees F to 230 degrees F (-5 degrees C to 110 degrees C). Maximum
+working differential pressure (close-off) 150 psi (10 bar). Self-extinguishing polycarbonate actuator; Color gray RAL 9002;
+Synchronous three-wire motor with micro-switch; Electric supply 24 V; Power consumption 4 VA; Starting (inrush) current
+170 mA; Holding current 0 mA; Dynamic starting torque 70 in·lb (8 N·m). Micro-switch contacts rating 5 A (24 V). Operating
+time (angle of rotation 90°) 40 s. Ambient temperature range 32 degrees F to 130 degrees F (0 degrees C to 55 degrees C).
+Provide with optional inlet and outlet isolation ball valves, code 290030, separately sourced, field installed.
+6443.. 3BY series
+Motorized three-way ball zone valve, by-pass version, with three-wire power open/power closed control. Connections: ¾” and
+1” sweat with unions, ¾” and 1” press with unions, or ¾” and 1” NPT with unions. Brass body. Full-port chrome-plated brass ball.
+Ball seal made of PTFE with O-Ring in peroxide-cured EPDM. Control stem seal with double O-Ring in peroxide-cured EPDM.
+Union seals with O-Ring in EPDM. Suitable fluids: water and glycol solutions. Maximum percentage of glycol 50%. Maximum
+working pressure 150 psi (10 bar). Temperature range 20 degrees F to 230 degrees F (-5 degrees C to 110 degrees C). Maximum
+working differential pressure 150 psi (10 bar). Self-extinguishing polycarbonate actuator; Color gray RAL 9002; Synchronous
+three-wire motor with micro-switch; Electric supply 24 V; Power consumption 4 VA; Starting (inrush) current 170 mA; Holding
+current 0 mA; Dynamic starting torque 70 in·lb (8 N·m). Micro-switch contacts rating 5 A (24 V). Operating time (angle of
+rotation 90°) 40 s. Ambient temperature range 32 degrees F to 130 degrees F (0 degrees C to 55 degrees C). Provide with
+optional inlet and outlet isolation ball valves, code 290030, separately sourced, field installed.
+6443 series
+Motorized diverter/mixer three-way ball valve with three-wire power open/power closed control. Connections: ¾” and 1” sweat
+with unions, ¾” and 1” press with unions, or ¾” and 1” NPT with unions. Brass body. Full-port chrome-plated brass ball. Ball
+seal made of PTFE with O-Ring in peroxide-cured EPDM. Control stem seal with double O-Ring in peroxide-cured EPDM.
+Union seals with O-Ring in peroxide-cured EPDM. Suitable fluids: water and glycol solutions. Maximum percentage of glycol
+50%. Maximum working pressure 150 psi (10 bar). Temperature range 20 degrees F to 230 degrees F (-5 degrees C to 110
+degrees C). Maximum working differential pressure 150 psi (10 bar). Self-extinguishing polycarbonate actuator; Color gray
+RAL 9002; Synchronous three-wire motor with micro-switch; Electric supply 24 V; Power consumption 4 VA; Starting (inrush)
+current 170 mA; Holding current 0 mA; Dynamic starting torque 70 in·lb (8 N·m). Micro-switch contacts rating 5 A (24 V).
+Operating time (angle of rotation 90°) 40 s. Ambient temperature range 32 degrees F to 130 degrees F (0 degrees C to 55
+degrees C). Provide with optional inlet and outlet isolation ball valves, code 290030, separately sourced, field installed.
+We reserve the right to change our products and their relevant technical data, contained in this publication, at any time and without prior notice.
+Caleffi North America, Inc.
+3883 W. Milwaukee Rd
+Milwaukee, WI 53208
+Tel: 414-238-2360 · Fax: 414-238-2366
+sales@caleffi.com · www.caleffi.com
+© Copyright 2023 Caleffi

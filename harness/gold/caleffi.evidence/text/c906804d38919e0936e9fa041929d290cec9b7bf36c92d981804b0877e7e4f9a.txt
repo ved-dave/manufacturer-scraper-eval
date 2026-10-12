@@ -1,0 +1,376 @@
+=== page 1 ===
+18106.06
+www.caleffi.com
+QuickSetter™ Balancing Valve with Flow Meter
+© Copyright 2020 Caleffi 132 Series
+Function
+The balancing valve accurately controls the flow rate of heating and
+cooling transfer fluid supplied to fan coils and terminal units; or where
+flow balancing is required in solar thermal systems. Proper hydronic
+system balancing ensures the system operates according to design
+specifications, providing satisfactory thermal comfort with low energy
+consumption.
+The flow meter is housed in a by-pass circuit on the valve body and
+can be shut off during normal operation. The flow meter permits
+fast and easy circuit balancing without added differential pressure
+gages and charts. The balancing valve comes standard with a hot
+pre-formed insulation shell to optimize thermal performance for both
+hot and chilled water.
+These items are designed for use in closed hydronic systems. Do
+not use in plumbing applications. These items do not meet the low-
+lead plumbing standards of U.S. and Canada.
+Product range
+132 Series Balancing valve with flow meter sizes 1/2", 3/4", 1", 1-1/4",
+1-1/2", 2" NPT female and press
+Technical specifications
+Valve: Body and ball: brass
+Ball control stem: chrome-plated brass
+Ball seal seat: PTFE
+Control stem guide: PSU
+Seals: peroxide-cured EPDM
+Flow meter: Body: brass
+Bypass valve stem: chrome-plated brass
+Springs: stainless steel
+Seals: peroxide-cured EPDM
+Flow meter float and indicator cover: PSU
+Performance: Max. percentage of glycol: 50%
+Max. working pres sure: 150 psi (10 bar)
+Working temperature range: 14 - 230°F (-10–110°C)
+Flow rate range unit of measurement: gpm
+Accuracy: ±10%
+Control stem angle of rotation: 90°
+Required operating wrench: 1/2”–1 1/4”: 9 mm
+1 1/2” and 2”: 12 mm
+Connections : 1/2”– 2” FNPT; 1/2" – 2” press
+Flow rate correction factor: 20% - 30% glycol solutions: 0.9
+40% - 50% glycol solutions: 0.8
+Insulation shell: closed cell expanded PE-X, 10 mm thick
+(see page 7 for specification)
+1
+=== page 2 ===
+SAFETY INSTRUCTION / CONSIGNE DE SÉCURITÉ
+This safety alert symbol will be used in this manual to draw attention to safety related instructions. When
+used, the safety alert symbol means ATTENTION! BECOME ALERT! YOUR SAFETY IS INVOLVED!
+FAILURE TO FOLLOW THESE INSTRUCTIONS MAY RESULT IN A SAFETY HAZARD.
+Ce symbole d'avertissement servira dans ce manuel à attirer l'attention sur la sécurité concernant instructions. Lorsqu'il
+est utilisé, ce symbole signifie ATTENTION ! DEVENEZ ALERTE ! VOTRE SÉCURITÉ EST EN JEU ! NE PAS
+SUIVRE CES INSTRUCTIONS PEUT PROVOQUER UN RISQUE DE SECURITE.
+WARNING: This product can expose you to chemicals including lead, which is known to the State
+of California to cause cancer and birth defects or other reproductive harm. For more nformation go
+to www.P65Warnings.ca.gov.
+AVERTISSEMENT: Ce produit peut vous exposer à des produits chimiques comme le plomb, qui est
+connu dans l’État de Californie pour causer le cancer, dommages à la naissance ou autre. Pour plus
+d’informations rendez-vous www.P65Warnings.ca.gov.
+WARNING: Caleffi shall not be liable for damages resulting from stress corrosion, misapplication or
+misuse of it’s products.
+AVERTISSEMENT: Caleffi ne sera pas responsable des dommages résultant de la corrosion sous
+tension, d'une mauvaise application ou d'une mauvaise utilisation de ses produits.
+CAUTION: All work must be performed by qualified personnel trained in the proper application,
+installation, and maintenance of systems in accordance with all applicable codes and ordinances.
+ATTENTION: Tous les travaux doivent être effectués par du personnel qualifié formé à la bonne
+application, installation et maintenance des systèmes conformément aux codes et règlements locaux.
+CAUTION: If the balancing valve is not installed, commissioned and maintained properly, according
+to the instructions contained in this manual, it may not operate correctly and may endanger the user.
+ATTENTION: Si la vanne d'équilibrage n'est pas installée, mis en service et entretenu correctement,
+selon les instructions contenues dans ce manuel, il peut ne pas fonctionner correctement et peut mettre
+en danger l'utilisateur.
+CAUTION: Make sure that all the connecting pipework is water tight.
+ATTENTION: S'assurer que tous les raccordements sont étanches.
+CAUTION: Over-tightening and breakage can occur with the use of Teflon® pipe joint compounds.
+Teflon® provides lubricity so that care must be exercised not to over-tighten joints . Failure to follow
+these instructions could result in property damage and /or personal injury.
+ATTENTION: Un serrage excessif et une rupture peuvent survenir avec l'utilisation de Teflon®
+composés de joint de tuyau. Le Teflon® offre un pouvoir lubrifiant de sorte que les soins doivent être
+exercé pour ne pas trop serrer les joints. Non-respect de ces instructions pourrait entraîner des
+dommages matériels et / ou des blessures corporelles.
+WARNING: System fluids are under pressure or temperature can be hazardous . Be sure the pres sure
+has been reduced to zero and the system temperature is below 100°F (38°C ). Failure to follow these
+instructions could result in property damage and/or personal injury.
+ATTENTION: Les fluides du système sont sous pression ou la température peut être hasardeux . Assurez
+vous que la pression a été réduite à zéro et que le La température du système est inférieure à 38° C
+(100° F). Non-respect de ces Les instructions peuvent entraîner des dommages matériels et / ou des
+blessures corporelles.
+2
+=== page 3 ===
+Installation The balancing valves, with built-in flow meter, must be installed by
+qualified technical personnel in accordance with the instructions given in
+132 series this manual and with current regulations.
+Clean the pipes of any debris, rust, welding slag and any other
+contaminants.
+5D As in all piping circuits it is important to pay attention to the cleanliness
+132 series Pump
+o
+Fo
+f
+r
+t h
+o
+e
+p
+e
+ti
+n
+m
+ti
+a
+re
+l o
+s
+p
+y
+e
+s
+r
+t
+a
+e
+t
+m
+io 3
+7654
+2
+.
+n, any air in the water must be removed.
+In order to ensure measuring accuracy, the balancing valves with flow
+meter must be installed by keeping a straight section above them at least
+as long as five diameters, increased to at least ten diameters if the nearest
+10D device upstream is a pump.
+The valves must be installed so that:
+- the direction of the flow agrees with that of the arrow on the valve body.
+- there is easy access to the flow meter valve, control stem and dial
+with the calibration adjustment range.
+The valves can be fitted on either vertical or horizontal pipes.
+7654
+23
+CALEFFI
+3
+7654
+2
+CALEFFI
+3
+7654
+2
+3
+5
+3 7654 2
+7654 23 3
+7654
+2
+7654
+23
+CALEFFI
+3
+7654
+2
+CALEFFI
+3
+7654
+2
+3 7654 2
+7654 23
+3
+7654
+2
+7654
+23
+CALEFFI
+3
+7654
+2
+CALEFFI
+3
+7654
+2
+3 7654 2
+7654 23
+3
+7654
+2
+7654 23 CALEFFI
+3
+7654
+2
+CALEFFI
+3
+7654
+2
+3 7654 2
+7654 23
+Scan to view ·
+Installation Tip
+132
+QuickSetter
+Do not install in
+direct sunlight.
+=== page 4 ===
+Flow rate A. With the aid of the indicator (1),
+adjustment mark the reference flow rate on
+which the valve is to be set. 1
+B. Use the ring (2) to slowly open the
+flow meter bypass valve that shuts 3
+off the flow of medium in the flow
+meter (3) under normal operating 2
+conditions.
+C. Keeping the flow meter bypass
+valve open, apply a 9 mm wrench to 4
+the balancing
+valve control stem (4) to slowly
+adjust the flow rate, which is
+indicated by a metal ball (5) that
+runs inside a transparent cylinder
+(6) alongside which there is a
+graduated scale in GPM.
+5
+6
+4
+=== page 5 ===
+D. After completing the
+balancing, release the ring (2)
+of the flow meter bypass
+valve, which will automatically
+go back into the closed
+position.
+2
+E. On completing the
+adjustment, the indicator (1)
+can be used to keep the
+setting in memory, in case
+checks need to be made
+over time.
+1
+F. A replacement flow meter
+bypass valve stem with
+operating ring is available in
+the event it is damaged and
+inoperable.Order code F19346.
+See page 12 for replacement
+instructions.
+In addition, a replacement flow
+meter assembly is available,
+see page 7 for order code
+numbers.
+Complete closing/
+opening
+of valve
+Balancing valve
+control stem
+Complete closing of valve Complete opening of valve
+5
+=== page 6 ===
+Hydraulic Characteristics at 100% open
+6
+001
+1
+0.5
+0.3
+0.2
+0.1
+002 005
+∆p (psi)
+G
+)mpg(
+)h/l(
+(psi) (bar) (feet of head)
+20 20
+1.0
+10 10
+0.5
+0.4 5 5
+0.3
+4 4
+3 3 0.2
+2 2
+0.1
+1
+0.05
+0.04
+0.5
+0.4 0.4 0.03
+0.3 0.02
+0.2
+0.01
+0.1
+2.0
+05
+5.0
+1 2
+”2/1
+0001
+5
+0002
+01
+”4/3
+02
+0005
+”1
+00001
+”4/1
+1
+05
+00002
+”2/1
+1
+001
+”2
+002
+46.20
+23.10
+11.55
+9.24
+6.93
+4.62
+2.31
+1.16
+0.924
+0.693
+0.462
+0.231
+Flow rate
+Code Connection Cv
+(GPM)
+132432A 1/2" NPT 1/2 - 1 3/4 1.0
+132552A 3/4" NPT 2.0 - 7.0 6.3
+132662A 1" NPT 3.0 - 10.0 8.3
+132772A 1 1/4" NPT 5.0 - 19.0 15.2
+132882A 1 1/2" NPT 8.0 - 32.0 32.2
+132992A 2" NPT 12.0 - 50.0 53.7
+Flow rate
+Code Connection Cv
+(GPM)
+132436A 1/2" press 1/2 - 1 3/4 1.0
+132556A 3/4" press 2.0 - 7.0 6.3
+132666A 1" press 3.0 - 10.0 8.3
+132776A 1 1/4" press 5.0 - 19.0 15.2
+132886A 1 1/2" press 8.0 - 32.0 32.2
+132996A 2" press 12.0 - 50.0 53.7
+=== page 7 ===
+Procedure for 1. Remove the protective strip from the adhesive surface. Re-close the
+installation insulation shells.
+and insulation
+assembly 2. If the balancing valve with flow meter is used with chilled water, spread a
+thin layer of sealant on the edge of the insulation and wait until the solvent
+evaporates (10 minutes approx.) and then re-close it.
+Insulation technical specification
+Material: closed cell expanded PE-X
+Thickness: 10 mm
+Density: - inner part: 30 kg/m3
+- outer part: 50 kg m3
+Thermal conductivity (DIN 52612): - at 0°C: 0.038 W/(m·K)
+- at 40°C: 0.045 W/(m·K)
+Coefficient of resistance to water vapor (DIN 52615):
+> 1.300 Working temperature range: 32 - 212 F (0–100°C)
+Reaction to fire (DIN 4102): class B2
+Procedure for 1. Remove bypass valve assembly with an 8 mm wrench.
+replacing bypass
+valve stem with 2. Install replacement bypass valve assembly, code F19346, using locktight
+operating ring to seal the threads.
+7
+=== page 8 ===
+LEAVE THIS MANUAL FOR THE USER
+LAISSEZ CE MANUEL AVEC L’UTILISATEUR
+Caleffi North America, Inc.
+3883 West Milwaukee Road
+Milwaukee, WI 53208
+T: 414.238.2360 F: 414.238.2366
+8
+9-30-20

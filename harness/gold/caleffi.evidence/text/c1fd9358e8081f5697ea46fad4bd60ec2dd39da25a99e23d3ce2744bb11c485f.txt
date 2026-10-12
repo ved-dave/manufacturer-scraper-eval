@@ -1,0 +1,338 @@
+=== page 1 ===
+Automatic air vent
+for heating systems and radiators CALEFFI
+series 501 - 5022 - 5024 - 5026 - 5027 - 5080
+01090/22 NA
+Replaces 01090/03 NA
+Function
+Series 501
+Extra high capacity float type automatic air vent designed for use on
+large pipes where large quantity of air is required to be released from
+the system.
+Series 5022 - 5023
+High capacity float type automatic air vent designed for use on
+manifolds or pipes in sealed heating systems. Check valve on 5023
+series allows an easy replacement of air vent without purging the
+system.
+Series 5024 - 5026 - 5027
+Float type automatic air vent designed to vent air that is released from
+the water while being heated. 5024 is horizontal relief. 5026 and 5027
+is vertical relief. Check valve on 5027 series allows an easy replacement
+of air vent without purging the system.
+Series 5080
+Radiator air vent valve designed to remove automatically any air trapped
+inside the heat emitters both during the filling of the system and in
+normal operation.
+Product range
+Series 501 Extra high capacity automatic air vent Size 3/4” female NPT
+Series 5022 High capacity automatic air vent Size 1/2” male NPT
+Series 5023 High capacity automatic air vent with check valve Size 1/2” male NPT
+Series 5024 Automatic air vent, horizontal relief Size 1/4” straight thread
+Series 5026 Automatic air vent, vertical relief Sizes 1/8” - 1/4” male NPT, 3/8” - 1/2” straight thread
+Series 5027 Automatic air vent with check valve Sizes 1/8” - 1/4” male NPT
+Series 5080 Automatic hygroscopic air vent for radiators Size 1/8” male NPT
+Technical specification
+Series 501 5022 - 5023 5024 - 5026 - 5027 5080
+Materials
+Body: brass brass brass chrome-plated brass
+Float: stainless steel PP PP -
+Mechanism stem: stainless steel brass - -
+Mechanism seal: viton peroxide-cured EPDM silicon rubber -
+Seals: peroxide-cured EPDM peroxide-cured EPDM peroxide-cured EPDM peroxide-cured EPDM
+Performance
+Max. working pressure: 230 psi (16 bar) 150 psi (10 bar) 150 psi (10 bar) 150 psi (10 bar)
+Max. venting pressure: 90 psi (6 bar) 60 psi (4 bar) 90 psi (6 bar) -
+Max. working temperature: 4 - 250°F (-20-120°C) 250°F (120°C) 240°F (115°C) 212°F (100°C)
+Connections
+Max. working pressure: inlet 3/4” female NPT 1/2” male NPT 1/8” & 1/4” male NPT 1/8” male NPT
+Max. venting pressure: exhast 3/8” female 1/4”, 3/8” 1/2” male
+Max. working temperature: straight thread straight thread
+=== page 2 ===
+Dimensions
+C
+B
+E
+A
+A
+E
+F
+B
+C
+D
+E
+C
+B
+A
+F
+’B ’E
+D
+A
+Code A B C D E
+502610A 1/8” 3 1/16”1 9/16”7/16” 2 5/8”
+502620A 1/4” 3 1/16”1 9/16”1/2” 2 5/8”
+Code A B’ C D E’
+Code A B C D E F Code A B’ C D 502710A 1/8” 4” 1 9/16”1/2” 3 3/8” Code A B C D E F
+501502A3/8”3/4”1 9/16”3 13/16”6 1/4”5 5/16” 502343A 1/2” 4 3/4”2 3/16”1/2” 502720A 1/4” 4” 1 9/16”1/2” 3 3/8” 508013A1/8”1 1/4”11/16” 7/16” 13/16” 9/16”
+D
+D
+C
+B
+D
+A
+A
+’B ’E
+D
+E’
+3 1/4”
+E
+Code A B C D E
+502243A 1/2” 4” 2 3/16”1/2” 2 1/2”
+C
+A B C D E
+3/8” 77 Ø 40 10 67
+1/2” 77 Ø 40 10 67
+B
+D
+E
+C
+D
+A
+A B C D E F
+1/4” 1 5/32Ø 40 25 45 10 A B C D E
+3/8” 55 Ø 40 25 45 10 3/8” 72 Ø 40 25 57
+B
+F
+A
+E
+C
+D
+B
+E
+A
+Code Code
+502420 Code 502630
+502430 502530 502640
+B
+Code A B C D E
+502630 3/8” 3 1/16” 1 9/16” 3/8” 2 5/8”
+502640 1/2” 3 1/16” 1 9/16” 3/8” 2 5/8”
+Code A B C D E F Weight (kg) Weight (kg)
+502420 1/4” 2 5/32” 1 9/16” 1” 1 3/4” 0,13/480” Weight (kg) 0,155 Code A
+0,147 0,167 0,160 502730 3/8”
+=== page 3 ===
+Construction details
+501
+• Stainless steel components.
+• Threaded outlet
+The components used for the elimination of air like float, sliding
+At the top of the device there is
+guide zones, spring and mechanism stem are made of stainless
+a 3/8” Female threaded exhaust
+steel. In this way they minimize the friction and ensure maximum
+connection which is suitable for
+reliability.
+connecting a conveying pipe.
+• Protection device
+The venting air is passed through a forced passage and a filter
+with a thin mesh strainer. This arrangement avoids the danger
+of leakage due to debris, that can be deposited between the seat
+and the mechanism.
+• High venting capacity
+The size of this deaerator makes it suitable for applications on
+Full bore 3/4"
+large pipes, particularly on horizontal sections (distribution
+shut-off valve
+manifolds in central boilers applications) or wherever it is
+required to release large quantities of air from the system.
+Air flow
+Flow rate
+0
+0
+5.0
+01
+5.1
+02
+5.1
+03
+5.2 5.2
+04
+5.3
+05
+5.3 5.4
+06
+5.4
+07
+5.5
+08
+5.5 5.6
+09
+)isp(
+)rab(
+Installation
+SCFM (SCFM) (Nl/s)
+5
+10 10
+4.5
+9 9
+4
+8 8
+3.5
+7 7
+3
+6 6
+5 5 2.5
+2
+4 4
+1.5
+3 3
+2 2 1
+1 1 0.5
+0 0 0
+=== page 4 ===
+5022 - 5023 5080
+• Operating mechanism Valve code 5080 can be used manually or
+The air is vented by means of a automatically.
+stem mechanism protected The automatic discharge is based on the
+against debris from outside. property of the cellulose fibre discs forming the
+seal cartridge.
+• Chamber
+The height of the chamber for
+float movement is designed to
+collect high air volumes from
+water.
+• Hygroscopic cap
+A safety hygroscopic cap
+automatically closes the
+air discharge in case of contact
+with water.
+The manual discharge position The automatic discharge
+5024 - 5026 - 5027
+is achieved by unscrewing the position is achieved with the
+knob approx. one turn. Typical knob fully closed.
+• Operating mechanism
+use of this method is when
+The function of this device is guaranted
+refilling the system.
+by an operating mechanism made of
+silicon rubber specially designed to vent
+when pressure reaches high values in
+the system. The hygroscopic discs increase their volume by 50% when they are
+immersed in water.
+• Antivibration and antirotation
+system on the float s s+50% s
+This system guarantees that in the rest
+position the air relief valve will not be
+affected by any movement of the float.
+Dry Immersed Dried
+disc disc disc
+When the system is operating under normal conditions, the discs
+are immersed and, due to their increase in volume, they close the
+valve. However, when air is present, the discs dry out and allow the
+air to vent.
+• Check valve
+The hygroscopic discs close very quickly, in just a few seconds. The
+The check valve on 5023 and 5027
+drying times are such that there are no problems with the cycle of
+series allows an easy maintenance
+formation and elimination of air.
+or substitution of the valve without
+purging the system.
+Water °C 40 50 60 70 80 90 100
+Air flow
+temperature °F 104 122 140 158 176 194 212
+Flow rate
+Times (hr) 6 5 2.5 1.5 1 0.5 0.25
+5026 - 5027
+Replaceable cartridge
+The valve is constructed in such
+a way that the part containing
+the hygroscopic discs can easily
+be replaced without having to
+empty the heat emitter. This may
+be necessary because the discs
+can deteriorate in time if there is
+unfiltered or hard water present.
+0
+0
+5.0
+01
+5.1
+02
+5.1
+03
+5.2 5.2
+04
+5.3
+05
+5.3 5.4
+06
+5.4
+07
+5.5
+08
+5.5 5.6
+09 )isp(
+)rab(
+Dry disc Immersed Disc Dried Disc
+5024
+5022 - 5023
+SCFM (SCFM) (Nl/s)
+1,2 2.5 1.2
+1,1 1.1
+2.25
+1 1
+2
+0,9 0.9
+0,8 1.75 0.8
+0,7 1.5 0.7
+0,6 1.25 0.6
+0,5 1 0.5
+0,4 0.4
+0.75
+0,3 0.3
+0,2 0.5 0.2
+0,1 0.25 0.1
+0 0 0
+Lorem ipsum
+=== page 5 ===
+Find us in
+find BIM Revit files and system templates at
+https://bim.caleffi.com/en-us
+https://get.caleffi.info/specpoint
+SPECIFICATION SUMMARY
+501 series
+Automatic air vent for heating systems. 3/4” F threaded connection. Brass body and cover. VITON operating mechanism seal.
+Stainless steel float components and cover bolts. Seat and seal protected by a thin-mesh filter. Peroxide-cured EPDM seals.
+Maximum working pressure: 230 psi (16 bar). Maximum venting pressure: 90 psi (6 bar). Maximum working temperature:
+250°F (120°C). With 3/8” F discharge connection.
+5022 series
+Automatic air vent. 1/2” M threaded connection. Brass body and cover. Brass valve stem. Peroxide-cured EPDM seals.
+Maximum working pressure: 150 psi (10 bar). Maximum venting pressure: 60 psi (4 bar). Maximum working temperature:
+250°F (120°C). Vertical relief.
+5023 series
+Automatic air vent with check valve. 1/2” M threaded connection. Brass body and cover. Brass valve stem. Peroxide-cured
+EPDM seals. Maximum working pressure: 150 psi (10 bar). Maximum venting pressure: 60 psi (4 bar). Maximum working
+temperature: 250°F (120°C). Vertical relief.
+5024 series
+Automatic air vent. 1/4” M threaded connections. Brass body and cover. Silicone rubber operating mechanism. Peroxide-
+cured EPDM seals. Maximum working pressure: 150 psi (10 bar). Maximum venting pressure: 90 psi (6 bar). Maximum
+working temperature: 240°F (115°C). Antirotation and antivibration system of the float. Horizonal relief.
+5026 series
+Automatic air vent. 1/8” and 1/4” M threaded connections. Brass body and cover. Silicone rubber operating mechanism.
+Peroxide-cured EPDM seals. Maximum working pressure: 150 psi (10 bar). Maximum venting pressure: 90 psi (6 bar).
+Maximum working temperature: 240°F (115°C). Antirotation and antivibration system of the float. Vertical relief.
+5027 series
+Automatic air vent with check valve. 1/8” and 1/4” M threaded connections. Brass body and cover. Silicone rubber operating
+mechanim. Peroxide-cured EPDM seals. Maximum working pressure: 150 psi (10 bar). Maximum venting pressure: 90 psi (6
+bar). Maximum working temperature: 240°F (115°C). Antirotation and antivibration system of the float. Vertical relief.
+5080 series
+Automatic hygroscopic radiator air vent. 1/8” M threaded connection. Chrome-plated brass body. Peroxide-cured EPDM
+seals. White POM heat resistant knob. Maximum working pressure: 150 psi (10 bar). Maximum working temperature:
+212°F (100°C). Replaceable hygroscopic cartridge.
+We reserve the right to change our products and their relevant technical data, contained in this publication, at any time and without prior notice.
+Caleffi North America, Inc.
+3883 W. Milwaukee Road
+Milwaukee, WI 53208
+Tel: 414-238-2360 · Fax: 414-238-2366
+sales@caleffi.com · www.caleffi.com
+© Copyright 2022 Caleffi North America, Inc.

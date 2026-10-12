@@ -1,0 +1,62 @@
+=== page 1 ===
+NA10347.03
+© Copyright 2018 Caleffi
+Presscon™ installation guide
+Cut tube end square and to Clean any debris from inside of Make sure surface is smooth and
+desired length. tube. Deburr or ream inside and without burrs or sharp edges.
+outside of tube.
+Check the black o-ring seal to Insert the tube into the fitting, Check that the proper clamping
+make sure that it is in place, clean make sure the tube is fully jaws are installed and open jaw
+and free of oil or grease. inserted and mark with a marker arms to set. Place jaw around
+to indicate proper insertion valve end and double check
+depth (7/8”). proper insertion depth, press
+fitting.
+Presscon™
+LEAK DETECTION
+CAUTION: Read press tool operator’s installation instructions before using.
+Failure to follow all instrutions may result in extensive property damage and/or
+serious personal injury.
+=== page 2 ===
+Caleffi Presscon™ − Testing Instructions for Valves with Leak
+Detection
+Pressure testing:
+Caleffi recommends the following leak testing procedures when installing Caleffi
+Presscon™ with the leak detection feature. These test procedures allow the
+installer to find un-pressed connections while the system is being tested under
+pressure. The uniquely designed EPDM o-ring allows fluids or gases to flow past
+the seal and leak when the fitting has not yet been pressed. When the fitting has
+been pressed, the o-ring will create a water tight seal around the tube.
+Air leak testing:
+1. Pressurize system up to 15 psi maximum using dry, oil free compressed air,
+carbon dioxide, or nitrogen.
+2.Allow system pressure to stabilize for a minimum of 2 hours.
+3.If system pressure has dropped, add more air to bring entire system up to 15 psi
+maximum. If system pressure increases above 15 psi, bleed off excess pressure to
+ensure system is at a maximum pressure of 15 psi.
+4.If the system pressure continues to drop, inspect all joints for un-pressed fittings.
+The Presscon™ press fittings with the leak detection feature are designed to leak
+in an un-pressed condition.
+5. Check all press joints for air leaks using a commercially available leak test solution
+or a soap and water mixture.
+6.Once the system has been confirmed to be leak free, pressure can be increased
+to the recommended working pressure to verify system integrity.
+Water leak testing:
+1.Pressurize system up to 25 psi maximum using water.
+2.Look for leaks from unpressed Presscon™ fittings.
+3.Allow system pressure to stabilize for a minimum of 2 hours.
+4.If system pressure has dropped, add more water to bring entire system up to 25
+psi maximum. If system pressure increases above 25 psi, bleed off excess pressure
+to ensure system is at a maximum pressure of 25 psi.
+5.If the system pressure continues to drop, inspect all joints for un-pressed fittings.
+The Presscon™ press fittings with leak detection feature are designed to leak in an
+un-pressed condition.
+6.Once the system has been confirmed to be leak free, adjust the system pressure
+to the designed psi.
+WARNING: This product can expose you to chemicals including lead, which is
+known to the State of California to cause cancer and birth defects or other
+reproductive harm. For more information go to www.P65Warnings.ca.gov.
+Caleffi North America, Inc.
+3883 West Milwaukee Road
+Milwaukee, WI 53208
+T: 414.238.2360 F: 414.238.2366
+7-27-18

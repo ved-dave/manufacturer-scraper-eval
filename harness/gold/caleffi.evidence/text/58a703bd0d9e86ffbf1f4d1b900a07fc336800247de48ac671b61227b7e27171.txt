@@ -1,0 +1,110 @@
+=== page 1 ===
+NA11038.1
+www.caleffi.com
+Motorized Zone Valves
+6442, 6443 Series
+© Copyright 2024 Caleffi
+Revit Content Instructions Guide
+Manufacturer & Product: Caleffi 6442, 6443 Zone Valves
+Zone_Valve-Three_Way_Motorized_Ball_By-Pass-Caleffi-6443.rfa
+Zone_Valve-Three_Way_Motorized_Ball_Diverting-Caleffi-6443.
+Files:
+rfa
+Zone_Valve-Two_Way-Motorized_Ball-Caleffi-6442.rfa
+Type Catalogs: Not Applicable
+Rendering file: Not Applicable
+Schedule file: Not Applicable
+This family contains the following main variations or types:
+• Sizes include 0.75in., 1 in.
+• Connection types include Sweat, NPT, Press
+• Option to add 290030 or 290031 (with extended stem/handle) Valve on each inlet/outlet
+All the above variations are included as separate types in the family
+Instance Properties
+Here is a curated list of notable parameters for the Revit user within the 0BCaleffi 6442, 6443 Zone Valves family.
+Construction
+Inlet Isolation Valve This controls the isolation valve type on the inlet
+(0) No Isolation Valve on Inlet This is active if no isolation valve is selected on inlet
+(1) 290030 Isolation Valve on Inlet This is active if 290030 isolation valve is selected on inlet
+(2) 290031 Isolation Valve on Inlet This is active if 290031 isolation valve is selected on inlet
+Outlet 1 Isolation Valve This controls the isolation valve type on the outlet 1
+(0) No Isolation Valve on Outlet 1 This is active if no isolation valve is selected on outlet 1
+(1) 290030 Isolation Valve on Outlet 1 This is active if 290030 isolation valve is selected on outlet 1
+(2) 290031 Isolation Valve on Outlet 1 This is active if 290031 isolation valve is selected on outlet 1
+Outlet 2 Isolation Valve This controls the isolation valve type on the outlet 2
+(0) No Isolation Valve on Outlet 2 This is active if no isolation valve is selected on outlet 2
+(1) 290030 Isolation Valve on Outlet 2 This is active if 290030 isolation valve is selected on outlet 2
+(2) 290031 Isolation Valve on Outlet 2 This is active if 290031 isolation valve is selected on outlet 2
+Mechanical - Flow
+Flow Rate (default) This tells you the flow that this component is reading in the system.
+Flow Rate Bypass (default) This tells you the flow that this component is reading from the system through bypass
+Flow Rate Outlet (default) This tells you the flow that this component is reading from the system through outlet
+Mechanical - Loads
+Pressure Drop Feet of Water (default) Specify the pressure drop in feet of water.
+System Pressure Drop (default) This tells you the system pressure drop.
+Other
+Outlet A Actuator Open Position (Applicable for
+This is ticked if outlet A actuator position is open
+diverting valve)
+Outlet B Actuator Open Position (Applicable for
+Specify outlet B actuator position
+diverting valve)
+Bypass Mode (Applicable for By-pass valve) Specify if bypass mode is active
+When the isolation valve check box is selected for the family, isolation valve is placed on the port corresponding to the box checked if available.
+For Diverting valve, specifying open position of actuator dictates if flow is passed through outlet A or B. For bypass valve, specifying bypass
+configuration using parameter selection above dictates if flow is passed through the outlet or the bypass.
+Caleffi North America
+=== page 2 ===
+Type Properties
+Here is a curated list of notable parameters for the Revit user within the 0BCaleffi 6442, 6443 Zone Valves family.
+Identity Data
+Assembly Code D3040
+Contact URL* http://www.caleffi.com/usa/en-us/contacts/contact-us
+Copyright* ©Caleffi North America
+Cost
+Description Three-way motorized ball zone valve, bypass
+Version* 1
+Keynote
+Manufacturer Caleffi North America, Inc.
+Model 644369A 3BY
+Product Page URL* https://www.caleffi.com/en-us/3-way-by-pass-motorized-ball-zone-valve-6443-caleffi-
+644350a-3by
+Type Comments
+Type Image
+Series* 6443
+Standards* UL 873, cUL Listed and CE; NSF/ANSI/CAN 372 (only applicable when bodies are low-lead)
+URL https://www.caleffi.com/usa/en-us
+Halftone text in the property tables indicates that the value is locked from editing.
+*Indicates Shared Parameter and can be scheduled
+Rendering
+Note: Standard Caleffi materials are imported. These may be modified, but please ensure that the modification selection matches an actual
+manufacturer supplied option.
+Loading and Placing into the Project
+To work with the 0BCaleffi 6442, 6443 Zone Valves in Revit, a family and a type catalog are provided. Navigate to the Insert Tab > Load Family
+button on the Revit ribbon to load the family. Be sure the type catalog (.txt) file is located in the same folder as the family you are loading.
+Please ensure that the visibility settings within the project are modified to have the Piping category visible.
+Figure 1 - Insert Tab > Load Family Figure 2 - Visibility/Graphic Overrides
+A. 0.75in. Press, 6442 series High Performance
+Zone Valve with 290030 valve on inlet and
+outlet.
+B. 1in. Sweat, 6443 series motorized bypass zone
+valve.
+C. 0.75in. NPT, 6443 series motorized diverting
+zone valve with 290030 valve on one outlet and
+290031 with stem extension on the inlet.
+Figure 3 - Caleffi 6442, 6443 Zone Valves
+examples
+2 Caleffi North America
+=== page 3 ===
+Project Behavior
+One way to place a 0BCaleffi 6442, 6443 Zone Valves is to go to the Systems Tab on the Revit ribbon and navigate to the Component button with
+Place a Component fly-out selected.
+Figure 4 - Systems Tab > Component > Place a Component
+Figure 5 – The 0BCaleffi 6442, 6443 Zone Valves families can be found under pipe accessories in the project browser and placed directly onto pipe of
+the same size. It will then read flows and consider pressure drop in the system. Figure shows example of the diverting and bypass 6443 valves
+passing flow.
+Schedule Creation
+Within the type and instance properties dialogues, the Revit user will find useful information for scheduling purposes such as Type, Part
+Description, Part Number/Model, Family Version, Manufacturer, Series, & Product Page URL. The resulting Pipe Accessories schedule in your
+project will show counts/quantities of the 0BCaleffi 6442, 6443 Zone Valves as well as separate quantities/counts of any separately purchased
+accessory products that do not come in box with the 0BCaleffi 6442, 6443 Zone Valves.
+3

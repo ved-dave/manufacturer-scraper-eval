@@ -1,0 +1,806 @@
+=== page 1 ===
+DISCAL ®
+magnetic air and dirt separator
+CALEFFI
+5460 – 5461 – NA546_M series
+01287/23 NA
+Replaces 01287/22 NA
+Function
+The Caleffi DISCALDIRTMAG® magnetic air and dirt separator incorporates
+three important functions for hydronic systems: air separation, dirt
+separation and ferrous impurity separation. An internal screen element
+facilitates the coalescing and capture of micro-bubbles to facilitate high
+performance automatic air removal, while concurrently causing the
+capture of non-ferrous debris particles down to 5 micron size. A powerful
+magnetic field induced by rare-earth neodymium magnets facilitates the
+capture of ferrous impurities such as iron oxide down to microscopic size
+thus delivering 2½ times the ferrous impurity removal performance of
+standard air and dirt separators.
+The DISCALDIRTMAG saves on system installation and maintenance
+costs as three devices are combined into one. Additionally, all captured
+debris is blown down through the purge valve without taking the system
+offline.The circulation of fully de-aerated and cleaned water enables the
+equipment to operate under optimum conditions, free from noise, corrosion,
+or mechanical damage.
+Insulation shells are available separately for field installation on the brass
+Product range DISCALDIRTMAG.
+5461 series DISCALDIRT air and dirt separator in brass....................................................................connections 1" sweat & NPT male. 1¼" sweat
+5461 series DISCALDIRTMAG air and dirt separator with magnet in brass....................................connections 1", 1¼" sweat & press, 1" NPT male
+5461 series DISCALDIRTMAG air and dirt separator with magnet in steel..................connections 1½" and 2" sweat, NPT female and press union
+NA546_M series DISCALDIRTMAG air and dirt separator with magnet in steel, ASME.............connections 2½" to 14" ANSI flanged, 2" NPT threaded
+-CRN approval for 2” – 12” sizes; consult factory for 14" sizes.
+Technical specifications
+Brass body magnetic air and dirt separators - seals: peroxide-cured EPDM
+- bottom drain shut-off valve: brass
+Materials - body: brass
+- side drain shut-off valve: brass
+- dirt separation chamber: brass - magnet: neodymium rare-earth
+- air vent body: brass - magnet probe drywell (M series): brass
+- internal element: glass reinforced nylon, PA66GF30
+Performance
+- air vent float: PP Suitable fluids: water, glycol solution
+- air vent float guide pin: stainless steel Max. percentage of glycol: 50%
+- air vent float linkages: stainless steel Max. working pressure: 150 psi (10 bar)
+- spring: stainless steel Temperature range (vessel): (M series): 32–270°F (0–132°C)
+- seals: peroxide-cured EPDM (5461 series:): 32-230°F (0–110°C)
+- bottom drain shut-off valve: brass Air separation efficiency: 100% removal to microbubble level
+Particle separation capacity: to 5 µm (0.2 mil)
+- magnet: neodymium rare-earth
+Ferrous impurities separation efficiency: up to 100% removal
+Performance
+Connections - flanged: 2½"–14" ANSI B16.5 150 CLASS RF
+Suitable fluids: water, glycol solution
+- threaded: (M series) 2" NPT male
+Max. percentage of glycol: 50%
+Max. working pressure: 150 psi (10 bar) (5461) 1½" & 2" NPT female union
+Temperature range: 32–250°F (0–120°C) - sweat: (5461) 1½" & 2" sweat union
+Air separation efficiency: 100% removal to microbubble level - press: (5461) 1½" & 2" press union
+Particle separation capacity: to 5 µm (0.2 mil) - bottom drain valve: 2"–6": 1" NPT female
+Ferrous impurities separation efficiency: up to 100% removal 8"–14": 2" NPT female
+Connections - main: 1", 1¼" sweat & press; 1" NPT male 5461 series: ¾" garden hose connection
+- side drain shut-off valve (NA546_M only): ¾" GHT
+- drain shut-off valve: ¾" garden hose (GHT)
+- thermo well tap (8 " only):
+-inlet/outlet flanges: ½" NPT female
+Steel body magnetic air and dirt separators - lay length (press connection): size 1½ inch: 11 ¾"
+Materials - body: epoxy resin coated steel size 2 inch: 12 7/8 "
+- air vent body: brass
+- mesh internal element: Agency approval
+(NA546_M) stainless steel NA546_M series designed and built in accordance with Section VIII,
+(5461) stainless steel Division 1 of the ASME Boiler and Pressure Vessel Code and tagged,
+- air vent float: PP registered with the National Board of Boiler and Pressure Vessel
+- air vent float guide pin: stainless steel Inspector, and CRN registered, stamped for 150 psi (10 bar) working
+- air vent float linkages: stainless steel pressure, with ASME U stamp.14" is CRN pending, consult Caleffi.
+- spring: stainless steel
+=== page 2 ===
+B
+C
+(1)546096A, (2)546097A and (3)546016A are versions available without
+mangetic belt and have similar dimensions.
+A
+E
+D
+F
+A
+B
+C
+E
+D
+F
+F
+A
+D
+E
+G
+B
+25583
+H
+F
+C
+3 1/8”
+A
+D
+G
+B
+25583
+H
+C
+3 1/8”
+E
+CC
+F
+G =drain valve size
+B
+25583
+A
+D
+H
+E
+C
+J
+3 1/8”
+”8/1
+3
+Dimensions
+3/4" (GARDEN HOSE)
+Connec- Wt. Wt.
+Code A B C D E F
+tions (lb) (kg)
+546196A(1) Sweat 1" 73/8" 21/8" 5" 5½" 12¾" 8.5 3.9
+546197A(2) Sweat 1¼" 63⁄16" 21/8" 5" 5½" 12¾" 8.5 3.9
+546116A(3) NPT male 1" 73/8" 21/8" 5" 5½" 12¾" 8.5 3.9
+546166A Press 1" 8½" 21/8" 5" 5½" 12¾" 8.5 3.9
+546167A Press 1¼" 87⁄16" 21/8" 5" 5½" 12¾" 8.5 3.9
+Cap. Wt. Wt.
+Code A B C D E F G H (gal) (lb) (kg)
+NA546050TM 2" 13" 23⁄16" 149⁄16" 28¼" 65⁄8" 1" 1311⁄16" 3.6 31 14.0
+NA546060AM 2½" 13¾" 23⁄16" 149⁄16" 28¼" 65⁄8" 1" 1311⁄16" 3.6 45 20.4
+NA546080AM 3" 183⁄8" 23⁄16" 17" 34½" 85⁄8" 1" 17½" 7.6 76 34.5
+NA546100AM 4" 18½" 23⁄16" 17" 34½" 85⁄8" 1" 17½" 7.8 81 36.7
+NA546120AM 5" 25" 23⁄16" 211⁄16" 4611⁄16" 12¾" 1" 255⁄8" 22.4 184 83.5
+NA546150AM 6" 25" 23⁄16" 211⁄16" 4611⁄16" 12¾" 1" 255⁄8" 23.0 191 86.6
+These models are ASME tagged and registered with the National
+Board of Boiler and Pressure Vessel Inspector and CRN registered.
+Consult Caleffi.
+NOTE: Drawings may not reflect the actual size of the separators.
+A
+B
+”8/5
+8
+”61/11
+01
+B
+0 2 1/8”
+0 4 ½”
+0 5 ½”
+1 ½ inch
+5461 series
+3/4" (GARDEN HOSE)
+8 5/8”
+”01
+”¼
+11
+A
+0 2 1/8”
+F
+0 5 ½”
+2 inch
+5461 series
+9 ½”
+Wt
+Code A B (lb)/ Flow Cv
+(kg) (gpm)
+546198A 1½" sweat 11 ¼" 22/10 22 50
+546108A 1½" NPT female 11 1/8" 22/10 22 50
+546168A 1½" press 14 5/8" 22/10 22 50
+546199A 2" sweat 12 ½" 23/11 39 79
+546109A 2" NPT female 12" 23/11 39 79
+546169A 2" press 15 ¾" 23/11 39 79
+NA546050TM
+A
+D
+E
+G
+B
+25583
+H
+F
+C
+3 1/8”
+A
+D
+G
+B
+25583
+H
+C
+3 1/8”
+E
+CC
+F
+G =drain valve size
+B
+25583
+A
+D
+H
+E
+C
+J
+3 1/8”
+”8/1
+3
+Code A B C D E F G H J C (g a a p l) . W (lb t ) . ( W kg t. )
+NA546200AM 8" 35½" 23⁄16" 353⁄16" 827⁄8" 20" 2" 47¾" 94¾" 95 365 165
+NA546250AM 10" 41¾" 23⁄16" 391⁄8" 9111⁄16" 26" 2" 529⁄16" 1035⁄8" 175 565 256
+NA546300AM 12" 46½" 23⁄16" 4111⁄16" 989⁄16" 30" 2" 567⁄8" 110½" 255 835 379
+NA546350AM 14" 48" 23⁄16" 467⁄8" 112" 36" 2" 655⁄32" 1237⁄8" 420 960 435
+These models are ASME tagged and registered with the National Board
+of Boiler and Pressure Vessel Inspector and CRN registered. 14" is
+CRN pending, consult Caleffi.
+=== page 3 ===
+The process of air formation
+The amount of air which can remain dissolved in a water solution is a Cavitation and micro-bubbles
+function of pressure and temperature. This relationship is governed by
+Henry’s law and the graph demonstrates the physical phenomenon of Micro-bubbles develop
+the air release from water. As an example, at a constant absolute pressure where the fluid velocity is very
+of 30 psi (2 bar), if the water is heated from 65ºF (18ºC) to 170ºF (75ºC), high with the corresponding
+the amount of air released by the solution is equal to 1.8 gallons of air reduction in pressure. These
+per 100 gallons of water. According to this law it can be seen that the points are typically pump
+amount of air released increases with temperature rise and pressure impellers and valve ports.
+reduction. The air comes in the form of micro-bubbles of diameters in
+These air and vapor micro-
+the order of tenths of a millmeter.
+bubbles, the formation of
+In heating and cooling systems there are specific points where this process which is enhanced in the
+of formation of micro-bubbles takes place continuously in the boiler and case of non-deaerated
+in any device which operates under conditions of cavitation. water, may subsequently
+implode due to the cavitation
+phenomenon.
+Solubility of air in water
+Boiler micro-bubbles
+Micro-bubbles are formed
+continuously on the surface
+separating the water from
+the combustion chamber
+due to the fluid temperature.
+This air, carried by the water,
+collects in the critical points
+of the circuit from where it
+must be removed.
+Some of this air is reabsorbed
+in the presence of colder
+surfaces.
+=== page 4 ===
+Operating principle
+Microbubble air separation
+For the steel DISCALDIRTMAG NA546_M series (C), the ferrous
+The air and dirt separator uses
+impurities are captured by a concentrated magnetic field created by a stack
+the combined action of several
+of neodymium rare-earth magnets positioned inside a brass dry-well below
+physical principles. The active
+the flow stream.
+part is the internal element (1)
+and consists of a glass-
+reinforced nylon mesh for
+the brass DISCALDIRTMAG,
+or for the steel DISCALDIRTMAG
+an assembly of concentric metal
+mesh (stainless steel) surfaces.
+These elements create the
+whirling movement required to
+facilitate the release of micro-
+bubbles and their adhesion to
+these surfaces.
+The bubbles, fusing with each other, increase in volume until the hydrostatic
+thrust is such as to overcome the adhesion force to the structure. They C
+rise towards the top of the unit from which they are released through a
+float-operated automatic air vent valve.
+1 1
+Microparticle dirt separation
+The dirt separating action performed by the same internal element (1) offers
+little resistance to the flowing medium while ensuring dirt separation. The
+particles collide with the concentric diamond pattern mesh surfaces and
+then settle to the bottom in the dirt collection chamber (2), and not by
+filtration unlike mesh stainers; which, over time, get progressively clogged.
+2 2
+By contrast, the DISCALDIRT®'s low-velocity zone dirt separator function
+efficiently removes the particles to as small as 5μm (0.2 mil) with very low
+head loss. The dirt can then be removed through the bottom drain port (3). 3 3
+D
+1
+1
+2
+1 1
+1 1
+3
+A B
+Ferrous impurities separation
+Non-ferrous and ferrous impurities, including magnetite, in hydronic systems
+can deposit onto heat exchanger surfaces and accumulate in pum2p cavities 2
+causing reduced thermal efficiency and premature wear. The small and often
+microscopic magnetic particles, called magnetite, form when iron or steel 3 3
+corrodes. Highly abrasive, the extremely fine particles are difficult to remove
+2 2
+by traditional means. DISCALDIRTMAG separators offer highly efficient
+separation of typical dirt as well as magnetite. The versatile DISCALDIRTMAG
+magnetic air and dirt separator removes both ferrous and non-ferrous
+3 3
+impurities continuously. In addition to removing typical dirt particles with an
+internal element in a low-velocity-zone chamber, the DISCALDIRTMAG
+features a powerful removable magnet below the flow line for fast and
+effective capture of ferrous impurities.The magnet removes up to 100% Brass DISCALDIRTMA G Steel DISCALDIRTMAG
+of the ferrous impurities, including magnetite, that can form in a hydronic NA546_M series
+system.
+For the 5461 brass and steel DISCALDIRTMAG(A,B,D), the ferrous impurities
+are captured by a strong neodymium rare-earth magnetic field created by a
+powerful removable magnet around the body below the flow line.
+1 1
+2 2
+3
+3 3
+=== page 5 ===
+Construction details Brass DISCALDIRTMAG
+The DISCALDIRTMAG air and dirt separator is designed to be main-
+tained and cleaned without removing it from system piping.
+1
+The automatic air vent, located at the top of the device, has a long chamber for
+float movement (2). This prevents any impurities in the water from reaching 1 1
+the seal seat. The corrosion resistant stainless steel pinned linkage and
+PP float can be accessed by removing the upper cover (1). The stainless 2 2 2
+steel float guide pin (4) prevents the float from jamming against the inside
+housing, sticking due to accumulating residue in the flowing fluids, in non- 3 3 3
+vertical installations or from boiler or chiller residue buildup. 4
+4 4
+Unscrew the top part of the casing (3) to clean the entire air venting system.
+The air venting system in the brass DISCALDIRTMAG and steel
+5
+DISCALDIRTMAG air and dirt separators features a pinned float.
+Steel DISCALDIRTMAG air and dirt separators with flanged and
+threaded connections have an integral side drain port with shutoff valve, 1
+code 538402 FD (5), which has two functions:
+1. Air removal while filling the system during system commissioning.
+2. Debris removal that float within the air separator. 2
+The drain valve (code NA39753 - 1 inch or code NA59600 - 2 inch) installe 1 d 6 6 3
+on the drain pipe at the base of the steel DISCALDIRTMAG air and dirt
+s1eparator (8) can be used to r1emove any debris that has settled at the bot- 4
+tom of the separator, even while the system is in operation. To inspect the
+i 2 nternal element of brass DISC 2 ALDIRTMAG air and dirt separators, unscre 2 w 7 7
+t3he large dirt separation cham3ber (6) with a 26 mm hexagon wrench. Th3e 5
+internal element can be removed for cleaning. Additionally, the brass air and
+4
+d4irt separators have a lever op4erated shut-off drain valve code 538402 FD,
+and ¾" garden hose attachment with plug (7), to drain accumulated debris
+as needed. 5
+1
+2
+6 6 3
+Draining off dirt and ferrous impurities
+4
+The dirt separator collection chamber has a drain valve. Using the handle 8
+p7rovided it is possible to dr7ain off the accumulated dirt particles even
+with the system in operation. 5
+For the brass DISCALDIRTMAG, captured ferrous impurities are easily
+flushed by unclamping the magnetic collar and purging.
+8 8
+To purge the ferrous impurities
+in the steel DISCALDIRTMAG,
+the flexible magnetic stack
+is removed from the brass
+dry-well and, with the system
+still running, the drain valve is
+opened. Aided by the system
+8
+pressure, the dirt and ferrous
+impurities, including magnetite,
+flushes out quickly and Steel DISCALDIRTMAG
+effectively.
+=== page 6 ===
+Particle separation rating – dirt separator efficiency
+0001
+Efficiency
+50 passages (0.5 m/s)
+01 02 05
+Efficiency (%)
+Efficiency
+50 passages (1 m/s)
+100
+80
+60
+40
+20
+0
+elcitraP
+snoisnemid
+)mµ( 0 5 61 53 36 501 051 012 052 005
+Separation efficiency
+The capacity for separating the impurities in the medium circulating in the
+(Separated quantity. ) closed circuits of the systems basically depends on three parameters:
+100%
+Initial quantity
+1) It increases as the size and mass of the particle increase. The larger
+and heavier particles drop before the lighter ones.
+2) It increases as the speed decreases. If the speed decreases, there
+is a calm zone inside the dirt separator and the particles separate
+more easily.
+3) It increases as the number of recirculations increases. The medium in
+the circuit, flowing through the dirt separator a number of times during
+operation, is subjected to a progressive action of separation, until the
+impurities are completely removed.
+The special design of the internal element in the Caleffi DISCALDIRTMAG
+magnetic air and dirt separators, are able to completely separate the
+WORKING ZONE impurities in the circuit down to a minimum particle size of 5 μm (0.2 mil),
+® including 100% ferrous impurities.
+Non-ferrous and ferrous impurities
+The particle separation — dirt separator efficiency graph (left) illustrates
+CARTRIDGE FILTERS
+how DISCALDIRTMAG quickly separates nearly all the impurities. After
+only 50 circulations, approximately one day of operation, up to 100%
+SPECIAL STRAINERS is effectively removed from the circuit for particles of diameter greater
+than 100 μm (3.9 mil) and on average up to 80% taking account of the
+Y-STRAINERS smallest particles. The continual passing of the medium during normal
+operation of the system gradually leads to complete dirt removal.
+Hydraulic characteristics
+91.0 52.0 23.0 44.0 05.0 36.0 67.0 88.0 00.1 62.1 06.1 09.1 02.2 05.2 51.3 08.3
+”2
+50.5
+”2/1
+2
+03.6 06.7 02.8
+”3
+05.9
+”4
+2.41
+”5 ”6
+)mpg(
+)s/l(
+G
+ΔP (ft of water) (ft of water)
+5 01 02 05 001 002 005 0001
+1
+0.9
+0.8
+0.7
+0.6
+0.5
+0.45
+0.4
+0.35
+0.3
+0.25
+0.2
+0.18 0.16
+0.14
+0.12
+0.1 0.09
+0.08
+0.07
+0.06
+0.05
+0.045
+0.04
+0.035
+0.03
+0.025
+0.02
+6 7 8 21 41 61 52 03 53 04 06 07 08 09 021 031 061 052 003 053 004 054 006 007 008 009
+2 2
+1.8 1.8
+1.6 1.6
+1.4 1.4
+1.2 1.2
+1
+0.9
+0.8
+0.7
+0.6
+0.5
+0.45
+0.4
+0.35
+0.3
+0.25
+0.2
+0.18 0.16
+0.14
+0.12
+0.1 0.09
+0.08
+0.07
+0.06
+0.05
+0.045
+0.04
+0.035
+0.03
+0.025
+0.02
+0021 0041 0061 0081 0002
+(kPa)
+6
+5
+4.5
+4
+3.5
+3
+2.5
+2
+1.8
+1.6
+1.4
+1.2
+1
+0.9
+0.8
+0.7
+0.6
+0.5
+0.45 0.4
+0.35
+0.3
+0.25
+0.2
+0.18
+0.16
+0.14
+0.12
+0.1
+0.09
+0.08
+0.07
+0.06
+2
+31.0
+5.2
+61.0
+0.3 0.4
+ssarb
+1/0645
+”4/1
+1
+leets
+1645
+”2/1
+1 ”8 ”01
+0042 0003
+”21
+0043 0004
+”41
+0084 0005
+20 18 16
+14
+12
+10
+9
+8
+7
+6
+5
+4.8
+4.0
+3.5
+2.5
+051 522
+20 1 1 6 8 6 5 4 0 4 8
+14 42
+12 36
+10 30
+9 27
+8 24
+7 21
+6 18
+5 15
+4.8 14.3
+4.0 12
+3.5 10.5
+2.5 7.5
+83.0
+ssarb
+1/0645
+”1
+24.4 07.5 0.01 6.21 8.51 0.91 0.22 2.52 4.82 5.13 8.73 2.44 5.05 8.65 0.36 7.57 3.88 001 311 621 151 091 412 252 513
+Steel flanged
+leets
+1645
+”2
+ft of water x .433 = psi
+=== page 7 ===
+3.33 3.00 2.67
+2.33 2.00 1.67
+1.33
+1.00
+0.67
+0.60 1.8
+0.53
+0.47 1.4
+0.40 0.33 0.30
+0.27 0.23
+0.20 0.17
+0.13
+0.10
+0.067
+0.060 0.053
+0.047
+0.040
+0.033
+Insulation shells
+The brass DISCALDIRTMAG 5461 series can be supplied with Removing insulation and
+the optional insulated cover, code CBN546002 series (purchased draining impurities
+separately), to minimize heat loss.
+1. Remove the insulation by taking off
+the bottom casing of the collection
+Technical specifications chamber first, and if necessary, the
+Material: closed cell expanded PE-X top insulation casing later.
+Thickness: 25/64" (10 mm) 2. Remove the magnetic ring containing
+Density: - inner part 1.9 lb/ft3 (30 kg/m3) the magnets, that during operation
+- outer part: 5.0 lb/ft3 (80 kg/m3) attracted the ferrous particles.
+Thermal conductivity (DIN 52612):
+3. Flush out the ferrous and nonferrous
+- at 32°F (0°C): 0.263 BTU·in/hr·ft2·°F (0.038 W/(m·K)
+debris by turning the handle to open
+- at 104°F (40°C): 0.312 BTU·in/hr·ft2·°F (0.045 W/(m·K)
+Code Size the drain valve.
+Coefficient of resistance to water vapor (DIN 52615): >1,300
+1", 1¼"
+Working temperature range: 32–230°F (0–110°C) CBN546002 Brass 546 only 4. When finished, replace the
+Reaction to fire (DIN 4102): CLASS B2 1½" insulation shells.
+CBN546118
+Steel 5461 only
+2"
+CBN546119
+Steel 5461 only
+Replacement parts
+Drain valves (5) & (7), code 538402 FD. Drain valves (8), separator sizes A replacement air vent assembly for
+2" - 6", code NA39753; separator sizes 8"- 14", code NA59600. the brass and steel DISCALDIRTMAG
+5461 series is code 59829; for the steel
+DISCALDIRTMAG NA546_M series is
+code 59756.
+The moving parts that control air
+venting are
+accessed simply 59829
+by removing the
+upper cover. 59756
+F39807
+Replacement
+cap and float
+assembly for all versions of the brass and steel
+59829
+DISCALDIRTMAG 5461 series is code F39807.
+59756 When cleaning, simply unscrew the portion of the
+F39807 body containing the automatic air vent.
+2.2 6.2 0.3 5.3 69.3 4.4 3.5 51.6 540.7 9.7 8.8 0.11 2.31 4.51 6.71 8.91 0.22 )mpg(
+)s
+/l(
+G
+∆P (kPa)
+910 8
+7 6 5
+1.50 4.5
+4
+1.17 3.5 3
+0.83 2.5 2
+1.6
+1.2 0.9 1
+0.8 0.7
+0.6 0.5
+0.15 0.45
+0.4 0.12 0.35
+0.3
+0.083 0.25
+0.2
+0.18 0.16
+0.14
+0.12
+0.1
+88.0 1.1 3.1 5.1 7.1 89.1
+∆p (ft. of water) (PSI)
+1.3 1.5 1.2
+1.0 0.9 0.71
+0.65
+0.58
+0.51 0.41
+0.36 0.16
+0.26
+0.23
+0.20
+0.17 0.13
+0.12 0.10
+0.09 0.073
+0.07
+0.06 0.05
+0.04
+0.036
+0.029
+0.026 0.023
+0.020
+0.017
+0.016
+65.0
+6.0 8.0 9.0 11.0 21.0
+31.0
+61.0 91.0 22.0 52.0
+72.0
+33.0 83.0 44.0 05.0
+55.0
+96.0 38.0 79.0 111.1 052.1
+883.1
+Y-strainer curve 1” - Cv=19
+DISCALDIRT®/
+DISCALDIRTMAG® curve
+1”–Cv =32
+7.32
+594.1
+0.72
+307.1
+4.03
+719.1
+0.23
+910.2
+0.53
+802..2
+2.93
+374..2
+0.44
+577.2
+Brass Steel union Steel flanged body
+Size 1" 1¼" 1½" 2" 2" 2 ½" 3" 4" 5" 6" 8" 10" 12" 14"
+GPM 10 15 22 39 39 60 90 160 245 355 625 980 1,410 1,920
+4.0 f/s
+l/s 0.63 0.95 1.04 2.5 2.5 4.0 6.0 10 15 22 40 62 89 121
+GPM 55 98 100 155 220 400 615 880 1,570 2,450 3,525 4,800
+10.0 f/s
+l/s 3.5 6.2 6.3 9.8 14 25 39 55 99 155 222 303
+Cv 32 40 50 79 87 174 208 324 520 832 1,109 1,387 1,664 1,967
+Comparison of head losses:
+air and dirt separator to Y-strainers
+Y-strainers entrap dirt within a basket made of stainless steel or brass
+mesh, selected for the size of the largest particle. Particles smaller
+than the mesh size may pass through. On most Y-strainers, the basket
+must be removed periodically to clear the trapped debris. As the debris
+collects in the basket, flow is impeded resulting in increasing pressure
+drop and therefore higher head loss. The dirt separation function in the
+DISCALDIRTMAG performs exactly as it does in the DIRTMAG®, utilizing
+the low-velocity-zone principle. The flow velocity of fluid flowing into the
+dirt separation chamber is greatly reduced causing the entrained dirt
+particles to drop due to their density.
+The internal element provides surfaces that assist in separating dirt particles
+and guide them downward to ultimately settle to the bottom of the
+separator. The dirt separator only creates about 25% of the pressure
+drop of a comparable sized, clean basket strainer, depending on mesh
+size and amount of filtered debris. These head losses are not affected by the amount of dirt collected.
+=== page 8 ===
+Installation
+DISCALDIRTMAG units may be used in both heating and cooling sys-
+tems, to ensure continuous air and dirt elimination. The units should be
+installed after the boiler and on the pump suction side, as these are
+the points where the formation of micro-bubbles is greatest.
+DISCALDIRTMAG air and dirt separators must be installed vertically.
+In installation conditions where inspection is not possible, it is
+recommended that the venting valve cap is replaced by a Caleffi part
+number R59681 hygroscopic safety vent. The standard replacement
+cap code number is 59199.
+CHILLER CHILLER CHILLER CHILLER
+CHILLER
+CHILLER
+CHILLER
+=== page 9 ===
+find BIM Revit files and system templates at
+https://bim.caleffi.com/en-us
+https://get.caleffi.info/specpoint
+SPECIFICATION SUMMARIES
+5461 series DISCALDIRTMAG – brass with sweat and NPT connections
+Air and dirt separator with magnet complete with brass automatic air vent containing pinned float. Connections for horizontal pipes, sweat and
+press connections for 1" and 1¼" sizes, NPT male connection for 1". Brass body and dirt separation chamber with an external removable magnet
+belt, neodymium rare-earth. Peroxide-cured EPDM seals. Glass reinforced nylon PA66G30 internal mesh element, removable for cleaning. PP float.
+Stainless steel float linkages. Stainless steel float guide pin. Maximum working pressure, 150 psi (10 bar). Temperature range 32 to 250°F (0 to 120°C).
+Glycol maximum 50%. Air separation efficiency: 100% removal to micro-bubble level. Particle separation capacity: to 5 μm (0.2 mil). Ferrous impurites
+separation efficiency: up to 100% removal. Brass drain shut-off valve with ¾" garden hose connection. Pre-formed insulation shells available for field
+installation.
+5461 series DISCALDIRTMAG – steel with union sweat, NPT and press connections
+Air and dirt separator with magnet complete with automatic air vent containing pinned float. Connections for horizontal piples, sweat union for 1½" and
+2" sizes, NPT female union for 1½" and 2" sizes, and press union for 1½" and 2" sizes. Epoxy resin coated steel body with an external removable magnet
+belt, neodymium rare-earth. Peroxide-cured EPDM seal. Stainless steel internal mesh element. PP float. Stainless steel float linkages. Stainless steel float
+guide pin. Maximum working pressure, 150 psi (10 bar). Temperature range 32 to 230°F (0 to 110°C). Glycol maximum 50%. Air separation efficiency:
+100% removal to micro-bubble level. Particle separation capacity: to 5 μm (0.2 mil). Ferrous impurites separation efficiency: up to 100% removal. Brass
+drain shut-off valve with ¾" garden hose connection.
+NA546_M series DISCALDIRTMAG –flanged and NPT steel, ASME & CRN
+Air and dirt separator with magnet, brass side drain valve and automatic air vent with pinned float. Flanged ANSI B16.5 CLASS 150 RF connections from
+2½" to 14", and 2" NPT threaded connections, for horizontal pipes. Epoxy resin coated steel body with brass drywell for external removable neodymium
+rare-earth magnet, (quantity one for 2" - 2½" sizes-code 49684A, quantity one for 3" - 6" sizes-code 49685A, quantity three for 8" - 14" sizes-code
+F0000349) included. Peroxide-cured EPDM seal. Stainless steel internal mesh element. PP float. Stainless steel float linkages. Stainless steel float guide
+pin. Supplied with lever-operated drain ball valve brass body with 1" NPT female connection for separator sizes 2" - 6"- code NA39753; 2" NPT female
+connection for separator sizes 8" - 14", code NA59600. Side drain port supplied with integral brass shutoff valve, code 538402 FD, and ¾” garden
+hose connection. For separator size 8”- 14" only thermometer pocket well on inlet/outlet flanges ½” NPT female. Maximum working pressure, 150 psi
+(10 bar). Vessel working temperature range 32 to 270°F (0 to 132°C). Glycol maximum 50%. Air separation efficiency: 100% removal to microbubble
+level. Particle separation capacity: to 5 µm (0.2 mil). Ferrous impurities separation efficiency: up to 100% removal. The separator is designed and built
+in accordance Section VIII, Division 1 of the ASME Boiler and Pressure Vessel Code and tagged and registered with the National Board of Boiler and
+Pressure Vessel Inspector, and CRN registered (size 14" pending, contact Caleffi), and stamped for 150 psi (10 bar) working pressure, with ASME U
+stamp.
+We reserve the right to change our products and their relevant technical data, contained in this publication, at any time and without prior notice.
+Caleffi North America, Inc.
+3883 W. Milwaukee Road
+Milwaukee, WI 53208
+Tel: 414-238-2360 · Fax: 414-238-2366
+sales@caleffi.com · www.caleffi.com
+© Copyright 2023 Caleffi North America, Inc.

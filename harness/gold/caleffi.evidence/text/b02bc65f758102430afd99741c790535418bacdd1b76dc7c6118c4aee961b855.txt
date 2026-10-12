@@ -1,0 +1,124 @@
+=== page 1 ===
+H0004951
+www.caleffi.com
+PLUMBVENT™ Low-lead automatic air vent
+© Copyright 2018 Caleffi NA502640A
+Function
+Float type automatic air vent designed to vent air that is released
+from the water at high points in piping. Example
+applications include domestic hot water storage tanks and
+recirculation system pump inlets. Compatible with plumbing
+systems low-lead brass body certified and listed by ICC-ES.
+Product range
+Code NA502640A Low-lead automatic air vent ½” NPT male
+Technical characteristics
+Materials: Body: DZR low-lead brass
+Seals: peroxide-cured EPDM
+Performance: Max. working pressure: 150 psi (10 bar)
+Max. discharge pressure: 90 psi (6 bar)
+Max. discharge flow rate: 1.75 scfm (0.83 l/s)
+Max. working temperature: 240°F (115°C)
+NSF/ANSI 372-2011, Drinking Water System Components-Lead Content
+Reduction of Lead in Drinking Water Act, California Health and Safety Code
+116875 S.3874, Reduction in Drinking Water Act, certified by ICC-ES, file PMG-1360.
+Installation
+The vent is installed in the vertical position on riser pipes and generally in parts of the system
+where a concentration of air pockets is to be expected.
+Operating instructions
+The automatic air vent can be used for manual or automatic venting of hydronic and plumbing
+systems. The automatic air vent is supplied complete with a safety hygroscopic cap that
+automatically closes the air discharge in case of contact with water.
+For normal automatic venting, keep hygroscopic cap closed for a slow release of air. A fast release
+of the air may allow dirt or scale in the water to plug the operating mechanism. The small hole in
+the side of the cap allows air to escape.
+Service instructions
+For optimum performance replace hygroscopic cap every 3 years. The natural cellulose fiber
+washers can deteriorate over time when exposed to unfiltered or hard water.
+1
+=== page 2 ===
+SAFETY INSTRUCTION
+This safety alert symbol will be used in this manual to draw attention to safety related instructions.
+When used, the safety alert symbol means ATTENTION! BECOME ALERT! YOUR SAFETY IS
+INVOLVED! FAILURE TO FOLLOW THESE INSTRUCTIONS MAY RESULT IN A SAFETY
+HAZARD.
+WARNING: This product can expose you to chemicals including lead, which is known to the
+State of California to cause cancer and birth defects or other reproductive harm. For more
+information go to www.P65Warnings.ca.gov.
+CAUTION: All work must be performed by qualified personnel trained in the
+proper application, installation, and maintenance of systems in accordance
+with all applicable codes and ordinances.
+CAUTION: Over-tightening and breakage can occur with the use of Teflon®
+pipe joint compounds. Teflon® provides lubricity so that care must be
+exercised not to over-tighten joints. Failure to follow these instructions
+could result in property damage and /or personal injury.
+WARNING: System fluids under pressure or temperature can be
+hazardous. Be sure the pressure has been reduced to zero and the
+system temperature is below 100°F (38°C). Failure to follow these
+instructions could result in property damage and/or personal injury.
+CAUTION: If the air vent is not installed, commissioned and
+maintained properly, according to the instructions contained in
+this manual, it may not operate correctly and may endanger the user.
+CAUTION: Make sure that all the connecting pipework is water tight.
+CAUTION: Uncontrolled venting of water can occur with the automatic
+air vent if dirt, scale, pipe joint compound or any other foreign materials
+becomes trapped in the operating mechanism. Keep vent cap closed during
+filling to prevent dirt from flowing into vent mechanism. Failure to follow
+these instructions could result in property damage and/or personal injury.
+CAUTION: Corrosion or leakage can cause damage or injury.
+Periodically inspect for signs of corrosion or leakage. If corrosion or
+leakage is noted, the vent must be replaced. Failure to follow thee
+instructions could result in property damage and/or personal injury.
+Caleffi shall not be liable for damages resulting from stress corrosion, misapplication or misuse of it products.
+2
+=== page 3 ===
+CONSIGNE DE SÉCURITÉ
+Ce symbole d'avertissement servira dans ce manuel à attirer l'attention sur la sécurité concernant
+instructions. Lorsqu'il est utilisé, ce symbole signifie.
+ATTENTION! DEVENEZ ALERTE ! VOTRE SÉCURITÉ EST EN JEU ! NE PAS SUIVRE CES
+INSTRUCTIONS PEUT PROVOQUER UN RISQUE DE SECURITE.
+AVERTISSEMENT: Ce produit peut vous exposer à des produits chimiques comme le plomb, qui
+est connu dans l’État de Californie pour causer le cancer, dommages à la naissance ou autre. Pour
+plus d’informations rendez-vous www.P65Warnings.ca.gov
+ATTENTION: Tous les travaux doivent être effectués par du personnel
+qualifié formé à la bonne application, installation et maintenance des systèmes
+conformément aux codes et règlements locaux.
+ATTENTION: Un serrage excessif et la rupture peut se produire avec
+l’utilisation de composés à joint de tuyau en Téflon®. Pouvoir lubrifiant Teflon®
+permet de sorte qu’il faut prendre soin de ne pas trop serrer les articulations.
+Le non-respect de ces instructions peut entraîner des dommages matériels
+et/ou des blessures.
+AVERTISSEMENT: Les liquides du système sont sous pression ou de la
+température peuvent être dangereux. Être sûr que la pression a été réduite
+à zéro et la température du système est inférieure à 100°F (38°C). Le non-
+respect de ces instructions peut entraîner des dommages matériels et/ou des
+blessures.Le non-respect de ces instructions peut entraîner des dommages
+matériels et/ou des blessures.
+ATTENTION: Si le Purgeur d’air automatique., n'est pas installé, mis en service
+et entretenu correctement, selon les instructions contenues dans ce manuel,
+il peut ne pas fonctionner correctement et peut mettre en danger l'utilisateur.
+ATTENTION: S'assurer que tous les raccordements sont étanches.
+ATTENTION: Ventilation non contrôlée de l’eau peut se produire
+avec l’air automatique si la saleté, de l’échelle, de composé à joint ou tout
+autre corps étranger est retenu dans le mécanisme de fonctionnement.
+Conservez le capuchon de purge fermées pendant le remplissage pour
+empêcher la saleté de pénétrer dans le mécanisme. Le non-respect de ces
+instructions peut entraîner des dommages matériels et/ou des blessures.
+ATTENTION: La corrosion et les fuites peuvent causer des dommages ou des
+blessures. Inspecter périodiquement pour des signes de corrosion ou de fuite .
+Si la corrosion ou la fuite est noté, l’évent doit être remplacé. Le fait de ne pas te
+suivre instructions pourrait entraîner des dommages matériels et/ou des blessures.
+Caleffi ne pourra être tenue responsable des dommages résultant de la corrosion, d’une mauvaise
+utilisation ou une mauvaise utilisation des produits.
+3
+=== page 4 ===
+Typical application diagrams
+DCW or DHW circulator
+WATER
+HEATER
+LEAVE THIS MANUAL WITH THE USER.
+Laissez ce manuel à la disposition de l’utilisateur.
+Caleffi North America, Inc.
+3883 West Milwaukee Road
+Milwaukee, WI 53208
+T: 414.238.2360 F: 414.238.2366
+4 3-30-18

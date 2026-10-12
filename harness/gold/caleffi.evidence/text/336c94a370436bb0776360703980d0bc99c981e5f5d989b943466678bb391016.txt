@@ -1,0 +1,187 @@
+=== page 1 ===
+520 SERIES
+ZONE VALVES AND CONTROLS
+ZONE SERIES
+5
+Z-one™ valve & relay
+installed together
+For over two decades, we have led the zone valve market by transforming field-driven insights into
+industry-standard innovations. With millions of units installed across North America, the Z-one™
+series features standard soft-close technology ensuring the silent, reliable performance residential
+contractors have trusted for over 20 years.
+ Installer Friendly:  Application Versatility:
+Ample room for terminations, large screw 3-selectable 120 VAC auxiliary switches for
+terminals, automatic resettable fuse, snap-in enabling pumps and boilers, dedicated pump
+transformers. outputs, unlimited zone expansion.
+ Extremely Reliable Design:  Installer-First Relay Boxes:
+Built for the long haul with a clutch-protected Save time with ample termination room, large
+drive train and durable synchronous motor. screw terminals, and snap-in transformers. An
+Join the pros with millions of units installed automatic resettable fuse protects the board
+across North America. against common field wiring errors.
+ Easy Install & Service:  Universal Compatibility:
+Snap-on actuator with an in-line push button Compatible with 2,3 and 4 wire zone valves and
+allows for quick removal. The removable thermostats. Configurable pump logic.
+bottom cap enables easy in-pipe service
+without cutting into the system.
+=== page 2 ===
+PRODUCT RANGE - Z-one Single-Zone and Multi-Zone Pump Controls - ZSR Series
+ZONES CODE
+1
+ZSR101
+2 ZSR103
+4 ZSR104
+6 ZSR106
+PERFORMANCE APPLICATION DIAGRAM
+POWER SUPPLY 120 VAC, 50/50 HZ
+TRANSFORMER VOLTAGE 24 VAC
+6 VA (ZSR101)
+MAX. TRANSFORMER LOAD
+40 VA (ZSR103/104/106)
+ELECTRICAL SWITCH RATING 20 A max Combined
+ELECTRICAL SWITCH RATING
+120 VAC, 5A each
+PUMP OUTPUT
+DRY CONTRACT RATING, AUX,
+120 VAC max, 2A each
+XX, ZONE1 E/S
+MULTI-ZONE PUMP CONTROL
+EXAMPLE
+• 3, 4 and 6 zone controls
+• 1 primary pump output and 3 to 6
+(model dependent) zone pump outputs
+(120 VAC/5A each)
+WIRING DIAGRAM
+• 3 dry contacts for enabling boilers and pumps AUX XX ZONE 1 R W C R W C R W C R W C R W C R W C D P
+E / S T TCOM T TCOM T TCOM T TCOM T TCOM T TCOM COMMS
+• Unlimited board expandability T-STAT 1 T-STAT 2 T-STAT 3 T-STAT 4 T-STAT 5 T-STAT 6
+using Z-oneLink™ communications MASTER SLAVE POWER
+PRIORITY ON OFF
+Each output individually fused. 2 extra fuses included REMOTE ENABLE ON OFF ZONE1
+EXERCISE ON OFF
+• Selectable with DIP switches: POST PURGE ZONE#1 ON OFF ZONE2
+- Priority (1 hour tiemout) AUXXXZO E N / E S 1 R T T-S W T T AT C O C 1 M R T T-ST W T AT C O C 2 M R T T-ST W T AT C O C 3 M R T T-ST W T AT C O C 4 M R T T-ST W T AT C O C 5 M R T T-ST W T AT C O C 6 M D COM P MS ZONE3
+TRANSFORMER
+- Pump exercise ZSRMAS1TER06 SLAVE POWER ZONE4
+PRIORITY ON OFF
+- Post purge Zone #1 (after priority demand) REMOT E 6E X E E N R ZA C B IS LoE E O O nN N e O O F F F F ZONE1 ZONE5
+POST PURGE ZONE#1 ON OFF ZONE2
+- Remote Enable ZONE3 ZONE6
+TRANSFORMER
+ZSR106 ZONE4
+- Status of primary pump during priority 6 Zone ZONE5
+• Twelve 1/2” electrical knockouts POWERIN GROUNDS R 2 E 4 M - O 1 TE 2 0 E N V A A BL C E P P R U IO M R P IT 1 Y PUMP2 PUMP3 PUMP4 ZPOUNMEP65 PUMP6 PR P I U M M A P RY S D T U A R T I U N S G
+L N L N L N L N L N L N L N L N L N PRIORITY
+• Bright LED functional lights on front cover
+• Multiple ground screws, eliminates wire nuts L L POW N ERIN GROUNDS R2E4M L -O 1TE2 0E NVN AABLCE PP L RUIOMRPIT N 1Y PLUMPN2 PLUMPN3 PLUMPN4 PLUMPN5 PLUMPN6 P L RPIUMMAPR N Y P SDR TUI A ORT RIUNIT SGY
+• 3 year warranty L
+N
+N
+SINGLE-ZONE PUMP CONTROL
+• 2 independent outputs
+• Mounts to 4” x 4” junction box
+• Rear wiring access
+=== page 3 ===
+PRODUCT RANGE - Z-one Multi-Zone Valve Controls - ZVR Series
+ZONES CODE
+3
+ZSR103
+4 ZSR104
+6 ZSR106
+PERFORMANCE APPLICATION DIAGRAM
+POWER SUPPLY 120 VAC, 50/50 HZ
+TRANSFORMER VOLTAGE 24 VAC
+40 VA (ZSR103/104)
+MAX. TRANSFORMER LOAD
+80 VA (ZSR106)
+ELECTRICAL SWITCH RATING 20 A max Combined
+ELECTRICAL SWITCH RATING
+120 VAC, 5A each
+PUMP OUTPUT
+DRY CONTRACT RATING, AUX,
+120 VAC max, 2A each
+XX, ZONE1 E/S
+EXAMPLE
+MULTI-ZONE VALVE CONTROL
+WIRING DIAGRAM
+• 3, 4 and 6 zone (thermostat and valve) controls
+• 3 pump outputs (120 VAC/5A each)
+• 3 to 6 zone valve outputs (24 V)
+• 3 dry contacts for enabling boilers and pumps
+• Unlimited board expandability
+using Z-oneLink™ communications
+• Automatically resettable fuse on 24 V circuit
+• Selectable with DIP switches:
+- Priority (1 hour timeout)
+- Pump exercise
+- Status of system pump during Zone #1 call
+• Twelve 1/2” electrical knockouts
+• Bright LED functional lights on front cover
+• Multiple ground screws, eliminates wire nuts
+• 3 year warranty
+• 5 year warranty when installed with Caleffi
+Z-one™ motorized zone valves
+=== page 4 ===
+320-62fifelaC
+| AN
+62-91630
+PRODUCT RANGE - Z-oneTM Zone Valves - Z Series
+Z4 SERIES Z-ONE™ WIRE LEADS
+ZONES CODE CV ∆P ZONES CODE CV ∆P
+Z40 Inverted flare 3.5 18 psi Z50 Inverted flare 3.5 18 psi
+Z40F* ¾” inv flare 3.5 18 psi
+Z50F* ¾” inv flare 3.5 18 psi
+Z42 ½” SAE flare 3.5 18 psi
+Z54 ½” sweat 2.5 30 psi
+Z44 ½” sweat 2.5 30 psi
+Z54P ½” press 3.5 18 psi
+Z44P ½” press 3.5 18 psi
+Z55 ¾” sweat 7.5 12 psi
+Z45 ¾” sweat 7.5 12 psi
+Z55P ¾” sweat 7.5 12 psi
+Z45P ¾” press 7.5 12 psi
+Z55PL** ¾” press 7.5 12 psi
+Z45PL** ¾” press 7.5 12 psi
+Z56 1” sweat 7.5 12 psi
+Z46 1” sweat 7.5 12 psi
+Z56P 1” sweat 7.5 12 psi
+Z46P 1” press 7.5 12 psi
+Z57 1” sweat 7.5 12 psi
+Z47 1 ¼” press 7.5 18 psi
+*Two ¾” sweat fittings (NA10006) included. *Two ¾” sweat fittings (NA10006) included.
+**One extra long press fitting for retrofit. **One extra long press fitting for retrofit.
+PERFORMANCE
+WORKING TEMPERATURE RANGE 32 - 240 °F (0 - 115 °C)
+MAX. PERCENTAGE OF GLYCOL 50%
+POWER SUPPLY 24 VAC
+US Patent 7,048,251
+POWER CONSUMPTION 5 W, 7VA*
+MAX. AMBIENT TEMPERATURE 125°F (52°C)
+*Allows up to 5 valves per 40VA transformer.
+CONSTRUCTION
+DURABLE SYNCHRONOUS MOTOR
+CORROSION-RESISTANT
+MANUAL OPENING ACTUATOR MATERIALS
+LEVER AND POSITION
+INDICATOR
+EXTRA THICK
+SECTOR GEAR CLUTCH-PROTECTED DRIVE TRAIN
+PUSH BUTTON SEALED AUXILIARY SWITCH (OPTIONAL)
+FOR EASY TRUE MECHANICAL
+ASSEMBLY AND SPRING RETURN
+REMOVAL
+LARGE VALVE CAVITY FOR
+STAINLESS STEEL STEM QUIET FLOW, PREVENTS
+FORGED BRASS WATER HAMMER
+BODY, 300 PSI RATED
+HIGH TEMPERATURE EPDM
+O-RINGS AND PADDLE (240ºF)
+REMOVABLE CAP
+SERVICEABLE IN-PIPE
+Caleffi Partner:
+ONLINE
+INNOVATIVE PLUMBING AND HEATING SOLUTIONS
+BUILT ON GENERATIONS OF TRUST Caleffi North America, Inc.
+sales@caleffi.com · www.caleffi.com
+WE RESERVE THE RIGHT TO CHANGE OUR PRODUCTS AND THEIR RELEVANT TECHNICAL CATALOG
+© Copyright 2026 Caleffi North America, Inc.
+DATA, CONTAINED IN THIS PUBLICATION, AT ANY TIME AND WITHOUT PRIOR NOTICE.

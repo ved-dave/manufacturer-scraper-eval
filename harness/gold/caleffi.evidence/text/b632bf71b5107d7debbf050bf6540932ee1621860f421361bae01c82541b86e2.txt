@@ -1,0 +1,2147 @@
+=== page 1 ===
+NA10331.01
+www.caleffi.com
+Zone Control Relay
+© Copyright 2018 Caleffi
+ZSR101 Series
+Function
+The ZSR101 single zone switching relay is operated by low
+voltage thermostats. The ZSR101 single zone switching
+relay incorporates Power In, Relay 1 and Relay 2 connection
+terminals to provide a convenient and cost effective way to
+control a circulator and a boiler operating control in a single
+zone hydronic heating system. The ZSR101 single zone
+switching relay saves hours in installation time and provide a
+clean and professional installation.
+Features
+• Compatible with low voltage 2, 3, or 4 wire thermostat
+• R, W, C and TT Comm dual labeling at thermostat
+terminals
+• 120 VAC pump outputs
+• High capacity transformer
+• Large screw terminal connections
+Certified to C(cid:53)(cid:35) C22-2 No.24
+Conforms to UL Standard 873 • Simplified wiring with pre-installed jumper
+4009064
+• Heavy duty sealed relay
+• Relay 1 and Relay 2 connection terminals
+• Fuse protected relays (with spare fuse)
+• Easy to read PC board layout
+• Compact modern design
+• Front LED Lights
+• 100% Factory tested with 3 year warranty
+• ETL Approved
+Product range
+Code ZSR101 Z-one™ Relay switching relay ....................................................single zone
+Technical specifications
+Materials
+Housing plastic: ABS
+Front display lights: LED
+Electrical Knockouts: (6) 1/2" size
+Performance
+Power Supply: 120 VAC, 50/60 Hz
+Transformer Voltage: 24 VAC
+Maximum transformer load: 6 VA
+Maximum operating temperature: 110°F (43°C)
+Maximum Humidity: 90% non-condensing
+Electrical Switch Rating: 10A Max Combined
+Replaceable Fuses: Type 2AG, 5A Slow Blow
+Approvals: Certified to CSA C22-2 No.24, Conforms to UL Standard 873
+=== page 2 ===
+Dimensions
+I Z S CN Z S i P n AU g S iT l Un e P S D TOg R P WIO D lEe RT 1 RN r P e DR: 0 l a IRO 1y IPRS 1 - K T I D n OO 0p FS u T EE t: LR 1 E V 1 rCI 2 CeT 0 IRN V lIGCa A S C yH 5 O 0 C / K 6 0 - H D I z S C 1 O 0A NN M E A CT X ALL Z P O W N R E A
+4009064Ctoo nUfLo r8m7s3 Milwaukee, WI 53208 USA
+B C
+C
+Code Zones A B C Wgt. (lbs)
+ZSR101 1 5 3/8" 4 5/8" 2 5/8" 1.1
+SAFETY INSTRUCTION
+This safety alert symbol will be used in this manual to draw attention to safety
+related instructions. When used, the safety alert symbol means ATTENTION!
+BECOME ALERT! YOUR SAFETY IS INVOLVED! FAILURE TO FOLLOW
+THESE INSTRUCTIONS MAY RESULT IN A SAFETY HAZARD.
+WARNING: This product can expose you to chemicals including lead, which is known to the
+State of California to cause cancer and birth defects or other reproductive harm. For more
+information go to www.P65Warnings.ca.gov.
+CAUTION: All work must be performed by qualified personnel trained in the
+proper application, installation, and maintenance of systems in accordance
+with all applicable codes and ordinances.
+CAUTION: Electrical shock hazard. Disconnect power before installation to
+prevent electrical shock or equipment damage. Make sure all connections
+are in accordance with the electrical wiring diagram and in accordance with
+national and local electrical codes.
+WARNING: Avoid electrical noise interference. Do not install near large
+conductors, electrical machinery, or welding equipment. Avoid locations
+where excessive moisture, corrosive fumes, vibration, or explosive vapors are
+present.
+Caleffi shall not be liable for damages resulting from stress corrosion, misapplication or misuse of it products.
+=== page 3 ===
+R W C
+T T COM
+PWR
+ZSR101
+TRANSFORMER
+Operating principles ZONE
+1 Zone
+When a zone has a demand Supply 120 VAC hot to termilan L and 120 VAC neutral to N.
+from a thermostat (T T or R W) A factory installed jumper from L terminal to the C terminal of
+the relay will close sending 120 Relay 1 is supplied for simplified pump connection.
+VAC to Relay 1 NO terminal
+switching ON the pump, Relay
+2 closes C to NO dry contact,
+signaling the boiler of a heating POWERIN RELAY #1 RELAY #2
+demand.
+N L C NO NC C NO NC
+R W C
+T T COM
+R W C
+PWR
+T T COM
+R, W, C and T T Comm dual
+labeling at thermostat terminals. PWR
+ZSR101
+TRANSFORMER Compatible with low voltage 2, TRANSFORMER ZSR101
+3, or 4 wire thermostats or any ZONE 1 Zone ZONE
+other low voltage d1ev icZes ohavninge
+a switching action.
+POWERIN RELAY #1 RELAY #2
+N L C NO NC C NO NC
+POWERIN RELAY #1 RELAY #2
+N L C NO NC C NO NC
+Cover removal
+• Insert flat head screwdriver • Pull cover straight off.
+into open tab.
+• Repeat on opposite side.
+=== page 4 ===
+Installation The unit must be only located in dry
+interior locations. It is not suitable
+for installation in hazardous locations
+and should not be placed close to
+any electromagnetic fields. Please
+pay attention to routing of power
+supply cables.
+• Remove cover of relay box.
+• Identify the four mounting
+holes on relay box, mark on
+the wall the desired location of
+mounting.
+• Predrill, anchor, and fasten four
+screws for mounting.
+• Hang relay box and fasten tight
+to desired locations.
+• Complete wiring connections
+in accordance with terminal
+locations.
+• Place cover back on relay box.
+Application Wiring Diagram
+CALEFFI
+Caleffi North America, Inc.
+3883 West Milwaukee Road
+Milwaukee, WI 53208
+T: 414.238.2360 F: 414.238.2366
+ESUF ESUF
+thermostat
+R W C
+T T com
+power
+zone space
+transformer ZSR101 heating
+1 Zone demand
+L
+N
+N LL C RE N L / A O Y 1 N/C C RE N L / A O Y N 2 /C G
+GGN LL variable-speed
+pressure-regulated
+distribution circulator mod/con boiler
+4-16-18
+=== page 5 ===
+11
+=== page 6 ===
+WIRING GUIDE
+The ZSR101 is a versatile single relay control with two outputs for operating a 120 VAC pump with boiler enable, or two 120
+VAC devices without boiler enable. Features include rear knock outs for 4x4 junction box mounting, convenient pre-installed
+jumper for pump operation, and 10 amp total load rating.
+The ZSR Series of controls is for zoning using pumps. Up to 6 zone pumps (model dependent) along with a primary pump
+can be operated. Zone priority is selectable with 1-hour time-out feature. Other features include pump exercising, selectable
+post purge, and 3 pump ground terminals for simplifi ed wiring.
+The ZVR Series of controls is for zoning using zone valves. Up to 6 valves (model dependent), along with a system pump,
+secondary pump and zone 1 pump (typically used for DHW priority) can be operated. Zone priority is selectable with 1-hour
+time-out feature. System pump and secondary pump status (on/off) during priority is also selectable. Replaceable snap-fi t 40
+VA transformer standard for 3 & 4 zone models – expandable to 80 VA with 2nd transformer. 6 zone model has two 40 VA
+(80 VA) transformers.
+Certified to CSA C22-2 No.24
+Conforms to UL Standard 873
+4009064
+Form 031914 rev.2
+=== page 7 ===
+INDEX
+Z-one Relay thermostat connections
+Thermostat wiring ...........................................................................................................................................................................4
+Zone valve wiring to ZVR series .......................................................................................................................................................5
+ZSR101 - single zone relay
+Product overview ............................................................................................................................................................................6
+Operation and cover removal ........................................................................................................................................................................7
+A1 - Single thermostat ...................................................................................................................................................................................8
+A2 - Multiple thermostats ...................................................................................................................................................................10
+A3 - Single master thermostat, with TRVs, variable speed pump ....................................................................................................12
+ZSR103, ZSR104 & ZSR106 - multi-zone pump relay
+Product overview ...........................................................................................................................................................................14
+Circuit board ..................................................................................................................................................................................15
+Cover removal ................................................................................................................................................................................16
+Product details ...............................................................................................................................................................................17
+B1 - Mod/Con boiler, hydro separator or buffer tank, zone pumps .................................................................................................18
+B2 - Traditional boiler, indirect DHW w/ priority, zone pumps ..........................................................................................................20
+B3 - Mod/Con boiler, primary loop, closely spaced tees, zone pumps ............................................................................................22
+B4 - Mod/Con boiler, hydro separator or buffer tank, zone pumps with remote enable ...................................................................24
+ZVR103, ZVR104 & ZVR106 - multi-zone valve control
+Product overview ...........................................................................................................................................................................26
+Circuit board ..................................................................................................................................................................................27
+Cover removal, Transformer Installation .................................................................................................................................................28
+Product details ...............................................................................................................................................................................29
+C1 - Mod/Con boiler, hydro separator, zone valves ........................................................................................................................30
+C2 - Mod/Con boiler, indirect DHW on primary side of hydro sep, zone valves ...............................................................................32
+C3 - Mod/Con boiler, indirect DHW on load side of hydro sep, zone valves ....................................................................................34
+C4 - Mod/Con boiler, indirect DHW on primary side of hydro sep, master and slave control ...........................................................36
+C5 - Traditional boiler, indirect DHW (no priority) with valve .............................................................................................................38
+C6 - Traditional boiler with reset control, priority indirect DHW with valve ........................................................................................40
+C7 - Mod/Con boiler, hydro separator, zone valve (more than 6), multiple secondary pumps ..........................................................42
+C8 - Mod/Con boiler, indirect DHW on primary side of hydro sep, zone valves with ECM pump enabling .......................................44
+C9 - Mod/Con boiler, hydro separator, zone 1 low temp, 2 - 6 high temp zone valves ....................................................................46
+Caleffi shall not be liable for damages resulting from misapplication or misuse of it products. 3
+=== page 8 ===
+Z-one Thermostat Connections 2-Wire Thermostats 4-Wire Thermostats
+4
+All Caleffi Z-one controls use the same interface There are a few different types of 2 wire thermostats To connect a 4-wire thermostat to the Z-one
+to connect to thermostats. This interface is including bi-metallic, power stealing and battery series controls, connect R to R, W to W and C
+very flexible and allows many different types powered. All of these thermostats connect in to C. A jumper in the thermostat is also required
+of thermostats to be connected to the control the same manner to the Caleffi Z-one series of between R & Rh as shown below. Similar to a
+including 2, 3 and 4 wire versions. In addition, any controls. Connect R to R and W to W. See below. 3-wire thermostat, R & C from the Z-one Control
+type of switching device can be used to signal a
+supply constant 24 VAC to the thermostat.
+heat demand by connecting the R & W (T & T)
+terminals together. The terminals are dual labeled
+to help simplify wiring.
+Z-one T-stat interface
+C R Rh W1
+X X DHW R W C R W C R W C R W C R W C R W C D P PWR
+ZR/ZC T T COM T T COM T T COM T T COM T T COM T T COM COMMS
+X X DHW R W C R W C R W C R W C R W C R W CTHM 1 D TPHM 2 THM P 3 WR THM 4 THM 5 THM 6
+AUX X X ZONE 1 R W C R W C R W ZCR/ZC R WT CT COMRT TWCOMCT TRCOM WT TCCOM T T COM TD T COPM COMMS ZONE1
+THM 1 THM 2 THM 3 THM 4 THM 5 THM 6
+E / S T T COM T T COM T T COM T T COM T T COM T T COM COMMS
+ZODNrE1y Contacts
+T-STAT 1 T-STAT 2 T-STAT 3 T-STAT 4 T-STAT 5 T-STAT 6 ZONE2
+3-Wire Thermostats DipSwitches
+6 Z Z oAON n Eh2 ee at demaMnastder caSlanve also be initiated by any tyZpONeE 3
+D R e = s 2 c 4 r i V p A t C io n Supply TRA 1 N 2 S /2 F 0 O V R A MER T c Z o h -o n re n tr e e 6 o P R l C w Z Z IO t o i 6 h r M o R e n e P I A n T t y S r Y te o h T O a E l e N R r s r e m u p c o p o P s o E s l Pnx t P t y T r e P r im r i a u o c R n r a r i s g i M D r t e y e y 2 ta A O O O O s e i st p F F F F e1 N F F F 4 F r S c 2 Sw /g t 2 F V i e t 0 O S O e c S E P P P A V h d l x r o r a R Li i F e t m s o v e A r t r e c a iA C P t M i F r s y s y u e O r t OV g tO E N e N h N o O E R t N e o . i r t h R p e o & t w h e e C r r m f f P r r o o o O s m m W ta E t t t h h R a e e t ZZ Z 6 o a h O O PN N a f s E E v d3 4 e e e t v a o ic n f e y c o t P v h o n E s P o x t P r e P a r im r t i u o c l r a r i a s g i r t t te y e y a O O O O c F F F F hF F F F g t a s e s t E P P P p h x r o r i i edm s o r t r c a i a P t r i r y s y u r e e O r O g t Oy N e N N s O N o e c p n o e t n n t u a n a c n t t i s l d s ( c d u l r p o y s p e c lie o b d n u ta t f r c o d t m o s n Z Z a a O O o r n N N e t E E 4 5
+W = Heat Call RaElMl tOimTEe EsN AwBhLEile O Nthe W lead OsFigFnals a heat deZmOaNnEd1. ZoONuEt5side source). The end switch on a Z-one series
+zone valve is an example of a dry contact. UsZinOgNE 6
+EXERCISE ON OFF
+C = 24 VAC Common PRIORITY Z a ON d E6 ry contact to connect R tPoRI MWARY will initiate a heat
+Function POWER IN GROUNDS POP P R U SIO M TR P I TP 1 YUR P G UM E P Z 2 ONE PU # M 1 P 3 ON PULMP P 4 OW N ER P I U N MP 5 OFFG P R U O M U P N 6 DS PR P I U M M A P RY P L UZMOP N 1NEP L 2UMP N 2 d P Le UM m P N 3 and P L. UMP N 4 P L UMP N 5 P L UMP N 6 L PUMP N
+L N L N L N L N L N L N L N L N
+R&W: When connected, signals a heat demand.
+ZONE3
+R&C: Provides 24 VAC to powered thermostats.
+TRANSFORMER
+ZSR106 ZONE4
+WARNING: NEVER CONNECT R & C DIRECTLY,
+this will be a direct sh 6 oXr t Z Xon o t Z h nD R eH /Z W e 2 C 4 VAC supR T plyW T CO C M R T W T CO C M R T W T CO C M R T W T CO C M R T W T CO C M XR T XW T C Z D O RC H M /Z W C D CZOOM P R T M T NS H W E M T 5 1 CO C M R T TH P W M TW 2 RCO C M R T TH W M T 3 CO C M R T TH W M T 4 CO C M R T TH W M T 5 CO C M R T TH W M T 6 CO C M D COM P MS PWR
+THM 1 THM 2 THM 3 THM 4 THM 5 THM 6
+ZONE1
+ZONE1
+Always refer to the thermostat manufaZcOtNuEre6r’s instructions.
+ZONE2
+ZONE2
+DipSwitches
+DipSwitches
+S T re h A la is F t e E s d T a Y fe in t I s y N t r S a u l T c e t R r i t o U n s C s y . m T I b W O o h N l e Tw n R ilAl u 1 Nb s 2 S / e e 2 F d 0 Ou V , R s A M t e h dE e R i n s a t f h e i t s y m al a e n rt u a s l y t m o b d o r l a w m 6 e a a t Zn t Z e s n 6 o t A i P o n T n T e E to N T sa IO fe N ty P!o E s P x t P r e P r im r i u o c r a r is g i M r t e y e y a O O O O st F F F F e F F F F r S E P P P l x r o r a i i e m s o v r t r e c a i P t i r y s y u e O r O g O N e N N ON TRA 1 N 2 S /2 F 0 O V R A MERC e le A c U tr T ic IO al N s : h E o l c e k c t o Z Z ri r O O c e a N N q l E E u s 3 4 h ip o m 6 c e k Z n Z h t6 a d o z aP a n m rd e a . g D e i . s M co a n k n Peo E s eP x t P r e Ps r icm r i u o c r a r i u s g i t M r t e y e y a r O O O O s p t e F F F F e F F F F r o a w ll e c S E P P P r l x r o r o a i i e m s o v r t r e b c a i nP t i r y s y u ee O rn O g O N e NfN e O o Nc re tio in n s s t a a r ll e a t i i n o n a c to co p rd re a v n e c n e t Z Z O O N N E E 3 4
+with the electrical wiring diagram and in accordance with national and local electrical
+POWERIN GROUNDS R 2 E 4 M - O 1 TE 2 0 E N V A A B C LE B IN EP S C P R T O U R IO M M U R P C EIT T 1 AY IO LE N R S T P M ! U Y A M O Y P U R 2 R E S S U AF L P T E U T I M N Y P A IS 3 S IN AF V E O T P L Y U V M E H D P A ! Z 4 F A A R IL D U . P R U E M T P O 5 FOLL P O U W M P TH 6 ESE PR P I U M M A P RY S D T U A R T I U N S G c odes. ZONE5 ZONE5
+L N L N L N L N L N L N L N L N L N PRIORITY ZONE6
+ZONE6
+C p ap r A o p U p li e c T r a I O b a l N p e p : c li o c A d a ll t e io s w n a o , n r i k n d s o m t L a rd P u llOa s in Wt t N i a Eo n R b n c I e ,N e a s p n . d er f m o GR r a m OinU e NteD d Sn a b n y c e q u o a f l s ifPi y P L Re U s IdO M t R e P I T m N p 1 Ye s r s inP L o U n aM n cP e N c2 l o r t d ra P L aU in nM e cP d e N 3 w in it P L hU t h MaP e ll N 4 P L UMP N 5 P L LU P M O P W N 6N ER IN O NP L R P I U M M A P R N GYRO O F F C e m UNle A o DcS U is tr t T u ic I r O a e l N , c : m o A a r v r P cP oL Ro hU I s iO Mi d n i R v P I e e T N e 1 Y r l y e fu , c m t P L r oU i e c rM s a P , l w N 2 v n e ib o ld i r s a P L in e U ti g M o i P n n N t 3e , e q o rf u r e iP L r e p e U x mM n p P c e l N 4 o e n s . t i . v D e P L o A U v Mv n a oP o p N i5d t o i r n s l s o P La t cU a r Ma l e l Pt i N n 6o p e n re a s s r e Pl L w a n R P rI U t h Mg . M A e e P R N r Y e c o e n x d c u e c s t s o i r v s e ,
+Caleffi shall not be liable for damages resulting from misapplication or misuse of it products.
+=== page 9 ===
+Wiring zone valve to Caleffi ZVR control
+Wiring a standard zone valve to Caleffi Z-one Relay must be connected to terminal 3 on the zone valve. Failure to follow
+Since a two wire actuator does not have an end switch for feedback schematic will lead to damage of product.
+to the ZVR control, the end switch terminals must have a jumper to
+Wiring a White Rogers 1361 valve to Caleffi Z-one Relay
+simulate the end switch. If the end switch jumper is not installed, no
+The White Rogers 1361 zone valve requires 24 VAC to terminal 2
+demand will be sent to the boiler and the pumps will not turn on. at all times, therefor connect to the R terminal of the associated
+Wiring a Taco 570 valve to Caleffi Z-one Relay T-STAT on the ZVR control. The left motor terminal on the ZVR
+series control must be connected to terminal 4 on the zone valve.
+When connecting the Taco 570 zone valve to the Caleffi Z-one Relay,
+The right motor terminal must be connected to terminal 1 on the
+the wiring of this valve can only be done in one way. The left motor
+zone valve. Lastly, the left end switch terminal must be connected
+terminal on the ZVR series control must be connected to terminal 2
+to terminal 3 on the zone valve. The 1361 can not be used on any
+on the zone valve. The right motor terminal must be connected to
+zone when the ZVR control is set for priority.
+terminal 1 on the zone valve. Lastly, the left end switch terminal
+AUX X X ZONE 1 R W C R W C R W C R W C R W C R W C D P
+E / S T T COM T T COM T T COM T T COM T T COM T T COM COMMS
+T-STAT 1 T-STAT 2 T-STAT 3 T-STAT 4 T-STAT 5 T-STAT 6
+POWER
+STATUS DURING ZONE 6
+ZONE #1 DEMAND
+O N O F F O N O F F T C -S A A LL T V O A P L E V N E
+POWER IN ZONE #1 SEC SYSTEM
+PUMP PUMP PUMP ZONE1 ZONE2 ZONE3 ZONE4 ZONE5 ZONE6
+L N L N L N L N END END END END END END
+MOTOR SWITCH MOTOR SWITCH MOTOR SWITCH MOTOR SWITCHMOTOR SWITCHMOTOR SWITCH
+4 1 3
+2
+2 1 3
+2 2 5 4
+1
+1 3 2
+3
+White Rogers Zone Valve Zone Valve Taco
+1361 4 wire 2 wire 570
+5
+=== page 10 ===
+6
+ZSR101
+- Single Zone Switching Relay
+Overview
+• Compatible with 2, 3 and 4-wire thermostats or other
+low voltage controllers with switching action
+• 120 VAC input
+• Heavy duty, sealed, DPDT, fuse protected relay
+(with spare fuse)
+• Two dry contact outputs (Relay 1 and Relay 2) for
+operating 120 VAC pump with boiler enable or two
+devices without boiler enable
+• 5 A capacity each relay - 10 A total
+• Rear knock-outs for mounting onto 4”x4” junction box
+• High capacity 6VA transformer
+Certified to CSA C22-2 No.24 • Simplifi ed wiring with pre-installed jumper
+Conforms to UL Standard 873 • 100% factory tested with 3 year warranty
+4009064 • ETL certifi ed
+See technical brochure 01284 NA for more product
+information.
+=== page 11 ===
+Operating Principles
+Dual labeled T-stat terminals.
+When a zone has a Compatible with 2, 3 and 4 Replaceable fuses.
+demand from a thermostat wire T-stats.
+(TT or R W) the relay will
+close sending 120 VAC
+to Relay #1 NO terminal R W C 6 VA Transformer.
+and switching the pump
+R TW CT COM
+on, and the C to NO dry
+contact on relay #2 closes, T T COM
+signaling the boiler of a heating demand.
+PWR
+PWR
+R, W, C and T T Comm dual labeling at thermostat terminals.
+ZSR101
+ComTpRaAtibNlSe FwOithR lMowE Rvoltage 2, 3, or 4 wire ZthermSostaRts or a1ny 01
+TRotAheNr lSowF vOoltRagMe dEevRices having a switching action. ZONE
+1 Zone
+ZONE
+Supply 120 VAC hot to terminal L and 120 VAC1 ne utZral oto Nn. e
+A factory installed jumper from L terminal to the C terminal of
+Relay 1 is supplied for simplifi ed pump connection.
+POWERIN RELAY #1 RELAY #2 120VAC input
+N L C NO NC C NO NC power connection
+POWER IN RELAY #1 RELAY #2 Keyhole mounting
+which fits a 4X4
+If dry NcontactsL are desireCd fromN reOlay #1,N reCmove thCe factoNry O NC junction box.
+installed jumper between L and C.
+Pre-installed jumper. Rear knockout for
+4X4 junction box.
+Cover removal
+Mounting: Do not mount to a
+surface that exceeds 115°F (45°C).
+The unit must be only located in dry
+interior locations. Use only copper
+conductor supply wire suitable for
+at least 105° C. All circuits must
+have a common disconnect and
+be connected to the same pole of
+the disconnect. It is not suitable for
+installation in hazardous locations.
+Hold either the left or the right end Turn box and repeat inserting Slide cover off base.
+of the box up and at an angle. Use screwdriver and pushing tab inward
+body for stabilizing relay box. Insert on opposite side, cover should
+screwdriver and push tab inward. release from base.
+7
+=== page 12 ===
+8
+A1 - Single thermostat
+R W C
+T T com
+power
+zone
+transformer CalefÞ!
+single zone relay
+RELAY 1 RELAY 2
+N LL C N/ON/C C N/ON/C
+N T
+T
+L
+Hydronic diagram is for illustration purposes only, some components have been removed for simplicity.
+=== page 13 ===
+Description of terminals Sequence of Operation / Settings
+= Ground • A demand occurs from the thermostat closing
+R to W on the ZSR101 control. The “ZONE”
+N = Neutral (Common leg of 120 VAC)
+LED illuminates.
+L = Line (live leg of 120 VAC)
+• The ZSR101 control will power relay #1 and
+C = Common terminal #2 closing C to NO.
+NO = Normally Open terminal • The NO terminal of relay #1 will send out
+120 VAC to your pump. Relay #2 provides
+NC = Normally Closed terminal
+a dry contact closure to signal the boiler of a
+demand.
+Note: There is a factory installed jumper between the 120
+VAC line (L) and the common terminal of relay #1 (C). • NOTE: Relay #1 can be used as a dry contact
+as well by removing the factory installed
+Thermostat terminals
+jumper between L and C.
+R = 24 VAC
+• When the thermostat demand is satisfied R to
+W = Heat call
+W will open and the “ZONE” LED will turn off.
+C = Common of 24 VAC
+• The control will remove power from relays #1
+and #2 opening C to NO. This will drop 120
+VAC to your pump and terminate the demand
+to your boiler.
+WARNING: NEVER CONNECT R & C DIRECTLY,
+this will be a direct short on the 24 VAC supply
+9
+=== page 14 ===
+10
+R W C
+T T com
+power
+zone
+transformer CalefÞ!
+single zone relay
+RELAY 1 RELAY 2 N LL C N/ON/C C N/ON/C
+evlav
+enoz
+eriw-4
+evlav
+enoz
+eriw-4
+evlav
+enoz
+eriw-4
+A2 - Multiple thermostats
+End switch wires
+R W R W R W
+24 VAC
+N T
+T
+L
+Hydronic diagram is for illustration purposes only and could be missing system components.
+=== page 15 ===
+Description of terminals Sequence of Operation / Settings
+= Ground • A demand occurs from one of the thermostats
+which sends power (from a separately sourced
+N = Neutral (Common leg of 120 VAC)
+transformer) to the corresponding zone valve.
+L = Line (live leg of 120 VAC)
+• When the zone valve opens the end switch
+C = Common terminal will close R to W on the ZSR101 control. The
+“ZONE” LED illuminates.
+NO = Normally Open terminal
+• The ZSR101 control will power relay #1 and
+NC = Normally Closed terminal
+#2 closing C to NO.
+Note: There is a factory installed jumper between the 120 • The NO terminal of relay #1 will send out
+VAC line (L) and the common terminal of relay #1 (C). 120 VAC to your pump. Relay #2 provides
+a dry contact closure to signal the boiler of a
+Thermostat terminals
+demand.
+R = 24 VAC
+• NOTE: Relay #1 can be used as a dry contact
+W = Heat call
+as well by removing the factory installed
+C = Common of 24 VAC
+jumper between L and C.
+• When all the thermostat demands are satisfied
+the zone valves will close and the end switch
+will open R to W. The “ZONE” LED will turn
+off.
+WARNING: NEVER CONNECT R & C DIRECTLY,
+this will be a direct short on the 24 VAC supply • The control will remove power from relays #1
+and #2 opening C to NO. This will drop 120
+VAC to your pump and terminate the demand
+to your boiler.
+11
+=== page 16 ===
+A3 - Single master thermostat, panel radiators with TRVs, variable speed pump 12
+TRV
+TRV
+thermostatic TRV
+radiator valves
+(TRV) on each
+radiator
+TRV TRV
+TRV
+buffer tank T R W T co C m
+power
+zone
+transformer
+ZSR101
+N LL C RE N LA /O Y N 1 /C C RE N L / A O Y N 2 /C
+N T
+L T
+Hydronic diagram is for illustration purposes only, some components have been removed for simplicity.
+=== page 17 ===
+Description of terminals Sequence of Operation / Settings
+= Ground • A demand occurs from the thermostat closing
+R to W on the ZSR101 control. The “ZONE”
+N = Neutral (Common leg of 120 VAC)
+LED illuminates.
+L = Line (live leg of 120 VAC)
+• The ZSR101 control will power relay #1 and
+C = Common terminal #2 closing C to NO.
+NO = Normally Open terminal • The NO terminal of relay #1 will send out
+120 VAC to your pumps. Relay #2 provides
+NC = Normally Closed terminal
+a dry contact closure to signal the boiler of a
+demand.
+Note: There is a factory installed jumper between the 120
+VAC line (L) and the common terminal of relay #1 (C). • NOTE: Relay #1 can be used as a dry contact
+as well by removing the factory installed
+Thermostat terminals
+jumper between L and C.
+R = 24 VAC
+• When the thermostat demand is satisfied R to
+W = Heat call
+W will open and the “ZONE” LED will turn off.
+C = Common of 24 VAC
+• The control will remove power from relays #1
+and #2 opening C to NO. This will drop 120
+VAC to your pumps and terminate the demand
+to your boiler.
+WARNING: NEVER CONNECT R & C DIRECTLY,
+this will be a direct short on the 24 VAC supply • NOTE: In this application, the single thermostat
+will be set to a slightly higher temperature
+than the desired room temperatures. The
+room temperatures will then be controlled by
+each individual thermostatic radiator valve
+by adjusting the flow through the radiator
+making this a fitting application for a variable
+speed (ECM) pump (between the buffer tank
+and radiators). When the temperature drops
+below the set point of the thermostat the
+boiler will maintain the buffer tank at its target
+temperature. Ideally, the boiler will operate on
+an outdoor reset curve to maximize efficiency
+and use a system temperature sensor located
+in the upper portion of the buffer tank.
+13
+=== page 18 ===
+14
+ZSR10X
+- Multi-Zone Pump Control
+Overview
+• Compatible with low voltage 2, 3, or 4 wire
+thermostats
+• R, W, C and TT Comm dual labeling at thermostat
+terminals
+• Z-oneLink unlimited zone expansion
+• 120 VAC pump outputs
+• Selectable priority with 1 hour time-out feature
+• Selectable post purge and exercise
+• Dry contacts (XX, AUX, ZONE 1 E/S) capable of
+switching line voltage
+Certified to CSA C22-2 No.24 • High capacity transformer
+Conforms to UL Standard 873
+• Large terminal connections
+4009064
+• Simplifi ed wiring with extra ground terminals
+• Heavy duty sealed relays
+• Fuse protected (with spare fuse)
+• Front LED lights
+• 100% Factory tested with 3 year warranty
+• ETL approved
+See technical brochure 01286 NA for more product
+information.
+=== page 19 ===
+AUX closes on a X X closes on a ZONE1 /ES closes Dual labeled
+demand for heat demand for heat only during a T-stat terminals.
+from any zone. from any zone. demand from zone 1. Compatible with
+3 wire
+Rated for Rated for Rated for 2, 3 and 4 wire Selectable DIP communications to
+120 VAC 120 VAC 120 VAC T-stats. switches. expansion board. Power ON LED.
+2 Amps. 2 Amps. 2 Amps.
+LED for each
+zone.
+Replaceable
+fuses (2 extra
+included under
+cover).
+120 VAC input
+power connection Multiple ground 120 VAC primary
+connections for 120 VAC zone pump output.
+easy wiring. pump outputs.
+15
+=== page 20 ===
+16
+Cover removal
+Hold either the left or the right end Insert screwdriver and push tab Roll cover off base.
+of the box up and at an angle. Use inward, cover should release from
+body for stabilizing relay box. base.
+Mounting: Do not mount to a surface that exceeds 115°F (45°C). The unit must
+be only located in dry interior locations. Use only copper conductor supply wire
+suitable for at least 105° C. All circuits must have a common disconnect and be
+connected to the same pole of the disconnect. It is not suitable for installation
+in hazardous locations.
+=== page 21 ===
+AUX X X AUZXONE X1 XA Z U ON X E 1 RX XW ZO C NER 1 R W W C C RR R WW W CC C RR R WW W CC C RR R WW W CC C RR R WW W CC C RR WW CC D R P W CD P D P
+E / S E / S T T CO E M / ST T T TCOCMOM TT T TTC TCOOM CMOM TT T TTC TCOOM CMOM TTT TTT CCOOC M OMM TTT TTTCCOCOMOMMTT TT CCOOMMCTOMMST COMCOMMS COMMS
+T-STAT 1 T-TS-TSATTA T1 2 TT-S-TST-TSAATTTA 1 T2 3 TT-S-TST-STAATTAT 2 T3 4 TT--STS-TSTAATTAT 3T 4 5 TT-S-TS-TSTATATAT 4T 5 6 TT-S-STTAATT 5 6 T-STAT 6
+Maintenance and Repair: The Caleffi Z-one™ multi-zone pump control The ZSR series of control is
+comes with two spare fuses. If control fails or is damaged, replace control with programmed by positioning five dip
+MASTER MASTESRLAVE
+MASTESRLAVPEOWERSLAVPEOWER POWER
+functional one. switches for the following operations.
+PRIORITY ON PRIORITY OONFFPRIORITY OONFF OFF
+Master / Slave: allows for unlimited
+A Bo U il X er c X onn X ectZiOoNnEs 1: R W C R W C R W C R W C expa R nsion W to a C dditi R onal W ZVR C o R r E Z M S O R T E ENABRL D EE MOONT P E ENABLREE OMONOFTFE ENABLE OONFF ZONE1 OFF ZONE1 ZONE1
+XX = Dry contEa c/ St rated up toT 120T VCAOCM, 2T AmpTs,C OM T T COM T T COM T T COM T T COM COMMS
+relays. Only one Master. EXERCISE ON EXERCISE OONFFEXERCISE OONFF OFF
+which is typically connected to TT-TS ToAn Tb 1oiler Tco-SntTroAlT, 2 T-STAT 3 T-STAT 4 T-STAT 5 T-STAT 6
+closes when any zone calls including priority. AUX X X ZONE 1 PriorRity OWN /C OFFR: WWhePnO SCpT rPioUrRRitGy E ZW POONSET C# 1P UORNR GE Z P O WO N S E T # 1 CP O UON RFGRFE ZOWNE#1 CO O N FF R ZO W NE2 COFF ZONE2 D P ZONE2
+E / S switcTh is TOCNO,M upTon dTemCOanMd Tto T COM T T COM T T COM T T COM COMMS
+ZONE 1 E/S = Dry contact rated up to 120 VAC, 2
+Amps, will close with any call to ZONE 1. Zone 1 can TSTATT -S1 T, AZTO N1E 1 M T A w- S Si T ll T E R AopTe 2rate aTs- SpTr S io L A A rTi V ty E 3 and Ta-lSl oTtAheTrP 4zOoWneE Ts R -aSrTe AteTm 5porarTily- Z S O T N A E T 3 6 ZONE3
+switched off (with 1 hour time-out). When priority is OFF, any zones that were ZONE3
+be enabled as a priority zoneT,R tyApNicSaFllyO uRsMedE fRor heatinTgR dAoNmSeFsOticR hMotE wRater. The PRIORITY ON OFF
+TRANSFORMER active when ZONE 1 was switched on will remain on.
+ZONE 1 E/S can be used to close a DHW contact on boiler controls equipped
+ZRSemRot1e R E0E M n O6a T b E l E e N O AB N L E /Z O O N FSF:R Wh1en0 re6O m F o F te enable modeZ isO NONE,1 the board MwAilZSl TOENRE4 SLAVE ZONE4 POWER
+with these features. AUX = Dry contact, rated up to 120 VAC, 2 Amps, close ZSR106 ZONE4
+hold off all zonEeXsE RwCaISitiEn gO Nfor an externaOl F2F4 - 120 VAC voltage from the bPoRiIlOerR.I TY ON OFF
+when any zone calls and can be used as signal to a variable speed self 6 Zone 6 Zone
+regulated pump or other controls. ExePrOcSisT eP UORNG6 E/ OZZOFNoFE:n# W1e OhNen exercise mOoFdFe is ON, each cir Z c O ula N to E r 2 R is E s M w O i T tc E h E e N d A o BL nZE O ONNE5 ZO O N F E F 5 ZONE5 ZONE1
+for 30 seconds following 72 hours of inactivity.
+EXERCISE ON OFF
+C C o o m nn m ec u t n t i e c r a m tio in n a l c s o to n n m e a c t t c io h n in s g : terminal of slave boards P op o e s r t a P ti u ng rg f e o r Z 2 o n m e i n # u 1 t O es N a / f t O e F r F th : e W p h r e io n r it p y o z s o t n p e u r i g s e s w is it O c N he , d Z o Z O n O F e F PN 1 . OE p S3 u T m PU p R c G o E n t Z in O u N e E s # Z 1 O O N N E6 ZO O N F E F 6 ZONE6 ZONE2
+TRANSFORMER
+AUX X X ZONE 1 R W C R W C RD toW D,C P tRo P,W GroCundR to WGrouCnd. RUseW 18 Cgauge D P
+E / S T T COM T T COM TthermT oCsOtaMt wTire aTndC Oit MshoTuld TbeC sOhMieldTed ifT loCcOaMted in ZSCROMM1S06 ZONE4 ZONE3
+T-STAT 1 T-STAT 2 Tc-loSsTeA pTr o3ximTity-S tTo AhTig 4h volTta-SgeT AwTir i5ng. T-STAT 6 Primary pump output:
+TRANSFORMER
+I L n p = u t L i P n o e w (h e o r t : leg) of 12L0 P V O A W CN E R su IN ppl P y OWMEA G RS R TI O NER UN L D P S OW G N E R R O R 2I U E N4 S M LN - O L D 1 A TE 2 SV 0 E E 6 N V N A A B C L Z G E RR o 2 OE 4 M Pn U - O P L R N 1 T e U I E 2 D O M 0 ES R N P PV A I A T NO B 1 Y C LE WE R 2 E R PP L 4 M PL R U - O U IM 1 T O P s uM E 2 P t s R r 0a E P i i N m I N 2 n tVT N1 A u g AY B a s C L r t E y h d e u p P L P r U u j P i uU n M m P L R mM gU P Ip O Pp M N 3 p R e r 2 Pr uI r i T N o n 1 p Y r s i i t n P L y w sP U . h ( U M oP L e M n P U n \ PN M 4 o a 3 Pf n f) N 2 y c z aP L o Z nU P n M U e bP L S M P eU p NP 5 M u p R 4 P m ro N 3 p g 1 rP L r a u U P 0 m n M U s P L mP M 6 . U NP 6e I M t d s 5 P N 4 P LP R P U I U P L M Z M M U A O P M P R N N 6 P Y E N 5 5 PP L R P P U S I D U M R T M U M I A A O P R P R T R I N 6 U N Y IT S G Y P L R PS I D U M T U M A A R P R T NI U N Y S G P S D R T U I A O R T R I U N IT S G Y ZONE4
+N N o t = = e : N G w e r u o h t u e r n a n l d o c f o n 1 n 2 e 0 c V ti A ng C 2 o R r E m MO o L T re E P R E Z I N O - A o R N B n IT L e Y E O O N N O O F F F F L N ZONE1 L L N = = N L N in e e u t ( r L h a o l t l e le g N g o ) f o 1 f 2 1 L 0 2 0 V A V C A N C to t o p o L p w ow e 6 r e N t r Z h t e h o e p n u p L m u e m p p N L ZONNE6 L O N N O F F P O N RIORIT O F F Y O N O F F ZONE5
+controls, all controls must be pow E e X r E e R d C b IS y E O th N e same 120 O V FF AC circuit. Status During Priority ON / OFF: If priority is enabled and the jumper is ZONE6
+POST PURGE ZONE#1 ON OFF ZONE2 placed on the ON pins, the primary pump will continue to operate during ZONE
+Zone pump outputs:
+1 demand. When jumper is placed on OFF pins, the primary pump will be OFF
+REMOTE ENABLE PRIORITY PRIMARY STATUS
+ZPoOnWeE RIpNumps GrRuOnU NDwShen
+24 - 120 VAC PUMP1 PUMP2 PUMPZ3ONEP3UMdPur4ing ZOPUNMEP 15 demPaUndM.P6 PUMP DURING
+TRANSFORMER LcorrNesponding thermostat L N L N L N L N L N L N L N L N PRIORITY
+Z i G n S i R tia OR te U s N1 a D 0 d e 6= m an C d o . nnect the POWERIN GZROOUNNED4S R 2 E 4 M - O 1 TE 2 W 0 E A N V A R A B N C LE ING: P NP R EU I V O ME R RP I T C1 Y ONNEPCUT MR P& 2C DIREPCUTLMYP, O N t3his will bP O F FeU aM dPire4ct shorPt UonM tPhe5 24 VAPCU MP6 PR P I U M M A P RY S D T U A R T I U N S G
+ground from the pump to the L N L supNply. L N L N L N L N L N L N L N PRIORITY
+6 Zone
+O
+ground terminal. PRIORITY PUMP = Runs when zone #1 calls. Can ZbOe NE5 O F
+N F
+programmed to be the priority zone. L = Line (hot leg) of 120 VAC to power
+WARNING: When connecting 2 or more Z-one controls, all controls must be powered by
+the pump, N = Neutral leg of 120 VAC to power the pump. Remote EnabZlOe NE6 the same 120 VAC circuit.
+allows for input of 24-120 VAC from a boiler to allow the zone pumps to
+operate. When power is removed from Remote Enable, zone pumps will
+not be allowed to operate. This is useful during warm weather shut down to WARNING: When replacing fuses, make sure power is disconnected to control box.
+stop zone pumps from running or if your boiler controls are used to handle
+REMOTE ENABLE PRIORITY PRIMARY STATUS
+POWERIN GROUNDS 24 - 120 VAC PUMP1 PUpMrPio2rity (DPUHMWP)3 demPaUnMdP a4nd nePeUdM Pth5e zonPUeM pPu6mps to PbUeM oPff during DthUeR IpNrGiority
+L N L N L N L demNandL. EveNn witLh poNwer rLemovNed frLom RNemoteL EnaNble, the P Z R S IO R R I b T o Y ard
+stays powered to supply power to the thermostats. O N O F F 17
+=== page 22 ===
+18
+1
+pmuP
+L
+N
+2
+pmuP
+3
+pmuP
+4
+pmuP
+B1 - Mod/con boiler, hydro separator or buffer tank, zone pumps
+Buffer tank- Optional hydraulic
+separator
+AUX XX ZONE 1 R W C R W C R W C R W C R W C R W C D P
+E / S T TCOM T TCOM T TCOM T TCOM T TCOM T TCOM COMMS
+T-STAT 1 T-STAT 2 T-STAT 3 T-STAT 4 T-STAT 5 T-STAT 6
+MASTER SLAVE POWER
+PRIORITY ON OFF
+REMOTE ENABLE ON OFF ZONE1
+EXERCISE ON OFF
+POST PURGE ZONE#1 ON OFF ZONE2
+ZONE3
+TRANSFORMER
+ZSR106 ZONE4
+6 Zone
+ZONE5
+ZONE6
+POWERIN GROUNDS R 2 E 4 M - O 1 TE 2 0 E N V A A B C LE P P R U IO M R P IT 1 Y PUMP2 PUMP3 PUMP4 PUMP5 PUMP6 PR P I U M M A P RY S D T U A R T I U N S G
+L N L N L N L N L N L N L N L N L N PRIORITY
+ON OFF
+Hydronic diagram is for illustration purposes only, some components have been removed for simplicity.
+=== page 23 ===
+Description of terminals Sequence of Operation / Settings
+= Ground
+• Master / Slave switch: Master
+N = Neutral (Common leg of 120 VAC)
+• Priority Switch: OFF
+L = Line (Hot leg of 120 VAC)
+• Remote Enable Switch: OFF
+Thermostat terminals
+R = 24 VAC • Exercise Switch: OFF
+W = Heat call • Post Purge Zone 1 Switch: OFF
+C = Common of 24 VAC
+• Status During Priority Jumper: OFF
+Boiler terminals
+• A demand occurs from any thermostat closing
+XX = Dry contact rated up to 120 VAC, 2 Amps, R to W. The “PUMP ON” LED illuminates for
+which is typically connected to TT on boiler control, the corresponding zone.
+closes when any zone calls including priority.
+• ZSR control sends 120 VAC to corresponding
+ZONE 1 E/S = Dry contact rated up to 120 VAC, 2
+zone pump and the primary pump output.
+Amps, will close with any call to ZONE 1. Zone 1
+The control will close the XX contacts to signal
+can be enabled as a priority zone, typically used for
+the boiler of a demand.
+heating domestic hot water. The ZONE 1 E/S can
+• When the demand from the last thermostat
+be used to close a DHW contact on boiler controls
+calling is satisfied (thermostat opens R to W),
+equipped with these features. AUX = Dry contact,
+the XX contacts are opened and the “PUMP
+rated up to 120 VAC, 2 Amps, close when any zone
+ON” LED turns off. The 120 VAC to the zone
+calls and can be used as signal to a variable speed
+pump and primary pump outputs are dropped.
+self regulated pump or other controls.
+Dip switch description
+Master / Slave: allows for unlimited expansion to
+additional ZVR or ZSR relays. Only one Master.
+Priority ON / OFF: When priority switch is ON, upon
+demand to TSTAT 1, ZONE 1 will operate as priority and
+all other zones are temporarily switched off (with 1 hour
+time-out). When priority is OFF, any zones that were
+active when ZONE 1 was switched on will remain on.
+Remote Enable ON / OFF: When remote enable
+mode is ON, the board will hold off all zones waiting
+for an external 24 - 120 VAC voltage from the boiler.
+Exercise ON / OFF: When exercise mode is ON,
+each circulator is switched on for 30 seconds
+following 72 hours of inactivity.
+Post Purge Zone #1 ON / OFF: When post purge is
+ON, Zone 1 pump continues operating for 2 minutes
+after the priority zone is switched OFF.
+WARNING: NEVER CONNECT R & C DIRECTLY,
+this will be a direct short on the 24 VAC supply
+19
+=== page 24 ===
+20
+DHWaquastat
+TT
+DHW
+outdoor
+temperature sensor
+2
+pmuP
+boiler
+high limit
+control
+DHW
+aquastat
+L
+N
+1
+pmuP
+3
+pmuP
+4
+pmuP
+5
+pmuP
+6
+pmuP
+B2 - Traditional boiler, indirect DHW w/ priority, zone pumps
+AUX XX ZONE 1 R W C R W C R W C R W C R W C R W C D P
+E / S T TCOM T TCOM T TCOM T TCOM T TCOM T TCOM COMMS
+T-STAT 1 T-STAT 2 T-STAT 3 T-STAT 4 T-STAT 5 T-STAT 6
+POWER
+MASTER SLAVE ZONE1
+PRIORITY ON OFF
+REMOTE ENABLE ON OFF ZONE2
+EXERCISE ON OFF
+TRANSFORMER POST PURGE ZONE#1 ON OFF ZONE3
+ZSR106 ZONE4
+6 Zone
+ZONE5
+ZONE6
+POWERIN GROUNDS R 2 E 4 M - O 1 TE 2 0 E N V A A B C LE P P R U IO M R P IT 1 Y PUMP2 PUMP3 PUMP4 PUMP5 PUMP6 PR P I U M M A P RY S D T U A R T I U N S G L N L N L N L N L N L N L N L N L N PRIORITY
+ON OFF
+Hydronic diagram is for illustration purposes only, some components have been removed for simplicity.
+=== page 25 ===
+Description of terminals Sequence of Operation / Settings • Once the DHW aquastat (T-STAT 1) is satisfied
+it will open R to W and 120 VAC to PRIORITY
+= Ground
+• Master / Slave switch: Master
+PUMP 1 is dropped. The ZONE 1 E/S contacts
+N = Neutral (Common leg of 120 VAC)
+• Priority Switch: ON open.
+L = Line (Hot leg of 120 VAC)
+• Remote Enable Switch: OFF • If a call for heat exists from zones 2-6 the
+Thermostat terminals
+corresponding “PUMP ON” LED will illuminate
+R = 24 VAC • Exercise Switch: OFF
+and 120 VAC will be delivered to those zone
+W = Heat call • Post Purge Zone 1 Switch: OFF
+pumps. The XX contacts will remain closed to
+C = Common of 24 VAC
+• Status During Priority Jumper: OFF signal a heating demand to the boiler.
+Boiler terminals
+• A demand occurs from a thermostat on zones • When all the thermostat demands are satisfied
+XX = Dry contact rated up to 120 VAC, 2 Amps, 2-6 closing R to W. The “PUMP ON” LED R to W will open and the “PUMP ON” LEDs
+which is typically connected to TT on boiler control, illuminates for the corresponding zone. will turn off. The XX contacts will open
+closes when any zone calls including priority. • ZSR control sends 120 VAC to corresponding terminating the demand for heat to the boiler.
+ZONE 1 E/S = Dry contact rated up to 120 VAC, 2 zone pump. The control will close the XX The 120 VAC is dropped to all of the zone
+Amps, will close with any call to ZONE 1. Zone 1 contacts to signal the boiler of a demand. The pumps.
+can be enabled as a priority zone, typically used for
+PRIMARY PUMP output will also deliver 120 DHW Time Out \ Freeze Prevention Feature
+heating domestic hot water. The ZONE 1 E/S can
+VAC even if no pump is wired to it.
+• After one hour of a priority demand, the control
+be used to close a DHW contact on boiler controls
+• When the demand from the thermostat is will open the ZONE 1 E/S contacts and drop
+equipped with these features. AUX = Dry contact,
+satisfied R to W will open and the “PUMP ON” power to PRIORITY PUMP 1.
+rated up to 120 VAC, 2 Amps, close when any zone
+LED for the corresponding zone will turn off.
+calls and can be used as signal to a variable speed • If a call for heat exists from zones 2-6, the
+• 120 VAC is dropped to the corresponding control will satisfy those demands before
+self regulated pump or other controls.
+zone pump terminals. going back to the priority demand.
+Dip switch description
+• If no other zones are calling for heat, 120 VAC • After zones 2-6 have been satisfied, the
+Master / Slave: allows for unlimited expansion to
+is dropped to the PRIMARY PUMP and the XX control will go back to the priority demand and
+additional ZVR or ZSR relays. Only one Master.
+contacts will open terminating the demand for reset the one hour timer.
+Priority ON / OFF: When priority switch is ON, upon
+heat to the boiler.
+demand to TSTAT 1, ZONE 1 will operate as priority and
+• If a demand occurs from the DHW aquastat
+all other zones are temporarily switched off (with 1 hour
+(T-STAT 1), the “PUMP ON” LED illuminates for
+time-out). When priority is OFF, any zones that were
+zone 1.
+active when ZONE 1 was switched on will remain on.
+Remote Enable ON / OFF: When remote enable • If any other zone was calling for heat (zones
+2-6) when zone 1 is calling 120 VAC is dropped
+mode is ON, the board will hold off all zones waiting
+to the pumps on zones 2-6.
+for an external 24 - 120 VAC voltage from the boiler.
+Exercise ON / OFF: When exercise mode is ON, • The XX and the ZONE 1 E/S contacts close
+each circulator is switched on for 30 seconds to signal a DHW demand to the boiler.
+following 72 hours of inactivity. • The PRIORITY PUMP 1 output delivers 120
+Post Purge Zone #1 ON / OFF: When post purge is VAC.
+ON, Zone 1 pump continues operating for 2 minutes
+after the priority zone is switched OFF.
+WARNING: NEVER CONNECT R & C DIRECTLY,
+this will be a direct short on the 24 VAC supply
+21
+=== page 26 ===
+22
+1
+pmuP
+L
+N
+2
+pmuP
+boiler pump
+Primary pump
+AUX XX ZONE 1 R W C R W C R W C D P
+E / S T T COM T T COM T T COM COMMS
+T-STAT 1 T-STAT 2 T-STAT 3
+POWER
+MASTER SLAVE
+ZONE1
+PRIORITY ON OFF
+REMOTE ENABLE ON OFF
+ZONE2
+EXERCISE ON OFF
+TRANSFORMER POST PURGE ZONE#1 ON OFF ZONE3
+ZSR103
+3 Zone
+REMOTE ENABLE PRIORITY PRIMARY STATUS
+POWERIN GROUNDS 24 - 120 VAC PUMP1 PUMP2 PUMP3 PUMP DURING
+L N L N L N L N L N L N PRIORITY
+ON OFF
+boiler pump
+Primary pump
+3
+pmuP
+B3 - Mod/Con boiler, primary loop, closely spaced tees, zone pumps
+Pump 1
+Pump 2
+Pump 3
+Hydronic diagram is for illustration purposes only, some components have been removed for simplicity.
+=== page 27 ===
+Description of terminals Sequence of Operation / Settings
+= Ground
+• Master / Slave switch: Master
+N = Neutral (Common leg of 120 VAC)
+• Priority Switch: OFF
+L = Line (Hot leg of 120 VAC)
+• Remote Enable Switch: OFF
+Thermostat terminals
+R = 24 VAC • Exercise Switch: OFF
+W = Heat call • Post Purge Zone 1 Switch: OFF
+C = Common of 24 VAC
+• Status During Priority Jumper: OFF
+Boiler terminals
+• A demand occurs from any thermostat closing
+XX = Dry contact rated up to 120 VAC, 2 Amps, R to W. The “PUMP ON” LED illuminates for
+which is typically connected to TT on boiler control, the corresponding zone.
+closes when any zone calls including priority.
+• ZSR control sends 120 VAC to corresponding
+ZONE 1 E/S = Dry contact rated up to 120 VAC, 2
+zone pump and the primary pump output.
+Amps, will close with any call to ZONE 1. Zone 1
+The control will close the XX contacts to signal
+can be enabled as a priority zone, typically used for
+the boiler of a demand.
+heating domestic hot water. The ZONE 1 E/S can
+• When the demand from the last thermostat
+be used to close a DHW contact on boiler controls
+calling is satisfied (thermostat opens R to W),
+equipped with these features. AUX = Dry contact,
+the XX contacts are opened and the “PUMP
+rated up to 120 VAC, 2 Amps, close when any zone
+ON” LED turns off. The 120 VAC to the zone
+calls and can be used as signal to a variable speed
+pump and primary pump outputs are dropped.
+self regulated pump or other controls.
+• ALTERNATE WIRING: The boiler pump can be
+Dip switch description
+controlled by the boiler if it is equipped to do
+Master / Slave: allows for unlimited expansion to so.
+additional ZVR or ZSR relays. Only one Master.
+Priority ON / OFF: When priority switch is ON, upon
+demand to TSTAT 1, ZONE 1 will operate as priority and
+all other zones are temporarily switched off (with 1 hour
+time-out). When priority is OFF, any zones that were
+active when ZONE 1 was switched on will remain on.
+Remote Enable ON / OFF: When remote enable
+mode is ON, the board will hold off all zones waiting
+for an external 24 - 120 VAC voltage from the boiler.
+Exercise ON / OFF: When exercise mode is ON,
+each circulator is switched on for 30 seconds
+following 72 hours of inactivity.
+Post Purge Zone #1 ON / OFF: When post purge is
+ON, Zone 1 pump continues operating for 2 minutes
+after the priority zone is switched OFF.
+WARNING: NEVER CONNECT R & C DIRECTLY,
+this will be a direct short on the 24 VAC supply
+23
+=== page 28 ===
+24
+1
+pmuP
+L
+N
+2
+pmuP
+3
+pmuP
+4
+pmuP
+B4 - Mod/con boiler with warm weather shut down, hydro separator or buffer tank, zone pumps
+Buffer tank- Optional hydraulic
+separator
+Boiler with outdoor reset/
+warm an w d e p a u t m he p r c s o h n u t t r o d l own AUX XX ZO E N / E S 1 R T W TCO C M R T W TCO C M R T W TCO C M R T W TCO C M D COM P MS
+T-STAT 1 T-STAT 2 T-STAT 3 T-STAT 4
+MASTER SLAVE POWER
+Boiler PRIORITY ON OFF
+Pump REMOT E E X E E N R A C B IS LE E O O N N O O F F F F ZONE1
+Output POST PURGE ZONE#1 ON OFF ZONE2
+120VAC
+ZONE3
+TRANSFORMER
+ZSR104 ZONE4
+4 Zone
+POWERIN GROUNDS R 2 E 4 M - O 1 TE 2 0 E N V A A B C LE P P R U IO M R P IT 1 Y PUMP2 PUMP3 PUMP4 PR P I U M M A P RY S D T U A R T I U N S G
+L N L N L N L N L N L N L N PRIORITY
+ON OFF
+Hydronic diagram is for illustration purposes only, some components have been removed for simplicity.
+=== page 29 ===
+Description of terminals Sequence of Operation / Settings • When the demand from the last thermostat
+calling is satisfied (thermostat opens R to W),
+= Ground
+• Master / Slave switch: Master
+the XX contacts are opened and the “PUMP
+N = Neutral (Common leg of 120 VAC)
+• Priority Switch: OFF ON” LED turns off. The 120 VAC to the zone
+L = Line (Hot leg of 120 VAC)
+pump and primary pump outputs are dropped.
+• Remote Enable Switch: ON
+Thermostat terminals
+R = 24 VAC • Exercise Switch: ON
+W = Heat call • Post Purge Zone 1 Switch: OFF
+C = Common of 24 VAC
+• Status During Priority Jumper: OFF
+Boiler terminals
+• A demand occurs from any thermostat closing
+XX = Dry contact rated up to 120 VAC, 2 Amps, R to W.
+which is typically connected to TT on boiler control,
+• ZSR control closes XX contacts to signal the
+closes when any zone calls including priority.
+boiler of a demand. Boiler receives demand
+ZONE 1 E/S = Dry contact rated up to 120 VAC, 2
+and fires. Boiler control sends 120 VAC to
+Amps, will close with any call to ZONE 1. Zone 1
+boiler pump output.
+can be enabled as a priority zone, typically used for
+• ZSR control receives 120 VAC at REMOTE
+heating domestic hot water. The ZONE 1 E/S can
+ENABLE terminals from boiler pump output.
+be used to close a DHW contact on boiler controls
+The “PUMP ON” LED illuminates for the
+equipped with these features. AUX = Dry contact,
+corresponding zone. ZSR control sends 120
+rated up to 120 VAC, 2 Amps, close when any zone
+VAC to corresponding zone pumps and the
+calls and can be used as signal to a variable speed
+primary pump output.
+self regulated pump or other controls.
+• NOTE: Boilers equipped with a warm weather
+Dip switch description
+shutdown feature will not power the boiler
+Master / Slave: allows for unlimited expansion to pump output if outdoor temperature is above
+additional ZVR or ZSR relays. Only one Master. the warm weather shutdown setpoint. In this
+Priority ON / OFF: When priority switch is ON, upon case the ZSR control will not receive 120 VAC
+demand to TSTAT 1, ZONE 1 will operate as priority and at the REMOTE ENABLE terminals. Without
+all other zones are temporarily switched off (with 1 hour power (24 – 120 VAC) at the REMOTE ENABLE
+time-out). When priority is OFF, any zones that were terminals the ZSR control will not send 120
+active when ZONE 1 was switched on will remain on. VAC to any pumps wired to the ZSR control.
+Remote Enable ON / OFF: When remote enable • NOTE: The REMOTE ENABLE terminals are
+mode is ON, the board will hold off all zones waiting only using the power applied to them as a
+for an external 24 - 120 VAC voltage from the boiler. signal to allow the pumps wired to the ZSR
+Exercise ON / OFF: When exercise mode is ON, control to operate. The power applied to
+each circulator is switched on for 30 seconds the REMOTE ENABLE terminals is not used
+following 72 hours of inactivity. to power any of the pumps wired to the ZSR
+Post Purge Zone #1 ON / OFF: When post purge is control.
+ON, Zone 1 pump continues operating for 2 minutes
+after the priority zone is switched OFF.
+WARNING: NEVER CONNECT R & C DIRECTLY,
+this will be a direct short on the 24 VAC supply
+25
+=== page 30 ===
+26
+ZVR10X
+- Multi-Zone Valve Control
+Overview
+• Compatible with low voltage 2, 3, or 4 wire thermostats
+• R, W, C and TT Comm dual labeling at thermostat
+terminals
+• Z-oneLink unlimited zone expansion
+• Selectable priority with 1 hour time-out feature
+• System pump and Secondary pump status selectable
+during priority
+• Pumps will start only after the zone valve end switch
+is closed
+• Dry contacts (XX, AUX, ZONE 1 E/S) capable of
+switching line voltage
+Certified to CSA C22-2 No.24
+• Large terminal connections
+Conforms to UL Standard 873
+• High capacity 40 VA transformer standard for 3 and
+4009064
+4 zone models-expandable to 80 VA, and 80 VA for
+the 6 zone model
+• Automatic resettable fuse
+• Controls system pump, secondary pump, and
+zone #1 pump
+• Front LED Lights
+• 100% Factory tested with 3 year warranty
+• ETL approved
+See technical brochure 01285 NA for more product
+information.
+=== page 31 ===
+AUX closes on a X X closes on a ZONE1 /ES closes Dual labeled
+demand for heat demand for heat only during a T-stat terminals.
+from any zone. from any zone. demand from zone 1. Compatible with
+Rated for Rated for Rated for 2, 3 and 4 wire 3 wire
+120 VAC 120 VAC 120 VAC T-stats. communications
+2 Amps. 2 Amps. 2 Amps. to expansion
+board.
+Dip switches
+Power ON LED.
+Transformer
+connections.
+LED illuminates
+when end switch
+closes.
+LED illuminates
+with call for
+heat.
+120 VAC input
+power connection.
+System pump
+120 VAC Zone valve
+output to (boiler pump) ZONE #1 Zone valve motor end switch
+pumps. status during priority. connections. connection.
+priority can be
+changed with
+jumper.
+27
+=== page 32 ===
+Cover removal
+28
+Hold either the left or the right end Insert screwdriver and push tab Roll cover off base.
+of the box up and at an angle. Use inward, cover should release from
+body for stabilizing relay box. base.
+Transformer Installation
+Mount box on stable surface using Remove transformer(s) from Slide bottom end of transformer Snap top of transformer into latch
+level. packaging. into bottom latch. arms.
+Mounting: Do not mount to a surface that exceeds 115°F (45°C). The unit must
+be only located in dry interior locations. Use only copper conductor supply wire
+suitable for at least 105° C. All circuits must have a common disconnect and be
+connected to the same pole of the disconnect. It is not suitable for installation
+in hazardous locations.
+Feed wiring through hole near the Repeat process for 2nd
+top of the transformer and insert transformer if using six valve relay
+transformer plug into the socket. box.
+=== page 33 ===
+AUX X X ZONE 1 R W C R W C R W C R W C R W C R W C D P
+E / S T T COM T T COM T T COM T T COM T T COM T T COM COMMS
+T-STAT 1 T-STAT 2 T-STAT 3 T-STAT 4 T-STAT 5 T-STAT 6
+POWER
+MASTER SLAVE
+PUMP EXERCISE ON OFF
+ZONE 1
+PRIORITY ON AOUFFX X X ZONE 1 R W C R W C R W C R W C R W C R W C D P
+E / S T T COM T T COM T T COM T T COM T T COM T T COM COMMS
+AUX ON OFF
+T-STAT 1 T-STAT 2 T-STAT 3 T-STAT 4 T-STAT 5 T-STAT 6
+ZONE 2
+DURING PRIORITY DEMAND
+ZONE 3 MASTER SLAVE POWER
+Maintenance and Repair: The Caleffi Z-one™ multi-zone valve relay comes Thermostat connections
+R = 24 VAC.
+with a automatic resettable fuse and requires no maintenance. If control fails or ZVR106 PRIORITY ON OFF
+is damaged, replace control with functional one. W = Heat call ZONE 4 REMOTE ENABLE ON OFF ZONE1
+6 Zone C = Common of 24 VAC
+EXERCISE ON OFF
+B XX oi l = e r D c ry o n c n o e n c ta ti c o t n ra s t : e d up to 120 VAC, 2 Amps, which AUX A X UX X X ZO E N / X E S 1 ZO E N / E S 1 R T W T C R T O C M W R T T C W O C T M CO CR T M R T W T C W T O C M CO CH toM R e T W atR T . d W T emW T C a O C n C M d O C M is R T R T init W ia T Wt T e C d C O C O Cb M M y c R T R T losinWW T T g C R C Z O C O CO M M NER T 5POW T ST P C D U O C C R M O G M E P M ZO S NE#1 OND COM P MS OFF ZONE2
+is typically connected to TT on boiler control, closes T-STAT 1 T-STAT 2 T-STAT 3 T-STAT 4 T-STAT 5 T-STAT 6
+when any zone calls including priority. ZONE 1 E/S = AUX X X ZONE 1 R W T- C STA R T 1 W T- C STA R T 2 W 24T -V C SATCA R Tis 3al W waTys- C S pTrAes R Te n4t W beTtw- C SeTenA R TR Z 5 ON W E T 6 - C STAT 6 D P ZONE3
+E / S T T COM T T COM T T & C C . O M T T COM T T COM T T COM COMMS
+Dry contact rated up to 120 VAC, 2 Amps, will close TRANSFORMER
+with any call to ZONE 1. Zone 1 can be enabled as a priori S ty T A zo TU n S e , D t U yp R i I c N a G ll y T-STAT 1 T-STAT 2 T-STAT 3 T-STAT 4 T-STA M T A 5 S T T - E S R ATT-STATV A6L SL V A E VE POWER
+ZONE #1 DEMAND ZSR10 C6ALL OPEN POWER ZONE4
+used for heating domestic hot water. The ZONE 1 E/S can be used to close Zone valve connections PRIORITY ON OFF
+O O MASTER SLAVE
+a DHW contact on boiler controls equipped with these fea O Ntures. F FAUX O N = DryF F PUMP EXERCISE ON Moto O r F = F 24 VAC tRoE MpOo 6 Tw Ee Z ErN o tAh n BeL e Ez OoNn M e A STER OFF SLAVE ZONE1 POWER ZONE5
+contact, rated up to 120 VACPO, W2 EARm IpNs, close whZeOnN aEn #y1 zone cSaElCls and cSaYnS TbEeM valve motor EXERCISE ON OFF ZONE 1
+PUMP PUMP PUMP ZONE1 ZPORNIOER2ITY ON ZONE3 OFF ZONE4 ZONE5 PRIORITZYO ONNE6 OFF
+used as signal to a variablLe speeNd self regulated p
+L
+ump
+N
+or othLer coNntrols.
+L N END END EENnDd Switch = CEPNoODnSnTe PcUtRs GtoE ZeOnNEdEN #sD1w OitNch ENDOFF
+Communication connections: MOTOR SWITCH MOTOR SWAITUCXH OMNOTOR SW o I n TC z H o OM n FO e F T v O a R lve SW . I T M CH us M t O b TO e RR E ju MS m WO p TIT e EC r HE e N d MA O i B f T LOER ONSWITCH OFF ZONE2 Z Z O O N N E E 1 2 ZONE6
+ConnAecUt XtermXinaXls to ZO m NE a 1 tching terminRal oWf slavCe boRardsW C R W C R W C R W C R W C D P EXERCISE ON OFF
+DURING PRIORITuYs DinEgM aA N2D –wire zone valve.
+AUX X X ZONE 1 R W C R W CD tRo DW, P Cto RP, GW E ro / u S Cnd tRo GWrounT Cd. UR TseC W O1M8 CgTaugeT COM D T P T COM T T COM T T COM T T COM COMMS POST PURGE ZONE#1 ON OFF ZONE3 ZONE2
+E / S T T COM T T COMtherTmosTtatC OwMire TandT it CsOhMoulTd beT sChO T ieM - ld S e T Td A T if T 1 locCaOtMe T d -S in T AT 2TRA C NT O - M SS M FTO S ARTM 3ER T-ST I A n T p u 4 t po T w -S er TAT 5 T-STAT 6 ZONE 3
+T-STAT 1 T-STAT 2closTe- SpTroAxTim 3ity tTo -hSiTgAh Tv o4ltagTe -wSTirAinTg 5 T-STAT 6 ZSRREM1OTE0 L EN 6A = BL E LineP R( Z hIOoRt V I TleYg R ) of 1 12 0 0 6 VAC supply ZONE4 PRIMARY STATUS
+POWERIN GROUNDS 24 - 12N0 V =AC NeutPrUalM oPf1 120 VPUAMCP2 PUMP3 PUMP4 PUMP5 PUMP6 ZPUOMNPE3 DURING
+The ZVR series of controls is TRANSFORMER L N 6 ZoLne N = Grou L nds 6NP OZWo LEnRe N L N L N L N L N L ZON N E 4 PRIORITY
+programmed by the dip switches MASTER MASTER SLAVE SLAVE POWER ZONE5 O O F
+which can be positioned for the PRIORITY ON OFF ZSR106 Z Z O O N N E E 4 5 N F
+PUMP EXERCISE ON OFF
+following operations. REMOTE ENABLE ON OFF ZONE1 6 Zone ZONE 1 ZONE6
+Master / Slave: allows for unlimited E XERCISE O P N RIORITY ON OFF OFF Pump outputs ZONE5
+ZONE 6
+expansion to additional ZVR PO o ST r P Z U S R R GE ZONE#1 ON AUX ON OFF OFF ZONE2 SYSTEM PUMP = Runs when any
+relays. STATUS DURING zone calls for heZatO. NE 2 T-SAT VALVE
+DURING PRIORITY DEMAND ZONE6
+Pump Exercise ON / OFF: When ZONE #1 DEMAND SEC PUMP = Runs when any zone CALL OPEN
+ZONE3 REMOTE ENABLE PRIORITY PRIMARY STATUS
+TRANSFORMER exercise mode is ON, each circulator POWERIN GROUNDS 24 - 120 VACO PUM O FP1 O PUMP O F2 P c U a M lls P f 3 or he P a U t. M P4 ZONE PU 3 MP5 PUMP6 PUMP DURING
+is switched on for 30 seconds following 72 hoursL of inaNctivity. L N N L F N N L F N LZONNE 1 PLUMPN = RLuns wNhen LzoneN 1 L N PRIORITY
+ZSR106 POWER ZINZOVNER4 10ZO6NE #1 SEC SYSTEM
+P op ri e o r r a i 6 t t y e Za O so N pn r / i eo O rit F y F a : n W d h a e ll n o t p he ri r o r z it o y n e s s w a itc re h te is m O po N r , a r u ily p o s n w i d tc e h m ed an o d Lf , f ( Z w o it n hN e 1 1 h o w u il r l 6 Zone L P R U EM M O P T N E ENABL L E PUM P P R N IORITY L PUMP N t e h n e d r m Z s O o w s N i t t E a cE t h 1 N D c h a a ll s s Z O c fo lo N Z r s O E e h N d e E 4 a .E 2 t N D a A n d ju m zo p Z n e O e r N i 1 E sE 3 ND ZO P N R E IEM 4 NADR O N Y Z O F F ON S E TE 5 ANTDUS ZONE E 6 ND
+time-out). When priority is OFF, any zones that were activPeO wWhEeRnI NZone 1 w GZR a OO s NUNED5S 24 - 120 VAC PUMP1 PUMP2re M q O u T P O irUe R Md S P W b3 I e T t C w H e M PeU O nM T O Pth R 4e SW Z I O TC PN H UEM M P O 15 T O E R N S DP W U IT M C P H 6 MOTOR S P W U I M TC P H MOTOR S D W U I R TC IN H G MOTOR SWITCH
+switched on will remain on. L N L N L N L NSWITLCH tNerminaLZlsO wNhENe 5n usLing aN pumpL N L N PRIORITY
+ZONE6 O
+AUX ON / OFF During Priority Demand: When AUX switch is ON, the AUX for ZONE 1 instead of a zone valve. O F
+N F
+dry contacts will close during a priority demand. When switch is OFF, the AUX STATUS DURING ZONE 1 DEMAND ON / OFF = When status jumper is
+ZONE 6
+dry contacts will remain open during a priority demand. placed on ON pins, the secondary and / or system pump will continue to
+STATUS DURING operate during ZONE 1 demand. When jumperT i-sS pAlTaced oVnA OLVFFE pins, the
+REMOTE ENABLE PRIORITY WARNING: NEVER CONNECT R & C ZDOIRNEEC #TL1Y D, EthMisAP wNRilIDlM bAeR aY direct shoSrTt AoTnU tSh e 24
+POWERIN GROUNDS 24 - 120 VAC PUMP1 PUMP2 PVUAMCP su3pply.PUMP4 PUMP5 PUMP6 PUMP DURING corresponding pump will be OFF during ZONE 1 dCeAmLaLnd. OPEN
+L N L N L N L N L N L N L N O L O FN O L O FN PRIORITY
+POWER IN ZONE #1 N SEC F N SYSTEM F O N O F F
+WARNING: When conn P e U c M tin P g 2 or mo P r U e M Z- P one contr P ol U s, M a P ll controls must ZbOe NpEow1ered ZONE2 ZONE3 ZONE4 ZONE5 ZONE6 29
+L Nby the same 120 VAC L circuit. N L N L N END END END END END END
+MOTOR SWITCH MOTOR SWITCH MOTOR SWITCH MOTOR SWITCH MOTOR SWITCH MOTOR SWITCH
+=== page 34 ===
+30
+C1 - Mod/Con boiler, hydro separator, zone valves
+mod/con
+boiler
+ZV1 ZV2 ZV3 ZV4 ZV5 ZV6
+SYSTEM
+pump SECONDARY
+pump
+AUX XX ZONE 1 R W C R W C R W C R W C R W C R W C D P
+E / S T TCOM T TCOM T TCOM T TCOM T TCOM T TCOM COMMS
+T-STAT 1 T-STAT 2 T-STAT 3 T-STAT 4 T-STAT 5 T-STAT 6 POWER
+ZONE 1
+MASTER SLAVE
+PUMP EXERCISE ON OFF ZONE 2
+PRIORITY ON OFF ZONE 3
+AUX ON OFF
+DURING PRIORITY DEMAND ZONE 4
+ZVR106 ZONE 5
+6 Zone ZONE 6
+STATUS DURING
+ZONE #1 DEMAND T-SAT VALVE
+ON OFF ON OFF CALL OPEN
+POWER IN ZONE #1 SEC SYSTEM
+L N L PUMP N LPUMPN L PUMP N MOTO ZO R N S E WE 1 NITDCHMOTO ZO R N S E WE 2 NITDCHMOTO ZO R N S E WE 3 NITDCHMOTO ZO R N S E WE 4 NITDCHMOTO ZO R N S E WE 5 NITDCHMOTO ZO R N S E WE 6 NITDCH
+L
+N
+SYSTEM
+pump
+ZV1 ZV2 ZV3 ZV4 ZV5 ZV6
+SECONDARY
+pump
+Hydronic diagram is for illustration purposes only, some components have been removed for simplicity.
+=== page 35 ===
+Description of terminals Sequence of Operation / Settings
+= Ground
+• Master / Slave switch: Master
+N = Neutral (Common leg of 120 VAC)
+• Pump Exercise: OFF
+L = Line (Hot leg of 120 VAC)
+• Priority: OFF
+Thermostat terminals
+R = 24 VAC • AUX During Priority Demand: OFF
+W = Heat call • System Pump Status During Zone 1 Demand
+C = Common of 24 VAC Jumper: OFF
+Boiler terminals
+• Sec Pump Status During Zone 1 Demand
+XX = Dry contact rated up to 120 VAC, 2 Amps,
+Jumper: OFF
+which is typically connected to TT on boiler control,
+• A demand occurs from any thermostat closing
+closes when any zone calls including priority.
+R to W. The “T-STAT CALL” LED illuminates
+ZONE 1 E/S = Dry contact rated up to 120 VAC,
+for the corresponding zone.
+2 Amps, will close with any call to ZONE 1. Zone
+• ZVR control sends 24 VAC to the corresponding
+1 can be enabled as a priority zone, typically used
+zone MOTOR terminals to open the zone
+for heating domestic hot water. The ZONE 1 E/S
+valve.
+can be used to close a DHW contact on boiler
+controls equipped with these features. • When the zone valve end switch closes,
+AUX = Dry contact, rated up to 120 VAC, 2 Amps, the “VALVE OPEN” LED illuminates for the
+close when any zone calls and can be used as corresponding zone. ZVR control sends
+signal to a variable speed self regulated pump or 120 VAC to SYSTEM PUMP and SEC PUMP
+outputs. The control will close the XX contacts
+other controls.
+to signal the boiler of a demand.
+Pump terminals
+SYSTEM PUMP = Runs when any zone calls for • When the thermostat demand is satisfied R
+heat. to W will open and the “T-STAT CALL” and
+SEC PUMP = Runs when any zone calls for heat. “VALVE OPEN” LEDs will turn off. 24 VAC is
+ZONE 1 PUMP = Runs when zone 1 thermostat dropped to the corresponding zone MOTOR
+calls for heat and zone 1 end switch has closed. terminals.
+A jumper is required between the ZONE 1 END • If no other zones are calling for heat the XX
+SWITCH terminals when using a pump for ZONE contacts will open terminating the demand for
+1 instead of a zone valve. heat to the boiler. The 120 VAC is dropped to
+STATUS DURING ZONE 1 DEMAND ON / OFF: the SYSTEM PUMP and SEC PUMP.
+When status jumper is placed on ON pins, the
+secondary and / or system pump will continue to
+operate during Zone 1 demand. When jumper is
+placed on OFF pins, the corresponding pump will
+be OFF during Zone 1 demand.
+Valve terminals
+Motor = 24 VAC to power the zone valve motor
+End Switch = Connects to end switch on zone WARNING: NEVER CONNECT R & C DIRECTLY,
+this will be a direct short on the 24 VAC supply
+valve. Must be jumped if using a 2–wire zone valve.
+31
+=== page 36 ===
+32
+C2 - Mod/Con boiler, priority indirect DHW on primary side of hydro sep, zone valves
+mod/con
+boiler
+ZV2 ZV3 ZV4 ZV5 ZV6
+DHW
+aquastat
+DH p W u m PR p IORITY SEC p O u N m D p ARY
+SYSTEM
+pump
+DHW
+AQUASTAT
+AUX XX ZONE 1 R W C R W C R W C R W C R W C R W C D P
+E / S T TCOM T TCOM T TCOM T TCOM T TCOM T TCOM COMMS
+T-STAT 1 T-STAT 2 T-STAT 3 T-STAT 4 T-STAT 5 T-STAT 6
+POWER
+ZONE 1
+MASTER SLAVE
+PUMP EXERCISE ON OFF ZONE 2
+PRIORITY ON OFF ZONE 3
+AUX ON OFF
+DURING PRIORITY DEMAND ZONE 4
+ZVR106 ZONE 5
+6 Zone ZONE 6
+STATUS DURING
+ZONE #1 DEMAND T-SAT VALVE
+ON OFF ON OFF CALL OPEN
+POWER IN ZONE #1 SEC SYSTEM
+L N L PUMP N LPUMPN L PUMP N MOTO ZO R N S E WE 1 NITDCHMOTO ZO R N S E WE 2 NITDCHMOTO ZO R N S E WE 3 NITDCHMOTO ZO R N S E WE 4 NITDCHMOTO ZO R N S E WE 5 NITDCHMOTO ZO R N S E WE 6 NITDCH
+Buffer tank- Optional hydraulic
+separator L
+N
+DHW PRIORITY
+pump
+SECONDARY ZV2 ZV3 ZV4 ZV5 ZV6
+pump
+SYSTEM
+pump
+Hydronic diagram is for illustration purposes only, some components have been removed for simplicity.
+=== page 37 ===
+Description of terminals Sequence of Operation / Settings • If any other zone was calling for heat (zones
+2-6) when zone 1 is calling 24 VAC is dropped
+= Ground • Master / Slave switch: Master
+to those zone’s MOTOR terminals. The
+N = Neutral (Common leg of 120 VAC)
+• Pump Exercise: OFF “T-STAT CALL” and “VALVE OPEN” LED will
+L = Line (Hot leg of 120 VAC)
+• Priority: ON also turn off.
+Thermostat terminals
+R = 24 VAC • AUX During Priority Demand: OFF • The XX and the ZONE 1 E/S contacts close to
+signal a DHW demand to the boiler.
+W = Heat call • System Pump Status During Zone 1 Demand
+C = Common of 24 VAC Jumper: OFF • The ZONE 1 PUMP output delivers 120 VAC.
+Boiler terminals • 120 VAC is dropped to the SYSTEM PUMP
+• Sec Pump Status During Zone 1 Demand
+XX = Dry contact rated up to 120 VAC, 2 Amps, and SEC PUMP.
+Jumper: OFF
+which is typically connected to TT on boiler control, • Once the DHW aquastat (T-STAT 1) is satisfied
+• A demand occurs from a thermostat on zones
+closes when any zone calls including priority. it will open R to W and 120 VAC to ZONE 1
+2-6 closing R to W. The “T-STAT CALL” LED
+ZONE 1 E/S = Dry contact rated up to 120 VAC, PUMP is dropped. The ZONE 1 E/S and XX
+illuminates for the corresponding zone.
+2 Amps, will close with any call to ZONE 1. Zone contacts open.
+• ZVR control sends 24 VAC to the corresponding
+1 can be enabled as a priority zone, typically used • If a call for heat exists from zones 2-6 the
+zone MOTOR terminals to open the zone
+for heating domestic hot water. The ZONE 1 E/S corresponding “T-STAT CALL” will illuminate
+valve.
+can be used to close a DHW contact on boiler again and 24 VAC will be delivered to their
+controls equipped with these features. • When the zone valve end switch closes, zone MOTOR terminals.
+AUX = Dry contact, rated up to 120 VAC, 2 Amps, the “VALVE OPEN” LED illuminates for the • When the zone valve end switch closes,
+close when any zone calls and can be used as corresponding zone. ZVR control sends the “VALVE OPEN” LED illuminates for the
+signal to a variable speed self regulated pump or 120 VAC to SYSTEM PUMP and SEC PUMP corresponding zone. ZVR control sends
+other controls. outputs. The control will close the XX contacts 120 VAC to SYSTEM PUMP and SEC PUMP
+Pump terminals to signal the boiler of a demand. outputs. The control will close the XX contacts
+to signal the boiler of a demand.
+SYSTEM PUMP = Runs when any zone calls for • When the thermostat demand is satisfied R
+heat. to W will open and the “T-STAT CALL” and • When all the thermostat demands are satisfied
+SEC PUMP = Runs when any zone calls for heat. “VALVE OPEN” LEDs will turn off. 24 VAC is R to W will open and the “T-STAT CALL” and
+ZONE 1 PUMP = Runs when zone 1 thermostat dropped to the corresponding zone MOTOR “VALVE OPEN” LEDs will turn off. The XX
+calls for heat and zone 1 end switch has closed. terminals. contacts will open terminating the demand for
+heat to the boiler. The 120 VAC is dropped to
+A jumper is required between the ZONE 1 END • If no other zones are calling for heat the XX
+the SYSTEM PUMP and SEC PUMP.
+SWITCH terminals when using a pump for ZONE contacts will open terminating the demand for
+DHW Time Out \ Freeze Prevention Feature
+1 instead of a zone valve. heat to the boiler. The 120 VAC is dropped to
+STATUS DURING ZONE 1 DEMAND ON / OFF: the SYSTEM PUMP and SEC PUMP. • After one hour of a priority demand, the
+When status jumper is placed on ON pins, the • If a demand occurs from the DHW aquastat control will open the ZONE 1 E/S contacts and
+secondary and / or system pump will continue to (T-STAT 1), the “T-STAT CALL” and the “VALVE drop power to ZONE #1 PUMP and ZONE 1
+MOTOR terminals.
+operate during Zone 1 demand. When jumper is OPEN” LEDs illuminate for zone 1. (When
+placed on OFF pins, the corresponding pump will using a pump for zone 1 instead of a zone • If a call for heat exists from zones 2-6, the
+be OFF during Zone 1 demand. valve a jumper must be installed on the ZONE control will satisfy those demands before
+Valve terminals 1 END SWITCH terminals.) going back to the priority demand.
+Motor = 24 VAC to power the zone valve motor • After zones 2-6 have been satisfied, the
+End Switch = Connects to end switch on zone WARNING: NEVER CONNECT R & C DIRECTLY, control will go back to the priority demand and
+valve. Must be jumped if using a 2–wire zone valve. this will be a direct short on the 24 VAC supply reset the one hour timer.
+33
+=== page 38 ===
+34
+C3 - Mod/Con boiler, priority indirect DHW on load side of hydro sep, zone valves
+Buffer tank- optional hydraulic
+separator
+ZV2 ZV3 ZV4 ZV5 ZV6
+SECONDARY
+SYSTEM pump
+pump
+DHW PRIORITY
+pump
+DHW
+AQUASTAT
+DHW
+AQUASTAT
+AUX XX ZONE 1 R W C R W C R W C R W C R W C R W C D P
+E / S T TCOM T TCOM T TCOM T TCOM T TCOM T TCOM COMMS
+T-STAT 1 T-STAT 2 T-STAT 3 T-STAT 4 T-STAT 5 T-STAT 6 POWER
+ZONE 1
+MASTER SLAVE
+PUMP EXERCISE ON OFF ZONE 2
+PRIORITY ON OFF ZONE 3
+AUX ON OFF
+DURING PRIORITY DEMAND ZONE 4
+ZVR106 ZONE 5
+STATUS DURING 6 Zone ZONE 6
+ZONE #1 DEMAND T-SAT VALVE
+ON OFF ON OFF CALL OPEN
+L POW N ER IN Z L OPNUEM P# N 1 LP S U E M C PN S L YPSUTMEPM N MOTO ZO R N S E WE 1 NITDCHMOTO ZO R N S E WE 2 NITDCHMOTO ZO R N S E WE 3 NITDCHMOTO ZO R N S E WE 4 NITDCHMOTO ZO R N S E WE 5 NITDCHMOTO ZO R N S E WE 6 NITDCH
+L
+N
+SECONDARY
+pump
+DHW PRIORITY
+pump ZV2 ZV3 ZV4 ZV5 ZV6
+SYSTEM
+pump
+Hydronic diagram is for illustration purposes only, some components have been removed for simplicity.
+=== page 39 ===
+Description of terminals Sequence of Operation / Settings • If any other zone was calling for heat (zones
+2-6) when zone 1 is calling 24 VAC is dropped
+= Ground
+• Master / Slave switch: Master
+to those zone’s MOTOR terminals. The “T-STAT
+N = Neutral (Common leg of 120 VAC)
+• Pump Exercise: OFF CALL” and “VALVE OPEN” LED will also turn off.
+L = Line (Hot leg of 120 VAC)
+Thermostat terminals • Priority: ON • The XX and the ZONE 1 E/S contacts close to
+R = 24 VAC • AUX During Priority Demand: OFF signal a DHW demand to the boiler.
+W = Heat call • Sec Pump Status During Zone 1 Demand • The ZONE 1 PUMP and SYSTEM PUMP outputs
+C = Common of 24 VAC Jumper: OFF deliver 120 VAC.
+Boiler terminals • 120 VAC is dropped to the SEC PUMP.
+• System Pump Status During Zone 1 Demand
+XX = Dry contact rated up to 120 VAC, 2 Amps,
+Jumper: ON • Once the DHW aquastat (T-STAT 1) is satisfied it
+which is typically connected to TT on boiler control, will open R to W and 120 VAC to ZONE 1 PUMP
+• A demand occurs from a thermostat on zones
+closes when any zone calls including priority. and SYSTEM PUMP is dropped. The ZONE 1
+2-6 closing R to W. The “T-STAT CALL” LED
+ZONE 1 E/S = Dry contact rated up to 120 VAC, E/S and XX contacts open.
+illuminates for the corresponding zone.
+2 Amps, will close with any call to ZONE 1. Zone • If a call for heat exists from zones 2-6 the
+• ZVR control sends 24 VAC to the corresponding
+1 can be enabled as a priority zone, typically used corresponding “T-STAT CALL” will illuminate
+zone MOTOR terminals to open the zone valve.
+for heating domestic hot water. The ZONE 1 E/S again and 24 VAC will be delivered to their zone
+• When the zone valve end switch closes,
+can be used to close a DHW contact on boiler MOTOR terminals.
+the “VALVE OPEN” LED illuminates for the
+controls equipped with these features. • When the zone valve end switch closes,
+corresponding zone. ZVR control sends 120
+AUX = Dry contact, rated up to 120 VAC, 2 Amps, the “VALVE OPEN” LED illuminates for the
+VAC to SYSTEM PUMP and SEC PUMP outputs.
+close when any zone calls and can be used as corresponding zone. ZVR control sends 120
+The control will close the XX contacts to signal the
+signal to a variable speed self regulated pump or VAC to SYSTEM PUMP and SEC PUMP outputs.
+boiler of a demand.
+other controls. The control will close the XX contacts to signal the
+• When the thermostat demand is satisfied R to
+Pump terminals boiler of a demand.
+W will open and the “T-STAT CALL” and “VALVE
+SYSTEM PUMP = Runs when any zone calls for • When all the thermostat demands are satisfied R
+OPEN” LEDs will turn off. 24 VAC is dropped to
+heat. to W will open and the “T-STAT CALL” and “VALVE
+the corresponding zone MOTOR terminals.
+SEC PUMP = Runs when any zone calls for heat. OPEN” LEDs will turn off. The XX contacts will
+• If no other zones are calling for heat the XX
+ZONE 1 PUMP = Runs when zone 1 thermostat open terminating the demand for heat to the
+contacts will open terminating the demand for
+boiler. The 120 VAC is dropped to the SYSTEM
+calls for heat and zone 1 end switch has closed.
+heat to the boiler. The 120 VAC is dropped to the
+PUMP and SEC PUMP.
+A jumper is required between the ZONE 1 END
+SYSTEM PUMP and SEC PUMP.
+SWITCH terminals when using a pump for ZONE DHW Time Out \ Freeze Prevention Feature
+• If a demand occurs from the DHW aquastat
+1 instead of a zone valve. • After one hour of a priority demand, the
+(T-STAT 1), the “T-STAT CALL” and the “VALVE
+STATUS DURING ZONE 1 DEMAND ON / OFF: control will open the ZONE 1 E/S contacts and
+OPEN” LEDs illuminate for zone 1. (When using a
+When status jumper is placed on ON pins, the drop power to ZONE #1 PUMP and ZONE 1
+pump for zone 1 instead of a zone valve a jumper
+secondary and / or system pump will continue to must be installed on the ZONE 1 END SWITCH MOTOR terminals.
+operate during Zone 1 demand. When jumper is terminals.) • If a call for heat exists from zones 2-6, the
+placed on OFF pins, the corresponding pump will control will satisfy those demands before
+be OFF during Zone 1 demand. going back to the priority demand.
+Valve terminals • After zones 2-6 have been satisfied, the
+Motor = 24 VAC to power the zone valve motor control will go back to the priority demand and
+End Switch = Connects to end switch on zone WARNING: NEVER CONNECT R & C DIRECTLY, reset the one hour timer.
+this will be a direct short on the 24 VAC supply
+valve. Must be jumped if using a 2–wire zone valve.
+35
+=== page 40 ===
+36
+C4- Mod/Con boiler, priority indirect DHW on primary side of hydro sep, expansion control
+NOTE: 120 VAC is only sent to the SEC PUMP terminals on the
+control that receives the call for heat. For instance, if a zone
+from the Master control calls, the SEC PUMP on the Master
+control sends 120 VAC and SEC PUMP on the Slave control
+does not. When using a single secondary pump with 2 (or
+more) controls you must wire the secondary pump to the SEC Buffer tank - optional hydraulic
+PUMP terminals on all of the controls. separator
+ZV2 ZV3 ZV4 ZV5 ZV6 ZV7 ZV8 ZV9 ZV10 ZV11 ZV12
+SECONDARY
+pump
+DHW DHW PRIORITY
+AQUASTAT pump
+SYSTEM
+pump
+DHW
+AQUASTAT
+AUX XX ZONE 1 R W C R W C R W C R W C R W C R W C D P AUX XX ZONE 1 R W C R W C R W C R W C R W C R W C D P
+E / S T TCOM T TCOM T TCOM T TCOM T TCOM T TCOM COMMS E / S T TCOM T TCOM T TCOM T TCOM T TCOM T TCOM COMMS
+T-STAT 1 T-STAT 2 T-STAT 3 T-STAT 4 T-STAT 5 T-STAT 6 POWER T-STAT 1 T-STAT 2 T-STAT 3 T-STAT 4 T-STAT 5 T-STAT 6 POWER
+ZONE 1 ZONE 1
+MASTER SLAVE MASTER SLAVE
+PUMP EXERCISE ON OFF ZONE 2 PUMP EXERCISE ON OFF ZONE 2
+PRIORITY ON OFF ZONE 3 PRIORITY ON OFF ZONE 3
+AUX ON OFF AUX ON OFF
+DURING PRIORITY DEMAND ZONE 4 DURING PRIORITY DEMAND ZONE 4
+ZVR106 ZONE 5 ZVR106 ZONE 5
+6 Zone ZONE 6 6 Zone ZONE 6
+STATUS DURING STATUS DURING
+ZONE #1 DEMAND T-SAT VALVE ZONE #1 DEMAND T-SAT VALVE
+ON OFF ON OFF CALL OPEN ON OFF ON OFF CALL OPEN
+L POW N ER IN Z L OPNUEM P# N 1 LP S U E M C PN S L YPSUTMEPM N MOTO ZO R N S E WE 1 NITDCHMOTO ZO R N S E WE 2 NITDCHMOTO ZO R N S E WE 3 NITDCHMOTO ZO R N S E WE 4 NITDCHMOTO ZO R N S E WE 5 NITDCHMOTO ZO R N S E WE 6 NITDCH L POW N ER IN Z L OPNUEM P# N 1 LP S U E M C PN S L YPSUTMEPM N MOTO ZO R N S E WE 1 NITDCHMOTO ZO R N S E WE 2 NITDCHMOTO ZO R N S E WE 3 NITDCHMOTO ZO R N S E WE 4 NITDCHMOTO ZO R N S E WE 5 NITDCHMOTO ZO R N S E WE 6 NITDCH
+L
+N
+DHW pPuRmIOpRITY SYpSuTmEpM
+ZV2 ZV3 ZV4 ZV5 ZV6 ZV7 ZV8 ZV9 ZV10 ZV11 ZV12
+SECONDARY
+pump
+Hydronic diagram is for illustration purposes only, some components have been removed for simplicity.
+=== page 41 ===
+Description of terminals Sequence of Operation / Settings • If no other zones are calling for heat the XX
+contacts will open terminating the demand for
+= Ground Control #1
+heat to the boiler. The 120 VAC is dropped to
+N = Neutral (Common leg of 120 VAC)
+• Master / Slave switch: Master the SYSTEM PUMP and SEC PUMP.
+L = Line (Hot leg of 120 VAC)
+• Pump Exercise: OFF • If a demand occurs from the DHW aquastat
+Thermostat terminals
+• Priority: ON (T-STAT 1), the “T-STAT CALL” and the “VALVE
+R = 24 VAC OPEN” LEDs illuminate for zone 1. (When
+• AUX During Priority Demand: OFF
+W = Heat call using a pump for zone 1 instead of a zone
+C = Common of 24 VAC • Sec Pump Status During Zone 1 Demand valve a jumper must be installed on the ZONE
+Jumper: OFF 1 END SWITCH terminals.)
+Boiler terminals
+XX = Dry contact rated up to 120 VAC, 2 Amps, • System Pump Status During Zone 1 Demand • If any other zone was calling for heat (zones
+Jumper: OFF 2-12) when zone 1 is calling 24 VAC is
+which is typically connected to TT on boiler control,
+Control #2 dropped to those zone’s MOTOR terminals.
+closes when any zone calls including priority.
+The “T-STAT CALL” and “VALVE OPEN” LED
+ZONE 1 E/S = Dry contact rated up to 120 VAC, • Master / Slave switch: Slave will also turn off.
+2 Amps, will close with any call to ZONE 1. Zone • Pump Exercise: OFF
+• The XX and the ZONE 1 E/S contacts on the
+1 can be enabled as a priority zone, typically used • Priority: OFF Master control close to signal a DHW demand
+for heating domestic hot water. The ZONE 1 E/S • AUX During Priority Demand: OFF to the boiler.
+can be used to close a DHW contact on boiler • Sec Pump Status During Zone 1 Demand • The ZONE 1 PUMP output on the Master
+controls equipped with these features. Jumper: OFF control delivers 120 VAC.
+AUX = Dry contact, rated up to 120 VAC, 2 Amps, • System Pump Status During Zone 1 Demand • 120 VAC is dropped to the SYSTEM PUMP
+close when any zone calls and can be used as Jumper: OFF and SEC PUMP on all controls.
+signal to a variable speed self regulated pump or • A demand occurs from a thermostat on zones • Once the DHW aquastat (T-STAT 1) is satisfied
+other controls. 2-12 closing R to W. The “T-STAT CALL” LED it will open R to W and 120 VAC to ZONE 1
+Pump terminals illuminates for the corresponding zone. PUMP is dropped. The ZONE 1 E/S and XX
+contacts open.
+SYSTEM PUMP = Runs when any zone calls for • ZVR control sends 24 VAC to the corresponding
+heat. zone MOTOR terminals to open the zone • If a call for heat exists from zones 2-12 the
+valve. corresponding “T-STAT CALL” will illuminate
+SEC PUMP = Runs when any zone calls for heat.
+again and 24 VAC will be delivered to their
+ZONE 1 PUMP = Runs when zone 1 thermostat • When the zone valve end switch closes,
+zone MOTOR terminals.
+the “VALVE OPEN” LED illuminates for the
+calls for heat and zone 1 end switch has closed.
+corresponding zone. The Master ZVR control • When the zone valve end switch closes,
+A jumper is required between the ZONE 1 END
+sends 120 VAC to SYSTEM PUMP and the the “VALVE OPEN” LED illuminates for
+SWITCH terminals when using a pump for ZONE control (Master or Slave) which received the the corresponding zone. ZVR control #1
+1 instead of a zone valve. call for heat will send 120 VAC to its SEC sends 120 VAC to SYSTEM PUMP and the
+STATUS DURING ZONE 1 DEMAND ON / OFF: PUMP. The Master control will close the XX corresponding control SEC PUMP outputs.
+When status jumper is placed on ON pins, the contacts to signal the boiler of a demand. The Master control will close the XX contacts
+to signal the boiler of a demand.
+secondary and / or system pump will continue to • When the thermostat demand is satisfied R
+operate during Zone 1 demand. When jumper is to W will open and the “T-STAT CALL” and • When all the thermostat demands are satisfied
+“VALVE OPEN” LEDs will turn off. 24 VAC is R to W will open and the “T-STAT CALL” and
+placed on OFF pins, the corresponding pump will
+dropped to the corresponding zone MOTOR “VALVE OPEN” LEDs will turn off. The XX
+be OFF during Zone 1 demand.
+terminals. contacts will open terminating the demand for
+Valve terminals
+heat to the boiler. The 120 VAC is dropped
+Motor = 24 VAC to power the zone valve motor to the SYSTEM PUMP and SEC PUMP on all
+End Switch = Connects to end switch on zone WARNING: NEVER CONNECT R & C DIRECTLY, controls.
+this will be a direct short on the 24 VAC supply
+valve. Must be jumped if using a 2–wire zone valve.
+37
+=== page 42 ===
+38
+DHW
+aquastat
+2VZ 3VZ 4VZ 5VZ 6VZ
+C5 - Traditional boiler, indirect DHW (no priority) with pump, zone valves
+SYSTEM
+pump
+DHW PRIORITY
+pump
+DHW
+aquastat
+AUX XX ZONE 1 R W C R W C R W C R W C R W C R W C D P
+E / S T T COM T T COM T T COM T T COM T T COM T T COM COMMS
+T-STAT 1 T-STAT 2 T-STAT 3 T-STAT 4 T-STAT 5 T-STAT 6
+POWER
+ZONE 1
+MASTER SLAVE
+PUMP EXERCISE ON OFF ZONE 2
+PRIORITY ON OFF ZONE 3
+AUX ON OFF
+ZONE 4
+TT DURING PRIORITY DEMAND
+DHW ZVR106 ZONE 5
+6 Zone ZONE 6
+STATUS DURING
+ZONE #1 DEMAND T-SAT VALVE
+ON OFF ON OFF CALL OPEN
+tem o p ut e d ra o t o u r re L POW N ER IN Z L O P N U E M P # N 1 LP S U E M C PN S L Y P S U T M E P M N MOTO ZO R N S E WE 1 NITDCHMOTO ZO R N S E WE 2 NITDCHMOTO ZO R N S E WE 3 NITDCHMOTO ZO R N S E WE 4 NITDCHMOTO ZO R N S E WE 5 NITDCHMOTO ZO R N S E WE 6 NITDCH
+sensor
+L
+N
+SYSTEM ZV2 ZV3 ZV4 ZV5 ZV6
+DHW PRIORITY pump
+pump
+Hydronic diagram is for illustration purposes only, some components have been removed for simplicity.
+=== page 43 ===
+Description of terminals Sequence of Operation / Settings • NOTE: At this point, the control has signaled
+the boiler of a DHW demand which (in most
+= Ground • Master / Slave switch: Master
+cases) will override any outdoor reset controls
+N = Neutral (Common leg of 120 VAC)
+• Pump Exercise: OFF and raise the temperature of the boiler.
+L = Line (Hot leg of 120 VAC)
+• Priority: OFF Because priority is not enabled on the control,
+Thermostat terminals
+you will now be allowing high temperature fluid
+R = 24 VAC • AUX During Priority Demand: OFF
+to zones 2-6. Be certain that these zones are
+W = Heat call • Sec Pump Status During Zone 1 Demand
+capable of handling this high temperature
+C = Common of 24 VAC Jumper: OFF fluid. If not, priority will need to be enabled to
+Boiler terminals • System Pump Status During Zone 1 Demand hold off zones 2-6 during a demand from the
+XX = Dry contact rated up to 120 VAC, 2 Amps, Jumper: OFF DHW aquastat.
+which is typically connected to TT on boiler control,
+• Sec Pump Status During Zone 1 Demand • When the thermostat demands from zones 2-6
+closes when any zone calls including priority. Jumper: OFF are satisfied R to W will open and the “T-STAT
+ZONE 1 E/S = Dry contact rated up to 120 VAC, CALL” and “VALVE OPEN” LEDs will turn off.
+• A demand occurs from a thermostat on zones
+2 Amps, will close with any call to ZONE 1. Zone 24 VAC is dropped to the corresponding zone
+2-6 closing R to W. The “T-STAT CALL” LED
+1 can be enabled as a priority zone, typically used illuminates for the corresponding zone. MOTOR terminals.
+for heating domestic hot water. The ZONE 1 E/S • If the DHW aquastat (T-STAT 1) is still calling
+• ZVR control sends 24 VAC to the corresponding
+can be used to close a DHW contact on boiler for heat the XX and ZONE 1 E/S contacts will
+zone MOTOR terminals to open the zone
+controls equipped with these features. remain closed and the ZONE #1 PUMP will
+valve.
+AUX = Dry contact, rated up to 120 VAC, 2 Amps, remain powered. 120 VAC will be dropped to
+• When the zone valve end switch closes,
+close when any zone calls and can be used as the SYSTEM PUMP. (This is due to the jumper
+the “VALVE OPEN” LED illuminates for the
+signal to a variable speed self regulated pump or position of the SYSTEM PUMP for STATUS
+corresponding zone. ZVR control sends 120
+DURING ZONE #1 DEMAND.)
+other controls. VAC to SYSTEM PUMP output. The control
+Pump terminals will close the XX contacts to signal the boiler • When all the thermostat demands are satisfied
+SYSTEM PUMP = Runs when any zone calls for of a demand. R to W will open and the “T-STAT CALL” and
+“VALVE OPEN” LEDs will turn off. The XX and
+heat.
+• If a demand occurs from the DHW aquastat
+ZONE 1 E/S contacts will open terminating
+SEC PUMP = Runs when any zone calls for heat. (T-STAT 1), the “T-STAT CALL” LED and the
+any demands to the boiler. The 120 VAC is
+ZONE 1 PUMP = Runs when zone 1 thermostat “VALVE OPEN” LED will illuminate for zone 1.
+dropped to all of the pump outputs (SYSTEM
+calls for heat and zone 1 end switch has closed. (When using a pump for zone 1 instead of a
+PUMP and ZONE #1 PUMP).
+A jumper is required between the ZONE 1 END zone valve a jumper must be installed on the
+SWITCH terminals when using a pump for ZONE ZONE 1 END SWITCH terminals.) ZVR control
+1 instead of a zone valve. sends 120 VAC to the ZONE #1 PUMP. The
+XX and ZONE 1 E/S contacts close to signal a
+STATUS DURING ZONE 1 DEMAND ON / OFF:
+DHW demand to the boiler.
+When status jumper is placed on ON pins, the
+secondary and / or system pump will continue to
+operate during Zone 1 demand. When jumper is
+placed on OFF pins, the corresponding pump will
+be OFF during Zone 1 demand.
+Valve terminals
+Motor = 24 VAC to power the zone valve motor
+End Switch = Connects to end switch on zone WARNING: NEVER CONNECT R & C DIRECTLY,
+this will be a direct short on the 24 VAC supply
+valve. Must be jumped if using a 2–wire zone valve.
+39
+=== page 44 ===
+40
+DHW ZV1
+DHW
+aquastat
+2VZ 3VZ 4VZ 5VZ 6VZ
+C6- Traditional boiler with priority indirect DHW with valve, zone valves
+SYSTEM
+pump
+DHW
+aquastat
+AUX XX ZONE 1 R W C R W C R W C R W C R W C R W C D P
+E / S T T COM T T COM T T COM T T COM T T COM T T COM COMMS
+T-STAT 1 T-STAT 2 T-STAT 3 T-STAT 4 T-STAT 5 T-STAT 6
+POWER
+ZONE 1
+MASTER SLAVE
+PUMP EXERCISE ON OFF ZONE 2
+PRIORITY ON OFF ZONE 3
+AUX ON OFF
+ZONE 4
+DURING PRIORITY DEMAND
+ZVR106 ZONE 5
+6 Zone ZONE 6
+STATUS DURING
+ZONE #1 DEMAND T-SAT VALVE
+ON OFF ON OFF CALL OPEN
+POWER IN ZONE #1 SEC SYSTEM
+L N L PUMP N LPUMPN L PUMP N ZONE E 1 ND ZONE E 2 ND ZONE E 3 ND ZONE E 4 ND ZONE E 5 ND ZONE E 6 ND
+MOTORSWITCHMOTORSWITCHMOTORSWITCHMOTORSWITCHMOTORSWITCHMOTORSWITCH
+L
+N
+SYSTEM DHW ZV1 ZV2 ZV3 ZV4 ZV5 ZV6
+pump
+Hydronic diagram is for illustration purposes only, some components have been removed for simplicity.
+=== page 45 ===
+Description of terminals Sequence of Operation • When the ZONE 1 zone valve end switch
+closes, the “VALVE OPEN” LED illuminates for
+= Ground • Master / Slave switch: Master
+ZONE 1.
+N = Neutral (Common leg of 120 VAC)
+• Pump Exercise: OFF
+L = Line (Hot leg of 120 VAC) • If any other zone was calling for heat (zones
+Thermostat terminals • Priority: ON 2-6) when zone 1 is calling 24 VAC is dropped
+R = 24 VAC • AUX During Priority Demand: OFF to those zone’s MOTOR terminals. The
+“T-STAT CALL” and “VALVE OPEN” LED will
+W = Heat call • Sec Pump Status During Zone 1 Demand
+also turn off.
+C = Common of 24 VAC Jumper: OFF
+Boiler terminals • System Pump Status During Zone 1 Demand • The XX contacts close to signal a demand to
+the boiler.
+XX = Dry contact rated up to 120 VAC, 2 Amps, Jumper: ON
+which is typically connected to TT on boiler control, • The SYSTEM PUMP output delivers 120 VAC.
+• A demand occurs from a thermostat on zones
+closes when any zone calls including priority. 2-6 closing R to W. The “T-STAT CALL” LED • Once the DHW aquastat (T-STAT 1) is satisfied
+ZONE 1 E/S = Dry contact rated up to 120 VAC, illuminates for the corresponding zone. it will open R to W and 120 VAC to the SYSTEM
+2 Amps, will close with any call to ZONE 1. Zone PUMP is dropped. The XX contacts open.
+• ZVR control sends 24 VAC to the corresponding
+1 can be enabled as a priority zone, typically used zone MOTOR terminals to open the zone • If a call for heat exists from zones 2-6 the
+for heating domestic hot water. The ZONE 1 E/S valve. corresponding “T-STAT CALL” will illuminate
+can be used to close a DHW contact on boiler again and 24 VAC will be delivered to their
+• When the zone valve end switch closes,
+controls equipped with these features. zone MOTOR terminals.
+the “VALVE OPEN” LED illuminates for the
+AUX = Dry contact, rated up to 120 VAC, 2 Amps, corresponding zone. ZVR control sends 120 • When the zone valve end switch closes,
+close when any zone calls and can be used as VAC to SYSTEM PUMP output. The control the “VALVE OPEN” LED illuminates for the
+signal to a variable speed self regulated pump or will close the XX contacts to signal the boiler corresponding zone. ZVR control sends
+other controls. of a demand. 120 VAC to SYSTEM PUMP and SEC PUMP
+Pump terminals • When the thermostat demand is satisfied R outputs. The control will close the XX contacts
+to signal the boiler of a demand.
+SYSTEM PUMP = Runs when any zone calls for to W will open and the “T-STAT CALL” and
+heat. “VALVE OPEN” LEDs will turn off. 24 VAC is • When all the thermostat demands are satisfied
+SEC PUMP = Runs when any zone calls for heat. dropped to the corresponding zone MOTOR R to W will open and the “T-STAT CALL” and
+ZONE 1 PUMP = Runs when zone 1 thermostat terminals. “VALVE OPEN” LEDs will turn off. The XX
+contacts will open terminating the demand for
+calls for heat and zone 1 end switch has closed. • If no other zones are calling for heat the XX
+heat to the boiler. The 120 VAC is dropped to
+A jumper is required between the ZONE 1 END contacts will open terminating the demand for
+the SYSTEM PUMP and SEC PUMP.
+SWITCH terminals when using a pump for ZONE heat to the boiler. The 120 VAC is dropped to
+1 instead of a zone valve. the SYSTEM PUMP. DHW Time Out \ Freeze Prevention Feature
+STATUS DURING ZONE 1 DEMAND ON / OFF: • If a demand occurs from the DHW aquastat • After one hour of a priority demand, the
+When status jumper is placed on ON pins, the (T-STAT 1), the “T-STAT CALL” LED illuminates control will drop power to the ZONE 1 MOTOR
+secondary and / or system pump will continue to for zone 1. terminals.
+operate during Zone 1 demand. When jumper is • ZVR control sends 24 VAC to ZONE 1 MOTOR • If a call for heat exists from zones 2-6, the
+placed on OFF pins, the corresponding pump will terminals. control will satisfy those demands before
+be OFF during Zone 1 demand. going back to the priority demand.
+Valve terminals • After zones 2-6 have been satisfied, the
+Motor = 24 VAC to power the zone valve motor control will go back to the priority demand and
+End Switch = Connects to end switch on zone WARNING: NEVER CONNECT R & C DIRECTLY, reset the one hour timer.
+this will be a direct short on the 24 VAC supply
+valve. Must be jumped if using a 2–wire zone valve.
+41
+=== page 46 ===
+C7 - Mod/Con boiler, hydro separator, zone valves (more than 6), multiple secondary pumps 42
+"B"
+"A"
+pump
+pump
+A1 A2 A3 A4 A5 A6 A7 A8 A9 A10 A11A12
+SYSTEM
+pump
+AUX XX ZONE 1 R W C R W C R W C R W C R W C R W C D P AUX XX ZONE 1 R W C R W C R W C R W C R W C R W C D P
+E / S T TCOM T TCOM T TCOM T TCOM T TCOM T TCOM COMMS E / S T TCOM T TCOM T TCOM T TCOM T TCOM T TCOM COMMS
+T-STAT 1 T-STAT 2 T-STAT 3 T-STAT 4 T-STAT 5 T-STAT 6 POWER T-STAT 1 T-STAT 2 T-STAT 3 T-STAT 4 T-STAT 5 T-STAT 6 POWER
+ZONE 1 ZONE 1
+MASTER SLAVE MASTER SLAVE
+PUMP EXERCISE ON OFF ZONE 2 PUMP EXERCISE ON OFF ZONE 2
+PRIORITY ON OFF ZONE 3 PRIORITY ON OFF ZONE 3
+AUX ON OFF AUX ON OFF
+DURING PRIORITY DEMAND ZONE 4 DURING PRIORITY DEMAND ZONE 4
+ZVR106 ZONE 5 ZVR106 ZONE 5
+S ZO TA N T E U # S 1 D D U E R M IN AN G D 6 Zone T-SAT ZONE V 6 ALVE S ZO TA N T E U # S 1 D D U E R M IN AN G D 6 Zone T-SAT ZONE V 6 ALVE
+ON OFF ON OFF CALL OPEN ON OFF ON OFF CALL OPEN
+L POW N ER IN Z L O P N U E M P # N 1 LP S U E M C PN S L Y P S U T M E P M N MOTO ZO R N S E WE 1 NITDCHMOTO ZO R N S E WE 2 NITDCHMOTO ZO R N S E WE 3 NITDCHMOTO ZO R N S E WE 4 NITDCHMOTO ZO R N S E WE 5 NITDCHMOTO ZO R N S E WE 6 NITDCH L POW N ER IN Z L O P N U E M P # N 1 LP S U E M C PN S L Y P S U T M E P M N MOTO ZO R N S E WE 1 NITDCHMOTO ZO R N S E WE 2 NITDCHMOTO ZO R N S E WE 3 NITDCHMOTO ZO R N S E WE 4 NITDCHMOTO ZO R N S E WE 5 NITDCHMOTO ZO R N S E WE 6 NITDCH
+L
+N
+SYSTEM
+pump
+"B"
+pump
+"A" A1 A2 A3 A4 A5 A6 A7 A8 A9 A10 A11 A12
+pump
+Hydronic diagram is for illustration purposes only, some components have been removed for simplicity.
+=== page 47 ===
+Description of terminals Sequence of Operation / Settings • NOTE: 120 VAC is only sent to the SEC
+PUMP terminals on the control that receives
+= Ground Control #1
+the call for heat. For instance, if a zone from
+N = Neutral (Common leg of 120 VAC)
+• Master / Slave switch: Master the Master control calls, the SEC PUMP on
+L = Line (Hot leg of 120 VAC)
+• Pump Exercise: OFF the Master control sends 120 VAC and SEC
+Thermostat terminals
+PUMP on the Slave control does not.
+R = 24 VAC • Priority: OFF
+• When the thermostat demand is satisfied R
+W = Heat call • AUX During Priority Demand: OFF
+to W will open and the “T-STAT CALL” and
+C = Common of 24 VAC • Sec Pump Status During Zone 1 Demand
+“VALVE OPEN” LEDs will turn off. 24 VAC is
+Boiler terminals Jumper: OFF
+dropped to the corresponding zone MOTOR
+XX = Dry contact rated up to 120 VAC, 2 Amps,
+• System Pump Status During Zone 1 Demand terminals.
+which is typically connected to TT on boiler control,
+Jumper: OFF
+• If no other zones are calling for heat the XX
+closes when any zone calls including priority.
+Control #2 contacts will open terminating the demand for
+ZONE 1 E/S = Dry contact rated up to 120 VAC,
+heat to the boiler. The 120 VAC is dropped to
+• Master / Slave switch: Slave
+2 Amps, will close with any call to ZONE 1. Zone
+the SYSTEM PUMP and SEC PUMP.
+1 can be enabled as a priority zone, typically used • Pump Exercise: OFF
+for heating domestic hot water. The ZONE 1 E/S • Priority: OFF
+can be used to close a DHW contact on boiler
+• AUX During Priority Demand: OFF
+controls equipped with these features.
+• Sec Pump Status During Zone 1 Demand
+AUX = Dry contact, rated up to 120 VAC, 2 Amps,
+Jumper: OFF
+close when any zone calls and can be used as
+• System Pump Status During Zone 1 Demand
+signal to a variable speed self regulated pump or
+Jumper: OFF
+other controls.
+• A demand occurs from a thermostat on zones
+Pump terminals
+1-12 closing R to W. The “T-STAT CALL” LED
+SYSTEM PUMP = Runs when any zone calls for
+illuminates for the corresponding zone.
+heat.
+• ZVR control sends 24 VAC to the corresponding
+SEC PUMP = Runs when any zone calls for heat.
+zone MOTOR terminals to open the zone
+ZONE 1 PUMP = Runs when zone 1 thermostat
+valve.
+calls for heat and zone 1 end switch has closed.
+A jumper is required between the ZONE 1 END • When the zone valve end switch closes,
+the “VALVE OPEN” LED illuminates for the
+SWITCH terminals when using a pump for ZONE
+corresponding zone. The Master ZVR control
+1 instead of a zone valve.
+sends 120 VAC to SYSTEM PUMP and the
+STATUS DURING ZONE 1 DEMAND ON / OFF:
+control (Master or Slave) which received the
+When status jumper is placed on ON pins, the
+call for heat will send 120 VAC to its SEC
+secondary and / or system pump will continue to
+PUMP. The Master control will close the XX
+operate during Zone 1 demand. When jumper is
+contacts to signal the boiler of a demand.
+placed on OFF pins, the corresponding pump will
+be OFF during Zone 1 demand.
+Valve terminals
+Motor = 24 VAC to power the zone valve motor
+End Switch = Connects to end switch on zone WARNING: NEVER CONNECT R & C DIRECTLY,
+this will be a direct short on the 24 VAC supply
+valve. Must be jumped if using a 2–wire zone valve.
+43
+=== page 48 ===
+44
+C8 - Mod/Con boiler, indirect DHW on primary side of hydro sep, zone valves, ECM pump enable
+mod/con
+boiler
+ZV2 ZV3 ZV4
+DHW
+aquastat
+DHW PRIORITY
+pump SECONDARY
+SYSTEM pump
+pump
+DHW
+AQUASTAT
+AUX XX ZONE 1 R W C R W C R W C R W C D P
+E / S T TCOM T TCOM T TCOM T TCOM COMMS
+T-STAT 1 T-STAT 2 T-STAT 3 T-STAT 4
+POWER
+ZONE 1
+MASTER SLAVE
+PUMP EXERCISE ON OFF ZONE 2
+PRIORITY ON OFF ZONE 3
+AUX ON OFF
+DURING PRIORITY DEMAND ZONE 4
+ZVR104
+4 Zone
+STATUS DURING
+ZONE #1 DEMAND T-SAT VALVE
+ON OFF ON OFF CALL OPEN
+POWER IN ZONE #1 SEC SYSTEM
+L N L PUMP N LPUMPN L PUMP N MOTO ZO R N S E WE 1 NITDCHMOTO ZO R N S E WE 2 NITDCHMOTO ZO R N S E WE 3 NITDCHMOTO ZO R N S E WE 4 NITDCH
+NOTE: The AUX contact status during priority demand L
+from Zone 1 can be changed using the dip switch.
+N
+DHW PRIORITY
+pump
+ZV2 ZV3 ZV4
+NOTE: ECM seconday pump requires
+power at all times and a dry contact SECONDARY
+closure to start. pump SY p S u T m E p M
+Hydronic diagram is for illustration purposes only, some components have been removed for simplicity.
+=== page 49 ===
+Description of terminals Sequence of Operation / Settings 2-6) when zone 1 is calling 24 VAC is dropped
+to those zone’s MOTOR terminals. The “T-STAT
+= Ground • Master / Slave switch: Master
+CALL” and “VALVE OPEN” LED will also turn off.
+N = Neutral (Common leg of 120 VAC)
+• Pump Exercise: OFF
+The AUX contacts will also open terminating the
+L = Line (Hot leg of 120 VAC)
+• Priority: ON demand to the ECM pump.
+Thermostat terminals
+• AUX During Priority Demand: OFF • The XX and the ZONE 1 E/S contacts close to
+R = 24 VAC
+signal a DHW demand to the boiler.
+W = Heat call • System Pump Status During Zone 1 Demand
+C = Common of 24 VAC Jumper: OFF • The ZONE 1 PUMP output delivers 120 VAC.
+Boiler terminals • Sec Pump Status During Zone 1 Demand • 120 VAC is dropped to the SYSTEM PUMP.
+XX = Dry contact rated up to 120 VAC, 2 Amps, Jumper: OFF • Once the DHW aquastat (T-STAT 1) is satisfied it
+which is typically connected to TT on boiler control, • A demand occurs from a thermostat on zones will open R to W and 120 VAC to ZONE 1 PUMP
+closes when any zone calls including priority. 2-6 closing R to W. The “T-STAT CALL” LED is dropped. The ZONE 1 E/S and XX contacts
+ZONE 1 E/S = Dry contact rated up to 120 VAC, illuminates for the corresponding zone. open.
+2 Amps, will close with any call to ZONE 1. Zone • ZVR control sends 24 VAC to the corresponding • If a call for heat exists from zones 2-6 the
+1 can be enabled as a priority zone, typically used zone MOTOR terminals to open the zone valve. corresponding “T-STAT CALL” LED will illuminate
+for heating domestic hot water. The ZONE 1 E/S • When the zone valve end switch closes, again and 24 VAC will be delivered to their zone
+can be used to close a DHW contact on boiler the “VALVE OPEN” LED illuminates for the MOTOR terminals.
+controls equipped with these features. corresponding zone. ZVR control sends 120 • When the zone valve end switch closes,
+AUX = Dry contact, rated up to 120 VAC, 2 Amps, VAC to SYSTEM PUMP output. The control will the “VALVE OPEN” LED illuminates for the
+close when any zone calls and can be used as close the XX contacts to signal the boiler of a corresponding zone. ZVR control sends 120
+signal to a variable speed self regulated pump or demand and close the AUX contacts to signal the VAC to SYSTEM PUMP output. The control will
+ECM pump to start. close the XX contacts to signal the boiler of a
+other controls.
+demand and close the AUX contacts to signal the
+Pump terminals • When the thermostat demand is satisfied R to
+ECM pump to start.
+SYSTEM PUMP = Runs when any zone calls for W will open and the “T-STAT CALL” and “VALVE
+OPEN” LEDs will turn off. 24 VAC is dropped to • When all the thermostat demands are satisfied
+heat.
+the corresponding zone MOTOR terminals. R to W will open and the “T-STAT CALL” and
+SEC PUMP = Runs when any zone calls for heat.
+“VALVE OPEN” LEDs will turn off. The XX
+ZONE 1 PUMP = Runs when zone 1 thermostat • If no other zones are calling for heat the XX
+contacts will open terminating the demand for
+contacts will open terminating the demand for
+calls for heat and zone 1 end switch has closed.
+heat to the boiler. The AUX contacts will also
+heat to the boiler. The AUX contacts will also
+A jumper is required between the ZONE 1 END
+open terminating the demand to the ECM pump.
+open terminating the demand to the ECM pump.
+SWITCH terminals when using a pump for ZONE
+The 120 VAC is dropped to the SYSTEM PUMP.
+The 120 VAC is dropped to the SYSTEM PUMP.
+1 instead of a zone valve.
+DHW Time Out \ Freeze Prevention Feature
+• If a demand occurs from the DHW aquastat
+STATUS DURING ZONE 1 DEMAND ON / OFF:
+(T-STAT 1), the “T-STAT CALL” and the “VALVE • After one hour of a priority demand, the
+When status jumper is placed on ON pins, the
+OPEN” LEDs illuminate for zone 1. (When using a control will open the ZONE 1 E/S contacts and
+secondary and / or system pump will continue to
+pump for zone 1 instead of a zone valve a jumper drop power to ZONE #1 PUMP and ZONE 1
+operate during Zone 1 demand. When jumper is MOTOR terminals.
+must be installed on the ZONE 1 END SWITCH
+placed on OFF pins, the corresponding pump will
+terminals.) • If a call for heat exists from zones 2-6, the
+be OFF during Zone 1 demand. control will satisfy those demands before
+• If any other zone was calling for heat (zones
+Valve terminals going back to the priority demand.
+Motor = 24 VAC to power the zone valve motor • After zones 2-6 have been satisfied, the
+End Switch = Connects to end switch on zone WARNING: NEVER CONNECT R & C DIRECTLY, control will go back to the priority demand and
+this will be a direct short on the 24 VAC supply
+valve. Must be jumped if using a 2–wire zone valve. reset the one hour timer.
+45
+=== page 50 ===
+46
+C9 - Mod/Con boiler, hydro separator, Zone 1 low temp pump, zones 2 - 6 high temp zone valves
+mod/con
+boiler
+ZONE 1
+Pump
+ZV2 ZV3 ZV4 ZV5 ZV6
+SYSTEM
+pump SECONDARY
+pump
+AUX XX ZONE 1 R W C R W C R W C R W C R W C R W C D P
+E / S T TCOM T TCOM T TCOM T TCOM T TCOM T TCOM COMMS
+T-STAT 1 T-STAT 2 T-STAT 3 T-STAT 4 T-STAT 5 T-STAT 6 POWER
+ZONE 1
+MASTER SLAVE
+PUMP EXERCISE ON OFF ZONE 2
+PRIORITY ON OFF ZONE 3
+AUX ON OFF
+DURING PRIORITY DEMAND ZONE 4
+ZVR106 ZONE 5
+6 Zone ZONE 6
+STATUS DURING
+ZONE #1 DEMAND T-SAT VALVE
+ON OFF ON OFF CALL OPEN
+L POW N ER IN Z L O P N U E M P # N 1 LP S U E M C PN S L Y P S U T M E P M N MOTO ZO R N S E WE 1 NITDCHMOTO ZO R N S E WE 2 NITDCHMOTO ZO R N S E WE 3 NITDCHMOTO ZO R N S E WE 4 NITDCHMOTO ZO R N S E WE 5 NITDCHMOTO ZO R N S E WE 6 NITDCH
+L
+N
+SYSTEM
+pump
+ZONE 1
+Pump
+ZV2 ZV3 ZV4 ZV5 ZV6
+SECONDARY
+pump
+Hydronic diagram is for illustration purposes only, some components have been removed for simplicity.
+=== page 51 ===
+Description of terminals Sequence of Operation / Settings • If zone 1 thermostat is still calling for heat
+= Ground the XX contacts will remain closed and the
+• Master / Slave switch: Master
+SYSTEM PUMP and the ZONE #1 PUMP will
+N = Neutral (Common leg of 120 VAC)
+• Pump Exercise: OFF
+remain powered. 120 VAC will be dropped
+L = Line (Hot leg of 120 VAC)
+• Priority: OFF to the SEC PUMP. (This is due to the jumper
+Thermostat terminals
+position of the SEC PUMP for STATUS
+R = 24 VAC • AUX During Priority Demand: OFF
+DURING ZONE #1 DEMAND.)
+W = Heat call • Sec Pump Status During Zone 1 Demand
+C = Common of 24 VAC Jumper: OFF • When all the thermostat demands are satisfied
+Boiler terminals R to W will open and the “T-STAT CALL” and
+• System Pump Status During Zone 1 Demand
+“VALVE OPEN” LEDs will turn off. The XX
+XX = Dry contact rated up to 120 VAC, 2 Amps,
+Jumper: ON
+contacts will open terminating the demand for
+which is typically connected to TT on boiler control,
+• A demand occurs from a thermostat on zones heat to the boiler. The 120 VAC is dropped to
+closes when any zone calls including priority.
+2-6 closing R to W. The “T-STAT CALL” LED all of the PUMP outputs (SYSTEM PUMP, SEC
+ZONE 1 E/S = Dry contact rated up to 120 VAC,
+illuminates for the corresponding zone. PUMP and ZONE #1 PUMP).
+2 Amps, will close with any call to ZONE 1. Zone
+• ZVR control sends 24 VAC to the corresponding
+1 can be enabled as a priority zone, typically used
+zone MOTOR terminals to open the zone
+for heating domestic hot water. The ZONE 1 E/S
+valve.
+can be used to close a DHW contact on boiler
+controls equipped with these features. • When the zone valve end switch closes,
+AUX = Dry contact, rated up to 120 VAC, 2 Amps, the “VALVE OPEN” LED illuminates for the
+close when any zone calls and can be used as corresponding zone. ZVR control sends
+signal to a variable speed self regulated pump or 120 VAC to SYSTEM PUMP and SEC PUMP
+outputs. The control will close the XX contacts
+other controls.
+to signal the boiler of a demand.
+Pump terminals
+SYSTEM PUMP = Runs when any zone calls for • If a demand occurs from the thermostat on
+heat. zone 1 closing R to W. The “T-STAT CALL” LED
+SEC PUMP = Runs when any zone calls for heat. and the “VALVE OPEN” LED will illuminate.
+ZONE 1 PUMP = Runs when zone 1 thermostat (When using a pump for zone 1 instead of a
+calls for heat and zone 1 end switch has closed. zone valve a jumper must be installed on the
+ZONE 1 END SWITCH terminals.) ZVR control
+A jumper is required between the ZONE 1 END
+sends 120 VAC to the ZONE #1 PUMP.
+SWITCH terminals when using a pump for ZONE
+1 instead of a zone valve. • When the thermostat demands from zones 2-6
+STATUS DURING ZONE 1 DEMAND ON / OFF: are satisfied R to W will open and the “T-STAT
+When status jumper is placed on ON pins, the CALL” and “VALVE OPEN” LEDs will turn off.
+secondary and / or system pump will continue to 24 VAC is dropped to the corresponding zone
+operate during Zone 1 demand. When jumper is MOTOR terminals.
+placed on OFF pins, the corresponding pump will
+be OFF during Zone 1 demand.
+Valve terminals
+Motor = 24 VAC to power the zone valve motor
+End Switch = Connects to end switch on zone WARNING: NEVER CONNECT R & C DIRECTLY,
+this will be a direct short on the 24 VAC supply
+valve. Must be jumped if using a 2–wire zone valve.
+47
+=== page 52 ===
+48
+Caleffi North America, Inc. / 3883 W Milwaukee Rd / Milwaukee, WI 53208
+Tel: 414.238.2360 / Fax: 44.238.2366
+www.caleffi.com / Ask.Us@caleffi.com
+©Copyright 2016 Caleffi North America, Inc

@@ -1,0 +1,186 @@
+=== page 1 ===
+FlowShield™ DuC
+Dual check backflow preventer
+3048 series
+01403/24 NA
+Function
+Low lead dual check valve backflow preventer is designed
+for residential domestic water supply lines or commercial
+low-hazard backflow applications. It prevents reverse flow of
+unsafe water into main system water supply. This can occur
+due to pressure changes in the distribution network that
+can can water flow in reverse, or backwards. The two inline
+serviceable check valves prevent any contact between the
+two systems, closing automatically when backflow conditions
+occur.
+The Caleffi 3048 series FlowShield™ DuC is certified to ASSE
+1024 and CSA 64.5 by ICC-ES. It also complies with NSF/
+ANSI/CAN 61 (180°F/82°C Commercial Hot) and complies with
+NSF/ANSI/CAN 372, low lead, and codes IPC, IRC and UPC for
+use in accordance with the US and Canadian plumbing codes, as
+certified by ICC-ES.
+ASSE 1024
+NSF/ANSI/CAN 61
+NSF/ANSI/CAN 372
+Product range
+3048 series Dual check backflow preventer............sizes ½”, ¾”, 1” NPT male, NPT female, sweat, press, PEX crimp or PEX expansion union connections
+Technical specifications
+Materials
+Body, retaining ring and lock nut: DZR low-lead* brass CW724R-M
+Wt.
+Check valve: EPDM, PPO Code A B C
+Spring: stainless steel (lb/kg)
+O-rings: peroxide-cured EPDM NPT female threaded connections
+* Meets the “lead free” requirement of Section 1417 of the Safe Drinking Water Act (SDWA). This
+product has a weighted average lead content of less than 0.25% for its wetted surfaces contacted
+with consumable water. 304843A 1⁄2" 213⁄16” 51⁄4” 1.2/0.5
+Performance
+304853A 3⁄4” 213⁄16” 5½” 1.6/0.7
+Max. working pressure: 160 psi (11 bar) NPT male threaded connections
+Operating temperature range: 32 to 180°F (0 to 82°C)
+304840A 1⁄2” 213⁄16” 55⁄16” 1.0/0.4
+Medium water
+Flow rate: see graph
+304850A 3⁄4” 213⁄16” 51⁄8” 1.2/0.5
+304860A 1” 213⁄16” 513⁄16” 1.6/0.7
+Connections:
+Main inlet/outlet: 1/2”, 3/4”, 1” NPT male, sweat, press, Sweat connections
+PEX crimp (ASTM F1807)
+or PEX expansion (ASTM F1960) union;
+304849A 1⁄2" 213⁄16” 49⁄16” 1.2/0.5
+1/2” and 3/4” NPT female union 304859A 3⁄4” 213⁄16” 51⁄16” 1.6/0.7
+The backflow preventer is certified to ASSE 1024 and CSA 64.5, and complies 304869A 1” 213⁄16” 513⁄16” 1.6/0.7
+with NSF/ANSI/CAN 372, low lead laws, and NSF/ANSI/CAN 61 (180°F/82°C
+Commercial Hot) as certified by ICC-ES file PMG-1720. It meets codes IPC, IRC
+and UPC for use in accordance with the US and Canadian plumbing codes. Wt.
+Code A B C
+(lb/kg)
+*Lay length
+Dimensions NPT male sweat Press connections* for press:
+304846A 1⁄2" 213⁄16” 53⁄16” 1.0/0.4 3 1⁄2 inch
+304856A 3⁄4” 213⁄16” 515⁄16” 1.2/0.5 3 3⁄8 inch
+304866A 1” 213⁄16” 57⁄8” 1.4/0.6 3 7⁄8 inch
+PEX crimp connections
+PEX crimp press*
+B
+304847A 1⁄2” 213⁄16” 67⁄16" 1.0/0.4
+NPT female
+304857A 3⁄4” 213⁄16” 67⁄16” 1.2/0.5
+A
+304867A 1” 213⁄16” 65⁄8” 1.4/0.6
+PEX expansion connections
+C
+PEX expansion
+304848A 1⁄2" 213⁄16” 77⁄16” 1.0/0.4
+304858A 3⁄4” 213⁄16” 77⁄16” 1.2/0.5
+304868A 1” 213⁄16” 77⁄16” 1.4/0.6
+=== page 2 ===
+Backflow
+Construction details
+Water flowing in the distribution piping of potable water
+The dual check backflow preventer 3048 series FlowShield DuC
+mains systems can become polluted with undesirable and
+includes two spring check valves as noted and Posi-Stop™ union
+hazardous substances caused by contaminated fluid return
+seals (A) on both ports.
+coming back from systems directly connected to the mains
+supply. This condition termed “backflow” occurs when: A A
+Spring check valves
+a) the pressure in the main water supply is lower than the
+pressure in the downstream system (back syphon), such as
+residential domestic water, hydronic or irrigation systems.
+This occurs when pipes break or when demand is very heavy
+by other systems connected to the same supply network;
+b) the pressure in the downstream system rises (back
+pressure) due, for example, a missing or malfunctioning
+expansion tank. Protection can be provided by installing a
+backflow preventer at the inlet from the mains supply or in the
+The dual check backflow preventer may be used, where permitted by
+internal distribution system. This will prevent contaminated
+current local legislation, as an alternative to other styles of backflow
+water from flowing back into potable systems.
+preventers.
+Operating principle
+Dual check backflow preventers have two independently
+operated spring-loaded check valves in series, within a
+solid body. In a back-pressure condition, the increase in
+pressure will force the checks to close tighter. If the second
+check is not working, the first check can act as a backup
+3048 series FlowShield DuC
+to stop the backpressure from going through the device. In
+dual check backflow preventer section view:
+a backsiphonage condition, a lower pressure condition is
+present at the inlet, and the loading of the checks will cause
+the checks to close.
+Installation:
+The Caleffi 3048 series FlowShield DuC dual check backflow Posi-Stop™ O-ring seals
+preventer is typically installed downstream of a water meter.
+A pressure reducing valve (if required) may be installed on
+either side of the dual check backflow preventer, all subject
+to local codes and standards.
+The dual check backflow preventer can be installed in either
+a horizontal or vertical pipe; the checks are spring loaded
+and will function independent of orientation. Verify that the
+flow direction matches the flow indication arrow on the dual
+check backflow preventer.
+If installing models with sweat tailpiece connectors, always Spring check valves
+sweat the connectors in place then install the 3048 union
+body. Attempting to sweat the fittings with the body in place
+may damage the check valves.
+For serviceability, always install the 3048 in an accessible
+location and protect the 3048 from potential freezing con-
+ditions. Installing isolation valves is highly recommended to
+permit disassembly for servicing.
+When installing the dual check backflow preventer, make
+sure not to over-tighten the connections. Over time, a mate-
+rial stress failure can occur with subsequent water leakage
+causing damage.
+Typical dual check backflow preventer pit installation:
+WATER METER DUAL CHECK
+DIRECTION
+OF FLOW
+=== page 3 ===
+Hydraulic characteristics
+psi kPa
+1166 110
+1144 96
+1/2”
+1122 1” 83
+1100 3/4” 69
+88 55
+66 42
+44 28
+22 14
+0
+00
+0 2.5 5 7.5 10 12.5 15 17.5 20 22.5 25 27.5 30 32.5 35 37.5 GPM
+0 2.5 5 7.5 10 12.5 15 17.5 20 22.5 25 27.5 30 32.5 35 37.5
+0 9.5 28 47 66 85 104 123 142 LPM
+3048 series 1/2 inch 3/4 inch 1 inch
+Cv 8.0 9.5 10.5
+Isolation ball valve Replacement fittings
+Low lead Male x Female union fits valves Refer to current Caleffi Plumbing and Hydronics Catalog, fittings and
+between body and tailpiece. See below. miscellaneous components section for replacement tailpiece, union nut
+and washer parts.
+290030.......................................................isolation ball valve 1" M x 1" F union
+=== page 4 ===
+Find us in
+find BIM Revit files and system templates at
+https://get.caleffi.info/specpoint https://bim.caleffi.com/en-us
+SPECIFICATION SUMMARIES
+3048 series FlowShield™ DuC
+Dual check backflow preventer. Connections ½”, ¾”, 1” NPT male, sweat, press, PEX crimp and PEX expansion union. PEX crimp
+fittings must comply with ASTM F 1807. PEX expansion fittings must comply with ASTM F 1960. DZR low-lead brass CW724R-M
+body retaining ring and lock nut drain (<0.25% lead content) as certified by ICC-ES file PMG-1720. Meets requirements of NSF/ANSI/
+CAN 372 and NSF/ANSI/CAN 61 (180°F/82°C Commercial Hot). Certifed to ASSE 1024 and CSA 64.5 by ICC-ES. EPDM, PPO check
+valves. Stainless steel spring. Peroxide-cured EPDM o-ring seals. Water usage. Maximum working pressure 160 psi (11 bar). Working
+temperature range 32 to 180 degrees F (0 to 82 degrees C). Provide with optional inlet and outlet isolation ball valves, code 290030,
+separately sourced, field installed.
+We reserve the right to make changes and improvements to the products and related data in this publication, at any time and without prior notice.
+The technical brochure on www.caleffi.com always has the most up-to-date version of the document, which should be used for technical verification.
+Caleffi North America, Inc.
+3883 W. Milwaukee Road, Milwaukee, WI 53208
+Tel: 414-238-2360 · Fax: 414-238-2366
+Technical Support: 414-338-6338 / techsupport.us@caleffi.com
+sales@caleffi.com · www.caleffi.com
+© Copyright 2024 Caleffi North America, Inc.
