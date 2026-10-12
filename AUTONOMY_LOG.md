@@ -539,3 +539,8 @@ Measured on bray, crane, cimberio (Sioux Chief re-processed from cache at the en
 - Result: families found 54 (current 93), 3,749 families vs 700 (current 6,324). 360 of 700 key families had every
   page dropped by the listing-page rule (more than 15 same-section links). Not fixed: no improvement rounds left; recorded as the top
   recommendation. Grouping: 84 of 89 multi-page families correct, 5 wrong (series-wide spec sheets), 769 unsure pairs.
+- Regression fix with tests (`f4ca6bb`): the first Sioux Chief L1 run lost 718 key pages (families found 54 → 43)
+  as "listing page". The simulator set `has_spec_table` only for 3+ label/value rows (OLD_AGENT_IMPROVEMENTS.md says
+  2+), and `has_spec_table: false` removed even a single recognised spec value, so pages fell under the product
+  threshold. Now false only removes the spec-table signal, and the simulator uses 2+ rows. All L1 sites were
+  regenerated and re-run; Bray's earlier L1 "+1 family correct" came from the same mechanism and is gone (macro 74.60 → 74.60).
