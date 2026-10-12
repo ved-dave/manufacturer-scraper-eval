@@ -584,3 +584,7 @@ Measured on bray, crane, cimberio (Sioux Chief re-processed from cache at the en
   - Stopped there at the owner's decision; the remaining 174 were not asked. Each answer can merge at most 2
     families, so even a perfect run could not get near 700, and most duplicates never become a question. Signed out
     of Claude Code afterwards. Next lever (not tested): the site's category cards as a grouping clue.
+
+### Site profile (owner request: "build the site profile tool")
+- Built `profile` command and `process --profile` (opt-in). Shapes: Sioux Chief category_cards, Bray family_pages, Crane and Cimberio model_pages.
+- Bray/Crane/Cimberio unchanged. Sioux Chief: 4,574 → 603 families, duplicates score 0.14 → 0.93, variants found 19 → 83, CAD 57 → 100; main-doc precision 92 → 46, so keep rule fails vs R4 and the profile stays opt-in. Details in REPORT_APPROACH_B.md §14.

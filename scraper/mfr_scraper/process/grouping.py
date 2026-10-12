@@ -80,12 +80,15 @@ def page_info(rec):
             'single': bool(ident) and not is_whole_family(rec)}
 
 
-def group_pages(recs, ctx_of=lambda r: {}, links=()):
+def group_pages(recs, ctx_of=lambda r: {}, links=(), fixed=None, fixed_ev=None):
     """-> (groups [[rec]], evidence {group index: [str]}, unsure [dict]).
-    links: verified (url_a, url_b, evidence) answers from the resolver, merged as they are."""
+    links: verified (url_a, url_b, evidence) answers from the resolver, merged as they are.
+    fixed: {rec index: profile family} from the site profile. Those pages are grouped by the profile first; no rule
+    or link joins two different profile families (rules only add pages the profile does not place)."""
     n = len(recs)
     parent = list(range(n))
     why = collections.defaultdict(list)
+    fam = dict(fixed or {})
 
     def find(i):
         while parent[i] != i:
@@ -96,12 +99,21 @@ def group_pages(recs, ctx_of=lambda r: {}, links=()):
     def union(i, j, ev):
         a, b = find(i), find(j)
         if a != b:
+            if a in fam and b in fam and fam[a] != fam[b]:
+                return
             parent[b] = a
             why[a] += why.pop(b, [])
+            if b in fam:
+                fam[a] = fam.pop(b)
         if ev not in why[a]:
             why[a].append(ev)
 
     info = [page_info(r) for r in recs]
+    first_of = {}
+    for i in sorted(fixed or {}):
+        j = first_of.setdefault(fixed[i], i)
+        if j != i:
+            union(j, i, (fixed_ev or {}).get(fixed[i], f'P1 site profile family {fixed[i]}'))
     # R1
     buckets = collections.defaultdict(list)
     for i, inf in enumerate(info):
@@ -178,10 +190,13 @@ def group_pages(recs, ctx_of=lambda r: {}, links=()):
     for i, inf in enumerate(info):
         if inf['single'] and inf['stem'] and inf['leaf']:
             seen[(inf['leaf'], inf['stem'])].add(root_of_group[find(i)])
+    fam_of_group = {root_of_group[r]: f for r, f in fam.items() if r in root_of_group}
     for (leaf, stem), gis in seen.items():
         if len(gis) < 2:
             continue
         gis = sorted(gis)
+        if len({fam_of_group.get(g) for g in gis}) == len(gis) and all(g in fam_of_group for g in gis):
+            continue   # the site profile already says these are different families
         names = {gi: info[recs.index(groups[gi][0])]['name_key'] for gi in gis}
         for gi in gis[1:]:
             unsure.append({'group': gi, 'other_group': gis[0], 'leaf': leaf, 'stem': stem,

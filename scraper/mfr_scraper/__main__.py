@@ -25,7 +25,7 @@ def peak_rss_mb():
 
 def main(argv=None):
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
-    ap.add_argument('command', choices=['run', 'discover', 'process', 'resolve'])
+    ap.add_argument('command', choices=['run', 'discover', 'process', 'resolve', 'profile'])
     ap.add_argument('--site', required=True, help='name for outputs; an evaluation site, or any name with --input-url')
     ap.add_argument('--input-url', help="manufacturer homepage (needed for sites not in harness/config/sites.json)")
     ap.add_argument('--use-config-hosts', action='store_true', help='use configured allowed hosts instead of auto-detection')
@@ -36,6 +36,7 @@ def main(argv=None):
     ap.add_argument('--links', help='process: link file, L0 (url,url_type CSV) or L1 (JSONL)')
     ap.add_argument('--level', choices=['L0', 'L1'], help='process: link file level (default: by extension)')
     ap.add_argument('--offline', action='store_true', help='process: never request; use only cached responses')
+    ap.add_argument('--profile', help='process: group families by this site profile (<site>.profile.json from the profile command)')
     ap.add_argument('--resolutions', help='process: apply verified resolver answers (<site>.resolutions.jsonl)')
     ap.add_argument('--decisions', help='resolve: the run\'s <site>.decisions.jsonl')
     ap.add_argument('--model', default='claude-sonnet-4-5', help='resolve: model id')
@@ -63,12 +64,26 @@ def main(argv=None):
         print(f'wrote {out}')
         return 0
 
+    if args.command == 'profile':
+        if not args.links:
+            ap.error('profile needs --links <file>')
+        from .process.profile import build_profile, write_profile
+        from .process.run import ProcessRun
+        runner = ProcessRun(args.site, args.links, level=args.level, out_dir=args.out, input_url=args.input_url,
+                            refresh=args.refresh, offline=args.offline)
+        prof = build_profile(runner)
+        path = write_profile(prof, args.out)
+        print(json.dumps({k: prof[k] for k in ('family_shape', 'reason', 'summary', 'sample', 'shapes')}, indent=1))
+        print(f'{len(prof["families"])} card families; wrote {path}')
+        return 0
+
     if args.command == 'process':
         if not args.links:
             ap.error('process needs --links <file>')
         from .process.run import ProcessRun, write_process_outputs
         runner = ProcessRun(args.site, args.links, level=args.level, out_dir=args.out, input_url=args.input_url,
-                            refresh=args.refresh, offline=args.offline, resolutions=args.resolutions)
+                            refresh=args.refresh, offline=args.offline, resolutions=args.resolutions,
+                            profile=args.profile)
         run = runner.run()
         path = write_process_outputs(run, runner.decisions, args.out)
         print(f'\nwrote {path} and {args.site}.decisions.jsonl')

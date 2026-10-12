@@ -537,3 +537,65 @@ Series sillcock" with 118-C208). The quotes are real, so the quote check cannot 
 that covers pairs the rules never ask about. A candidate (not tested) is the site's own category cards: the key's
 families were built from them (family = category + catalog name on the card). They are site data, not the key. Check
 first whether the old agent's link list contains those category pages.
+
+## 14. Site profile (`profile` command, `process --profile`)
+
+**What it is:** a step that runs after the old agent and before grouping. It reads the old agent's link file and saved
+page copies (no new crawling), works out how the manufacturer defines a family, and writes `<site>.profile.json`.
+Grouping then puts the pages the profile covers into its families first. Rules R1–R4 only handle the other pages, and
+no rule or resolver link may join two families the profile keeps apart. It is opt-in: without `--profile`, processing
+is unchanged.
+
+```
+python -m mfr_scraper profile --site sioux-chief --links ../test/sioux-chief/output.csv --offline --out <dir>
+python -m mfr_scraper process --site sioux-chief --links ../test/sioux-chief/output.csv --offline --profile <dir>/sioux-chief.profile.json --out <dir>
+```
+
+**How it decides** (`process/profile.py`):
+1. Group links by URL pattern, open up to 5 pages per pattern, and look for a repeated "card" layout (repeated small
+   elements that each carry a link and a part number).
+2. If a pattern has cards, read every page of that pattern. A card's name plus its category page is a family.
+3. Score five shapes on about 50 sampled product pages (coverage, contradictions, example pages): `category_cards`,
+   `family_pages`, `item_tables`, `shared_sheet`, `model_pages`. Pick the first that passes its bar, otherwise
+   `part_number_rules`. A shared sheet is evidence only: one sheet can cover several families (Cimberio 778V/778VS).
+
+**Shapes found** (3–15 s per site from saved copies):
+
+| Site | Shape | Evidence |
+|---|---|---|
+| Sioux Chief | category_cards | cards name the family of 100% of sampled product pages, 0% contradictions; 164 category pages read, 698 card families |
+| Bray | family_pages | 88% of sampled product pages list several part numbers |
+| Crane | model_pages | 95% of sampled product pages are one model |
+| Cimberio | model_pages | 91% of sampled product pages are one model |
+
+Bray, Crane and Cimberio already followed these shapes under R1–R4. Their scores with the profile are identical to R4.
+
+**Sioux Chief** (offline, R4 baseline → first profile → profile with the most-specific-page rule):
+
+| | R4 | Profile v0 | Profile v1 |
+|---|---|---|---|
+| Families produced (key: 700) | 4,574 | 572 | 603 |
+| Duplicates score | 0.137 | 0.934 | 0.926 |
+| Families found | 90.1 | 89.3 | 89.3 |
+| Main docs found / correct | 39.3 / 91.7 | 46.4 / 33.3 | 46.4 / 46.4 |
+| Other docs found / correct | 86.7 / 96.3 | 86.7 / 83.9 | 86.7 / 89.7 |
+| CAD found / correct | 57.1 / 100 | 100 / 77.8 | 100 / 100 |
+| Images found / correct | 39.6 / 61.1 | 46.9 / 45.6 | 51.3 / 52.3 |
+| Variants found / correct | 19.0 / 89.5 | 83.2 / 40.0 | 83.2 / 47.8 |
+| Specs / completeness | 16.3 / 31.8 | 19.4 / 36.4 | 19.6 / 36.4 |
+| Price availability | 19.0 | 83.2 | 83.2 |
+| Product pages placed by the profile | – | – | 5,934 of 5,981 |
+| Offline processing time | 51:32 | ~14 min | 26:44 |
+
+- **v0 → v1 fix:** a part number listed on several category pages belongs to the one with the fewest cards (the most
+  specific). Parent categories repeat their sub-categories' cards under the same names, and v0 merged them. Found by
+  comparing with the key; the rule itself only uses site data.
+- **Keep rule:** v1 fails it against R4 (macro 46.05 → 64.86, but main-doc precision 91.7 → 46.4). v0 → v1 passes
+  (+7.4, no drops). So the profile stays opt-in, not the default.
+- **Why precision is still down:** 2 of the 15 deeply labelled families sit in profile families that the key splits:
+  643WG2 ("Water Heater Connector", 6 key families, 184 variants vs 46) and 630-C2412 (4 key families). By the key,
+  35 of 603 output families mix key families. These are mostly cards that the site itself lists as one name on one
+  page, which the key split by product line by hand (`sioux-chief.json` gold_meta: 28 hand splits). Product-page
+  breadcrumbs do not help here: their last step is the part number itself.
+- **Next options (not built):** split a card family when its part numbers' names or spec sheets point to different
+  product lines; or count these as one family in the key, if the team agrees. Either has to be checked on a new site.
